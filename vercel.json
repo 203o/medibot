@@ -1,7 +1,9 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    { "source": "/", "destination": "/medicalbot.html", "permanent": false }
+  ],
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://YOUR_RENDER_BACKEND.onrender.com/api/$1" },
-    { "source": "/", "destination": "/medicalbot.html" }
+    { "source": "/api/(.*)", "destination": "https://medibot-backend-jvve.onrender.com/api/$1" }
   ]
 }
