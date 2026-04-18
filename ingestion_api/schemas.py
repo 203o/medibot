@@ -30,6 +30,7 @@ class IngestResponse(BaseModel):
     openalex_count: int
     output_dir: str
     manifest_path: str
+    combined_records: dict | None = None
 
 
 class SemanticSearchRequest(BaseModel):

@@ -348,4 +348,5 @@ def ingest_sources(
         "openalex_count": len(openalex_result.get("records", [])),
         "output_dir": str(output_dir),
         "manifest_path": manifest_path,
+        "combined_records": combined_records,
     }

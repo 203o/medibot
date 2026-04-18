@@ -138,6 +138,27 @@ async function readCombinedRecords(outputDir) {
     };
 }
 
+function readCombinedRecordsFromPayload(combinedPayload = {}) {
+    const payload = combinedPayload || {};
+    const semanticMap = new Map(
+        (payload.semantic_hits || []).map((hit) => [`${hit.source}:${hit.doc_id}`, hit])
+    );
+    return {
+        filePath: "",
+        payload,
+        queryPlan: {
+            originalQuery: payload.query || "",
+            expandedQueries: payload.expanded_queries || [],
+            heuristicFallbacks: payload.heuristic_fallbacks || [],
+            finalQueries: payload.query_fallbacks || [],
+            expansion: payload.query_expansion || {}
+        },
+        publications: (payload.pubmed_records || []).map((record) => normalizePubMedRecord(record, semanticMap.get(`pubmed:${record.pmid}`))),
+        openalexPublications: (payload.openalex_records || []).map((record) => normalizeOpenAlexRecord(record, semanticMap.get(`openalex:${record.openalex_id}`))),
+        trials: (payload.clinical_trials_records || []).map((record) => normalizeClinicalTrialRecord(record, semanticMap.get(`clinicaltrials:${record.nct_id}`)))
+    };
+}
+
 async function persistIngestionRun(sessionId, response, combinedCount) {
     const doc = {
         sessionId,
@@ -186,7 +207,12 @@ async function ingestEvidence(intent, options = {}) {
     }
 
     const payload = await response.json();
-    const combined = await readCombinedRecords(payload.output_dir);
+    let combined;
+    if (payload.combined_records && typeof payload.combined_records === "object") {
+        combined = readCombinedRecordsFromPayload(payload.combined_records);
+    } else {
+        combined = await readCombinedRecords(payload.output_dir);
+    }
     const normalized = {
         runId: payload.run_id,
         outputDir: payload.output_dir,
