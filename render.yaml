@@ -89,7 +89,7 @@ services:
       - key: NODE_VERSION
         value: 20.18.0
       - key: FASTAPI_INGESTION_URL
-        value: https://medibot-ingestion.onrender.com
+        value: https://medibot-ingestion-393847689538.europe-west1.run.app
       - key: PORT
         value: 10000
       - key: NODE_ENV
