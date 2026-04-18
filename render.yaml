@@ -7,6 +7,76 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.9
+      - key: NODE_ENV
+        value: production
+      - key: ENABLE_LLM_QUERY_EXPANSION
+        value: "false"
+      - key: QUERY_EXPANSION_MAX
+        value: "3"
+      - key: QUERY_EXPANSION_TIMEOUT_SEC
+        value: "8"
+      - key: LLM_QUERY_EXPANSION_CONDITIONAL
+        value: "true"
+      - key: HF_QUERY_EXPANSION_MODEL
+        value: meta-llama/Llama-3.1-8B-Instruct
+      - key: ENABLE_LLM_SEMANTIC_CLASSIFIER
+        value: "false"
+      - key: LLM_CLASSIFY_MAX_DOCS
+        value: "8"
+      - key: HF_SEMANTIC_MODEL
+        value: meta-llama/Llama-3.1-8B-Instruct
+      - key: ENABLE_UNIFIED_REASONING_HEAD
+        value: "true"
+      - key: ENABLE_LLM_TIERED_SYNTHESIS
+        value: "true"
+      - key: STRICT_LLM_CHAT
+        value: "false"
+      - key: CHAT_TONE_MODE
+        value: clinical
+      - key: HF_SYNTHESIS_MODEL
+        value: meta-llama/Llama-3.1-8B-Instruct
+      - key: HF_SYNTHESIS_MODEL_FALLBACKS
+        value: Qwen/Qwen2.5-7B-Instruct
+      - key: LLM_SYNTHESIS_MAX_CHUNKS
+        value: "6"
+      - key: LLM_SYNTHESIS_MAX_TOKENS
+        value: "420"
+      - key: LLM_SYNTHESIS_TITLE_CHARS
+        value: "110"
+      - key: LLM_SYNTHESIS_SUMMARY_CHARS
+        value: "180"
+      - key: LLM_SYNTHESIS_HTTP_TIMEOUT_MS
+        value: "25000"
+      - key: LLM_SYNTHESIS_TOTAL_ATTEMPTS
+        value: "2"
+      - key: LLM_SYNTHESIS_RETRY_BACKOFF_MS
+        value: "800"
+      - key: LLM_SYNTHESIS_ALLOW_AGGRESSIVE_RETRY
+        value: "false"
+      - key: LLM_SEMANTIC_TIMEOUT_SEC
+        value: "15"
+      - key: FOLLOWUP_REUSE_MIN_MATCHED
+        value: "5"
+      - key: FOLLOWUP_REUSE_MIN_COVERAGE
+        value: "0.35"
+      - key: FAISS_INDEX_NAME
+        value: medibot-evidence
+      - key: FAISS_NAMESPACE
+        value: pubmed-ai
+      - key: FAISS_STORAGE_DIR
+        value: data/faiss
+      - key: PUBMED_TOOL
+        value: medibot
+      - key: PUBMED_EMAIL
+        value: you@example.com
+      - key: LLM_CHAT_PROVIDER
+        value: huggingface
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      - key: HF_TOKEN
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
 
   - type: web
     name: medibot-backend
@@ -17,6 +87,26 @@ services:
       - key: NODE_VERSION
         value: 20.18.0
       - key: FASTAPI_INGESTION_URL
-        value: https://YOUR_INGESTION_SERVICE.onrender.com
+        value: https://medibot-ingestion.onrender.com
       - key: PORT
         value: 10000
+      - key: NODE_ENV
+        value: production
+      - key: INGESTION_MAX_RESULTS
+        value: "40"
+      - key: INGESTION_SOURCE_FETCH_K
+        value: "20"
+      - key: FAISS_TOP_K
+        value: "40"
+      - key: RANKED_DOC_K
+        value: "40"
+      - key: SURFACED_EVIDENCE_K
+        value: "8"
+      - key: OPENALEX_SPARSE_THRESHOLD
+        value: "12"
+      - key: FOLLOWUP_REUSE_MIN_MATCHED
+        value: "5"
+      - key: FOLLOWUP_REUSE_MIN_COVERAGE
+        value: "0.35"
+      - key: MONGODB_URI
+        sync: false
