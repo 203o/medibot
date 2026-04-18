@@ -1,0 +1,1015 @@
+{
+  "enabled": true,
+  "indexed_chunks": 20,
+  "matches": [
+    {
+      "id": "pubmed:28574057:1",
+      "score": 0.6570907235145569,
+      "metadata": {
+        "id": "pubmed:28574057:1",
+        "doc_id": "28574057",
+        "source": "pubmed",
+        "title": "New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28574057/",
+        "text": "Current cancer treatments include surgical intervention, radiation, and taking chemotherapeutic drugs, which often kill the healthy cells and result in toxicity in patients."
+      }
+    },
+    {
+      "id": "pubmed:32231332:2",
+      "score": 0.613078236579895,
+      "metadata": {
+        "id": "pubmed:32231332:2",
+        "doc_id": "32231332",
+        "source": "pubmed",
+        "title": "Adverse cardiac effects of cancer therapies: cardiotoxicity and arrhythmia.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32231332/",
+        "text": "Remarkable progress has been made in the development of new therapies for cancer, dramatically changing the landscape of treatment approaches for several malignancies and continuing to increase patient survival."
+      }
+    },
+    {
+      "id": "pubmed:30955514:2",
+      "score": 0.5984981060028076,
+      "metadata": {
+        "id": "pubmed:30955514:2",
+        "doc_id": "30955514",
+        "source": "pubmed",
+        "title": "Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30955514/",
+        "text": "Treatment is determined by subtype and stage of cancer; there are several personalized therapies that did not exist just a few years ago."
+      }
+    },
+    {
+      "id": "pubmed:34234831:0",
+      "score": 0.5883814096450806,
+      "metadata": {
+        "id": "pubmed:34234831:0",
+        "doc_id": "34234831",
+        "source": "pubmed",
+        "title": "Therapeutics for paediatric oncological emergencies.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34234831/",
+        "text": "With advancements in the field of oncology, cancer survival rates have improved dramatically but modern cancer treatments also come with an increasing number of disease and treatment-associated complications."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3165143074:0",
+      "score": 0.5846155881881714,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3165143074:0",
+        "doc_id": "https://openalex.org/W3165143074",
+        "source": "openalex",
+        "title": "Small molecules in targeted cancer therapy: advances, challenges, and future perspectives",
+        "study_type": "review",
+        "year": "2021",
+        "url": "https://doi.org/10.1038/s41392-021-00572-w",
+        "text": "Due to the advantages in efficacy and safety compared with traditional chemotherapy drugs, targeted therapeutic drugs have become mainstream cancer treatments."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2003141590:0",
+      "score": 0.5768744945526123,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2003141590:0",
+        "doc_id": "https://openalex.org/W2003141590",
+        "source": "openalex",
+        "title": "Conventional cancer therapy: promise broken or promise delayed?",
+        "study_type": "review",
+        "year": "1998",
+        "url": "https://doi.org/10.1016/s0140-6736(98)90327-0",
+        "text": "Conventional cancer therapy: promise broken or promise delayed?"
+      }
+    },
+    {
+      "id": "pubmed:28169842:0",
+      "score": 0.5699519515037537,
+      "metadata": {
+        "id": "pubmed:28169842:0",
+        "doc_id": "28169842",
+        "source": "pubmed",
+        "title": "Challenges in Management of Squamous Cell Carcinoma of the Anus in New England and Across the United States: A Review of the National Cancer Data Base.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28169842/",
+        "text": "A review of available data from the American College of Surgeons Committee on Cancer National Cancer Data Base focused on incidence, sex, age, stage at diagnosis, distance traveled for care, and utilization of therapy as first course of treatment (FCT)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05597852:0",
+      "score": 0.5606295466423035,
+      "metadata": {
+        "id": "clinicaltrials:NCT05597852:0",
+        "doc_id": "NCT05597852",
+        "source": "clinicaltrials",
+        "title": "Using Rectal Hydrogel Spacer for Salvage SABR in Prostate Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2022",
+        "url": "https://clinicaltrials.gov/study/NCT05597852",
+        "text": "Primary treatment of prostate cancer includes surgery or radiotherapy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01996696:0",
+      "score": 0.5520136952400208,
+      "metadata": {
+        "id": "clinicaltrials:NCT01996696:0",
+        "doc_id": "NCT01996696",
+        "source": "clinicaltrials",
+        "title": "Prevention of Metabolic Syndrome and Increased Weight Using Metformin Concurrent to Androgen Deprivation Therapy and Radiotherapy for Locally Advanced Adenocarcinoma of the Prostate",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT01996696",
+        "text": "In current clinical practice, an acceptable standard treatment for locally advanced prostate cancer is radiation therapy in combination with hormone therapy (called Treatment B or Group B in this study)."
+      }
+    },
+    {
+      "id": "pubmed:26297204:0",
+      "score": 0.5518501996994019,
+      "metadata": {
+        "id": "pubmed:26297204:0",
+        "doc_id": "26297204",
+        "source": "pubmed",
+        "title": "Lung cancer: Biology and treatment options.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26297204/",
+        "text": "Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy."
+      }
+    },
+    {
+      "id": "pubmed:40016063:0",
+      "score": 0.5488854050636292,
+      "metadata": {
+        "id": "pubmed:40016063:0",
+        "doc_id": "40016063",
+        "source": "pubmed",
+        "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40016063/",
+        "text": "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents."
+      }
+    },
+    {
+      "id": "pubmed:37182990:1",
+      "score": 0.5456651449203491,
+      "metadata": {
+        "id": "pubmed:37182990:1",
+        "doc_id": "37182990",
+        "source": "pubmed",
+        "title": "Advances in Radiotherapy for Breast Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182990/",
+        "text": "Radiation therapy is an important component in the multimodal management of breast cancer, including early stage and locally advanced breast cancers, as well as metastatic cases."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00033553:2",
+      "score": 0.5445473790168762,
+      "metadata": {
+        "id": "clinicaltrials:NCT00033553:2",
+        "doc_id": "NCT00033553",
+        "source": "clinicaltrials",
+        "title": "Combination Chemotherapy and Computer-Planned Radiation Therapy in Treating Patients With Unresectable Stage III Non-Small Cell Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2016",
+        "url": "https://clinicaltrials.gov/study/NCT00033553",
+        "text": "It is not yet known which chemotherapy and/or radiation therapy regimen is more effective in treating non-small cell lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:31836455:1",
+      "score": 0.5424337387084961,
+      "metadata": {
+        "id": "pubmed:31836455:1",
+        "doc_id": "31836455",
+        "source": "pubmed",
+        "title": "Unraveling cancer lineage drivers in squamous cell carcinomas.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31836455/",
+        "text": "Such basic knowledge will be helpful to inform the clinics for better stratifying cancer patients, revealing novel drug targets and providing effective treatment options."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06634056:0",
+      "score": 0.5389233827590942,
+      "metadata": {
+        "id": "clinicaltrials:NCT06634056:0",
+        "doc_id": "NCT06634056",
+        "source": "clinicaltrials",
+        "title": "Pneumonitis Prevention Protocol Using Pentoxifylline and α-tocopherol In Stage III Non-Small Cell Lung Cancer Patients Undergoing Chemoradiation",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06634056",
+        "text": "Currently, the standard of care treatment for newly diagnosed, inoperable stage III non-small cell lung cancer is radiotherapy (RT) with concurrent chemotherapy, followed by immune checkpoint inhibitors (ICI)."
+      }
+    },
+    {
+      "id": "pubmed:34862216:1",
+      "score": 0.5374418497085571,
+      "metadata": {
+        "id": "pubmed:34862216:1",
+        "doc_id": "34862216",
+        "source": "pubmed",
+        "title": "Lung cancer for the non-respiratory physician.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34862216/",
+        "text": "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment."
+      }
+    },
+    {
+      "id": "pubmed:33008499:1",
+      "score": 0.5374162793159485,
+      "metadata": {
+        "id": "pubmed:33008499:1",
+        "doc_id": "33008499",
+        "source": "pubmed",
+        "title": "Immunotherapy for Metastatic Prostate Cancer: Current and Emerging Treatment Options.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33008499/",
+        "text": "The advent of immunotherapy has revolutionized cancer treatment."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00516022:2",
+      "score": 0.5368590950965881,
+      "metadata": {
+        "id": "clinicaltrials:NCT00516022:2",
+        "doc_id": "NCT00516022",
+        "source": "clinicaltrials",
+        "title": "Mistletoe as Complementary Treatment in Patients With Advanced Non-small-cell Lung Cancer (NSCLC), Treated With Carboplatin/Gemcitabine Chemotherapy Combination.",
+        "study_type": "INTERVENTIONAL",
+        "year": "2011",
+        "url": "https://clinicaltrials.gov/study/NCT00516022",
+        "text": "Other clinical data, although not well based is that complementary treatment when used in combination with the common oncology treatment has tumor response effect."
+      }
+    },
+    {
+      "id": "pubmed:41015051:0",
+      "score": 0.5365409851074219,
+      "metadata": {
+        "id": "pubmed:41015051:0",
+        "doc_id": "41015051",
+        "source": "pubmed",
+        "title": "The global, regional, and national burden of cancer, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41015051/",
+        "text": "Effectively and sustainably addressing cancer burden globally will require comprehensive national and international efforts that consider health systems and context in the development and implementation of cancer-control strategies across the continuum of prevention, diagnosis, and treatment."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04461418:0",
+      "score": 0.5365220308303833,
+      "metadata": {
+        "id": "clinicaltrials:NCT04461418:0",
+        "doc_id": "NCT04461418",
+        "source": "clinicaltrials",
+        "title": "Accelerated Checkpoint Therapy for Any Steroid Dependent Patient With Brain Metastases",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04461418",
+        "text": "Treatment with immunotherapy has been shown to be effective in a wide range of cancers, including melanoma skin cancer, lung cancer and kidney cancer, among others."
+      }
+    },
+    {
+      "id": "pubmed:38600814:1",
+      "score": 0.5355486869812012,
+      "metadata": {
+        "id": "pubmed:38600814:1",
+        "doc_id": "38600814",
+        "source": "pubmed",
+        "title": "Management of malignant superior vena cava syndrome.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38600814/",
+        "text": "Treatment approaches most commonly employ chemotherapy and/or radiation therapy depending on the primary histology."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04293562:2",
+      "score": 0.5334554314613342,
+      "metadata": {
+        "id": "clinicaltrials:NCT04293562:2",
+        "doc_id": "NCT04293562",
+        "source": "clinicaltrials",
+        "title": "A Study to Compare Standard Chemotherapy to Therapy With CPX-351 and/or Gilteritinib for Patients With Newly Diagnosed AML With or Without FLT3 Mutations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT04293562",
+        "text": "Drugs used in chemotherapy, such as daunorubicin, cytarabine, and gemtuzumab ozogamicin, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02828358:2",
+      "score": 0.5331683158874512,
+      "metadata": {
+        "id": "clinicaltrials:NCT02828358:2",
+        "doc_id": "NCT02828358",
+        "source": "clinicaltrials",
+        "title": "Azacitidine and Combination Chemotherapy in Treating Infants With Acute Lymphoblastic Leukemia and KMT2A Gene Rearrangement",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02828358",
+        "text": "Drugs used in chemotherapy, such as methotrexate, prednisolone, daunorubicin hydrochloride, cytarabine, dexamethasone, vincristine sulfate, pegaspargase, hydrocortisone sodium succinate, azacitidine, cyclophosphamide, mercaptopurine, leucovorin calcium, and thioguanine work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      }
+    },
+    {
+      "id": "pubmed:31508997:0",
+      "score": 0.5319178700447083,
+      "metadata": {
+        "id": "pubmed:31508997:0",
+        "doc_id": "31508997",
+        "source": "pubmed",
+        "title": "Congenital mesoblastic nephroma: a single-centre series.",
+        "study_type": "Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31508997/",
+        "text": "Surgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02498613:0",
+      "score": 0.5312737226486206,
+      "metadata": {
+        "id": "clinicaltrials:NCT02498613:0",
+        "doc_id": "NCT02498613",
+        "source": "clinicaltrials",
+        "title": "A Phase 2 Study of Cediranib in Combination With Olaparib in Advanced Solid Tumors",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02498613",
+        "text": "This phase II trial studies cediranib maleate in combination with olaparib in treating patients with solid tumors that have spread to other parts of the body (advanced/metastatic) or cannot be removed by surgery (unresectable), including breast cancer, non-small cell lung cancer, small cell lung cancer, and pancreatic cancer."
+      }
+    },
+    {
+      "id": "pubmed:37306641:0",
+      "score": 0.5282199382781982,
+      "metadata": {
+        "id": "pubmed:37306641:0",
+        "doc_id": "37306641",
+        "source": "pubmed",
+        "title": "The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.",
+        "study_type": "Practice Guideline, Journal Article, Consensus Statement",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37306641/",
+        "text": "Novel targeted therapy and immunotherapy drugs have recently been approved for use in patients with surgically resectable lung cancer."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00074152:1",
+      "score": 0.5266782641410828,
+      "metadata": {
+        "id": "clinicaltrials:NCT00074152:1",
+        "doc_id": "NCT00074152",
+        "source": "clinicaltrials",
+        "title": "Adjuvant Chemotherapy in Treating Women Who Have Undergone Resection for Relapsed Breast Cancer; Chemotherapy as Adjuvant for LOcally Recurrent Breast Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00074152",
+        "text": "It is not yet known whether chemotherapy is effective in treating women who have undergone surgery and radiation therapy for relapsed breast cancer."
+      }
+    },
+    {
+      "id": "pubmed:35246609:2",
+      "score": 0.5262117385864258,
+      "metadata": {
+        "id": "pubmed:35246609:2",
+        "doc_id": "35246609",
+        "source": "pubmed",
+        "title": "Focal prostate cancer therapy in the era of multiparametric MRI: a review of options and outcomes.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35246609/",
+        "text": "Primary outcomes were post-treatment cancer-free rates, in-field/out-of-field recurrence rates, and rates of conversion to radical therapy."
+      }
+    },
+    {
+      "id": "pubmed:37182990:0",
+      "score": 0.5253990888595581,
+      "metadata": {
+        "id": "pubmed:37182990:0",
+        "doc_id": "37182990",
+        "source": "pubmed",
+        "title": "Advances in Radiotherapy for Breast Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182990/",
+        "text": "This article discusses the latest advances in the radiotherapeutic management of breast cancer, especially focusing on the technological advances in radiation treatment planning and techniques that have exploited the understanding of radiation biology."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W1968004526:0",
+      "score": 0.525062620639801,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W1968004526:0",
+        "doc_id": "https://openalex.org/W1968004526",
+        "source": "openalex",
+        "title": "The High Cost of Cancer Drugs and What We Can Do About It",
+        "study_type": "article",
+        "year": "2012",
+        "url": "https://doi.org/10.1016/j.mayocp.2012.07.007",
+        "text": "The High Cost of Cancer Drugs and What We Can Do About It"
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02883049:1",
+      "score": 0.5232533812522888,
+      "metadata": {
+        "id": "clinicaltrials:NCT02883049:1",
+        "doc_id": "NCT02883049",
+        "source": "clinicaltrials",
+        "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed High-Risk B Acute Lymphoblastic Leukemia and Ph-Like TKI Sensitive Mutations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02883049",
+        "text": "Chemotherapy drugs, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00070564:1",
+      "score": 0.5230510234832764,
+      "metadata": {
+        "id": "clinicaltrials:NCT00070564:1",
+        "doc_id": "NCT00070564",
+        "source": "clinicaltrials",
+        "title": "S0221 Adjuvant Doxorubicin, Cyclophosphamide, and Paclitaxel in Treating Patients With Breast Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT00070564",
+        "text": "It is not yet known which combination chemotherapy regimen is more effective in treating resected breast cancer."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00103285:2",
+      "score": 0.521417498588562,
+      "metadata": {
+        "id": "clinicaltrials:NCT00103285:2",
+        "doc_id": "NCT00103285",
+        "source": "clinicaltrials",
+        "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Acute Lymphoblastic Leukemia",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT00103285",
+        "text": "Giving more than one drug (combination chemotherapy) may kill more cancer cells."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01414608:1",
+      "score": 0.5203686356544495,
+      "metadata": {
+        "id": "clinicaltrials:NCT01414608:1",
+        "doc_id": "NCT01414608",
+        "source": "clinicaltrials",
+        "title": "Cisplatin and Radiation Therapy With or Without Carboplatin and Paclitaxel in Patients With Locally Advanced Cervical Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2022",
+        "url": "https://clinicaltrials.gov/study/NCT01414608",
+        "text": "Drugs used in chemotherapy, such as cisplatin, carboplatin, and paclitaxel, work in different ways to stop the growth of \\[cancer/tumor\\] cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00188617:2",
+      "score": 0.5201337337493896,
+      "metadata": {
+        "id": "clinicaltrials:NCT00188617:2",
+        "doc_id": "NCT00188617",
+        "source": "clinicaltrials",
+        "title": "Phase 2 Study Of Neoadjuvant Iressa Treatment In Stage 1 NSCLC",
+        "study_type": "INTERVENTIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00188617",
+        "text": "However these patients will be offered standard therapy for stage III disease off of study protocol, for example a combination of chemotherapy, radiation plus or minus surgical resection."
+      }
+    },
+    {
+      "id": "pubmed:31286275:1",
+      "score": 0.5183947682380676,
+      "metadata": {
+        "id": "pubmed:31286275:1",
+        "doc_id": "31286275",
+        "source": "pubmed",
+        "title": "Management of Metastatic Hormone-Sensitive Prostate Cancer (mHSPC): an Evolving Treatment Paradigm.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31286275/",
+        "text": "Combination systemic therapy is now standard of care for all men with metastatic, hormone-sensitive prostate cancer (mHSPC)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05455424:0",
+      "score": 0.5173612236976624,
+      "metadata": {
+        "id": "clinicaltrials:NCT05455424:0",
+        "doc_id": "NCT05455424",
+        "source": "clinicaltrials",
+        "title": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05455424",
+        "text": "This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02883049:2",
+      "score": 0.5146530866622925,
+      "metadata": {
+        "id": "clinicaltrials:NCT02883049:2",
+        "doc_id": "NCT02883049",
+        "source": "clinicaltrials",
+        "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed High-Risk B Acute Lymphoblastic Leukemia and Ph-Like TKI Sensitive Mutations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02883049",
+        "text": "Giving more than one drug (combination chemotherapy) and giving the drugs in different doses and in different combinations may kill more cancer cells."
+      }
+    },
+    {
+      "id": "pubmed:28169842:1",
+      "score": 0.5131766200065613,
+      "metadata": {
+        "id": "pubmed:28169842:1",
+        "doc_id": "28169842",
+        "source": "pubmed",
+        "title": "Challenges in Management of Squamous Cell Carcinoma of the Anus in New England and Across the United States: A Review of the National Cancer Data Base.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28169842/",
+        "text": "The analysis included 40,817 patients treated for SCCA at 1513 cancer centers in the United States, of which 2347 patients were treated at 109 cancer centers in New England, between the years 2003 and 2013."
+      }
+    },
+    {
+      "id": "pubmed:38392072:0",
+      "score": 0.5119307637214661,
+      "metadata": {
+        "id": "pubmed:38392072:0",
+        "doc_id": "38392072",
+        "source": "pubmed",
+        "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38392072/",
+        "text": "Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "28574057",
+      "title": "New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28574057/",
+      "semantic_score": 0.6570907235145569,
+      "matched_sentences": [
+        "Current cancer treatments include surgical intervention, radiation, and taking chemotherapeutic drugs, which often kill the healthy cells and result in toxicity in patients."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32231332",
+      "title": "Adverse cardiac effects of cancer therapies: cardiotoxicity and arrhythmia.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32231332/",
+      "semantic_score": 0.613078236579895,
+      "matched_sentences": [
+        "Remarkable progress has been made in the development of new therapies for cancer, dramatically changing the landscape of treatment approaches for several malignancies and continuing to increase patient survival."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30955514",
+      "title": "Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30955514/",
+      "semantic_score": 0.5984981060028076,
+      "matched_sentences": [
+        "Treatment is determined by subtype and stage of cancer; there are several personalized therapies that did not exist just a few years ago."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34234831",
+      "title": "Therapeutics for paediatric oncological emergencies.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34234831/",
+      "semantic_score": 0.5883814096450806,
+      "matched_sentences": [
+        "With advancements in the field of oncology, cancer survival rates have improved dramatically but modern cancer treatments also come with an increasing number of disease and treatment-associated complications."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3165143074",
+      "title": "Small molecules in targeted cancer therapy: advances, challenges, and future perspectives",
+      "study_type": "review",
+      "year": "2021",
+      "url": "https://doi.org/10.1038/s41392-021-00572-w",
+      "semantic_score": 0.5846155881881714,
+      "matched_sentences": [
+        "Due to the advantages in efficacy and safety compared with traditional chemotherapy drugs, targeted therapeutic drugs have become mainstream cancer treatments."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2003141590",
+      "title": "Conventional cancer therapy: promise broken or promise delayed?",
+      "study_type": "review",
+      "year": "1998",
+      "url": "https://doi.org/10.1016/s0140-6736(98)90327-0",
+      "semantic_score": 0.5768744945526123,
+      "matched_sentences": [
+        "Conventional cancer therapy: promise broken or promise delayed?"
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28169842",
+      "title": "Challenges in Management of Squamous Cell Carcinoma of the Anus in New England and Across the United States: A Review of the National Cancer Data Base.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28169842/",
+      "semantic_score": 0.5699519515037537,
+      "matched_sentences": [
+        "A review of available data from the American College of Surgeons Committee on Cancer National Cancer Data Base focused on incidence, sex, age, stage at diagnosis, distance traveled for care, and utilization of therapy as first course of treatment (FCT).",
+        "The analysis included 40,817 patients treated for SCCA at 1513 cancer centers in the United States, of which 2347 patients were treated at 109 cancer centers in New England, between the years 2003 and 2013."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05597852",
+      "title": "Using Rectal Hydrogel Spacer for Salvage SABR in Prostate Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT05597852",
+      "semantic_score": 0.5606295466423035,
+      "matched_sentences": [
+        "Primary treatment of prostate cancer includes surgery or radiotherapy."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01996696",
+      "title": "Prevention of Metabolic Syndrome and Increased Weight Using Metformin Concurrent to Androgen Deprivation Therapy and Radiotherapy for Locally Advanced Adenocarcinoma of the Prostate",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT01996696",
+      "semantic_score": 0.5520136952400208,
+      "matched_sentences": [
+        "In current clinical practice, an acceptable standard treatment for locally advanced prostate cancer is radiation therapy in combination with hormone therapy (called Treatment B or Group B in this study)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26297204",
+      "title": "Lung cancer: Biology and treatment options.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26297204/",
+      "semantic_score": 0.5518501996994019,
+      "matched_sentences": [
+        "Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40016063",
+      "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40016063/",
+      "semantic_score": 0.5488854050636292,
+      "matched_sentences": [
+        "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37182990",
+      "title": "Advances in Radiotherapy for Breast Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37182990/",
+      "semantic_score": 0.5456651449203491,
+      "matched_sentences": [
+        "Radiation therapy is an important component in the multimodal management of breast cancer, including early stage and locally advanced breast cancers, as well as metastatic cases.",
+        "This article discusses the latest advances in the radiotherapeutic management of breast cancer, especially focusing on the technological advances in radiation treatment planning and techniques that have exploited the understanding of radiation biology."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00033553",
+      "title": "Combination Chemotherapy and Computer-Planned Radiation Therapy in Treating Patients With Unresectable Stage III Non-Small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2016",
+      "url": "https://clinicaltrials.gov/study/NCT00033553",
+      "semantic_score": 0.5445473790168762,
+      "matched_sentences": [
+        "It is not yet known which chemotherapy and/or radiation therapy regimen is more effective in treating non-small cell lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31836455",
+      "title": "Unraveling cancer lineage drivers in squamous cell carcinomas.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31836455/",
+      "semantic_score": 0.5424337387084961,
+      "matched_sentences": [
+        "Such basic knowledge will be helpful to inform the clinics for better stratifying cancer patients, revealing novel drug targets and providing effective treatment options."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06634056",
+      "title": "Pneumonitis Prevention Protocol Using Pentoxifylline and α-tocopherol In Stage III Non-Small Cell Lung Cancer Patients Undergoing Chemoradiation",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06634056",
+      "semantic_score": 0.5389233827590942,
+      "matched_sentences": [
+        "Currently, the standard of care treatment for newly diagnosed, inoperable stage III non-small cell lung cancer is radiotherapy (RT) with concurrent chemotherapy, followed by immune checkpoint inhibitors (ICI)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34862216",
+      "title": "Lung cancer for the non-respiratory physician.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34862216/",
+      "semantic_score": 0.5374418497085571,
+      "matched_sentences": [
+        "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33008499",
+      "title": "Immunotherapy for Metastatic Prostate Cancer: Current and Emerging Treatment Options.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33008499/",
+      "semantic_score": 0.5374162793159485,
+      "matched_sentences": [
+        "The advent of immunotherapy has revolutionized cancer treatment."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00516022",
+      "title": "Mistletoe as Complementary Treatment in Patients With Advanced Non-small-cell Lung Cancer (NSCLC), Treated With Carboplatin/Gemcitabine Chemotherapy Combination.",
+      "study_type": "INTERVENTIONAL",
+      "year": "2011",
+      "url": "https://clinicaltrials.gov/study/NCT00516022",
+      "semantic_score": 0.5368590950965881,
+      "matched_sentences": [
+        "Other clinical data, although not well based is that complementary treatment when used in combination with the common oncology treatment has tumor response effect."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41015051",
+      "title": "The global, regional, and national burden of cancer, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41015051/",
+      "semantic_score": 0.5365409851074219,
+      "matched_sentences": [
+        "Effectively and sustainably addressing cancer burden globally will require comprehensive national and international efforts that consider health systems and context in the development and implementation of cancer-control strategies across the continuum of prevention, diagnosis, and treatment."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04461418",
+      "title": "Accelerated Checkpoint Therapy for Any Steroid Dependent Patient With Brain Metastases",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04461418",
+      "semantic_score": 0.5365220308303833,
+      "matched_sentences": [
+        "Treatment with immunotherapy has been shown to be effective in a wide range of cancers, including melanoma skin cancer, lung cancer and kidney cancer, among others."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38600814",
+      "title": "Management of malignant superior vena cava syndrome.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38600814/",
+      "semantic_score": 0.5355486869812012,
+      "matched_sentences": [
+        "Treatment approaches most commonly employ chemotherapy and/or radiation therapy depending on the primary histology."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04293562",
+      "title": "A Study to Compare Standard Chemotherapy to Therapy With CPX-351 and/or Gilteritinib for Patients With Newly Diagnosed AML With or Without FLT3 Mutations",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT04293562",
+      "semantic_score": 0.5334554314613342,
+      "matched_sentences": [
+        "Drugs used in chemotherapy, such as daunorubicin, cytarabine, and gemtuzumab ozogamicin, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02828358",
+      "title": "Azacitidine and Combination Chemotherapy in Treating Infants With Acute Lymphoblastic Leukemia and KMT2A Gene Rearrangement",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02828358",
+      "semantic_score": 0.5331683158874512,
+      "matched_sentences": [
+        "Drugs used in chemotherapy, such as methotrexate, prednisolone, daunorubicin hydrochloride, cytarabine, dexamethasone, vincristine sulfate, pegaspargase, hydrocortisone sodium succinate, azacitidine, cyclophosphamide, mercaptopurine, leucovorin calcium, and thioguanine work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31508997",
+      "title": "Congenital mesoblastic nephroma: a single-centre series.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31508997/",
+      "semantic_score": 0.5319178700447083,
+      "matched_sentences": [
+        "Surgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02498613",
+      "title": "A Phase 2 Study of Cediranib in Combination With Olaparib in Advanced Solid Tumors",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02498613",
+      "semantic_score": 0.5312737226486206,
+      "matched_sentences": [
+        "This phase II trial studies cediranib maleate in combination with olaparib in treating patients with solid tumors that have spread to other parts of the body (advanced/metastatic) or cannot be removed by surgery (unresectable), including breast cancer, non-small cell lung cancer, small cell lung cancer, and pancreatic cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37306641",
+      "title": "The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.",
+      "study_type": "Practice Guideline, Journal Article, Consensus Statement",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37306641/",
+      "semantic_score": 0.5282199382781982,
+      "matched_sentences": [
+        "Novel targeted therapy and immunotherapy drugs have recently been approved for use in patients with surgically resectable lung cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00074152",
+      "title": "Adjuvant Chemotherapy in Treating Women Who Have Undergone Resection for Relapsed Breast Cancer; Chemotherapy as Adjuvant for LOcally Recurrent Breast Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT00074152",
+      "semantic_score": 0.5266782641410828,
+      "matched_sentences": [
+        "It is not yet known whether chemotherapy is effective in treating women who have undergone surgery and radiation therapy for relapsed breast cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35246609",
+      "title": "Focal prostate cancer therapy in the era of multiparametric MRI: a review of options and outcomes.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35246609/",
+      "semantic_score": 0.5262117385864258,
+      "matched_sentences": [
+        "Primary outcomes were post-treatment cancer-free rates, in-field/out-of-field recurrence rates, and rates of conversion to radical therapy."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W1968004526",
+      "title": "The High Cost of Cancer Drugs and What We Can Do About It",
+      "study_type": "article",
+      "year": "2012",
+      "url": "https://doi.org/10.1016/j.mayocp.2012.07.007",
+      "semantic_score": 0.525062620639801,
+      "matched_sentences": [
+        "The High Cost of Cancer Drugs and What We Can Do About It"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02883049",
+      "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed High-Risk B Acute Lymphoblastic Leukemia and Ph-Like TKI Sensitive Mutations",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02883049",
+      "semantic_score": 0.5232533812522888,
+      "matched_sentences": [
+        "Chemotherapy drugs, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.",
+        "Giving more than one drug (combination chemotherapy) and giving the drugs in different doses and in different combinations may kill more cancer cells."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00070564",
+      "title": "S0221 Adjuvant Doxorubicin, Cyclophosphamide, and Paclitaxel in Treating Patients With Breast Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT00070564",
+      "semantic_score": 0.5230510234832764,
+      "matched_sentences": [
+        "It is not yet known which combination chemotherapy regimen is more effective in treating resected breast cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00103285",
+      "title": "Combination Chemotherapy in Treating Young Patients With Newly Diagnosed Acute Lymphoblastic Leukemia",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT00103285",
+      "semantic_score": 0.521417498588562,
+      "matched_sentences": [
+        "Giving more than one drug (combination chemotherapy) may kill more cancer cells."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01414608",
+      "title": "Cisplatin and Radiation Therapy With or Without Carboplatin and Paclitaxel in Patients With Locally Advanced Cervical Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT01414608",
+      "semantic_score": 0.5203686356544495,
+      "matched_sentences": [
+        "Drugs used in chemotherapy, such as cisplatin, carboplatin, and paclitaxel, work in different ways to stop the growth of \\[cancer/tumor\\] cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00188617",
+      "title": "Phase 2 Study Of Neoadjuvant Iressa Treatment In Stage 1 NSCLC",
+      "study_type": "INTERVENTIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT00188617",
+      "semantic_score": 0.5201337337493896,
+      "matched_sentences": [
+        "However these patients will be offered standard therapy for stage III disease off of study protocol, for example a combination of chemotherapy, radiation plus or minus surgical resection."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31286275",
+      "title": "Management of Metastatic Hormone-Sensitive Prostate Cancer (mHSPC): an Evolving Treatment Paradigm.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31286275/",
+      "semantic_score": 0.5183947682380676,
+      "matched_sentences": [
+        "Combination systemic therapy is now standard of care for all men with metastatic, hormone-sensitive prostate cancer (mHSPC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05455424",
+      "title": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05455424",
+      "semantic_score": 0.5173612236976624,
+      "matched_sentences": [
+        "This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38392072",
+      "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38392072/",
+      "semantic_score": 0.5119307637214661,
+      "matched_sentences": [
+        "Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes."
+      ]
+    }
+  ]
+}

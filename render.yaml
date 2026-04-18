@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: medibot-ingestion
+    env: python
+    buildCommand: pip install -r requirements-fastapi.txt
+    startCommand: uvicorn ingestion_api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: web
+    name: medibot-backend
+    env: node
+    buildCommand: npm ci
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: FASTAPI_INGESTION_URL
+        value: https://YOUR_INGESTION_SERVICE.onrender.com
+      - key: PORT
+        value: 10000

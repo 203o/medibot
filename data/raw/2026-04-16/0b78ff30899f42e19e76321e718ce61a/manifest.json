@@ -1,0 +1,75 @@
+{
+  "run_id": "0b78ff30899f42e19e76321e718ce61a",
+  "stored_at": "2026-04-16T21:49:04+00:00",
+  "query": "lung cancer you compare cacer deaths Canada",
+  "query_fallbacks": [
+    "lung cancer you compare cacer deaths Canada",
+    "lung cancer mortality rates Canada versus Africa",
+    "epidemiology of lung cancer deaths in Canada and Africa",
+    "comparative analysis of lung cancer mortality in Canada and Africa",
+    "lung cancer mortality trends Canada Africa",
+    "lung cancer you compare cacer deaths",
+    "lung cancer you compare cacer treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer you compare cacer deaths Canada",
+    "lung cancer you compare cacer deaths",
+    "lung cancer you compare cacer treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer mortality rates Canada versus Africa",
+    "epidemiology of lung cancer deaths in Canada and Africa",
+    "comparative analysis of lung cancer mortality in Canada and Africa",
+    "lung cancer mortality trends Canada Africa"
+  ],
+  "keywords": [
+    "lung cancer",
+    "you",
+    "compare",
+    "cacer",
+    "deaths",
+    "africa",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 6,
+    "clinicaltrials": 3,
+    "openalex": 6,
+    "semantic_hits": 49,
+    "indexed_chunks": 34
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer mortality rates Canada versus Africa",
+      "epidemiology of lung cancer deaths in Canada and Africa",
+      "comparative analysis of lung cancer mortality in Canada and Africa",
+      "lung cancer mortality trends Canada Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0b78ff30899f42e19e76321e718ce61a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0b78ff30899f42e19e76321e718ce61a\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0b78ff30899f42e19e76321e718ce61a\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0b78ff30899f42e19e76321e718ce61a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0b78ff30899f42e19e76321e718ce61a\\combined.records.json"
+  }
+}

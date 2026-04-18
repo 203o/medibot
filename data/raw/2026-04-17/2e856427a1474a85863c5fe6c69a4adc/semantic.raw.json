@@ -1,0 +1,960 @@
+{
+  "enabled": true,
+  "indexed_chunks": 111,
+  "matches": [
+    {
+      "id": "pubmed:40928377:0",
+      "score": 0.7282226085662842,
+      "metadata": {
+        "id": "pubmed:40928377:0",
+        "doc_id": "40928377",
+        "source": "pubmed",
+        "title": "Causes of death after surgery among cancer patients: a population-based cohort study.",
+        "study_type": "Journal Article",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40928377/",
+        "text": "By the 2020s, non-cancer causes emerged as the leading mortality driver in these cancers."
+      }
+    },
+    {
+      "id": "pubmed:38374318:2",
+      "score": 0.7272143959999084,
+      "metadata": {
+        "id": "pubmed:38374318:2",
+        "doc_id": "38374318",
+        "source": "pubmed",
+        "title": "Causes of death among people living with metastatic cancer.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38374318/",
+        "text": "Leading non-cancer deaths are heart disease (32.4%), chronic obstructive and pulmonary disease (7.9%), cerebrovascular disease (6.1%), and infection (4.1%)."
+      }
+    },
+    {
+      "id": "pubmed:27831506:0",
+      "score": 0.6995114684104919,
+      "metadata": {
+        "id": "pubmed:27831506:0",
+        "doc_id": "27831506",
+        "source": "pubmed",
+        "title": "Causes of death among cancer patients.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27831506/",
+        "text": "Noncancer causes of death were highest in patients with cancers of the colorectum, bladder, kidney, endometrium, breast, prostate, testis; >40% of deaths from heart disease."
+      }
+    },
+    {
+      "id": "pubmed:31960609:1",
+      "score": 0.6970142126083374,
+      "metadata": {
+        "id": "pubmed:31960609:1",
+        "doc_id": "31960609",
+        "source": "pubmed",
+        "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+        "text": "Improved cancer survival is expected to increase noncancer deaths; however, detailed causes of death have rarely been discussed."
+      }
+    },
+    {
+      "id": "pubmed:36357608:0",
+      "score": 0.6910695433616638,
+      "metadata": {
+        "id": "pubmed:36357608:0",
+        "doc_id": "36357608",
+        "source": "pubmed",
+        "title": "Causes of death after laryngeal cancer diagnosis: A US population-based study.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36357608/",
+        "text": "Non-cancer causes of death is the leading cause of death (8945; 35.2%), followed by deaths due to laryngeal cancer (8,705; 34.3%), then other cancers deaths (7757; 30.5%)."
+      }
+    },
+    {
+      "id": "pubmed:36357608:2",
+      "score": 0.6768208146095276,
+      "metadata": {
+        "id": "pubmed:36357608:2",
+        "doc_id": "36357608",
+        "source": "pubmed",
+        "title": "Causes of death after laryngeal cancer diagnosis: A US population-based study.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36357608/",
+        "text": "The most common non-cancer causes of death were heart diseases (N = 2953; SMR 4.42), followed by other non-cancer causes of death (N = 1512; SMR 3.93), chronic obstructive pulmonary diseases (N = 1420; SMR 4.90), then cerebrovascular diseases (N = 547; SMR 4.28)."
+      }
+    },
+    {
+      "id": "pubmed:33751749:1",
+      "score": 0.6729897856712341,
+      "metadata": {
+        "id": "pubmed:33751749:1",
+        "doc_id": "33751749",
+        "source": "pubmed",
+        "title": "Non-cancer death causes after ovarian cancer diagnosis: A population-based cohort.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33751749/",
+        "text": "Non-cancer death causes comprise a significant percentage of deaths in OC patients, increasing with time after diagnosis."
+      }
+    },
+    {
+      "id": "pubmed:33687468:1",
+      "score": 0.6682798862457275,
+      "metadata": {
+        "id": "pubmed:33687468:1",
+        "doc_id": "33687468",
+        "source": "pubmed",
+        "title": "Screening for Lung Cancer With Low-Dose Computed Tomography: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S., Systematic Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33687468/",
+        "text": "Lung cancer is the leading cause of cancer-related death in the US."
+      }
+    },
+    {
+      "id": "pubmed:18930498:0",
+      "score": 0.6642800569534302,
+      "metadata": {
+        "id": "pubmed:18930498:0",
+        "doc_id": "18930498",
+        "source": "pubmed",
+        "title": "Pretreatment predictors of death from other causes in men with prostate cancer.",
+        "study_type": "Journal Article, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18930498/",
+        "text": "Factors that exclusively predicted death from nonprostate cancer causes included age at diagnosis, having a high school education or less, high clinical risk, smoking at time of diagnosis, concurrent nonprostate malignancy and worse scores on the Short Form-36 Health Survey physical function scale."
+      }
+    },
+    {
+      "id": "pubmed:36982344:0",
+      "score": 0.6635754704475403,
+      "metadata": {
+        "id": "pubmed:36982344:0",
+        "doc_id": "36982344",
+        "source": "pubmed",
+        "title": "Biomarkers for Early Detection of Cancer: Molecular Aspects.",
+        "study_type": "Editorial",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36982344/",
+        "text": "According to the World Health Organization, cancer is a leading cause of death worldwide, representing almost 10 million deaths in 2020 [...]."
+      }
+    },
+    {
+      "id": "pubmed:32883455:0",
+      "score": 0.6531206369400024,
+      "metadata": {
+        "id": "pubmed:32883455:0",
+        "doc_id": "32883455",
+        "source": "pubmed",
+        "title": "Lung Cancer Screening.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32883455/",
+        "text": "Lung cancer is the leading cause of US cancer-related deaths."
+      }
+    },
+    {
+      "id": "pubmed:25651787:0",
+      "score": 0.6518206000328064,
+      "metadata": {
+        "id": "pubmed:25651787:0",
+        "doc_id": "25651787",
+        "source": "pubmed",
+        "title": "Global cancer statistics, 2012.",
+        "study_type": "Journal Article",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25651787/",
+        "text": "Risk factors associated with the leading causes of cancer death include tobacco use (lung, colorectal, stomach, and liver cancer), overweight/obesity and physical inactivity (breast and colorectal cancer), and infection (liver, stomach, and cervical cancer)."
+      }
+    },
+    {
+      "id": "pubmed:27918777:2",
+      "score": 0.6500662565231323,
+      "metadata": {
+        "id": "pubmed:27918777:2",
+        "doc_id": "27918777",
+        "source": "pubmed",
+        "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015: A Systematic Analysis for the Global Burden of Disease Study.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27918777/",
+        "text": "Cancer is the second leading cause of death worldwide."
+      }
+    },
+    {
+      "id": "pubmed:28574057:0",
+      "score": 0.6450389623641968,
+      "metadata": {
+        "id": "pubmed:28574057:0",
+        "doc_id": "28574057",
+        "source": "pubmed",
+        "title": "New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28574057/",
+        "text": "Cancer is one of the leading cause of death in the world with the prevalence of >10 million mortalities annually."
+      }
+    },
+    {
+      "id": "pubmed:22054876:0",
+      "score": 0.6440862417221069,
+      "metadata": {
+        "id": "pubmed:22054876:0",
+        "doc_id": "22054876",
+        "source": "pubmed",
+        "title": "Lung cancer: epidemiology, etiology, and prevention.",
+        "study_type": "Journal Article, Review",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22054876/",
+        "text": "Lung cancer is the leading cause of cancer death in the United States and around the world."
+      }
+    },
+    {
+      "id": "pubmed:33538338:0",
+      "score": 0.6397973299026489,
+      "metadata": {
+        "id": "pubmed:33538338:0",
+        "doc_id": "33538338",
+        "source": "pubmed",
+        "title": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33538338/",
+        "text": "Lung cancer remained the leading cause of cancer death, with an estimated 1.8 million deaths (18%), followed by colorectal (9.4%), liver (8.3%), stomach (7.7%), and female breast (6.9%) cancers."
+      }
+    },
+    {
+      "id": "pubmed:37479810:0",
+      "score": 0.6372317671775818,
+      "metadata": {
+        "id": "pubmed:37479810:0",
+        "doc_id": "37479810",
+        "source": "pubmed",
+        "title": "The global burden of lung cancer: current status and future trends.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37479810/",
+        "text": "Lung cancer is the leading cause of cancer-related death worldwide."
+      }
+    },
+    {
+      "id": "pubmed:37218118:1",
+      "score": 0.6323072910308838,
+      "metadata": {
+        "id": "pubmed:37218118:1",
+        "doc_id": "37218118",
+        "source": "pubmed",
+        "title": "Causes of Death Following Gastric Cancer Diagnosis: A Population-Based Analysis.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37218118/",
+        "text": "Of these deaths, 24 625 (66.7%) were from GC, 6513 (17.6%) were from other types of cancers, and 5786 (15.7%) were from non-cancer causes."
+      }
+    },
+    {
+      "id": "pubmed:31030667:0",
+      "score": 0.6322493553161621,
+      "metadata": {
+        "id": "pubmed:31030667:0",
+        "doc_id": "31030667",
+        "source": "pubmed",
+        "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31030667/",
+        "text": "Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses."
+      }
+    },
+    {
+      "id": "pubmed:39561492:1",
+      "score": 0.6276261210441589,
+      "metadata": {
+        "id": "pubmed:39561492:1",
+        "doc_id": "39561492",
+        "source": "pubmed",
+        "title": "Rurality and pediatric cancer survival in the United States: An analysis of SEER data from 2000 to 2021.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39561492/",
+        "text": "Cancer is the leading cause of death by disease among children in the United States."
+      }
+    },
+    {
+      "id": "pubmed:17620772:1",
+      "score": 0.6226434707641602,
+      "metadata": {
+        "id": "pubmed:17620772:1",
+        "doc_id": "17620772",
+        "source": "pubmed",
+        "title": "Lung cancer adjuvant therapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+        "text": "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      }
+    },
+    {
+      "id": "pubmed:21907006:1",
+      "score": 0.6200907230377197,
+      "metadata": {
+        "id": "pubmed:21907006:1",
+        "doc_id": "21907006",
+        "source": "pubmed",
+        "title": "Impact of using multiple causes of death codes to compute site-specific, death certificate-based cancer mortality statistics in the United States.",
+        "study_type": "Journal Article",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21907006/",
+        "text": "Nevertheless, this study provides evidence that, in general, restricting to UCD deaths will not under report cancer mortality statistics."
+      }
+    },
+    {
+      "id": "pubmed:30955514:0",
+      "score": 0.6139518022537231,
+      "metadata": {
+        "id": "pubmed:30955514:0",
+        "doc_id": "30955514",
+        "source": "pubmed",
+        "title": "Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30955514/",
+        "text": "Lung cancer is the world's leading cause of cancer death."
+      }
+    },
+    {
+      "id": "pubmed:25651787:1",
+      "score": 0.613833487033844,
+      "metadata": {
+        "id": "pubmed:25651787:1",
+        "doc_id": "25651787",
+        "source": "pubmed",
+        "title": "Global cancer statistics, 2012.",
+        "study_type": "Journal Article",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25651787/",
+        "text": "Other leading causes of cancer death in more developed countries include colorectal cancer among males and females and prostate cancer among males."
+      }
+    },
+    {
+      "id": "pubmed:34405970:2",
+      "score": 0.6134424209594727,
+      "metadata": {
+        "id": "pubmed:34405970:2",
+        "doc_id": "34405970",
+        "source": "pubmed",
+        "title": "Do cancer incidence and mortality rates differ among ethnicities in Canada?",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34405970/",
+        "text": "Non-immigrant African males had the highest cancer incidence rates, and non-immigrant South Asian females had the highest mortality rates."
+      }
+    },
+    {
+      "id": "pubmed:40928377:1",
+      "score": 0.6113812923431396,
+      "metadata": {
+        "id": "pubmed:40928377:1",
+        "doc_id": "40928377",
+        "source": "pubmed",
+        "title": "Causes of death after surgery among cancer patients: a population-based cohort study.",
+        "study_type": "Journal Article",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40928377/",
+        "text": "In this population-based retrospective cohort study of 3 424 671 patients with 21 solid cancers (1992-2021), non-cancer deaths surpassed index-cancer mortality in 14 malignancies (e.g., prostate, breast, colorectal), accounting for 48.7% of post-surgical deaths, with cardiovascular diseases and infections as primary contributors."
+      }
+    },
+    {
+      "id": "pubmed:38374318:0",
+      "score": 0.6089456081390381,
+      "metadata": {
+        "id": "pubmed:38374318:0",
+        "doc_id": "38374318",
+        "source": "pubmed",
+        "title": "Causes of death among people living with metastatic cancer.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38374318/",
+        "text": "We characterize the causes of death among patients with metastatic cancer, across 13 cancer types and 25 non-cancer causes and predict the risk of death after diagnosis from the diagnosed cancer versus other causes (e.g., stroke, heart disease, etc.)."
+      }
+    },
+    {
+      "id": "pubmed:33751749:2",
+      "score": 0.6081746816635132,
+      "metadata": {
+        "id": "pubmed:33751749:2",
+        "doc_id": "33751749",
+        "source": "pubmed",
+        "title": "Non-cancer death causes after ovarian cancer diagnosis: A population-based cohort.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33751749/",
+        "text": "Research on non-cancer death causes in ovarian cancer (OC) patients remains limited."
+      }
+    },
+    {
+      "id": "pubmed:37364149:0",
+      "score": 0.6078474521636963,
+      "metadata": {
+        "id": "pubmed:37364149:0",
+        "doc_id": "37364149",
+        "source": "pubmed",
+        "title": "Obesity, diabetes, and cancer: epidemiology, pathophysiology, and potential interventions.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37364149/",
+        "text": "The proportion of deaths attributable to cancer is rising, and malignant neoplasms have become the leading cause of death in high-income countries."
+      }
+    },
+    {
+      "id": "pubmed:34385702:1",
+      "score": 0.6069537997245789,
+      "metadata": {
+        "id": "pubmed:34385702:1",
+        "doc_id": "34385702",
+        "source": "pubmed",
+        "title": "Toward personalized treatment approaches for non-small-cell lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34385702/",
+        "text": "Worldwide, lung cancer is the most common cause of cancer-related deaths."
+      }
+    },
+    {
+      "id": "pubmed:33784560:0",
+      "score": 0.6065468788146973,
+      "metadata": {
+        "id": "pubmed:33784560:0",
+        "doc_id": "33784560",
+        "source": "pubmed",
+        "title": "Role of TRPM7 kinase in cancer.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33784560/",
+        "text": "Cancer is the second leading cause of death worldwide and accounted for an estimated 9.6 million deaths, or 1 in 6 deaths, in 2018."
+      }
+    },
+    {
+      "id": "pubmed:31960609:0",
+      "score": 0.6064591407775879,
+      "metadata": {
+        "id": "pubmed:31960609:0",
+        "doc_id": "31960609",
+        "source": "pubmed",
+        "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+        "text": "We identified cancer and noncancer-related causes of death using data from the 2000-2016 national cancer registry in Korea (n = 2 707 520), and we characterized the leading causes of death and proportionate mortalities over time."
+      }
+    },
+    {
+      "id": "pubmed:36357608:1",
+      "score": 0.6062657833099365,
+      "metadata": {
+        "id": "pubmed:36357608:1",
+        "doc_id": "36357608",
+        "source": "pubmed",
+        "title": "Causes of death after laryngeal cancer diagnosis: A US population-based study.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36357608/",
+        "text": "Non-cancer causes of death is the leading cause of death in LC patients, exceeding deaths attributed to LC itself."
+      }
+    },
+    {
+      "id": "pubmed:34101294:1",
+      "score": 0.6041033267974854,
+      "metadata": {
+        "id": "pubmed:34101294:1",
+        "doc_id": "34101294",
+        "source": "pubmed",
+        "title": "Causes of Death Following Nonmetastatic Colorectal Cancer Diagnosis in the U.S.: A Population-Based Analysis.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34101294/",
+        "text": "Most common causes of death following nonmetastatic colorectal cancer (CRC) are heart diseases, other cancers, chronic obstructive pulmonary disease, and cerebrovascular diseases."
+      }
+    },
+    {
+      "id": "pubmed:34847189:2",
+      "score": 0.6031703948974609,
+      "metadata": {
+        "id": "pubmed:34847189:2",
+        "doc_id": "34847189",
+        "source": "pubmed",
+        "title": "Countering the advert effects of lung cancer on the anticancer potential of dendritic cell populations reinstates sensitivity to anti-PD-1 therapy.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34847189/",
+        "text": "Lung cancer is the leading cause of cancer-related deaths."
+      }
+    },
+    {
+      "id": "pubmed:25651787:2",
+      "score": 0.5985704660415649,
+      "metadata": {
+        "id": "pubmed:25651787:2",
+        "doc_id": "25651787",
+        "source": "pubmed",
+        "title": "Global cancer statistics, 2012.",
+        "study_type": "Journal Article",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25651787/",
+        "text": "In less developed countries, liver and stomach cancer among males and cervical cancer among females are also leading causes of cancer death."
+      }
+    },
+    {
+      "id": "pubmed:37095596:1",
+      "score": 0.5983786582946777,
+      "metadata": {
+        "id": "pubmed:37095596:1",
+        "doc_id": "37095596",
+        "source": "pubmed",
+        "title": "Cancer disparities in Appalachian Kentucky.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37095596/",
+        "text": "Cancer is the second leading cause of death in the United States, and the disease burden is elevated in Appalachian Kentucky, due in part to health behaviors and inequities in social determinants of health."
+      }
+    },
+    {
+      "id": "pubmed:30211037:2",
+      "score": 0.598153293132782,
+      "metadata": {
+        "id": "pubmed:30211037:2",
+        "doc_id": "30211037",
+        "source": "pubmed",
+        "title": "The 8",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30211037/",
+        "text": "Lung cancer is the leading cause of cancer death in both men and women."
+      }
+    },
+    {
+      "id": "pubmed:38677823:0",
+      "score": 0.5964372754096985,
+      "metadata": {
+        "id": "pubmed:38677823:0",
+        "doc_id": "38677823",
+        "source": "pubmed",
+        "title": "Screening for Colorectal Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38677823/",
+        "text": "Colorectal cancer remains the third leading cause of cancer death in the United States."
+      }
+    },
+    {
+      "id": "pubmed:35294138:0",
+      "score": 0.594860315322876,
+      "metadata": {
+        "id": "pubmed:35294138:0",
+        "doc_id": "35294138",
+        "source": "pubmed",
+        "title": "Short-term cancer prevalence in Canada, 2018.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35294138/",
+        "text": "As the leading cause of death in Canada, cancer imposes an enormous burden on both the health of Canadians and the Canadian health care system."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "40928377",
+      "title": "Causes of death after surgery among cancer patients: a population-based cohort study.",
+      "study_type": "Journal Article",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40928377/",
+      "semantic_score": 0.7282226085662842,
+      "matched_sentences": [
+        "By the 2020s, non-cancer causes emerged as the leading mortality driver in these cancers.",
+        "In this population-based retrospective cohort study of 3 424 671 patients with 21 solid cancers (1992-2021), non-cancer deaths surpassed index-cancer mortality in 14 malignancies (e.g., prostate, breast, colorectal), accounting for 48.7% of post-surgical deaths, with cardiovascular diseases and infections as primary contributors."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38374318",
+      "title": "Causes of death among people living with metastatic cancer.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38374318/",
+      "semantic_score": 0.7272143959999084,
+      "matched_sentences": [
+        "Leading non-cancer deaths are heart disease (32.4%), chronic obstructive and pulmonary disease (7.9%), cerebrovascular disease (6.1%), and infection (4.1%).",
+        "We characterize the causes of death among patients with metastatic cancer, across 13 cancer types and 25 non-cancer causes and predict the risk of death after diagnosis from the diagnosed cancer versus other causes (e.g., stroke, heart disease, etc.)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27831506",
+      "title": "Causes of death among cancer patients.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27831506/",
+      "semantic_score": 0.6995114684104919,
+      "matched_sentences": [
+        "Noncancer causes of death were highest in patients with cancers of the colorectum, bladder, kidney, endometrium, breast, prostate, testis; >40% of deaths from heart disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31960609",
+      "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+      "semantic_score": 0.6970142126083374,
+      "matched_sentences": [
+        "Improved cancer survival is expected to increase noncancer deaths; however, detailed causes of death have rarely been discussed.",
+        "We identified cancer and noncancer-related causes of death using data from the 2000-2016 national cancer registry in Korea (n = 2 707 520), and we characterized the leading causes of death and proportionate mortalities over time."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36357608",
+      "title": "Causes of death after laryngeal cancer diagnosis: A US population-based study.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36357608/",
+      "semantic_score": 0.6910695433616638,
+      "matched_sentences": [
+        "Non-cancer causes of death is the leading cause of death (8945; 35.2%), followed by deaths due to laryngeal cancer (8,705; 34.3%), then other cancers deaths (7757; 30.5%).",
+        "The most common non-cancer causes of death were heart diseases (N = 2953; SMR 4.42), followed by other non-cancer causes of death (N = 1512; SMR 3.93), chronic obstructive pulmonary diseases (N = 1420; SMR 4.90), then cerebrovascular diseases (N = 547; SMR 4.28).",
+        "Non-cancer causes of death is the leading cause of death in LC patients, exceeding deaths attributed to LC itself."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33751749",
+      "title": "Non-cancer death causes after ovarian cancer diagnosis: A population-based cohort.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33751749/",
+      "semantic_score": 0.6729897856712341,
+      "matched_sentences": [
+        "Non-cancer death causes comprise a significant percentage of deaths in OC patients, increasing with time after diagnosis.",
+        "Research on non-cancer death causes in ovarian cancer (OC) patients remains limited."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33687468",
+      "title": "Screening for Lung Cancer With Low-Dose Computed Tomography: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S., Systematic Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33687468/",
+      "semantic_score": 0.6682798862457275,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer-related death in the US."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18930498",
+      "title": "Pretreatment predictors of death from other causes in men with prostate cancer.",
+      "study_type": "Journal Article, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18930498/",
+      "semantic_score": 0.6642800569534302,
+      "matched_sentences": [
+        "Factors that exclusively predicted death from nonprostate cancer causes included age at diagnosis, having a high school education or less, high clinical risk, smoking at time of diagnosis, concurrent nonprostate malignancy and worse scores on the Short Form-36 Health Survey physical function scale."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36982344",
+      "title": "Biomarkers for Early Detection of Cancer: Molecular Aspects.",
+      "study_type": "Editorial",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36982344/",
+      "semantic_score": 0.6635754704475403,
+      "matched_sentences": [
+        "According to the World Health Organization, cancer is a leading cause of death worldwide, representing almost 10 million deaths in 2020 [...]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32883455",
+      "title": "Lung Cancer Screening.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32883455/",
+      "semantic_score": 0.6531206369400024,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of US cancer-related deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25651787",
+      "title": "Global cancer statistics, 2012.",
+      "study_type": "Journal Article",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25651787/",
+      "semantic_score": 0.6518206000328064,
+      "matched_sentences": [
+        "Risk factors associated with the leading causes of cancer death include tobacco use (lung, colorectal, stomach, and liver cancer), overweight/obesity and physical inactivity (breast and colorectal cancer), and infection (liver, stomach, and cervical cancer).",
+        "Other leading causes of cancer death in more developed countries include colorectal cancer among males and females and prostate cancer among males.",
+        "In less developed countries, liver and stomach cancer among males and cervical cancer among females are also leading causes of cancer death."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27918777",
+      "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015: A Systematic Analysis for the Global Burden of Disease Study.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27918777/",
+      "semantic_score": 0.6500662565231323,
+      "matched_sentences": [
+        "Cancer is the second leading cause of death worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28574057",
+      "title": "New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28574057/",
+      "semantic_score": 0.6450389623641968,
+      "matched_sentences": [
+        "Cancer is one of the leading cause of death in the world with the prevalence of >10 million mortalities annually."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22054876",
+      "title": "Lung cancer: epidemiology, etiology, and prevention.",
+      "study_type": "Journal Article, Review",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22054876/",
+      "semantic_score": 0.6440862417221069,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer death in the United States and around the world."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33538338",
+      "title": "Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33538338/",
+      "semantic_score": 0.6397973299026489,
+      "matched_sentences": [
+        "Lung cancer remained the leading cause of cancer death, with an estimated 1.8 million deaths (18%), followed by colorectal (9.4%), liver (8.3%), stomach (7.7%), and female breast (6.9%) cancers."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37479810",
+      "title": "The global burden of lung cancer: current status and future trends.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37479810/",
+      "semantic_score": 0.6372317671775818,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer-related death worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37218118",
+      "title": "Causes of Death Following Gastric Cancer Diagnosis: A Population-Based Analysis.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37218118/",
+      "semantic_score": 0.6323072910308838,
+      "matched_sentences": [
+        "Of these deaths, 24 625 (66.7%) were from GC, 6513 (17.6%) were from other types of cancers, and 5786 (15.7%) were from non-cancer causes."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31030667",
+      "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31030667/",
+      "semantic_score": 0.6322493553161621,
+      "matched_sentences": [
+        "Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39561492",
+      "title": "Rurality and pediatric cancer survival in the United States: An analysis of SEER data from 2000 to 2021.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39561492/",
+      "semantic_score": 0.6276261210441589,
+      "matched_sentences": [
+        "Cancer is the leading cause of death by disease among children in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17620772",
+      "title": "Lung cancer adjuvant therapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+      "semantic_score": 0.6226434707641602,
+      "matched_sentences": [
+        "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21907006",
+      "title": "Impact of using multiple causes of death codes to compute site-specific, death certificate-based cancer mortality statistics in the United States.",
+      "study_type": "Journal Article",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21907006/",
+      "semantic_score": 0.6200907230377197,
+      "matched_sentences": [
+        "Nevertheless, this study provides evidence that, in general, restricting to UCD deaths will not under report cancer mortality statistics."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30955514",
+      "title": "Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30955514/",
+      "semantic_score": 0.6139518022537231,
+      "matched_sentences": [
+        "Lung cancer is the world's leading cause of cancer death."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34405970",
+      "title": "Do cancer incidence and mortality rates differ among ethnicities in Canada?",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34405970/",
+      "semantic_score": 0.6134424209594727,
+      "matched_sentences": [
+        "Non-immigrant African males had the highest cancer incidence rates, and non-immigrant South Asian females had the highest mortality rates."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37364149",
+      "title": "Obesity, diabetes, and cancer: epidemiology, pathophysiology, and potential interventions.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37364149/",
+      "semantic_score": 0.6078474521636963,
+      "matched_sentences": [
+        "The proportion of deaths attributable to cancer is rising, and malignant neoplasms have become the leading cause of death in high-income countries."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34385702",
+      "title": "Toward personalized treatment approaches for non-small-cell lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34385702/",
+      "semantic_score": 0.6069537997245789,
+      "matched_sentences": [
+        "Worldwide, lung cancer is the most common cause of cancer-related deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33784560",
+      "title": "Role of TRPM7 kinase in cancer.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33784560/",
+      "semantic_score": 0.6065468788146973,
+      "matched_sentences": [
+        "Cancer is the second leading cause of death worldwide and accounted for an estimated 9.6 million deaths, or 1 in 6 deaths, in 2018."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34101294",
+      "title": "Causes of Death Following Nonmetastatic Colorectal Cancer Diagnosis in the U.S.: A Population-Based Analysis.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34101294/",
+      "semantic_score": 0.6041033267974854,
+      "matched_sentences": [
+        "Most common causes of death following nonmetastatic colorectal cancer (CRC) are heart diseases, other cancers, chronic obstructive pulmonary disease, and cerebrovascular diseases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34847189",
+      "title": "Countering the advert effects of lung cancer on the anticancer potential of dendritic cell populations reinstates sensitivity to anti-PD-1 therapy.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34847189/",
+      "semantic_score": 0.6031703948974609,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer-related deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37095596",
+      "title": "Cancer disparities in Appalachian Kentucky.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37095596/",
+      "semantic_score": 0.5983786582946777,
+      "matched_sentences": [
+        "Cancer is the second leading cause of death in the United States, and the disease burden is elevated in Appalachian Kentucky, due in part to health behaviors and inequities in social determinants of health."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30211037",
+      "title": "The 8",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30211037/",
+      "semantic_score": 0.598153293132782,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer death in both men and women."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38677823",
+      "title": "Screening for Colorectal Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38677823/",
+      "semantic_score": 0.5964372754096985,
+      "matched_sentences": [
+        "Colorectal cancer remains the third leading cause of cancer death in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35294138",
+      "title": "Short-term cancer prevalence in Canada, 2018.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35294138/",
+      "semantic_score": 0.594860315322876,
+      "matched_sentences": [
+        "As the leading cause of death in Canada, cancer imposes an enormous burden on both the health of Canadians and the Canadian health care system."
+      ]
+    }
+  ]
+}

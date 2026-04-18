@@ -1,0 +1,72 @@
+{
+  "run_id": "c3b29b0d9e5f4e63849b554dd1524cf4",
+  "stored_at": "2026-04-16T13:21:06+00:00",
+  "query": "hiv rate infections thika",
+  "query_fallbacks": [
+    "hiv rate infections thika",
+    "HIV incidence rates in Thika",
+    "Epidemiology of HIV infections in Thika",
+    "Prevalence of HIV in Thika: a systematic review",
+    "Thika HIV transmission rates: a meta-analysis",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv rate infections thika",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV incidence rates in Thika",
+    "Epidemiology of HIV infections in Thika",
+    "Prevalence of HIV in Thika: a systematic review",
+    "Thika HIV transmission rates: a meta-analysis"
+  ],
+  "keywords": [
+    "hiv",
+    "rate",
+    "infections",
+    "thika"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 6,
+    "clinicaltrials": 3,
+    "openalex": 30,
+    "semantic_hits": 69,
+    "indexed_chunks": 59
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV incidence rates in Thika",
+      "Epidemiology of HIV infections in Thika",
+      "Prevalence of HIV in Thika: a systematic review",
+      "Thika HIV transmission rates: a meta-analysis"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\c3b29b0d9e5f4e63849b554dd1524cf4\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\c3b29b0d9e5f4e63849b554dd1524cf4\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\c3b29b0d9e5f4e63849b554dd1524cf4\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\c3b29b0d9e5f4e63849b554dd1524cf4\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\c3b29b0d9e5f4e63849b554dd1524cf4\\combined.records.json"
+  }
+}

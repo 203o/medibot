@@ -1,0 +1,60 @@
+{
+  "run_id": "77576503bfa143e2bab5c195fcf349e2",
+  "stored_at": "2026-04-18T16:59:09+00:00",
+  "query": "parkinson's disease parkinson disease children usa USA",
+  "query_fallbacks": [
+    "parkinson's disease parkinson disease children usa USA",
+    "parkinson's disease parkinson disease children usa",
+    "parkinson's disease parkinson disease children treatment",
+    "parkinson's disease usa",
+    "parkinson's disease"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson's disease parkinson disease children usa USA",
+    "parkinson's disease parkinson disease children usa",
+    "parkinson's disease parkinson disease children treatment",
+    "parkinson's disease usa",
+    "parkinson's disease"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "parkinson's disease",
+    "parkinson",
+    "disease",
+    "children",
+    "usa",
+    "main",
+    "cause"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 38,
+    "indexed_chunks": 22
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\77576503bfa143e2bab5c195fcf349e2\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\77576503bfa143e2bab5c195fcf349e2\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\77576503bfa143e2bab5c195fcf349e2\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\77576503bfa143e2bab5c195fcf349e2\\combined.records.json"
+  }
+}

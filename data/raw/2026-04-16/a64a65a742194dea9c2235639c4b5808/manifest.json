@@ -1,0 +1,74 @@
+{
+  "run_id": "a64a65a742194dea9c2235639c4b5808",
+  "stored_at": "2026-04-16T12:30:45+00:00",
+  "query": "parkinson's deep brain stimulation United States of America",
+  "query_fallbacks": [
+    "parkinson's deep brain stimulation United States of America",
+    "Parkinson's disease epidemiology in the United States",
+    "Deep brain stimulation outcomes in Parkinson's disease patients",
+    "Incidence of Parkinson's disease in the USA treated with DBS",
+    "Systematic review of DBS in Parkinson's disease patients in America",
+    "parkinson's deep brain stimulation",
+    "parkinson's deep brain stimulation treatment",
+    "parkinson's united states",
+    "parkinson's"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson's deep brain stimulation United States of America",
+    "parkinson's deep brain stimulation",
+    "parkinson's deep brain stimulation treatment",
+    "parkinson's united states",
+    "parkinson's"
+  ],
+  "expanded_queries": [
+    "Parkinson's disease epidemiology in the United States",
+    "Deep brain stimulation outcomes in Parkinson's disease patients",
+    "Incidence of Parkinson's disease in the USA treated with DBS",
+    "Systematic review of DBS in Parkinson's disease patients in America"
+  ],
+  "keywords": [
+    "parkinson's",
+    "deep",
+    "brain",
+    "stimulation",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 53,
+    "indexed_chunks": 48
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Parkinson's disease epidemiology in the United States",
+      "Deep brain stimulation outcomes in Parkinson's disease patients",
+      "Incidence of Parkinson's disease in the USA treated with DBS",
+      "Systematic review of DBS in Parkinson's disease patients in America"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\a64a65a742194dea9c2235639c4b5808\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\a64a65a742194dea9c2235639c4b5808\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\a64a65a742194dea9c2235639c4b5808\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\a64a65a742194dea9c2235639c4b5808\\combined.records.json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "run_id": "7ad0c1d4648f48e18cf06f5e43ab1684",
+  "stored_at": "2026-04-18T15:50:51+00:00",
+  "query": "cancer cancer treatment therapy management usa",
+  "query_fallbacks": [
+    "cancer cancer treatment therapy management usa",
+    "cancer epidemiology in the united states",
+    "systematic review of cancer treatment outcomes in usa",
+    "usa cancer treatment guidelines and recommendations",
+    "incidence and prevalence of cancer in the usa population",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer treatment therapy management usa",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology in the united states",
+    "systematic review of cancer treatment outcomes in usa",
+    "usa cancer treatment guidelines and recommendations",
+    "incidence and prevalence of cancer in the usa population"
+  ],
+  "keywords": [
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 37,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology in the united states",
+      "systematic review of cancer treatment outcomes in usa",
+      "usa cancer treatment guidelines and recommendations",
+      "incidence and prevalence of cancer in the usa population"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7ad0c1d4648f48e18cf06f5e43ab1684\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7ad0c1d4648f48e18cf06f5e43ab1684\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7ad0c1d4648f48e18cf06f5e43ab1684\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7ad0c1d4648f48e18cf06f5e43ab1684\\combined.records.json"
+  }
+}

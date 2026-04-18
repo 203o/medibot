@@ -1,0 +1,66 @@
+{
+  "run_id": "194fcd13a38c43e68e2340b6968a0c48",
+  "stored_at": "2026-04-18T16:34:11+00:00",
+  "query": "children parkinson disease children",
+  "query_fallbacks": [
+    "children parkinson disease children",
+    "pediatric parkinson disease",
+    "parkinson disease in children",
+    "childhood parkinsonism",
+    "parkinson disease epidemiology in youth",
+    "children parkinson disease children treatment",
+    "children"
+  ],
+  "heuristic_fallbacks": [
+    "children parkinson disease children",
+    "children parkinson disease children treatment",
+    "children"
+  ],
+  "expanded_queries": [
+    "pediatric parkinson disease",
+    "parkinson disease in children",
+    "childhood parkinsonism",
+    "parkinson disease epidemiology in youth"
+  ],
+  "keywords": [
+    "children",
+    "parkinson",
+    "disease"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 35,
+    "indexed_chunks": 145
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "pediatric parkinson disease",
+      "parkinson disease in children",
+      "childhood parkinsonism",
+      "parkinson disease epidemiology in youth"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\194fcd13a38c43e68e2340b6968a0c48\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\194fcd13a38c43e68e2340b6968a0c48\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\194fcd13a38c43e68e2340b6968a0c48\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\194fcd13a38c43e68e2340b6968a0c48\\combined.records.json"
+  }
+}

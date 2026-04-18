@@ -1,0 +1,66 @@
+{
+  "run_id": "bb56a5d921f24a938e7508b9869bc5da",
+  "stored_at": "2026-04-18T15:49:08+00:00",
+  "query": "preventive measures preventive measures",
+  "query_fallbacks": [
+    "preventive measures preventive measures",
+    "Epidemiological studies on preventive measures",
+    "Systematic reviews of preventive measures effectiveness",
+    "Risk factor analysis for preventive measures",
+    "Evidence synthesis on preventive measures implementation",
+    "preventive measures preventive measures treatment",
+    "preventive measures"
+  ],
+  "heuristic_fallbacks": [
+    "preventive measures preventive measures",
+    "preventive measures preventive measures treatment",
+    "preventive measures"
+  ],
+  "expanded_queries": [
+    "Epidemiological studies on preventive measures",
+    "Systematic reviews of preventive measures effectiveness",
+    "Risk factor analysis for preventive measures",
+    "Evidence synthesis on preventive measures implementation"
+  ],
+  "keywords": [
+    "preventive measures",
+    "preventive",
+    "measures"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 29,
+    "indexed_chunks": 123
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Epidemiological studies on preventive measures",
+      "Systematic reviews of preventive measures effectiveness",
+      "Risk factor analysis for preventive measures",
+      "Evidence synthesis on preventive measures implementation"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bb56a5d921f24a938e7508b9869bc5da\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bb56a5d921f24a938e7508b9869bc5da\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bb56a5d921f24a938e7508b9869bc5da\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bb56a5d921f24a938e7508b9869bc5da\\combined.records.json"
+  }
+}

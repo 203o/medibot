@@ -1,0 +1,72 @@
+{
+  "run_id": "be67b40917ce41a396b544188d750450",
+  "stored_at": "2026-04-16T16:43:18+00:00",
+  "query": "malaria malaria prevalence rate children nairobi",
+  "query_fallbacks": [
+    "malaria malaria prevalence rate children nairobi",
+    "malaria epidemiology children nairobi",
+    "prevalence of malaria in children nairobi",
+    "malaria burden in nairobi pediatric population",
+    "childhood malaria incidence rates nairobi",
+    "malaria malaria prevalence rate children",
+    "malaria malaria prevalence rate treatment",
+    "malaria nairobi",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria prevalence rate children nairobi",
+    "malaria malaria prevalence rate children",
+    "malaria malaria prevalence rate treatment",
+    "malaria nairobi",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology children nairobi",
+    "prevalence of malaria in children nairobi",
+    "malaria burden in nairobi pediatric population",
+    "childhood malaria incidence rates nairobi"
+  ],
+  "keywords": [
+    "malaria",
+    "prevalence",
+    "rate",
+    "children",
+    "nairobi"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 85
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology children nairobi",
+      "prevalence of malaria in children nairobi",
+      "malaria burden in nairobi pediatric population",
+      "childhood malaria incidence rates nairobi"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\be67b40917ce41a396b544188d750450\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\be67b40917ce41a396b544188d750450\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\be67b40917ce41a396b544188d750450\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\be67b40917ce41a396b544188d750450\\combined.records.json"
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "query": "malaria infection rate",
+  "selected_query": "malaria infection rate",
+  "attempted_queries": [
+    {
+      "query": "malaria infection rate",
+      "count": 20
+    }
+  ],
+  "id_list": [
+    "35916842",
+    "12563598",
+    "31679015",
+    "32632180",
+    "32013740",
+    "2189001",
+    "37573300",
+    "18039099",
+    "25557077",
+    "29087484",
+    "35933089",
+    "33031367",
+    "22457274",
+    "16122098",
+    "17722862",
+    "26690736",
+    "30731298",
+    "25301957",
+    "21224274",
+    "22943054"
+  ],
+  "records": [
+    {
+      "pmid": "35916842",
+      "title": "Diagnosis, Treatment, and Prevention of Malaria in the US: A Review.",
+      "journal": "JAMA",
+      "abstract_sections": [
+        "Malaria is caused by protozoa parasites of the genus Plasmodium and is diagnosed in approximately 2000 people in the US each year who have returned from visiting regions with endemic malaria. The mortality rate from malaria is approximately 0.3% in the US and 0.26% worldwide.",
+        "In the US, most malaria is diagnosed in people who traveled to an endemic region. More than 80% of people diagnosed with malaria in the US acquired the infection in Africa. Of the approximately 2000 people diagnosed with malaria in the US in 2017, an estimated 82.4% were adults and about 78.6% were Black or African American. Among US residents diagnosed with malaria, 71.7% had not taken malaria chemoprophylaxis during travel. In 2017 in the US, P falciparum was the species diagnosed in approximately 79% of patients, whereas P vivax was diagnosed in an estimated 11.2% of patients. In 2017 in the US, severe malaria, defined as vital organ involvement including shock, pulmonary edema, significant bleeding, seizures, impaired consciousness, and laboratory abnormalities such as kidney impairment, acidosis, anemia, or high parasitemia, occurred in approximately 14% of patients, and an estimated 0.3% of those receiving a diagnosis of malaria in the US died. P falciparum has developed resistance to chloroquine in most regions of the world, including Africa. First-line therapy for P falciparum malaria in the US is combination therapy that includes artemisinin. If P falciparum was acquired in a known chloroquine-sensitive region such as Haiti, chloroquine remains an alternative option. When artemisinin-based combination therapies are not available, atovaquone-proguanil or quinine plus clindamycin is used for chloroquine-resistant malaria. P vivax, P ovale, P malariae, and P knowlesi are typically chloroquine sensitive, and treatment with either artemisinin-based combination therapy or chloroquine for regions with chloroquine-susceptible infections for uncomplicated malaria is recommended. For severe malaria, intravenous artesunate is first-line therapy. Treatment of mild malaria due to a chloroquine-resistant parasite consists of a combination therapy that includes artemisinin or chloroquine for chloroquine-sensitive malaria. P vivax and P ovale require additional therapy with an 8-aminoquinoline to eradicate the liver stage. Several options exist for chemoprophylaxis and selection should be based on patient characteristics and preferences.",
+        "Approximately 2000 cases of malaria are diagnosed each year in the US, most commonly in travelers returning from visiting endemic areas. Prevention and treatment of malaria depend on the species and the drug sensitivity of parasites from the region of acquisition. Intravenous artesunate is first-line therapy for severe malaria."
+      ],
+      "abstract": "Malaria is caused by protozoa parasites of the genus Plasmodium and is diagnosed in approximately 2000 people in the US each year who have returned from visiting regions with endemic malaria. The mortality rate from malaria is approximately 0.3% in the US and 0.26% worldwide.\n\nIn the US, most malaria is diagnosed in people who traveled to an endemic region. More than 80% of people diagnosed with malaria in the US acquired the infection in Africa. Of the approximately 2000 people diagnosed with malaria in the US in 2017, an estimated 82.4% were adults and about 78.6% were Black or African American. Among US residents diagnosed with malaria, 71.7% had not taken malaria chemoprophylaxis during travel. In 2017 in the US, P falciparum was the species diagnosed in approximately 79% of patients, whereas P vivax was diagnosed in an estimated 11.2% of patients. In 2017 in the US, severe malaria, defined as vital organ involvement including shock, pulmonary edema, significant bleeding, seizures, impaired consciousness, and laboratory abnormalities such as kidney impairment, acidosis, anemia, or high parasitemia, occurred in approximately 14% of patients, and an estimated 0.3% of those receiving a diagnosis of malaria in the US died. P falciparum has developed resistance to chloroquine in most regions of the world, including Africa. First-line therapy for P falciparum malaria in the US is combination therapy that includes artemisinin. If P falciparum was acquired in a known chloroquine-sensitive region such as Haiti, chloroquine remains an alternative option. When artemisinin-based combination therapies are not available, atovaquone-proguanil or quinine plus clindamycin is used for chloroquine-resistant malaria. P vivax, P ovale, P malariae, and P knowlesi are typically chloroquine sensitive, and treatment with either artemisinin-based combination therapy or chloroquine for regions with chloroquine-susceptible infections for uncomplicated malaria is recommended. For severe malaria, intravenous artesunate is first-line therapy. Treatment of mild malaria due to a chloroquine-resistant parasite consists of a combination therapy that includes artemisinin or chloroquine for chloroquine-sensitive malaria. P vivax and P ovale require additional therapy with an 8-aminoquinoline to eradicate the liver stage. Several options exist for chemoprophylaxis and selection should be based on patient characteristics and preferences.\n\nApproximately 2000 cases of malaria are diagnosed each year in the US, most commonly in travelers returning from visiting endemic areas. Prevention and treatment of malaria depend on the species and the drug sensitivity of parasites from the region of acquisition. Intravenous artesunate is first-line therapy for severe malaria.",
+      "evidence_sentences": [
+        "P vivax, P ovale, P malariae, and P knowlesi are typically chloroquine sensitive, and treatment with either artemisinin-based combination therapy or chloroquine for regions with chloroquine-susceptible infections for uncomplicated malaria is recommended.",
+        "More than 80% of people diagnosed with malaria in the US acquired the infection in Africa.",
+        "The mortality rate from malaria is approximately 0.3% in the US and 0.26% worldwide."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Johanna P Daily",
+        "Aurelia Minuti",
+        "Nazia Khan"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35916842/"
+    },
+    {
+      "pmid": "12563598",
+      "title": "Malarial nephropathy.",
+      "journal": "Seminars in nephrology",
+      "abstract_sections": [
+        "Malaria is widely prevalent in the tropics. Clinically significant renal and renal-related disorders commonly occur in infection with Plasmodium falciparum and P. malariae. Falciparum malaria causes fluid and electrolyte disorders, transient and mild glomerulonephritis, and acute renal failure (ARF). It appears that ARF is mediated by a complex interaction of mechanical, immunologic, cytokine, humoral, acute phase response, nonspecific factors, and hemodynamic factors. Parasitized erythrocytes play a central role in all aforementioned pathogenic factors of ARF. Antimalarial drugs are still the cornerstone of treatment of falciparum infection. Because of the hypercatabolic state of falciparum malaria-induced ARF, hemodialysis as well as peritoneal dialysis should be immediately performed when there is a rapid increase of creatinine concentration. P. malariae, in contradistinction, can cause chronic glomerulopathy that may relentlessly progress to end-stage renal disease. Antimalarial drugs, corticosteroids, and immunosuppressive agents are not effective."
+      ],
+      "abstract": "Malaria is widely prevalent in the tropics. Clinically significant renal and renal-related disorders commonly occur in infection with Plasmodium falciparum and P. malariae. Falciparum malaria causes fluid and electrolyte disorders, transient and mild glomerulonephritis, and acute renal failure (ARF). It appears that ARF is mediated by a complex interaction of mechanical, immunologic, cytokine, humoral, acute phase response, nonspecific factors, and hemodynamic factors. Parasitized erythrocytes play a central role in all aforementioned pathogenic factors of ARF. Antimalarial drugs are still the cornerstone of treatment of falciparum infection. Because of the hypercatabolic state of falciparum malaria-induced ARF, hemodialysis as well as peritoneal dialysis should be immediately performed when there is a rapid increase of creatinine concentration. P. malariae, in contradistinction, can cause chronic glomerulopathy that may relentlessly progress to end-stage renal disease. Antimalarial drugs, corticosteroids, and immunosuppressive agents are not effective.",
+      "evidence_sentences": [
+        "Antimalarial drugs are still the cornerstone of treatment of falciparum infection.",
+        "Because of the hypercatabolic state of falciparum malaria-induced ARF, hemodialysis as well as peritoneal dialysis should be immediately performed when there is a rapid increase of creatinine concentration.",
+        "Falciparum malaria causes fluid and electrolyte disorders, transient and mild glomerulonephritis, and acute renal failure (ARF)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Somchai Eiam-Ong"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12563598/"
+    },
+    {
+      "pmid": "31679015",
+      "title": "Growth Rate of Plasmodium falciparum: Analysis of Parasite Growth Data From Malaria Volunteer Infection Studies.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "Growth rate of malaria parasites in the blood of infected subjects is an important measure of efficacy of drugs and vaccines.",
+        "We used log-linear and sine-wave models to estimate the parasite growth rate of the 3D7 strain of Plasmodium falciparum using data from 177 subjects from 14 induced blood stage malaria (IBSM) studies conducted at QIMR Berghofer. We estimated parasite multiplication rate per 48 hours (PMR48), PMR per life-cycle (PMRLC), and parasite life-cycle duration. We compared these parameters to those from studies conducted elsewhere with infections induced by IBSM (n = 66), sporozoites via mosquito bite (n = 336), or injection (n = 51).",
+        "The parasite growth rate of 3D7 in QIMR Berghofer studies was 0.75/day (95% confidence interval [CI], .73-.77/day), PMR48 was 31.9 (95% CI, 28.7-35.4), PMRLC was 16.4 (95% CI, 15.1-17.8), and parasite life-cycle was 38.8 hours (95% CI, 38.3-39.2 hours). These parameters were similar to estimates from IBSM studies elsewhere (0.71/day, 95% CI, .67-.75/day; PMR48 26.6, 95% CI, 22.2-31.8) but significantly higher (P < .001) than in sporozoite studies (0.47/day, 95% CI, .43-.50/day; PMR48 8.6, 95% CI, 7.3-10.1).",
+        "Parasite growth rates were similar across different IBSM studies and higher than infections induced by sporozoite."
+      ],
+      "abstract": "Growth rate of malaria parasites in the blood of infected subjects is an important measure of efficacy of drugs and vaccines.\n\nWe used log-linear and sine-wave models to estimate the parasite growth rate of the 3D7 strain of Plasmodium falciparum using data from 177 subjects from 14 induced blood stage malaria (IBSM) studies conducted at QIMR Berghofer. We estimated parasite multiplication rate per 48 hours (PMR48), PMR per life-cycle (PMRLC), and parasite life-cycle duration. We compared these parameters to those from studies conducted elsewhere with infections induced by IBSM (n = 66), sporozoites via mosquito bite (n = 336), or injection (n = 51).\n\nThe parasite growth rate of 3D7 in QIMR Berghofer studies was 0.75/day (95% confidence interval [CI], .73-.77/day), PMR48 was 31.9 (95% CI, 28.7-35.4), PMRLC was 16.4 (95% CI, 15.1-17.8), and parasite life-cycle was 38.8 hours (95% CI, 38.3-39.2 hours). These parameters were similar to estimates from IBSM studies elsewhere (0.71/day, 95% CI, .67-.75/day; PMR48 26.6, 95% CI, 22.2-31.8) but significantly higher (P < .001) than in sporozoite studies (0.47/day, 95% CI, .43-.50/day; PMR48 8.6, 95% CI, 7.3-10.1).\n\nParasite growth rates were similar across different IBSM studies and higher than infections induced by sporozoite.",
+      "evidence_sentences": [
+        "We used log-linear and sine-wave models to estimate the parasite growth rate of the 3D7 strain of Plasmodium falciparum using data from 177 subjects from 14 induced blood stage malaria (IBSM) studies conducted at QIMR Berghofer.",
+        "Growth rate of malaria parasites in the blood of infected subjects is an important measure of efficacy of drugs and vaccines.",
+        "Parasite growth rates were similar across different IBSM studies and higher than infections induced by sporozoite."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Leesa F Wockner",
+        "Isabell Hoffmann",
+        "Lachlan Webb",
+        "Benjamin Mordmüller",
+        "Sean C Murphy",
+        "James G Kublin",
+        "Peter O'Rourke",
+        "James S McCarthy",
+        "Louise Marquart"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31679015/"
+    },
+    {
+      "pmid": "32632180",
+      "title": "Plasmodium spp. mixed infection leading to severe malaria: a systematic review and meta-analysis.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "Mixed Plasmodium malaria infections can lead to severe malaria. This systematic review and meta-analysis aimed to explore the prevalence of severe mixed Plasmodium malaria infection and to compare it with the prevalence of severe P. falciparum malaria mono-infection across the included studies. Original English-language research articles from PubMed, Scopus, and ISI Web of Science were identified and screened. Articles reporting the number of mixed infections and the number of severe mixed infections were used to determine the main outcome of this study, while the number of P. falciparum infections and the number of severe P. falciparum infections were used to determine the secondary outcome of this study. For the main outcome, the pooled prevalence and 95% confidence interval (CI) of severe mixed infections was analysed using STATA software version 15.0 (Stata Corp, College Station, TX, USA). For the secondary outcome, the rate of severe mixed infections compared to severe P. falciparum infections was analysed using the meta-analysis approach, and summary odds ratios (ORs) and 95% CIs were calculated. Random-effects models were used to produce the summary ORs. The Mantel-Haenszel method and calculated I"
+      ],
+      "abstract": "Mixed Plasmodium malaria infections can lead to severe malaria. This systematic review and meta-analysis aimed to explore the prevalence of severe mixed Plasmodium malaria infection and to compare it with the prevalence of severe P. falciparum malaria mono-infection across the included studies. Original English-language research articles from PubMed, Scopus, and ISI Web of Science were identified and screened. Articles reporting the number of mixed infections and the number of severe mixed infections were used to determine the main outcome of this study, while the number of P. falciparum infections and the number of severe P. falciparum infections were used to determine the secondary outcome of this study. For the main outcome, the pooled prevalence and 95% confidence interval (CI) of severe mixed infections was analysed using STATA software version 15.0 (Stata Corp, College Station, TX, USA). For the secondary outcome, the rate of severe mixed infections compared to severe P. falciparum infections was analysed using the meta-analysis approach, and summary odds ratios (ORs) and 95% CIs were calculated. Random-effects models were used to produce the summary ORs. The Mantel-Haenszel method and calculated I",
+      "evidence_sentences": [
+        "This systematic review and meta-analysis aimed to explore the prevalence of severe mixed Plasmodium malaria infection and to compare it with the prevalence of severe P.",
+        "For the secondary outcome, the rate of severe mixed infections compared to severe P.",
+        "Mixed Plasmodium malaria infections can lead to severe malaria."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Manas Kotepui",
+        "Kwuntida Uthaisar Kotepui",
+        "Giovanni De Jesus Milanez",
+        "Frederick Ramirez Masangkay"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32632180/"
+    },
+    {
+      "pmid": "32013740",
+      "title": "Experimental Malaria Infection Affects Songbirds' Nocturnal Migratory Activity.",
+      "journal": "Physiological and biochemical zoology : PBZ",
+      "abstract_sections": [
+        "Migratory animals encounter multiple parasite communities, raising concerns that migration may aid transport of infectious disease. How migration affects disease spread depends fundamentally on how disease affects migration, specifically whether infection alters individuals' migratory physiology and behavior. We inoculated white-throated sparrows ("
+      ],
+      "abstract": "Migratory animals encounter multiple parasite communities, raising concerns that migration may aid transport of infectious disease. How migration affects disease spread depends fundamentally on how disease affects migration, specifically whether infection alters individuals' migratory physiology and behavior. We inoculated white-throated sparrows (",
+      "evidence_sentences": [
+        "How migration affects disease spread depends fundamentally on how disease affects migration, specifically whether infection alters individuals' migratory physiology and behavior."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "T R Kelly",
+        "B D Rubin",
+        "S A MacDougall-Shackleton",
+        "E A MacDougall-Shackleton"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32013740/"
+    },
+    {
+      "pmid": "2189001",
+      "title": "Malaria vaccines.",
+      "journal": "Infectious disease clinics of North America",
+      "abstract_sections": [
+        "Malaria continues to be a major worldwide problem. Recent advances in our understanding of the parasite and the immune response to malarial infections has resulted in major advances in the progress toward an effective malaria vaccine. Owing to the complexity of the parasite's life cycle, an effective vaccine will most assuredly contain components selected to stimulate potent immune mechanisms directed at various points in the parasite's life cycle. Considering the increasing incidence of drug resistance, combined with the high case-fatality rate, most research efforts have focused on developing a vaccine against Plasmodium falciparum. A successful vaccine against P. falciparum would be a significant advance in medical science. One must not, however, forget the severe morbidity associated with the other three human malarial species. As information is gained in the effort against P. falciparum, it is rapidly incorporated into efforts against P. vivax, P. malariae, and P. ovale."
+      ],
+      "abstract": "Malaria continues to be a major worldwide problem. Recent advances in our understanding of the parasite and the immune response to malarial infections has resulted in major advances in the progress toward an effective malaria vaccine. Owing to the complexity of the parasite's life cycle, an effective vaccine will most assuredly contain components selected to stimulate potent immune mechanisms directed at various points in the parasite's life cycle. Considering the increasing incidence of drug resistance, combined with the high case-fatality rate, most research efforts have focused on developing a vaccine against Plasmodium falciparum. A successful vaccine against P. falciparum would be a significant advance in medical science. One must not, however, forget the severe morbidity associated with the other three human malarial species. As information is gained in the effort against P. falciparum, it is rapidly incorporated into efforts against P. vivax, P. malariae, and P. ovale.",
+      "evidence_sentences": [
+        "Recent advances in our understanding of the parasite and the immune response to malarial infections has resulted in major advances in the progress toward an effective malaria vaccine.",
+        "One must not, however, forget the severe morbidity associated with the other three human malarial species.",
+        "Malaria continues to be a major worldwide problem."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "D M Gordon"
+      ],
+      "year": "1990",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/2189001/"
+    },
+    {
+      "pmid": "37573300",
+      "title": "Species composition, infection rate and detection of resistant alleles in Anopheles funestus (Diptera: Culicidae) from Lare, a malaria hotspot district of Ethiopia.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Anopheles funestus, which is considered as secondary vector of malaria in Ethiopia, is known to have several morphologically indistinguishable (sibling) species. Accurate identification of sibling species is crucial to understand their biology, behaviour and vector competence. In this study, molecular identification was conducted on the Ethiopian An. funestus populations. Moreover, insecticide resistance mechanism markers were detected, including ace N485I, kdr L1014F, L1014S, and CYP6P9a TaqMan qPCR was used to detect the infective stage of the parasite from field collected adult female An. funestus populations.",
+        "Adult female mosquito collection was conducted from Lare, Gambella Regional State of Ethiopia between June 2018 to July 2020 using CDC light traps and HLC. Sub-samples of the morphologically identified An. funestus mosquitoes were molecularly identified using species-specific PCR, and the possible presence of insecticide resistance alleles was investigated using TaqMan qPCR (N485I-Ace-1), PCR-Sanger sequencing (L1014F-kdr), and PCR-RFLP (CYP6P9a resistance allele). Following head/thorax dissection, the TaqMan qPCR assay was used to investigate the presence of the infective stage Plasmodium parasite species.",
+        "A total of 1086 adult female An. funestus mosquitoes were collected during the study period. All sub-samples (N = 20) that were morphologically identified as An. funestus sensu lato (s.l.) were identified as An. funestus sensu stricto (s.s.) using species- specific PCR assay. The PCR-RFLP assay that detects the CYP6P9a resistance allele that confers pyrethroid resistance in An. funestus was applied in N = 30 randomly selected An. funestus s.l.",
+        "None of the specimens showed a digestion pattern consistent with the presence of the CYP6P9a resistance allele in contrast to what was observed in the positive control. Consequently, all samples were characterized as wild type. The qPCR TaqMan assay that detects the N485I acetylcholinesterase-1 mutation conferring resistance to organophosphates/carbamates in An. funestus was used in (N = 144) samples. All samples were characterized as wild type. The kdr L1014F and L1014S mutations in the VGSC gene that confer resistance to pyrethroids and DDT were analysed with direct Sanger sequencing after PCR and clean-up of the PCR products were also characterized as wild type. None of the samples (N = 169) were found positive for Plasmodium (P. falciparum/ovale/malariae/vivax) detection.",
+        "All An. funestus s.l. samples from Lare were molecularly identified as An. funestus s.s. No CYP6P9, N485I acetylcholinesterase 1, kdr L1014F or L1014S mutations were detected in the An. funestus samples. None of the An. funestus samples were positive for Plasmodium. Although the current study did not detect any insecticide resistant mechanism, it provides a reference for future vector monitoring programmes. Regular monitoring of resistance mechanisms covering wider geographical areas of Ethiopia where this vector is distributed is important for improving the efficacy of vector control programs."
+      ],
+      "abstract": "Anopheles funestus, which is considered as secondary vector of malaria in Ethiopia, is known to have several morphologically indistinguishable (sibling) species. Accurate identification of sibling species is crucial to understand their biology, behaviour and vector competence. In this study, molecular identification was conducted on the Ethiopian An. funestus populations. Moreover, insecticide resistance mechanism markers were detected, including ace N485I, kdr L1014F, L1014S, and CYP6P9a TaqMan qPCR was used to detect the infective stage of the parasite from field collected adult female An. funestus populations.\n\nAdult female mosquito collection was conducted from Lare, Gambella Regional State of Ethiopia between June 2018 to July 2020 using CDC light traps and HLC. Sub-samples of the morphologically identified An. funestus mosquitoes were molecularly identified using species-specific PCR, and the possible presence of insecticide resistance alleles was investigated using TaqMan qPCR (N485I-Ace-1), PCR-Sanger sequencing (L1014F-kdr), and PCR-RFLP (CYP6P9a resistance allele). Following head/thorax dissection, the TaqMan qPCR assay was used to investigate the presence of the infective stage Plasmodium parasite species.\n\nA total of 1086 adult female An. funestus mosquitoes were collected during the study period. All sub-samples (N = 20) that were morphologically identified as An. funestus sensu lato (s.l.) were identified as An. funestus sensu stricto (s.s.) using species- specific PCR assay. The PCR-RFLP assay that detects the CYP6P9a resistance allele that confers pyrethroid resistance in An. funestus was applied in N = 30 randomly selected An. funestus s.l.\n\nNone of the specimens showed a digestion pattern consistent with the presence of the CYP6P9a resistance allele in contrast to what was observed in the positive control. Consequently, all samples were characterized as wild type. The qPCR TaqMan assay that detects the N485I acetylcholinesterase-1 mutation conferring resistance to organophosphates/carbamates in An. funestus was used in (N = 144) samples. All samples were characterized as wild type. The kdr L1014F and L1014S mutations in the VGSC gene that confer resistance to pyrethroids and DDT were analysed with direct Sanger sequencing after PCR and clean-up of the PCR products were also characterized as wild type. None of the samples (N = 169) were found positive for Plasmodium (P. falciparum/ovale/malariae/vivax) detection.\n\nAll An. funestus s.l. samples from Lare were molecularly identified as An. funestus s.s. No CYP6P9, N485I acetylcholinesterase 1, kdr L1014F or L1014S mutations were detected in the An. funestus samples. None of the An. funestus samples were positive for Plasmodium. Although the current study did not detect any insecticide resistant mechanism, it provides a reference for future vector monitoring programmes. Regular monitoring of resistance mechanisms covering wider geographical areas of Ethiopia where this vector is distributed is important for improving the efficacy of vector control programs.",
+      "evidence_sentences": [
+        "Anopheles funestus, which is considered as secondary vector of malaria in Ethiopia, is known to have several morphologically indistinguishable (sibling) species.",
+        "falciparum/ovale/malariae/vivax) detection.",
+        "Accurate identification of sibling species is crucial to understand their biology, behaviour and vector competence."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Delelegn Woyessa",
+        "Evangelia Morou",
+        "Nadja Wipf",
+        "Nsa Dada",
+        "Konstantinos Mavridis",
+        "John Vontas",
+        "Delenasaw Yewhalaw"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37573300/"
+    },
+    {
+      "pmid": "18039099",
+      "title": "Malaria: mechanisms of erythrocytic infection and pathological correlates of severe disease.",
+      "journal": "Annual review of pathology",
+      "abstract_sections": [
+        "Malaria is an ancient disease that continues to cause enormous human morbidity and mortality. The life cycle of the causative parasite involves multiple tissues in two distinct host organisms, mosquitoes and humans. However, all the clinical symptoms of malaria are a consequence of infection of human erythrocytes. An understanding of the basic mechanisms that govern parasite invasion, remodeling, growth, and reinvasion of erythrocytes and the complex events leading to tissue pathology may yield new diagnostics and treatments for malaria. This approach is revealing a more complete picture of the most serious syndrome associated with this infection-cerebral malaria. We focus on the most recent understanding of the molecular basis of infection, summarize our finding from an ongoing pediatric cerebral malaria autopsy study in Malawi, and integrate these insights to malarial pathology."
+      ],
+      "abstract": "Malaria is an ancient disease that continues to cause enormous human morbidity and mortality. The life cycle of the causative parasite involves multiple tissues in two distinct host organisms, mosquitoes and humans. However, all the clinical symptoms of malaria are a consequence of infection of human erythrocytes. An understanding of the basic mechanisms that govern parasite invasion, remodeling, growth, and reinvasion of erythrocytes and the complex events leading to tissue pathology may yield new diagnostics and treatments for malaria. This approach is revealing a more complete picture of the most serious syndrome associated with this infection-cerebral malaria. We focus on the most recent understanding of the molecular basis of infection, summarize our finding from an ongoing pediatric cerebral malaria autopsy study in Malawi, and integrate these insights to malarial pathology.",
+      "evidence_sentences": [
+        "We focus on the most recent understanding of the molecular basis of infection, summarize our finding from an ongoing pediatric cerebral malaria autopsy study in Malawi, and integrate these insights to malarial pathology.",
+        "This approach is revealing a more complete picture of the most serious syndrome associated with this infection-cerebral malaria.",
+        "However, all the clinical symptoms of malaria are a consequence of infection of human erythrocytes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Kasturi Haldar",
+        "Sean C Murphy",
+        "Dan A Milner",
+        "Terrie E Taylor"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18039099/"
+    },
+    {
+      "pmid": "25557077",
+      "title": "The cell biology of malaria infection of mosquito: advances and opportunities.",
+      "journal": "Cellular microbiology",
+      "abstract_sections": [
+        "Recent reviews (Feachem et al.; Alonso et al.) have concluded that in order to have a sustainable impact on the global burden of malaria, it is essential that we knowingly reduce the global incidence of infected persons. To achieve this we must reduce the basic reproductive rate of the parasites to < 1 in diverse epidemiological settings. This can be achieved by impacting combinations of the following parameters: the number of mosquitoes relative to the number of persons, the mosquito/human biting rate, the proportion of mosquitoes carrying infectious sporozoites, the daily survival rate of the infectious mosquito and the ability of malaria-infected persons to infect mosquito vectors. This paper focuses on our understanding of parasite biology underpinning the last of these terms: infection of the mosquito. The article attempts to highlight central issues that require further study to assist in the discovery of useful transmission-blocking measures."
+      ],
+      "abstract": "Recent reviews (Feachem et al.; Alonso et al.) have concluded that in order to have a sustainable impact on the global burden of malaria, it is essential that we knowingly reduce the global incidence of infected persons. To achieve this we must reduce the basic reproductive rate of the parasites to < 1 in diverse epidemiological settings. This can be achieved by impacting combinations of the following parameters: the number of mosquitoes relative to the number of persons, the mosquito/human biting rate, the proportion of mosquitoes carrying infectious sporozoites, the daily survival rate of the infectious mosquito and the ability of malaria-infected persons to infect mosquito vectors. This paper focuses on our understanding of parasite biology underpinning the last of these terms: infection of the mosquito. The article attempts to highlight central issues that require further study to assist in the discovery of useful transmission-blocking measures.",
+      "evidence_sentences": [
+        "This can be achieved by impacting combinations of the following parameters: the number of mosquitoes relative to the number of persons, the mosquito/human biting rate, the proportion of mosquitoes carrying infectious sporozoites, the daily survival rate of the infectious mosquito and the ability of malaria-infected persons to infect mosquito vectors.",
+        "Recent reviews (Feachem et al.; Alonso et al.) have concluded that in order to have a sustainable impact on the global burden of malaria, it is essential that we knowingly reduce the global incidence of infected persons.",
+        "This paper focuses on our understanding of parasite biology underpinning the last of these terms: infection of the mosquito."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "R E Sinden"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25557077/"
+    },
+    {
+      "pmid": "29087484",
+      "title": "High Plasmodium Infection Rate and Reduced Bed Net Efficacy in Multiple Insecticide-Resistant Malaria Vectors in Kinshasa, Democratic Republic of Congo.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "Accounting for approximately 11% of all malaria cases, the Democratic Republic of the Congo (DRC) is central to malaria elimination efforts. To support vector control interventions in DRC, we characterized the dynamics and impact of insecticide resistance in major malaria vectors in 2015. High Plasmodium infection rates were recorded in Anopheles gambiae and Anopheles funestus, with Plasmodium falciparum predominant over Plasmodium malariae. Both mosquito species exhibited high and multiple resistance to major public health insecticide classes. The extremely high resistance to permethrin and DDT (dichlorodiphenyltrichloroethane) in An. gambiae (low mortalities after 6 hours exposure) is worrisome, and is supported by a reduced insecticidal effect of bed nets against both mosquito species in laboratory tests. Metabolic and target site insensitivity mechanisms are driving this resistance in An. gambiae, but only the former was observed in An. funestus. These findings highlight the urgent need for actions to prolong the effectiveness of insecticide-based interventions in DRC."
+      ],
+      "abstract": "Accounting for approximately 11% of all malaria cases, the Democratic Republic of the Congo (DRC) is central to malaria elimination efforts. To support vector control interventions in DRC, we characterized the dynamics and impact of insecticide resistance in major malaria vectors in 2015. High Plasmodium infection rates were recorded in Anopheles gambiae and Anopheles funestus, with Plasmodium falciparum predominant over Plasmodium malariae. Both mosquito species exhibited high and multiple resistance to major public health insecticide classes. The extremely high resistance to permethrin and DDT (dichlorodiphenyltrichloroethane) in An. gambiae (low mortalities after 6 hours exposure) is worrisome, and is supported by a reduced insecticidal effect of bed nets against both mosquito species in laboratory tests. Metabolic and target site insensitivity mechanisms are driving this resistance in An. gambiae, but only the former was observed in An. funestus. These findings highlight the urgent need for actions to prolong the effectiveness of insecticide-based interventions in DRC.",
+      "evidence_sentences": [
+        "High Plasmodium infection rates were recorded in Anopheles gambiae and Anopheles funestus, with Plasmodium falciparum predominant over Plasmodium malariae.",
+        "To support vector control interventions in DRC, we characterized the dynamics and impact of insecticide resistance in major malaria vectors in 2015.",
+        "Accounting for approximately 11% of all malaria cases, the Democratic Republic of the Congo (DRC) is central to malaria elimination efforts."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Jacob M Riveron",
+        "Francis Watsenga",
+        "Helen Irving",
+        "Seth R Irish",
+        "Charles S Wondji"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29087484/"
+    },
+    {
+      "pmid": "35933089",
+      "title": "Screening of imported malaria infection in asymptomatic migrants from Sub-Saharan Africa: A retrospective analysis of a 2010-2019 cohort.",
+      "journal": "Travel medicine and infectious disease",
+      "abstract_sections": [
+        "Up to 40% of cases of imported malaria in Europe are diagnosed in recently arrived migrants, who generally exhibit asymptomatic or mild symptoms and show low parasitaemia (submicroscopic). The study describes the prevalence of malaria infection among asymptomatic Sub-Saharan African migrants (ASSAM) and compares asymptomatic malaria-infected (AMI) vs non-malaria infected patients.",
+        "An observational, comparative, retrospective study was carried out in ASSAM who underwent a medical examination, between 2010 and 2019 at the National Reference Unit for Tropical Diseases (NRU-Trop) in Madrid, Spain. Medical examination and systematic screening protocol for infectious diseases, including screening for malaria infection by Polymerase Chain Reaction (PCR) was performed.",
+        "During the study period, 632 out of 1061 ASSAM were screened for malaria, median age: 24 years (IQR:1-5); median time from arrival to diagnosis: 2 months (IQR:1-5). P. falciparum was the most frequent species: 61 patients (67.8%). Compared to non-malaria infected, AMI subjects had: higher rate of co-infection with S. stercoralis (41.1%VS 22.9%;p < 0.001) and filariae (8.9% VS 2.4%;p = 0.006), lower erythrocyte corpuscular volume (83.6 VS 84.4;p = 0.008) and lower levels of cholesterol (151.0 VS 167.3;p < 0.001).",
+        "We observed a high prevalence of AMI among ASSAM. This highlights the need to consider routing screening of migrants from endemic areas and to study if such screening could avoid the potential morbidities associated with chronic infection, reduce morbi-mortality of acute malaria and the risk of transmission in host communities."
+      ],
+      "abstract": "Up to 40% of cases of imported malaria in Europe are diagnosed in recently arrived migrants, who generally exhibit asymptomatic or mild symptoms and show low parasitaemia (submicroscopic). The study describes the prevalence of malaria infection among asymptomatic Sub-Saharan African migrants (ASSAM) and compares asymptomatic malaria-infected (AMI) vs non-malaria infected patients.\n\nAn observational, comparative, retrospective study was carried out in ASSAM who underwent a medical examination, between 2010 and 2019 at the National Reference Unit for Tropical Diseases (NRU-Trop) in Madrid, Spain. Medical examination and systematic screening protocol for infectious diseases, including screening for malaria infection by Polymerase Chain Reaction (PCR) was performed.\n\nDuring the study period, 632 out of 1061 ASSAM were screened for malaria, median age: 24 years (IQR:1-5); median time from arrival to diagnosis: 2 months (IQR:1-5). P. falciparum was the most frequent species: 61 patients (67.8%). Compared to non-malaria infected, AMI subjects had: higher rate of co-infection with S. stercoralis (41.1%VS 22.9%;p < 0.001) and filariae (8.9% VS 2.4%;p = 0.006), lower erythrocyte corpuscular volume (83.6 VS 84.4;p = 0.008) and lower levels of cholesterol (151.0 VS 167.3;p < 0.001).\n\nWe observed a high prevalence of AMI among ASSAM. This highlights the need to consider routing screening of migrants from endemic areas and to study if such screening could avoid the potential morbidities associated with chronic infection, reduce morbi-mortality of acute malaria and the risk of transmission in host communities.",
+      "evidence_sentences": [
+        "Compared to non-malaria infected, AMI subjects had: higher rate of co-infection with S.",
+        "This highlights the need to consider routing screening of migrants from endemic areas and to study if such screening could avoid the potential morbidities associated with chronic infection, reduce morbi-mortality of acute malaria and the risk of transmission in host communities.",
+        "The study describes the prevalence of malaria infection among asymptomatic Sub-Saharan African migrants (ASSAM) and compares asymptomatic malaria-infected (AMI) vs non-malaria infected patients."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "María Dolores Corbacho-Loarte",
+        "Clara Crespillo-Andújar",
+        "Sandra Chamorro-Tojeiro",
+        "Francesca Norman",
+        "José Antonio Pérez-Molina",
+        "Oihane Martín",
+        "José Miguel Rubio",
+        "Beatriz Gullón-Peña",
+        "Rogelio López-Vélez",
+        "Begoña Monge-Maillo"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35933089/"
+    },
+    {
+      "pmid": "33031367",
+      "title": "Uncovering drivers of dose-dependence and individual variation in malaria infection outcomes.",
+      "journal": "PLoS computational biology",
+      "abstract_sections": [
+        "To understand why some hosts get sicker than others from the same type of infection, it is essential to explain how key processes, such as host responses to infection and parasite growth, are influenced by various biotic and abiotic factors. In many disease systems, the initial infection dose impacts host morbidity and mortality. To explore drivers of dose-dependence and individual variation in infection outcomes, we devised a mathematical model of malaria infection that allowed host and parasite traits to be linear functions (reaction norms) of the initial dose. We fitted the model, using a hierarchical Bayesian approach, to experimental time-series data of acute Plasmodium chabaudi infection across doses spanning seven orders of magnitude. We found evidence for both dose-dependent facilitation and debilitation of host responses. Most importantly, increasing dose reduced the strength of activation of indiscriminate host clearance of red blood cells while increasing the half-life of that response, leading to the maximal response at an intermediate dose. We also explored the causes of diverse infection outcomes across replicate mice receiving the same dose. Besides random noise in the injected dose, we found variation in peak parasite load was due to unobserved individual variation in host responses to clear infected cells. Individual variation in anaemia was likely driven by random variation in parasite burst size, which is linked to the rate of host cells lost to malaria infection. General host vigour in the absence of infection was also correlated with host health during malaria infection. Our work demonstrates that the reaction norm approach provides a useful quantitative framework for examining the impact of a continuous external factor on within-host infection processes."
+      ],
+      "abstract": "To understand why some hosts get sicker than others from the same type of infection, it is essential to explain how key processes, such as host responses to infection and parasite growth, are influenced by various biotic and abiotic factors. In many disease systems, the initial infection dose impacts host morbidity and mortality. To explore drivers of dose-dependence and individual variation in infection outcomes, we devised a mathematical model of malaria infection that allowed host and parasite traits to be linear functions (reaction norms) of the initial dose. We fitted the model, using a hierarchical Bayesian approach, to experimental time-series data of acute Plasmodium chabaudi infection across doses spanning seven orders of magnitude. We found evidence for both dose-dependent facilitation and debilitation of host responses. Most importantly, increasing dose reduced the strength of activation of indiscriminate host clearance of red blood cells while increasing the half-life of that response, leading to the maximal response at an intermediate dose. We also explored the causes of diverse infection outcomes across replicate mice receiving the same dose. Besides random noise in the injected dose, we found variation in peak parasite load was due to unobserved individual variation in host responses to clear infected cells. Individual variation in anaemia was likely driven by random variation in parasite burst size, which is linked to the rate of host cells lost to malaria infection. General host vigour in the absence of infection was also correlated with host health during malaria infection. Our work demonstrates that the reaction norm approach provides a useful quantitative framework for examining the impact of a continuous external factor on within-host infection processes.",
+      "evidence_sentences": [
+        "Individual variation in anaemia was likely driven by random variation in parasite burst size, which is linked to the rate of host cells lost to malaria infection.",
+        "To explore drivers of dose-dependence and individual variation in infection outcomes, we devised a mathematical model of malaria infection that allowed host and parasite traits to be linear functions (reaction norms) of the initial dose.",
+        "General host vigour in the absence of infection was also correlated with host health during malaria infection."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Tsukushi Kamiya",
+        "Megan A Greischar",
+        "David S Schneider",
+        "Nicole Mideo"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33031367/"
+    },
+    {
+      "pmid": "22457274",
+      "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "To determine whether human immunodeficiency virus (HIV) infection is associated with increased risk of malaria incidence and recurrence in children.",
+        "Newborn infants of HIV-infected mothers were enrolled at 6 weeks and followed for 2 years. HIV status was assessed by enzyme-linked immunosorbant assay and confirmed by HIV DNA polymerase chain reaction. Malaria was defined as (1) physician-diagnosed clinical malaria; (2) probable malaria, in which laboratory testing is requested for parasitemia; and (3) blood smear-confirmed malaria. Cox proportional hazards models estimated hazard ratios (HRs) for development of first and second malaria episodes, and generalized estimating equation models estimated malaria rate differences per 100-child-years in relation to time-updated HIV status.",
+        "Child HIV infection was associated with clinical (HR, 1.34; 95% confidence interval [CI], 1.12-1.61), probable (HR, 1.47; 95% CI, 1.19-1.81), and confirmed (HR, 1.67; 95% CI, 1.18-2.36) malaria episodes. Per 100 child-years, HIV-infected children experienced 88 (95% CI, 65-113), 36 (95% CI, 19-53), and 20 (95% CI, 9-31) more episodes of clinical, probable, and confirmed malaria episodes, respectively, than HIV-uninfected children. Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children.",
+        "HIV infection is a risk factor for the development of malaria. Proactive malaria disease prevention and treatment is warranted for all children, particularly those with HIV infection in settings of coendemicity."
+      ],
+      "abstract": "To determine whether human immunodeficiency virus (HIV) infection is associated with increased risk of malaria incidence and recurrence in children.\n\nNewborn infants of HIV-infected mothers were enrolled at 6 weeks and followed for 2 years. HIV status was assessed by enzyme-linked immunosorbant assay and confirmed by HIV DNA polymerase chain reaction. Malaria was defined as (1) physician-diagnosed clinical malaria; (2) probable malaria, in which laboratory testing is requested for parasitemia; and (3) blood smear-confirmed malaria. Cox proportional hazards models estimated hazard ratios (HRs) for development of first and second malaria episodes, and generalized estimating equation models estimated malaria rate differences per 100-child-years in relation to time-updated HIV status.\n\nChild HIV infection was associated with clinical (HR, 1.34; 95% confidence interval [CI], 1.12-1.61), probable (HR, 1.47; 95% CI, 1.19-1.81), and confirmed (HR, 1.67; 95% CI, 1.18-2.36) malaria episodes. Per 100 child-years, HIV-infected children experienced 88 (95% CI, 65-113), 36 (95% CI, 19-53), and 20 (95% CI, 9-31) more episodes of clinical, probable, and confirmed malaria episodes, respectively, than HIV-uninfected children. Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children.\n\nHIV infection is a risk factor for the development of malaria. Proactive malaria disease prevention and treatment is warranted for all children, particularly those with HIV infection in settings of coendemicity.",
+      "evidence_sentences": [
+        "Cox proportional hazards models estimated hazard ratios (HRs) for development of first and second malaria episodes, and generalized estimating equation models estimated malaria rate differences per 100-child-years in relation to time-updated HIV status.",
+        "Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children.",
+        "Child HIV infection was associated with clinical (HR, 1.34; 95% confidence interval [CI], 1.12-1.61), probable (HR, 1.47; 95% CI, 1.19-1.81), and confirmed (HR, 1.67; 95% CI, 1.18-2.36) malaria episodes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Amara E Ezeamama",
+        "Donna Spiegelman",
+        "Ellen Hertzmark",
+        "Ronald J Bosch",
+        "Karim P Manji",
+        "Christopher Duggan",
+        "Roland Kupka",
+        "Melanie W Lo",
+        "James O Okuma",
+        "Rodrick Kisenge",
+        "Said Aboud",
+        "Wafaie W Fawzi"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22457274/"
+    },
+    {
+      "pmid": "16122098",
+      "title": "Malaria infection and its consequences in school children.",
+      "journal": "East African medical journal",
+      "abstract_sections": [
+        "To evaluate the prevalence and consequences of malaria infection in school children in the Muea area and its environment.",
+        "A cross-sectional study.",
+        "Muea area, South West Cameroon.",
+        "Two hundred and fourty six randomly selected school children aged three to sixteen years.",
+        "Prevalence of malaria in the Muea area. Determination of parasitaemia. Measurement of haematocrit (PCV) values. Species identification. Consequences of malaria infection in terms of school days lost.",
+        "Prevalence of malaria was 98% and highest prevalence rate (100%) and geometric mean parasite density (1520 parasites/microl of blood) occurred in the < or = 5 years age group. Prevalence of anaemia was generally low (10.8%) and there were no cases of severe anaemia (PCV < 20%). P. vivax-like parasites were detected for the first time in this area. Plasmodium falciparum was the predominant species (93%) followed by P. malariae (52%), P. ovale (42.7%) and P. vivax-like parasites (33.3%). Mixed infections also occurred. Fifty three out of 144 (36.8%) children lost a number of school days ranging from 0.5-14 days, with each child losing an average of 1.53 school days in a month.",
+        "The prevalence of asymptomatic malaria in the Muea area is very high. P. vivax parasites were observed for the first time in the area, but this needs to be confirmed by molecular methods in future studies. Children lost school days as a consequence of malaria infection."
+      ],
+      "abstract": "To evaluate the prevalence and consequences of malaria infection in school children in the Muea area and its environment.\n\nA cross-sectional study.\n\nMuea area, South West Cameroon.\n\nTwo hundred and fourty six randomly selected school children aged three to sixteen years.\n\nPrevalence of malaria in the Muea area. Determination of parasitaemia. Measurement of haematocrit (PCV) values. Species identification. Consequences of malaria infection in terms of school days lost.\n\nPrevalence of malaria was 98% and highest prevalence rate (100%) and geometric mean parasite density (1520 parasites/microl of blood) occurred in the < or = 5 years age group. Prevalence of anaemia was generally low (10.8%) and there were no cases of severe anaemia (PCV < 20%). P. vivax-like parasites were detected for the first time in this area. Plasmodium falciparum was the predominant species (93%) followed by P. malariae (52%), P. ovale (42.7%) and P. vivax-like parasites (33.3%). Mixed infections also occurred. Fifty three out of 144 (36.8%) children lost a number of school days ranging from 0.5-14 days, with each child losing an average of 1.53 school days in a month.\n\nThe prevalence of asymptomatic malaria in the Muea area is very high. P. vivax parasites were observed for the first time in the area, but this needs to be confirmed by molecular methods in future studies. Children lost school days as a consequence of malaria infection.",
+      "evidence_sentences": [
+        "Prevalence of malaria was 98% and highest prevalence rate (100%) and geometric mean parasite density (1520 parasites/microl of blood) occurred in the < or = 5 years age group.",
+        "To evaluate the prevalence and consequences of malaria infection in school children in the Muea area and its environment.",
+        "Children lost school days as a consequence of malaria infection."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "H K Kimbi",
+        "N W Awah",
+        "K J N Ndamukong",
+        "J V Mbuh"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16122098/"
+    },
+    {
+      "pmid": "17722862",
+      "title": "Maternal malaria during pregnancy and infant mortality rate: critical literature review and a new analytical approach.",
+      "journal": "Journal of vector borne diseases",
+      "abstract_sections": [
+        "Malaria during pregnancy is a recognised risk factor for low birth weight and probably decreases the survival of offspring, particularly during their first month of life. On the other hand, acquired maternal immunity may protect infants against malaria infection or disease. This study assesses these two opposite effects simultaneously.",
+        "We used the data of a large epidemiological study on malaria (Garki project) to analyse the impact of malaria during pregnancy on survival of offspring in their first year of life. The dataset contains 138,197 survey records, representing 12,849 subjects. Of 663 reported deliveries, 417 could be linked to survival data for the newborn.",
+        "The mortality rate during the first year of life was independent of maternal malaria infection during pregnancy (crude rate ratio 1.0). After adjustment for malaria in infancy, the rate ratio was 1.2. The corresponding rate ratios for maternal malaria during the second half of pregnancy were 1.46 and 1.73. None of these rate ratios was statistically significant. This may be due to the small number of deaths in the first year of life with a complete record of maternal malaria (27 deaths). The infants during the first four months of life had the lowest risk for Plasmodium falciparum, R malariae and P. ovale infections which may be partly due to acquired maternal immunity. There was a positive association between malaria during pregnancy and malaria during first year of life which might be due to similarity in exposure risks within a family, or confounding effects of socioeconomic status. However, this association was weaker in the first four months of life, and in those women who contracted infection during the second half of pregnancy. This may indicate that acquired immunity is stronger in this group and partially protects babies for a few months.",
+        "It seems that on the whole, malaria during pregnancy was not a major risk factor for infant mortality in the Garki project. These results suggest that ignoring acquired maternal immunity may overestimate the hazard of malaria during pregnancy on infant survival."
+      ],
+      "abstract": "Malaria during pregnancy is a recognised risk factor for low birth weight and probably decreases the survival of offspring, particularly during their first month of life. On the other hand, acquired maternal immunity may protect infants against malaria infection or disease. This study assesses these two opposite effects simultaneously.\n\nWe used the data of a large epidemiological study on malaria (Garki project) to analyse the impact of malaria during pregnancy on survival of offspring in their first year of life. The dataset contains 138,197 survey records, representing 12,849 subjects. Of 663 reported deliveries, 417 could be linked to survival data for the newborn.\n\nThe mortality rate during the first year of life was independent of maternal malaria infection during pregnancy (crude rate ratio 1.0). After adjustment for malaria in infancy, the rate ratio was 1.2. The corresponding rate ratios for maternal malaria during the second half of pregnancy were 1.46 and 1.73. None of these rate ratios was statistically significant. This may be due to the small number of deaths in the first year of life with a complete record of maternal malaria (27 deaths). The infants during the first four months of life had the lowest risk for Plasmodium falciparum, R malariae and P. ovale infections which may be partly due to acquired maternal immunity. There was a positive association between malaria during pregnancy and malaria during first year of life which might be due to similarity in exposure risks within a family, or confounding effects of socioeconomic status. However, this association was weaker in the first four months of life, and in those women who contracted infection during the second half of pregnancy. This may indicate that acquired immunity is stronger in this group and partially protects babies for a few months.\n\nIt seems that on the whole, malaria during pregnancy was not a major risk factor for infant mortality in the Garki project. These results suggest that ignoring acquired maternal immunity may overestimate the hazard of malaria during pregnancy on infant survival.",
+      "evidence_sentences": [
+        "The mortality rate during the first year of life was independent of maternal malaria infection during pregnancy (crude rate ratio 1.0).",
+        "The corresponding rate ratios for maternal malaria during the second half of pregnancy were 1.46 and 1.73.",
+        "On the other hand, acquired maternal immunity may protect infants against malaria infection or disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Ali A Haghdoost",
+        "Neal Alexander",
+        "Tom Smith"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17722862/"
+    },
+    {
+      "pmid": "26690736",
+      "title": "Falling Plasmodium knowlesi Malaria Death Rate among Adults despite Rising Incidence, Sabah, Malaysia, 2010-2014.",
+      "journal": "Emerging infectious diseases",
+      "abstract_sections": [
+        "Deaths from Plasmodium knowlesi malaria have been linked to delayed parenteral treatment. In Malaysia, early intravenous artesunate is now recommended for all severe malaria cases. We describe P. knowlesi fatalities in Sabah, Malaysia, during 2012-2014 and report species-specific fatality rates based on 2010-2014 case notifications. Sixteen malaria-associated deaths (caused by PCR-confirmed P. knowlesi [7], P. falciparum [7], and P. vivax [1] and microscopy-diagnosed \"P. malariae\" [1]) were reported during 2012-2014. Six patients with severe P. knowlesi malaria received intravenous artesunate at hospital admission. For persons ≥15 years of age, overall fatality rates during 2010-2014 were 3.4, 4.2, and 1.0 deaths/1,000 P. knowlesi, P. falciparum, and P. vivax notifications, respectively; P. knowlesi-associated fatality rates fell from 9.2 to 1.6 deaths/1,000 notifications. No P. knowlesi-associated deaths occurred among children, despite 373 notified cases. Although P. knowlesi malaria incidence is rising, the notification-fatality rate has decreased, likely due to improved use of intravenous artesunate."
+      ],
+      "abstract": "Deaths from Plasmodium knowlesi malaria have been linked to delayed parenteral treatment. In Malaysia, early intravenous artesunate is now recommended for all severe malaria cases. We describe P. knowlesi fatalities in Sabah, Malaysia, during 2012-2014 and report species-specific fatality rates based on 2010-2014 case notifications. Sixteen malaria-associated deaths (caused by PCR-confirmed P. knowlesi [7], P. falciparum [7], and P. vivax [1] and microscopy-diagnosed \"P. malariae\" [1]) were reported during 2012-2014. Six patients with severe P. knowlesi malaria received intravenous artesunate at hospital admission. For persons ≥15 years of age, overall fatality rates during 2010-2014 were 3.4, 4.2, and 1.0 deaths/1,000 P. knowlesi, P. falciparum, and P. vivax notifications, respectively; P. knowlesi-associated fatality rates fell from 9.2 to 1.6 deaths/1,000 notifications. No P. knowlesi-associated deaths occurred among children, despite 373 notified cases. Although P. knowlesi malaria incidence is rising, the notification-fatality rate has decreased, likely due to improved use of intravenous artesunate.",
+      "evidence_sentences": [
+        "knowlesi malaria incidence is rising, the notification-fatality rate has decreased, likely due to improved use of intravenous artesunate.",
+        "In Malaysia, early intravenous artesunate is now recommended for all severe malaria cases.",
+        "Deaths from Plasmodium knowlesi malaria have been linked to delayed parenteral treatment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Giri S Rajahram",
+        "Bridget E Barber",
+        "Timothy William",
+        "Matthew J Grigg",
+        "Jayaram Menon",
+        "Tsin W Yeo",
+        "Nicholas M Anstey"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26690736/"
+    },
+    {
+      "pmid": "30731298",
+      "title": "Malaria infection rates in Anopheles albimanus (Diptera: Culicidae) at Ipetí-Guna, a village within a region targeted for malaria elimination in Panamá.",
+      "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+      "abstract_sections": [
+        "The Panamá Canal construction encompassed one of the first examples of malaria elimination. Nevertheless, malaria has uninterruptedly persisted in Native American populations living within a few kilometers of the Panamá Canal. Here, we present results from a monthly longitudinal study (May 2016 to March 2018), whose goal was to quantitatively describe seasonal patterns of Plasmodium spp. infection in Anopheles albimanus Wiedemann, and its association with environmental covariates, at Ipetí-Guna, a village within a region targeted for malaria elimination in Panamá. To detect Plasmodium spp. infections we employed a standard nested PCR on DNA extracts from mosquito pools of varying size, which were then used to estimate monthly infection rates using a maximum likelihood method. The infection rate estimates (IR) were analyzed using time series analysis methods to study their association with changes in rainfall, temperature, NDVI (a satellite derived vegetation index), malaria cases and human biting rates (HBR). We found that mosquitoes were infected by Plasmodium vivax mainly from September to December, reaching a peak in December. Time series modeling showed malaria IR in An albimanus increased, simultaneously with HBR, and IR in the previous month. These results suggest that elimination interventions, such as mass drug administration, are likely to be more effective if deployed from the middle to the end of the dry season (March and April at Ipetí-Guna), when the likelihood of malaria infection in mosquitoes is very low and when curtailing human infections driving infections in mosquitoes can reduce malaria transmission, and increase the chance for elimination."
+      ],
+      "abstract": "The Panamá Canal construction encompassed one of the first examples of malaria elimination. Nevertheless, malaria has uninterruptedly persisted in Native American populations living within a few kilometers of the Panamá Canal. Here, we present results from a monthly longitudinal study (May 2016 to March 2018), whose goal was to quantitatively describe seasonal patterns of Plasmodium spp. infection in Anopheles albimanus Wiedemann, and its association with environmental covariates, at Ipetí-Guna, a village within a region targeted for malaria elimination in Panamá. To detect Plasmodium spp. infections we employed a standard nested PCR on DNA extracts from mosquito pools of varying size, which were then used to estimate monthly infection rates using a maximum likelihood method. The infection rate estimates (IR) were analyzed using time series analysis methods to study their association with changes in rainfall, temperature, NDVI (a satellite derived vegetation index), malaria cases and human biting rates (HBR). We found that mosquitoes were infected by Plasmodium vivax mainly from September to December, reaching a peak in December. Time series modeling showed malaria IR in An albimanus increased, simultaneously with HBR, and IR in the previous month. These results suggest that elimination interventions, such as mass drug administration, are likely to be more effective if deployed from the middle to the end of the dry season (March and April at Ipetí-Guna), when the likelihood of malaria infection in mosquitoes is very low and when curtailing human infections driving infections in mosquitoes can reduce malaria transmission, and increase the chance for elimination.",
+      "evidence_sentences": [
+        "The infection rate estimates (IR) were analyzed using time series analysis methods to study their association with changes in rainfall, temperature, NDVI (a satellite derived vegetation index), malaria cases and human biting rates (HBR).",
+        "These results suggest that elimination interventions, such as mass drug administration, are likely to be more effective if deployed from the middle to the end of the dry season (March and April at Ipetí-Guna), when the likelihood of malaria infection in mosquitoes is very low and when curtailing human infections driving infections in mosquitoes can reduce malaria transmission, and increase the chance for elimination.",
+        "infection in Anopheles albimanus Wiedemann, and its association with environmental covariates, at Ipetí-Guna, a village within a region targeted for malaria elimination in Panamá."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Chystrie A Rigg",
+        "Lisbeth Amarilis Hurtado",
+        "José E Calzada",
+        "Luis Fernando Chaves"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30731298/"
+    },
+    {
+      "pmid": "25301957",
+      "title": "Understanding the relationship between Plasmodium falciparum growth rate and multiplicity of infection.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "Natural infections with Plasmodium falciparum are often composed of multiple concurrent genetically distinct parasite clones. Such multiclonal infections are more common in areas of high transmission, and the frequency of multiclonal infection also varies with age. A number of studies have suggested that multiclonal infection predicts the risk of subsequent clinical malaria. The multiplicity of infection is determined by the rate of new infections, the number of clones inoculated at each mosquito bite, and the duration of infections. Here, we used a mathematical modeling approach to understand how variation in the growth rate of blood-stage parasites affects the observed multiplicity of infection (MOI), as well as the relationship between the MOI and the risk of subsequent malaria. We then analyzed data from a study of multiclonal infection and malaria in an malaria-endemic area in Tanzania and show that the proportion of multiclonal infections varies with age and that the observed relationship between multiclonal infection and subsequent clinical events can be explained by a reduction in blood-stage parasite growth with age in this population."
+      ],
+      "abstract": "Natural infections with Plasmodium falciparum are often composed of multiple concurrent genetically distinct parasite clones. Such multiclonal infections are more common in areas of high transmission, and the frequency of multiclonal infection also varies with age. A number of studies have suggested that multiclonal infection predicts the risk of subsequent clinical malaria. The multiplicity of infection is determined by the rate of new infections, the number of clones inoculated at each mosquito bite, and the duration of infections. Here, we used a mathematical modeling approach to understand how variation in the growth rate of blood-stage parasites affects the observed multiplicity of infection (MOI), as well as the relationship between the MOI and the risk of subsequent malaria. We then analyzed data from a study of multiclonal infection and malaria in an malaria-endemic area in Tanzania and show that the proportion of multiclonal infections varies with age and that the observed relationship between multiclonal infection and subsequent clinical events can be explained by a reduction in blood-stage parasite growth with age in this population.",
+      "evidence_sentences": [
+        "Here, we used a mathematical modeling approach to understand how variation in the growth rate of blood-stage parasites affects the observed multiplicity of infection (MOI), as well as the relationship between the MOI and the risk of subsequent malaria.",
+        "We then analyzed data from a study of multiclonal infection and malaria in an malaria-endemic area in Tanzania and show that the proportion of multiclonal infections varies with age and that the observed relationship between multiclonal infection and subsequent clinical events can be explained by a reduction in blood-stage parasite growth with age in this population.",
+        "A number of studies have suggested that multiclonal infection predicts the risk of subsequent clinical malaria."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Mykola Pinkevych",
+        "Janka Petravic",
+        "Sandor Bereczky",
+        "Ingegerd Rooth",
+        "Anna Färnert",
+        "Miles P Davenport"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25301957/"
+    },
+    {
+      "pmid": "21224274",
+      "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+      "journal": "International journal of epidemiology",
+      "abstract_sections": [
+        "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "In adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].",
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "abstract": "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.\n\nUsing large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.\n\nIn adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].\n\nThis is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals.",
+      "evidence_sentences": [
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Diego F Cuadros",
+        "Adam J Branscum",
+        "Philip H Crowley"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21224274/"
+    },
+    {
+      "pmid": "22943054",
+      "title": "Correlates of HIV and malaria co-infection in Southern India.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria. Plasmodium vivax contributes to almost half of the malaria cases in India, but the disease burden of HIV and P. vivax co-infection is unclear.",
+        "HIV-infected subjects (n=460) were randomly selected from the 4,611 individuals seen at a Voluntary Counseling and Testing Center in Chennai, India between Jan 2 to Dec 31 2008. Malaria testing was performed on stored plasma samples by nested PCR using both genus-specific and species-specific primers and immunochromatography-based rapid diagnostic test for detecting antibodies against Plasmodium falciparum and P. vivax.",
+        "Recent malaria co-infection, defined by the presence of antibodies, was detected in 9.8% (45/460) participants. Plasmodium vivax accounted for majority of the infections (60%) followed by P. falciparum (27%) and mixed infections (13%). Individuals with HIV and malaria co-infection were more likely to be men (p=0.01). Between those with and without malaria, there was no difference in age (p=0.14), CD4+ T-cell counts (p=0.19) or proportion CD4+ T-cell below 200/mL (p=0.51).",
+        "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P. vivax. However, the rate of P. falciparum infection was more than 6-fold higher among HIV-infected individuals than what would be expected in the general population in the region. Interestingly, individuals co-infected with malaria and HIV were not more likely to be immunosuppressed than individuals with HIV infection alone."
+      ],
+      "abstract": "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria. Plasmodium vivax contributes to almost half of the malaria cases in India, but the disease burden of HIV and P. vivax co-infection is unclear.\n\nHIV-infected subjects (n=460) were randomly selected from the 4,611 individuals seen at a Voluntary Counseling and Testing Center in Chennai, India between Jan 2 to Dec 31 2008. Malaria testing was performed on stored plasma samples by nested PCR using both genus-specific and species-specific primers and immunochromatography-based rapid diagnostic test for detecting antibodies against Plasmodium falciparum and P. vivax.\n\nRecent malaria co-infection, defined by the presence of antibodies, was detected in 9.8% (45/460) participants. Plasmodium vivax accounted for majority of the infections (60%) followed by P. falciparum (27%) and mixed infections (13%). Individuals with HIV and malaria co-infection were more likely to be men (p=0.01). Between those with and without malaria, there was no difference in age (p=0.14), CD4+ T-cell counts (p=0.19) or proportion CD4+ T-cell below 200/mL (p=0.51).\n\nRetrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P. vivax. However, the rate of P. falciparum infection was more than 6-fold higher among HIV-infected individuals than what would be expected in the general population in the region. Interestingly, individuals co-infected with malaria and HIV were not more likely to be immunosuppressed than individuals with HIV infection alone.",
+      "evidence_sentences": [
+        "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P.",
+        "Interestingly, individuals co-infected with malaria and HIV were not more likely to be immunosuppressed than individuals with HIV infection alone.",
+        "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "infection",
+        "rate"
+      ],
+      "authors": [
+        "Ajay R Bharti",
+        "Shanmugam Saravanan",
+        "Vidya Madhavan",
+        "Davey M Smith",
+        "Jabin Sharma",
+        "Pachamuthu Balakrishnan",
+        "Scott L Letendre",
+        "Nagalingeswaran Kumarasamy"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22943054/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "8426",
+      "retmax": "20",
+      "retstart": "0",
+      "idlist": [
+        "35916842",
+        "12563598",
+        "31679015",
+        "32632180",
+        "32013740",
+        "2189001",
+        "37573300",
+        "18039099",
+        "25557077",
+        "29087484",
+        "35933089",
+        "33031367",
+        "22457274",
+        "16122098",
+        "17722862",
+        "26690736",
+        "30731298",
+        "25301957",
+        "21224274",
+        "22943054"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "infection",
+          "to": "\"infect\"[All Fields] OR \"infectability\"[All Fields] OR \"infectable\"[All Fields] OR \"infectant\"[All Fields] OR \"infectants\"[All Fields] OR \"infected\"[All Fields] OR \"infecteds\"[All Fields] OR \"infectibility\"[All Fields] OR \"infectible\"[All Fields] OR \"infecting\"[All Fields] OR \"infection's\"[All Fields] OR \"infections\"[MeSH Terms] OR \"infections\"[All Fields] OR \"infection\"[All Fields] OR \"infective\"[All Fields] OR \"infectiveness\"[All Fields] OR \"infectives\"[All Fields] OR \"infectivities\"[All Fields] OR \"infects\"[All Fields] OR \"pathogenicity\"[Subheading] OR \"pathogenicity\"[All Fields] OR \"infectivity\"[All Fields]"
+        },
+        {
+          "from": "rate",
+          "to": "\"J Rehabil Assist Technol Eng\"[Journal:__jid101671667] OR \"rate\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"infect\"[All Fields] OR \"infectability\"[All Fields] OR \"infectable\"[All Fields] OR \"infectant\"[All Fields] OR \"infectants\"[All Fields] OR \"infected\"[All Fields] OR \"infecteds\"[All Fields] OR \"infectibility\"[All Fields] OR \"infectible\"[All Fields] OR \"infecting\"[All Fields] OR \"infection s\"[All Fields] OR \"infections\"[MeSH Terms] OR \"infections\"[All Fields] OR \"infection\"[All Fields] OR \"infective\"[All Fields] OR \"infectiveness\"[All Fields] OR \"infectives\"[All Fields] OR \"infectivities\"[All Fields] OR \"infects\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"infectivity\"[All Fields]) AND (\"j rehabil assist technol eng\"[Journal] OR \"rate\"[All Fields])"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "run_id": "4a9940215dd94345a155d967eee6d41c",
+  "stored_at": "2026-04-16T18:57:51+00:00",
+  "query": "lung cancer latest treatment therapy management kenya",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer treatment outcomes in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in kenya",
+    "current therapeutic strategies for lung cancer in kenya",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment outcomes in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in kenya",
+    "current therapeutic strategies for lung cancer in kenya"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 4,
+    "openalex": 150,
+    "semantic_hits": 125,
+    "indexed_chunks": 247
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment outcomes in kenya",
+      "epidemiology of lung cancer in kenya",
+      "systematic review of lung cancer management in kenya",
+      "current therapeutic strategies for lung cancer in kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4a9940215dd94345a155d967eee6d41c\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4a9940215dd94345a155d967eee6d41c\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4a9940215dd94345a155d967eee6d41c\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4a9940215dd94345a155d967eee6d41c\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4a9940215dd94345a155d967eee6d41c\\combined.records.json"
+  }
+}

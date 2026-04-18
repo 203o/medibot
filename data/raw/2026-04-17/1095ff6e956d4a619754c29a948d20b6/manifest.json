@@ -1,0 +1,75 @@
+{
+  "run_id": "1095ff6e956d4a619754c29a948d20b6",
+  "stored_at": "2026-04-17T13:59:59+00:00",
+  "query": "lung cancer lung cancer treatment therapy canada",
+  "query_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer epidemiology in canada",
+    "systematic review of lung cancer treatment in canada",
+    "lung cancer incidence and mortality trends in canada",
+    "evidence-based guidelines for lung cancer management in canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology in canada",
+    "systematic review of lung cancer treatment in canada",
+    "lung cancer incidence and mortality trends in canada",
+    "evidence-based guidelines for lung cancer management in canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "guidance",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology in canada",
+      "systematic review of lung cancer treatment in canada",
+      "lung cancer incidence and mortality trends in canada",
+      "evidence-based guidelines for lung cancer management in canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1095ff6e956d4a619754c29a948d20b6\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1095ff6e956d4a619754c29a948d20b6\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1095ff6e956d4a619754c29a948d20b6\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1095ff6e956d4a619754c29a948d20b6\\combined.records.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "run_id": "1b8c1c9e5de146ebad8f89357f97930b",
+  "stored_at": "2026-04-17T10:45:13+00:00",
+  "query": "lung cancer lung cancer clinical question canada",
+  "query_fallbacks": [
+    "lung cancer lung cancer clinical question canada",
+    "lung cancer epidemiology in children aged 10-18 in Canada",
+    "systematic review of lung cancer incidence in Canadian youth",
+    "lung cancer clinical characteristics in Canadian children",
+    "evidence synthesis of lung cancer in pediatric population in Canada",
+    "lung cancer lung cancer clinical question",
+    "lung cancer lung cancer clinical treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer clinical question canada",
+    "lung cancer lung cancer clinical question",
+    "lung cancer lung cancer clinical treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology in children aged 10-18 in Canada",
+    "systematic review of lung cancer incidence in Canadian youth",
+    "lung cancer clinical characteristics in Canadian children",
+    "evidence synthesis of lung cancer in pediatric population in Canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "clinical",
+    "question",
+    "children",
+    "age",
+    "above",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 29,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 134
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology in children aged 10-18 in Canada",
+      "systematic review of lung cancer incidence in Canadian youth",
+      "lung cancer clinical characteristics in Canadian children",
+      "evidence synthesis of lung cancer in pediatric population in Canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1b8c1c9e5de146ebad8f89357f97930b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1b8c1c9e5de146ebad8f89357f97930b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1b8c1c9e5de146ebad8f89357f97930b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\1b8c1c9e5de146ebad8f89357f97930b\\combined.records.json"
+  }
+}

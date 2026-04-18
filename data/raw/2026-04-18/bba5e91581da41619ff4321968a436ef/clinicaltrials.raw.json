@@ -1,0 +1,435 @@
+{
+  "query": "parkinson's disease parkinson disease causes children USA",
+  "selected_query": "parkinson's disease parkinson disease causes children USA",
+  "attempted_queries": [
+    {
+      "query": "parkinson's disease parkinson disease causes children USA",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson's disease parkinson disease causes children USA",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "USA",
+  "records": [
+    {
+      "nct_id": "NCT03274037",
+      "title": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+      "brief_summary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+      "detailed_description": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain",
+      "evidence_sentences": [
+        "Neurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues.",
+        "MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.",
+        "For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "UNKNOWN",
+      "last_update": "2017-09-07",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "causes",
+        "children",
+        "usa"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT03274037",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03274037",
+            "orgStudyIdInfo": {
+              "id": "IDRCB: 2013-A00289-36"
+            },
+            "organization": {
+              "fullName": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            },
+            "briefTitle": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+            "officialTitle": "The Relevance of Cerebral MRI Elastography in the Mechanical Characterization of Glial Tumors",
+            "acronym": "g-BrainMRE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2017-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-07-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2017-09-04",
+            "studyFirstSubmitQcDate": "2017-09-05",
+            "studyFirstPostDateStruct": {
+              "date": "2017-09-06",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2017-09-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2017-09-08",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+            "detailedDescription": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Elasticity Imaging Techniques"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 48,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Examination of cerebral MRI elastography",
+                "type": "EXPERIMENTAL",
+                "description": "The mechanical waves will be induced by pressure waves guided to the mouth of the elongated subject in the MRI",
+                "interventionNames": [
+                  "Diagnostic Test: Device for mechanical excitation by pressure waves"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Device for mechanical excitation by pressure waves",
+                "description": "The IRM elastography technique, proven and patented in 2010 by the IR4M (Orsay, France), consists in characterizing by IRM induced waves in the human body in order to determine the mechanical properties Of the target organ.\n\nThe mechanical waves will be induced by pressure waves guided at the mouth of the subject elongated in the MRI and consisting of a function generator at a frequency between 5 Hz and 500 Hz, linear amplifier , An electromechanical transducer, a waveguide whose length is adapted to the chosen excitation frequency, an antibacterial filter and a disposable mouthpiece\n\nThe MRI imager Achieva 1.5 T MRI (Philips Healthcare, Best, the Netherlands) and the SIGNA Architect GEM 3.0T (GE medical systems, LLC, USA) system will be used to measure brain tissue displacement fields.",
+                "armGroupLabels": [
+                  "Examination of cerebral MRI elastography"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "normal values of cerebral MRI elastography in healthy volunteers",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Values of shear modulus of elasticity in the brain region explored",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              },
+              {
+                "measure": "Values of shear viscosity modulus according to the explored region of the brain",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria for healthy subjects will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* No known and diagnosed neurological pathologies such as stroke, cerebral surgery, central nervous system tumor, inflammatory disease (such as multiple sclerosis), neurodegenerative disease (such as Alzheimer's, Parkinson's or Creutzfeldt-Jakobes's ), depression\n* Informed consent\n\nInclusion criteria for patients will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* Glial tumor greater than 3 mm diagnosed by standard MRI\n* Informed and informed consent\n\nExclusion Criteriafor both patients and healthy subjects will be:\n\n* Inability to perform an MRI examination : claustrophobia, presence of ferromagnetic metallic foreign bodies, wearing a pace-maker, metallic cardiac prosthetic valve, cochlear implants, vascular clips, insulin pump, pregnancy, breastfeeding..\n\n  * Non-affiliation to a social security scheme (beneficiary or beneficiary)\n  * Intercurrent disorder likely to disrupt test results\n  * Patient under anticoagulant:",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "65 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "role": "CONTACT",
+                "phone": "01 45 21 33 88",
+                "email": "denis.ducreux@bct.aphp.fr"
+              },
+              {
+                "name": "Xavier MD MAITRE, PhD",
+                "role": "CONTACT",
+                "phone": "01 69 15 41 34",
+                "email": "xavier.maitre@u-psud.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "affiliation": "Assistance publique des hopitaux de paris",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Denis DUCREUX",
+                "status": "RECRUITING",
+                "city": "Le Kremlin-Bicêtre",
+                "state": "France",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Denis MD DUCREUX, PhD",
+                    "role": "CONTACT",
+                    "phone": "01 45 21 33 88",
+                    "email": "denis.ducreux@bct.aphp.fr"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.81471,
+                  "lon": 2.36073
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03274037",
+            "orgStudyIdInfo": {
+              "id": "IDRCB: 2013-A00289-36"
+            },
+            "organization": {
+              "fullName": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            },
+            "briefTitle": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+            "officialTitle": "The Relevance of Cerebral MRI Elastography in the Mechanical Characterization of Glial Tumors",
+            "acronym": "g-BrainMRE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2017-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-07-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2017-09-04",
+            "studyFirstSubmitQcDate": "2017-09-05",
+            "studyFirstPostDateStruct": {
+              "date": "2017-09-06",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2017-09-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2017-09-08",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+            "detailedDescription": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Elasticity Imaging Techniques"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 48,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Examination of cerebral MRI elastography",
+                "type": "EXPERIMENTAL",
+                "description": "The mechanical waves will be induced by pressure waves guided to the mouth of the elongated subject in the MRI",
+                "interventionNames": [
+                  "Diagnostic Test: Device for mechanical excitation by pressure waves"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Device for mechanical excitation by pressure waves",
+                "description": "The IRM elastography technique, proven and patented in 2010 by the IR4M (Orsay, France), consists in characterizing by IRM induced waves in the human body in order to determine the mechanical properties Of the target organ.\n\nThe mechanical waves will be induced by pressure waves guided at the mouth of the subject elongated in the MRI and consisting of a function generator at a frequency between 5 Hz and 500 Hz, linear amplifier , An electromechanical transducer, a waveguide whose length is adapted to the chosen excitation frequency, an antibacterial filter and a disposable mouthpiece\n\nThe MRI imager Achieva 1.5 T MRI (Philips Healthcare, Best, the Netherlands) and the SIGNA Architect GEM 3.0T (GE medical systems, LLC, USA) system will be used to measure brain tissue displacement fields.",
+                "armGroupLabels": [
+                  "Examination of cerebral MRI elastography"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "normal values of cerebral MRI elastography in healthy volunteers",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Values of shear modulus of elasticity in the brain region explored",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              },
+              {
+                "measure": "Values of shear viscosity modulus according to the explored region of the brain",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria for healthy subjects will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* No known and diagnosed neurological pathologies such as stroke, cerebral surgery, central nervous system tumor, inflammatory disease (such as multiple sclerosis), neurodegenerative disease (such as Alzheimer's, Parkinson's or Creutzfeldt-Jakobes's ), depression\n* Informed consent\n\nInclusion criteria for patients will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* Glial tumor greater than 3 mm diagnosed by standard MRI\n* Informed and informed consent\n\nExclusion Criteriafor both patients and healthy subjects will be:\n\n* Inability to perform an MRI examination : claustrophobia, presence of ferromagnetic metallic foreign bodies, wearing a pace-maker, metallic cardiac prosthetic valve, cochlear implants, vascular clips, insulin pump, pregnancy, breastfeeding..\n\n  * Non-affiliation to a social security scheme (beneficiary or beneficiary)\n  * Intercurrent disorder likely to disrupt test results\n  * Patient under anticoagulant:",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "65 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "role": "CONTACT",
+                "phone": "01 45 21 33 88",
+                "email": "denis.ducreux@bct.aphp.fr"
+              },
+              {
+                "name": "Xavier MD MAITRE, PhD",
+                "role": "CONTACT",
+                "phone": "01 69 15 41 34",
+                "email": "xavier.maitre@u-psud.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "affiliation": "Assistance publique des hopitaux de paris",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Denis DUCREUX",
+                "status": "RECRUITING",
+                "city": "Le Kremlin-Bicêtre",
+                "state": "France",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Denis MD DUCREUX, PhD",
+                    "role": "CONTACT",
+                    "phone": "01 45 21 33 88",
+                    "email": "denis.ducreux@bct.aphp.fr"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.81471,
+                  "lon": 2.36073
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

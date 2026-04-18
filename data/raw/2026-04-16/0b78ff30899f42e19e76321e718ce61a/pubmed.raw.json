@@ -1,0 +1,525 @@
+{
+  "query": "lung cancer you compare cacer deaths Canada",
+  "selected_query": "lung cancer mortality rates Canada versus Africa",
+  "attempted_queries": [
+    {
+      "query": "lung cancer you compare cacer deaths Canada",
+      "count": 0
+    },
+    {
+      "query": "lung cancer mortality rates Canada versus Africa",
+      "count": 6
+    }
+  ],
+  "id_list": [
+    "24815805",
+    "39645377",
+    "35369606",
+    "41877745",
+    "26602067",
+    "34914899"
+  ],
+  "records": [
+    {
+      "pmid": "24815805",
+      "title": "Effectiveness of neuraminidase inhibitors in reducing mortality in patients admitted to hospital with influenza A H1N1pdm09 virus infection: a meta-analysis of individual participant data.",
+      "journal": "The Lancet. Respiratory medicine",
+      "abstract_sections": [
+        "Neuraminidase inhibitors were widely used during the 2009-10 influenza A H1N1 pandemic, but evidence for their effectiveness in reducing mortality is uncertain. We did a meta-analysis of individual participant data to investigate the association between use of neuraminidase inhibitors and mortality in patients admitted to hospital with pandemic influenza A H1N1pdm09 virus infection.",
+        "We assembled data for patients (all ages) admitted to hospital worldwide with laboratory confirmed or clinically diagnosed pandemic influenza A H1N1pdm09 virus infection. We identified potential data contributors from an earlier systematic review of reported studies addressing the same research question. In our systematic review, eligible studies were done between March 1, 2009 (Mexico), or April 1, 2009 (rest of the world), until the WHO declaration of the end of the pandemic (Aug 10, 2010); however, we continued to receive data up to March 14, 2011, from ongoing studies. We did a meta-analysis of individual participant data to assess the association between neuraminidase inhibitor treatment and mortality (primary outcome), adjusting for both treatment propensity and potential confounders, using generalised linear mixed modelling. We assessed the association with time to treatment using time-dependent Cox regression shared frailty modelling.",
+        "We included data for 29,234 patients from 78 studies of patients admitted to hospital between Jan 2, 2009, and March 14, 2011. Compared with no treatment, neuraminidase inhibitor treatment (irrespective of timing) was associated with a reduction in mortality risk (adjusted odds ratio [OR] 0·81; 95% CI 0·70-0·93; p=0·0024). Compared with later treatment, early treatment (within 2 days of symptom onset) was associated with a reduction in mortality risk (adjusted OR 0·48; 95% CI 0·41-0·56; p<0·0001). Early treatment versus no treatment was also associated with a reduction in mortality (adjusted OR 0·50; 95% CI 0·37-0·67; p<0·0001). These associations with reduced mortality risk were less pronounced and not significant in children. There was an increase in the mortality hazard rate with each day's delay in initiation of treatment up to day 5 as compared with treatment initiated within 2 days of symptom onset (adjusted hazard ratio [HR 1·23] [95% CI 1·18-1·28]; p<0·0001 for the increasing HR with each day's delay).",
+        "We advocate early instigation of neuraminidase inhibitor treatment in adults admitted to hospital with suspected or proven influenza infection.",
+        "F Hoffmann-La Roche."
+      ],
+      "abstract": "Neuraminidase inhibitors were widely used during the 2009-10 influenza A H1N1 pandemic, but evidence for their effectiveness in reducing mortality is uncertain. We did a meta-analysis of individual participant data to investigate the association between use of neuraminidase inhibitors and mortality in patients admitted to hospital with pandemic influenza A H1N1pdm09 virus infection.\n\nWe assembled data for patients (all ages) admitted to hospital worldwide with laboratory confirmed or clinically diagnosed pandemic influenza A H1N1pdm09 virus infection. We identified potential data contributors from an earlier systematic review of reported studies addressing the same research question. In our systematic review, eligible studies were done between March 1, 2009 (Mexico), or April 1, 2009 (rest of the world), until the WHO declaration of the end of the pandemic (Aug 10, 2010); however, we continued to receive data up to March 14, 2011, from ongoing studies. We did a meta-analysis of individual participant data to assess the association between neuraminidase inhibitor treatment and mortality (primary outcome), adjusting for both treatment propensity and potential confounders, using generalised linear mixed modelling. We assessed the association with time to treatment using time-dependent Cox regression shared frailty modelling.\n\nWe included data for 29,234 patients from 78 studies of patients admitted to hospital between Jan 2, 2009, and March 14, 2011. Compared with no treatment, neuraminidase inhibitor treatment (irrespective of timing) was associated with a reduction in mortality risk (adjusted odds ratio [OR] 0·81; 95% CI 0·70-0·93; p=0·0024). Compared with later treatment, early treatment (within 2 days of symptom onset) was associated with a reduction in mortality risk (adjusted OR 0·48; 95% CI 0·41-0·56; p<0·0001). Early treatment versus no treatment was also associated with a reduction in mortality (adjusted OR 0·50; 95% CI 0·37-0·67; p<0·0001). These associations with reduced mortality risk were less pronounced and not significant in children. There was an increase in the mortality hazard rate with each day's delay in initiation of treatment up to day 5 as compared with treatment initiated within 2 days of symptom onset (adjusted hazard ratio [HR 1·23] [95% CI 1·18-1·28]; p<0·0001 for the increasing HR with each day's delay).\n\nWe advocate early instigation of neuraminidase inhibitor treatment in adults admitted to hospital with suspected or proven influenza infection.\n\nF Hoffmann-La Roche.",
+      "evidence_sentences": [
+        "There was an increase in the mortality hazard rate with each day's delay in initiation of treatment up to day 5 as compared with treatment initiated within 2 days of symptom onset (adjusted hazard ratio [HR 1·23] [95% CI 1·18-1·28]; p<0·0001 for the increasing HR with each day's delay).",
+        "Compared with no treatment, neuraminidase inhibitor treatment (irrespective of timing) was associated with a reduction in mortality risk (adjusted odds ratio [OR] 0·81; 95% CI 0·70-0·93; p=0·0024).",
+        "Compared with later treatment, early treatment (within 2 days of symptom onset) was associated with a reduction in mortality risk (adjusted OR 0·48; 95% CI 0·41-0·56; p<0·0001)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "Stella G Muthuri",
+        "Sudhir Venkatesan",
+        "Puja R Myles",
+        "Jo Leonardi-Bee",
+        "Tarig S A Al Khuwaitir",
+        "Adbullah Al Mamun",
+        "Ashish P Anovadiya",
+        "Eduardo Azziz-Baumgartner",
+        "Clarisa Báez",
+        "Matteo Bassetti",
+        "Bojana Beovic",
+        "Barbara Bertisch",
+        "Isabelle Bonmarin",
+        "Robert Booy",
+        "Victor H Borja-Aburto",
+        "Heinz Burgmann",
+        "Bin Cao",
+        "Jordi Carratala",
+        "Justin T Denholm",
+        "Samuel R Dominguez",
+        "Pericles A D Duarte",
+        "Gal Dubnov-Raz",
+        "Marcela Echavarria",
+        "Sergio Fanella",
+        "Zhancheng Gao",
+        "Patrick Gérardin",
+        "Maddalena Giannella",
+        "Sophie Gubbels",
+        "Jethro Herberg",
+        "Anjarath L Higuera Iglesias",
+        "Peter H Hoger",
+        "Xiaoyun Hu",
+        "Quazi T Islam",
+        "Mirela F Jiménez",
+        "Amr Kandeel",
+        "Gerben Keijzers",
+        "Hossein Khalili",
+        "Marian Knight",
+        "Koichiro Kudo",
+        "Gabriela Kusznierz",
+        "Ilija Kuzman",
+        "Arthur M C Kwan",
+        "Idriss Lahlou Amine",
+        "Eduard Langenegger",
+        "Kamran B Lankarani",
+        "Yee-Sin Leo",
+        "Rita Linko",
+        "Pei Liu",
+        "Faris Madanat",
+        "Elga Mayo-Montero",
+        "Allison McGeer",
+        "Ziad Memish",
+        "Gokhan Metan",
+        "Auksė Mickiene",
+        "Dragan Mikić",
+        "Kristin G I Mohn",
+        "Ahmadreza Moradi",
+        "Pagbajabyn Nymadawa",
+        "Maria E Oliva",
+        "Mehpare Ozkan",
+        "Dhruv Parekh",
+        "Mical Paul",
+        "Fernando P Polack",
+        "Barbara A Rath",
+        "Alejandro H Rodríguez",
+        "Elena B Sarrouf",
+        "Anna C Seale",
+        "Bunyamin Sertogullarindan",
+        "Marilda M Siqueira",
+        "Joanna Skręt-Magierło",
+        "Frank Stephan",
+        "Ewa Talarek",
+        "Julian W Tang",
+        "Kelvin K W To",
+        "Antoni Torres",
+        "Selda H Törün",
+        "Dat Tran",
+        "Timothy M Uyeki",
+        "Annelies Van Zwol",
+        "Wendy Vaudry",
+        "Tjasa Vidmar",
+        "Renata T C Yokota",
+        "Paul Zarogoulidis",
+        "PRIDE Consortium Investigators",
+        "Jonathan S Nguyen-Van-Tam"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24815805/"
+    },
+    {
+      "pmid": "39645377",
+      "title": "Burden of disease scenarios by state in the USA, 2022-50: a forecasting analysis for the Global Burden of Disease Study 2021.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The capacity to anticipate future health issues is important for both policy makers and practitioners in the USA, as such insights can facilitate effective planning, investment, and implementation strategies. Forecasting trends in disease and injury burden is not only crucial for policy makers but also garners substantial interest from the general populace and leads to a better-informed public. Through the integration of new data sources, the refinement of methodologies, and the inclusion of additional causes, we have improved our previous forecasting efforts within the scope of the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) to produce forecasts at the state and national levels for the USA under various possible scenarios.",
+        "We developed a comprehensive framework for forecasting life expectancy, healthy life expectancy (HALE), cause-specific mortality, and disability-adjusted life-years (DALYs) due to 359 causes of disease and injury burden from 2022 to 2050 for the USA and all 50 states and Washington, DC. Using the GBD 2021 Future Health Scenarios modelling framework, we forecasted drivers of disease, demographic drivers, risk factors, temperature and particulate matter, mortality and years of life lost (YLL), population, and non-fatal burden. In addition to a reference scenario (representing the most probable future trajectory), we explored various future scenarios and their potential impacts over the next several decades on human health. These alternative scenarios comprised four risk elimination scenarios (including safer environment, improved behavioural and metabolic risks, improved childhood nutrition and vaccination, and a combined scenario) and three USA-specific scenarios based on risk exposure or attributable burden in the best-performing US states (improved high adult BMI and high fasting plasma glucose [FPG], improved smoking, and improved drug use [encompassing opioids, cocaine, amphetamine, and others]).",
+        "Life expectancy in the USA is projected to increase from 78·3 years (95% uncertainty interval 78·1-78·5) in 2022 to 79·9 years (79·5-80·2) in 2035, and to 80·4 years (79·8-81·0) in 2050 for all sexes combined. This increase is forecasted to be modest compared with that in other countries around the world, resulting in the USA declining in global rank over the 2022-50 forecasted period among the 204 countries and territories in GBD, from 49th to 66th. There is projected to be a decline in female life expectancy in West Virginia between 1990 and 2050, and little change in Arkansas and Oklahoma. Additionally, after 2023, we projected almost no change in female life expectancy in many states, notably in Oklahoma, South Dakota, Utah, Iowa, Maine, and Wisconsin. Female HALE is projected to decline between 1990 and 2050 in 20 states and to remain unchanged in three others. Drug use disorders and low back pain are projected to be the leading Level 3 causes of age-standardised DALYs in 2050. The age-standardised DALY rate due to drug use disorders is projected to increase considerably between 2022 and 2050 (19·5% [6·9-34·1]). Our combined risk elimination scenario shows that the USA could gain 3·8 additional years (3·6-4·0) of life expectancy and 4·1 additional years (3·9-4·3) of HALE in 2050 versus the reference scenario. Using our USA-specific scenarios, we forecasted that the USA could gain 0·4 additional years (0·3-0·6) of life expectancy and 0·6 additional years (0·5-0·8) of HALE in 2050 under the improved drug use scenario relative to the reference scenario. Life expectancy and HALE are likewise projected to be 0·4-0·5 years higher in 2050 under the improved adult BMI and FPG and improved smoking scenarios compared with the reference scenario. However, the increases in these scenarios would not substantially improve the USA's global ranking in 2050 (from 66th of 204 in life expectancy in the reference scenario to 63rd-64th in each of the three USA-specific scenarios), indicating that the USA's best-performing states are still lagging behind other countries in their rank throughout the forecasted period. Regardless, an estimated 12·4 million (11·3-13·5) deaths could be averted between 2022 and 2050 if the USA were to follow the combined scenario trajectory rather than the reference scenario. There would also be 1·4 million (0·7-2·2) fewer deaths over the 28-year forecasted period with improved adult BMI and FPG, 2·1 million (1·3-2·9) fewer deaths with improved exposure to smoking, and 1·2 million (0·9-1·5) fewer deaths with lower rates of drug use deaths.",
+        "Our findings highlight the alarming trajectory of health challenges in the USA, which, if left unaddressed, could lead to a reversal of the health progress made over the past three decades for some US states and a decline in global health standing for all states. The evidence from our alternative scenarios along with other published studies suggests that through collaborative, evidence-based strategies, there are opportunities to change the trajectory of health outcomes in the USA, such as by investing in scientific innovation, health-care access, preventive health care, risk exposure reduction, and education. Our forecasts clearly show that the time to act is now, as the future of the country's health and wellbeing-as well as its prosperity and leadership position in science and innovation-are at stake.",
+        "Bill & Melinda Gates Foundation."
+      ],
+      "abstract": "The capacity to anticipate future health issues is important for both policy makers and practitioners in the USA, as such insights can facilitate effective planning, investment, and implementation strategies. Forecasting trends in disease and injury burden is not only crucial for policy makers but also garners substantial interest from the general populace and leads to a better-informed public. Through the integration of new data sources, the refinement of methodologies, and the inclusion of additional causes, we have improved our previous forecasting efforts within the scope of the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) to produce forecasts at the state and national levels for the USA under various possible scenarios.\n\nWe developed a comprehensive framework for forecasting life expectancy, healthy life expectancy (HALE), cause-specific mortality, and disability-adjusted life-years (DALYs) due to 359 causes of disease and injury burden from 2022 to 2050 for the USA and all 50 states and Washington, DC. Using the GBD 2021 Future Health Scenarios modelling framework, we forecasted drivers of disease, demographic drivers, risk factors, temperature and particulate matter, mortality and years of life lost (YLL), population, and non-fatal burden. In addition to a reference scenario (representing the most probable future trajectory), we explored various future scenarios and their potential impacts over the next several decades on human health. These alternative scenarios comprised four risk elimination scenarios (including safer environment, improved behavioural and metabolic risks, improved childhood nutrition and vaccination, and a combined scenario) and three USA-specific scenarios based on risk exposure or attributable burden in the best-performing US states (improved high adult BMI and high fasting plasma glucose [FPG], improved smoking, and improved drug use [encompassing opioids, cocaine, amphetamine, and others]).\n\nLife expectancy in the USA is projected to increase from 78·3 years (95% uncertainty interval 78·1-78·5) in 2022 to 79·9 years (79·5-80·2) in 2035, and to 80·4 years (79·8-81·0) in 2050 for all sexes combined. This increase is forecasted to be modest compared with that in other countries around the world, resulting in the USA declining in global rank over the 2022-50 forecasted period among the 204 countries and territories in GBD, from 49th to 66th. There is projected to be a decline in female life expectancy in West Virginia between 1990 and 2050, and little change in Arkansas and Oklahoma. Additionally, after 2023, we projected almost no change in female life expectancy in many states, notably in Oklahoma, South Dakota, Utah, Iowa, Maine, and Wisconsin. Female HALE is projected to decline between 1990 and 2050 in 20 states and to remain unchanged in three others. Drug use disorders and low back pain are projected to be the leading Level 3 causes of age-standardised DALYs in 2050. The age-standardised DALY rate due to drug use disorders is projected to increase considerably between 2022 and 2050 (19·5% [6·9-34·1]). Our combined risk elimination scenario shows that the USA could gain 3·8 additional years (3·6-4·0) of life expectancy and 4·1 additional years (3·9-4·3) of HALE in 2050 versus the reference scenario. Using our USA-specific scenarios, we forecasted that the USA could gain 0·4 additional years (0·3-0·6) of life expectancy and 0·6 additional years (0·5-0·8) of HALE in 2050 under the improved drug use scenario relative to the reference scenario. Life expectancy and HALE are likewise projected to be 0·4-0·5 years higher in 2050 under the improved adult BMI and FPG and improved smoking scenarios compared with the reference scenario. However, the increases in these scenarios would not substantially improve the USA's global ranking in 2050 (from 66th of 204 in life expectancy in the reference scenario to 63rd-64th in each of the three USA-specific scenarios), indicating that the USA's best-performing states are still lagging behind other countries in their rank throughout the forecasted period. Regardless, an estimated 12·4 million (11·3-13·5) deaths could be averted between 2022 and 2050 if the USA were to follow the combined scenario trajectory rather than the reference scenario. There would also be 1·4 million (0·7-2·2) fewer deaths over the 28-year forecasted period with improved adult BMI and FPG, 2·1 million (1·3-2·9) fewer deaths with improved exposure to smoking, and 1·2 million (0·9-1·5) fewer deaths with lower rates of drug use deaths.\n\nOur findings highlight the alarming trajectory of health challenges in the USA, which, if left unaddressed, could lead to a reversal of the health progress made over the past three decades for some US states and a decline in global health standing for all states. The evidence from our alternative scenarios along with other published studies suggests that through collaborative, evidence-based strategies, there are opportunities to change the trajectory of health outcomes in the USA, such as by investing in scientific innovation, health-care access, preventive health care, risk exposure reduction, and education. Our forecasts clearly show that the time to act is now, as the future of the country's health and wellbeing-as well as its prosperity and leadership position in science and innovation-are at stake.\n\nBill & Melinda Gates Foundation.",
+      "evidence_sentences": [
+        "There would also be 1·4 million (0·7-2·2) fewer deaths over the 28-year forecasted period with improved adult BMI and FPG, 2·1 million (1·3-2·9) fewer deaths with improved exposure to smoking, and 1·2 million (0·9-1·5) fewer deaths with lower rates of drug use deaths.",
+        "This increase is forecasted to be modest compared with that in other countries around the world, resulting in the USA declining in global rank over the 2022-50 forecasted period among the 204 countries and territories in GBD, from 49th to 66th.",
+        "Regardless, an estimated 12·4 million (11·3-13·5) deaths could be averted between 2022 and 2050 if the USA were to follow the combined scenario trajectory rather than the reference scenario."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "GBD 2021 US Burden of Disease and Forecasting Collaborators"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39645377/"
+    },
+    {
+      "pmid": "35369606",
+      "title": "Trends of Molecular Testing for Lung Cancer at the King Faisal Hospital, Kigali: Therapeutic and Survival Implications.",
+      "journal": "JTO clinical and research reports",
+      "abstract_sections": [
+        "Lung cancer is the leading cause of cancer mortality worldwide, both in high and low resource settings. Knowledge has been generated elsewhere regarding molecular subtyping and subsequent targeted therapy development, contributing substantially to patient survival. Little is known on the data around lung cancer and its treatment outcomes in Sub-Saharan Africa. This study describes the experience in lung cancer diagnosis, molecular and biomarker testing, and treatment for advanced cases in a single institution in East Africa, between the years 2019 and 2021.",
+        "This was a retrospective observational study evaluating patients with metastatic (stage IV) lung cancer. Data on patient demographics, histologic diagnosis, molecular and biomarker testing, and treatment details and outcomes were collected. Molecular test results were reported as positive if there were biomarkers identified (e.g.,",
+        "A total of 14 patients were diagnosed with having stage IV disease, and all were proposed to undergo molecular testing. For 12 (86%) patients who were able to have molecular testing done,",
+        "Despite being the number one cause of mortality, gains are being made in poor-resource settings to improve the survival of patients with advanced lung cancers. Limitations to this quest remain misdiagnosis and delayed diagnosis and resource constraints for both molecular testing and subsequent treatments."
+      ],
+      "abstract": "Lung cancer is the leading cause of cancer mortality worldwide, both in high and low resource settings. Knowledge has been generated elsewhere regarding molecular subtyping and subsequent targeted therapy development, contributing substantially to patient survival. Little is known on the data around lung cancer and its treatment outcomes in Sub-Saharan Africa. This study describes the experience in lung cancer diagnosis, molecular and biomarker testing, and treatment for advanced cases in a single institution in East Africa, between the years 2019 and 2021.\n\nThis was a retrospective observational study evaluating patients with metastatic (stage IV) lung cancer. Data on patient demographics, histologic diagnosis, molecular and biomarker testing, and treatment details and outcomes were collected. Molecular test results were reported as positive if there were biomarkers identified (e.g.,\n\nA total of 14 patients were diagnosed with having stage IV disease, and all were proposed to undergo molecular testing. For 12 (86%) patients who were able to have molecular testing done,\n\nDespite being the number one cause of mortality, gains are being made in poor-resource settings to improve the survival of patients with advanced lung cancers. Limitations to this quest remain misdiagnosis and delayed diagnosis and resource constraints for both molecular testing and subsequent treatments.",
+      "evidence_sentences": [
+        "This study describes the experience in lung cancer diagnosis, molecular and biomarker testing, and treatment for advanced cases in a single institution in East Africa, between the years 2019 and 2021.",
+        "Little is known on the data around lung cancer and its treatment outcomes in Sub-Saharan Africa.",
+        "This was a retrospective observational study evaluating patients with metastatic (stage IV) lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "Achille Van Christ Manirakiza",
+        "Fidel Rubagumya",
+        "Eulade Rugengamanzi",
+        "Alphonsine Mukandekezi",
+        "Jessica Beneyo",
+        "Maurice Musoni",
+        "Thierry Zawadi Muvunyi"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35369606/"
+    },
+    {
+      "pmid": "41877745",
+      "title": "The global cancer crisis: a review of growing burden, deepening inequality and initiatives for prevention and early detection.",
+      "journal": "Ecancermedicalscience",
+      "abstract_sections": [
+        "Cancer constitutes one of the most urgent global health crises, with over 20 million new cases diagnosed annually worldwide, claiming 10 million lives. This devastating burden disproportionately affects vulnerable populations: 75% of cancer deaths occur in low- and middle-income countries despite these regions having lower reported incidence rates. Lung cancer leads the global toll, representing 12% of all cases but 19% of deaths, followed by breast cancer (12% of cases) and colorectal cancer (9.6%). A stark geographical inequity defines the cancer landscape-while wealthy regions such as North America, Northern Europe and Australia report the highest incidence rates, Africa and Latin America suffer the highest mortality rates. This disparity will intensify dramatically: cancer deaths in low-income countries are projected to surge 155% compared to just 56% in high-income nations by 2050. The financial devastation compounds this crisis, with 56% of patients worldwide facing catastrophic health expenditures extending beyond medical costs to include lost income and reduced productivity. Economic burden varies starkly by wealth: 75% of patients in low-income countries experience financial catastrophe versus 58% in middle-income countries and 26% in high-income nations. However, cancer prevention offers unprecedented opportunities to transform this crisis through interventions we already possess. From largely preventable infectious cancers like stomach and cervical malignancies, to lifestyle-driven epidemics including lung and colorectal cancers, to complex multifactorial diseases like breast cancer. Evidence-based prevention strategies can dramatically reduce suffering while generating massive healthcare savings. Emerging genetic technologies amplify this potential: universal genetic testing and pharmacogenomics now enable identification of high-risk individuals before disease develops, allowing targeted prevention while optimising treatments based on individual genetic profiles. Cancer prevention represents not merely a health opportunity but an economic imperative. The primary barrier is no longer scientific understanding but systematic implementation. Governments, policymakers, insurance companies and the public urgently need clearer evidence and education demonstrating proven successes to motivate decisive action toward creating healthier populations and reducing cancer burdens worldwide."
+      ],
+      "abstract": "Cancer constitutes one of the most urgent global health crises, with over 20 million new cases diagnosed annually worldwide, claiming 10 million lives. This devastating burden disproportionately affects vulnerable populations: 75% of cancer deaths occur in low- and middle-income countries despite these regions having lower reported incidence rates. Lung cancer leads the global toll, representing 12% of all cases but 19% of deaths, followed by breast cancer (12% of cases) and colorectal cancer (9.6%). A stark geographical inequity defines the cancer landscape-while wealthy regions such as North America, Northern Europe and Australia report the highest incidence rates, Africa and Latin America suffer the highest mortality rates. This disparity will intensify dramatically: cancer deaths in low-income countries are projected to surge 155% compared to just 56% in high-income nations by 2050. The financial devastation compounds this crisis, with 56% of patients worldwide facing catastrophic health expenditures extending beyond medical costs to include lost income and reduced productivity. Economic burden varies starkly by wealth: 75% of patients in low-income countries experience financial catastrophe versus 58% in middle-income countries and 26% in high-income nations. However, cancer prevention offers unprecedented opportunities to transform this crisis through interventions we already possess. From largely preventable infectious cancers like stomach and cervical malignancies, to lifestyle-driven epidemics including lung and colorectal cancers, to complex multifactorial diseases like breast cancer. Evidence-based prevention strategies can dramatically reduce suffering while generating massive healthcare savings. Emerging genetic technologies amplify this potential: universal genetic testing and pharmacogenomics now enable identification of high-risk individuals before disease develops, allowing targeted prevention while optimising treatments based on individual genetic profiles. Cancer prevention represents not merely a health opportunity but an economic imperative. The primary barrier is no longer scientific understanding but systematic implementation. Governments, policymakers, insurance companies and the public urgently need clearer evidence and education demonstrating proven successes to motivate decisive action toward creating healthier populations and reducing cancer burdens worldwide.",
+      "evidence_sentences": [
+        "This disparity will intensify dramatically: cancer deaths in low-income countries are projected to surge 155% compared to just 56% in high-income nations by 2050.",
+        "Lung cancer leads the global toll, representing 12% of all cases but 19% of deaths, followed by breast cancer (12% of cases) and colorectal cancer (9.6%).",
+        "A stark geographical inequity defines the cancer landscape-while wealthy regions such as North America, Northern Europe and Australia report the highest incidence rates, Africa and Latin America suffer the highest mortality rates."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "Charles M Balch",
+        "Ning Liao",
+        "Dennis S C Lam",
+        "Jeffrey N Weitzel",
+        "Rui-Hua Xu",
+        "Gerhardt Attard",
+        "Paul A Bunn",
+        "Alexander M M Eggermont",
+        "Jie He",
+        "Yuko Kitagawa",
+        "Soon Thye Lim",
+        "Eduardo Cazap",
+        "Bernard Esquivel",
+        "Xianqun Fan",
+        "Louis W C Chow",
+        "Edward S F Liu",
+        "Hector Martinez Said",
+        "John E Niederhuber",
+        "Isabel T Rubio",
+        "Ashraf Saad Zaghloul",
+        "Oscar G Arrieta",
+        "Riccardo A Audisio",
+        "Geerard L Beets",
+        "Felipe J F Coimbra",
+        "Jorge E Gallardo",
+        "Judy E Garber",
+        "Alessandro Gronchi",
+        "Volker Heinemann",
+        "Allison W Kurian",
+        "Miriam Mutebi",
+        "Masaki Mori",
+        "Funmi I Olopade",
+        "Piotr Rutkowski",
+        "Mansoor Saleh",
+        "William M Sanchez",
+        "Raymond Sawaya",
+        "John F Thompson",
+        "Gerald Tumusiime",
+        "Carlos S Vallejos",
+        "David C Whiteman",
+        "YiLong Wu",
+        "King-David T Yawe",
+        "Nayef Awad Al Zahrani",
+        "Odysseas Zoras",
+        "Banu K Arun",
+        "Carol J Fabian",
+        "Jeffrey E Gershenwald",
+        "William J Gradishar",
+        "Jin He",
+        "V Suzanne Kimberg",
+        "Ronald M K Lam",
+        "Victor H F Lee",
+        "Domenica Lorusso",
+        "Tony S K Mok",
+        "N D Perrier",
+        "Hope S Rugo",
+        "Cornelia Ulrich",
+        "Chandrakanth Are",
+        "J Vignat",
+        "I Soerjomataram"
+      ],
+      "year": "2026",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41877745/"
+    },
+    {
+      "pmid": "26602067",
+      "title": "Impact of neuraminidase inhibitors on influenza A(H1N1)pdm09-related pneumonia: an individual participant data meta-analysis.",
+      "journal": "Influenza and other respiratory viruses",
+      "abstract_sections": [
+        "The impact of neuraminidase inhibitors (NAIs) on influenza-related pneumonia (IRP) is not established. Our objective was to investigate the association between NAI treatment and IRP incidence and outcomes in patients hospitalised with A(H1N1)pdm09 virus infection.",
+        "A worldwide meta-analysis of individual participant data from 20 634 hospitalised patients with laboratory-confirmed A(H1N1)pdm09 (n = 20 021) or clinically diagnosed (n = 613) 'pandemic influenza'. The primary outcome was radiologically confirmed IRP. Odds ratios (OR) were estimated using generalised linear mixed modelling, adjusting for NAI treatment propensity, antibiotics and corticosteroids.",
+        "Of 20 634 included participants, 5978 (29·0%) had IRP; conversely, 3349 (16·2%) had confirmed the absence of radiographic pneumonia (the comparator). Early NAI treatment (within 2 days of symptom onset) versus no NAI was not significantly associated with IRP [adj. OR 0·83 (95% CI 0·64-1·06; P = 0·136)]. Among the 5978 patients with IRP, early NAI treatment versus none did not impact on mortality [adj. OR = 0·72 (0·44-1·17; P = 0·180)] or likelihood of requiring ventilatory support [adj. OR = 1·17 (0·71-1·92; P = 0·537)], but early treatment versus later significantly reduced mortality [adj. OR = 0·70 (0·55-0·88; P = 0·003)] and likelihood of requiring ventilatory support [adj. OR = 0·68 (0·54-0·85; P = 0·001)].",
+        "Early NAI treatment of patients hospitalised with A(H1N1)pdm09 virus infection versus no treatment did not reduce the likelihood of IRP. However, in patients who developed IRP, early NAI treatment versus later reduced the likelihood of mortality and needing ventilatory support."
+      ],
+      "abstract": "The impact of neuraminidase inhibitors (NAIs) on influenza-related pneumonia (IRP) is not established. Our objective was to investigate the association between NAI treatment and IRP incidence and outcomes in patients hospitalised with A(H1N1)pdm09 virus infection.\n\nA worldwide meta-analysis of individual participant data from 20 634 hospitalised patients with laboratory-confirmed A(H1N1)pdm09 (n = 20 021) or clinically diagnosed (n = 613) 'pandemic influenza'. The primary outcome was radiologically confirmed IRP. Odds ratios (OR) were estimated using generalised linear mixed modelling, adjusting for NAI treatment propensity, antibiotics and corticosteroids.\n\nOf 20 634 included participants, 5978 (29·0%) had IRP; conversely, 3349 (16·2%) had confirmed the absence of radiographic pneumonia (the comparator). Early NAI treatment (within 2 days of symptom onset) versus no NAI was not significantly associated with IRP [adj. OR 0·83 (95% CI 0·64-1·06; P = 0·136)]. Among the 5978 patients with IRP, early NAI treatment versus none did not impact on mortality [adj. OR = 0·72 (0·44-1·17; P = 0·180)] or likelihood of requiring ventilatory support [adj. OR = 1·17 (0·71-1·92; P = 0·537)], but early treatment versus later significantly reduced mortality [adj. OR = 0·70 (0·55-0·88; P = 0·003)] and likelihood of requiring ventilatory support [adj. OR = 0·68 (0·54-0·85; P = 0·001)].\n\nEarly NAI treatment of patients hospitalised with A(H1N1)pdm09 virus infection versus no treatment did not reduce the likelihood of IRP. However, in patients who developed IRP, early NAI treatment versus later reduced the likelihood of mortality and needing ventilatory support.",
+      "evidence_sentences": [
+        "Our objective was to investigate the association between NAI treatment and IRP incidence and outcomes in patients hospitalised with A(H1N1)pdm09 virus infection.",
+        "Odds ratios (OR) were estimated using generalised linear mixed modelling, adjusting for NAI treatment propensity, antibiotics and corticosteroids.",
+        "However, in patients who developed IRP, early NAI treatment versus later reduced the likelihood of mortality and needing ventilatory support."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "Stella G Muthuri",
+        "Sudhir Venkatesan",
+        "Puja R Myles",
+        "Jo Leonardi-Bee",
+        "Wei Shen Lim",
+        "Abdullah Al Mamun",
+        "Ashish P Anovadiya",
+        "Wildo N Araújo",
+        "Eduardo Azziz-Baumgartner",
+        "Clarisa Báez",
+        "Carlos Bantar",
+        "Mazen M Barhoush",
+        "Matteo Bassetti",
+        "Bojana Beovic",
+        "Roland Bingisser",
+        "Isabelle Bonmarin",
+        "Victor H Borja-Aburto",
+        "Bin Cao",
+        "Jordi Carratala",
+        "María R Cuezzo",
+        "Justin T Denholm",
+        "Samuel R Dominguez",
+        "Pericles A D Duarte",
+        "Gal Dubnov-Raz",
+        "Marcela Echavarria",
+        "Sergio Fanella",
+        "James Fraser",
+        "Zhancheng Gao",
+        "Patrick Gérardin",
+        "Maddalena Giannella",
+        "Sophie Gubbels",
+        "Jethro Herberg",
+        "Anjarath L Higuera Iglesias",
+        "Peter H Hoeger",
+        "Matthias Hoffmann",
+        "Xiaoyun Hu",
+        "Quazi T Islam",
+        "Mirela F Jiménez",
+        "Amr Kandeel",
+        "Gerben Keijzers",
+        "Hossein Khalili",
+        "Gulam Khandaker",
+        "Marian Knight",
+        "Gabriela Kusznierz",
+        "Ilija Kuzman",
+        "Arthur M C Kwan",
+        "Idriss Lahlou Amine",
+        "Eduard Langenegger",
+        "Kamran B Lankarani",
+        "Yee-Sin Leo",
+        "Rita Linko",
+        "Pei Liu",
+        "Faris Madanat",
+        "Toshie Manabe",
+        "Elga Mayo-Montero",
+        "Allison McGeer",
+        "Ziad A Memish",
+        "Gokhan Metan",
+        "Dragan Mikić",
+        "Kristin G I Mohn",
+        "Ahmadreza Moradi",
+        "Pagbajabyn Nymadawa",
+        "Bulent Ozbay",
+        "Mehpare Ozkan",
+        "Dhruv Parekh",
+        "Mical Paul",
+        "Wolfgang Poeppl",
+        "Fernando P Polack",
+        "Barbara A Rath",
+        "Alejandro H Rodríguez",
+        "Marilda M Siqueira",
+        "Joanna Skręt-Magierło",
+        "Ewa Talarek",
+        "Julian W Tang",
+        "Antoni Torres",
+        "Selda H Törün",
+        "Dat Tran",
+        "Timothy M Uyeki",
+        "Annelies van Zwol",
+        "Wendy Vaudry",
+        "Daiva Velyvyte",
+        "Tjasa Vidmar",
+        "Paul Zarogoulidis",
+        "PRIDE Consortium Investigators",
+        "Jonathan S Nguyen-Van-Tam"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26602067/"
+    },
+    {
+      "pmid": "34914899",
+      "title": "Geoeconomic variations in epidemiology, ventilation management, and outcomes in invasively ventilated intensive care unit patients without acute respiratory distress syndrome: a pooled analysis of four observational studies.",
+      "journal": "The Lancet. Global health",
+      "abstract_sections": [
+        "Geoeconomic variations in epidemiology, the practice of ventilation, and outcome in invasively ventilated intensive care unit (ICU) patients without acute respiratory distress syndrome (ARDS) remain unexplored. In this analysis we aim to address these gaps using individual patient data of four large observational studies.",
+        "In this pooled analysis we harmonised individual patient data from the ERICC, LUNG SAFE, PRoVENT, and PRoVENT-iMiC prospective observational studies, which were conducted from June, 2011, to December, 2018, in 534 ICUs in 54 countries. We used the 2016 World Bank classification to define two geoeconomic regions: middle-income countries (MICs) and high-income countries (HICs). ARDS was defined according to the Berlin criteria. Descriptive statistics were used to compare patients in MICs versus HICs. The primary outcome was the use of low tidal volume ventilation (LTVV) for the first 3 days of mechanical ventilation. Secondary outcomes were key ventilation parameters (tidal volume size, positive end-expiratory pressure, fraction of inspired oxygen, peak pressure, plateau pressure, driving pressure, and respiratory rate), patient characteristics, the risk for and actual development of acute respiratory distress syndrome after the first day of ventilation, duration of ventilation, ICU length of stay, and ICU mortality.",
+        "Of the 7608 patients included in the original studies, this analysis included 3852 patients without ARDS, of whom 2345 were from MICs and 1507 were from HICs. Patients in MICs were younger, shorter and with a slightly lower body-mass index, more often had diabetes and active cancer, but less often chronic obstructive pulmonary disease and heart failure than patients from HICs. Sequential organ failure assessment scores were similar in MICs and HICs. Use of LTVV in MICs and HICs was comparable (42·4% vs 44·2%; absolute difference -1·69 [-9·58 to 6·11] p=0·67; data available in 3174 [82%] of 3852 patients). The median applied positive end expiratory pressure was lower in MICs than in HICs (5 [IQR 5-8] vs 6 [5-8] cm H",
+        "Despite similar disease severity and ventilation management, ICU mortality in patients without ARDS is higher in MICs than in HICs, with a strong association with country-level economic status.",
+        "No funding."
+      ],
+      "abstract": "Geoeconomic variations in epidemiology, the practice of ventilation, and outcome in invasively ventilated intensive care unit (ICU) patients without acute respiratory distress syndrome (ARDS) remain unexplored. In this analysis we aim to address these gaps using individual patient data of four large observational studies.\n\nIn this pooled analysis we harmonised individual patient data from the ERICC, LUNG SAFE, PRoVENT, and PRoVENT-iMiC prospective observational studies, which were conducted from June, 2011, to December, 2018, in 534 ICUs in 54 countries. We used the 2016 World Bank classification to define two geoeconomic regions: middle-income countries (MICs) and high-income countries (HICs). ARDS was defined according to the Berlin criteria. Descriptive statistics were used to compare patients in MICs versus HICs. The primary outcome was the use of low tidal volume ventilation (LTVV) for the first 3 days of mechanical ventilation. Secondary outcomes were key ventilation parameters (tidal volume size, positive end-expiratory pressure, fraction of inspired oxygen, peak pressure, plateau pressure, driving pressure, and respiratory rate), patient characteristics, the risk for and actual development of acute respiratory distress syndrome after the first day of ventilation, duration of ventilation, ICU length of stay, and ICU mortality.\n\nOf the 7608 patients included in the original studies, this analysis included 3852 patients without ARDS, of whom 2345 were from MICs and 1507 were from HICs. Patients in MICs were younger, shorter and with a slightly lower body-mass index, more often had diabetes and active cancer, but less often chronic obstructive pulmonary disease and heart failure than patients from HICs. Sequential organ failure assessment scores were similar in MICs and HICs. Use of LTVV in MICs and HICs was comparable (42·4% vs 44·2%; absolute difference -1·69 [-9·58 to 6·11] p=0·67; data available in 3174 [82%] of 3852 patients). The median applied positive end expiratory pressure was lower in MICs than in HICs (5 [IQR 5-8] vs 6 [5-8] cm H\n\nDespite similar disease severity and ventilation management, ICU mortality in patients without ARDS is higher in MICs than in HICs, with a strong association with country-level economic status.\n\nNo funding.",
+      "evidence_sentences": [
+        "Patients in MICs were younger, shorter and with a slightly lower body-mass index, more often had diabetes and active cancer, but less often chronic obstructive pulmonary disease and heart failure than patients from HICs.",
+        "Descriptive statistics were used to compare patients in MICs versus HICs.",
+        "Secondary outcomes were key ventilation parameters (tidal volume size, positive end-expiratory pressure, fraction of inspired oxygen, peak pressure, plateau pressure, driving pressure, and respiratory rate), patient characteristics, the risk for and actual development of acute respiratory distress syndrome after the first day of ventilation, duration of ventilation, ICU length of stay, and ICU mortality."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cacer",
+        "deaths",
+        "africa",
+        "canada"
+      ],
+      "authors": [
+        "Luigi Pisani",
+        "Anna Geke Algera",
+        "Ary Serpa Neto",
+        "Luciano Azevedo",
+        "Tài Pham",
+        "Frederique Paulus",
+        "Marcelo Gama de Abreu",
+        "Paolo Pelosi",
+        "Arjen M Dondorp",
+        "Giacomo Bellani",
+        "John G Laffey",
+        "Marcus J Schultz",
+        "ERICC study investigators",
+        "LUNG SAFE study investigators",
+        "PRoVENT study investigators",
+        "PRoVENT-iMiC study investigators"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34914899/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "6",
+      "retmax": "6",
+      "retstart": "0",
+      "idlist": [
+        "24815805",
+        "39645377",
+        "35369606",
+        "41877745",
+        "26602067",
+        "34914899"
+      ],
+      "translationset": [
+        {
+          "from": "lung cancer",
+          "to": "\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]"
+        },
+        {
+          "from": "mortality rates",
+          "to": "\"mortality\"[MeSH Terms] OR \"mortality\"[All Fields] OR (\"mortality\"[All Fields] AND \"rates\"[All Fields]) OR \"mortality rates\"[All Fields]"
+        },
+        {
+          "from": "Canada",
+          "to": "\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada's\"[All Fields] OR \"canadas\"[All Fields]"
+        },
+        {
+          "from": "versus",
+          "to": "\"versu\"[All Fields] OR \"versus\"[All Fields]"
+        },
+        {
+          "from": "Africa",
+          "to": "\"africa\"[MeSH Terms] OR \"africa\"[All Fields] OR \"africa's\"[All Fields] OR \"africas\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]) AND (\"mortality\"[MeSH Terms] OR \"mortality\"[All Fields] OR (\"mortality\"[All Fields] AND \"rates\"[All Fields]) OR \"mortality rates\"[All Fields]) AND (\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada s\"[All Fields] OR \"canadas\"[All Fields]) AND (\"versu\"[All Fields] OR \"versus\"[All Fields]) AND (\"africa\"[MeSH Terms] OR \"africa\"[All Fields] OR \"africa s\"[All Fields] OR \"africas\"[All Fields])"
+    }
+  }
+}

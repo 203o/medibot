@@ -1,0 +1,71 @@
+{
+  "run_id": "510c83bdd41c4166a39c0c92dab55843",
+  "stored_at": "2026-04-17T23:30:04+00:00",
+  "query": "malaria malaria preventive measures kenya kenya",
+  "query_fallbacks": [
+    "malaria malaria preventive measures kenya kenya",
+    "malaria preventive measures in kenya",
+    "epidemiology of malaria in kenya",
+    "malaria control strategies in kenya",
+    "evidence-based malaria prevention in kenya",
+    "malaria malaria preventive measures kenya",
+    "malaria malaria preventive measures treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria preventive measures kenya kenya",
+    "malaria malaria preventive measures kenya",
+    "malaria malaria preventive measures treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria preventive measures in kenya",
+    "epidemiology of malaria in kenya",
+    "malaria control strategies in kenya",
+    "evidence-based malaria prevention in kenya"
+  ],
+  "keywords": [
+    "malaria",
+    "preventive",
+    "measures",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 14,
+    "openalex": 0,
+    "semantic_hits": 36,
+    "indexed_chunks": 3
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria preventive measures in kenya",
+      "epidemiology of malaria in kenya",
+      "malaria control strategies in kenya",
+      "evidence-based malaria prevention in kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\510c83bdd41c4166a39c0c92dab55843\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\510c83bdd41c4166a39c0c92dab55843\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\510c83bdd41c4166a39c0c92dab55843\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\510c83bdd41c4166a39c0c92dab55843\\combined.records.json"
+  }
+}

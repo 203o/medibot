@@ -1,0 +1,72 @@
+{
+  "run_id": "72c77ffb4ebc46298054839b5f76bd5d",
+  "stored_at": "2026-04-16T14:53:07+00:00",
+  "query": "hiv hiv prevalence rate adults africa",
+  "query_fallbacks": [
+    "hiv hiv prevalence rate adults africa",
+    "HIV epidemiology in Africa",
+    "Adult HIV prevalence rates in sub-Saharan Africa",
+    "Regional HIV prevalence trends in Africa",
+    "Prevalence of HIV among adults in Africa",
+    "hiv hiv prevalence rate adults",
+    "hiv hiv prevalence rate treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv hiv prevalence rate adults africa",
+    "hiv hiv prevalence rate adults",
+    "hiv hiv prevalence rate treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV epidemiology in Africa",
+    "Adult HIV prevalence rates in sub-Saharan Africa",
+    "Regional HIV prevalence trends in Africa",
+    "Prevalence of HIV among adults in Africa"
+  ],
+  "keywords": [
+    "hiv",
+    "prevalence",
+    "rate",
+    "adults",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 65,
+    "indexed_chunks": 69
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV epidemiology in Africa",
+      "Adult HIV prevalence rates in sub-Saharan Africa",
+      "Regional HIV prevalence trends in Africa",
+      "Prevalence of HIV among adults in Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\72c77ffb4ebc46298054839b5f76bd5d\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\72c77ffb4ebc46298054839b5f76bd5d\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\72c77ffb4ebc46298054839b5f76bd5d\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\72c77ffb4ebc46298054839b5f76bd5d\\combined.records.json"
+  }
+}

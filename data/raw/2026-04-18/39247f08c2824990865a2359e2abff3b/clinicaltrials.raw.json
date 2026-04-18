@@ -1,0 +1,525 @@
+{
+  "query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+  "selected_query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+  "attempted_queries": [
+    {
+      "query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+      "location_filter": "canada",
+      "count": 0
+    },
+    {
+      "query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "canada",
+  "records": [
+    {
+      "nct_id": "NCT02651506",
+      "title": "Electromagnetic Navigational Bronchoscopy Vs. Transthoracic Needle Biopsy for the Sampling of Peripheral Lung Nodules",
+      "brief_summary": "The use of computed tomography (CT) screening has allowed for early detection of lung cancers as small as 5mm in diameter. Early stage cancers are highly curable with a reported survival of greater than 90% over 5 years after surgical resection. Before a patient can have surgery, a biopsy must be performed. One common method is a transthoracic needle biopsy (TTNB). In this procedure, a CT-image is used to locate the area for biopsy. Once identified, the radiologist applies a local anesthetic and inserts an aspiration needle through the ribs, and into the lung tissue. The sampled lung tissue is then sent to pathology. Although this procedure has a diagnostic yield ranging between 70% and 85%, it is associated with serious complications such as pneumothorax, hemoptysis, infection, hemothorax, air embolism and there is about a 20% (range 9%-54%) incidence of pneumothorax, or air leak from the lung, requiring chest tube drainage. Additionally, about 5-15% of cases experience hemoptysis, or coughing blood, although significant life-threatening hemoptysis is only present in less than 1% of patients. When these complications occur, hospitalization as inpatients is required, with an average length of stay of 1-3 days.\n\nA new form of technology to localize and biopsy peripheral lung lesions is believed to significantly reduce the amount of complications that can occur during a biopsy. This technology is known as Electromagnetic Navigation Bronchoscopy (ENB). ENB uses electromagnetic tracking and CT-generated virtual bronchoscopy to create a three-dimensional \"GPS map\" of the lung, guiding the surgeon directly to the tumor. The surgeon is then able to perform bronchoscopy and biopsy the tumor from inside the bronchus. A recent systematic review and meta-analysis of 15 trials reports a pneumothorax rate of 3.1%, with only 1.6% of patients requiring chest tube drainage. Initial studies demonstrate a slightly lower diagnostic yield for ENB as compared to TTNB; however, a systematic exploration of study heterogeneity reveal that lung nodules included in TTNB studies are larger than those included in the meta-analysis of ENB yield. The review further identified six variables associated with increased diagnostic yields for ENB, including \"combined use of an ultrasonic radial probe and catheter suctioning as a sampling technique\". The superDimension® InReach™ System was granted Health Canada approval on July 23, 2009.\n\nThere have been no studies directly comparing ENB to TTNB, either retrospectively or prospectively. Initial systematic reviews demonstrate that ENB may have a slightly lower diagnostic yield relative to TTNB. Selection bias and low study quality may have resulted in an underestimation of the true diagnostic yield associated with ENB. The literature also confirms that ENB has a significantly better safety profile as compared to TTNB. As such, a prospective comparison between the two techniques is mandated. This Phase II pilot feasibility trial will utilize randomized methodology to gather the preliminary data that is required for the successful completion of a Phase III randomized controlled trial to compare lung biopsy with ENB verses TTNB. This study will also be the first time ENB lung biopsy is documented in Canada.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "The use of computed tomography (CT) screening has allowed for early detection of lung cancers as small as 5mm in diameter.",
+        "Early stage cancers are highly curable with a reported survival of greater than 90% over 5 years after surgical resection.",
+        "Initial studies demonstrate a slightly lower diagnostic yield for ENB as compared to TTNB; however, a systematic exploration of study heterogeneity reveal that lung nodules included in TTNB studies are larger than those included in the meta-analysis of ENB yield."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "WITHDRAWN",
+      "last_update": "2016-05-10",
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT02651506",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02651506",
+            "orgStudyIdInfo": {
+              "id": "BFCRS-RP-007-1512-17"
+            },
+            "organization": {
+              "fullName": "St. Joseph's Healthcare Hamilton",
+              "class": "OTHER"
+            },
+            "briefTitle": "Electromagnetic Navigational Bronchoscopy Vs. Transthoracic Needle Biopsy for the Sampling of Peripheral Lung Nodules",
+            "officialTitle": "Navigational Bronchoscopy Vs. Transthoracic Needle Biopsy for the Sampling of Peripheral Lung Nodules: Comparison of Outcomes and Costs in a Public Healthcare System"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2016-05",
+            "overallStatus": "WITHDRAWN",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2016-05",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2016-01-07",
+            "studyFirstSubmitQcDate": "2016-01-07",
+            "studyFirstPostDateStruct": {
+              "date": "2016-01-11",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2016-05-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2016-05-12",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Wael Hanna",
+              "investigatorTitle": "Director, Research Program, Boris Family Centre for Robotic Surgery",
+              "investigatorAffiliation": "St. Joseph's Healthcare Hamilton"
+            },
+            "leadSponsor": {
+              "name": "St. Joseph's Healthcare Hamilton",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The use of computed tomography (CT) screening has allowed for early detection of lung cancers as small as 5mm in diameter. Early stage cancers are highly curable with a reported survival of greater than 90% over 5 years after surgical resection. Before a patient can have surgery, a biopsy must be performed. One common method is a transthoracic needle biopsy (TTNB). In this procedure, a CT-image is used to locate the area for biopsy. Once identified, the radiologist applies a local anesthetic and inserts an aspiration needle through the ribs, and into the lung tissue. The sampled lung tissue is then sent to pathology. Although this procedure has a diagnostic yield ranging between 70% and 85%, it is associated with serious complications such as pneumothorax, hemoptysis, infection, hemothorax, air embolism and there is about a 20% (range 9%-54%) incidence of pneumothorax, or air leak from the lung, requiring chest tube drainage. Additionally, about 5-15% of cases experience hemoptysis, or coughing blood, although significant life-threatening hemoptysis is only present in less than 1% of patients. When these complications occur, hospitalization as inpatients is required, with an average length of stay of 1-3 days.\n\nA new form of technology to localize and biopsy peripheral lung lesions is believed to significantly reduce the amount of complications that can occur during a biopsy. This technology is known as Electromagnetic Navigation Bronchoscopy (ENB). ENB uses electromagnetic tracking and CT-generated virtual bronchoscopy to create a three-dimensional \"GPS map\" of the lung, guiding the surgeon directly to the tumor. The surgeon is then able to perform bronchoscopy and biopsy the tumor from inside the bronchus. A recent systematic review and meta-analysis of 15 trials reports a pneumothorax rate of 3.1%, with only 1.6% of patients requiring chest tube drainage. Initial studies demonstrate a slightly lower diagnostic yield for ENB as compared to TTNB; however, a systematic exploration of study heterogeneity reveal that lung nodules included in TTNB studies are larger than those included in the meta-analysis of ENB yield. The review further identified six variables associated with increased diagnostic yields for ENB, including \"combined use of an ultrasonic radial probe and catheter suctioning as a sampling technique\". The superDimension® InReach™ System was granted Health Canada approval on July 23, 2009.\n\nThere have been no studies directly comparing ENB to TTNB, either retrospectively or prospectively. Initial systematic reviews demonstrate that ENB may have a slightly lower diagnostic yield relative to TTNB. Selection bias and low study quality may have resulted in an underestimation of the true diagnostic yield associated with ENB. The literature also confirms that ENB has a significantly better safety profile as compared to TTNB. As such, a prospective comparison between the two techniques is mandated. This Phase II pilot feasibility trial will utilize randomized methodology to gather the preliminary data that is required for the successful completion of a Phase III randomized controlled trial to compare lung biopsy with ENB verses TTNB. This study will also be the first time ENB lung biopsy is documented in Canada."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Non-small Cell Lung Cancer"
+            ],
+            "keywords": [
+              "Lung cancer biopsy",
+              "Electromagnetic Navigation Bronchoscopy",
+              "Transthoracic Needle Biopsy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 0,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Electromagnetic Navigation Bronchoscopy",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Procedure: Electromagnetic Navigation Bronchoscopy"
+                ]
+              },
+              {
+                "label": "Transthoracic Needle Biopsy",
+                "type": "ACTIVE_COMPARATOR",
+                "interventionNames": [
+                  "Procedure: Transthoracic Needle Biopsy"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "PROCEDURE",
+                "name": "Electromagnetic Navigation Bronchoscopy",
+                "description": "• Participants randomized to the intervention arm will undergo biopsy using the superDimension®InReach™ System. Participants will undergo ENB guided biopsy under general anesthesia or local anesthesia. The procedure will be performed by a thoracic surgeon in the operating room or endoscopy suite. Following electromagnetic mapping, bronchoscopy and biopsy will be performed. Fiducial markings will be placed when necessary.",
+                "armGroupLabels": [
+                  "Electromagnetic Navigation Bronchoscopy"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Transthoracic Needle Biopsy",
+                "description": "• Patients randomized to the control arm (TTNB) will undergo lung biopsy using standard transthoracic needle biopsy technique. The procedure will be performed under local anesthesia with computed tomography guidance by an interventional radiologist. In this procedure, a CT-image is used to locate the area for biopsy. Once identified, the radiologist applies a local anesthetic and inserts an aspiration needle between the ribs, through normal lung tissue, leading into the biopsy area. The sampled lung tissue is then sent for pathological analysis.",
+                "armGroupLabels": [
+                  "Transthoracic Needle Biopsy"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Feasibility to conduct a subsequent, large-scale Phase III randomized controlled trial.",
+                "timeFrame": "Through study completion, an average of 2 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Diagnostic yield rate",
+                "description": "rate of conclusive pathological diagnosis",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Complication rates",
+                "description": "Number of complications, e.g. pneumothorax, hemoptysis, infection, hemothorax, air embolism.",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Difference in wait times between Electromagnetic Navigation Bronchoscopy and Transthoracic Needle Biopsy",
+                "description": "Wait time from date of biopsy request to biopsy procedure",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Difference in cost between the Electromagnetic Navigation Bronchoscopy and Transthoracic Needle Biopsy as measured by the costs associated with each type of biopsy procedure",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Quality of life",
+                "description": "EQ-5D-5L",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Pain assessment",
+                "description": "Numeric Pain Rating Scale",
+                "timeFrame": "Through study completion, an average of 2 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Lung lesion requiring biopsy and amenable to Electromagnetic Navigation Bronchoscopy as determined by a \"bronchus sign\" on computed tomography\n\nExclusion Criteria:\n\n* None",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Waël c Hanna, MDCM, MBA, FRCSC",
+                "affiliation": "St. Joseph's Healthcare Hamilton / McMaster University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D002289",
+                "term": "Carcinoma, Non-Small-Cell Lung"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D002283",
+                "term": "Carcinoma, Bronchogenic"
+              },
+              {
+                "id": "D001984",
+                "term": "Bronchial Neoplasms"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02651506",
+            "orgStudyIdInfo": {
+              "id": "BFCRS-RP-007-1512-17"
+            },
+            "organization": {
+              "fullName": "St. Joseph's Healthcare Hamilton",
+              "class": "OTHER"
+            },
+            "briefTitle": "Electromagnetic Navigational Bronchoscopy Vs. Transthoracic Needle Biopsy for the Sampling of Peripheral Lung Nodules",
+            "officialTitle": "Navigational Bronchoscopy Vs. Transthoracic Needle Biopsy for the Sampling of Peripheral Lung Nodules: Comparison of Outcomes and Costs in a Public Healthcare System"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2016-05",
+            "overallStatus": "WITHDRAWN",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2016-05",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2016-01-07",
+            "studyFirstSubmitQcDate": "2016-01-07",
+            "studyFirstPostDateStruct": {
+              "date": "2016-01-11",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2016-05-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2016-05-12",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Wael Hanna",
+              "investigatorTitle": "Director, Research Program, Boris Family Centre for Robotic Surgery",
+              "investigatorAffiliation": "St. Joseph's Healthcare Hamilton"
+            },
+            "leadSponsor": {
+              "name": "St. Joseph's Healthcare Hamilton",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The use of computed tomography (CT) screening has allowed for early detection of lung cancers as small as 5mm in diameter. Early stage cancers are highly curable with a reported survival of greater than 90% over 5 years after surgical resection. Before a patient can have surgery, a biopsy must be performed. One common method is a transthoracic needle biopsy (TTNB). In this procedure, a CT-image is used to locate the area for biopsy. Once identified, the radiologist applies a local anesthetic and inserts an aspiration needle through the ribs, and into the lung tissue. The sampled lung tissue is then sent to pathology. Although this procedure has a diagnostic yield ranging between 70% and 85%, it is associated with serious complications such as pneumothorax, hemoptysis, infection, hemothorax, air embolism and there is about a 20% (range 9%-54%) incidence of pneumothorax, or air leak from the lung, requiring chest tube drainage. Additionally, about 5-15% of cases experience hemoptysis, or coughing blood, although significant life-threatening hemoptysis is only present in less than 1% of patients. When these complications occur, hospitalization as inpatients is required, with an average length of stay of 1-3 days.\n\nA new form of technology to localize and biopsy peripheral lung lesions is believed to significantly reduce the amount of complications that can occur during a biopsy. This technology is known as Electromagnetic Navigation Bronchoscopy (ENB). ENB uses electromagnetic tracking and CT-generated virtual bronchoscopy to create a three-dimensional \"GPS map\" of the lung, guiding the surgeon directly to the tumor. The surgeon is then able to perform bronchoscopy and biopsy the tumor from inside the bronchus. A recent systematic review and meta-analysis of 15 trials reports a pneumothorax rate of 3.1%, with only 1.6% of patients requiring chest tube drainage. Initial studies demonstrate a slightly lower diagnostic yield for ENB as compared to TTNB; however, a systematic exploration of study heterogeneity reveal that lung nodules included in TTNB studies are larger than those included in the meta-analysis of ENB yield. The review further identified six variables associated with increased diagnostic yields for ENB, including \"combined use of an ultrasonic radial probe and catheter suctioning as a sampling technique\". The superDimension® InReach™ System was granted Health Canada approval on July 23, 2009.\n\nThere have been no studies directly comparing ENB to TTNB, either retrospectively or prospectively. Initial systematic reviews demonstrate that ENB may have a slightly lower diagnostic yield relative to TTNB. Selection bias and low study quality may have resulted in an underestimation of the true diagnostic yield associated with ENB. The literature also confirms that ENB has a significantly better safety profile as compared to TTNB. As such, a prospective comparison between the two techniques is mandated. This Phase II pilot feasibility trial will utilize randomized methodology to gather the preliminary data that is required for the successful completion of a Phase III randomized controlled trial to compare lung biopsy with ENB verses TTNB. This study will also be the first time ENB lung biopsy is documented in Canada."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Non-small Cell Lung Cancer"
+            ],
+            "keywords": [
+              "Lung cancer biopsy",
+              "Electromagnetic Navigation Bronchoscopy",
+              "Transthoracic Needle Biopsy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 0,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Electromagnetic Navigation Bronchoscopy",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Procedure: Electromagnetic Navigation Bronchoscopy"
+                ]
+              },
+              {
+                "label": "Transthoracic Needle Biopsy",
+                "type": "ACTIVE_COMPARATOR",
+                "interventionNames": [
+                  "Procedure: Transthoracic Needle Biopsy"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "PROCEDURE",
+                "name": "Electromagnetic Navigation Bronchoscopy",
+                "description": "• Participants randomized to the intervention arm will undergo biopsy using the superDimension®InReach™ System. Participants will undergo ENB guided biopsy under general anesthesia or local anesthesia. The procedure will be performed by a thoracic surgeon in the operating room or endoscopy suite. Following electromagnetic mapping, bronchoscopy and biopsy will be performed. Fiducial markings will be placed when necessary.",
+                "armGroupLabels": [
+                  "Electromagnetic Navigation Bronchoscopy"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Transthoracic Needle Biopsy",
+                "description": "• Patients randomized to the control arm (TTNB) will undergo lung biopsy using standard transthoracic needle biopsy technique. The procedure will be performed under local anesthesia with computed tomography guidance by an interventional radiologist. In this procedure, a CT-image is used to locate the area for biopsy. Once identified, the radiologist applies a local anesthetic and inserts an aspiration needle between the ribs, through normal lung tissue, leading into the biopsy area. The sampled lung tissue is then sent for pathological analysis.",
+                "armGroupLabels": [
+                  "Transthoracic Needle Biopsy"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Feasibility to conduct a subsequent, large-scale Phase III randomized controlled trial.",
+                "timeFrame": "Through study completion, an average of 2 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Diagnostic yield rate",
+                "description": "rate of conclusive pathological diagnosis",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Complication rates",
+                "description": "Number of complications, e.g. pneumothorax, hemoptysis, infection, hemothorax, air embolism.",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Difference in wait times between Electromagnetic Navigation Bronchoscopy and Transthoracic Needle Biopsy",
+                "description": "Wait time from date of biopsy request to biopsy procedure",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Difference in cost between the Electromagnetic Navigation Bronchoscopy and Transthoracic Needle Biopsy as measured by the costs associated with each type of biopsy procedure",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Quality of life",
+                "description": "EQ-5D-5L",
+                "timeFrame": "Through study completion, an average of 2 years"
+              },
+              {
+                "measure": "Pain assessment",
+                "description": "Numeric Pain Rating Scale",
+                "timeFrame": "Through study completion, an average of 2 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Lung lesion requiring biopsy and amenable to Electromagnetic Navigation Bronchoscopy as determined by a \"bronchus sign\" on computed tomography\n\nExclusion Criteria:\n\n* None",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Waël c Hanna, MDCM, MBA, FRCSC",
+                "affiliation": "St. Joseph's Healthcare Hamilton / McMaster University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D002289",
+                "term": "Carcinoma, Non-Small-Cell Lung"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D002283",
+                "term": "Carcinoma, Bronchogenic"
+              },
+              {
+                "id": "D001984",
+                "term": "Bronchial Neoplasms"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

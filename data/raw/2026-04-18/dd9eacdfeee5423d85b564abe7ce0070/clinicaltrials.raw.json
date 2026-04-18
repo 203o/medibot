@@ -1,0 +1,3107 @@
+{
+  "query": "parkinson’s disease parkinson disease stage levodopa",
+  "selected_query": "Parkinson's disease epidemiology stage 2 levodopa therapy",
+  "attempted_queries": [
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "Parkinson's disease epidemiology stage 2 levodopa therapy",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "",
+  "records": [
+    {
+      "nct_id": "NCT02445651",
+      "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+      "brief_summary": "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans. It's most prominent pathology is the degeneration of dopaminergic neurons in the brain. It is believed that oxidative stress and inflammation play an important role in the pathophysiology of Parkinson's disease as well.\n\nThe object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system. Enrolled patients will be randomly assigned to receive oral and intravenous (IV) n-acetyl cysteine (NAC), a control group of standard PD care, or an oral supplement group who will receive Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin. (Please note, the Oral Supplements arm, was amended and not included in analysis.\n\nThis study utilized Ioflupane (DaTscan) single photon emission computed tomography (SPECT) to measure dopamine function, magnetic resonance spectroscopy (MRS) to measure inflammatory and oxidative stress markers, and neurological measures to assess clinical symptoms, in patients with PD. Subjects received a DaTSCAN and MRS initially and after completing oral and IV NAC regimen. Subjects in the control group received pre and post DaTScans and MRS and similar evaluations to the Dietary Supplement oral and IV NAC group.",
+      "detailed_description": "The first arm of this study received intravenous and oral NAC, which is a strong antioxidant that increases brain glutathione, which may be beneficial in PD. NAC, is the N-acetyl derivative of the naturally occurring amino acid, L-cysteine. NAC is a common over-the-counter supplement and also is available as an injectable pharmaceutical that protects the liver in cases of acetaminophen overdose. Laboratory studies have displayed some benefits to use of NAC, such as its potential to counteract intracellular damage that leads to dopaminergic neuron death. It also has the potential to reduce markers of oxidative damage, protect against dopamine cell death from MPTP toxicity, and to increase glutathione in blood, which might be useful in preventing oxidative damage in PD patients.\n\nThe second arm was a waitlist control group who received no intervention. The control group continued to receive clinical standard of care treatment for PD care provided by their neurologist.\n\nA third arm of the study was an oral supplement group who received Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin.This oral supplement group continued to receive clinical standard of care treatment for PD provided by their neurologist.\n\nThe protocol was amended to include only the NAC arm and the standard of care waitlist control groups.",
+      "evidence_sentences": [
+        "The object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system.",
+        "It is believed that oxidative stress and inflammation play an important role in the pathophysiology of Parkinson's disease as well.",
+        "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-11-19",
+      "query_keywords": [
+        "parkinson’s disease",
+        "parkinson",
+        "disease",
+        "stage",
+        "levodopa",
+        "wearing",
+        "off",
+        "progression"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT02445651",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02445651",
+            "orgStudyIdInfo": {
+              "id": "14D.141"
+            },
+            "organization": {
+              "fullName": "Thomas Jefferson University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+            "officialTitle": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2014-03",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2022-08-04",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2022-08-04",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2015-01-23",
+            "studyFirstSubmitQcDate": "2015-05-14",
+            "studyFirstPostDateStruct": {
+              "date": "2015-05-15",
+              "type": "ESTIMATED"
+            },
+            "resultsFirstSubmitDate": "2023-07-05",
+            "resultsFirstSubmitQcDate": "2025-11-19",
+            "resultsFirstPostDateStruct": {
+              "date": "2025-12-15",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-19",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-12-15",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Thomas Jefferson University",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans. It's most prominent pathology is the degeneration of dopaminergic neurons in the brain. It is believed that oxidative stress and inflammation play an important role in the pathophysiology of Parkinson's disease as well.\n\nThe object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system. Enrolled patients will be randomly assigned to receive oral and intravenous (IV) n-acetyl cysteine (NAC), a control group of standard PD care, or an oral supplement group who will receive Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin. (Please note, the Oral Supplements arm, was amended and not included in analysis.\n\nThis study utilized Ioflupane (DaTscan) single photon emission computed tomography (SPECT) to measure dopamine function, magnetic resonance spectroscopy (MRS) to measure inflammatory and oxidative stress markers, and neurological measures to assess clinical symptoms, in patients with PD. Subjects received a DaTSCAN and MRS initially and after completing oral and IV NAC regimen. Subjects in the control group received pre and post DaTScans and MRS and similar evaluations to the Dietary Supplement oral and IV NAC group.",
+            "detailedDescription": "The first arm of this study received intravenous and oral NAC, which is a strong antioxidant that increases brain glutathione, which may be beneficial in PD. NAC, is the N-acetyl derivative of the naturally occurring amino acid, L-cysteine. NAC is a common over-the-counter supplement and also is available as an injectable pharmaceutical that protects the liver in cases of acetaminophen overdose. Laboratory studies have displayed some benefits to use of NAC, such as its potential to counteract intracellular damage that leads to dopaminergic neuron death. It also has the potential to reduce markers of oxidative damage, protect against dopamine cell death from MPTP toxicity, and to increase glutathione in blood, which might be useful in preventing oxidative damage in PD patients.\n\nThe second arm was a waitlist control group who received no intervention. The control group continued to receive clinical standard of care treatment for PD care provided by their neurologist.\n\nA third arm of the study was an oral supplement group who received Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin.This oral supplement group continued to receive clinical standard of care treatment for PD provided by their neurologist.\n\nThe protocol was amended to include only the NAC arm and the standard of care waitlist control groups."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Parkinson Disease",
+              "Idiopathic Parkinson Disease"
+            ],
+            "keywords": [
+              "Integrative Medicine",
+              "Alternative Medicine",
+              "Complementary Medicine",
+              "Parkinson's disease",
+              "Neurodegenerative Diseases",
+              "Idiopathic Parkinson's disease",
+              "Single Photon Emission Computed Tomography (SPECT)",
+              "Central Nervous System Diseases",
+              "Movement Disorders",
+              "Nervous System Diseases",
+              "Brain Diseases",
+              "Oral supplements",
+              "N-acetyl cysteine"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "To evaluate whether IV/oral N acetyl cysteine, compared to standard of care ,no intervention, (or the discontinued oral supplementation arm) helps support dopamine function in the brains of patients with Parkinson's disease measured using Iofluvane (DATScan); clinical symptoms will be measured.",
+              "primaryPurpose": "SUPPORTIVE_CARE",
+              "maskingInfo": {
+                "masking": "NONE",
+                "maskingDescription": "This is an Open Label study. Randomization will occur via a 2:1 ratio of the NAC group and the control and oral supplement groups using the method of random permuted blocks with random block sizes without stratification. 28 subjects in the NAC arm, 14 subjects have been enrolled in the standard of care arm. 9 subjects who were enrolled in a discontinued oral supplement arm of the study were not included in final study analysis."
+              }
+            },
+            "enrollmentInfo": {
+              "count": 51,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Oral and IV N acetyl Cysteine Cohort",
+                "type": "EXPERIMENTAL",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)",
+                "interventionNames": [
+                  "Dietary Supplement: Intravenous and Oral n-acetyl cysteine"
+                ]
+              },
+              {
+                "label": "Control Cohort",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Standard of Care Treatment",
+                "interventionNames": [
+                  "Other: Control group"
+                ]
+              },
+              {
+                "label": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended; this cohort was not included in analysis that was reported in results.",
+                "interventionNames": [
+                  "Dietary Supplement: Oral Supplements: Baicalin, Ganoderma, Omega 3 and Curcumin"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIETARY_SUPPLEMENT",
+                "name": "Intravenous and Oral n-acetyl cysteine",
+                "armGroupLabels": [
+                  "Oral and IV N acetyl Cysteine Cohort"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Control group",
+                "description": "Standard of Care",
+                "armGroupLabels": [
+                  "Control Cohort"
+                ]
+              },
+              {
+                "type": "DIETARY_SUPPLEMENT",
+                "name": "Oral Supplements: Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days",
+                "armGroupLabels": [
+                  "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Distribution Volume Ratio",
+                "description": "Distribution Volume Ratio reflects Iofluvane absorption by the dopamine transporters (Dopamine Uptake) that reflects binding in the dopamine transporter (DAT) overall. Striatal Binding Ratio in the regions of interest (ROI), caudate, putamen, and midbrain Serotonin Transporter (SERT) binding and Dopamine Transporter (5-HTT) Binding was measured during Single Photon Emission Computed Tomography (SPECT) Brain Imaging with DATScan (Iofluvane). Regions of interest in the caudate, putamen and in midbrain SERT binding are affected in Parkinson's Disease. Less dopamine transporter binding (lower number) indicates less activated dopamine transporters (worse); more binding (higher number) indicates more binding (better), thus, measuring the overall health of the dopaminergic system in the brain.\n\nAnalysis was completed only for the Oral and IV N acetyl Cysteine Cohort and Control Cohort; the Oral Supplements arm of the study was discontinued and not included in analysis",
+                "timeFrame": "Baseline and 90 ± 30 days"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Years: Number of Years With Parkinson's",
+                "description": "Eligibility requires a diagnosis of Parkinson's disease. Duration of Parkinson's Disease in years will be calculate by participant self-report and review of source documentation, each year since onset of Parkinson's Disease represents one unit. A higher number in years indicates a longer duration since the onset of Parkinson's Disease.",
+                "timeFrame": "Baseline to evaluate inclusion criteria"
+              },
+              {
+                "measure": "Severity of Parkinson's Disease Symptom Progression Based Upon the Hoehn and Yahr Scale",
+                "description": "\"The Hoehn and Yahr scale is used to describe the symptom progression of Parkinson disease. The scale originally was described in 1967 and included stages 1 through 5. It has since been modified with the addition of stages 1.5 and 2.5 to account for the intermediate course of Parkinson disease.\" Grade 0: No signs of disease. Grade 1: Mild symptoms; only unilateral involvement. Grade 1.5: Unilateral and axial involvement. \"On this scale, stages 1 and 2 represent early-stage, 2 and 3 mid-stage, and 4 and 5 advanced-stage Parkinson's Disease.\" A higher score on the Hoehn \\& Yahr Scale is an indication of more advanced Parkinson's Disease; a higher score is an indication of the severity of disease (higher is worse). The Oral supplement arm of the study was closed.",
+                "timeFrame": "Baseline to evaluate inclusion criteria"
+              },
+              {
+                "measure": "Whether Each Participant is Prescribed and Taking Carbidopa/Levodopa for Parkinson's Disease",
+                "description": "Self report of medications including Carbidopa/Levodopa to determine whether each study participant is currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? A score of 1 = Yes and 2 = no Is each study participant currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? The response to this question is binary: Yes or No. Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant NAC and Standard of Care Control Cohorts.",
+                "timeFrame": "Baseline"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of Parkinson's disease\n* Subject is between 30 - 80 years of age\n* Subject has a Hoehn and Yahr score of I - II inclusive\n* Subject is on stable or on antiparkinsonian medication for at least a month\n* Women of Childbearing potential will confirm a negative pregnancy test\n\nExclusion Criteria:\n\n* Subject is allergic to iodine, cobalt, or any of the supplements that will be given in the study\n* Subject has had previous brain surgery\n* Subject has a score of 25 or less on Mini-Mental Status examination\n* Subject is wheelchair-bound or bed-ridden; non ambulatory\n* Subject has intracranial abnormalities that may complicate interpretation of the brain scans(e.g., stroke, tumor, vascular abnormality affecting the target area)\n* Subject has a history of head trauma with loss of consciousness greater than 48 hours\n* Subject has any medical disorder or physical condition that could reasonably be expected to interfere with the assessment of parkinsonian syndrome symptoms, or with any of the study assessments including the SPECT imaging.\n* Subject has evidence of a significant psychiatric disorder by history/examination that would prevent completion of the study\n* Subject has a current alcohol or drug abuse\n* Subject is pregnant or lactating\n* Subject is enrolled in active clinical (drug or device) trial within the prior 30 days\n* Subject is pending surgery during the course of the study\n* History of very low blood pressure\n* History of thrombocytopenia or clotting disorders\n* Cancer patients receiving active chemotherapy\n* History of active gallstone problems or a bile duct obstruction\n* History of uncontrolled diabetes, asthma, gastroesophageal reflex disease, or thyroid\n* History of severe kidney disease (if the patient reports this problem, a serum creatinine will be checked to assess GFR; if it is less than 30, the patient will be excluded)\n* History of Leber's disease, a hereditary eye disease\n* History of uncontrolled hypercalcemia\n* History of active sarcoidosis, histoplasmosis, or lymphoma\n* Patients taking medication that might interact with the supplements involved in this study will be evaluated on a case-by-case basis by PI study physician",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "30 Years",
+            "maximumAge": "80 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Daniel A Monti, MD,MBA",
+                "affiliation": "Thomas Jefferson University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Thomas Jefferson University",
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19107",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.95238,
+                  "lon": -75.16362
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "27309537",
+                "type": "BACKGROUND",
+                "citation": "Monti DA, Zabrecky G, Kremens D, Liang TW, Wintering NA, Cai J, Wei X, Bazzan AJ, Zhong L, Bowen B, Intenzo CM, Iacovitti L, Newberg AB. N-Acetyl Cysteine May Support Dopamine Neurons in Parkinson's Disease: Preliminary Clinical and Cell Line Data. PLoS One. 2016 Jun 16;11(6):e0157602. doi: 10.1371/journal.pone.0157602. eCollection 2016."
+              },
+              {
+                "pmid": "31206613",
+                "type": "BACKGROUND",
+                "citation": "Monti DA, Zabrecky G, Kremens D, Liang TW, Wintering NA, Bazzan AJ, Zhong L, Bowens BK, Chervoneva I, Intenzo C, Newberg AB. N-Acetyl Cysteine Is Associated With Dopaminergic Improvement in Parkinson's Disease. Clin Pharmacol Ther. 2019 Oct;106(4):884-890. doi: 10.1002/cpt.1548. Epub 2019 Jul 17."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "After each participant completes the study, study scan data will be shared with co-investigators; participants may receive a copy of each scan after study completion.",
+            "infoTypes": [
+              "CSR"
+            ],
+            "timeFrame": "Study scan report will be offer to the subject after subject completes study",
+            "accessCriteria": "Authorized research personnel"
+          }
+        },
+        "resultsSection": {
+          "participantFlowModule": {
+            "preAssignmentDetails": "Participants must meet eligibility criteria and be available to participate in the research study. Potential participants who do not meet inclusion and exclusion criteria may be enrolled in the study. Eligible enrolled participants received a baseline neurological evaluation of their symptoms using the UPDRS and an initial SPECT DATscan before proceeding to randomization.",
+            "recruitmentDetails": "Subjects will be recruited from patients presenting to either the Marcus Integrative Health at the Myrna Brind Center - Philadelphia and Villanova or the Thomas Jefferson University Department of Neurology Movement Disorders Clinic. Neurology Department physicians can refer directly to the study. Participants were recruited from the Thomas Jefferson University, All enrolled participants received their baseline and 3-month follow-up visit between June 26, 2014, and December 8, 2016.",
+            "groups": [
+              {
+                "id": "FG000",
+                "title": "Oral and IV N acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+              },
+              {
+                "id": "FG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment"
+              },
+              {
+                "id": "FG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 Fatty Acids and Curcumin",
+                "description": "Self administration of 4 oral supplements Baicalin, Ganoderma, Omega 3 and Curcumin"
+              }
+            ],
+            "periods": [
+              {
+                "title": "Overall Study",
+                "milestones": [
+                  {
+                    "type": "STARTED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "28"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "14"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "numSubjects": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "28"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "14"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "comment": "The protocol was amended from 3 arms to 2; discontinuing this arm of the study.",
+                        "numSubjects": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "NOT COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "0"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "0"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "numSubjects": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "baselineCharacteristicsModule": {
+            "populationDescription": "51 participants were enrolled for full course of the study. Using a 2:1 randomization technique, 28 participants, 14 males and 14 females, were randomized to the NAC arm; 14 subjects, 7 males and 7 females, were assigned to the waitlist control arm. 9 participants, 7 female and 2 male, were enrolled in the oral supplement group.",
+            "groups": [
+              {
+                "id": "BG000",
+                "title": "Oral and IV N Acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+              },
+              {
+                "id": "BG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment"
+              },
+              {
+                "id": "BG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days"
+              },
+              {
+                "id": "BG003",
+                "title": "Total",
+                "description": "Total of all reporting groups"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "BG000",
+                    "value": "28"
+                  },
+                  {
+                    "groupId": "BG001",
+                    "value": "14"
+                  },
+                  {
+                    "groupId": "BG002",
+                    "value": "9"
+                  },
+                  {
+                    "groupId": "BG003",
+                    "value": "51"
+                  }
+                ]
+              }
+            ],
+            "measures": [
+              {
+                "title": "Age, Categorical",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "<=18 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "16"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "6"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "31"
+                          }
+                        ]
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "12"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "5"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "3"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "20"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Age, Continuous",
+                "paramType": "MEAN",
+                "dispersionType": "FULL_RANGE",
+                "unitOfMeasure": "Years",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "62.4",
+                            "lowerLimit": "48",
+                            "upperLimit": "78"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "61.3",
+                            "lowerLimit": "56",
+                            "upperLimit": "68"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "60.6",
+                            "lowerLimit": "52",
+                            "upperLimit": "70"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "62",
+                            "lowerLimit": "48",
+                            "upperLimit": "78"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Sex: Female, Male",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "Female",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "28"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Male",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "2"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "23"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Race (NIH/OMB)",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "American Indian or Alaska Native",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Asian",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Native Hawaiian or Other Pacific Islander",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Black or African American",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "White",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "28"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "51"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "More than one race",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Unknown or Not Reported",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Region of Enrollment",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "classes": [
+                  {
+                    "title": "United States",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "28"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "51"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "outcomeMeasuresModule": {
+            "outcomeMeasures": [
+              {
+                "type": "PRIMARY",
+                "title": "Distribution Volume Ratio",
+                "description": "Distribution Volume Ratio reflects Iofluvane absorption by the dopamine transporters (Dopamine Uptake) that reflects binding in the dopamine transporter (DAT) overall. Striatal Binding Ratio in the regions of interest (ROI), caudate, putamen, and midbrain Serotonin Transporter (SERT) binding and Dopamine Transporter (5-HTT) Binding was measured during Single Photon Emission Computed Tomography (SPECT) Brain Imaging with DATScan (Iofluvane). Regions of interest in the caudate, putamen and in midbrain SERT binding are affected in Parkinson's Disease. Less dopamine transporter binding (lower number) indicates less activated dopamine transporters (worse); more binding (higher number) indicates more binding (better), thus, measuring the overall health of the dopaminergic system in the brain.\n\nAnalysis was completed only for the Oral and IV N acetyl Cysteine Cohort and Control Cohort; the Oral Supplements arm of the study was discontinued and not included in analysis",
+                "populationDescription": "51 participants were enrolled for full course of the study. Using a 2:1 randomization technique, 28 subjects, 14 men and 14 women, were randomized to the NAC arm; 14 subjects, 7 men and 7 women, were assigned to the waitlist control arm. 9 participants in the Oral Supplement arm. The Oral supplement arm of the study was discontinued to focus on a comparison of NAC and controls. Swallowing multiple oral supplements was difficult for persons with Parkinson's disease.",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "95% Confidence Interval",
+                "unitOfMeasure": "Distribution volume ratios",
+                "timeFrame": "Baseline and 90 ± 30 days",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral and IV N acetyl Cysteine Cohort",
+                    "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Control Cohort",
+                    "description": "Standard of Care Treatment"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort: Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Oral supplements Baicalin, Curcumin, Omega 3 fatty acids, and Ganoderma Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "9"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "title": "Degree of DAT binding Caudate DAT-binding pre",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "2.65",
+                            "lowerLimit": "2.5",
+                            "upperLimit": "2.8"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "2.70",
+                            "lowerLimit": "2.49",
+                            "upperLimit": "2.92"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "2.96",
+                            "lowerLimit": "2.04",
+                            "upperLimit": "3.69"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Caudate DAT-binding post",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "2.74",
+                            "lowerLimit": "2.59",
+                            "upperLimit": "2.89"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "2.65",
+                            "lowerLimit": "2.44",
+                            "upperLimit": "2.86"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "2.93",
+                            "lowerLimit": "2.00",
+                            "upperLimit": "3.53"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen DAT-binding pre",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.68",
+                            "lowerLimit": "1.54",
+                            "upperLimit": "1.83"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.84",
+                            "lowerLimit": "1.63",
+                            "upperLimit": "2.05"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.83",
+                            "lowerLimit": "1.40",
+                            "upperLimit": "2.50"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen DAT-binding post",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.82",
+                            "lowerLimit": "1.67",
+                            "upperLimit": "1.97"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.73",
+                            "lowerLimit": "1.52",
+                            "upperLimit": "1.94"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.80",
+                            "lowerLimit": "1.48",
+                            "upperLimit": "2.33"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Caudate pre-post change",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "0.092",
+                            "lowerLimit": "0.013",
+                            "upperLimit": "0.170"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "-0.059",
+                            "lowerLimit": "-0.171",
+                            "upperLimit": "0.052"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "-0.031",
+                            "lowerLimit": "-0.381",
+                            "upperLimit": ".232"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen pre-post change",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "0.135",
+                            "lowerLimit": "0.056",
+                            "upperLimit": "0.214"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "-0.110",
+                            "lowerLimit": "-0.222",
+                            "upperLimit": "0.001"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "-0.032",
+                            "lowerLimit": "-0.463",
+                            "upperLimit": "0.190"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of SERT binding Midbrain SERT binding pre measures",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.48",
+                            "lowerLimit": "1.41",
+                            "upperLimit": "1.55"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.59",
+                            "lowerLimit": "1.49",
+                            "upperLimit": "1.69"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.55",
+                            "lowerLimit": "1.32",
+                            "upperLimit": "1.81"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of SERT binding Midbrain SERT binding pre measures Midbrain SERT binding post measures",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.62",
+                            "lowerLimit": "1.55",
+                            "upperLimit": "1.69"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.48",
+                            "lowerLimit": "1.38",
+                            "upperLimit": "1.57"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.54",
+                            "lowerLimit": "1.43",
+                            "upperLimit": "1.65"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "analyses": [
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "nonInferiorityComment": "Correlation coefficient: The correlation between the pre-to-post change in UPDRS and the imaging findings of DAT binding in the caudate and putamen, as well as SERT binding in the midbrain, was evaluated using both Pearson and Spearman correlation coefficients to confirm any findings using both methods. Analysis of UPDRS total scores, pre-to post differences were compared between NAC and controls study groups using 2-sample t-test.",
+                    "pValue": "0.05",
+                    "pValueComment": "P value adjusted for multiple comparisons. Threshold, for a 5-10% improvement in oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05. for sample size \\~ 28 subjects in the NAC arm and \\~ 14 subjects in the control arm.",
+                    "statisticalMethod": "5-10% improvement in the oral and IV NAC",
+                    "statisticalComment": "Threshold, for a 5-10% improvement in oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05.",
+                    "otherAnalysisDescription": "The primary analysis of dopamine and midbrain serotonin uptake measures from DaTscan was performed using separate linear mixed effect (LME) models with random subject effect. This method differs from a repeated measures analysis of variance because the LME is a statistical model that has both fixed effects and random effects."
+                  },
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "pValue": "0.05",
+                    "statisticalMethod": "t-test, 2 sided"
+                  },
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "nonInferiorityComment": "The primary analysis of dopamine and midbrain serotonin uptake measures from DaTscan was performed using separate linear mixed effect (LME) models with random subject effect. This method differs from a repeated measures analysis of variance because the LME is a statistical model that has both fixed effects and random effects.",
+                    "pValue": "0.05",
+                    "pValueComment": "For a 5-10% improvement in the oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05. for sample size \\~ 28 subjects in the NAC arm and \\~ 14 subjects in the control arm.",
+                    "statisticalMethod": "t-test, 2 sided",
+                    "statisticalComment": "Correlation coefficient: pre-to-post evaluated using Pearson and Spearman correlation coefficients to confirm any findings."
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Years: Number of Years With Parkinson's",
+                "description": "Eligibility requires a diagnosis of Parkinson's disease. Duration of Parkinson's Disease in years will be calculate by participant self-report and review of source documentation, each year since onset of Parkinson's Disease represents one unit. A higher number in years indicates a longer duration since the onset of Parkinson's Disease.",
+                "populationDescription": "Demographic characteristics of the enrolled study population will be analyzed based on the duration of Parkinson's Disease in years. This data will be used in descriptive analysis of the enrolled participant cohorts. The Oral Supplement data was not collected or analyzed; the protocol was amended to close this arm of the study.",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "Years",
+                "timeFrame": "Baseline to evaluate inclusion criteria",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended and this cohort was not included in analysis"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "4.3",
+                            "spread": "3.9"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "4.1",
+                            "spread": "3.2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Severity of Parkinson's Disease Symptom Progression Based Upon the Hoehn and Yahr Scale",
+                "description": "\"The Hoehn and Yahr scale is used to describe the symptom progression of Parkinson disease. The scale originally was described in 1967 and included stages 1 through 5. It has since been modified with the addition of stages 1.5 and 2.5 to account for the intermediate course of Parkinson disease.\" Grade 0: No signs of disease. Grade 1: Mild symptoms; only unilateral involvement. Grade 1.5: Unilateral and axial involvement. \"On this scale, stages 1 and 2 represent early-stage, 2 and 3 mid-stage, and 4 and 5 advanced-stage Parkinson's Disease.\" A higher score on the Hoehn \\& Yahr Scale is an indication of more advanced Parkinson's Disease; a higher score is an indication of the severity of disease (higher is worse). The Oral supplement arm of the study was closed.",
+                "populationDescription": "Analysis was conducted only in the Parkinson's patients in the Oral and IV NAC Cohort and the Standard of Care Control Group",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "Group comparison between Mean and SD in",
+                "timeFrame": "Baseline to evaluate inclusion criteria",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplement Group",
+                    "description": "Oral supplements Baicalin, Curcumin, Omega 3 fatty acids, and Ganoderma Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day\n\nAs indicated by the Jefferson Pharmacy, the certifications of the companies above are as follows:\n\nVital Nutrients - follow GMP, FDA inspected facilities Nordic Naturals - follow European Pharmacy Standards Thorne Research - follow GMP Narula Research - follow GMP"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.8",
+                            "spread": "0.7"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.8",
+                            "spread": "0.6"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Whether Each Participant is Prescribed and Taking Carbidopa/Levodopa for Parkinson's Disease",
+                "description": "Self report of medications including Carbidopa/Levodopa to determine whether each study participant is currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? A score of 1 = Yes and 2 = no Is each study participant currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? The response to this question is binary: Yes or No. Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant NAC and Standard of Care Control Cohorts.",
+                "populationDescription": "Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant cohorts. Parkinson's Patients enrolled in the NAC and standard of care cohorts were included in the analysis. Medications were reviewed to determine whether participant was taking levodopa/carbidopa at the time of enrollment.",
+                "reportingStatus": "POSTED",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "timeFrame": "Baseline",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Baicalin 400mg (Narula Research) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended and this cohort was not included in analysis"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "title": "Yes",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "19"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "7"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "No",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "7"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "adverseEventsModule": {
+            "frequencyThreshold": "0",
+            "timeFrame": "Through study completion, an average of 4 months. The adverse event data was collected and monitored throughout the entire duration of the study (8 years, 4 months).",
+            "eventGroups": [
+              {
+                "id": "EG000",
+                "title": "Oral and IV N acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine",
+                "deathsNumAffected": 28,
+                "deathsNumAtRisk": 28,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 28,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 28
+              },
+              {
+                "id": "EG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment",
+                "deathsNumAffected": 14,
+                "deathsNumAtRisk": 14,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 14,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 14
+              },
+              {
+                "id": "EG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days",
+                "deathsNumAffected": 9,
+                "deathsNumAtRisk": 9,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 9,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 9
+              }
+            ]
+          },
+          "moreInfoModule": {
+            "limitationsAndCaveats": {
+              "description": "The study was amended to discontinue the oral supplement group to focus on the Oral and IV Acetyl cysteine and the controls groups. Swallowing oral supplements was difficult. The randomization changed from 2:2:1 to a 1:1 ratio for enrollment in the remaining 2 groups. In error, the statistical analysis plan was not updated in the amended protocol."
+            },
+            "certainAgreement": {
+              "piSponsorEmployee": false,
+              "restrictiveAgreement": false
+            },
+            "pointOfContact": {
+              "title": "Andrew Newberg, M.D.",
+              "organization": "Thomas Jefferson University",
+              "email": "Andrew.Newberg@jefferson.edu",
+              "phone": "215-503-3423"
+            }
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "Prot_SAP",
+                "hasProtocol": true,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Study Protocol and Statistical Analysis Plan",
+                "date": "2018-05-17",
+                "uploadDate": "2023-06-28T16:13",
+                "filename": "Prot_SAP_006.pdf",
+                "size": 632636
+              },
+              {
+                "typeAbbrev": "ICF",
+                "hasProtocol": false,
+                "hasSap": false,
+                "hasIcf": true,
+                "label": "Informed Consent Form",
+                "date": "2019-08-29",
+                "uploadDate": "2021-11-24T12:49",
+                "filename": "ICF_005.pdf",
+                "size": 898617
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010300",
+                "term": "Parkinson Disease"
+              },
+              {
+                "id": "D019636",
+                "term": "Neurodegenerative Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009069",
+                "term": "Movement Disorders"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D020734",
+                "term": "Parkinsonian Disorders"
+              },
+              {
+                "id": "D001480",
+                "term": "Basal Ganglia Diseases"
+              },
+              {
+                "id": "D000080874",
+                "term": "Synucleinopathies"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000111",
+                "term": "Acetylcysteine"
+              },
+              {
+                "id": "D035061",
+                "term": "Control Groups"
+              },
+              {
+                "id": "D004281",
+                "term": "Docosahexaenoic Acids"
+              },
+              {
+                "id": "D003474",
+                "term": "Curcumin"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003545",
+                "term": "Cysteine"
+              },
+              {
+                "id": "D000603",
+                "term": "Amino Acids, Sulfur"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000596",
+                "term": "Amino Acids"
+              },
+              {
+                "id": "D000602",
+                "term": "Amino Acids, Peptides, and Proteins"
+              },
+              {
+                "id": "D015340",
+                "term": "Epidemiologic Research Design"
+              },
+              {
+                "id": "D004812",
+                "term": "Epidemiologic Methods"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D012107",
+                "term": "Research Design"
+              },
+              {
+                "id": "D008722",
+                "term": "Methods"
+              },
+              {
+                "id": "D015525",
+                "term": "Fatty Acids, Omega-3"
+              },
+              {
+                "id": "D004042",
+                "term": "Dietary Fats, Unsaturated"
+              },
+              {
+                "id": "D004041",
+                "term": "Dietary Fats"
+              },
+              {
+                "id": "D005223",
+                "term": "Fats"
+              },
+              {
+                "id": "D008055",
+                "term": "Lipids"
+              },
+              {
+                "id": "D005231",
+                "term": "Fatty Acids, Unsaturated"
+              },
+              {
+                "id": "D005227",
+                "term": "Fatty Acids"
+              },
+              {
+                "id": "D005395",
+                "term": "Fish Oils"
+              },
+              {
+                "id": "D009821",
+                "term": "Oils"
+              },
+              {
+                "id": "D036381",
+                "term": "Diarylheptanoids"
+              },
+              {
+                "id": "D006536",
+                "term": "Heptanes"
+              },
+              {
+                "id": "D000473",
+                "term": "Alkanes"
+              },
+              {
+                "id": "D006839",
+                "term": "Hydrocarbons, Acyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D002396",
+                "term": "Catechols"
+              },
+              {
+                "id": "D010636",
+                "term": "Phenols"
+              },
+              {
+                "id": "D001555",
+                "term": "Benzene Derivatives"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              }
+            ]
+          }
+        },
+        "hasResults": true
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02445651",
+            "orgStudyIdInfo": {
+              "id": "14D.141"
+            },
+            "organization": {
+              "fullName": "Thomas Jefferson University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+            "officialTitle": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2014-03",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2022-08-04",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2022-08-04",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2015-01-23",
+            "studyFirstSubmitQcDate": "2015-05-14",
+            "studyFirstPostDateStruct": {
+              "date": "2015-05-15",
+              "type": "ESTIMATED"
+            },
+            "resultsFirstSubmitDate": "2023-07-05",
+            "resultsFirstSubmitQcDate": "2025-11-19",
+            "resultsFirstPostDateStruct": {
+              "date": "2025-12-15",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-19",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-12-15",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Thomas Jefferson University",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans. It's most prominent pathology is the degeneration of dopaminergic neurons in the brain. It is believed that oxidative stress and inflammation play an important role in the pathophysiology of Parkinson's disease as well.\n\nThe object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system. Enrolled patients will be randomly assigned to receive oral and intravenous (IV) n-acetyl cysteine (NAC), a control group of standard PD care, or an oral supplement group who will receive Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin. (Please note, the Oral Supplements arm, was amended and not included in analysis.\n\nThis study utilized Ioflupane (DaTscan) single photon emission computed tomography (SPECT) to measure dopamine function, magnetic resonance spectroscopy (MRS) to measure inflammatory and oxidative stress markers, and neurological measures to assess clinical symptoms, in patients with PD. Subjects received a DaTSCAN and MRS initially and after completing oral and IV NAC regimen. Subjects in the control group received pre and post DaTScans and MRS and similar evaluations to the Dietary Supplement oral and IV NAC group.",
+            "detailedDescription": "The first arm of this study received intravenous and oral NAC, which is a strong antioxidant that increases brain glutathione, which may be beneficial in PD. NAC, is the N-acetyl derivative of the naturally occurring amino acid, L-cysteine. NAC is a common over-the-counter supplement and also is available as an injectable pharmaceutical that protects the liver in cases of acetaminophen overdose. Laboratory studies have displayed some benefits to use of NAC, such as its potential to counteract intracellular damage that leads to dopaminergic neuron death. It also has the potential to reduce markers of oxidative damage, protect against dopamine cell death from MPTP toxicity, and to increase glutathione in blood, which might be useful in preventing oxidative damage in PD patients.\n\nThe second arm was a waitlist control group who received no intervention. The control group continued to receive clinical standard of care treatment for PD care provided by their neurologist.\n\nA third arm of the study was an oral supplement group who received Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin.This oral supplement group continued to receive clinical standard of care treatment for PD provided by their neurologist.\n\nThe protocol was amended to include only the NAC arm and the standard of care waitlist control groups."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Parkinson Disease",
+              "Idiopathic Parkinson Disease"
+            ],
+            "keywords": [
+              "Integrative Medicine",
+              "Alternative Medicine",
+              "Complementary Medicine",
+              "Parkinson's disease",
+              "Neurodegenerative Diseases",
+              "Idiopathic Parkinson's disease",
+              "Single Photon Emission Computed Tomography (SPECT)",
+              "Central Nervous System Diseases",
+              "Movement Disorders",
+              "Nervous System Diseases",
+              "Brain Diseases",
+              "Oral supplements",
+              "N-acetyl cysteine"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "To evaluate whether IV/oral N acetyl cysteine, compared to standard of care ,no intervention, (or the discontinued oral supplementation arm) helps support dopamine function in the brains of patients with Parkinson's disease measured using Iofluvane (DATScan); clinical symptoms will be measured.",
+              "primaryPurpose": "SUPPORTIVE_CARE",
+              "maskingInfo": {
+                "masking": "NONE",
+                "maskingDescription": "This is an Open Label study. Randomization will occur via a 2:1 ratio of the NAC group and the control and oral supplement groups using the method of random permuted blocks with random block sizes without stratification. 28 subjects in the NAC arm, 14 subjects have been enrolled in the standard of care arm. 9 subjects who were enrolled in a discontinued oral supplement arm of the study were not included in final study analysis."
+              }
+            },
+            "enrollmentInfo": {
+              "count": 51,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Oral and IV N acetyl Cysteine Cohort",
+                "type": "EXPERIMENTAL",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)",
+                "interventionNames": [
+                  "Dietary Supplement: Intravenous and Oral n-acetyl cysteine"
+                ]
+              },
+              {
+                "label": "Control Cohort",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Standard of Care Treatment",
+                "interventionNames": [
+                  "Other: Control group"
+                ]
+              },
+              {
+                "label": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended; this cohort was not included in analysis that was reported in results.",
+                "interventionNames": [
+                  "Dietary Supplement: Oral Supplements: Baicalin, Ganoderma, Omega 3 and Curcumin"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIETARY_SUPPLEMENT",
+                "name": "Intravenous and Oral n-acetyl cysteine",
+                "armGroupLabels": [
+                  "Oral and IV N acetyl Cysteine Cohort"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Control group",
+                "description": "Standard of Care",
+                "armGroupLabels": [
+                  "Control Cohort"
+                ]
+              },
+              {
+                "type": "DIETARY_SUPPLEMENT",
+                "name": "Oral Supplements: Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days",
+                "armGroupLabels": [
+                  "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Distribution Volume Ratio",
+                "description": "Distribution Volume Ratio reflects Iofluvane absorption by the dopamine transporters (Dopamine Uptake) that reflects binding in the dopamine transporter (DAT) overall. Striatal Binding Ratio in the regions of interest (ROI), caudate, putamen, and midbrain Serotonin Transporter (SERT) binding and Dopamine Transporter (5-HTT) Binding was measured during Single Photon Emission Computed Tomography (SPECT) Brain Imaging with DATScan (Iofluvane). Regions of interest in the caudate, putamen and in midbrain SERT binding are affected in Parkinson's Disease. Less dopamine transporter binding (lower number) indicates less activated dopamine transporters (worse); more binding (higher number) indicates more binding (better), thus, measuring the overall health of the dopaminergic system in the brain.\n\nAnalysis was completed only for the Oral and IV N acetyl Cysteine Cohort and Control Cohort; the Oral Supplements arm of the study was discontinued and not included in analysis",
+                "timeFrame": "Baseline and 90 ± 30 days"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Years: Number of Years With Parkinson's",
+                "description": "Eligibility requires a diagnosis of Parkinson's disease. Duration of Parkinson's Disease in years will be calculate by participant self-report and review of source documentation, each year since onset of Parkinson's Disease represents one unit. A higher number in years indicates a longer duration since the onset of Parkinson's Disease.",
+                "timeFrame": "Baseline to evaluate inclusion criteria"
+              },
+              {
+                "measure": "Severity of Parkinson's Disease Symptom Progression Based Upon the Hoehn and Yahr Scale",
+                "description": "\"The Hoehn and Yahr scale is used to describe the symptom progression of Parkinson disease. The scale originally was described in 1967 and included stages 1 through 5. It has since been modified with the addition of stages 1.5 and 2.5 to account for the intermediate course of Parkinson disease.\" Grade 0: No signs of disease. Grade 1: Mild symptoms; only unilateral involvement. Grade 1.5: Unilateral and axial involvement. \"On this scale, stages 1 and 2 represent early-stage, 2 and 3 mid-stage, and 4 and 5 advanced-stage Parkinson's Disease.\" A higher score on the Hoehn \\& Yahr Scale is an indication of more advanced Parkinson's Disease; a higher score is an indication of the severity of disease (higher is worse). The Oral supplement arm of the study was closed.",
+                "timeFrame": "Baseline to evaluate inclusion criteria"
+              },
+              {
+                "measure": "Whether Each Participant is Prescribed and Taking Carbidopa/Levodopa for Parkinson's Disease",
+                "description": "Self report of medications including Carbidopa/Levodopa to determine whether each study participant is currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? A score of 1 = Yes and 2 = no Is each study participant currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? The response to this question is binary: Yes or No. Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant NAC and Standard of Care Control Cohorts.",
+                "timeFrame": "Baseline"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of Parkinson's disease\n* Subject is between 30 - 80 years of age\n* Subject has a Hoehn and Yahr score of I - II inclusive\n* Subject is on stable or on antiparkinsonian medication for at least a month\n* Women of Childbearing potential will confirm a negative pregnancy test\n\nExclusion Criteria:\n\n* Subject is allergic to iodine, cobalt, or any of the supplements that will be given in the study\n* Subject has had previous brain surgery\n* Subject has a score of 25 or less on Mini-Mental Status examination\n* Subject is wheelchair-bound or bed-ridden; non ambulatory\n* Subject has intracranial abnormalities that may complicate interpretation of the brain scans(e.g., stroke, tumor, vascular abnormality affecting the target area)\n* Subject has a history of head trauma with loss of consciousness greater than 48 hours\n* Subject has any medical disorder or physical condition that could reasonably be expected to interfere with the assessment of parkinsonian syndrome symptoms, or with any of the study assessments including the SPECT imaging.\n* Subject has evidence of a significant psychiatric disorder by history/examination that would prevent completion of the study\n* Subject has a current alcohol or drug abuse\n* Subject is pregnant or lactating\n* Subject is enrolled in active clinical (drug or device) trial within the prior 30 days\n* Subject is pending surgery during the course of the study\n* History of very low blood pressure\n* History of thrombocytopenia or clotting disorders\n* Cancer patients receiving active chemotherapy\n* History of active gallstone problems or a bile duct obstruction\n* History of uncontrolled diabetes, asthma, gastroesophageal reflex disease, or thyroid\n* History of severe kidney disease (if the patient reports this problem, a serum creatinine will be checked to assess GFR; if it is less than 30, the patient will be excluded)\n* History of Leber's disease, a hereditary eye disease\n* History of uncontrolled hypercalcemia\n* History of active sarcoidosis, histoplasmosis, or lymphoma\n* Patients taking medication that might interact with the supplements involved in this study will be evaluated on a case-by-case basis by PI study physician",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "30 Years",
+            "maximumAge": "80 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Daniel A Monti, MD,MBA",
+                "affiliation": "Thomas Jefferson University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Thomas Jefferson University",
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19107",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.95238,
+                  "lon": -75.16362
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "27309537",
+                "type": "BACKGROUND",
+                "citation": "Monti DA, Zabrecky G, Kremens D, Liang TW, Wintering NA, Cai J, Wei X, Bazzan AJ, Zhong L, Bowen B, Intenzo CM, Iacovitti L, Newberg AB. N-Acetyl Cysteine May Support Dopamine Neurons in Parkinson's Disease: Preliminary Clinical and Cell Line Data. PLoS One. 2016 Jun 16;11(6):e0157602. doi: 10.1371/journal.pone.0157602. eCollection 2016."
+              },
+              {
+                "pmid": "31206613",
+                "type": "BACKGROUND",
+                "citation": "Monti DA, Zabrecky G, Kremens D, Liang TW, Wintering NA, Bazzan AJ, Zhong L, Bowens BK, Chervoneva I, Intenzo C, Newberg AB. N-Acetyl Cysteine Is Associated With Dopaminergic Improvement in Parkinson's Disease. Clin Pharmacol Ther. 2019 Oct;106(4):884-890. doi: 10.1002/cpt.1548. Epub 2019 Jul 17."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "After each participant completes the study, study scan data will be shared with co-investigators; participants may receive a copy of each scan after study completion.",
+            "infoTypes": [
+              "CSR"
+            ],
+            "timeFrame": "Study scan report will be offer to the subject after subject completes study",
+            "accessCriteria": "Authorized research personnel"
+          }
+        },
+        "resultsSection": {
+          "participantFlowModule": {
+            "preAssignmentDetails": "Participants must meet eligibility criteria and be available to participate in the research study. Potential participants who do not meet inclusion and exclusion criteria may be enrolled in the study. Eligible enrolled participants received a baseline neurological evaluation of their symptoms using the UPDRS and an initial SPECT DATscan before proceeding to randomization.",
+            "recruitmentDetails": "Subjects will be recruited from patients presenting to either the Marcus Integrative Health at the Myrna Brind Center - Philadelphia and Villanova or the Thomas Jefferson University Department of Neurology Movement Disorders Clinic. Neurology Department physicians can refer directly to the study. Participants were recruited from the Thomas Jefferson University, All enrolled participants received their baseline and 3-month follow-up visit between June 26, 2014, and December 8, 2016.",
+            "groups": [
+              {
+                "id": "FG000",
+                "title": "Oral and IV N acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+              },
+              {
+                "id": "FG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment"
+              },
+              {
+                "id": "FG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 Fatty Acids and Curcumin",
+                "description": "Self administration of 4 oral supplements Baicalin, Ganoderma, Omega 3 and Curcumin"
+              }
+            ],
+            "periods": [
+              {
+                "title": "Overall Study",
+                "milestones": [
+                  {
+                    "type": "STARTED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "28"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "14"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "numSubjects": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "28"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "14"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "comment": "The protocol was amended from 3 arms to 2; discontinuing this arm of the study.",
+                        "numSubjects": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "NOT COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "0"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "0"
+                      },
+                      {
+                        "groupId": "FG002",
+                        "numSubjects": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "baselineCharacteristicsModule": {
+            "populationDescription": "51 participants were enrolled for full course of the study. Using a 2:1 randomization technique, 28 participants, 14 males and 14 females, were randomized to the NAC arm; 14 subjects, 7 males and 7 females, were assigned to the waitlist control arm. 9 participants, 7 female and 2 male, were enrolled in the oral supplement group.",
+            "groups": [
+              {
+                "id": "BG000",
+                "title": "Oral and IV N Acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+              },
+              {
+                "id": "BG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment"
+              },
+              {
+                "id": "BG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days"
+              },
+              {
+                "id": "BG003",
+                "title": "Total",
+                "description": "Total of all reporting groups"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "BG000",
+                    "value": "28"
+                  },
+                  {
+                    "groupId": "BG001",
+                    "value": "14"
+                  },
+                  {
+                    "groupId": "BG002",
+                    "value": "9"
+                  },
+                  {
+                    "groupId": "BG003",
+                    "value": "51"
+                  }
+                ]
+              }
+            ],
+            "measures": [
+              {
+                "title": "Age, Categorical",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "<=18 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "16"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "6"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "31"
+                          }
+                        ]
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "12"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "5"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "3"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "20"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Age, Continuous",
+                "paramType": "MEAN",
+                "dispersionType": "FULL_RANGE",
+                "unitOfMeasure": "Years",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "62.4",
+                            "lowerLimit": "48",
+                            "upperLimit": "78"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "61.3",
+                            "lowerLimit": "56",
+                            "upperLimit": "68"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "60.6",
+                            "lowerLimit": "52",
+                            "upperLimit": "70"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "62",
+                            "lowerLimit": "48",
+                            "upperLimit": "78"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Sex: Female, Male",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "Female",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "28"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Male",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "2"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "23"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Race (NIH/OMB)",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "American Indian or Alaska Native",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Asian",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Native Hawaiian or Other Pacific Islander",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Black or African American",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "White",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "28"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "51"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "More than one race",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Unknown or Not Reported",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Region of Enrollment",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "classes": [
+                  {
+                    "title": "United States",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "28"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG003",
+                            "value": "51"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "outcomeMeasuresModule": {
+            "outcomeMeasures": [
+              {
+                "type": "PRIMARY",
+                "title": "Distribution Volume Ratio",
+                "description": "Distribution Volume Ratio reflects Iofluvane absorption by the dopamine transporters (Dopamine Uptake) that reflects binding in the dopamine transporter (DAT) overall. Striatal Binding Ratio in the regions of interest (ROI), caudate, putamen, and midbrain Serotonin Transporter (SERT) binding and Dopamine Transporter (5-HTT) Binding was measured during Single Photon Emission Computed Tomography (SPECT) Brain Imaging with DATScan (Iofluvane). Regions of interest in the caudate, putamen and in midbrain SERT binding are affected in Parkinson's Disease. Less dopamine transporter binding (lower number) indicates less activated dopamine transporters (worse); more binding (higher number) indicates more binding (better), thus, measuring the overall health of the dopaminergic system in the brain.\n\nAnalysis was completed only for the Oral and IV N acetyl Cysteine Cohort and Control Cohort; the Oral Supplements arm of the study was discontinued and not included in analysis",
+                "populationDescription": "51 participants were enrolled for full course of the study. Using a 2:1 randomization technique, 28 subjects, 14 men and 14 women, were randomized to the NAC arm; 14 subjects, 7 men and 7 women, were assigned to the waitlist control arm. 9 participants in the Oral Supplement arm. The Oral supplement arm of the study was discontinued to focus on a comparison of NAC and controls. Swallowing multiple oral supplements was difficult for persons with Parkinson's disease.",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "95% Confidence Interval",
+                "unitOfMeasure": "Distribution volume ratios",
+                "timeFrame": "Baseline and 90 ± 30 days",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral and IV N acetyl Cysteine Cohort",
+                    "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Control Cohort",
+                    "description": "Standard of Care Treatment"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort: Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Oral supplements Baicalin, Curcumin, Omega 3 fatty acids, and Ganoderma Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "9"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "title": "Degree of DAT binding Caudate DAT-binding pre",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "2.65",
+                            "lowerLimit": "2.5",
+                            "upperLimit": "2.8"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "2.70",
+                            "lowerLimit": "2.49",
+                            "upperLimit": "2.92"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "2.96",
+                            "lowerLimit": "2.04",
+                            "upperLimit": "3.69"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Caudate DAT-binding post",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "2.74",
+                            "lowerLimit": "2.59",
+                            "upperLimit": "2.89"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "2.65",
+                            "lowerLimit": "2.44",
+                            "upperLimit": "2.86"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "2.93",
+                            "lowerLimit": "2.00",
+                            "upperLimit": "3.53"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen DAT-binding pre",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.68",
+                            "lowerLimit": "1.54",
+                            "upperLimit": "1.83"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.84",
+                            "lowerLimit": "1.63",
+                            "upperLimit": "2.05"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.83",
+                            "lowerLimit": "1.40",
+                            "upperLimit": "2.50"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen DAT-binding post",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.82",
+                            "lowerLimit": "1.67",
+                            "upperLimit": "1.97"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.73",
+                            "lowerLimit": "1.52",
+                            "upperLimit": "1.94"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.80",
+                            "lowerLimit": "1.48",
+                            "upperLimit": "2.33"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Caudate pre-post change",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "0.092",
+                            "lowerLimit": "0.013",
+                            "upperLimit": "0.170"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "-0.059",
+                            "lowerLimit": "-0.171",
+                            "upperLimit": "0.052"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "-0.031",
+                            "lowerLimit": "-0.381",
+                            "upperLimit": ".232"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of DAT binding Putamen pre-post change",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "0.135",
+                            "lowerLimit": "0.056",
+                            "upperLimit": "0.214"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "-0.110",
+                            "lowerLimit": "-0.222",
+                            "upperLimit": "0.001"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "-0.032",
+                            "lowerLimit": "-0.463",
+                            "upperLimit": "0.190"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of SERT binding Midbrain SERT binding pre measures",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.48",
+                            "lowerLimit": "1.41",
+                            "upperLimit": "1.55"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.59",
+                            "lowerLimit": "1.49",
+                            "upperLimit": "1.69"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.55",
+                            "lowerLimit": "1.32",
+                            "upperLimit": "1.81"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Degree of SERT binding Midbrain SERT binding pre measures Midbrain SERT binding post measures",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.62",
+                            "lowerLimit": "1.55",
+                            "upperLimit": "1.69"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.48",
+                            "lowerLimit": "1.38",
+                            "upperLimit": "1.57"
+                          },
+                          {
+                            "groupId": "OG002",
+                            "value": "1.54",
+                            "lowerLimit": "1.43",
+                            "upperLimit": "1.65"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "analyses": [
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "nonInferiorityComment": "Correlation coefficient: The correlation between the pre-to-post change in UPDRS and the imaging findings of DAT binding in the caudate and putamen, as well as SERT binding in the midbrain, was evaluated using both Pearson and Spearman correlation coefficients to confirm any findings using both methods. Analysis of UPDRS total scores, pre-to post differences were compared between NAC and controls study groups using 2-sample t-test.",
+                    "pValue": "0.05",
+                    "pValueComment": "P value adjusted for multiple comparisons. Threshold, for a 5-10% improvement in oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05. for sample size \\~ 28 subjects in the NAC arm and \\~ 14 subjects in the control arm.",
+                    "statisticalMethod": "5-10% improvement in the oral and IV NAC",
+                    "statisticalComment": "Threshold, for a 5-10% improvement in oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05.",
+                    "otherAnalysisDescription": "The primary analysis of dopamine and midbrain serotonin uptake measures from DaTscan was performed using separate linear mixed effect (LME) models with random subject effect. This method differs from a repeated measures analysis of variance because the LME is a statistical model that has both fixed effects and random effects."
+                  },
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "pValue": "0.05",
+                    "statisticalMethod": "t-test, 2 sided"
+                  },
+                  {
+                    "groupIds": [
+                      "OG000",
+                      "OG001"
+                    ],
+                    "nonInferiorityType": "OTHER",
+                    "nonInferiorityComment": "The primary analysis of dopamine and midbrain serotonin uptake measures from DaTscan was performed using separate linear mixed effect (LME) models with random subject effect. This method differs from a repeated measures analysis of variance because the LME is a statistical model that has both fixed effects and random effects.",
+                    "pValue": "0.05",
+                    "pValueComment": "For a 5-10% improvement in the oral and IV NAC cohort for an 80% power to detect a significant change of P = 0.05. for sample size \\~ 28 subjects in the NAC arm and \\~ 14 subjects in the control arm.",
+                    "statisticalMethod": "t-test, 2 sided",
+                    "statisticalComment": "Correlation coefficient: pre-to-post evaluated using Pearson and Spearman correlation coefficients to confirm any findings."
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Years: Number of Years With Parkinson's",
+                "description": "Eligibility requires a diagnosis of Parkinson's disease. Duration of Parkinson's Disease in years will be calculate by participant self-report and review of source documentation, each year since onset of Parkinson's Disease represents one unit. A higher number in years indicates a longer duration since the onset of Parkinson's Disease.",
+                "populationDescription": "Demographic characteristics of the enrolled study population will be analyzed based on the duration of Parkinson's Disease in years. This data will be used in descriptive analysis of the enrolled participant cohorts. The Oral Supplement data was not collected or analyzed; the protocol was amended to close this arm of the study.",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "Years",
+                "timeFrame": "Baseline to evaluate inclusion criteria",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended and this cohort was not included in analysis"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "4.3",
+                            "spread": "3.9"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "4.1",
+                            "spread": "3.2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Severity of Parkinson's Disease Symptom Progression Based Upon the Hoehn and Yahr Scale",
+                "description": "\"The Hoehn and Yahr scale is used to describe the symptom progression of Parkinson disease. The scale originally was described in 1967 and included stages 1 through 5. It has since been modified with the addition of stages 1.5 and 2.5 to account for the intermediate course of Parkinson disease.\" Grade 0: No signs of disease. Grade 1: Mild symptoms; only unilateral involvement. Grade 1.5: Unilateral and axial involvement. \"On this scale, stages 1 and 2 represent early-stage, 2 and 3 mid-stage, and 4 and 5 advanced-stage Parkinson's Disease.\" A higher score on the Hoehn \\& Yahr Scale is an indication of more advanced Parkinson's Disease; a higher score is an indication of the severity of disease (higher is worse). The Oral supplement arm of the study was closed.",
+                "populationDescription": "Analysis was conducted only in the Parkinson's patients in the Oral and IV NAC Cohort and the Standard of Care Control Group",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "Group comparison between Mean and SD in",
+                "timeFrame": "Baseline to evaluate inclusion criteria",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplement Group",
+                    "description": "Oral supplements Baicalin, Curcumin, Omega 3 fatty acids, and Ganoderma Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day\n\nAs indicated by the Jefferson Pharmacy, the certifications of the companies above are as follows:\n\nVital Nutrients - follow GMP, FDA inspected facilities Nordic Naturals - follow European Pharmacy Standards Thorne Research - follow GMP Narula Research - follow GMP"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1.8",
+                            "spread": "0.7"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "1.8",
+                            "spread": "0.6"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "OTHER_PRE_SPECIFIED",
+                "title": "Whether Each Participant is Prescribed and Taking Carbidopa/Levodopa for Parkinson's Disease",
+                "description": "Self report of medications including Carbidopa/Levodopa to determine whether each study participant is currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? A score of 1 = Yes and 2 = no Is each study participant currently prescribed and taking Carbidopa/Levodopa for Parkinson's Disease? The response to this question is binary: Yes or No. Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant NAC and Standard of Care Control Cohorts.",
+                "populationDescription": "Characteristics of the enrolled study population will be analyzed based on whether each participant is prescribed and taking Carbidopa/Levodopa for PD. This data will be used in descriptive analysis of the enrolled participant cohorts. Parkinson's Patients enrolled in the NAC and standard of care cohorts were included in the analysis. Medications were reviewed to determine whether participant was taking levodopa/carbidopa at the time of enrollment.",
+                "reportingStatus": "POSTED",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "timeFrame": "Baseline",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "NAC cohort",
+                    "description": "Group that received N-acetyl cysteine"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "SOC cohort",
+                    "description": "Group receiving standard care"
+                  },
+                  {
+                    "id": "OG002",
+                    "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                    "description": "Baicalin 400mg (Narula Research) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days The protocol was amended and this cohort was not included in analysis"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "28"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "14"
+                      },
+                      {
+                        "groupId": "OG002",
+                        "value": "0"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "title": "Yes",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "19"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "7"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "No",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "7"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "adverseEventsModule": {
+            "frequencyThreshold": "0",
+            "timeFrame": "Through study completion, an average of 4 months. The adverse event data was collected and monitored throughout the entire duration of the study (8 years, 4 months).",
+            "eventGroups": [
+              {
+                "id": "EG000",
+                "title": "Oral and IV N acetyl Cysteine Cohort",
+                "description": "Administration of Intravenous (IV) and Oral N-acetyl Cysteine (NAC) Intervention: IV NAC infusion: Dose: 50mg in 200ml of D5W, frequency: over one hour 1 x per week for 90 days ± 30 days AND Oral N-acetyl Cysteine - one 600 mg tablet 2 x per day (on days IV N-acetyl cysteine is not administered)\n\nIntravenous and Oral n-acetyl cysteine",
+                "deathsNumAffected": 28,
+                "deathsNumAtRisk": 28,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 28,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 28
+              },
+              {
+                "id": "EG001",
+                "title": "Control Cohort",
+                "description": "Standard of Care Treatment",
+                "deathsNumAffected": 14,
+                "deathsNumAtRisk": 14,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 14,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 14
+              },
+              {
+                "id": "EG002",
+                "title": "Oral Supplements Cohort Baicalin, Ganoderma, Omega 3 and Curcumin",
+                "description": "Baicalin 400mg (Narula Reasearch) 2 x per day Curcumin Phytosome 500mg (Thorne Research) 2 x per day Omega 3 Acids - ProEPA (Nordic Naturals) 1 x per day Ganoderma - Reishi Extract 500mg by Vital Nutrients (REIS8) 2 caps 2x per day Frequency: over one hour 1 x per week for 90 days ± 30 days",
+                "deathsNumAffected": 9,
+                "deathsNumAtRisk": 9,
+                "seriousNumAffected": 0,
+                "seriousNumAtRisk": 9,
+                "otherNumAffected": 0,
+                "otherNumAtRisk": 9
+              }
+            ]
+          },
+          "moreInfoModule": {
+            "limitationsAndCaveats": {
+              "description": "The study was amended to discontinue the oral supplement group to focus on the Oral and IV Acetyl cysteine and the controls groups. Swallowing oral supplements was difficult. The randomization changed from 2:2:1 to a 1:1 ratio for enrollment in the remaining 2 groups. In error, the statistical analysis plan was not updated in the amended protocol."
+            },
+            "certainAgreement": {
+              "piSponsorEmployee": false,
+              "restrictiveAgreement": false
+            },
+            "pointOfContact": {
+              "title": "Andrew Newberg, M.D.",
+              "organization": "Thomas Jefferson University",
+              "email": "Andrew.Newberg@jefferson.edu",
+              "phone": "215-503-3423"
+            }
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "Prot_SAP",
+                "hasProtocol": true,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Study Protocol and Statistical Analysis Plan",
+                "date": "2018-05-17",
+                "uploadDate": "2023-06-28T16:13",
+                "filename": "Prot_SAP_006.pdf",
+                "size": 632636
+              },
+              {
+                "typeAbbrev": "ICF",
+                "hasProtocol": false,
+                "hasSap": false,
+                "hasIcf": true,
+                "label": "Informed Consent Form",
+                "date": "2019-08-29",
+                "uploadDate": "2021-11-24T12:49",
+                "filename": "ICF_005.pdf",
+                "size": 898617
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010300",
+                "term": "Parkinson Disease"
+              },
+              {
+                "id": "D019636",
+                "term": "Neurodegenerative Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009069",
+                "term": "Movement Disorders"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D020734",
+                "term": "Parkinsonian Disorders"
+              },
+              {
+                "id": "D001480",
+                "term": "Basal Ganglia Diseases"
+              },
+              {
+                "id": "D000080874",
+                "term": "Synucleinopathies"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000111",
+                "term": "Acetylcysteine"
+              },
+              {
+                "id": "D035061",
+                "term": "Control Groups"
+              },
+              {
+                "id": "D004281",
+                "term": "Docosahexaenoic Acids"
+              },
+              {
+                "id": "D003474",
+                "term": "Curcumin"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003545",
+                "term": "Cysteine"
+              },
+              {
+                "id": "D000603",
+                "term": "Amino Acids, Sulfur"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000596",
+                "term": "Amino Acids"
+              },
+              {
+                "id": "D000602",
+                "term": "Amino Acids, Peptides, and Proteins"
+              },
+              {
+                "id": "D015340",
+                "term": "Epidemiologic Research Design"
+              },
+              {
+                "id": "D004812",
+                "term": "Epidemiologic Methods"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D012107",
+                "term": "Research Design"
+              },
+              {
+                "id": "D008722",
+                "term": "Methods"
+              },
+              {
+                "id": "D015525",
+                "term": "Fatty Acids, Omega-3"
+              },
+              {
+                "id": "D004042",
+                "term": "Dietary Fats, Unsaturated"
+              },
+              {
+                "id": "D004041",
+                "term": "Dietary Fats"
+              },
+              {
+                "id": "D005223",
+                "term": "Fats"
+              },
+              {
+                "id": "D008055",
+                "term": "Lipids"
+              },
+              {
+                "id": "D005231",
+                "term": "Fatty Acids, Unsaturated"
+              },
+              {
+                "id": "D005227",
+                "term": "Fatty Acids"
+              },
+              {
+                "id": "D005395",
+                "term": "Fish Oils"
+              },
+              {
+                "id": "D009821",
+                "term": "Oils"
+              },
+              {
+                "id": "D036381",
+                "term": "Diarylheptanoids"
+              },
+              {
+                "id": "D006536",
+                "term": "Heptanes"
+              },
+              {
+                "id": "D000473",
+                "term": "Alkanes"
+              },
+              {
+                "id": "D006839",
+                "term": "Hydrocarbons, Acyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D002396",
+                "term": "Catechols"
+              },
+              {
+                "id": "D010636",
+                "term": "Phenols"
+              },
+              {
+                "id": "D001555",
+                "term": "Benzene Derivatives"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              }
+            ]
+          }
+        },
+        "hasResults": true
+      }
+    ]
+  }
+}

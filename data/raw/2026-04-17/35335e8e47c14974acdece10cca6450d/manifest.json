@@ -1,0 +1,67 @@
+{
+  "run_id": "35335e8e47c14974acdece10cca6450d",
+  "stored_at": "2026-04-17T22:53:56+00:00",
+  "query": "cancer cancer mortality rates canada",
+  "query_fallbacks": [
+    "cancer cancer mortality rates canada",
+    "cancer mortality trends in Canada",
+    "epidemiology of cancer deaths in Canada",
+    "cancer mortality rates in Canadian population",
+    "incidence and mortality of cancer in Canada",
+    "cancer cancer mortality rates treatment",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer mortality rates canada",
+    "cancer cancer mortality rates treatment",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer mortality trends in Canada",
+    "epidemiology of cancer deaths in Canada",
+    "cancer mortality rates in Canadian population",
+    "incidence and mortality of cancer in Canada"
+  ],
+  "keywords": [
+    "cancer",
+    "mortality",
+    "rates",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 27,
+    "indexed_chunks": 148
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer mortality trends in Canada",
+      "epidemiology of cancer deaths in Canada",
+      "cancer mortality rates in Canadian population",
+      "incidence and mortality of cancer in Canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\35335e8e47c14974acdece10cca6450d\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\35335e8e47c14974acdece10cca6450d\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\35335e8e47c14974acdece10cca6450d\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\35335e8e47c14974acdece10cca6450d\\combined.records.json"
+  }
+}

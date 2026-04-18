@@ -1,0 +1,116 @@
+{
+  "enabled": true,
+  "indexed_chunks": 25,
+  "matches": [
+    {
+      "id": "pubmed:34339387:0",
+      "score": 0.7678683996200562,
+      "metadata": {
+        "id": "pubmed:34339387:0",
+        "doc_id": "34339387",
+        "source": "pubmed",
+        "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+        "study_type": "Publication",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+        "text": "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning."
+      }
+    },
+    {
+      "id": "pubmed:36962553:1",
+      "score": 0.7238771915435791,
+      "metadata": {
+        "id": "pubmed:36962553:1",
+        "doc_id": "36962553",
+        "source": "pubmed",
+        "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+        "study_type": "Publication",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+        "text": "Thus, malaria is not only prevalent in Central Turkana but also sustained by local transmission."
+      }
+    },
+    {
+      "id": "pubmed:36962553:0",
+      "score": 0.6943826675415039,
+      "metadata": {
+        "id": "pubmed:36962553:0",
+        "doc_id": "36962553",
+        "source": "pubmed",
+        "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+        "study_type": "Publication",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+        "text": "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      }
+    },
+    {
+      "id": "pubmed:37966106:0",
+      "score": 0.6912751197814941,
+      "metadata": {
+        "id": "pubmed:37966106:0",
+        "doc_id": "37966106",
+        "source": "pubmed",
+        "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.",
+        "study_type": "Publication",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37966106/",
+        "text": "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      }
+    },
+    {
+      "id": "pubmed:34339387:2",
+      "score": 0.6735414862632751,
+      "metadata": {
+        "id": "pubmed:34339387:2",
+        "doc_id": "34339387",
+        "source": "pubmed",
+        "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+        "study_type": "Publication",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+        "text": "Reactive case detection of confirmed malaria cases at six health facilities across central Turkana was conducted from 2018 to 2019."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "34339387",
+      "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+      "study_type": "Publication",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+      "semantic_score": 0.7678683996200562,
+      "matched_sentences": [
+        "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning.",
+        "Reactive case detection of confirmed malaria cases at six health facilities across central Turkana was conducted from 2018 to 2019."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36962553",
+      "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+      "study_type": "Publication",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+      "semantic_score": 0.7238771915435791,
+      "matched_sentences": [
+        "Thus, malaria is not only prevalent in Central Turkana but also sustained by local transmission.",
+        "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37966106",
+      "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.",
+      "study_type": "Publication",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37966106/",
+      "semantic_score": 0.6912751197814941,
+      "matched_sentences": [
+        "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      ]
+    }
+  ]
+}

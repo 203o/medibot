@@ -1,0 +1,59 @@
+{
+  "run_id": "873efcee9fa84bd484c948c52e6fc374",
+  "stored_at": "2026-04-16T17:09:01+00:00",
+  "query": "malaria about children kenya turkana",
+  "query_fallbacks": [
+    "malaria about children kenya turkana",
+    "malaria about children",
+    "malaria about children treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria about children kenya turkana",
+    "malaria about children",
+    "malaria about children treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "malaria",
+    "about",
+    "children",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 9,
+    "clinicaltrials": 30,
+    "openalex": 30,
+    "semantic_hits": 67,
+    "indexed_chunks": 77
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [],
+    "reason": "error:HfHubHTTPError"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\873efcee9fa84bd484c948c52e6fc374\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\873efcee9fa84bd484c948c52e6fc374\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\873efcee9fa84bd484c948c52e6fc374\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\873efcee9fa84bd484c948c52e6fc374\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\873efcee9fa84bd484c948c52e6fc374\\combined.records.json"
+  }
+}

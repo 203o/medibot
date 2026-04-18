@@ -1,0 +1,44 @@
+{
+  "run_id": "03ed4f39d3a24619990f3ccbdd52bda4",
+  "stored_at": "2026-04-16T09:33:34+00:00",
+  "query": "malaria treatment therapy management kenya turkana",
+  "query_fallbacks": [
+    "malaria treatment therapy management kenya turkana",
+    "malaria treatment therapy management",
+    "malaria treatment therapy management treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "treatment",
+    "therapy",
+    "management",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 60,
+    "openalex": 60,
+    "semantic_hits": 62,
+    "indexed_chunks": 296
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03ed4f39d3a24619990f3ccbdd52bda4\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03ed4f39d3a24619990f3ccbdd52bda4\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03ed4f39d3a24619990f3ccbdd52bda4\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03ed4f39d3a24619990f3ccbdd52bda4\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03ed4f39d3a24619990f3ccbdd52bda4\\combined.records.json"
+  }
+}

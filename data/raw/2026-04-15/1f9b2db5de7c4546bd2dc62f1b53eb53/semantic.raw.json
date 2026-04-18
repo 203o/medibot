@@ -1,0 +1,127 @@
+{
+  "enabled": true,
+  "indexed_chunks": 6,
+  "matches": [
+    {
+      "id": "pubmed:36228911:0",
+      "score": 0.751501202583313,
+      "metadata": {
+        "id": "pubmed:36228911:0",
+        "doc_id": "36228911",
+        "source": "pubmed",
+        "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+        "text": "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      }
+    },
+    {
+      "id": "pubmed:36228915:2",
+      "score": 0.7263005375862122,
+      "metadata": {
+        "id": "pubmed:36228915:2",
+        "doc_id": "36228915",
+        "source": "pubmed",
+        "title": "Understanding the Intransigence of Malaria in Malawi.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+        "text": "These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem."
+      }
+    },
+    {
+      "id": "pubmed:36228915:1",
+      "score": 0.7140710949897766,
+      "metadata": {
+        "id": "pubmed:36228915:1",
+        "doc_id": "36228915",
+        "source": "pubmed",
+        "title": "Understanding the Intransigence of Malaria in Malawi.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+        "text": "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      }
+    },
+    {
+      "id": "pubmed:21639926:2",
+      "score": 0.6964530348777771,
+      "metadata": {
+        "id": "pubmed:21639926:2",
+        "doc_id": "21639926",
+        "source": "pubmed",
+        "title": "Malaria in Kakuma refugee camp, Turkana, Kenya: facilitation of Anopheles arabiensis vector populations by installed water distribution and catchment systems.",
+        "study_type": "Publication",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21639926/",
+        "text": "Malaria is a major health concern for displaced persons occupying refugee camps in sub-Saharan Africa, yet there is little information on the incidence of infection and nature of transmission in these settings."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:1",
+      "score": 0.6963378190994263,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:1",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+      "semantic_score": 0.751501202583313,
+      "matched_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228915",
+      "title": "Understanding the Intransigence of Malaria in Malawi.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+      "semantic_score": 0.7263005375862122,
+      "matched_sentences": [
+        "These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem.",
+        "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21639926",
+      "title": "Malaria in Kakuma refugee camp, Turkana, Kenya: facilitation of Anopheles arabiensis vector populations by installed water distribution and catchment systems.",
+      "study_type": "Publication",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21639926/",
+      "semantic_score": 0.6964530348777771,
+      "matched_sentences": [
+        "Malaria is a major health concern for displaced persons occupying refugee camps in sub-Saharan Africa, yet there is little information on the incidence of infection and nature of transmission in these settings."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.6963378190994263,
+      "matched_sentences": [
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+      ]
+    }
+  ]
+}

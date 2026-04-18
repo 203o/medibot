@@ -1,0 +1,45 @@
+{
+  "query": "malaria hydration during treatment Kenya, Turkana",
+  "id_list": [],
+  "records": [],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "0",
+      "retmax": "0",
+      "retstart": "0",
+      "idlist": [],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "hydration",
+          "to": "\"hydratation\"[All Fields] OR \"hydrate\"[All Fields] OR \"hydrated\"[All Fields] OR \"hydrates\"[All Fields] OR \"hydrating\"[All Fields] OR \"hydration\"[All Fields] OR \"hydrational\"[All Fields] OR \"hydrations\"[All Fields]"
+        },
+        {
+          "from": "treatment",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment's\"[All Fields]"
+        },
+        {
+          "from": "Kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"hydratation\"[All Fields] OR \"hydrate\"[All Fields] OR \"hydrated\"[All Fields] OR \"hydrates\"[All Fields] OR \"hydrating\"[All Fields] OR \"hydration\"[All Fields] OR \"hydrational\"[All Fields] OR \"hydrations\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields]) AND \"Turkana\"[All Fields]",
+      "warninglist": {
+        "phrasesignored": [
+          "during"
+        ],
+        "quotedphrasesnotfound": [],
+        "outputmessages": [
+          "No items found."
+        ]
+      }
+    }
+  }
+}

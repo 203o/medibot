@@ -1,0 +1,982 @@
+{
+  "enabled": true,
+  "indexed_chunks": 37,
+  "matches": [
+    {
+      "id": "clinicaltrials:NCT00137657:0",
+      "score": 0.8154414892196655,
+      "metadata": {
+        "id": "clinicaltrials:NCT00137657:0",
+        "doc_id": "NCT00137657",
+        "source": "clinicaltrials",
+        "title": "Impact of Cotrimoxazole Prophylaxis for HIV-Infected Adults on Antifolate Resistance",
+        "study_type": "INTERVENTIONAL",
+        "year": "2005",
+        "url": "https://clinicaltrials.gov/study/NCT00137657",
+        "text": "We conducted this study in Kisumu, Kenya where HIV prevalence is high and malaria is highly endemic."
+      }
+    },
+    {
+      "id": "pubmed:29412886:0",
+      "score": 0.7865114212036133,
+      "metadata": {
+        "id": "pubmed:29412886:0",
+        "doc_id": "29412886",
+        "source": "pubmed",
+        "title": "Pathology-Based Research in Africa.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+        "text": "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      }
+    },
+    {
+      "id": "pubmed:36189366:1",
+      "score": 0.7853189706802368,
+      "metadata": {
+        "id": "pubmed:36189366:1",
+        "doc_id": "36189366",
+        "source": "pubmed",
+        "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+        "text": "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on"
+      }
+    },
+    {
+      "id": "pubmed:28749403:2",
+      "score": 0.7643437385559082,
+      "metadata": {
+        "id": "pubmed:28749403:2",
+        "doc_id": "28749403",
+        "source": "pubmed",
+        "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+        "text": "The interactions between HIV and malaria co-infection have been shown to influence each other in their clinical outcomes in Sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00144352:0",
+      "score": 0.7535040378570557,
+      "metadata": {
+        "id": "clinicaltrials:NCT00144352:0",
+        "doc_id": "NCT00144352",
+        "source": "clinicaltrials",
+        "title": "In-Vivo Response of P. Falciparum to Antimalarial Treatment in HIV-Infected and HIV-Uninfected Adults",
+        "study_type": "INTERVENTIONAL",
+        "year": "2005",
+        "url": "https://clinicaltrials.gov/study/NCT00144352",
+        "text": "Although a study in 1993 in Tanzania showed significantly higher prevalence of malaria infections in HIV-positive compared to HIV negative adults, until recently there have been few studies showing any association between the two infections."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04695197:2",
+      "score": 0.7325258255004883,
+      "metadata": {
+        "id": "clinicaltrials:NCT04695197:2",
+        "doc_id": "NCT04695197",
+        "source": "clinicaltrials",
+        "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04695197",
+        "text": "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      }
+    },
+    {
+      "id": "pubmed:21224274:1",
+      "score": 0.7234408855438232,
+      "metadata": {
+        "id": "pubmed:21224274:1",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00811421:0",
+      "score": 0.7224780917167664,
+      "metadata": {
+        "id": "clinicaltrials:NCT00811421:0",
+        "doc_id": "NCT00811421",
+        "source": "clinicaltrials",
+        "title": "Evaluation of Alternative Antimalarial Drugs for Malaria in Pregnancy",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00811421",
+        "text": "HIV infection increases susceptibility to malaria and may reduce the efficacy of interventions."
+      }
+    },
+    {
+      "id": "pubmed:21224274:0",
+      "score": 0.7215235233306885,
+      "metadata": {
+        "id": "pubmed:21224274:0",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level."
+      }
+    },
+    {
+      "id": "pubmed:25385855:0",
+      "score": 0.7130472660064697,
+      "metadata": {
+        "id": "pubmed:25385855:0",
+        "doc_id": "25385855",
+        "source": "pubmed",
+        "title": "Use of mosquito preventive measures is associated with increased RBC CR1 levels in a malaria holoendemic area of western Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25385855/",
+        "text": "A cross-sectional study was conducted in a malaria holoendemic area of western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:32189611:1",
+      "score": 0.7118056416511536,
+      "metadata": {
+        "id": "pubmed:32189611:1",
+        "doc_id": "32189611",
+        "source": "pubmed",
+        "title": "Gaps between Knowledge and Malaria Treatment Practices after Intensive Anti-Malaria Campaigns in Western Kenya: 2004-2016.",
+        "study_type": "Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32189611/",
+        "text": "In Kenya, free malaria treatment has been implemented since 2006."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04158713:2",
+      "score": 0.7058711647987366,
+      "metadata": {
+        "id": "clinicaltrials:NCT04158713:2",
+        "doc_id": "NCT04158713",
+        "source": "clinicaltrials",
+        "title": "Improving PRegnancy Outcomes With PReVEntive Therapy in Africa-2 (IMPROVE-2)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04158713",
+        "text": "Overview Study Design: This multi-centre trial will be conducted in antenatal clinics in 8 hospitals in Kenya and Malawi located in areas with high prevalence of HIV and malaria and with high anti-folate resistance of the malaria parasite."
+      }
+    },
+    {
+      "id": "pubmed:22943054:1",
+      "score": 0.7040497064590454,
+      "metadata": {
+        "id": "pubmed:22943054:1",
+        "doc_id": "22943054",
+        "source": "pubmed",
+        "title": "Correlates of HIV and malaria co-infection in Southern India.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+        "text": "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria."
+      }
+    },
+    {
+      "id": "pubmed:32324850:0",
+      "score": 0.7040262222290039,
+      "metadata": {
+        "id": "pubmed:32324850:0",
+        "doc_id": "32324850",
+        "source": "pubmed",
+        "title": "Impact of Community-Based Mass Testing and Treatment on Malaria Infection Prevalence in a High-Transmission Area of Western Kenya: A Cluster Randomized Controlled Trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32324850/",
+        "text": "We studied the efficacy of repeated rounds of community-based mass testing and treatment (MTaT) on malaria infection prevalence in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:37808984:0",
+      "score": 0.6975575089454651,
+      "metadata": {
+        "id": "pubmed:37808984:0",
+        "doc_id": "37808984",
+        "source": "pubmed",
+        "title": "Higher rates of mental health screening of adolescents recorded after provider training using simulated patients in a Kenyan HIV clinic: results of a pilot study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37808984/",
+        "text": "This pilot study was conducted in a public HIV clinic in Thika, Kenya from January to November 2021."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4405398893:2",
+      "score": 0.6862503290176392,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4405398893:2",
+        "doc_id": "https://openalex.org/W4405398893",
+        "source": "openalex",
+        "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+        "study_type": "article",
+        "year": "2024",
+        "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+        "text": "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      }
+    },
+    {
+      "id": "pubmed:37604474:0",
+      "score": 0.6847259998321533,
+      "metadata": {
+        "id": "pubmed:37604474:0",
+        "doc_id": "37604474",
+        "source": "pubmed",
+        "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+        "text": "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      }
+    },
+    {
+      "id": "pubmed:39800719:0",
+      "score": 0.6846401691436768,
+      "metadata": {
+        "id": "pubmed:39800719:0",
+        "doc_id": "39800719",
+        "source": "pubmed",
+        "title": "Malaria prevalence, transmission potential and efficacy of artemisinin-based combination therapy in the Kenyan Central highlands: a zone previously characterized as malaria-free.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39800719/",
+        "text": "The current study sought to re-evaluate malaria prevalence, susceptibility to artemisinin-based combination therapy (ACT), transmission patterns and the presence of malaria vectors in the Kikuyu area of the Kenyan Central highlands, a non-traditional/low risk malaria transmission zone where there have been anecdotal reports of emerging malaria infections."
+      }
+    },
+    {
+      "id": "pubmed:26449946:0",
+      "score": 0.6831492781639099,
+      "metadata": {
+        "id": "pubmed:26449946:0",
+        "doc_id": "26449946",
+        "source": "pubmed",
+        "title": "Emergence of Community-Acquired, Multidrug-Resistant Invasive Nontyphoidal Salmonella Disease in Rural Western Kenya, 2009-2013.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26449946/",
+        "text": "We reviewed clinical features, outcomes, and antimicrobial resistance patterns in invasive NTS infections among children aged 6 weeks to 5 years participating in malaria vaccine studies in an area of high malaria and human immunodeficiency virus (HIV) transmission in Siaya, western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:37424519:0",
+      "score": 0.6826995611190796,
+      "metadata": {
+        "id": "pubmed:37424519:0",
+        "doc_id": "37424519",
+        "source": "pubmed",
+        "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+        "text": "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions."
+      }
+    },
+    {
+      "id": "pubmed:21224274:2",
+      "score": 0.6803504228591919,
+      "metadata": {
+        "id": "pubmed:21224274:2",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      }
+    },
+    {
+      "id": "pubmed:36890544:0",
+      "score": 0.6802118420600891,
+      "metadata": {
+        "id": "pubmed:36890544:0",
+        "doc_id": "36890544",
+        "source": "pubmed",
+        "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+        "text": "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:25318705:0",
+      "score": 0.6795326471328735,
+      "metadata": {
+        "id": "pubmed:25318705:0",
+        "doc_id": "25318705",
+        "source": "pubmed",
+        "title": "Clinical malaria case definition and malaria attributable fraction in the highlands of western Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25318705/",
+        "text": "Cases of clinical malaria through active case surveillance were quantified in a highland area in Kenya and defined clinical malaria for different age groups."
+      }
+    },
+    {
+      "id": "pubmed:35248055:2",
+      "score": 0.6794819831848145,
+      "metadata": {
+        "id": "pubmed:35248055:2",
+        "doc_id": "35248055",
+        "source": "pubmed",
+        "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+        "text": "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      }
+    },
+    {
+      "id": "pubmed:36581863:2",
+      "score": 0.6771742105484009,
+      "metadata": {
+        "id": "pubmed:36581863:2",
+        "doc_id": "36581863",
+        "source": "pubmed",
+        "title": "Determinants of utilization of malaria preventive measures during pregnancy among women aged 15 to 49 years in Kenya: an analysis of the Malaria Indicator Survey 2020.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36581863/",
+        "text": "Data were from the 2020 Kenya Malaria Indicator Survey (MIS)."
+      }
+    },
+    {
+      "id": "pubmed:28749403:1",
+      "score": 0.6766418218612671,
+      "metadata": {
+        "id": "pubmed:28749403:1",
+        "doc_id": "28749403",
+        "source": "pubmed",
+        "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+        "text": "The study assessed the changes in viral load and also the therapeutic efficacy of artesunate plus sulphadoxine-pyrimethamine (AS+SP) combination therapy in HIV-infected and HIV-uninfected individuals with Plasmodium falciparum malaria."
+      }
+    },
+    {
+      "id": "pubmed:40700688:2",
+      "score": 0.6755151748657227,
+      "metadata": {
+        "id": "pubmed:40700688:2",
+        "doc_id": "40700688",
+        "source": "pubmed",
+        "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+        "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+        "text": "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00266058:1",
+      "score": 0.6720854043960571,
+      "metadata": {
+        "id": "clinicaltrials:NCT00266058:1",
+        "doc_id": "NCT00266058",
+        "source": "clinicaltrials",
+        "title": "Drug Interaction Study Between Antimalarial and Anti-HIV Medications",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT00266058",
+        "text": "The information obtained from this study will help doctors to provide a better treatment to children and adults with malaria and HIV."
+      }
+    },
+    {
+      "id": "pubmed:37821868:0",
+      "score": 0.671053409576416,
+      "metadata": {
+        "id": "pubmed:37821868:0",
+        "doc_id": "37821868",
+        "source": "pubmed",
+        "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+        "text": "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:26449946:2",
+      "score": 0.6706485748291016,
+      "metadata": {
+        "id": "pubmed:26449946:2",
+        "doc_id": "26449946",
+        "source": "pubmed",
+        "title": "Emergence of Community-Acquired, Multidrug-Resistant Invasive Nontyphoidal Salmonella Disease in Rural Western Kenya, 2009-2013.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26449946/",
+        "text": "Malaria infection within the past 2 weeks occurred in 18.8% (3/16) of invasive NTS episodes in HIV-infected and 66.2% (53/80) in HIV-uninfected children."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01669941:0",
+      "score": 0.6667389273643494,
+      "metadata": {
+        "id": "clinicaltrials:NCT01669941:0",
+        "doc_id": "NCT01669941",
+        "source": "clinicaltrials",
+        "title": "Efficacy of Intermittent Screening and Treatment or Intermittent Preventive Treatment (IPT) With Dihydroartemisinin-Piperaquine, Versus IPT With Sulfadoxine-Pyrimethamine for the Control of Malaria in Pregnancy in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT01669941",
+        "text": "This study aims to compare the efficacy of IPTp-SP against that of IPTp-DP and ISTp-DP to determine if these alternate strategies are associated with a reduction in malaria infection at delivery among HIV(-) women in an area with decreasing malaria transmission and high levels of SP resistance in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:22457274:1",
+      "score": 0.6640529632568359,
+      "metadata": {
+        "id": "pubmed:22457274:1",
+        "doc_id": "22457274",
+        "source": "pubmed",
+        "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22457274/",
+        "text": "Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children."
+      }
+    },
+    {
+      "id": "pubmed:22533793:1",
+      "score": 0.6640032529830933,
+      "metadata": {
+        "id": "pubmed:22533793:1",
+        "doc_id": "22533793",
+        "source": "pubmed",
+        "title": "Prevalence and correlates of insecticide-treated bednet use among HIV-1-infected adults in Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22533793/",
+        "text": "HIV-1-infected adults are at increased risk for malaria."
+      }
+    },
+    {
+      "id": "pubmed:22943054:0",
+      "score": 0.6638705730438232,
+      "metadata": {
+        "id": "pubmed:22943054:0",
+        "doc_id": "22943054",
+        "source": "pubmed",
+        "title": "Correlates of HIV and malaria co-infection in Southern India.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+        "text": "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P."
+      }
+    },
+    {
+      "id": "pubmed:36189366:0",
+      "score": 0.6634472012519836,
+      "metadata": {
+        "id": "pubmed:36189366:0",
+        "doc_id": "36189366",
+        "source": "pubmed",
+        "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+        "text": "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized."
+      }
+    },
+    {
+      "id": "pubmed:35767269:2",
+      "score": 0.6630414128303528,
+      "metadata": {
+        "id": "pubmed:35767269:2",
+        "doc_id": "35767269",
+        "source": "pubmed",
+        "title": "Malaria Transmission Dynamics in a High-Transmission Setting of Western Kenya and the Inadequate Treatment Response to Artemether-Lumefantrine in an Asymptomatic Population.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35767269/",
+        "text": "We conducted a longitudinal epidemiological study in a high-malaria-burden region in Kenya to characterize transmission in an asymptomatic population."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02671175:0",
+      "score": 0.6624036431312561,
+      "metadata": {
+        "id": "clinicaltrials:NCT02671175:0",
+        "doc_id": "NCT02671175",
+        "source": "clinicaltrials",
+        "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02671175",
+        "text": "This study is a confirmatory efficacy trial in Kenya and Uganda to determine the efficacy and safety of malaria chemoprevention post-discharge."
+      }
+    },
+    {
+      "id": "pubmed:18647387:2",
+      "score": 0.6603955030441284,
+      "metadata": {
+        "id": "pubmed:18647387:2",
+        "doc_id": "18647387",
+        "source": "pubmed",
+        "title": "The impact of HIV-1 on the malaria parasite biomass in adults in sub-Saharan Africa contributes to the emergence of antimalarial drug resistance.",
+        "study_type": "Journal Article",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18647387/",
+        "text": "The HIV-1 epidemic by increasing the malaria parasite biomass in sub-Saharan Africa may also increase the emergence of antimalarial drug resistance, potentially affecting the health of the whole population in countries endemic for both HIV-1 and malaria."
+      }
+    },
+    {
+      "id": "pubmed:26502920:0",
+      "score": 0.6595759391784668,
+      "metadata": {
+        "id": "pubmed:26502920:0",
+        "doc_id": "26502920",
+        "source": "pubmed",
+        "title": "Use of different transmission metrics to describe malaria epidemiology in the highlands of western Kenya.",
+        "study_type": "Evaluation Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26502920/",
+        "text": "This paper describes use of three transmission metrics to explore the malaria epidemiology in the highlands of western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:36410321:0",
+      "score": 0.6580731272697449,
+      "metadata": {
+        "id": "pubmed:36410321:0",
+        "doc_id": "36410321",
+        "source": "pubmed",
+        "title": "Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36410321/",
+        "text": "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00137657",
+      "title": "Impact of Cotrimoxazole Prophylaxis for HIV-Infected Adults on Antifolate Resistance",
+      "study_type": "INTERVENTIONAL",
+      "year": "2005",
+      "url": "https://clinicaltrials.gov/study/NCT00137657",
+      "semantic_score": 0.8154414892196655,
+      "matched_sentences": [
+        "We conducted this study in Kisumu, Kenya where HIV prevalence is high and malaria is highly endemic."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29412886",
+      "title": "Pathology-Based Research in Africa.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+      "semantic_score": 0.7865114212036133,
+      "matched_sentences": [
+        "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36189366",
+      "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+      "semantic_score": 0.7853189706802368,
+      "matched_sentences": [
+        "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on",
+        "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28749403",
+      "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+      "semantic_score": 0.7643437385559082,
+      "matched_sentences": [
+        "The interactions between HIV and malaria co-infection have been shown to influence each other in their clinical outcomes in Sub-Saharan Africa.",
+        "The study assessed the changes in viral load and also the therapeutic efficacy of artesunate plus sulphadoxine-pyrimethamine (AS+SP) combination therapy in HIV-infected and HIV-uninfected individuals with Plasmodium falciparum malaria."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00144352",
+      "title": "In-Vivo Response of P. Falciparum to Antimalarial Treatment in HIV-Infected and HIV-Uninfected Adults",
+      "study_type": "INTERVENTIONAL",
+      "year": "2005",
+      "url": "https://clinicaltrials.gov/study/NCT00144352",
+      "semantic_score": 0.7535040378570557,
+      "matched_sentences": [
+        "Although a study in 1993 in Tanzania showed significantly higher prevalence of malaria infections in HIV-positive compared to HIV negative adults, until recently there have been few studies showing any association between the two infections."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04695197",
+      "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04695197",
+      "semantic_score": 0.7325258255004883,
+      "matched_sentences": [
+        "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21224274",
+      "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+      "study_type": "Journal Article",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+      "semantic_score": 0.7234408855438232,
+      "matched_sentences": [
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level.",
+        "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00811421",
+      "title": "Evaluation of Alternative Antimalarial Drugs for Malaria in Pregnancy",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00811421",
+      "semantic_score": 0.7224780917167664,
+      "matched_sentences": [
+        "HIV infection increases susceptibility to malaria and may reduce the efficacy of interventions."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25385855",
+      "title": "Use of mosquito preventive measures is associated with increased RBC CR1 levels in a malaria holoendemic area of western Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25385855/",
+      "semantic_score": 0.7130472660064697,
+      "matched_sentences": [
+        "A cross-sectional study was conducted in a malaria holoendemic area of western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32189611",
+      "title": "Gaps between Knowledge and Malaria Treatment Practices after Intensive Anti-Malaria Campaigns in Western Kenya: 2004-2016.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32189611/",
+      "semantic_score": 0.7118056416511536,
+      "matched_sentences": [
+        "In Kenya, free malaria treatment has been implemented since 2006."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04158713",
+      "title": "Improving PRegnancy Outcomes With PReVEntive Therapy in Africa-2 (IMPROVE-2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04158713",
+      "semantic_score": 0.7058711647987366,
+      "matched_sentences": [
+        "Overview Study Design: This multi-centre trial will be conducted in antenatal clinics in 8 hospitals in Kenya and Malawi located in areas with high prevalence of HIV and malaria and with high anti-folate resistance of the malaria parasite."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22943054",
+      "title": "Correlates of HIV and malaria co-infection in Southern India.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+      "semantic_score": 0.7040497064590454,
+      "matched_sentences": [
+        "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria.",
+        "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32324850",
+      "title": "Impact of Community-Based Mass Testing and Treatment on Malaria Infection Prevalence in a High-Transmission Area of Western Kenya: A Cluster Randomized Controlled Trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32324850/",
+      "semantic_score": 0.7040262222290039,
+      "matched_sentences": [
+        "We studied the efficacy of repeated rounds of community-based mass testing and treatment (MTaT) on malaria infection prevalence in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37808984",
+      "title": "Higher rates of mental health screening of adolescents recorded after provider training using simulated patients in a Kenyan HIV clinic: results of a pilot study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37808984/",
+      "semantic_score": 0.6975575089454651,
+      "matched_sentences": [
+        "This pilot study was conducted in a public HIV clinic in Thika, Kenya from January to November 2021."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4405398893",
+      "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+      "study_type": "article",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+      "semantic_score": 0.6862503290176392,
+      "matched_sentences": [
+        "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37604474",
+      "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+      "semantic_score": 0.6847259998321533,
+      "matched_sentences": [
+        "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39800719",
+      "title": "Malaria prevalence, transmission potential and efficacy of artemisinin-based combination therapy in the Kenyan Central highlands: a zone previously characterized as malaria-free.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39800719/",
+      "semantic_score": 0.6846401691436768,
+      "matched_sentences": [
+        "The current study sought to re-evaluate malaria prevalence, susceptibility to artemisinin-based combination therapy (ACT), transmission patterns and the presence of malaria vectors in the Kikuyu area of the Kenyan Central highlands, a non-traditional/low risk malaria transmission zone where there have been anecdotal reports of emerging malaria infections."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26449946",
+      "title": "Emergence of Community-Acquired, Multidrug-Resistant Invasive Nontyphoidal Salmonella Disease in Rural Western Kenya, 2009-2013.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26449946/",
+      "semantic_score": 0.6831492781639099,
+      "matched_sentences": [
+        "We reviewed clinical features, outcomes, and antimicrobial resistance patterns in invasive NTS infections among children aged 6 weeks to 5 years participating in malaria vaccine studies in an area of high malaria and human immunodeficiency virus (HIV) transmission in Siaya, western Kenya.",
+        "Malaria infection within the past 2 weeks occurred in 18.8% (3/16) of invasive NTS episodes in HIV-infected and 66.2% (53/80) in HIV-uninfected children."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37424519",
+      "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+      "semantic_score": 0.6826995611190796,
+      "matched_sentences": [
+        "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36890544",
+      "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+      "semantic_score": 0.6802118420600891,
+      "matched_sentences": [
+        "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25318705",
+      "title": "Clinical malaria case definition and malaria attributable fraction in the highlands of western Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25318705/",
+      "semantic_score": 0.6795326471328735,
+      "matched_sentences": [
+        "Cases of clinical malaria through active case surveillance were quantified in a highland area in Kenya and defined clinical malaria for different age groups."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35248055",
+      "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+      "semantic_score": 0.6794819831848145,
+      "matched_sentences": [
+        "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36581863",
+      "title": "Determinants of utilization of malaria preventive measures during pregnancy among women aged 15 to 49 years in Kenya: an analysis of the Malaria Indicator Survey 2020.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36581863/",
+      "semantic_score": 0.6771742105484009,
+      "matched_sentences": [
+        "Data were from the 2020 Kenya Malaria Indicator Survey (MIS)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40700688",
+      "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+      "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+      "semantic_score": 0.6755151748657227,
+      "matched_sentences": [
+        "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00266058",
+      "title": "Drug Interaction Study Between Antimalarial and Anti-HIV Medications",
+      "study_type": "INTERVENTIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT00266058",
+      "semantic_score": 0.6720854043960571,
+      "matched_sentences": [
+        "The information obtained from this study will help doctors to provide a better treatment to children and adults with malaria and HIV."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37821868",
+      "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+      "semantic_score": 0.671053409576416,
+      "matched_sentences": [
+        "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01669941",
+      "title": "Efficacy of Intermittent Screening and Treatment or Intermittent Preventive Treatment (IPT) With Dihydroartemisinin-Piperaquine, Versus IPT With Sulfadoxine-Pyrimethamine for the Control of Malaria in Pregnancy in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT01669941",
+      "semantic_score": 0.6667389273643494,
+      "matched_sentences": [
+        "This study aims to compare the efficacy of IPTp-SP against that of IPTp-DP and ISTp-DP to determine if these alternate strategies are associated with a reduction in malaria infection at delivery among HIV(-) women in an area with decreasing malaria transmission and high levels of SP resistance in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22457274",
+      "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22457274/",
+      "semantic_score": 0.6640529632568359,
+      "matched_sentences": [
+        "Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22533793",
+      "title": "Prevalence and correlates of insecticide-treated bednet use among HIV-1-infected adults in Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22533793/",
+      "semantic_score": 0.6640032529830933,
+      "matched_sentences": [
+        "HIV-1-infected adults are at increased risk for malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35767269",
+      "title": "Malaria Transmission Dynamics in a High-Transmission Setting of Western Kenya and the Inadequate Treatment Response to Artemether-Lumefantrine in an Asymptomatic Population.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35767269/",
+      "semantic_score": 0.6630414128303528,
+      "matched_sentences": [
+        "We conducted a longitudinal epidemiological study in a high-malaria-burden region in Kenya to characterize transmission in an asymptomatic population."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02671175",
+      "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02671175",
+      "semantic_score": 0.6624036431312561,
+      "matched_sentences": [
+        "This study is a confirmatory efficacy trial in Kenya and Uganda to determine the efficacy and safety of malaria chemoprevention post-discharge."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18647387",
+      "title": "The impact of HIV-1 on the malaria parasite biomass in adults in sub-Saharan Africa contributes to the emergence of antimalarial drug resistance.",
+      "study_type": "Journal Article",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18647387/",
+      "semantic_score": 0.6603955030441284,
+      "matched_sentences": [
+        "The HIV-1 epidemic by increasing the malaria parasite biomass in sub-Saharan Africa may also increase the emergence of antimalarial drug resistance, potentially affecting the health of the whole population in countries endemic for both HIV-1 and malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26502920",
+      "title": "Use of different transmission metrics to describe malaria epidemiology in the highlands of western Kenya.",
+      "study_type": "Evaluation Study, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26502920/",
+      "semantic_score": 0.6595759391784668,
+      "matched_sentences": [
+        "This paper describes use of three transmission metrics to explore the malaria epidemiology in the highlands of western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36410321",
+      "title": "Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36410321/",
+      "semantic_score": 0.6580731272697449,
+      "matched_sentences": [
+        "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria."
+      ]
+    }
+  ]
+}

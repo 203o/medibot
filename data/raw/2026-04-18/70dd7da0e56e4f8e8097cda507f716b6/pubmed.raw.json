@@ -1,0 +1,1591 @@
+{
+  "query": "non-small cell lung cancer (nsclc) nsclc stage iiia egfr",
+  "selected_query": "non-small cell lung cancer (nsclc) nsclc stage iiia egfr",
+  "attempted_queries": [
+    {
+      "query": "non-small cell lung cancer (nsclc) nsclc stage iiia egfr",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "36720083",
+    "32955177",
+    "40446184",
+    "40097663",
+    "34280355",
+    "37272535",
+    "32407216",
+    "39028931",
+    "37797140",
+    "41114991",
+    "33569340",
+    "39732365",
+    "36823150",
+    "39496545",
+    "39980151",
+    "39330007",
+    "40866342",
+    "40457471",
+    "36027483",
+    "38153722",
+    "39448200",
+    "34490338",
+    "38190787",
+    "36168085",
+    "18484217",
+    "37958305",
+    "37920491",
+    "37308037",
+    "39999636",
+    "29789220"
+  ],
+  "records": [
+    {
+      "pmid": "36720083",
+      "title": "Adjuvant Osimertinib for Resected EGFR-Mutated Stage IB-IIIA Non-Small-Cell Lung Cancer: Updated Results From the Phase III Randomized ADAURA Trial.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "The phase III ADAURA (ClinicalTrials.gov identifier: NCT02511106) primary analysis demonstrated a clinically significant disease-free survival (DFS) benefit with adjuvant osimertinib versus placebo in EGFR-mutated stage IB-IIIA non-small-cell lung cancer (NSCLC) after complete tumor resection (DFS hazard ratio [HR], 0.20 [99.12% CI, 0.14 to 0.30];",
+        "Overall, 682 patients with stage IB-IIIA (American Joint Committee on Cancer/Union for International Cancer Control, seventh edition) EGFR-mutated (exon 19 deletion/L858R) NSCLC were randomly assigned 1:1 (stratified by stage, mutational status, and race) to receive osimertinib 80 mg once-daily or placebo for 3 years. The primary end point was DFS by investigator assessment in stage II-IIIA disease analyzed by stratified log-rank test; following early reporting of statistical significance in DFS, no further formal statistical testing was planned. Secondary end points included DFS in stage IB-IIIA, overall survival, and safety. Patterns of recurrence and CNS DFS were prespecified exploratory end points.",
+        "At data cutoff (April 11, 2022), in stage II-IIIA disease, median follow-up was 44.2 months (osimertinib) and 19.6 months (placebo); the DFS HR was 0.23 (95% CI, 0.18 to 0.30); 4-year DFS rate was 70% (osimertinib) and 29% (placebo). In the overall population, DFS HR was 0.27 (95% CI, 0.21 to 0.34); 4-year DFS rate was 73% (osimertinib) and 38% (placebo). Fewer patients treated with osimertinib had local/regional and distant recurrence versus placebo. CNS DFS HR in stage II-IIIA was 0.24 (95% CI, 0.14 to 0.42). The long-term safety profile of osimertinib was consistent with the primary analysis.",
+        "These updated data demonstrate prolonged DFS benefit over placebo, reduced risk of local and distant recurrence, improved CNS DFS, and a consistent safety profile, supporting the efficacy of adjuvant osimertinib in resected EGFR-mutated NSCLC."
+      ],
+      "abstract": "The phase III ADAURA (ClinicalTrials.gov identifier: NCT02511106) primary analysis demonstrated a clinically significant disease-free survival (DFS) benefit with adjuvant osimertinib versus placebo in EGFR-mutated stage IB-IIIA non-small-cell lung cancer (NSCLC) after complete tumor resection (DFS hazard ratio [HR], 0.20 [99.12% CI, 0.14 to 0.30];\n\nOverall, 682 patients with stage IB-IIIA (American Joint Committee on Cancer/Union for International Cancer Control, seventh edition) EGFR-mutated (exon 19 deletion/L858R) NSCLC were randomly assigned 1:1 (stratified by stage, mutational status, and race) to receive osimertinib 80 mg once-daily or placebo for 3 years. The primary end point was DFS by investigator assessment in stage II-IIIA disease analyzed by stratified log-rank test; following early reporting of statistical significance in DFS, no further formal statistical testing was planned. Secondary end points included DFS in stage IB-IIIA, overall survival, and safety. Patterns of recurrence and CNS DFS were prespecified exploratory end points.\n\nAt data cutoff (April 11, 2022), in stage II-IIIA disease, median follow-up was 44.2 months (osimertinib) and 19.6 months (placebo); the DFS HR was 0.23 (95% CI, 0.18 to 0.30); 4-year DFS rate was 70% (osimertinib) and 29% (placebo). In the overall population, DFS HR was 0.27 (95% CI, 0.21 to 0.34); 4-year DFS rate was 73% (osimertinib) and 38% (placebo). Fewer patients treated with osimertinib had local/regional and distant recurrence versus placebo. CNS DFS HR in stage II-IIIA was 0.24 (95% CI, 0.14 to 0.42). The long-term safety profile of osimertinib was consistent with the primary analysis.\n\nThese updated data demonstrate prolonged DFS benefit over placebo, reduced risk of local and distant recurrence, improved CNS DFS, and a consistent safety profile, supporting the efficacy of adjuvant osimertinib in resected EGFR-mutated NSCLC.",
+      "evidence_sentences": [
+        "The phase III ADAURA (ClinicalTrials.gov identifier: NCT02511106) primary analysis demonstrated a clinically significant disease-free survival (DFS) benefit with adjuvant osimertinib versus placebo in EGFR-mutated stage IB-IIIA non-small-cell lung cancer (NSCLC) after complete tumor resection (DFS hazard ratio [HR], 0.20 [99.12% CI, 0.14 to 0.30]; Overall, 682 patients with stage IB-IIIA (American Joint Committee on Cancer/Union for International Cancer Control, seventh edition) EGFR-mutated (exon 19 deletion/L858R) NSCLC were randomly assigned 1:1 (stratified by stage, mutational status, and race) to receive osimertinib 80 mg once-daily or placebo for 3 years.",
+        "These updated data demonstrate prolonged DFS benefit over placebo, reduced risk of local and distant recurrence, improved CNS DFS, and a consistent safety profile, supporting the efficacy of adjuvant osimertinib in resected EGFR-mutated NSCLC.",
+        "At data cutoff (April 11, 2022), in stage II-IIIA disease, median follow-up was 44.2 months (osimertinib) and 19.6 months (placebo); the DFS HR was 0.23 (95% CI, 0.18 to 0.30); 4-year DFS rate was 70% (osimertinib) and 29% (placebo)."
+      ],
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Roy S Herbst",
+        "Yi-Long Wu",
+        "Thomas John",
+        "Christian Grohe",
+        "Margarita Majem",
+        "Jie Wang",
+        "Terufumi Kato",
+        "Jonathan W Goldman",
+        "Konstantin Laktionov",
+        "Sang-We Kim",
+        "Chong-Jen Yu",
+        "Huu Vinh Vu",
+        "Shun Lu",
+        "Kye Young Lee",
+        "Guzel Mukhametshina",
+        "Charuwan Akewanlop",
+        "Filippo de Marinis",
+        "Laura Bonanno",
+        "Manuel Domine",
+        "Frances A Shepherd",
+        "Damien Urban",
+        "Xiangning Huang",
+        "Ana Bolanos",
+        "Marta Stachowiak",
+        "Masahiro Tsuboi"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36720083/"
+    },
+    {
+      "pmid": "32955177",
+      "title": "Osimertinib in Resected",
+      "journal": "The New England journal of medicine",
+      "abstract_sections": [
+        "Osimertinib is standard-of-care therapy for previously untreated epidermal growth factor receptor (",
+        "In this double-blind, phase 3 trial, we randomly assigned patients with completely resected",
+        "A total of 682 patients underwent randomization (339 to the osimertinib group and 343 to the placebo group). At 24 months, 90% of the patients with stage II to IIIA disease in the osimertinib group (95% confidence interval [CI], 84 to 93) and 44% of those in the placebo group (95% CI, 37 to 51) were alive and disease-free (overall hazard ratio for disease recurrence or death, 0.17; 99.06% CI, 0.11 to 0.26; P<0.001). In the overall population, 89% of the patients in the osimertinib group (95% CI, 85 to 92) and 52% of those in the placebo group (95% CI, 46 to 58) were alive and disease-free at 24 months (overall hazard ratio for disease recurrence or death, 0.20; 99.12% CI, 0.14 to 0.30; P<0.001). At 24 months, 98% of the patients in the osimertinib group (95% CI, 95 to 99) and 85% of those in the placebo group (95% CI, 80 to 89) were alive and did not have central nervous system disease (overall hazard ratio for disease recurrence or death, 0.18; 95% CI, 0.10 to 0.33). Overall survival data were immature; 29 patients died (9 in the osimertinib group and 20 in the placebo group). No new safety concerns were noted.",
+        "In patients with stage IB to IIIA"
+      ],
+      "abstract": "Osimertinib is standard-of-care therapy for previously untreated epidermal growth factor receptor (\n\nIn this double-blind, phase 3 trial, we randomly assigned patients with completely resected\n\nA total of 682 patients underwent randomization (339 to the osimertinib group and 343 to the placebo group). At 24 months, 90% of the patients with stage II to IIIA disease in the osimertinib group (95% confidence interval [CI], 84 to 93) and 44% of those in the placebo group (95% CI, 37 to 51) were alive and disease-free (overall hazard ratio for disease recurrence or death, 0.17; 99.06% CI, 0.11 to 0.26; P<0.001). In the overall population, 89% of the patients in the osimertinib group (95% CI, 85 to 92) and 52% of those in the placebo group (95% CI, 46 to 58) were alive and disease-free at 24 months (overall hazard ratio for disease recurrence or death, 0.20; 99.12% CI, 0.14 to 0.30; P<0.001). At 24 months, 98% of the patients in the osimertinib group (95% CI, 95 to 99) and 85% of those in the placebo group (95% CI, 80 to 89) were alive and did not have central nervous system disease (overall hazard ratio for disease recurrence or death, 0.18; 95% CI, 0.10 to 0.33). Overall survival data were immature; 29 patients died (9 in the osimertinib group and 20 in the placebo group). No new safety concerns were noted.\n\nIn patients with stage IB to IIIA",
+      "evidence_sentences": [
+        "At 24 months, 90% of the patients with stage II to IIIA disease in the osimertinib group (95% confidence interval [CI], 84 to 93) and 44% of those in the placebo group (95% CI, 37 to 51) were alive and disease-free (overall hazard ratio for disease recurrence or death, 0.17; 99.06% CI, 0.11 to 0.26; P<0.001).",
+        "Osimertinib is standard-of-care therapy for previously untreated epidermal growth factor receptor ( In this double-blind, phase 3 trial, we randomly assigned patients with completely resected A total of 682 patients underwent randomization (339 to the osimertinib group and 343 to the placebo group)."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Yi-Long Wu",
+        "Masahiro Tsuboi",
+        "Jie He",
+        "Thomas John",
+        "Christian Grohe",
+        "Margarita Majem",
+        "Jonathan W Goldman",
+        "Konstantin Laktionov",
+        "Sang-We Kim",
+        "Terufumi Kato",
+        "Huu-Vinh Vu",
+        "Shun Lu",
+        "Kye-Young Lee",
+        "Charuwan Akewanlop",
+        "Chong-Jen Yu",
+        "Filippo de Marinis",
+        "Laura Bonanno",
+        "Manuel Domine",
+        "Frances A Shepherd",
+        "Lingmin Zeng",
+        "Rachel Hodge",
+        "Ajlan Atasoy",
+        "Yuri Rukazenkov",
+        "Roy S Herbst",
+        "ADAURA Investigators"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32955177/"
+    },
+    {
+      "pmid": "40446184",
+      "title": "Five-Year Survival Outcomes With Atezolizumab After Chemotherapy in Resected Stage IB-IIIA Non-Small Cell Lung Cancer (IMpower010): An Open-Label, Randomized, Phase III Trial.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "IMpower010 (ClinicalTrials.gov identifier: NCT02486718) previously showed that atezolizumab improved disease-free survival (DFS) versus best supportive care (BSC) after adjuvant chemotherapy in patients with resected non-small cell lung cancer (NSCLC). We report DFS final analysis, second overall survival (OS) interim analysis, and safety with a ≥5-year follow-up. Patients with completely resected stage IB-IIIA NSCLC were randomly assigned to atezolizumab (1,200 mg once every 3 weeks, 16 cycles) or BSC after platinum-based chemotherapy. At clinical cutoff (January 26, 2024), stratified hazard ratios (HRs; 95% CI) for DFS were 0.85 (95% CI, 0.71 to 1.01;"
+      ],
+      "abstract": "IMpower010 (ClinicalTrials.gov identifier: NCT02486718) previously showed that atezolizumab improved disease-free survival (DFS) versus best supportive care (BSC) after adjuvant chemotherapy in patients with resected non-small cell lung cancer (NSCLC). We report DFS final analysis, second overall survival (OS) interim analysis, and safety with a ≥5-year follow-up. Patients with completely resected stage IB-IIIA NSCLC were randomly assigned to atezolizumab (1,200 mg once every 3 weeks, 16 cycles) or BSC after platinum-based chemotherapy. At clinical cutoff (January 26, 2024), stratified hazard ratios (HRs; 95% CI) for DFS were 0.85 (95% CI, 0.71 to 1.01;",
+      "evidence_sentences": [
+        "Patients with completely resected stage IB-IIIA NSCLC were randomly assigned to atezolizumab (1,200 mg once every 3 weeks, 16 cycles) or BSC after platinum-based chemotherapy.",
+        "IMpower010 (ClinicalTrials.gov identifier: NCT02486718) previously showed that atezolizumab improved disease-free survival (DFS) versus best supportive care (BSC) after adjuvant chemotherapy in patients with resected non-small cell lung cancer (NSCLC)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Enriqueta Felip",
+        "Nasser Altorki",
+        "Caicun Zhou",
+        "Eric Vallières",
+        "Tibor Csoszi",
+        "Ihor O Vynnychenko",
+        "Oleksandr Goloborodko",
+        "Achim Rittmeyer",
+        "Martin Reck",
+        "Alex Martinez-Marti",
+        "Hirotsugu Kenmotsu",
+        "Yuh-Min Chen",
+        "Antonio Chella",
+        "Shunichi Sugawara",
+        "Chenqi Fu",
+        "Marcus Ballinger",
+        "Yu Deng",
+        "Minu K Srivastava",
+        "Elizabeth Bennett",
+        "Barbara J Gitlitz",
+        "Heather A Wakelee",
+        "IMpower010 Study Investigators"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40446184/"
+    },
+    {
+      "pmid": "40097663",
+      "title": "Molecular residual disease analysis of adjuvant osimertinib in resected EGFR-mutated stage IB-IIIA non-small-cell lung cancer.",
+      "journal": "Nature medicine",
+      "abstract_sections": [
+        "Osimertinib-a third-generation epidermal growth factor receptor-tyrosine kinase inhibitor-is recommended as adjuvant therapy for resected stage IB-IIIA epidermal growth factor receptor-mutated non-small-cell lung cancer, based on significant disease-free survival (DFS) and overall survival improvement shown in the previously reported phase 3 ADAURA trial. A trend toward an increased DFS event rate after completion of 3 years adjuvant treatment in ADAURA suggests that some patients may benefit from longer adjuvant osimertinib treatment. We therefore explored whether tumor-informed, circulating tumor DNA-based, molecular residual disease (MRD) could predict recurrence in an exploratory post hoc analysis of 220 patients (n = 112 osimertinib; n = 108 placebo) from ADAURA. MRD preceded imaging DFS events in this study by a median of 4.7 (95% confidence interval, 2.2-5.6) months. DFS and MRD event-free rate at 36 months was 86% versus 36% for patients in the osimertinib versus placebo groups (hazard ratio, 0.23 (95% confidence interval, 0.15-0.36)). In the osimertinib group, DFS or MRD events were detected in 28 (25%) patients; most events occurred following osimertinib cessation (19 of 28, 68%) and within 12 months of stopping osimertinib (11 of 19, 58%). At 24 months after osimertinib, the DFS and MRD event-free rate was 66%. In this study, MRD preceded DFS events in most patients across both arms. DFS and MRD event-free status was maintained for most patients during adjuvant osimertinib treatment and posttreatment follow-up, with most MRD or DFS events occurring after osimertinib treatment discontinuation or completion. MRD detection could potentially identify patients who may benefit from longer adjuvant osimertinib, although this requires clinical confirmation. ClinicalTrials.gov identifier: NCT02511106 ."
+      ],
+      "abstract": "Osimertinib-a third-generation epidermal growth factor receptor-tyrosine kinase inhibitor-is recommended as adjuvant therapy for resected stage IB-IIIA epidermal growth factor receptor-mutated non-small-cell lung cancer, based on significant disease-free survival (DFS) and overall survival improvement shown in the previously reported phase 3 ADAURA trial. A trend toward an increased DFS event rate after completion of 3 years adjuvant treatment in ADAURA suggests that some patients may benefit from longer adjuvant osimertinib treatment. We therefore explored whether tumor-informed, circulating tumor DNA-based, molecular residual disease (MRD) could predict recurrence in an exploratory post hoc analysis of 220 patients (n = 112 osimertinib; n = 108 placebo) from ADAURA. MRD preceded imaging DFS events in this study by a median of 4.7 (95% confidence interval, 2.2-5.6) months. DFS and MRD event-free rate at 36 months was 86% versus 36% for patients in the osimertinib versus placebo groups (hazard ratio, 0.23 (95% confidence interval, 0.15-0.36)). In the osimertinib group, DFS or MRD events were detected in 28 (25%) patients; most events occurred following osimertinib cessation (19 of 28, 68%) and within 12 months of stopping osimertinib (11 of 19, 58%). At 24 months after osimertinib, the DFS and MRD event-free rate was 66%. In this study, MRD preceded DFS events in most patients across both arms. DFS and MRD event-free status was maintained for most patients during adjuvant osimertinib treatment and posttreatment follow-up, with most MRD or DFS events occurring after osimertinib treatment discontinuation or completion. MRD detection could potentially identify patients who may benefit from longer adjuvant osimertinib, although this requires clinical confirmation. ClinicalTrials.gov identifier: NCT02511106 .",
+      "evidence_sentences": [
+        "Osimertinib-a third-generation epidermal growth factor receptor-tyrosine kinase inhibitor-is recommended as adjuvant therapy for resected stage IB-IIIA epidermal growth factor receptor-mutated non-small-cell lung cancer, based on significant disease-free survival (DFS) and overall survival improvement shown in the previously reported phase 3 ADAURA trial.",
+        "DFS and MRD event-free status was maintained for most patients during adjuvant osimertinib treatment and posttreatment follow-up, with most MRD or DFS events occurring after osimertinib treatment discontinuation or completion.",
+        "We therefore explored whether tumor-informed, circulating tumor DNA-based, molecular residual disease (MRD) could predict recurrence in an exploratory post hoc analysis of 220 patients (n = 112 osimertinib; n = 108 placebo) from ADAURA."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Roy S Herbst",
+        "Thomas John",
+        "Christian Grohé",
+        "Jonathan W Goldman",
+        "Terufumi Kato",
+        "Konstantin Laktionov",
+        "Laura Bonanno",
+        "Marcello Tiseo",
+        "Margarita Majem",
+        "Manuel Dómine",
+        "Myung-Ju Ahn",
+        "Dariusz M Kowalski",
+        "Maurice Pérol",
+        "Virote Sriuranpong",
+        "Mustafa Özgüroğlu",
+        "Preetida Bhetariya",
+        "Aleksandra Markovets",
+        "Yuri Rukazenkov",
+        "Caitlin Muldoon",
+        "Jacqulyne Robichaux",
+        "Ryan Hartmaier",
+        "Masahiro Tsuboi",
+        "Yi-Long Wu"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40097663/"
+    },
+    {
+      "pmid": "34280355",
+      "title": "Icotinib versus chemotherapy as adjuvant treatment for stage II-IIIA EGFR-mutant non-small-cell lung cancer (EVIDENCE): a randomised, open-label, phase 3 trial.",
+      "journal": "The Lancet. Respiratory medicine",
+      "abstract_sections": [
+        "Icotinib has provided survival benefits for patients with advanced, epidermal growth factor receptor (EGFR)-mutant non-small-cell lung cancer (NSCLC). We aimed to compare icotinib with chemotherapy in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection. Here, we report the results from the preplanned interim analysis of the study.",
+        "In this multicentre, randomised, open-label, phase 3 trial done at 29 hospitals in China, eligible patients were aged 18-70 years, had histopathogically confirmed stage II-IIIA NSCLC, had complete resection up to 8 weeks before random assignment, were treatment-naive, and had confirmed activation mutation in exon 19 or exon 21 of the EGFR gene. Participants were randomly assigned (1:1) with an interactive web-based response system to receive either oral icotinib 125 mg thrice daily for 2 years or four 21-day cycles of intravenous chemotherapy (vinorelbine 25 mg/m",
+        "Between June 8, 2015, and August 2, 2019, 322 patients were randomly assigned to icotinib (n=161) or chemotherapy (n=161); the full analysis set included 151 patients in the icotinib group and 132 in the chemotherapy group. Median follow-up in the full analysis set was 24·9 months (IQR 16·6-36·4). 40 (26%) of 151 patients in the icotinib group and 58 (44%) of 132 patients in the chemotherapy group had disease relapse or death. Median disease-free survival was 47·0 months (95% CI 36·4-not reached) in the icotinib group and 22·1 months (16·8-30·4) in the chemotherapy group (stratified hazard ratio [HR] 0·36 [95% CI 0·24-0·55]; p<0·0001). 3-year disease-free survival was 63·9% (95% CI 51·8-73·7) in the icotinib group and 32·5% (21·3-44·2) in the chemotherapy group. Overall survival data are immature with 14 (9%) deaths in the icotinib group and 14 (11%) deaths in the chemotherapy. The HR for overall survival was 0·91 (95% CI 0·42-1·94) in the full analysis set. Treatment-related serious adverse events occurred in two (1%) of 156 patients in the icotinib group and 19 (14%) of 139 patients in the chemotherapy group. No interstitial pneumonia or treatment-related death was observed in either group.",
+        "Our results suggest that compared with chemotherapy, icotinib significantly improves disease-free survival and has a better tolerability profile in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection.",
+        "Betta Pharmaceuticals TRANSLATION: For the Chinese translation of the abstract see Supplementary Materials section."
+      ],
+      "abstract": "Icotinib has provided survival benefits for patients with advanced, epidermal growth factor receptor (EGFR)-mutant non-small-cell lung cancer (NSCLC). We aimed to compare icotinib with chemotherapy in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection. Here, we report the results from the preplanned interim analysis of the study.\n\nIn this multicentre, randomised, open-label, phase 3 trial done at 29 hospitals in China, eligible patients were aged 18-70 years, had histopathogically confirmed stage II-IIIA NSCLC, had complete resection up to 8 weeks before random assignment, were treatment-naive, and had confirmed activation mutation in exon 19 or exon 21 of the EGFR gene. Participants were randomly assigned (1:1) with an interactive web-based response system to receive either oral icotinib 125 mg thrice daily for 2 years or four 21-day cycles of intravenous chemotherapy (vinorelbine 25 mg/m\n\nBetween June 8, 2015, and August 2, 2019, 322 patients were randomly assigned to icotinib (n=161) or chemotherapy (n=161); the full analysis set included 151 patients in the icotinib group and 132 in the chemotherapy group. Median follow-up in the full analysis set was 24·9 months (IQR 16·6-36·4). 40 (26%) of 151 patients in the icotinib group and 58 (44%) of 132 patients in the chemotherapy group had disease relapse or death. Median disease-free survival was 47·0 months (95% CI 36·4-not reached) in the icotinib group and 22·1 months (16·8-30·4) in the chemotherapy group (stratified hazard ratio [HR] 0·36 [95% CI 0·24-0·55]; p<0·0001). 3-year disease-free survival was 63·9% (95% CI 51·8-73·7) in the icotinib group and 32·5% (21·3-44·2) in the chemotherapy group. Overall survival data are immature with 14 (9%) deaths in the icotinib group and 14 (11%) deaths in the chemotherapy. The HR for overall survival was 0·91 (95% CI 0·42-1·94) in the full analysis set. Treatment-related serious adverse events occurred in two (1%) of 156 patients in the icotinib group and 19 (14%) of 139 patients in the chemotherapy group. No interstitial pneumonia or treatment-related death was observed in either group.\n\nOur results suggest that compared with chemotherapy, icotinib significantly improves disease-free survival and has a better tolerability profile in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection.\n\nBetta Pharmaceuticals TRANSLATION: For the Chinese translation of the abstract see Supplementary Materials section.",
+      "evidence_sentences": [
+        "In this multicentre, randomised, open-label, phase 3 trial done at 29 hospitals in China, eligible patients were aged 18-70 years, had histopathogically confirmed stage II-IIIA NSCLC, had complete resection up to 8 weeks before random assignment, were treatment-naive, and had confirmed activation mutation in exon 19 or exon 21 of the EGFR gene.",
+        "Our results suggest that compared with chemotherapy, icotinib significantly improves disease-free survival and has a better tolerability profile in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection.",
+        "We aimed to compare icotinib with chemotherapy in patients with EGFR-mutant stage II-IIIA NSCLC after complete tumour resection."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Jianxing He",
+        "Chunxia Su",
+        "Wenhua Liang",
+        "Shidong Xu",
+        "Lin Wu",
+        "Xiangning Fu",
+        "Xiaodong Zhang",
+        "Di Ge",
+        "Qun Chen",
+        "Weimin Mao",
+        "Lin Xu",
+        "Chun Chen",
+        "Bing Hu",
+        "Guoguang Shao",
+        "Jian Hu",
+        "Jian Zhao",
+        "Xiaoqing Liu",
+        "Zhidong Liu",
+        "Zheng Wang",
+        "Zemin Xiao",
+        "Taiqian Gong",
+        "Wen Lin",
+        "Xingya Li",
+        "Feng Ye",
+        "Yang Liu",
+        "Haitao Ma",
+        "Yunchao Huang",
+        "Jianying Zhou",
+        "Zhonglin Wang",
+        "Junke Fu",
+        "Lieming Ding",
+        "Li Mao",
+        "Caicun Zhou"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34280355/"
+    },
+    {
+      "pmid": "37272535",
+      "title": "Overall Survival with Osimertinib in Resected",
+      "journal": "The New England journal of medicine",
+      "abstract_sections": [
+        "Among patients with resected, epidermal growth factor receptor (",
+        "In this phase 3, double-blind trial, we randomly assigned eligible patients in a 1:1 ratio to receive osimertinib (80 mg once daily) or placebo until disease recurrence was observed, the trial regimen was completed (3 years), or a discontinuation criterion was met. The primary end point was investigator-assessed disease-free survival among patients with stage II to IIIA disease. Secondary end points included disease-free survival among patients with stage IB to IIIA disease, overall survival, and safety.",
+        "Of 682 patients who underwent randomization, 339 received osimertinib and 343 received placebo. Among patients with stage II to IIIA disease, the 5-year overall survival was 85% in the osimertinib group and 73% in the placebo group (overall hazard ratio for death, 0.49; 95.03% confidence interval [CI], 0.33 to 0.73; P<0.001). In the overall population (patients with stage IB to IIIA disease), the 5-year overall survival was 88% in the osimertinib group and 78% in the placebo group (overall hazard ratio for death, 0.49; 95.03% CI, 0.34 to 0.70; P<0.001). One new serious adverse event, pneumonia related to coronavirus disease 2019, was reported after the previously published data-cutoff date (the event was not considered by the investigator to be related to the trial regimen, and the patient fully recovered). Adjuvant osimertinib had a safety profile consistent with that in the primary analysis.",
+        "Adjuvant osimertinib provided a significant overall survival benefit among patients with completely resected,"
+      ],
+      "abstract": "Among patients with resected, epidermal growth factor receptor (\n\nIn this phase 3, double-blind trial, we randomly assigned eligible patients in a 1:1 ratio to receive osimertinib (80 mg once daily) or placebo until disease recurrence was observed, the trial regimen was completed (3 years), or a discontinuation criterion was met. The primary end point was investigator-assessed disease-free survival among patients with stage II to IIIA disease. Secondary end points included disease-free survival among patients with stage IB to IIIA disease, overall survival, and safety.\n\nOf 682 patients who underwent randomization, 339 received osimertinib and 343 received placebo. Among patients with stage II to IIIA disease, the 5-year overall survival was 85% in the osimertinib group and 73% in the placebo group (overall hazard ratio for death, 0.49; 95.03% confidence interval [CI], 0.33 to 0.73; P<0.001). In the overall population (patients with stage IB to IIIA disease), the 5-year overall survival was 88% in the osimertinib group and 78% in the placebo group (overall hazard ratio for death, 0.49; 95.03% CI, 0.34 to 0.70; P<0.001). One new serious adverse event, pneumonia related to coronavirus disease 2019, was reported after the previously published data-cutoff date (the event was not considered by the investigator to be related to the trial regimen, and the patient fully recovered). Adjuvant osimertinib had a safety profile consistent with that in the primary analysis.\n\nAdjuvant osimertinib provided a significant overall survival benefit among patients with completely resected,",
+      "evidence_sentences": [
+        "Among patients with stage II to IIIA disease, the 5-year overall survival was 85% in the osimertinib group and 73% in the placebo group (overall hazard ratio for death, 0.49; 95.03% confidence interval [CI], 0.33 to 0.73; P<0.001).",
+        "In the overall population (patients with stage IB to IIIA disease), the 5-year overall survival was 88% in the osimertinib group and 78% in the placebo group (overall hazard ratio for death, 0.49; 95.03% CI, 0.34 to 0.70; P<0.001).",
+        "Secondary end points included disease-free survival among patients with stage IB to IIIA disease, overall survival, and safety."
+      ],
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Masahiro Tsuboi",
+        "Roy S Herbst",
+        "Thomas John",
+        "Terufumi Kato",
+        "Margarita Majem",
+        "Christian Grohé",
+        "Jie Wang",
+        "Jonathan W Goldman",
+        "Shun Lu",
+        "Wu-Chou Su",
+        "Filippo de Marinis",
+        "Frances A Shepherd",
+        "Ki Hyeong Lee",
+        "Nhieu Thi Le",
+        "Arunee Dechaphunkul",
+        "Dariusz Kowalski",
+        "Lynne Poole",
+        "Ana Bolanos",
+        "Yuri Rukazenkov",
+        "Yi-Long Wu",
+        "ADAURA Investigators"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37272535/"
+    },
+    {
+      "pmid": "32407216",
+      "title": "Randomized Phase III Study of Pemetrexed Plus Cisplatin Versus Vinorelbine Plus Cisplatin for Completely Resected Stage II to IIIA Nonsquamous Non-Small-Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To evaluate the efficacy of pemetrexed plus cisplatin versus vinorelbine plus cisplatin as postoperative adjuvant chemotherapy in patients with pathologic stage II-IIIA nonsquamous non-small-cell lung cancer (NSCLC).",
+        "We performed a randomized, open-label, phase III study at 50 institutions within 7 clinical study groups in Japan. Patients with completely resected pathologic stage II-IIIA (TNM 7th edition) nonsquamous NSCLC were randomly assigned to receive either pemetrexed (500 mg/m",
+        "Between March 2012 and August 2016, 804 patients were enrolled (402 assigned to vinorelbine plus cisplatin and 402 assigned to pemetrexed plus cisplatin). Of 784 eligible patients, 410 (52%) had stage IIIA disease and 192 (24%) had",
+        "Although this study failed to show the superiority of pemetrexed plus cisplatin for patients with resected nonsquamous NSCLC, this regimen showed a better tolerability as adjuvant chemotherapy."
+      ],
+      "abstract": "To evaluate the efficacy of pemetrexed plus cisplatin versus vinorelbine plus cisplatin as postoperative adjuvant chemotherapy in patients with pathologic stage II-IIIA nonsquamous non-small-cell lung cancer (NSCLC).\n\nWe performed a randomized, open-label, phase III study at 50 institutions within 7 clinical study groups in Japan. Patients with completely resected pathologic stage II-IIIA (TNM 7th edition) nonsquamous NSCLC were randomly assigned to receive either pemetrexed (500 mg/m\n\nBetween March 2012 and August 2016, 804 patients were enrolled (402 assigned to vinorelbine plus cisplatin and 402 assigned to pemetrexed plus cisplatin). Of 784 eligible patients, 410 (52%) had stage IIIA disease and 192 (24%) had\n\nAlthough this study failed to show the superiority of pemetrexed plus cisplatin for patients with resected nonsquamous NSCLC, this regimen showed a better tolerability as adjuvant chemotherapy.",
+      "evidence_sentences": [
+        "To evaluate the efficacy of pemetrexed plus cisplatin versus vinorelbine plus cisplatin as postoperative adjuvant chemotherapy in patients with pathologic stage II-IIIA nonsquamous non-small-cell lung cancer (NSCLC).",
+        "Of 784 eligible patients, 410 (52%) had stage IIIA disease and 192 (24%) had Although this study failed to show the superiority of pemetrexed plus cisplatin for patients with resected nonsquamous NSCLC, this regimen showed a better tolerability as adjuvant chemotherapy.",
+        "Patients with completely resected pathologic stage II-IIIA (TNM 7th edition) nonsquamous NSCLC were randomly assigned to receive either pemetrexed (500 mg/m Between March 2012 and August 2016, 804 patients were enrolled (402 assigned to vinorelbine plus cisplatin and 402 assigned to pemetrexed plus cisplatin)."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Hirotsugu Kenmotsu",
+        "Nobuyuki Yamamoto",
+        "Takeharu Yamanaka",
+        "Katsuo Yoshiya",
+        "Toshiaki Takahashi",
+        "Tsuyoshi Ueno",
+        "Koichi Goto",
+        "Haruko Daga",
+        "Norihiko Ikeda",
+        "Kenji Sugio",
+        "Takashi Seto",
+        "Shinichi Toyooka",
+        "Hiroshi Date",
+        "Tetsuya Mitsudomi",
+        "Isamu Okamoto",
+        "Kohei Yokoi",
+        "Hideo Saka",
+        "Hiroaki Okamoto",
+        "Yuichi Takiguchi",
+        "Masahiro Tsuboi"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32407216/"
+    },
+    {
+      "pmid": "39028931",
+      "title": "Neoadjuvant Osimertinib for the Treatment of Stage I-IIIA Epidermal Growth Factor Receptor-Mutated Non-Small Cell Lung Cancer: A Phase II Multicenter Study.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To assess the safety and efficacy of the third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor osimertinib as neoadjuvant therapy in patients with surgically resectable stage I-IIIA",
+        "This was a multi-institutional phase II trial of neoadjuvant osimertinib for patients with surgically resectable stage I-IIIA (American Joint Committee on Cancer [AJCC] V7)",
+        "A total of 27 patients were enrolled and treated with neoadjuvant osimertinib for a median 56 days before surgical resection. Twenty-four (89%) patients underwent subsequent surgery; three (11%) patients were converted to definitive chemoradiotherapy. The MPR rate was 14.8% (95% CI, 4.2 to 33.7). No pathological complete responses were observed. The ORR was 52%, and the median DFS was 40.9 months. One treatment-related serious adverse event (AE) occurred (3.7%). No patients were unable to undergo surgical resection or had surgery delayed because of an AE. The most common co-occurring tumor genomic alterations were in",
+        "Treatment with neoadjuvant osimertinib in surgically resectable (stage IA-IIIA, AJCC V7)"
+      ],
+      "abstract": "To assess the safety and efficacy of the third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor osimertinib as neoadjuvant therapy in patients with surgically resectable stage I-IIIA\n\nThis was a multi-institutional phase II trial of neoadjuvant osimertinib for patients with surgically resectable stage I-IIIA (American Joint Committee on Cancer [AJCC] V7)\n\nA total of 27 patients were enrolled and treated with neoadjuvant osimertinib for a median 56 days before surgical resection. Twenty-four (89%) patients underwent subsequent surgery; three (11%) patients were converted to definitive chemoradiotherapy. The MPR rate was 14.8% (95% CI, 4.2 to 33.7). No pathological complete responses were observed. The ORR was 52%, and the median DFS was 40.9 months. One treatment-related serious adverse event (AE) occurred (3.7%). No patients were unable to undergo surgical resection or had surgery delayed because of an AE. The most common co-occurring tumor genomic alterations were in\n\nTreatment with neoadjuvant osimertinib in surgically resectable (stage IA-IIIA, AJCC V7)",
+      "evidence_sentences": [
+        "To assess the safety and efficacy of the third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor osimertinib as neoadjuvant therapy in patients with surgically resectable stage I-IIIA This was a multi-institutional phase II trial of neoadjuvant osimertinib for patients with surgically resectable stage I-IIIA (American Joint Committee on Cancer [AJCC] V7) A total of 27 patients were enrolled and treated with neoadjuvant osimertinib for a median 56 days before surgical resection.",
+        "The most common co-occurring tumor genomic alterations were in Treatment with neoadjuvant osimertinib in surgically resectable (stage IA-IIIA, AJCC V7)",
+        "One treatment-related serious adverse event (AE) occurred (3.7%)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Multicenter Study"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Collin M Blakely",
+        "Anatoly Urisman",
+        "Matthew A Gubens",
+        "Claire K Mulvey",
+        "Greg M Allen",
+        "Stephen C Shiboski",
+        "Julia K Rotow",
+        "Turja Chakrabarti",
+        "D Lucas Kerr",
+        "Jacqueline V Aredo",
+        "Bianca Bacaltos",
+        "Megan Gee",
+        "Lisa Tan",
+        "Kirk D Jones",
+        "W Patrick Devine",
+        "Robert C Doebele",
+        "Dara L Aisner",
+        "Tejas Patil",
+        "Erin L Schenk",
+        "Trever G Bivona",
+        "Jonathan W Riess",
+        "Melissa Coleman",
+        "Johannes R Kratz",
+        "David M Jablons"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39028931/"
+    },
+    {
+      "pmid": "41114991",
+      "title": "Lung Cancer in Nonsmoking Individuals: A Review.",
+      "journal": "JAMA",
+      "abstract_sections": [
+        "Lung cancer in nonsmoking individuals (defined as people who have smoked fewer than 100 cigarettes in their lifetime) accounts for 15% to 20% of all lung cancer cases worldwide. In the US, the annual incidence of lung cancer in nonsmoking individuals is 14.4 to 20.8 per 100 000 person-years in females and 4.8 to 12.7 per 100 000 person-years in males.",
+        "Most lung cancers in nonsmoking individuals are histologically adenocarcinomas (60%-80%) with the remainder being squamous or adenosquamous (10%-20%) and rarely small cell lung cancer (<10%). Risk factors include exposure to passive smoking, radon exposure, air pollution, asbestos, and history of lung cancer in a first-degree family member. Therapeutically targetable genomic variants, such as EGFR mutations or ALK gene rearrangements, are more common in tumors from nonsmoking individuals compared with those with a smoking history (defined as people who currently or formerly smoked) (43% vs 11% for EGFR and 12% vs 2% for ALK). In contrast, tumor mutation burden, the number of somatic mutations in a tumor cell, is lower in lung cancer among nonsmoking individuals (0-3 mutations/megabase [Mb] vs 0-30 mutations/Mb). Similar to individuals with a history of smoking, nonsmoking individuals with lung cancer may present with wheeze, chest pain, dyspnea, hemoptysis, or symptoms attributable to metastatic disease (eg, bone pain and headache) or be diagnosed with incidentally detected disease. The US Preventive Services Task Force does not currently recommend lung cancer screening with low-dose computed tomographic scans for nonsmoking individuals, although screening guidelines vary globally. Treatment typically involves a combination of surgery, radiotherapy, and systemic therapies depending on stage, performance status, and molecular features of the tumor. Comprehensive next-generation sequencing should be performed on stage Ib to IIIa lung cancer tumor tissue from nonsmoking individuals because actionable genomic alterations, such as EGFR mutations or ALK gene rearrangements, are treated with targeted therapy such as the tyrosine kinase inhibitors osimertinib or lorlatinib, respectively. Median survival among nonsmoking individuals with advanced non-small cell lung cancer (stage IIIb or higher) and actionable genomic alterations can exceed 3 to 5 years, while survival without these genomic alterations is similar to lung cancer in people with a history of smoking (1-2 years).",
+        "Lung cancer in nonsmoking individuals accounts for 15% to 20% of lung cancer cases worldwide. Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy."
+      ],
+      "abstract": "Lung cancer in nonsmoking individuals (defined as people who have smoked fewer than 100 cigarettes in their lifetime) accounts for 15% to 20% of all lung cancer cases worldwide. In the US, the annual incidence of lung cancer in nonsmoking individuals is 14.4 to 20.8 per 100 000 person-years in females and 4.8 to 12.7 per 100 000 person-years in males.\n\nMost lung cancers in nonsmoking individuals are histologically adenocarcinomas (60%-80%) with the remainder being squamous or adenosquamous (10%-20%) and rarely small cell lung cancer (<10%). Risk factors include exposure to passive smoking, radon exposure, air pollution, asbestos, and history of lung cancer in a first-degree family member. Therapeutically targetable genomic variants, such as EGFR mutations or ALK gene rearrangements, are more common in tumors from nonsmoking individuals compared with those with a smoking history (defined as people who currently or formerly smoked) (43% vs 11% for EGFR and 12% vs 2% for ALK). In contrast, tumor mutation burden, the number of somatic mutations in a tumor cell, is lower in lung cancer among nonsmoking individuals (0-3 mutations/megabase [Mb] vs 0-30 mutations/Mb). Similar to individuals with a history of smoking, nonsmoking individuals with lung cancer may present with wheeze, chest pain, dyspnea, hemoptysis, or symptoms attributable to metastatic disease (eg, bone pain and headache) or be diagnosed with incidentally detected disease. The US Preventive Services Task Force does not currently recommend lung cancer screening with low-dose computed tomographic scans for nonsmoking individuals, although screening guidelines vary globally. Treatment typically involves a combination of surgery, radiotherapy, and systemic therapies depending on stage, performance status, and molecular features of the tumor. Comprehensive next-generation sequencing should be performed on stage Ib to IIIa lung cancer tumor tissue from nonsmoking individuals because actionable genomic alterations, such as EGFR mutations or ALK gene rearrangements, are treated with targeted therapy such as the tyrosine kinase inhibitors osimertinib or lorlatinib, respectively. Median survival among nonsmoking individuals with advanced non-small cell lung cancer (stage IIIb or higher) and actionable genomic alterations can exceed 3 to 5 years, while survival without these genomic alterations is similar to lung cancer in people with a history of smoking (1-2 years).\n\nLung cancer in nonsmoking individuals accounts for 15% to 20% of lung cancer cases worldwide. Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy.",
+      "evidence_sentences": [
+        "Comprehensive next-generation sequencing should be performed on stage Ib to IIIa lung cancer tumor tissue from nonsmoking individuals because actionable genomic alterations, such as EGFR mutations or ALK gene rearrangements, are treated with targeted therapy such as the tyrosine kinase inhibitors osimertinib or lorlatinib, respectively.",
+        "Therapeutically targetable genomic variants, such as EGFR mutations or ALK gene rearrangements, are more common in tumors from nonsmoking individuals compared with those with a smoking history (defined as people who currently or formerly smoked) (43% vs 11% for EGFR and 12% vs 2% for ALK).",
+        "Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Cian Murphy",
+        "Tej Pandya",
+        "Charles Swanton",
+        "Benjamin J Solomon"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41114991/"
+    },
+    {
+      "pmid": "33569340",
+      "title": "Neoadjuvant treatment of stage IIIA-N2 in",
+      "journal": "Translational lung cancer research",
+      "abstract_sections": [
+        "Defining the optimal neoadjuvant strategy in early-stage and locoregional (N2) oncogenic-driven lung cancer remains a major challenge for the scientific community. Whereas significant advances have been achieved with the use of personalized medicine and targeted therapies in advanced stages, we are still far from translating the same magnitude of benefits into an earlier-stage disease. Perioperative strategies with neoadjuvant and adjuvant tyrosine kinase inhibitors in patients with"
+      ],
+      "abstract": "Defining the optimal neoadjuvant strategy in early-stage and locoregional (N2) oncogenic-driven lung cancer remains a major challenge for the scientific community. Whereas significant advances have been achieved with the use of personalized medicine and targeted therapies in advanced stages, we are still far from translating the same magnitude of benefits into an earlier-stage disease. Perioperative strategies with neoadjuvant and adjuvant tyrosine kinase inhibitors in patients with",
+      "evidence_sentences": [
+        "Whereas significant advances have been achieved with the use of personalized medicine and targeted therapies in advanced stages, we are still far from translating the same magnitude of benefits into an earlier-stage disease.",
+        "Defining the optimal neoadjuvant strategy in early-stage and locoregional (N2) oncogenic-driven lung cancer remains a major challenge for the scientific community."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Roxana Reyes",
+        "Noemi Reguart"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33569340/"
+    },
+    {
+      "pmid": "39732365",
+      "title": "Neoadjuvant and Adjuvant Osimertinib in Stage IA to IIIA, EGFR-Mutant NSCLC (NORA).",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "Treatment with adjuvant osimertinib for three years is the standard-of-care for resected stage IB to IIIA NSCLC harboring EGFR mutations. The role of neoadjuvant osimertinib in the perioperative setting is yet to be elucidated in the NeoADAURA study (NCT04351555).",
+        "This is a single-center, pilot study of patients with clinical stage IA to IIIA NSCLC (American Joint Committee on Cancer eighth edition) harboring an activating EGFR mutation (Exon 19 deletion, L858R) (NCT04816838). Patients were treated with two 28-day cycles of neoadjuvant osimertinib followed by surgical resection and three years of adjuvant osimertinib. The primary endpoint was the objective response rate after two cycles of neoadjuvant treatment. Secondary endpoints included the pathologic complete response rate and major pathologic response rate. Exploratory objectives included the correlation of longitudinal circulating tumor DNA testing (Signatera) and response to neoadjuvant osimertinib.",
+        "A total of 25 patients were enrolled and treated with neoadjuvant osimertinib, and all patients received surgical resection with R0 resection. The objective response rate was 44% (n = 11) all of which were partial responses. Fourteen patients (56%) reported stable disease after neoadjuvant osimertinib. The major pathologic response and pathologic complete response rates were 24% (n = 6) and 0%, respectively. None of the patients received adjuvant chemotherapy. The median disease-free survival was not reached at a median follow-up of 31 months (range: 13.8-38.6 mo). Six patients (30%) were circulating tumor DNA-positive at baseline and achieved clearance after 1 cycle of neoadjuvant osimertinib. There were no grade 3 adverse events during neoadjuvant treatment.",
+        "Two cycles of neoadjuvant osimertinib did not meet its primary endpoint of ORR. Neoadjuvant osimertinib is a feasible approach with a manageable safety profile in resectable EGFR-mutant NSCLC."
+      ],
+      "abstract": "Treatment with adjuvant osimertinib for three years is the standard-of-care for resected stage IB to IIIA NSCLC harboring EGFR mutations. The role of neoadjuvant osimertinib in the perioperative setting is yet to be elucidated in the NeoADAURA study (NCT04351555).\n\nThis is a single-center, pilot study of patients with clinical stage IA to IIIA NSCLC (American Joint Committee on Cancer eighth edition) harboring an activating EGFR mutation (Exon 19 deletion, L858R) (NCT04816838). Patients were treated with two 28-day cycles of neoadjuvant osimertinib followed by surgical resection and three years of adjuvant osimertinib. The primary endpoint was the objective response rate after two cycles of neoadjuvant treatment. Secondary endpoints included the pathologic complete response rate and major pathologic response rate. Exploratory objectives included the correlation of longitudinal circulating tumor DNA testing (Signatera) and response to neoadjuvant osimertinib.\n\nA total of 25 patients were enrolled and treated with neoadjuvant osimertinib, and all patients received surgical resection with R0 resection. The objective response rate was 44% (n = 11) all of which were partial responses. Fourteen patients (56%) reported stable disease after neoadjuvant osimertinib. The major pathologic response and pathologic complete response rates were 24% (n = 6) and 0%, respectively. None of the patients received adjuvant chemotherapy. The median disease-free survival was not reached at a median follow-up of 31 months (range: 13.8-38.6 mo). Six patients (30%) were circulating tumor DNA-positive at baseline and achieved clearance after 1 cycle of neoadjuvant osimertinib. There were no grade 3 adverse events during neoadjuvant treatment.\n\nTwo cycles of neoadjuvant osimertinib did not meet its primary endpoint of ORR. Neoadjuvant osimertinib is a feasible approach with a manageable safety profile in resectable EGFR-mutant NSCLC.",
+      "evidence_sentences": [
+        "This is a single-center, pilot study of patients with clinical stage IA to IIIA NSCLC (American Joint Committee on Cancer eighth edition) harboring an activating EGFR mutation (Exon 19 deletion, L858R) (NCT04816838).",
+        "Treatment with adjuvant osimertinib for three years is the standard-of-care for resected stage IB to IIIA NSCLC harboring EGFR mutations.",
+        "Neoadjuvant osimertinib is a feasible approach with a manageable safety profile in resectable EGFR-mutant NSCLC."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase I",
+        "Clinical Trial, Phase II",
+        "Clinical Trial, Phase III",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Jii Bum Lee",
+        "Su-Jin Choi",
+        "Hyo Sup Shim",
+        "Byung Jo Park",
+        "Chang Young Lee",
+        "Sumedha Sudhaman",
+        "Sharlene Velichko",
+        "Min Hee Hong",
+        "Byoung Chul Cho",
+        "Sun Min Lim"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39732365/"
+    },
+    {
+      "pmid": "36823150",
+      "title": "Erlotinib versus gemcitabine plus cisplatin as neoadjuvant treatment of stage IIIA-N2 EGFR-mutant non-small-cell lung cancer: final overall survival analysis of the EMERGING-CTONG 1103 randomised phase II trial.",
+      "journal": "Signal transduction and targeted therapy",
+      "abstract_sections": [
+        "EMERGING-CTONG 1103 showed improved progression-free survival (PFS) with neoadjuvant erlotinib vs. chemotherapy for patients harbouring EGFR sensibility mutations and R0 resected stage IIIA-N2 non-small cell lung cancer (NSCLC) (NCT01407822). Herein, we report the final results. Recruited patients were randomly allocated 1:1 to the erlotinib group (150 mg/day orally; neoadjuvant phase for 42 days and adjuvant phase to 12 months) or to the GC group (gemcitabine 1250 mg/m"
+      ],
+      "abstract": "EMERGING-CTONG 1103 showed improved progression-free survival (PFS) with neoadjuvant erlotinib vs. chemotherapy for patients harbouring EGFR sensibility mutations and R0 resected stage IIIA-N2 non-small cell lung cancer (NSCLC) (NCT01407822). Herein, we report the final results. Recruited patients were randomly allocated 1:1 to the erlotinib group (150 mg/day orally; neoadjuvant phase for 42 days and adjuvant phase to 12 months) or to the GC group (gemcitabine 1250 mg/m",
+      "evidence_sentences": [
+        "chemotherapy for patients harbouring EGFR sensibility mutations and R0 resected stage IIIA-N2 non-small cell lung cancer (NSCLC) (NCT01407822)."
+      ],
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Wen-Zhao Zhong",
+        "Hong-Hong Yan",
+        "Ke-Neng Chen",
+        "Chun Chen",
+        "Chun-Dong Gu",
+        "Jun Wang",
+        "Xue-Ning Yang",
+        "Wei-Min Mao",
+        "Qun Wang",
+        "Gui-Bin Qiao",
+        "Ying Cheng",
+        "Lin Xu",
+        "Chang-Li Wang",
+        "Ming-Wei Chen",
+        "Xiao-Zheng Kang",
+        "Wan-Pu Yan",
+        "Ri-Qiang Liao",
+        "Jin-Ji Yang",
+        "Xu-Chao Zhang",
+        "Si-Yang Liu",
+        "Qing Zhou",
+        "Yi-Long Wu"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36823150/"
+    },
+    {
+      "pmid": "39496545",
+      "title": "Evidence from resected early-stage non-small cell lung cancer with EGFR mutation: a literature review.",
+      "journal": "Chinese clinical oncology",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) in early-stages (I-IIIA) with epidermal growth factor receptor (EGFR) mutation may have specific epidemiological, clinical characteristics and treatment implications. This review aims to summarise the available evidence on these particularities, especially focusing on patient characteristics, treatment outcomes and safety with EGFR-tyrosine-kinase inhibitor (TKI).",
+        "An exhaustive search of international bibliographic databases, as well as in abstracts of communications from major international congresses was performed for evidence related to EGFR-mutated NSCLC or early-stage NSCLC published in English before December 31st, 2023.",
+        "Early-stage NSCLC with EGFR mutation presents with a variable incidence depending on geographical aspects. The clinical, radiological and molecular features differ slightly from both early-stage NSCLC without EGFR mutation and advanced NSCLC with EGFR mutation. Adjuvant treatment with the third-generation EGFR-TKI osimertinib has led to improvements in disease-free survival and overall survival (OS) in these patients, representing a practice changing and a new standard of care in clinical practice. No new safety signals have been reported with EGFR-TKI in the adjuvant setting. Clinical trials are ongoing to explore new therapeutic options in the adjuvant and neoadjuvant setting as well as the optimal duration of adjuvant osimertinib.",
+        "Detection of EGFR mutation in early-stage NSCLC is an important goal due to the different characteristics and additional therapeutic options that improve patient outcomes and follow-up."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) in early-stages (I-IIIA) with epidermal growth factor receptor (EGFR) mutation may have specific epidemiological, clinical characteristics and treatment implications. This review aims to summarise the available evidence on these particularities, especially focusing on patient characteristics, treatment outcomes and safety with EGFR-tyrosine-kinase inhibitor (TKI).\n\nAn exhaustive search of international bibliographic databases, as well as in abstracts of communications from major international congresses was performed for evidence related to EGFR-mutated NSCLC or early-stage NSCLC published in English before December 31st, 2023.\n\nEarly-stage NSCLC with EGFR mutation presents with a variable incidence depending on geographical aspects. The clinical, radiological and molecular features differ slightly from both early-stage NSCLC without EGFR mutation and advanced NSCLC with EGFR mutation. Adjuvant treatment with the third-generation EGFR-TKI osimertinib has led to improvements in disease-free survival and overall survival (OS) in these patients, representing a practice changing and a new standard of care in clinical practice. No new safety signals have been reported with EGFR-TKI in the adjuvant setting. Clinical trials are ongoing to explore new therapeutic options in the adjuvant and neoadjuvant setting as well as the optimal duration of adjuvant osimertinib.\n\nDetection of EGFR mutation in early-stage NSCLC is an important goal due to the different characteristics and additional therapeutic options that improve patient outcomes and follow-up.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) in early-stages (I-IIIA) with epidermal growth factor receptor (EGFR) mutation may have specific epidemiological, clinical characteristics and treatment implications.",
+        "Detection of EGFR mutation in early-stage NSCLC is an important goal due to the different characteristics and additional therapeutic options that improve patient outcomes and follow-up.",
+        "An exhaustive search of international bibliographic databases, as well as in abstracts of communications from major international congresses was performed for evidence related to EGFR-mutated NSCLC or early-stage NSCLC published in English before December 31st, 2023."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Sergio Martinez-Recio",
+        "Andres Barba",
+        "Margarita Majem"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39496545/"
+    },
+    {
+      "pmid": "39980151",
+      "title": "Perioperative Treatment in EGFR-Mutant Early-Stage Non-Small Cell Lung Cancer: Current Evidence and Future Perspectives.",
+      "journal": "Thoracic cancer",
+      "abstract_sections": [
+        "Adjuvant osimertinib administered over a 3-year period in patients diagnosed with stage IB-IIIA non-small cell lung cancer (NSCLC) and epidermal growth factor receptor (EGFR) mutations has not only shown improvement in event-free survival but also demonstrated a prolonged overall survival (OS), leading to its approval as a standard treatment in this context. Meanwhile, no targeted studies have been conducted on the efficacy of adjuvant immune checkpoint inhibitors in these patients. Although studies such as IMPOWER-010 and KEYNOTE-091 have included a small number of patients with positive driver genes, no definitive conclusions regarding the OS benefit have been established. Neoadjuvant targeted therapy is not currently recommended because of insufficient evidence, characterized by a low depth of pathological response and no reported improvement in survival outcomes. The same is true for neoadjuvant immunotherapy in patients with EGFR mutations. Although numerous issues such as refining patient population selection, determining appropriate combination therapy regimens, establishing primary endpoints, assessing the influence of perioperative complications, and accurately evaluating the clinical application of circulating tumor DNA in various scenarios exist, several promising ongoing trials, including ADAURA2 and NEOADURA, are expected to provide valuable insights that will help address these questions. Here, we summarize the available evidence and clinical issues that need to be considered to optimize clinical decision-making for patients with EGFR-mutant NSCLC."
+      ],
+      "abstract": "Adjuvant osimertinib administered over a 3-year period in patients diagnosed with stage IB-IIIA non-small cell lung cancer (NSCLC) and epidermal growth factor receptor (EGFR) mutations has not only shown improvement in event-free survival but also demonstrated a prolonged overall survival (OS), leading to its approval as a standard treatment in this context. Meanwhile, no targeted studies have been conducted on the efficacy of adjuvant immune checkpoint inhibitors in these patients. Although studies such as IMPOWER-010 and KEYNOTE-091 have included a small number of patients with positive driver genes, no definitive conclusions regarding the OS benefit have been established. Neoadjuvant targeted therapy is not currently recommended because of insufficient evidence, characterized by a low depth of pathological response and no reported improvement in survival outcomes. The same is true for neoadjuvant immunotherapy in patients with EGFR mutations. Although numerous issues such as refining patient population selection, determining appropriate combination therapy regimens, establishing primary endpoints, assessing the influence of perioperative complications, and accurately evaluating the clinical application of circulating tumor DNA in various scenarios exist, several promising ongoing trials, including ADAURA2 and NEOADURA, are expected to provide valuable insights that will help address these questions. Here, we summarize the available evidence and clinical issues that need to be considered to optimize clinical decision-making for patients with EGFR-mutant NSCLC.",
+      "evidence_sentences": [
+        "Adjuvant osimertinib administered over a 3-year period in patients diagnosed with stage IB-IIIA non-small cell lung cancer (NSCLC) and epidermal growth factor receptor (EGFR) mutations has not only shown improvement in event-free survival but also demonstrated a prolonged overall survival (OS), leading to its approval as a standard treatment in this context.",
+        "Here, we summarize the available evidence and clinical issues that need to be considered to optimize clinical decision-making for patients with EGFR-mutant NSCLC.",
+        "The same is true for neoadjuvant immunotherapy in patients with EGFR mutations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Xiaobei Guo",
+        "Xiaoyan Liu",
+        "Chao Guo",
+        "Qian Miao",
+        "Xinghua Cheng",
+        "Xuan Hong",
+        "Hongru Li",
+        "Xiaoming Qiu",
+        "Yi Xiang",
+        "Di Zheng",
+        "Jian Zhou",
+        "Liyan Jiang",
+        "Yan Xu",
+        "Mengzhao Wang"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39980151/"
+    },
+    {
+      "pmid": "39330007",
+      "title": "Management of Non-Metastatic Non-Small Cell Lung Cancer (NSCLC) with Driver Gene Alterations: An Evolving Scenario.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "The ever-growing knowledge regarding NSCLC molecular biology has brought innovative therapies into clinical practice; however, the treatment situation in the non-metastatic setting is rapidly evolving. Indeed, immunotherapy-based perioperative treatments are currently considered the standard of care for patients with resectable NSCLC in the absence of"
+      ],
+      "abstract": "The ever-growing knowledge regarding NSCLC molecular biology has brought innovative therapies into clinical practice; however, the treatment situation in the non-metastatic setting is rapidly evolving. Indeed, immunotherapy-based perioperative treatments are currently considered the standard of care for patients with resectable NSCLC in the absence of",
+      "evidence_sentences": [
+        "The ever-growing knowledge regarding NSCLC molecular biology has brought innovative therapies into clinical practice; however, the treatment situation in the non-metastatic setting is rapidly evolving.",
+        "Indeed, immunotherapy-based perioperative treatments are currently considered the standard of care for patients with resectable NSCLC in the absence of"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Valeria Fuorivia",
+        "Ilaria Attili",
+        "Carla Corvaja",
+        "Riccardo Asnaghi",
+        "Ambra Carnevale Schianca",
+        "Pamela Trillo Aliaga",
+        "Ester Del Signore",
+        "Gianluca Spitaleri",
+        "Antonio Passaro",
+        "Filippo de Marinis"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39330007/"
+    },
+    {
+      "pmid": "40866342",
+      "title": "Adjuvant icotinib for resected EGFR-mutated stage II-IIIA non-small-cell lung cancer (ICTAN, GASTO1002): a randomized comparison study.",
+      "journal": "Signal transduction and targeted therapy",
+      "abstract_sections": [
+        "The efficacy, safety and ideal treatment duration of an adjuvant epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) for patients with resected EGFR-mutated non-small-cell lung cancer (NSCLC) were not known until 2014, when this study was initiated. In this phase 3 ICTAN trial (GASTO1002, NCT01996098), patients with completely resected, EGFR-mutated, stage II-IIIA NSCLC after adjuvant chemotherapy were assigned in a 1:1:1 ratio to receive icotinib (125 mg, three times daily) for 12 months, to receive icotinib for 6 months, or to undergo observation. The primary endpoint was disease-free survival (DFS). This trial was terminated early. A total of 251 patients were randomized. Adjuvant icotinib for 12 months significantly improved DFS (hazard ratio [HR]: 0.40, 95% confidence interval [CI], 0.27-0.61; P < 0.001) and overall survival (OS; HR: 0.55, 95% CI, 0.32-0.96; P = 0.032) compared with observation. Adjuvant icotinib of 6 months also significantly improved DFS (HR: 0.41, 95% CI, 0.27-0.62; P < 0.001) and OS (HR: 0.56, 95% CI, 0.32-0.98; P = 0.038) compared with observation. Adjuvant icotinib for 12 months did not improve DFS (HR: 0.97; P = 0.89) or OS (HR: 1.00; P = 0.99) compared with 6 months of this drug. Rates of adverse events of grade 3 or higher were 8.3%, 6.0% and 2.4% for the 12-month icotinib, 6-month icotinib, and observation groups, respectively. Adjuvant icotinib for 12 months or 6 months following adjuvant chemotherapy improved DFS and OS compared with observation in patients with resected EGFR-mutated stage II-IIIA NSCLC with a manageable safety profile, supporting it as a potential treatment option."
+      ],
+      "abstract": "The efficacy, safety and ideal treatment duration of an adjuvant epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) for patients with resected EGFR-mutated non-small-cell lung cancer (NSCLC) were not known until 2014, when this study was initiated. In this phase 3 ICTAN trial (GASTO1002, NCT01996098), patients with completely resected, EGFR-mutated, stage II-IIIA NSCLC after adjuvant chemotherapy were assigned in a 1:1:1 ratio to receive icotinib (125 mg, three times daily) for 12 months, to receive icotinib for 6 months, or to undergo observation. The primary endpoint was disease-free survival (DFS). This trial was terminated early. A total of 251 patients were randomized. Adjuvant icotinib for 12 months significantly improved DFS (hazard ratio [HR]: 0.40, 95% confidence interval [CI], 0.27-0.61; P < 0.001) and overall survival (OS; HR: 0.55, 95% CI, 0.32-0.96; P = 0.032) compared with observation. Adjuvant icotinib of 6 months also significantly improved DFS (HR: 0.41, 95% CI, 0.27-0.62; P < 0.001) and OS (HR: 0.56, 95% CI, 0.32-0.98; P = 0.038) compared with observation. Adjuvant icotinib for 12 months did not improve DFS (HR: 0.97; P = 0.89) or OS (HR: 1.00; P = 0.99) compared with 6 months of this drug. Rates of adverse events of grade 3 or higher were 8.3%, 6.0% and 2.4% for the 12-month icotinib, 6-month icotinib, and observation groups, respectively. Adjuvant icotinib for 12 months or 6 months following adjuvant chemotherapy improved DFS and OS compared with observation in patients with resected EGFR-mutated stage II-IIIA NSCLC with a manageable safety profile, supporting it as a potential treatment option.",
+      "evidence_sentences": [
+        "In this phase 3 ICTAN trial (GASTO1002, NCT01996098), patients with completely resected, EGFR-mutated, stage II-IIIA NSCLC after adjuvant chemotherapy were assigned in a 1:1:1 ratio to receive icotinib (125 mg, three times daily) for 12 months, to receive icotinib for 6 months, or to undergo observation.",
+        "Adjuvant icotinib for 12 months or 6 months following adjuvant chemotherapy improved DFS and OS compared with observation in patients with resected EGFR-mutated stage II-IIIA NSCLC with a manageable safety profile, supporting it as a potential treatment option.",
+        "The efficacy, safety and ideal treatment duration of an adjuvant epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) for patients with resected EGFR-mutated non-small-cell lung cancer (NSCLC) were not known until 2014, when this study was initiated."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ning Li",
+        "Wei Ou",
+        "Chao Cheng",
+        "Jian You",
+        "Lin Yang",
+        "Feng-Xia Chen",
+        "Yi Liang",
+        "Zhixiong Yang",
+        "Bao-Xiao Wang",
+        "Zeng-Hao Chang",
+        "Yao-Bin Lin",
+        "Weixiong Yang",
+        "Feng Xu",
+        "Guanggui Ding",
+        "Xian-Shan Chen",
+        "Ronggui Hu",
+        "Shujun Li",
+        "Hao Jiang",
+        "Xin-Xin Hu",
+        "Hao Long",
+        "Si-Yu Wang"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40866342/"
+    },
+    {
+      "pmid": "40457471",
+      "title": "Impact of DNA methylation on the recurrence risk of stage I non-small cell lung cancer with EGFR mutations.",
+      "journal": "Clinical epigenetics",
+      "abstract_sections": [
+        "Recent studies have demonstrated that patients with stage IB-IIIA non-small cell lung cancer (NSCLC) harboring EGFR mutations (EGFRm) can significantly benefit from adjuvant therapy with EGFR-TKIs. Nevertheless, there remains controversial in clinical practice about the use of EGFR-TKI adjuvant therapy for patients with stage IB EGFRm NSCLC.",
+        "This retrospective cohort study was conducted at the Second Xiangya Hospital of Central South University. From January 2011 to December 2020, completely resected stage IA-IB NSCLC (8th TNM staging) patients with sensitive EGFR mutation were included. FFPE tumor and lymph node specimens were collected and subjected to the 8-gene methylation panel using modified MOB-qMSP approach. We employed stepwise regression to select variables and logistic regression to establish the predictive model. Cross-validation and decision curve analysis were performed.",
+        "A total of 242 patients with IA2-IB EGFRm NSCLC were included in the study. Among these patients, 86 constituted the recurrence (Rec) group, while 156 formed the non-recurrence (Non-Rec) group. Through stepwise logistic regression, seven crucial feature variables were identified, including five-gene methylation variables (CDO1, TAC1, p16, CDH13, and APC) and two clinical variables (tumor invasion and differentiation). The ROC analysis revealed an AUC of 0.873 for the model with these seven variables. Internal cross-validation demonstrated a model accuracy exceeding 77%. The nomogram and decision curve analysis underscored the clinical utility of the model. We calculated the total score for each patient based on the nomogram and divided the patients into high-risk and low-risk groups. The cumulative risk curves for both groups evidenced that the recurrence risk in the high-risk group was significantly higher than in the low-risk group. We further divided the dataset into two cohorts-stage IA2-IA3 patients and stage IB patients. The model maintained a high AUC value (0.879) in stage IA2-A3 patients.",
+        "Our study demonstrates that the methylation of five genes-CDO1, TAC1, p16, CDH13, and APC-in N2 lymph nodes represents a strong biomarker panel for predicting recurrence in stage IB EGFRm NSCLC after curative resection. This approach also shows exceptional predictive accuracy for postoperative recurrence in stage IA2-IA3 EGFRm NSCLC."
+      ],
+      "abstract": "Recent studies have demonstrated that patients with stage IB-IIIA non-small cell lung cancer (NSCLC) harboring EGFR mutations (EGFRm) can significantly benefit from adjuvant therapy with EGFR-TKIs. Nevertheless, there remains controversial in clinical practice about the use of EGFR-TKI adjuvant therapy for patients with stage IB EGFRm NSCLC.\n\nThis retrospective cohort study was conducted at the Second Xiangya Hospital of Central South University. From January 2011 to December 2020, completely resected stage IA-IB NSCLC (8th TNM staging) patients with sensitive EGFR mutation were included. FFPE tumor and lymph node specimens were collected and subjected to the 8-gene methylation panel using modified MOB-qMSP approach. We employed stepwise regression to select variables and logistic regression to establish the predictive model. Cross-validation and decision curve analysis were performed.\n\nA total of 242 patients with IA2-IB EGFRm NSCLC were included in the study. Among these patients, 86 constituted the recurrence (Rec) group, while 156 formed the non-recurrence (Non-Rec) group. Through stepwise logistic regression, seven crucial feature variables were identified, including five-gene methylation variables (CDO1, TAC1, p16, CDH13, and APC) and two clinical variables (tumor invasion and differentiation). The ROC analysis revealed an AUC of 0.873 for the model with these seven variables. Internal cross-validation demonstrated a model accuracy exceeding 77%. The nomogram and decision curve analysis underscored the clinical utility of the model. We calculated the total score for each patient based on the nomogram and divided the patients into high-risk and low-risk groups. The cumulative risk curves for both groups evidenced that the recurrence risk in the high-risk group was significantly higher than in the low-risk group. We further divided the dataset into two cohorts-stage IA2-IA3 patients and stage IB patients. The model maintained a high AUC value (0.879) in stage IA2-A3 patients.\n\nOur study demonstrates that the methylation of five genes-CDO1, TAC1, p16, CDH13, and APC-in N2 lymph nodes represents a strong biomarker panel for predicting recurrence in stage IB EGFRm NSCLC after curative resection. This approach also shows exceptional predictive accuracy for postoperative recurrence in stage IA2-IA3 EGFRm NSCLC.",
+      "evidence_sentences": [
+        "Recent studies have demonstrated that patients with stage IB-IIIA non-small cell lung cancer (NSCLC) harboring EGFR mutations (EGFRm) can significantly benefit from adjuvant therapy with EGFR-TKIs.",
+        "This approach also shows exceptional predictive accuracy for postoperative recurrence in stage IA2-IA3 EGFRm NSCLC.",
+        "Our study demonstrates that the methylation of five genes-CDO1, TAC1, p16, CDH13, and APC-in N2 lymph nodes represents a strong biomarker panel for predicting recurrence in stage IB EGFRm NSCLC after curative resection."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Yunyi Li",
+        "Zhihui Yang",
+        "Fang Wu",
+        "Qingchun Liang",
+        "James G Herman",
+        "Malcolm V Brock",
+        "Wenliang Liu",
+        "Fenglei Yu",
+        "Xue He",
+        "Chen Chen"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40457471/"
+    },
+    {
+      "pmid": "36027483",
+      "title": "Updated Overall Survival and Exploratory Analysis From Randomized, Phase II EVAN Study of Erlotinib Versus Vinorelbine Plus Cisplatin Adjuvant Therapy in Stage IIIA Epidermal Growth Factor Receptor+ Non-Small-Cell Lung Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Dongsheng Yue",
+        "Shidong Xu",
+        "Qun Wang",
+        "Xiaofei Li",
+        "Yi Shen",
+        "Heng Zhao",
+        "Chun Chen",
+        "Weimin Mao",
+        "Wei Liu",
+        "Junfeng Liu",
+        "Lanjun Zhang",
+        "Haitao Ma",
+        "Qiang Li",
+        "Yue Yang",
+        "Yongyu Liu",
+        "Haiquan Chen",
+        "Zhenfa Zhang",
+        "Bin Zhang",
+        "Changli Wang"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36027483/"
+    },
+    {
+      "pmid": "38153722",
+      "title": "Rapid Advances in Resectable Non-Small Cell Lung Cancer: A Narrative Review.",
+      "journal": "JAMA oncology",
+      "abstract_sections": [
+        "A series of high-profile clinical trials for patients with resectable early-stage non-small cell lung cancer (NSCLC) have recently changed the standard of care in this setting. Specifically, studies have demonstrated statistically and clinically significant improvements in efficacy with the targeted therapy for adjuvant osimertinib in patients with resected NSCLC harboring an epidermal growth factor receptor (EGFR) genomic abnormality (GA), whereas trials with chemotherapy combined with nivolumab in the neoadjuvant setting and others testing atezolizumab or pembrolizumab as adjuvant therapy have all demonstrated improvements in event-free survival (EFS) (for neoadjuvant therapy) or disease-free survival (DFS) (for adjuvant therapy). These trials introduce many open questions about how to apply these findings in clinical practice.",
+        "Treatment with adjuvant osimertinib for 3 years was associated with significant improvement in both DFS and overall survival (OS), but the erosion of the DFS benefit after the duration of treatment ends suggests a potential value for more longitudinal treatment. The potential value of highly effective targeted therapies as adjuvant therapy for other GAs has a compelling rationale but no data at this time. Adjuvant atezolizumab or pembrolizumab, generally administered for 1 year after postoperative chemotherapy, are appropriate considerations, but only atezolizumab for patients with tumor programmed death-ligand 1 (PD-L1) levels of 50% has demonstrated a benefit in OS. Neoadjuvant chemotherapy with nivolumab offers a strong EFS benefit, a shorter interval of treatment, and radiographic and pathologic feedback for patients with resectable stage IB to IIIA NSCLC, although very recent randomized clinical trials of perioperative immunotherapy both combined with chemotherapy preoperatively and administered postoperatively highlight the debatable value of adjuvant immunotherapy after prior chemoimmunotherapy. Improved tumor shrinkage rates with neoadjuvant chemoimmunotherapy suggest the possibility that criteria for resectability may potentially be redefined in anticipation of a good response to neoadjuvant chemoimmunotherapy.",
+        "Developments in resectable NSCLC have arrived so rapidly that they have also created practical challenges of identifying optimal patients and prioritizing options among these new competing standards. In some cases, practical management requires clinical judgment and discussion with the patient to cover the gaps in prospective data. Caution should be exerted when extrapolating beyond the available data."
+      ],
+      "abstract": "A series of high-profile clinical trials for patients with resectable early-stage non-small cell lung cancer (NSCLC) have recently changed the standard of care in this setting. Specifically, studies have demonstrated statistically and clinically significant improvements in efficacy with the targeted therapy for adjuvant osimertinib in patients with resected NSCLC harboring an epidermal growth factor receptor (EGFR) genomic abnormality (GA), whereas trials with chemotherapy combined with nivolumab in the neoadjuvant setting and others testing atezolizumab or pembrolizumab as adjuvant therapy have all demonstrated improvements in event-free survival (EFS) (for neoadjuvant therapy) or disease-free survival (DFS) (for adjuvant therapy). These trials introduce many open questions about how to apply these findings in clinical practice.\n\nTreatment with adjuvant osimertinib for 3 years was associated with significant improvement in both DFS and overall survival (OS), but the erosion of the DFS benefit after the duration of treatment ends suggests a potential value for more longitudinal treatment. The potential value of highly effective targeted therapies as adjuvant therapy for other GAs has a compelling rationale but no data at this time. Adjuvant atezolizumab or pembrolizumab, generally administered for 1 year after postoperative chemotherapy, are appropriate considerations, but only atezolizumab for patients with tumor programmed death-ligand 1 (PD-L1) levels of 50% has demonstrated a benefit in OS. Neoadjuvant chemotherapy with nivolumab offers a strong EFS benefit, a shorter interval of treatment, and radiographic and pathologic feedback for patients with resectable stage IB to IIIA NSCLC, although very recent randomized clinical trials of perioperative immunotherapy both combined with chemotherapy preoperatively and administered postoperatively highlight the debatable value of adjuvant immunotherapy after prior chemoimmunotherapy. Improved tumor shrinkage rates with neoadjuvant chemoimmunotherapy suggest the possibility that criteria for resectability may potentially be redefined in anticipation of a good response to neoadjuvant chemoimmunotherapy.\n\nDevelopments in resectable NSCLC have arrived so rapidly that they have also created practical challenges of identifying optimal patients and prioritizing options among these new competing standards. In some cases, practical management requires clinical judgment and discussion with the patient to cover the gaps in prospective data. Caution should be exerted when extrapolating beyond the available data.",
+      "evidence_sentences": [
+        "Neoadjuvant chemotherapy with nivolumab offers a strong EFS benefit, a shorter interval of treatment, and radiographic and pathologic feedback for patients with resectable stage IB to IIIA NSCLC, although very recent randomized clinical trials of perioperative immunotherapy both combined with chemotherapy preoperatively and administered postoperatively highlight the debatable value of adjuvant immunotherapy after prior chemoimmunotherapy.",
+        "A series of high-profile clinical trials for patients with resectable early-stage non-small cell lung cancer (NSCLC) have recently changed the standard of care in this setting.",
+        "Specifically, studies have demonstrated statistically and clinically significant improvements in efficacy with the targeted therapy for adjuvant osimertinib in patients with resected NSCLC harboring an epidermal growth factor receptor (EGFR) genomic abnormality (GA), whereas trials with chemotherapy combined with nivolumab in the neoadjuvant setting and others testing atezolizumab or pembrolizumab as adjuvant therapy have all demonstrated improvements in event-free survival (EFS) (for neoadjuvant therapy) or disease-free survival (DFS) (for adjuvant therapy)."
+      ],
+      "publication_types": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Howard Jack West",
+        "Jae Y Kim"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38153722/"
+    },
+    {
+      "pmid": "39448200",
+      "title": "Impact of select actionable genomic alterations on efficacy of neoadjuvant immunotherapy in resectable non-small cell lung cancer.",
+      "journal": "Journal for immunotherapy of cancer",
+      "abstract_sections": [
+        "Neoadjuvant immune checkpoint inhibitors (ICIs) have improved survival outcomes compared with chemotherapy in resectable non-small cell lung cancer (NSCLC). However, the impact of actionable genomic alterations (AGAs) on the efficacy of neoadjuvant ICIs remains unclear. We report the influence of AGAs on treatment failure (TF) in patients with resectable NSCLC treated with neoadjuvant ICIs.",
+        "Tumor molecular profiles were obtained from patients with stage I-IIIA resectable NSCLC (American Joint Committee on Cancer seventh edition) treated with either neoadjuvant nivolumab (N, n=23) or nivolumab+ipilimumab (NI, n=21) followed by surgery in a previously reported phase-2 randomized study (NCT03158129). TF was defined as any progression of primary lung cancer after neoadjuvant ICI therapy in patients without surgery, radiographic and/or biopsy-proven primary lung cancer recurrence after surgery, or death from possibly treatment-related complications or from primary lung cancer since randomization. Tumors with AGAs (n=12) were compared with tumors without AGAs and non-profiled squamous cell carcinomas (non-AGAs+NP SCC, n=20).",
+        "With a median follow-up of 60.2 months, the overall TF rate was 34.1% (15/44). Tumor molecular profiling was retrospectively obtained in 47.7% (21/44) of patients and select AGAs were identified in 12 patients: 5 epidermal growth factor receptor",
+        "Patients with NSCLC harboring select AGAs, including"
+      ],
+      "abstract": "Neoadjuvant immune checkpoint inhibitors (ICIs) have improved survival outcomes compared with chemotherapy in resectable non-small cell lung cancer (NSCLC). However, the impact of actionable genomic alterations (AGAs) on the efficacy of neoadjuvant ICIs remains unclear. We report the influence of AGAs on treatment failure (TF) in patients with resectable NSCLC treated with neoadjuvant ICIs.\n\nTumor molecular profiles were obtained from patients with stage I-IIIA resectable NSCLC (American Joint Committee on Cancer seventh edition) treated with either neoadjuvant nivolumab (N, n=23) or nivolumab+ipilimumab (NI, n=21) followed by surgery in a previously reported phase-2 randomized study (NCT03158129). TF was defined as any progression of primary lung cancer after neoadjuvant ICI therapy in patients without surgery, radiographic and/or biopsy-proven primary lung cancer recurrence after surgery, or death from possibly treatment-related complications or from primary lung cancer since randomization. Tumors with AGAs (n=12) were compared with tumors without AGAs and non-profiled squamous cell carcinomas (non-AGAs+NP SCC, n=20).\n\nWith a median follow-up of 60.2 months, the overall TF rate was 34.1% (15/44). Tumor molecular profiling was retrospectively obtained in 47.7% (21/44) of patients and select AGAs were identified in 12 patients: 5 epidermal growth factor receptor\n\nPatients with NSCLC harboring select AGAs, including",
+      "evidence_sentences": [
+        "Tumor molecular profiles were obtained from patients with stage I-IIIA resectable NSCLC (American Joint Committee on Cancer seventh edition) treated with either neoadjuvant nivolumab (N, n=23) or nivolumab+ipilimumab (NI, n=21) followed by surgery in a previously reported phase-2 randomized study (NCT03158129).",
+        "Neoadjuvant immune checkpoint inhibitors (ICIs) have improved survival outcomes compared with chemotherapy in resectable non-small cell lung cancer (NSCLC).",
+        "We report the influence of AGAs on treatment failure (TF) in patients with resectable NSCLC treated with neoadjuvant ICIs."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Nicolas Zhou",
+        "Cheuk H Leung",
+        "William N William",
+        "Annikka Weissferdt",
+        "Apar Pataer",
+        "Myrna C B Godoy",
+        "Brett W Carter",
+        "Frank V Fossella",
+        "Anne S Tsao",
+        "George R Blumenschein",
+        "Xiuning Le",
+        "Jianjun Zhang",
+        "Ferdinandos Skoulidis",
+        "Jonathan M Kurie",
+        "Mehmet Altan",
+        "Charles Lu",
+        "Bonnie S Glisson",
+        "Lauren A Byers",
+        "Yasir Y Elamin",
+        "Reza J Mehran",
+        "David C Rice",
+        "Garrett L Walsh",
+        "Wayne L Hofstetter",
+        "Jack A Roth",
+        "Hai T Tran",
+        "Jia Wu",
+        "Luisa M Solis Soto",
+        "Humam Kadara",
+        "Stephen G Swisher",
+        "Ara A Vaporciyan",
+        "Don L Gibbons",
+        "Heather Y Lin",
+        "J Jack Lee",
+        "John V Heymach",
+        "Marcelo V Negrao",
+        "Boris Sepesi",
+        "Tina Cascone"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39448200/"
+    },
+    {
+      "pmid": "34490338",
+      "title": "Efficacy and Safety of Neoadjuvant Targeted Therapy vs. Neoadjuvant Chemotherapy for Stage IIIA EGFR-Mutant Non-small Cell Lung Cancer: A Systematic Review and Meta-Analysis.",
+      "journal": "Frontiers in surgery",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Dong Chen",
+        "Zixian Jin",
+        "Jian Zhang",
+        "Congcong Xu",
+        "Kanghao Zhu",
+        "Yuhang Ruan",
+        "Bo Zhang",
+        "Baofu Chen",
+        "Jianfei Shen"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34490338/"
+    },
+    {
+      "pmid": "38190787",
+      "title": "EGFR-mutation testing, treatment patterns and clinical outcomes in patients with stage IB-IIIA non-small cell lung cancer in Norway-a nationwide cohort study.",
+      "journal": "Cancer treatment and research communications",
+      "abstract_sections": [
+        "Testing for mutations of epidermal growth factor receptor (EGFR) is crucial to identify non-small cell lung cancer (NSCLC) patients eligible for treatment with EGFR tyrosine kinase inhibitors (EGFR-TKIs); This study aims to describe EGFR-mutation testing, treatment patterns, and overall survival (OS) in localized NSCLC patients.",
+        "Patients with localized (Stage IB-IIIA) NSCLC registered in the Norwegian Cancer Registry during 2010-2017 were followed from diagnosis until emigration, death, or end of study in 2018. The cohort was linked to data from the Norwegian Patient Registry, the Prescription Database, and the Cause of Death Registry.",
+        "Of 2367 patients identified with localized NSCLC, 52 % were females and median age at diagnosis was 69 years. Most (66 %) were treated with surgery, while 16 % received curatively-intended radiotherapy (RT). EGFR-mutation testing increased significantly from 58 to 84 % during the study period. Testing frequencies varied across regions and comorbidity levels. Nine-percent of tested patients were EGFR-mutation positive (EGFRm+), of whom 27 % were treated with EGFR-TKIs. There was no correlation between initial treatment with either surgery or RT and EGFR-TKI use. The 3-year OS did not vary considerably by EGFR-mutation testing, but EGFRm+ patients had a higher 3-year OS (78.8 %) than wild-type EGFR (EGFRwt) patients (65.9 %).",
+        "Although EGFR-mutation testing is increasingly being implemented in the early-stage setting in line with national recommendations, some patients are still not being tested for molecular markers as part of their diagnostic workup-a prerequisite for providing equal access to effective targeted treatments, such as EGFR-TKIs, to eligible patients."
+      ],
+      "abstract": "Testing for mutations of epidermal growth factor receptor (EGFR) is crucial to identify non-small cell lung cancer (NSCLC) patients eligible for treatment with EGFR tyrosine kinase inhibitors (EGFR-TKIs); This study aims to describe EGFR-mutation testing, treatment patterns, and overall survival (OS) in localized NSCLC patients.\n\nPatients with localized (Stage IB-IIIA) NSCLC registered in the Norwegian Cancer Registry during 2010-2017 were followed from diagnosis until emigration, death, or end of study in 2018. The cohort was linked to data from the Norwegian Patient Registry, the Prescription Database, and the Cause of Death Registry.\n\nOf 2367 patients identified with localized NSCLC, 52 % were females and median age at diagnosis was 69 years. Most (66 %) were treated with surgery, while 16 % received curatively-intended radiotherapy (RT). EGFR-mutation testing increased significantly from 58 to 84 % during the study period. Testing frequencies varied across regions and comorbidity levels. Nine-percent of tested patients were EGFR-mutation positive (EGFRm+), of whom 27 % were treated with EGFR-TKIs. There was no correlation between initial treatment with either surgery or RT and EGFR-TKI use. The 3-year OS did not vary considerably by EGFR-mutation testing, but EGFRm+ patients had a higher 3-year OS (78.8 %) than wild-type EGFR (EGFRwt) patients (65.9 %).\n\nAlthough EGFR-mutation testing is increasingly being implemented in the early-stage setting in line with national recommendations, some patients are still not being tested for molecular markers as part of their diagnostic workup-a prerequisite for providing equal access to effective targeted treatments, such as EGFR-TKIs, to eligible patients.",
+      "evidence_sentences": [
+        "Testing for mutations of epidermal growth factor receptor (EGFR) is crucial to identify non-small cell lung cancer (NSCLC) patients eligible for treatment with EGFR tyrosine kinase inhibitors (EGFR-TKIs); This study aims to describe EGFR-mutation testing, treatment patterns, and overall survival (OS) in localized NSCLC patients.",
+        "Patients with localized (Stage IB-IIIA) NSCLC registered in the Norwegian Cancer Registry during 2010-2017 were followed from diagnosis until emigration, death, or end of study in 2018.",
+        "Although EGFR-mutation testing is increasingly being implemented in the early-stage setting in line with national recommendations, some patients are still not being tested for molecular markers as part of their diagnostic workup-a prerequisite for providing equal access to effective targeted treatments, such as EGFR-TKIs, to eligible patients."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Åslaug Helland",
+        "Tor Åge Myklebust",
+        "Simona Conte",
+        "Line Elmerdahl Frederiksen",
+        "Jørgen Aarøe",
+        "Espen Enerly"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38190787/"
+    },
+    {
+      "pmid": "36168085",
+      "title": "A Delphi consensus panel about clinical management of early-stage EGFR-mutated non-small cell lung cancer (NSCLC) in Spain: a Delphi consensus panel study.",
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "abstract_sections": [
+        "This Delphi panel study assessed the level of consensus between medical oncologists on the clinical management of patients with early-stage EGFR-mutated non-small cell lung cancer (NSCLC).",
+        "A modified two-round Delphi approach was used. A scientific committee comprised of medical oncologists developed an online questionnaire. Delphi panel experts rated their level of agreement with each questionnaire statement on a 9-point Likert scale. The questionnaire included 36 statements from 3 domains (clinical management of early-stage NSCLC: 15 statements; role of adjuvant therapy in early-stage NSCLC: 9 statements; and role of adjuvant therapy in early-stage NSCLC with sensitizing EGFR mutation: 12 statements).",
+        "In round 1, consensus was reached for 24/36 statements (66.7%). Nine statements that did not achieve consensus after the first round were evaluated in round 2, and none of them reached consensus. Overall, 84.4% of the panelists agreed that EGFR mutation testing should be done after surgery. Consensus was not achieved on whether the implementation of EGFR mutation testing in resected early-stage NSCLC could limit the use of adjuvant osimertinib. The panelists recognized the rationale for the use of osimertinib in the adjuvant scenario (88%) and 72% agreed that it may change the treatment paradigm in stage IB-IIIA EGFR-mutated NSCLC. Consensus was not reached on the inconvenience of prolonged duration of osimertinib.",
+        "This Delphi study provides valuable insights into relevant questions in the management of early-stage EGFR-mutated NSCLC. However, specific issues remain unresolved. The expert consensus emphasizes the role of adjuvant treatment with osimertinib in this scenario."
+      ],
+      "abstract": "This Delphi panel study assessed the level of consensus between medical oncologists on the clinical management of patients with early-stage EGFR-mutated non-small cell lung cancer (NSCLC).\n\nA modified two-round Delphi approach was used. A scientific committee comprised of medical oncologists developed an online questionnaire. Delphi panel experts rated their level of agreement with each questionnaire statement on a 9-point Likert scale. The questionnaire included 36 statements from 3 domains (clinical management of early-stage NSCLC: 15 statements; role of adjuvant therapy in early-stage NSCLC: 9 statements; and role of adjuvant therapy in early-stage NSCLC with sensitizing EGFR mutation: 12 statements).\n\nIn round 1, consensus was reached for 24/36 statements (66.7%). Nine statements that did not achieve consensus after the first round were evaluated in round 2, and none of them reached consensus. Overall, 84.4% of the panelists agreed that EGFR mutation testing should be done after surgery. Consensus was not achieved on whether the implementation of EGFR mutation testing in resected early-stage NSCLC could limit the use of adjuvant osimertinib. The panelists recognized the rationale for the use of osimertinib in the adjuvant scenario (88%) and 72% agreed that it may change the treatment paradigm in stage IB-IIIA EGFR-mutated NSCLC. Consensus was not reached on the inconvenience of prolonged duration of osimertinib.\n\nThis Delphi study provides valuable insights into relevant questions in the management of early-stage EGFR-mutated NSCLC. However, specific issues remain unresolved. The expert consensus emphasizes the role of adjuvant treatment with osimertinib in this scenario.",
+      "evidence_sentences": [
+        "The panelists recognized the rationale for the use of osimertinib in the adjuvant scenario (88%) and 72% agreed that it may change the treatment paradigm in stage IB-IIIA EGFR-mutated NSCLC.",
+        "This Delphi panel study assessed the level of consensus between medical oncologists on the clinical management of patients with early-stage EGFR-mutated non-small cell lung cancer (NSCLC).",
+        "This Delphi study provides valuable insights into relevant questions in the management of early-stage EGFR-mutated NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Dolores Isla",
+        "Enriqueta Felip",
+        "Pilar Garrido",
+        "Amelia Insa",
+        "Margarita Majem",
+        "Jordi Remon",
+        "Jose M Trigo",
+        "Javier de Castro"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36168085/"
+    },
+    {
+      "pmid": "18484217",
+      "title": "[Lung cancer].",
+      "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+      "abstract_sections": [
+        "Since the late 1980s, lung cancer incidence in men has declined in Germany whereas in women there is still a rise. There is no approved screening program for lung cancer up to now and results from randomized trials like the National Lung Screening Trial are eagerly awaited. In stage II and IIIA non-small cell lung cancer (NSCLC), several positive trials have demonstrated the advantage of adjuvant chemotherapy which is now an established modality to improve cure rates. Epidermal growth factor receptor (EGFR) is commonly overexpressed in NSCLC. Erlotinib, an EGFR tyrosine kinase inhibitor, has been approved for relapsed advanced-stage NSCLC. Bevacizumab is a monoclonal antibody against vascular endothelial growth factor, a primary mediator of angiogenesis that is commonly overexpressed in solid tumors including lung cancer. Bevacizumab, in combination with chemotherapy, has demonstrated improved outcomes in advanced NSCLC and is now approved for selected patients with advanced-stage NSCLC. Patient selection for therapeutic use of bevacizumab is crucial to optimize safety. Ongoing trials explore multitargeted agents such as sorafenib, sunitinib, and vandetanib."
+      ],
+      "abstract": "Since the late 1980s, lung cancer incidence in men has declined in Germany whereas in women there is still a rise. There is no approved screening program for lung cancer up to now and results from randomized trials like the National Lung Screening Trial are eagerly awaited. In stage II and IIIA non-small cell lung cancer (NSCLC), several positive trials have demonstrated the advantage of adjuvant chemotherapy which is now an established modality to improve cure rates. Epidermal growth factor receptor (EGFR) is commonly overexpressed in NSCLC. Erlotinib, an EGFR tyrosine kinase inhibitor, has been approved for relapsed advanced-stage NSCLC. Bevacizumab is a monoclonal antibody against vascular endothelial growth factor, a primary mediator of angiogenesis that is commonly overexpressed in solid tumors including lung cancer. Bevacizumab, in combination with chemotherapy, has demonstrated improved outcomes in advanced NSCLC and is now approved for selected patients with advanced-stage NSCLC. Patient selection for therapeutic use of bevacizumab is crucial to optimize safety. Ongoing trials explore multitargeted agents such as sorafenib, sunitinib, and vandetanib.",
+      "evidence_sentences": [
+        "In stage II and IIIA non-small cell lung cancer (NSCLC), several positive trials have demonstrated the advantage of adjuvant chemotherapy which is now an established modality to improve cure rates.",
+        "Erlotinib, an EGFR tyrosine kinase inhibitor, has been approved for relapsed advanced-stage NSCLC.",
+        "Bevacizumab, in combination with chemotherapy, has demonstrated improved outcomes in advanced NSCLC and is now approved for selected patients with advanced-stage NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Berthold Fischer",
+        "Roland Buhl"
+      ],
+      "year": "2008",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18484217/"
+    },
+    {
+      "pmid": "37958305",
+      "title": "Diagnostic Workup, Treatment Patterns, and Clinical Outcomes in Early-Stage IB-IIIA Non-Small-Cell Lung Cancer Patients in Denmark.",
+      "journal": "Cancers",
+      "abstract_sections": [
+        "Despite recent improvements in early-stage non-small-cell lung cancer (NSCLC), disease relapse remains challenging. Moreover, real-world evidence on long-term follow-up of disease-free survival (DFS) and recurrence patterns in a large, unselected cohort of early-stage NSCLC patients is lacking. This cohort study aimed to assess clinical characteristics, diagnostic workup, treatment, survival, and risk of disease relapse among early-stage NSCLC patients. Adult patients with stage IB, II, or IIIA NSCLC diagnosed and/or treated at Aarhus University Hospital in Denmark from January 2010 to December 2020 were included and followed-up until May 2021. Comprehensive clinical data were collected from electronic medical records of eligible patients and linked to Danish register data. The study population comprised 1341 early-stage NSCLC patients: 22%, 40%, and 38% were diagnosed with stage IB, II, and IIIA disease, respectively. In total, 42% of patients were tested for epidermal growth factor receptor (EGFR), of whom 10% were EGFR-mutation-positive (EGFRm"
+      ],
+      "abstract": "Despite recent improvements in early-stage non-small-cell lung cancer (NSCLC), disease relapse remains challenging. Moreover, real-world evidence on long-term follow-up of disease-free survival (DFS) and recurrence patterns in a large, unselected cohort of early-stage NSCLC patients is lacking. This cohort study aimed to assess clinical characteristics, diagnostic workup, treatment, survival, and risk of disease relapse among early-stage NSCLC patients. Adult patients with stage IB, II, or IIIA NSCLC diagnosed and/or treated at Aarhus University Hospital in Denmark from January 2010 to December 2020 were included and followed-up until May 2021. Comprehensive clinical data were collected from electronic medical records of eligible patients and linked to Danish register data. The study population comprised 1341 early-stage NSCLC patients: 22%, 40%, and 38% were diagnosed with stage IB, II, and IIIA disease, respectively. In total, 42% of patients were tested for epidermal growth factor receptor (EGFR), of whom 10% were EGFR-mutation-positive (EGFRm",
+      "evidence_sentences": [
+        "The study population comprised 1341 early-stage NSCLC patients: 22%, 40%, and 38% were diagnosed with stage IB, II, and IIIA disease, respectively.",
+        "Adult patients with stage IB, II, or IIIA NSCLC diagnosed and/or treated at Aarhus University Hospital in Denmark from January 2010 to December 2020 were included and followed-up until May 2021.",
+        "This cohort study aimed to assess clinical characteristics, diagnostic workup, treatment, survival, and risk of disease relapse among early-stage NSCLC patients."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ebbe Meldgaard Uldbjerg",
+        "Lars Ringgaard",
+        "Klaus Kaae Andersen",
+        "Line Elmerdahl Frederiksen",
+        "Aleksandar Jovanovic",
+        "Peter Meldgaard"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37958305/"
+    },
+    {
+      "pmid": "37920491",
+      "title": "Effectiveness comparison of third-generation EGFR-TKI as initial and sequential therapy in adjuvant treatment for EGFR mutation-sensitive stage IIIA non-small cell lung cancer after surgery.",
+      "journal": "Heliyon",
+      "abstract_sections": [
+        "Although third-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) Osimertinib has been approved as adjuvant therapy for resected stage IIIA non-small cell lung cancer (NSCLC) with EGFR-sensitive mutations, the optimal treatment sequencing of EGFR-TKIs, particularly whether Osimertinib should be the initial or sequential therapy following the first-generation EGFR-TKIs remains uncertain.",
+        "A retrospective analysis was conducted on a cohort of patients with EGFR-mutated stage IIIA NSCLC who received treatment with either first-generation EGFR-TKIs or Osimertinib (third-generation) alone, or in sequential combination, at a single institution. The data analysis involved using the Kaplan-Meier method, log-rank test, and Cox regression.",
+        "Out of the total 148 patients with stage IIIA NSCLC included in the study, 76 individuals underwent treatment with either first-generation EGFR-TKIs (referred to as subgroup \"1″) or exclusively Osimertinib (subgroup \"0 + 3″), or a sequential combination of the two (subgroup \"1 + 3″) following surgery. Both univariate and multivariate analyses demonstrated that there were no discernible disparities in terms of disease-free survival and overall survival between subgroup \" 1″ and \" 1 + 3,\" nor between subgroup \" 0 + 3″ and \"1 + 3\".",
+        "The findings from this study indicate that the introduction of third-generation EGFR-TKI Osimertinib did not yield enhanced survival benefits when compared to the first-generation drug in patients with stage IIIA completely resected NSCLC who were administered EGFR-TKIs as part of their postoperative adjuvant treatment. Additionally, within the observed sample size of this cohort, the sequential use of Osimertinib alongside first-generation EGFR-TKI did not demonstrate superiority over using either the first-generation EGFR-TKI or Osimertinib alone in terms of postoperative survival."
+      ],
+      "abstract": "Although third-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) Osimertinib has been approved as adjuvant therapy for resected stage IIIA non-small cell lung cancer (NSCLC) with EGFR-sensitive mutations, the optimal treatment sequencing of EGFR-TKIs, particularly whether Osimertinib should be the initial or sequential therapy following the first-generation EGFR-TKIs remains uncertain.\n\nA retrospective analysis was conducted on a cohort of patients with EGFR-mutated stage IIIA NSCLC who received treatment with either first-generation EGFR-TKIs or Osimertinib (third-generation) alone, or in sequential combination, at a single institution. The data analysis involved using the Kaplan-Meier method, log-rank test, and Cox regression.\n\nOut of the total 148 patients with stage IIIA NSCLC included in the study, 76 individuals underwent treatment with either first-generation EGFR-TKIs (referred to as subgroup \"1″) or exclusively Osimertinib (subgroup \"0 + 3″), or a sequential combination of the two (subgroup \"1 + 3″) following surgery. Both univariate and multivariate analyses demonstrated that there were no discernible disparities in terms of disease-free survival and overall survival between subgroup \" 1″ and \" 1 + 3,\" nor between subgroup \" 0 + 3″ and \"1 + 3\".\n\nThe findings from this study indicate that the introduction of third-generation EGFR-TKI Osimertinib did not yield enhanced survival benefits when compared to the first-generation drug in patients with stage IIIA completely resected NSCLC who were administered EGFR-TKIs as part of their postoperative adjuvant treatment. Additionally, within the observed sample size of this cohort, the sequential use of Osimertinib alongside first-generation EGFR-TKI did not demonstrate superiority over using either the first-generation EGFR-TKI or Osimertinib alone in terms of postoperative survival.",
+      "evidence_sentences": [
+        "Although third-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) Osimertinib has been approved as adjuvant therapy for resected stage IIIA non-small cell lung cancer (NSCLC) with EGFR-sensitive mutations, the optimal treatment sequencing of EGFR-TKIs, particularly whether Osimertinib should be the initial or sequential therapy following the first-generation EGFR-TKIs remains uncertain.",
+        "The findings from this study indicate that the introduction of third-generation EGFR-TKI Osimertinib did not yield enhanced survival benefits when compared to the first-generation drug in patients with stage IIIA completely resected NSCLC who were administered EGFR-TKIs as part of their postoperative adjuvant treatment.",
+        "Out of the total 148 patients with stage IIIA NSCLC included in the study, 76 individuals underwent treatment with either first-generation EGFR-TKIs (referred to as subgroup \"1″) or exclusively Osimertinib (subgroup \"0 + 3″), or a sequential combination of the two (subgroup \"1 + 3″) following surgery."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Wenyan Ma",
+        "Ziyi Sheng",
+        "Yongliang Niu",
+        "Bo Yan",
+        "Yong Chen",
+        "Haitang Yang",
+        "Rong Li"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37920491/"
+    },
+    {
+      "pmid": "37308037",
+      "title": "Longitudinal Monitoring of Circulating Tumor DNA From Plasma in Patients With Curative Resected Stages I to IIIA EGFR-Mutant Non-Small Cell Lung Cancer.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "For patients with early stage EGFR-mutant-positive (EGFR-M+) NSCLC, curative surgery followed by adjuvant chemotherapy is considered the standard of care. This study evaluated the feasibility and efficacy of longitudinal monitoring of circulating tumor DNA (ctDNA) as a valuable biomarker for early detection of minimal residual disease (MRD) and provides identification of the group at high risk for recurrence in resected stages I to IIIA EGFR-M+ NSCLC.",
+        "Between August 2015 and October 2017, a total of 278 patients with curative resected, stages I to IIIA (American Joint Committee on Cancer seventh version) common EGFR-M+ NSCLC were analyzed. Radiological follow-up was accompanied with longitudinal monitoring of ctDNA using a droplet-digital polymerase chain reaction from baseline (preoperative), 4 weeks after curative surgery, and follow-up per protocol until 5 years. The primary outcomes were disease-free survival (DFS) according to the status of ctDNA positivity at landmark points and the sensitivity of longitudinal monitoring of ctDNA.",
+        "Among 278 patients, preoperative baseline ctDNA was detected in 67 (24%) patients: 23% (stage IA), 18% (IB), 18% (IIA), 50% (IIB), and 42% (IIIA) (p = 0.06). Of patients with baseline ctDNA, 76% (51 of 67) had clearance at 4 weeks after surgery (postoperative). Patients were classified into the following three groups; group A, baseline ctDNA negative (n = 211) versus group B, baseline ctDNA positive but postoperative MRD negative (n = 51) versus group C, baseline ctDNA positive and postoperative MRD positive (n = 16). The 3-year DFS rate was significantly different among the three groups (84% for group A, 78% for group B, and 50% for group C, p = 0.02). After adjusting for clinicopathologic variables, ctDNA still remains an independent risk factor for DFS along with stage (p < 0.001) and micropapillary subtype (p = 0.02). With longitudinal monitoring of ctDNA, MRD was detected before radiological recurrence in 69% of patients with exon 19 deletion and in 20% with L858R mutation.",
+        "These results suggest that patients with baseline ctDNA-positive or MRD-positive status were associated with poor DFS in curative resected stages I to IIIA EGFR-M+ NSCLC and that longitudinal monitoring of ctDNA, a noninvasive method, might be useful to detect early recurrence before radiological recurrence."
+      ],
+      "abstract": "For patients with early stage EGFR-mutant-positive (EGFR-M+) NSCLC, curative surgery followed by adjuvant chemotherapy is considered the standard of care. This study evaluated the feasibility and efficacy of longitudinal monitoring of circulating tumor DNA (ctDNA) as a valuable biomarker for early detection of minimal residual disease (MRD) and provides identification of the group at high risk for recurrence in resected stages I to IIIA EGFR-M+ NSCLC.\n\nBetween August 2015 and October 2017, a total of 278 patients with curative resected, stages I to IIIA (American Joint Committee on Cancer seventh version) common EGFR-M+ NSCLC were analyzed. Radiological follow-up was accompanied with longitudinal monitoring of ctDNA using a droplet-digital polymerase chain reaction from baseline (preoperative), 4 weeks after curative surgery, and follow-up per protocol until 5 years. The primary outcomes were disease-free survival (DFS) according to the status of ctDNA positivity at landmark points and the sensitivity of longitudinal monitoring of ctDNA.\n\nAmong 278 patients, preoperative baseline ctDNA was detected in 67 (24%) patients: 23% (stage IA), 18% (IB), 18% (IIA), 50% (IIB), and 42% (IIIA) (p = 0.06). Of patients with baseline ctDNA, 76% (51 of 67) had clearance at 4 weeks after surgery (postoperative). Patients were classified into the following three groups; group A, baseline ctDNA negative (n = 211) versus group B, baseline ctDNA positive but postoperative MRD negative (n = 51) versus group C, baseline ctDNA positive and postoperative MRD positive (n = 16). The 3-year DFS rate was significantly different among the three groups (84% for group A, 78% for group B, and 50% for group C, p = 0.02). After adjusting for clinicopathologic variables, ctDNA still remains an independent risk factor for DFS along with stage (p < 0.001) and micropapillary subtype (p = 0.02). With longitudinal monitoring of ctDNA, MRD was detected before radiological recurrence in 69% of patients with exon 19 deletion and in 20% with L858R mutation.\n\nThese results suggest that patients with baseline ctDNA-positive or MRD-positive status were associated with poor DFS in curative resected stages I to IIIA EGFR-M+ NSCLC and that longitudinal monitoring of ctDNA, a noninvasive method, might be useful to detect early recurrence before radiological recurrence.",
+      "evidence_sentences": [
+        "This study evaluated the feasibility and efficacy of longitudinal monitoring of circulating tumor DNA (ctDNA) as a valuable biomarker for early detection of minimal residual disease (MRD) and provides identification of the group at high risk for recurrence in resected stages I to IIIA EGFR-M+ NSCLC.",
+        "These results suggest that patients with baseline ctDNA-positive or MRD-positive status were associated with poor DFS in curative resected stages I to IIIA EGFR-M+ NSCLC and that longitudinal monitoring of ctDNA, a noninvasive method, might be useful to detect early recurrence before radiological recurrence.",
+        "Between August 2015 and October 2017, a total of 278 patients with curative resected, stages I to IIIA (American Joint Committee on Cancer seventh version) common EGFR-M+ NSCLC were analyzed."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Hyun-Ae Jung",
+        "Bo Mi Ku",
+        "Yeon Jeong Kim",
+        "Sehhoon Park",
+        "Jong-Mu Sun",
+        "Se-Hoon Lee",
+        "Jin Seok Ahn",
+        "Jong Ho Cho",
+        "Hong Kwan Kim",
+        "Yong Soo Choi",
+        "Yoon-La Choi",
+        "Sun Hye Shin",
+        "Byeong-Ho Jeong",
+        "Sang-Won Um",
+        "Hojoong Kim",
+        "Kyunga Kim",
+        "Myung-Ju Ahn",
+        "Jingook Kim"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37308037/"
+    },
+    {
+      "pmid": "39999636",
+      "title": "Long-term outcomes of neoadjuvant gefitinib in resectable stage II-IIIA non-small cell lung cancer: A phase II, prospective cohort study.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Our previous study has showed the safety and efficacy of preoperative gefitinib in patients with stage II-IIIA resectable non-small cell lung cancer (NSCLC). This study aimed to report the long-term survival analysis and recurrent patterns.",
+        "This was a single-arm, phase II clinical trial. Patients with resectable stage II-IIIA NSCLC harboring EGFR exon 19 deletion or exon 21 L858R mutations were enrolled. Patients were administrated with preoperative gefitinib (250 mg once daily for 42 days), followed by surgical resection. The primary endpoint was objective response rate (ORR); secondary endpoints included the rate of major pathologic response (MPR), disease-free survival (DFS), overall survival (OS). MPR was defined as the presence of no more than 10 % viable tumor. Chi-square test was used to assess the differences in CNS recurrence rates and recurrent patterns.",
+        "Of the 33 intention-to-treat patients, ORR was 54.5 % (95 % confidence interval (CI), 37.7-70.7), and the rate of MPR was 24.2 % (95 % CI, 11.9-40.4). Among the investigated 28 patients, the median follow-up was 108.5 months. The median OS was 89.8 months (95 % CI, 44.37-NC), and the median DFS was 36.4 months (95 % CI, 18.9-NC). In addition, MPR continued to indicate significantly improved DFS, as well as OS (DFS, p = 0.015; OS, p = 0.037). The neoadjuvant gefitinib group showed prolonged DFS and OS than platinum doublet group (hazard ratio (HR) = 1.71, 95 % CI, 1.02-2.85, p = 0.038; and HR = 2.31; 95 % CI, 1.28-4.16, p = 0.0044, respectively). There was a significant difference in the distant recurrence patterns between the two groups (p = 0.032). Moreover, the gefitinib group showed similar overall brain metastasis rate than platinum doublet group (21.4 % versus 27.5 %).",
+        "With satisfying prognosis benefits and acceptable brain metastasis rate in long-term follow-up, gefitinib exhibited clinical viability for operable stage II-IIIA EGFR-mutant NSCLC over chemotherapy in the neoadjuvant setting. MPR was significantly associated with both prolonged DFS and OS, manifesting its potential as an essential endpoint for future neoadjuvant trials."
+      ],
+      "abstract": "Our previous study has showed the safety and efficacy of preoperative gefitinib in patients with stage II-IIIA resectable non-small cell lung cancer (NSCLC). This study aimed to report the long-term survival analysis and recurrent patterns.\n\nThis was a single-arm, phase II clinical trial. Patients with resectable stage II-IIIA NSCLC harboring EGFR exon 19 deletion or exon 21 L858R mutations were enrolled. Patients were administrated with preoperative gefitinib (250 mg once daily for 42 days), followed by surgical resection. The primary endpoint was objective response rate (ORR); secondary endpoints included the rate of major pathologic response (MPR), disease-free survival (DFS), overall survival (OS). MPR was defined as the presence of no more than 10 % viable tumor. Chi-square test was used to assess the differences in CNS recurrence rates and recurrent patterns.\n\nOf the 33 intention-to-treat patients, ORR was 54.5 % (95 % confidence interval (CI), 37.7-70.7), and the rate of MPR was 24.2 % (95 % CI, 11.9-40.4). Among the investigated 28 patients, the median follow-up was 108.5 months. The median OS was 89.8 months (95 % CI, 44.37-NC), and the median DFS was 36.4 months (95 % CI, 18.9-NC). In addition, MPR continued to indicate significantly improved DFS, as well as OS (DFS, p = 0.015; OS, p = 0.037). The neoadjuvant gefitinib group showed prolonged DFS and OS than platinum doublet group (hazard ratio (HR) = 1.71, 95 % CI, 1.02-2.85, p = 0.038; and HR = 2.31; 95 % CI, 1.28-4.16, p = 0.0044, respectively). There was a significant difference in the distant recurrence patterns between the two groups (p = 0.032). Moreover, the gefitinib group showed similar overall brain metastasis rate than platinum doublet group (21.4 % versus 27.5 %).\n\nWith satisfying prognosis benefits and acceptable brain metastasis rate in long-term follow-up, gefitinib exhibited clinical viability for operable stage II-IIIA EGFR-mutant NSCLC over chemotherapy in the neoadjuvant setting. MPR was significantly associated with both prolonged DFS and OS, manifesting its potential as an essential endpoint for future neoadjuvant trials.",
+      "evidence_sentences": [
+        "Our previous study has showed the safety and efficacy of preoperative gefitinib in patients with stage II-IIIA resectable non-small cell lung cancer (NSCLC).",
+        "With satisfying prognosis benefits and acceptable brain metastasis rate in long-term follow-up, gefitinib exhibited clinical viability for operable stage II-IIIA EGFR-mutant NSCLC over chemotherapy in the neoadjuvant setting.",
+        "Patients with resectable stage II-IIIA NSCLC harboring EGFR exon 19 deletion or exon 21 L858R mutations were enrolled."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Zhanming Ma",
+        "Fangqiu Fu",
+        "Yang Zhang",
+        "Haiquan Chen"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39999636/"
+    },
+    {
+      "pmid": "29789220",
+      "title": "ADAURA: Phase III, Double-blind, Randomized Study of Osimertinib Versus Placebo in EGFR Mutation-positive Early-stage NSCLC After Complete Surgical Resection.",
+      "journal": "Clinical lung cancer",
+      "abstract_sections": [
+        "Currently, the role of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors as adjuvant therapy for early-stage non-small-cell lung cancer after complete surgical tumor resection remains under investigation. We present the rationale and study design for the ADAURA (ClinicalTrials.gov identifier, NCT02511106) trial, a multicenter, double-blind, randomized, placebo-controlled study.",
+        "Study entry will be limited to adults aged ≥ 18 years (and in Japan and Taiwan, age ≥ 20 years) with primary nonsquamous stage IB-IIIA non-small-cell lung cancer with central confirmation of an EGFR exon 19 deletion or L858R mutation. Patients will be randomized 1:1 to receive osimertinib 80 mg once daily or placebo once daily until disease recurrence, a treatment discontinuation criterion is met, or patients achieve the maximum treatment duration of 3 years. The primary endpoint of this study is disease-free survival. Secondary endpoints include the disease-free survival rate at 2, 3, and 5 years, overall survival, overall survival rate at 5 years, and safety and tolerability. Health-related quality of life and pharmacokinetics will also be evaluated. The exploratory objectives include assessment of osimertinib efficacy in patients with a confirmed baseline T790M mutation status and postrecurrence outcomes, health resource use, and a comparison of plasma-derived circulating tumor DNA EGFR mutation status at baseline and at disease recurrence.",
+        "Study enrollment began in August 2015, and results are expected in the third quarter of 2021 (depending on the actual event rate)."
+      ],
+      "abstract": "Currently, the role of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors as adjuvant therapy for early-stage non-small-cell lung cancer after complete surgical tumor resection remains under investigation. We present the rationale and study design for the ADAURA (ClinicalTrials.gov identifier, NCT02511106) trial, a multicenter, double-blind, randomized, placebo-controlled study.\n\nStudy entry will be limited to adults aged ≥ 18 years (and in Japan and Taiwan, age ≥ 20 years) with primary nonsquamous stage IB-IIIA non-small-cell lung cancer with central confirmation of an EGFR exon 19 deletion or L858R mutation. Patients will be randomized 1:1 to receive osimertinib 80 mg once daily or placebo once daily until disease recurrence, a treatment discontinuation criterion is met, or patients achieve the maximum treatment duration of 3 years. The primary endpoint of this study is disease-free survival. Secondary endpoints include the disease-free survival rate at 2, 3, and 5 years, overall survival, overall survival rate at 5 years, and safety and tolerability. Health-related quality of life and pharmacokinetics will also be evaluated. The exploratory objectives include assessment of osimertinib efficacy in patients with a confirmed baseline T790M mutation status and postrecurrence outcomes, health resource use, and a comparison of plasma-derived circulating tumor DNA EGFR mutation status at baseline and at disease recurrence.\n\nStudy enrollment began in August 2015, and results are expected in the third quarter of 2021 (depending on the actual event rate).",
+      "evidence_sentences": [
+        "Study entry will be limited to adults aged ≥ 18 years (and in Japan and Taiwan, age ≥ 20 years) with primary nonsquamous stage IB-IIIA non-small-cell lung cancer with central confirmation of an EGFR exon 19 deletion or L858R mutation.",
+        "The exploratory objectives include assessment of osimertinib efficacy in patients with a confirmed baseline T790M mutation status and postrecurrence outcomes, health resource use, and a comparison of plasma-derived circulating tumor DNA EGFR mutation status at baseline and at disease recurrence.",
+        "Currently, the role of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors as adjuvant therapy for early-stage non-small-cell lung cancer after complete surgical tumor resection remains under investigation."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Yi-Long Wu",
+        "Roy S Herbst",
+        "Helen Mann",
+        "Yuri Rukazenkov",
+        "Marcelo Marotti",
+        "Masahiro Tsuboi"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29789220/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "328",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "36720083",
+        "32955177",
+        "40446184",
+        "40097663",
+        "34280355",
+        "37272535",
+        "32407216",
+        "39028931",
+        "37797140",
+        "41114991",
+        "33569340",
+        "39732365",
+        "36823150",
+        "39496545",
+        "39980151",
+        "39330007",
+        "40866342",
+        "40457471",
+        "36027483",
+        "38153722",
+        "39448200",
+        "34490338",
+        "38190787",
+        "36168085",
+        "18484217",
+        "37958305",
+        "37920491",
+        "37308037",
+        "39999636",
+        "29789220"
+      ],
+      "translationset": [
+        {
+          "from": "non-small cell lung cancer",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]"
+        },
+        {
+          "from": "nsclc",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc's\"[All Fields] OR \"nsclcs\"[All Fields]"
+        },
+        {
+          "from": "stage",
+          "to": "\"stage\"[All Fields] OR \"staged\"[All Fields] OR \"stages\"[All Fields] OR \"staging\"[All Fields] OR \"stagings\"[All Fields]"
+        },
+        {
+          "from": "egfr",
+          "to": "\"erbb receptors\"[Supplementary Concept] OR \"erbb receptors\"[All Fields] OR \"egfr\"[All Fields] OR \"egfr protein, human\"[Supplementary Concept] OR \"egfr protein, human\"[All Fields] OR \"erbb receptors\"[MeSH Terms] OR (\"erbb\"[All Fields] AND \"receptors\"[All Fields])"
+        }
+      ],
+      "querytranslation": "(\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]) AND (\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc s\"[All Fields] OR \"nsclcs\"[All Fields]) AND (\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc s\"[All Fields] OR \"nsclcs\"[All Fields]) AND (\"stage\"[All Fields] OR \"staged\"[All Fields] OR \"stages\"[All Fields] OR \"staging\"[All Fields] OR \"stagings\"[All Fields]) AND \"iiia\"[All Fields] AND (\"erbb receptors\"[Supplementary Concept] OR \"erbb receptors\"[All Fields] OR \"egfr\"[All Fields] OR \"egfr protein human\"[Supplementary Concept] OR \"egfr protein human\"[All Fields] OR \"erbb receptors\"[MeSH Terms] OR (\"erbb\"[All Fields] AND \"receptors\"[All Fields]))"
+    }
+  }
+}

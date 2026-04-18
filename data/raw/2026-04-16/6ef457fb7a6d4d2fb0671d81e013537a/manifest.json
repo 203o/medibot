@@ -1,0 +1,74 @@
+{
+  "run_id": "6ef457fb7a6d4d2fb0671d81e013537a",
+  "stored_at": "2026-04-16T18:07:46+00:00",
+  "query": "malaria malaria clinical question adults kenya turkana",
+  "query_fallbacks": [
+    "malaria malaria clinical question adults kenya turkana",
+    "malaria epidemiology adults Kenya Turkana",
+    "malaria burden adults Turkana Kenya",
+    "malaria disease patterns adults Kenya",
+    "malaria health outcomes adults Turkana",
+    "malaria malaria clinical question adults",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria clinical question adults kenya turkana",
+    "malaria malaria clinical question adults",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology adults Kenya Turkana",
+    "malaria burden adults Turkana Kenya",
+    "malaria disease patterns adults Kenya",
+    "malaria health outcomes adults Turkana"
+  ],
+  "keywords": [
+    "malaria",
+    "clinical",
+    "question",
+    "adults",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 3,
+    "clinicaltrials": 3,
+    "openalex": 30,
+    "semantic_hits": 70,
+    "indexed_chunks": 20
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology adults Kenya Turkana",
+      "malaria burden adults Turkana Kenya",
+      "malaria disease patterns adults Kenya",
+      "malaria health outcomes adults Turkana"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6ef457fb7a6d4d2fb0671d81e013537a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6ef457fb7a6d4d2fb0671d81e013537a\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6ef457fb7a6d4d2fb0671d81e013537a\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6ef457fb7a6d4d2fb0671d81e013537a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6ef457fb7a6d4d2fb0671d81e013537a\\combined.records.json"
+  }
+}

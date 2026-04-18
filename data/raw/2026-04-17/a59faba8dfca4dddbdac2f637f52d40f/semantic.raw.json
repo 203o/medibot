@@ -1,0 +1,938 @@
+{
+  "enabled": true,
+  "indexed_chunks": 153,
+  "matches": [
+    {
+      "id": "clinicaltrials:NCT05597852:0",
+      "score": 0.7466995716094971,
+      "metadata": {
+        "id": "clinicaltrials:NCT05597852:0",
+        "doc_id": "NCT05597852",
+        "source": "clinicaltrials",
+        "title": "Using Rectal Hydrogel Spacer for Salvage SABR in Prostate Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2022",
+        "url": "https://clinicaltrials.gov/study/NCT05597852",
+        "text": "Primary treatment of prostate cancer includes surgery or radiotherapy."
+      }
+    },
+    {
+      "id": "pubmed:29232270:0",
+      "score": 0.7386232018470764,
+      "metadata": {
+        "id": "pubmed:29232270:0",
+        "doc_id": "29232270",
+        "source": "pubmed",
+        "title": "Novel focal therapy treatment options for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29232270/",
+        "text": "Examine and discuss novel focal therapy treatment options for prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:28430624:2",
+      "score": 0.7235628962516785,
+      "metadata": {
+        "id": "pubmed:28430624:2",
+        "doc_id": "28430624",
+        "source": "pubmed",
+        "title": "Photosensitizers in prostate cancer therapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28430624/",
+        "text": "The search for new therapeutics for the treatment of prostate cancer is ongoing with a focus on the balance between the harms and benefits of treatment."
+      }
+    },
+    {
+      "id": "pubmed:29232270:2",
+      "score": 0.7200190424919128,
+      "metadata": {
+        "id": "pubmed:29232270:2",
+        "doc_id": "29232270",
+        "source": "pubmed",
+        "title": "Novel focal therapy treatment options for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29232270/",
+        "text": "Focal therapy of prostate cancer is being actively investigated."
+      }
+    },
+    {
+      "id": "pubmed:31412013:0",
+      "score": 0.706417441368103,
+      "metadata": {
+        "id": "pubmed:31412013:0",
+        "doc_id": "31412013",
+        "source": "pubmed",
+        "title": "Salvage Local Treatments After Focal Therapy for Prostate Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31412013/",
+        "text": "We performed a literature search to determine the treatment options available for prostate cancer after failure of focal therapy and their outcomes."
+      }
+    },
+    {
+      "id": "pubmed:38392072:0",
+      "score": 0.7037222981452942,
+      "metadata": {
+        "id": "pubmed:38392072:0",
+        "doc_id": "38392072",
+        "source": "pubmed",
+        "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38392072/",
+        "text": "Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01996696:0",
+      "score": 0.6996902823448181,
+      "metadata": {
+        "id": "clinicaltrials:NCT01996696:0",
+        "doc_id": "NCT01996696",
+        "source": "clinicaltrials",
+        "title": "Prevention of Metabolic Syndrome and Increased Weight Using Metformin Concurrent to Androgen Deprivation Therapy and Radiotherapy for Locally Advanced Adenocarcinoma of the Prostate",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT01996696",
+        "text": "In current clinical practice, an acceptable standard treatment for locally advanced prostate cancer is radiation therapy in combination with hormone therapy (called Treatment B or Group B in this study)."
+      }
+    },
+    {
+      "id": "pubmed:12113054:0",
+      "score": 0.696124792098999,
+      "metadata": {
+        "id": "pubmed:12113054:0",
+        "doc_id": "12113054",
+        "source": "pubmed",
+        "title": "Gene therapy for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12113054/",
+        "text": "Prostate cancer gene therapy has recently transition from preclinical studies to clinical trials with the goal of developing novel treatments for prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:40572035:0",
+      "score": 0.6943380832672119,
+      "metadata": {
+        "id": "pubmed:40572035:0",
+        "doc_id": "40572035",
+        "source": "pubmed",
+        "title": "The contemporary management of prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40572035/",
+        "text": "This review discusses the contemporary management of all stages of prostate cancer in the light of these modern developments, enabling holistic individualization of treatment, and describes the promise of future research to further improve outcomes."
+      }
+    },
+    {
+      "id": "pubmed:24336537:0",
+      "score": 0.6909053325653076,
+      "metadata": {
+        "id": "pubmed:24336537:0",
+        "doc_id": "24336537",
+        "source": "pubmed",
+        "title": "Treatment options for localized prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24336537/",
+        "text": "To describe treatment options for clinically localized prostate cancer: radical prostatectomy, prostate brachytherapy, external beam radiation, and active surveillance."
+      }
+    },
+    {
+      "id": "pubmed:24336537:1",
+      "score": 0.685190737247467,
+      "metadata": {
+        "id": "pubmed:24336537:1",
+        "doc_id": "24336537",
+        "source": "pubmed",
+        "title": "Treatment options for localized prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24336537/",
+        "text": "Prostate brachytherapy and active surveillance have evolved as new standard treatments of localized prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:39947976:0",
+      "score": 0.6825763583183289,
+      "metadata": {
+        "id": "pubmed:39947976:0",
+        "doc_id": "39947976",
+        "source": "pubmed",
+        "title": "Combination Therapies in Locally Advanced and Metastatic Hormone-sensitive Prostate Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39947976/",
+        "text": "The treatment landscape for advanced prostate cancer has evolved significantly over the past decade."
+      }
+    },
+    {
+      "id": "pubmed:29536949:1",
+      "score": 0.6780605316162109,
+      "metadata": {
+        "id": "pubmed:29536949:1",
+        "doc_id": "29536949",
+        "source": "pubmed",
+        "title": "The path forward in prostate cancer therapeutics.",
+        "study_type": "Editorial, Introductory Journal Article",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29536949/",
+        "text": "The last decade has seen remarkable advances in the treatment of prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:29297495:0",
+      "score": 0.6757215261459351,
+      "metadata": {
+        "id": "pubmed:29297495:0",
+        "doc_id": "29297495",
+        "source": "pubmed",
+        "title": "Treatment effects in prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29297495/",
+        "text": "Nonsurgical treatments for prostate cancer include androgen-deprivation therapy (ADT), radiation therapy (RT), ablative therapies, chemotherapy, and newly emerging immunotherapies."
+      }
+    },
+    {
+      "id": "pubmed:12113054:2",
+      "score": 0.6746172308921814,
+      "metadata": {
+        "id": "pubmed:12113054:2",
+        "doc_id": "12113054",
+        "source": "pubmed",
+        "title": "Gene therapy for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12113054/",
+        "text": "The greatest challenge in treating advanced prostate cancer is therapeutic access to and the elimination of metastases."
+      }
+    },
+    {
+      "id": "pubmed:38132369:0",
+      "score": 0.672904908657074,
+      "metadata": {
+        "id": "pubmed:38132369:0",
+        "doc_id": "38132369",
+        "source": "pubmed",
+        "title": "Exploring Men's Experiences with Follow-Up Care following Primary Treatment for Prostate Cancer in Atlantic Canada: A Qualitative Study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38132369/",
+        "text": "Prostate cancer is a common and life-altering condition among Canadian men, yet little is known about how follow-up care is provided to those who have completed treatment."
+      }
+    },
+    {
+      "id": "pubmed:12113054:1",
+      "score": 0.6690840125083923,
+      "metadata": {
+        "id": "pubmed:12113054:1",
+        "doc_id": "12113054",
+        "source": "pubmed",
+        "title": "Gene therapy for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12113054/",
+        "text": "This review details two aspects of prostate cancer gene therapy, the types of delivery systems under development and specific categories of therapeutic genes available with an emphasis on the mechanism of action of specific gene therapy strategies."
+      }
+    },
+    {
+      "id": "pubmed:35037527:1",
+      "score": 0.668746292591095,
+      "metadata": {
+        "id": "pubmed:35037527:1",
+        "doc_id": "35037527",
+        "source": "pubmed",
+        "title": "Prostate cancer immunotherapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35037527/",
+        "text": "Medical treatment for prostate cancer (PC) targets hormonal pathways used by malignant cells."
+      }
+    },
+    {
+      "id": "pubmed:35877260:1",
+      "score": 0.6639361381530762,
+      "metadata": {
+        "id": "pubmed:35877260:1",
+        "doc_id": "35877260",
+        "source": "pubmed",
+        "title": "Emerging Biomarker-Guided Therapies in Prostate Cancer.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35877260/",
+        "text": "Progress in the understanding of the biology of prostate cancer has provided an opportunity for a more refined and personalized treatment selection process."
+      }
+    },
+    {
+      "id": "pubmed:31540791:1",
+      "score": 0.6627205014228821,
+      "metadata": {
+        "id": "pubmed:31540791:1",
+        "doc_id": "31540791",
+        "source": "pubmed",
+        "title": "Intensity-modulated fractionated radiotherapy versus stereotactic body radiotherapy for prostate cancer (PACE-B): acute toxicity findings from an international, randomised, open-label, phase 3, non-inferiority trial.",
+        "study_type": "Clinical Trial, Phase III, Comparative Study, Equivalence Trial, Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31540791/",
+        "text": "Localised prostate cancer is commonly treated with external-beam radiotherapy."
+      }
+    },
+    {
+      "id": "pubmed:32091336:2",
+      "score": 0.6621527671813965,
+      "metadata": {
+        "id": "pubmed:32091336:2",
+        "doc_id": "32091336",
+        "source": "pubmed",
+        "title": "Prostate Cancer: Biology, Incidence, Detection Methods, Treatment Methods, and Vaccines.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32091336/",
+        "text": "Therapy for hormone- refractory prostate cancer is making progress, for almost all men with metastases will proceed to hormone-refractory prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:36397730:2",
+      "score": 0.6604070067405701,
+      "metadata": {
+        "id": "pubmed:36397730:2",
+        "doc_id": "36397730",
+        "source": "pubmed",
+        "title": "A population-based study of factors associated with systemic treatment in advanced prostate cancer decedents.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36397730/",
+        "text": "In this cohort of prostate cancer-decedents, real-world uptake of novel prostate cancer therapies occurred at substantially higher rates for patients receiving care at Regional Cancer Centers, reinforcing the potential benefits for treatment access for patients referred to specialist centers."
+      }
+    },
+    {
+      "id": "pubmed:30865133:1",
+      "score": 0.6578777432441711,
+      "metadata": {
+        "id": "pubmed:30865133:1",
+        "doc_id": "30865133",
+        "source": "pubmed",
+        "title": "Contemporary treatments in prostate cancer focal therapy.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30865133/",
+        "text": "Prostate cancer focal therapy is an attractive option for well-selected patients because of its low complication profile; however, long-term oncologic outcome is still lacking and early recurrence rates are high, limiting the ability of most urologic associations from endorsing its routine use."
+      }
+    },
+    {
+      "id": "pubmed:38392072:1",
+      "score": 0.6503840684890747,
+      "metadata": {
+        "id": "pubmed:38392072:1",
+        "doc_id": "38392072",
+        "source": "pubmed",
+        "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38392072/",
+        "text": "In this review, we summarize the available data addressing key therapeutic areas along the disease continuum and focus on practical aspects for general practitioners in oncology managing patients with metastatic prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:35662659:1",
+      "score": 0.6496087312698364,
+      "metadata": {
+        "id": "pubmed:35662659:1",
+        "doc_id": "35662659",
+        "source": "pubmed",
+        "title": "External beam radiation therapy treatment factors prognostic of biochemical failure free survival: A multi-institutional retrospective study for prostate cancer.",
+        "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35662659/",
+        "text": "This study reviewed patients diagnosed with localized prostate adenocarcinoma between 2005 and 2016, and treated with EBRT on a Varian linear accelerator at one of the four cancer centers in Alberta, Canada."
+      }
+    },
+    {
+      "id": "pubmed:40126447:0",
+      "score": 0.6392294764518738,
+      "metadata": {
+        "id": "pubmed:40126447:0",
+        "doc_id": "40126447",
+        "source": "pubmed",
+        "title": "Treatment intensification in metastatic castration-sensitive prostate cancer: a real-world study in Alberta, Canada.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40126447/",
+        "text": "To assess the current status of and factors associated with treatment intensification (TI) (with androgen receptor pathway inhibitors [ARPIs] and/or docetaxel) for metastatic castration-sensitive prostate cancer (mCSPC) in Canada."
+      }
+    },
+    {
+      "id": "pubmed:35246609:1",
+      "score": 0.6336089968681335,
+      "metadata": {
+        "id": "pubmed:35246609:1",
+        "doc_id": "35246609",
+        "source": "pubmed",
+        "title": "Focal prostate cancer therapy in the era of multiparametric MRI: a review of options and outcomes.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35246609/",
+        "text": "The goal of prostate cancer focal therapy is to achieve oncologic control while reducing the rate of adverse events associated with whole-gland treatments."
+      }
+    },
+    {
+      "id": "pubmed:39306478:0",
+      "score": 0.630677342414856,
+      "metadata": {
+        "id": "pubmed:39306478:0",
+        "doc_id": "39306478",
+        "source": "pubmed",
+        "title": "Intensification Approaches and Treatment Sequencing in Metastatic Castration-resistant Prostate Cancer: A Systematic Review.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39306478/",
+        "text": "Recently, research on treatment intensification has gathered momentum, and three novel therapy combinations were approved for metastatic castration-resistant prostate cancer (mCRPC)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00003312:0",
+      "score": 0.6303714513778687,
+      "metadata": {
+        "id": "clinicaltrials:NCT00003312:0",
+        "doc_id": "NCT00003312",
+        "source": "clinicaltrials",
+        "title": "Brachytherapy in Treating Patients With Prostate Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00003312",
+        "text": "PURPOSE: Phase II trial to study the effectiveness of brachytherapy in treating patients with stage I or stage II prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:38261043:0",
+      "score": 0.6287407875061035,
+      "metadata": {
+        "id": "pubmed:38261043:0",
+        "doc_id": "38261043",
+        "source": "pubmed",
+        "title": "Functional Outcomes After Localized Prostate Cancer Treatment.",
+        "study_type": "Comparative Study, Journal Article, Observational Study, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38261043/",
+        "text": "To compare rates of adverse functional outcomes between specific treatments for localized prostate cancer."
+      }
+    },
+    {
+      "id": "pubmed:31412013:1",
+      "score": 0.627555251121521,
+      "metadata": {
+        "id": "pubmed:31412013:1",
+        "doc_id": "31412013",
+        "source": "pubmed",
+        "title": "Salvage Local Treatments After Focal Therapy for Prostate Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31412013/",
+        "text": "Whether focal therapy (FT) for prostate cancer (PC) jeopardizes outcomes from salvage treatments is a matter of debate still to be resolved."
+      }
+    },
+    {
+      "id": "pubmed:35662659:0",
+      "score": 0.6271564960479736,
+      "metadata": {
+        "id": "pubmed:35662659:0",
+        "doc_id": "35662659",
+        "source": "pubmed",
+        "title": "External beam radiation therapy treatment factors prognostic of biochemical failure free survival: A multi-institutional retrospective study for prostate cancer.",
+        "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35662659/",
+        "text": "The goal of this work is to identify specific treatment planning and delivery features that are prognostic of biochemical failure-free survival (BFFS) for prostate cancer patients treated with external beam radiotherapy (EBRT)."
+      }
+    },
+    {
+      "id": "pubmed:39947976:1",
+      "score": 0.6267924904823303,
+      "metadata": {
+        "id": "pubmed:39947976:1",
+        "doc_id": "39947976",
+        "source": "pubmed",
+        "title": "Combination Therapies in Locally Advanced and Metastatic Hormone-sensitive Prostate Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39947976/",
+        "text": "Articles were selected by the authors based on their scientific merit, clinical impact, and relevance to provide a summary of the evidence surrounding combination therapy in locally advanced prostate cancer and mHSPC."
+      }
+    },
+    {
+      "id": "pubmed:36718727:0",
+      "score": 0.625165581703186,
+      "metadata": {
+        "id": "pubmed:36718727:0",
+        "doc_id": "36718727",
+        "source": "pubmed",
+        "title": "Prostate and metastasis-directed focal therapy in prostate cancer: hype or hope?",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36718727/",
+        "text": "We searched the literature via PubMed, MEDLINE, and Embase for studies from 2014 to the present addressing focal therapy with non-palliative intent in metastatic prostate cancer patients, emphasizing prospective trials when available."
+      }
+    },
+    {
+      "id": "pubmed:18382236:0",
+      "score": 0.6247590780258179,
+      "metadata": {
+        "id": "pubmed:18382236:0",
+        "doc_id": "18382236",
+        "source": "pubmed",
+        "title": "Focal therapy for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18382236/",
+        "text": "For a select cohort of patients with low-risk unifocal or unilateral prostate cancer lesions, a number of ablative treatment options for focal therapy are available with cryotherapy having the most clinical experience."
+      }
+    },
+    {
+      "id": "pubmed:27776423:1",
+      "score": 0.6235612034797668,
+      "metadata": {
+        "id": "pubmed:27776423:1",
+        "doc_id": "27776423",
+        "source": "pubmed",
+        "title": "MRI-guided focal therapy of prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27776423/",
+        "text": "Focal therapy affords a middleground option for patients with low- to intermediate-grade prostate cancer by providing a means of keeping their cancer at bay while avoiding the negative consequences of radical therapies."
+      }
+    },
+    {
+      "id": "pubmed:38261043:1",
+      "score": 0.6232869625091553,
+      "metadata": {
+        "id": "pubmed:38261043:1",
+        "doc_id": "38261043",
+        "source": "pubmed",
+        "title": "Functional Outcomes After Localized Prostate Cancer Treatment.",
+        "study_type": "Comparative Study, Journal Article, Observational Study, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38261043/",
+        "text": "Adverse outcomes associated with treatments for localized prostate cancer remain unclear."
+      }
+    },
+    {
+      "id": "pubmed:18382236:2",
+      "score": 0.6227153539657593,
+      "metadata": {
+        "id": "pubmed:18382236:2",
+        "doc_id": "18382236",
+        "source": "pubmed",
+        "title": "Focal therapy for prostate cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18382236/",
+        "text": "Nowadays the treatment paradigm for localized prostate cancer is to distinguish patients with clinically relevant cancers who may benefit from radical treatment, or perhaps an organ-sparing approach, from the remainder who may not need intervention at the time of diagnosis."
+      }
+    },
+    {
+      "id": "pubmed:39643549:0",
+      "score": 0.622651994228363,
+      "metadata": {
+        "id": "pubmed:39643549:0",
+        "doc_id": "39643549",
+        "source": "pubmed",
+        "title": "Triplet or Doublet Therapy in Metastatic Hormone-sensitive Prostate Cancer Patients: An Updated Network Meta-analysis Including ARANOTE Data.",
+        "study_type": "Journal Article, Network Meta-Analysis",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39643549/",
+        "text": "The treatment landscape for metastatic hormone-sensitive prostate cancer (mHSPC) has been extended by another phase 3 randomized control trial (ARANOTE) demonstrating favorable outcomes of a doublet therapy combining the androgen receptor pathway inhibitor (ARPI) darolutamide with androgen deprivation therapy (ADT) over ADT monotherapy."
+      }
+    },
+    {
+      "id": "pubmed:35469527:0",
+      "score": 0.6179684400558472,
+      "metadata": {
+        "id": "pubmed:35469527:0",
+        "doc_id": "35469527",
+        "source": "pubmed",
+        "title": "Cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy alone for the treatment of metastatic castration-sensitive prostate cancer in Canada.",
+        "study_type": "Journal Article, Network Meta-Analysis",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35469527/",
+        "text": "There are no direct comparisons of the relative cost-effectiveness of second-generation anti-androgens (enzalutamide and apalutamide) used in managing metastatic castration-sensitive prostate cancer (mCSPC) in Canada."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05597852",
+      "title": "Using Rectal Hydrogel Spacer for Salvage SABR in Prostate Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT05597852",
+      "semantic_score": 0.7466995716094971,
+      "matched_sentences": [
+        "Primary treatment of prostate cancer includes surgery or radiotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29232270",
+      "title": "Novel focal therapy treatment options for prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29232270/",
+      "semantic_score": 0.7386232018470764,
+      "matched_sentences": [
+        "Examine and discuss novel focal therapy treatment options for prostate cancer.",
+        "Focal therapy of prostate cancer is being actively investigated."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28430624",
+      "title": "Photosensitizers in prostate cancer therapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28430624/",
+      "semantic_score": 0.7235628962516785,
+      "matched_sentences": [
+        "The search for new therapeutics for the treatment of prostate cancer is ongoing with a focus on the balance between the harms and benefits of treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31412013",
+      "title": "Salvage Local Treatments After Focal Therapy for Prostate Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31412013/",
+      "semantic_score": 0.706417441368103,
+      "matched_sentences": [
+        "We performed a literature search to determine the treatment options available for prostate cancer after failure of focal therapy and their outcomes.",
+        "Whether focal therapy (FT) for prostate cancer (PC) jeopardizes outcomes from salvage treatments is a matter of debate still to be resolved."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38392072",
+      "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38392072/",
+      "semantic_score": 0.7037222981452942,
+      "matched_sentences": [
+        "Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes.",
+        "In this review, we summarize the available data addressing key therapeutic areas along the disease continuum and focus on practical aspects for general practitioners in oncology managing patients with metastatic prostate cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01996696",
+      "title": "Prevention of Metabolic Syndrome and Increased Weight Using Metformin Concurrent to Androgen Deprivation Therapy and Radiotherapy for Locally Advanced Adenocarcinoma of the Prostate",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT01996696",
+      "semantic_score": 0.6996902823448181,
+      "matched_sentences": [
+        "In current clinical practice, an acceptable standard treatment for locally advanced prostate cancer is radiation therapy in combination with hormone therapy (called Treatment B or Group B in this study)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12113054",
+      "title": "Gene therapy for prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12113054/",
+      "semantic_score": 0.696124792098999,
+      "matched_sentences": [
+        "Prostate cancer gene therapy has recently transition from preclinical studies to clinical trials with the goal of developing novel treatments for prostate cancer.",
+        "The greatest challenge in treating advanced prostate cancer is therapeutic access to and the elimination of metastases.",
+        "This review details two aspects of prostate cancer gene therapy, the types of delivery systems under development and specific categories of therapeutic genes available with an emphasis on the mechanism of action of specific gene therapy strategies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40572035",
+      "title": "The contemporary management of prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40572035/",
+      "semantic_score": 0.6943380832672119,
+      "matched_sentences": [
+        "This review discusses the contemporary management of all stages of prostate cancer in the light of these modern developments, enabling holistic individualization of treatment, and describes the promise of future research to further improve outcomes."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24336537",
+      "title": "Treatment options for localized prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24336537/",
+      "semantic_score": 0.6909053325653076,
+      "matched_sentences": [
+        "To describe treatment options for clinically localized prostate cancer: radical prostatectomy, prostate brachytherapy, external beam radiation, and active surveillance.",
+        "Prostate brachytherapy and active surveillance have evolved as new standard treatments of localized prostate cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39947976",
+      "title": "Combination Therapies in Locally Advanced and Metastatic Hormone-sensitive Prostate Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39947976/",
+      "semantic_score": 0.6825763583183289,
+      "matched_sentences": [
+        "The treatment landscape for advanced prostate cancer has evolved significantly over the past decade.",
+        "Articles were selected by the authors based on their scientific merit, clinical impact, and relevance to provide a summary of the evidence surrounding combination therapy in locally advanced prostate cancer and mHSPC."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29536949",
+      "title": "The path forward in prostate cancer therapeutics.",
+      "study_type": "Editorial, Introductory Journal Article",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29536949/",
+      "semantic_score": 0.6780605316162109,
+      "matched_sentences": [
+        "The last decade has seen remarkable advances in the treatment of prostate cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29297495",
+      "title": "Treatment effects in prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29297495/",
+      "semantic_score": 0.6757215261459351,
+      "matched_sentences": [
+        "Nonsurgical treatments for prostate cancer include androgen-deprivation therapy (ADT), radiation therapy (RT), ablative therapies, chemotherapy, and newly emerging immunotherapies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38132369",
+      "title": "Exploring Men's Experiences with Follow-Up Care following Primary Treatment for Prostate Cancer in Atlantic Canada: A Qualitative Study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38132369/",
+      "semantic_score": 0.672904908657074,
+      "matched_sentences": [
+        "Prostate cancer is a common and life-altering condition among Canadian men, yet little is known about how follow-up care is provided to those who have completed treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35037527",
+      "title": "Prostate cancer immunotherapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35037527/",
+      "semantic_score": 0.668746292591095,
+      "matched_sentences": [
+        "Medical treatment for prostate cancer (PC) targets hormonal pathways used by malignant cells."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35877260",
+      "title": "Emerging Biomarker-Guided Therapies in Prostate Cancer.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35877260/",
+      "semantic_score": 0.6639361381530762,
+      "matched_sentences": [
+        "Progress in the understanding of the biology of prostate cancer has provided an opportunity for a more refined and personalized treatment selection process."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31540791",
+      "title": "Intensity-modulated fractionated radiotherapy versus stereotactic body radiotherapy for prostate cancer (PACE-B): acute toxicity findings from an international, randomised, open-label, phase 3, non-inferiority trial.",
+      "study_type": "Clinical Trial, Phase III, Comparative Study, Equivalence Trial, Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31540791/",
+      "semantic_score": 0.6627205014228821,
+      "matched_sentences": [
+        "Localised prostate cancer is commonly treated with external-beam radiotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32091336",
+      "title": "Prostate Cancer: Biology, Incidence, Detection Methods, Treatment Methods, and Vaccines.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32091336/",
+      "semantic_score": 0.6621527671813965,
+      "matched_sentences": [
+        "Therapy for hormone- refractory prostate cancer is making progress, for almost all men with metastases will proceed to hormone-refractory prostate cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36397730",
+      "title": "A population-based study of factors associated with systemic treatment in advanced prostate cancer decedents.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36397730/",
+      "semantic_score": 0.6604070067405701,
+      "matched_sentences": [
+        "In this cohort of prostate cancer-decedents, real-world uptake of novel prostate cancer therapies occurred at substantially higher rates for patients receiving care at Regional Cancer Centers, reinforcing the potential benefits for treatment access for patients referred to specialist centers."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30865133",
+      "title": "Contemporary treatments in prostate cancer focal therapy.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30865133/",
+      "semantic_score": 0.6578777432441711,
+      "matched_sentences": [
+        "Prostate cancer focal therapy is an attractive option for well-selected patients because of its low complication profile; however, long-term oncologic outcome is still lacking and early recurrence rates are high, limiting the ability of most urologic associations from endorsing its routine use."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35662659",
+      "title": "External beam radiation therapy treatment factors prognostic of biochemical failure free survival: A multi-institutional retrospective study for prostate cancer.",
+      "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35662659/",
+      "semantic_score": 0.6496087312698364,
+      "matched_sentences": [
+        "This study reviewed patients diagnosed with localized prostate adenocarcinoma between 2005 and 2016, and treated with EBRT on a Varian linear accelerator at one of the four cancer centers in Alberta, Canada.",
+        "The goal of this work is to identify specific treatment planning and delivery features that are prognostic of biochemical failure-free survival (BFFS) for prostate cancer patients treated with external beam radiotherapy (EBRT)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40126447",
+      "title": "Treatment intensification in metastatic castration-sensitive prostate cancer: a real-world study in Alberta, Canada.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40126447/",
+      "semantic_score": 0.6392294764518738,
+      "matched_sentences": [
+        "To assess the current status of and factors associated with treatment intensification (TI) (with androgen receptor pathway inhibitors [ARPIs] and/or docetaxel) for metastatic castration-sensitive prostate cancer (mCSPC) in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35246609",
+      "title": "Focal prostate cancer therapy in the era of multiparametric MRI: a review of options and outcomes.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35246609/",
+      "semantic_score": 0.6336089968681335,
+      "matched_sentences": [
+        "The goal of prostate cancer focal therapy is to achieve oncologic control while reducing the rate of adverse events associated with whole-gland treatments."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39306478",
+      "title": "Intensification Approaches and Treatment Sequencing in Metastatic Castration-resistant Prostate Cancer: A Systematic Review.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39306478/",
+      "semantic_score": 0.630677342414856,
+      "matched_sentences": [
+        "Recently, research on treatment intensification has gathered momentum, and three novel therapy combinations were approved for metastatic castration-resistant prostate cancer (mCRPC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00003312",
+      "title": "Brachytherapy in Treating Patients With Prostate Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00003312",
+      "semantic_score": 0.6303714513778687,
+      "matched_sentences": [
+        "PURPOSE: Phase II trial to study the effectiveness of brachytherapy in treating patients with stage I or stage II prostate cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38261043",
+      "title": "Functional Outcomes After Localized Prostate Cancer Treatment.",
+      "study_type": "Comparative Study, Journal Article, Observational Study, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38261043/",
+      "semantic_score": 0.6287407875061035,
+      "matched_sentences": [
+        "To compare rates of adverse functional outcomes between specific treatments for localized prostate cancer.",
+        "Adverse outcomes associated with treatments for localized prostate cancer remain unclear."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36718727",
+      "title": "Prostate and metastasis-directed focal therapy in prostate cancer: hype or hope?",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36718727/",
+      "semantic_score": 0.625165581703186,
+      "matched_sentences": [
+        "We searched the literature via PubMed, MEDLINE, and Embase for studies from 2014 to the present addressing focal therapy with non-palliative intent in metastatic prostate cancer patients, emphasizing prospective trials when available."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18382236",
+      "title": "Focal therapy for prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18382236/",
+      "semantic_score": 0.6247590780258179,
+      "matched_sentences": [
+        "For a select cohort of patients with low-risk unifocal or unilateral prostate cancer lesions, a number of ablative treatment options for focal therapy are available with cryotherapy having the most clinical experience.",
+        "Nowadays the treatment paradigm for localized prostate cancer is to distinguish patients with clinically relevant cancers who may benefit from radical treatment, or perhaps an organ-sparing approach, from the remainder who may not need intervention at the time of diagnosis."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27776423",
+      "title": "MRI-guided focal therapy of prostate cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27776423/",
+      "semantic_score": 0.6235612034797668,
+      "matched_sentences": [
+        "Focal therapy affords a middleground option for patients with low- to intermediate-grade prostate cancer by providing a means of keeping their cancer at bay while avoiding the negative consequences of radical therapies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39643549",
+      "title": "Triplet or Doublet Therapy in Metastatic Hormone-sensitive Prostate Cancer Patients: An Updated Network Meta-analysis Including ARANOTE Data.",
+      "study_type": "Journal Article, Network Meta-Analysis",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39643549/",
+      "semantic_score": 0.622651994228363,
+      "matched_sentences": [
+        "The treatment landscape for metastatic hormone-sensitive prostate cancer (mHSPC) has been extended by another phase 3 randomized control trial (ARANOTE) demonstrating favorable outcomes of a doublet therapy combining the androgen receptor pathway inhibitor (ARPI) darolutamide with androgen deprivation therapy (ADT) over ADT monotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35469527",
+      "title": "Cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy alone for the treatment of metastatic castration-sensitive prostate cancer in Canada.",
+      "study_type": "Journal Article, Network Meta-Analysis",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35469527/",
+      "semantic_score": 0.6179684400558472,
+      "matched_sentences": [
+        "There are no direct comparisons of the relative cost-effectiveness of second-generation anti-androgens (enzalutamide and apalutamide) used in managing metastatic castration-sensitive prostate cancer (mCSPC) in Canada."
+      ]
+    }
+  ]
+}

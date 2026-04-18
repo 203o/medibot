@@ -1,0 +1,64 @@
+{
+  "run_id": "71d67ad51cb84a45a5c3f5c3e54e50f3",
+  "stored_at": "2026-04-18T17:03:52+00:00",
+  "query": "non-small cell lung cancer (nsclc) non small cell lung",
+  "query_fallbacks": [
+    "non-small cell lung cancer (nsclc) non small cell lung",
+    "non-small cell lung cancer (nsclc) non small cell treatment",
+    "non-small cell lung cancer (nsclc)"
+  ],
+  "heuristic_fallbacks": [
+    "non-small cell lung cancer (nsclc) non small cell lung",
+    "non-small cell lung cancer (nsclc) non small cell treatment",
+    "non-small cell lung cancer (nsclc)"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "non-small cell lung cancer (nsclc)",
+    "non",
+    "small",
+    "cell",
+    "lung",
+    "cancer",
+    "stage",
+    "iiia",
+    "egfr",
+    "negative",
+    "alk",
+    "post",
+    "chemoradiation",
+    "durvalumab",
+    "surveillance"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 40,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\71d67ad51cb84a45a5c3f5c3e54e50f3\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\71d67ad51cb84a45a5c3f5c3e54e50f3\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\71d67ad51cb84a45a5c3f5c3e54e50f3\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\71d67ad51cb84a45a5c3f5c3e54e50f3\\combined.records.json"
+  }
+}

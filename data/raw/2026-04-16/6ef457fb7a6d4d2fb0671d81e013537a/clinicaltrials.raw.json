@@ -1,0 +1,2607 @@
+{
+  "query": "malaria malaria clinical question adults kenya turkana",
+  "selected_query": "malaria malaria clinical question adults",
+  "attempted_queries": [
+    {
+      "query": "malaria malaria clinical question adults kenya turkana",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria malaria clinical question adults kenya turkana",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria epidemiology adults Kenya Turkana",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria epidemiology adults Kenya Turkana",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria burden adults Turkana Kenya",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria burden adults Turkana Kenya",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria disease patterns adults Kenya",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria disease patterns adults Kenya",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria health outcomes adults Turkana",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria health outcomes adults Turkana",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria malaria clinical question adults",
+      "location_filter": "kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria malaria clinical question adults",
+      "location_filter": "",
+      "count": 3
+    }
+  ],
+  "location": "kenya turkana",
+  "records": [
+    {
+      "nct_id": "NCT06823765",
+      "title": "Can Feedback From a Large Language Model Improve Health Care Quality?",
+      "brief_summary": "The goal of this study is to learn if computer-assisted advice can help improve patient care in Nigerian health clinics. The main question it aims to answer is: does giving healthcare workers instant computer feedback help them make better decisions about patient care?\n\nResearchers will compare patient care notes written by healthcare workers before and after they receive computer feedback to see if the feedback improves care quality. A doctor who doesn't know if feedback was given will review these notes.\n\nParticipants will:\n\n* Be seen by a community healthcare worker who uses the computer feedback system\n* Be treated by a fully trained medical doctor\n* Get tested for malaria, anemia, or urinary tract infections if they have certain symptoms",
+      "detailed_description": "This project tests whether Large Language Models (LLMs) can improve patient care in Nigerian primary care clinics by giving customized and instant feedback to the provider in natural language. An LLM-based tool integrated into an electronic patient record management system provides \"second opinions\" to community health extension workers (CHEWs) at two clinics in Nigeria. These second opinions are intended to mirror what a reviewing physician might advise the CHEWs after seeing or hearing their initial report on a patient.\n\nFor the main analysis, this study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received. The patient is also seen by a fully trained medical officer who is in charge of patient care. The MO conducts a blinded review of the CHEW's patient notes to measures changes in the CHEW's care as a result of the LLM feedback. The data comes from the information captured in the electronic medical record (EMR) of the patient and from survey data collected from CHEWs, reviewing MOs, and a panel of reviewing Medical Doctors.",
+      "evidence_sentences": [
+        "Participants will: * Be seen by a community healthcare worker who uses the computer feedback system * Be treated by a fully trained medical doctor * Get tested for malaria, anemia, or urinary tract infections if they have certain symptoms This project tests whether Large Language Models (LLMs) can improve patient care in Nigerian primary care clinics by giving customized and instant feedback to the provider in natural language.",
+        "The main question it aims to answer is: does giving healthcare workers instant computer feedback help them make better decisions about patient care?",
+        "For the main analysis, this study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2026-01-30",
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "adults",
+        "kenya",
+        "turkana"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06823765",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06823765",
+            "orgStudyIdInfo": {
+              "id": "2000035990"
+            },
+            "organization": {
+              "fullName": "Yale University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Can Feedback From a Large Language Model Improve Health Care Quality?",
+            "officialTitle": "A Pilot Ptudy of an LLM Tool to Support Frontline Health Workers in Low-Resource Settings"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-04",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-01-30",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-10-17",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2025-10-17",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2025-01-23",
+            "studyFirstSubmitQcDate": "2025-02-06",
+            "studyFirstPostDateStruct": {
+              "date": "2025-02-12",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2026-01-30",
+            "lastUpdatePostDateStruct": {
+              "date": "2026-02-03",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Jason Abaluck",
+              "investigatorTitle": "Professor of Economics, Yale School of Management",
+              "investigatorAffiliation": "Yale University"
+            },
+            "leadSponsor": {
+              "name": "Yale University",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "EHA Clinics Nigeria",
+                "class": "UNKNOWN"
+              },
+              {
+                "name": "World Bank",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Pennsylvania",
+                "class": "OTHER"
+              },
+              {
+                "name": "George Washington University",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this study is to learn if computer-assisted advice can help improve patient care in Nigerian health clinics. The main question it aims to answer is: does giving healthcare workers instant computer feedback help them make better decisions about patient care?\n\nResearchers will compare patient care notes written by healthcare workers before and after they receive computer feedback to see if the feedback improves care quality. A doctor who doesn't know if feedback was given will review these notes.\n\nParticipants will:\n\n* Be seen by a community healthcare worker who uses the computer feedback system\n* Be treated by a fully trained medical doctor\n* Get tested for malaria, anemia, or urinary tract infections if they have certain symptoms",
+            "detailedDescription": "This project tests whether Large Language Models (LLMs) can improve patient care in Nigerian primary care clinics by giving customized and instant feedback to the provider in natural language. An LLM-based tool integrated into an electronic patient record management system provides \"second opinions\" to community health extension workers (CHEWs) at two clinics in Nigeria. These second opinions are intended to mirror what a reviewing physician might advise the CHEWs after seeing or hearing their initial report on a patient.\n\nFor the main analysis, this study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received. The patient is also seen by a fully trained medical officer who is in charge of patient care. The MO conducts a blinded review of the CHEW's patient notes to measures changes in the CHEW's care as a result of the LLM feedback. The data comes from the information captured in the electronic medical record (EMR) of the patient and from survey data collected from CHEWs, reviewing MOs, and a panel of reviewing Medical Doctors."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "All Conditions"
+            ],
+            "keywords": [
+              "Large Language Models",
+              "Primary Care",
+              "Nigeria"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "interventionModelDescription": "For the main analysis, the study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received. The patient is also seen by a fully trained medical officer who is in charge of patient care. The MO conducts a blinded review of the CHEW's patient notes to measures changes in the CHEW's care as a result of the LLM feedback. The data comes from the information captured in the electronic medical record (EMR) of the patient and from survey data collected from CHEWs, reviewing MOs, and a panel of reviewing Medical Doctors.",
+              "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+              "maskingInfo": {
+                "masking": "NONE",
+                "maskingDescription": "The Medical Officers and the panel of Medical Doctors are both blinded to which note has been generated with LLM assistance."
+              }
+            },
+            "enrollmentInfo": {
+              "count": 491,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Clinical Assessment with and without LLMs",
+                "type": "EXPERIMENTAL",
+                "description": "The investigators employ a within-patient design. Patients receive two sequential assessments from a Community Health Extension Worker: first without and then with Large Language Model assistance.",
+                "interventionNames": [
+                  "Other: Large Language Model Clinical Decision Support"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Large Language Model Clinical Decision Support",
+                "description": "A Large Language Model (LLM) integrated into the clinic's Electronic Medical Record system provides real-time feedback on patient assessments. Community Health Extension Workers first create a standard SOAP note, submit it to the LLM, and receive detailed feedback and key recommendations. They can then update their assessment based on this feedback. All final treatment decisions are made by Medical Officers who independently evaluate patients.",
+                "armGroupLabels": [
+                  "Clinical Assessment with and without LLMs"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Indicator for an Error in the Treatment plan (with the Potential for Harm)",
+                "description": "During SOAP note evaluation, the MO is asked to indicate whether the treatment plan for the patient contains any errors, conditional on the MO's own diagnosis. This is coded as 1 if the MO indicates there is an error and 0 otherwise.\n\nThe introductory text (here for SOAP Note A) is: Please evaluate whether the treatment in SOAP Note A is appropriate for this patient's condition. Please base this on your own diagnosis, not the CHEW's diagnosis in SOAP Note A.\n\nThis is followed by the question: Is the treatment plan for the patient in SOAP Note A completely appropriate given your own diagnosis (accounting for conditional treatments based on medical tests)? Answer \"No\" if the patient should receive different medical care given your diagnosis. This can include both minor differences (for example, the patient should be advised to rest) and major errors (for example, the patient should receive a completely different set of medications). (Answer options: yes/no/unsure)",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for an Error in the Treatment Plan that Causes a Loss of at least X Quality-Adjusted Life Days",
+                "description": "This variable is coded as 1 if the MO indicates there is such an error and 0 otherwise. X is defined to be the highest benchmark on the appropriate DALY scale so that at least 5% of patients have an error that large in the unassisted SOAP note. In other words, severe errors are any errors that generate a harm rating at or above the 95th percentile of harm on the unassisted scale (pooling child and adult scales).",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for the Better Treatment Plan (as Determined by the MOs)",
+                "description": "Based on the DALY rating of SOAP Note A vs. B (counting instances with no errors as 0 DALY loss), the indicator is coded as 1 if the SOAP note has the better treatment plan (lower DALY loss) and 0 if MOs judge both notes to be the same in response to the following question: Are there any meaningful differences in the treatment plans of SOAP Note A and B?",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for whether Treatment is Consistent with a Predetermined \"Standard of Care\"",
+                "description": "At-risk patients receive malaria, anemia and UTI screening in accordance with certain demographic criteria. A dataset is then constructed with one observation for each (patient, screening test, note), up to six per patient.\n\nThe indicator of treatment misallocation records whether a patient was incorrectly treated for a condition based on the test result or lack of symptoms. The variable is coded as 1 if the patient tested positive and either received inappropriate or no treatment. It is also coded as 1 if the patient tested negative or was not tested based on the symptom screen but received treatment for the condition. The variable is only coded as 0 if the patient tested negative and was correctly not treated for the corresponding condition, or if they tested positive and received the correct treatment.",
+                "timeFrame": "Through study completion, an average of six months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Indicators Denoting Diagnosis and Treatment Alignment Between CHEWs and MOs",
+                "description": "For each medication in the CHEW's treatment plan, there is a \"clinical indication\" (the diagnosis associated with the drug) along with an indicator that specifies if a given prescription is conditional on a medical test result. The research team will consider three indicators of a match:\n\n* any match of the contents of the \"clinical indication\" field across medications;\n* any match of the contents of the \"medication\" field across indications, including whether the medication is conditional on a test or not;\n* a match of both medication and indication (and test conditionality).",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Alternative Indicators for Treatment Misallocation",
+                "description": "The research team will construct the following indicators of treatment misallocation:\n\n* Misallocation due to overprescription: a condition is treated that the patient is confirmed not to have\n* Misallocation due to underprescription: a condition the patient is confirmed to have is not treated\n* Misallocation due to incorrect dosing or drug choice: a condition the patient has is treated but the dosing or medication chosen is inappropriate.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Relationship of QALY Loss to Severity of Patient Condition",
+                "description": "In patients with only mild illnesses, the scope for QALY loss from mistakes may be limited relative to patients with more severe illnesses.\n\nWith this in mind, QALY loss is regressed on indicators for mild, moderate, and severe illnesses (as assessed by the MO) each interacted with the assisted note indicator, controlling for patient fixed effects. Results will be shown graphically.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicators for the Appropriateness of Medical Testing Decisions",
+                "description": "The potential misallocation of medical testing is operationalized in two ways:\n\n1. For each test type, the research team will construct an indicator that is coded as 1 if the CHEW recommends conducting a test that turns out to be negative, and a second indicator that is 1 if the CHEW neglects to request a test that turns out to be positive.\n2. Second, the research team will construct an indicator at the level of (patient, test, note) that measures whether the CHEW and MO requested the same or a comparable medical test (e.g. the CHEW requested a malaria RDT whereas the MO requested a malaria bloodsmear).\n\nCombining these indicators, a mismatch occurs if and only if either: i) a test was not requested by the CHEW but was positive, or ii) the test was requested by the CHEW but the result was negative and no equivalent test was ordered by the MO.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Average and Distribution of DALY Lost",
+                "description": "The effect of LLM assistance DALY lost is measured directly rather than indirectly (as in probability of error and severe error, which note is the better note). The full distribution of DALY ratings for the assisted and unassisted notes will also be shown in the results.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Deviations from the MO's SOAP",
+                "description": "The MO is asked to assess for each SOAP note whether medical tests ordered were necessary or clinically useful, whether there are missing or incorrect/unnecessary diagnoses, and whether there are missing or incorrect/unnecessary treatment plan elements.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Types of Harm Incurred",
+                "description": "The MO is asked to assess any short-term harm (additional symptoms or discomfort for some period), and any long-term serious harm (risk of impairment, death etc.) from the treatment plan in the SOAP note.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Measuring Healthy Time Lost in DALY",
+                "description": "The MO also provides an overall rating that is intended to reflect the \"healthy time lost\" from any errors in treatment in the SOAP note. For each assessment and plan constructed by a CHEW (with or without LLM advice), an MO will assess the expected magnitude of healthy life that would be lost if the CHEW plan were implemented instead of the MO's plan.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: Flagging MO Error",
+                "description": "In a first step, they will review the MO notes only and record whether there is any error in the diagnosis or treatment proposed in the conditional note or in the final note. If an error is identified the MDs will rate the error by severity to distinguish medical mistakes from differences in opinion about a patient who is not present.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: SOAP Note Rating",
+                "description": "The MD is asked to assess any short-term harm (additional symptoms or discomfort for some period), and any long-term serious harm (risk of impairment, death etc.) from the treatment plan in the SOAP note.\n\nThe MD also provides an overall rating that is intended to reflect the \"healthy time lost\" from any errors in treatment in the SOAP note. For each assessment and plan constructed by a CHEW (with or without LLM advice), an MO will assess the expected magnitude of healthy life that would be lost if the CHEW plan were implemented instead of the MO's plan. Healthy time is measured in units of disability-adjusted life year (DALYs), which reflect both length and quality of life.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: LLM Review",
+                "description": "The MDs will also review the LLM feedback and answer the following questions:\n\n\"Did the CHEW follow all, some, or none of the LLM recommendations?\" If some or none: \"Imagine the CHEW had followed all the recommendations of the LLM. Would the resulting treatment plan be an improvement over their assisted note?\" (Yes/no) If yes: \"Please explain.\"\" \"Did the LLM make any mistakes?\" (Yes/no) If yes: \"Was any aspect of the CHEW's assisted treatment plan worse than the unassisted plan because the CHEW followed the LLM's erroneous recommendation?\" If yes: \"Please explain.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for the Appropriateness of Triage Decisions",
+                "description": "For each (patient, note), an indicator records whether the CHEW triage decision (an intent to triage indicated in the SOAP note) and the MO suggested triage decision align.",
+                "timeFrame": "Through study completion, an average of six months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is at the clinic for outpatient consultation\n* Parent/guardian consent is required for individuals under 18\n\nExclusion Criteria:\n\n* Patient does not require emergency care\n* Patient is not at the clinic for a checkup (e.g. weight, blood pressure, follow up after recovery)\n* Patient is not a trauma patient (visit is not for an accident, wound or injury)\n* Patient is not at the clinic for a scheduled procedure or a birth",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Jason Abaluck",
+                "affiliation": "Yale University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "EHA Clinics REACH Community Clinic, Gyadi Gyadi",
+                "city": "Kano",
+                "state": "Kano State",
+                "country": "Nigeria",
+                "geoPoint": {
+                  "lat": 12.00012,
+                  "lon": 8.51672
+                }
+              },
+              {
+                "facility": "EHA Clinics, 33 Lamido Crescent",
+                "city": "Kano",
+                "state": "Kano State",
+                "country": "Nigeria",
+                "geoPoint": {
+                  "lat": 12.00012,
+                  "lon": 8.51672
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "The following de-identified individual participant data (IDP) will be shared:\n\nPatient demographics and vitals Symptoms and clinical findings documented by CHEWs and MOs Test results (malaria, anemia, UTI) Treatment plans and prescriptions SOAP notes with and without LLM assistance from both CHEWs and MOs Provider assessments and DALY ratings Survey responses from CHEWs and MD panel reviews",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF",
+              "CSR",
+              "ANALYTIC_CODE"
+            ],
+            "timeFrame": "Data will be available to other researchers beginning 3 months after publication and will remain available with no end date.",
+            "accessCriteria": "Academic researchers with a formal appointment at a research institution must submit a research proposal detailing intended analyses and sign a data use agreement."
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "SAP",
+                "hasProtocol": false,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Statistical Analysis Plan",
+                "date": "2025-04-29",
+                "uploadDate": "2025-04-29T18:24",
+                "filename": "SAP_001.pdf",
+                "size": 626152
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT05951595",
+      "title": "A Study to Find Out if a Combination of 3 Medicines for the Treatment of Malaria Works as Well and is as Safe and Tolerable as Combinations of 2 Medicines",
+      "brief_summary": "The goal of this open-label randomised, controlled, non-inferiority trial is to assess and compare the efficacy, tolerability and safety of a fixed dose TACT artemether-lumefantrine-amodiaquine (ALAQ) to the ACTs artemether-lumefantrine (AL), artesunate-amodiaquine (ASAQ) (with single low-dose primaquine in some sites) for the treatment of uncomplicated Plasmodium falciparum malaria in patient. The main question it aims to answer is whether ALAQ, a fixed dose TACT, is as efficacious, safe and tolerable in comparison with AL and ASAQ.\n\nParticipants will be enrolled, admitted and randomised to receive the study drug (ALAQ, AL or ASAQ). Patients will receive directly observed treatments and will be followed up at least once daily for the first 3 days after enrolment followed by weekly visits from D7 up to D42. Patients will be asked to report to the clinics between scheduled visits in case of any illness or other symptoms or complaints.",
+      "detailed_description": "Study participants with an uncomplicated P. falciparum monoinfection complying with all the inclusion criteria and without any of the exclusion criteria will be enrolled and randomised to three arms TACT (ALAQ), ACT1 (AL), ACT2 (ASAQ) at the sites in Africa and two arms TACT (ALAQ) and ACT (AL) at the site in Asia. Competitive recruitment with overall trial sample size 1,680 subjects (840 ALAQ, 420 AL, 420 ASAQ, i.e. a 2:1:1 ratio overall). In lower transmission settings (Annual Parasite Incidence \\<50 per 1000 population per year) the treatment will include a single 0.25 mg/kg gametocytocidal dose of primaquine as recommended by the World Health Organization (WHO) for patients ≥10 kg. Primaquine may be given if local treatment policy includes it.\n\nParticipants will be admitted for three days to an in-patient unit for directly observed treatment and to perform all the required study procedures from D0H0 (time of first dose intake) to D3 (H72). They will be followed up weekly starting D7 up to D42.\n\nMicroscopy to detect and quantify malaria parasitaemia will be performed daily (more frequently in participants with parasite density of \\>5000/µL at screening) during hospitalization and at all weekly and unscheduled visits. In participants with parasite densities \\>5000/µL at screening, parasite clearance rates will be assessed by repeated assessments of the parasite counts after the start of the antimalarial treatments. A capillary blood sample will be taken at each of the time-points for these parasite counts.\n\nA physical examination and measurements of vital signs along with a symptom questionnaire will be performed and recorded through a standardized method at baseline, daily during admission and weekly during follow up through D42 and at all unscheduled visits.\n\nSafety assessments will be performed by measuring markers of renal and hepatic toxicity, haemoglobin, platelet counts, absolute and differential white blood cell counts and electrocardiographs (ECGs). ECGs will be performed during hospitalization (H0, H4, and 4 hours after the last dose) and day 42 of follow up to assess and compare the effect of the TACT and ACTs on QT or corrected QT (QTc) intervals.\n\nPharmacokinetic measurements will be linked to measures of efficacy and toxicity. To reduce the burden of blood draws, especially in children, a population pharmacokinetic approach requiring sparse blood sampling will be followed in a subset of participants.\n\nBlood samples for parasite genotyping as well as genomic and transcriptomic studies will be collected at baseline and also on the day of a recurrent infection. In selected study sites, P. falciparum parasites will be cryopreserved for in vitro antimalarial drug sensitivity testing. Where possible, ex vivo or in vitro assessments of parasite susceptibility to artemisinins and partner drugs will be assessed. The in vivo and ex vivo data on artemisinin and partner drug sensitivity will potentially be used to identify new genetic or transcriptomic markers/patterns of artemisinin or partner drug resistance.\n\nThe trial has been funded by Global Health Innovative Technology Fund.",
+      "evidence_sentences": [
+        "The goal of this open-label randomised, controlled, non-inferiority trial is to assess and compare the efficacy, tolerability and safety of a fixed dose TACT artemether-lumefantrine-amodiaquine (ALAQ) to the ACTs artemether-lumefantrine (AL), artesunate-amodiaquine (ASAQ) (with single low-dose primaquine in some sites) for the treatment of uncomplicated Plasmodium falciparum malaria in patient.",
+        "Microscopy to detect and quantify malaria parasitaemia will be performed daily (more frequently in participants with parasite density of \\>5000/µL at screening) during hospitalization and at all weekly and unscheduled visits.",
+        "In participants with parasite densities \\>5000/µL at screening, parasite clearance rates will be assessed by repeated assessments of the parasite counts after the start of the antimalarial treatments."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "RECRUITING",
+      "last_update": "2025-11-14",
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "adults",
+        "kenya",
+        "turkana"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT05951595",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05951595",
+            "orgStudyIdInfo": {
+              "id": "MAL23001"
+            },
+            "organization": {
+              "fullName": "University of Oxford",
+              "class": "OTHER"
+            },
+            "briefTitle": "A Study to Find Out if a Combination of 3 Medicines for the Treatment of Malaria Works as Well and is as Safe and Tolerable as Combinations of 2 Medicines",
+            "officialTitle": "An Open-label, Randomised, Controlled, Non-inferiority Trial to Compare the Efficacy, Safety and Tolerability of a Fixed Dose Triple Artemisinin-based Combination Therapy (TACT) Artemether-lumefantrine-amodiaquine Versus First-line Artemisinin-based Combination Therapies (ACTs) for the Treatment of Uncomplicated Plasmodium Falciparum Malaria",
+            "acronym": "FD-TACT"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-10",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-09-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2026-07-31",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2026-07-31",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-06-19",
+            "studyFirstSubmitQcDate": "2023-07-10",
+            "studyFirstPostDateStruct": {
+              "date": "2023-07-19",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-11-18",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University of Oxford",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this open-label randomised, controlled, non-inferiority trial is to assess and compare the efficacy, tolerability and safety of a fixed dose TACT artemether-lumefantrine-amodiaquine (ALAQ) to the ACTs artemether-lumefantrine (AL), artesunate-amodiaquine (ASAQ) (with single low-dose primaquine in some sites) for the treatment of uncomplicated Plasmodium falciparum malaria in patient. The main question it aims to answer is whether ALAQ, a fixed dose TACT, is as efficacious, safe and tolerable in comparison with AL and ASAQ.\n\nParticipants will be enrolled, admitted and randomised to receive the study drug (ALAQ, AL or ASAQ). Patients will receive directly observed treatments and will be followed up at least once daily for the first 3 days after enrolment followed by weekly visits from D7 up to D42. Patients will be asked to report to the clinics between scheduled visits in case of any illness or other symptoms or complaints.",
+            "detailedDescription": "Study participants with an uncomplicated P. falciparum monoinfection complying with all the inclusion criteria and without any of the exclusion criteria will be enrolled and randomised to three arms TACT (ALAQ), ACT1 (AL), ACT2 (ASAQ) at the sites in Africa and two arms TACT (ALAQ) and ACT (AL) at the site in Asia. Competitive recruitment with overall trial sample size 1,680 subjects (840 ALAQ, 420 AL, 420 ASAQ, i.e. a 2:1:1 ratio overall). In lower transmission settings (Annual Parasite Incidence \\<50 per 1000 population per year) the treatment will include a single 0.25 mg/kg gametocytocidal dose of primaquine as recommended by the World Health Organization (WHO) for patients ≥10 kg. Primaquine may be given if local treatment policy includes it.\n\nParticipants will be admitted for three days to an in-patient unit for directly observed treatment and to perform all the required study procedures from D0H0 (time of first dose intake) to D3 (H72). They will be followed up weekly starting D7 up to D42.\n\nMicroscopy to detect and quantify malaria parasitaemia will be performed daily (more frequently in participants with parasite density of \\>5000/µL at screening) during hospitalization and at all weekly and unscheduled visits. In participants with parasite densities \\>5000/µL at screening, parasite clearance rates will be assessed by repeated assessments of the parasite counts after the start of the antimalarial treatments. A capillary blood sample will be taken at each of the time-points for these parasite counts.\n\nA physical examination and measurements of vital signs along with a symptom questionnaire will be performed and recorded through a standardized method at baseline, daily during admission and weekly during follow up through D42 and at all unscheduled visits.\n\nSafety assessments will be performed by measuring markers of renal and hepatic toxicity, haemoglobin, platelet counts, absolute and differential white blood cell counts and electrocardiographs (ECGs). ECGs will be performed during hospitalization (H0, H4, and 4 hours after the last dose) and day 42 of follow up to assess and compare the effect of the TACT and ACTs on QT or corrected QT (QTc) intervals.\n\nPharmacokinetic measurements will be linked to measures of efficacy and toxicity. To reduce the burden of blood draws, especially in children, a population pharmacokinetic approach requiring sparse blood sampling will be followed in a subset of participants.\n\nBlood samples for parasite genotyping as well as genomic and transcriptomic studies will be collected at baseline and also on the day of a recurrent infection. In selected study sites, P. falciparum parasites will be cryopreserved for in vitro antimalarial drug sensitivity testing. Where possible, ex vivo or in vitro assessments of parasite susceptibility to artemisinins and partner drugs will be assessed. The in vivo and ex vivo data on artemisinin and partner drug sensitivity will potentially be used to identify new genetic or transcriptomic markers/patterns of artemisinin or partner drug resistance.\n\nThe trial has been funded by Global Health Innovative Technology Fund."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Uncomplicated Plasmodium Falciparum Malaria"
+            ],
+            "keywords": [
+              "Artemether",
+              "Lumefantrine",
+              "Amodiaquine",
+              "Artesunate",
+              "Triple Artemisinin-based Combination Therapy (TACT)"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1680,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Artemether-Lumefantrine-Amodiaquine (ALAQ)",
+                "type": "EXPERIMENTAL",
+                "description": "TACT group",
+                "interventionNames": [
+                  "Drug: Artemether-Lumefantrine-Amodiaquine (ALAQ)"
+                ]
+              },
+              {
+                "label": "Artemether-Lumefantrine (AL)",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "ACT 1 group",
+                "interventionNames": [
+                  "Drug: Artemether-Lumefantrine (AL)"
+                ]
+              },
+              {
+                "label": "Artesunate-Amodiaquine (ASAQ)",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "ACT 2 group",
+                "interventionNames": [
+                  "Drug: Artesunate-Amodiaquine (ASAQ)"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Artemether-Lumefantrine-Amodiaquine (ALAQ)",
+                "description": "A new fixed-dose combination containing artemether, lumefantrine and amodiaquine (ALAQ) will be used in the trial. Each paediatric (dispersible) tablet will contain 20 mg artemether, 120 mg lumefantrine, 40 mg amodiaquine. Two formulations of (non-dispersible/hard) tablets, containing 50 mg or 60 mg artemether, 300 or 360 mg lumefantrine and 100 or 120 mg amodiaquine, will be used for adolescents or adults. The treatments will be administered in 6 doses over 3 days at H0, H8, H24, H36, H48 and H60. The target dosing will be in line with the ranges recommended by the WHO (total dose of 5-24 mg/kg of artemether, 29-144 mg/ kg of lumefantrine, 22.5-45 mg/kg of amodiaquine).",
+                "armGroupLabels": [
+                  "Artemether-Lumefantrine-Amodiaquine (ALAQ)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Artemether-Lumefantrine (AL)",
+                "description": "A fixed-dose combination of AL will be used in the trial. Each paediatric (dispersible or non-dispersible) tablet will contain 20 mg artemether, 120 mg lumefantrine and adult (non-dispersible) tablets will contain 80 mg artemether, 480 mg lumefantrine. Treatment doses will be administered in 6 doses over 3 days at H0, H8, H24, H36, H48 and H60. The target dosing will be in line with the ranges recommended by the WHO.",
+                "armGroupLabels": [
+                  "Artemether-Lumefantrine (AL)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Artesunate-Amodiaquine (ASAQ)",
+                "description": "ASAQ will also be administered as a fixed dose combination. The tablets will contain 25 mg of artesunate and 67.5 mg of amodiaquine in the paediatric formulation and 100 mg artesunate, 270 mg amodiaquine in the adult formulation. The dosing will be administered once a day for 3 days at H0, H24 and H48 according to the schedule currently recommended by the WHO.",
+                "armGroupLabels": [
+                  "Artesunate-Amodiaquine (ASAQ)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "28-day efficacy",
+                "description": "28-day efficacy defined as the proportion of patients with Polymerase Chain Reaction (PCR)-corrected adequate clinical and parasitological response (ACPR) at Day 28, i.e., absence up to Day 28 of P. falciparum parasitaemia (detected by microscopy) with parasites genetically identical to those detected at baseline (as determined by PCR product length polymorphisms)",
+                "timeFrame": "28 days"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "28-day PCR uncorrected efficacy",
+                "description": "28-day PCR uncorrected efficacy defined as the proportion of patients with absence up to Day 28 of P. falciparum parasitaemia",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "42-day efficacy",
+                "description": "42-day efficacy defined as the proportion of patients with PCR-corrected adequate clinical and parasitological response (ACPR) at Day 42, i.e., absence up to Day 42 of P. falciparum parasitaemia (detected by microscopy) with parasites genetically identical to those detected at baseline (as determined by PCR product length polymorphisms)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "42-day PCR-uncorrected efficacy",
+                "description": "42-day PCR-uncorrected efficacy defined as the proportion of patients with absence up to Day 42 of P. falciparum parasitaemia",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Parasite clearance half-life",
+                "description": "Assessed by microscopy as primary parameter to determine parasite clearance half-life",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Proportion of participants with microscopically detectable P. falciparum parasitaemia at Day 3",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Fever clearance time",
+                "description": "Fever clearance time (i.e., the time taken for the tympanic temperature to fall below 37.5°C in participants who were febrile at inclusion)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportion of participants with gametocytaemia",
+                "description": "Proportion of participants with gametocytaemia during and after treatment stratified by presence of gametocytes at enrolment",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Incidence of adverse events (AEs)",
+                "description": "Incidence of AEs within the first 42 days including markers of hepatic, renal or bone marrow toxicity",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Incidence of serious adverse events (SAEs)",
+                "description": "Incidence of SAEs within the first 42 days including markers of hepatic, renal or bone marrow toxicity",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Number of cardiotoxicity events",
+                "description": "Cardiotoxicity in particular QT or QTc-interval above 500 ms at timepoint H4, H52 or H64, D42",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportion of participants requiring retreatment due to vomiting",
+                "description": "Proportion of participants requiring retreatment due to vomiting within 1 hour after administration of the study drugs",
+                "timeFrame": "1 hour after administration of each dose of the treatment"
+              },
+              {
+                "measure": "Proportion of participants who report completing a full course of observed TACT",
+                "description": "Proportion of participants who report completing a full course of observed TACT without withdrawal of consent or exclusion from study because of drug related serious adverse event",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Proportion of participants who report completing a full course of observed ACT",
+                "description": "Proportion of participants who report completing a full course of observed ACT without withdrawal of consent or exclusion from study because of drug related serious adverse event",
+                "timeFrame": "2 or 3 days depending on the treatment"
+              },
+              {
+                "measure": "Peak plasma concentration",
+                "description": "Peak plasma concentration (Cmax) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamics measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Area under curve",
+                "description": "Area under the plasma concentration versus time curve (AUC) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamic measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Pharmacokinetic interactions - peak plasma concentration",
+                "description": "Comparison of peak plasma concentration (Cmax) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamics measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Pharmacokinetic interactions - area under curve",
+                "description": "Comparison of area under the plasma concentration versus time curve (AUC) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamic measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Plasma levels of partner drugs",
+                "description": "Plasma levels of partner drugs in correlation with treatment efficacy and treatment arm on Day 7",
+                "timeFrame": "7 days"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Comparison of 28-day PCR-corrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 28-day PCR-corrected ACPR (as defined in outcome measure 1) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-uncorrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 28-day PCR-uncorrected efficacy (as defined in outcome measure 2) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-corrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 42-day PCR-corrected ACPR (as defined in outcome measure 3) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-uncorrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 42-day PCR-uncorrected efficacy (as defined in outcome measure 4) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-corrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 28-day PCR-corrected ACPR (as defined in outcome measure 1) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-uncorrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 28-day PCR-uncorrected efficacy (as defined in outcome measure 2) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-corrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 42-day PCR-corrected ACPR (as defined in outcome measure 3) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-uncorrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 42-day PCR-uncorrected efficacy (as defined in outcome measure 4) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportions of recurrent infections with mutations",
+                "description": "Proportions of recurrent infections with parasites carrying mutations known to be associated with recrudescence",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportions of specimens collected at baseline with parasites carrying mutations",
+                "description": "Proportions of specimens collected at baseline with parasites carrying mutations of known functional or operational significance (pfkelch13, pfcrt, pfmdr1, pfdhfr, pfdhps, pfplasmepsin2, and/or other parasite genetic markers associated with resistance or identified over the course of the study)",
+                "timeFrame": "Baseline"
+              },
+              {
+                "measure": "Change in haemoglobin concentration stratified for Glucose-6-Phosphate Dehydrogenase (G6PD) status/genotype",
+                "description": "Change in haemoglobin concentration at day 3, 7, 28, stratified for G6PD status/genotype in participants receiving single low dose primaquine (SLD-PQ) vs those not receiving it",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of transcriptomic patterns of drug sensitive and resistant parasites",
+                "description": "Comparison of levels of RNA transcription before treatment and 6, 12 and 24 hours after start of treatment between parasites with or without known or putative markers of drug resistance",
+                "timeFrame": "24 hours"
+              },
+              {
+                "measure": "Levels of RNA transcription coding for male or female specific gametocytes",
+                "description": "Levels of RNA transcription coding for male or female specific gametocytes at admission up to day 14, stratified by the presence of gametocytes at enrolment",
+                "timeFrame": "14 days"
+              },
+              {
+                "measure": "In vitro susceptibility of P. falciparum to artemisinins and partner drugs",
+                "description": "In vitro susceptibility, measured as % survival after drug exposure or as half-maximal inhibitory concentration (IC50), of P. falciparum to artemisinins and partner drugs according to study sites and genotype",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Ex vivo susceptibility of P. falciparum to artemisinins and partner drugs",
+                "description": "Ex vivo susceptibility, measured as % survival after drug exposure or as IC50, of P. falciparum to artemisinins and partner drugs according to study sites and genotype",
+                "timeFrame": "42 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female, aged ≥6 months (no upper limit unless one is required by local regulations) and bodyweight ≥5 kg\n* Ability to take oral medication\n* Fever defined as ≥38°C tympanic temperature or a history of fever within the last 24 hours\n* Acute uncomplicated P. falciparum monoinfection\n* Asexual P. falciparum parasitaemia: 1,000/µL to 250,000/µL determined on a peripheral blood film\n* Written informed consent by the participant, or by the parent/guardian in case of children lower than the age of consent, and assent if required (per local regulations)\n* Willingness and ability of the participants or parents/guardians to comply with the study protocol for the duration of the study\n\nExclusion Criteria:\n\n* Signs of severe malaria (adapted from WHO criteria)\n* Patients not fulfilling criteria for severe malaria but with other indication(s) for parenteral antimalarial treatment at the discretion of the treating physician\n* Haemoglobin \\<7 g/dL at screening\n* Participants who have received artemisinin or a derivative within the previous 7 days OR lumefantrine or amodiaquine within the previous 14 days\n* In applicable countries: use of seasonal malaria chemoprophylaxis (SMC) within the last 30 days\n* Acute illness other than malaria requiring systemic treatment\n* Severe acute malnutrition\n* Known HIV, tuberculosis, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or other severe infection\n* For women of child-bearing age: pregnant, trying to get pregnant or lactating\n* History of allergy or known contraindication to any of the study drugs, including neuropsychiatric disorders and epilepsy\n* Previous splenectomy\n* Participation in the previous 3 months and/or ongoing follow-up for an interventional study (including FD-TACT)",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "6 Months",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Mehul Dhorda, Ph.D",
+                "role": "CONTACT",
+                "phone": "+66 2 203-6333",
+                "email": "mehul@tropmedres.ac"
+              },
+              {
+                "name": "Arjen Dondorp, Prof.",
+                "role": "CONTACT",
+                "phone": "+66 2 203-6333",
+                "phoneExt": "6303",
+                "email": "arjen@tropmedres.ac"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Mehul Dhorda, Ph.D",
+                "affiliation": "Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Arjen Dondorp, Prof.",
+                "affiliation": "Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Ruhuha Health Centre",
+                "status": "RECRUITING",
+                "city": "Ruhuha",
+                "state": "Eastern Province",
+                "country": "Rwanda",
+                "contacts": [
+                  {
+                    "name": "Leon Mutesa, MD PhD",
+                    "role": "CONTACT",
+                    "phone": "+250 788 451 013",
+                    "email": "lmutesa@gmail.com"
+                  },
+                  {
+                    "name": "Raphael Ndahimana, MSc",
+                    "role": "CONTACT",
+                    "phone": "+250 789 926 345",
+                    "email": "ndahimana.raphael@gmail.com"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": -2.30403,
+                  "lon": 30.05134
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "With participant's consent, participant's data and results from blood analyses stored in the database may be shared according to the terms defined in the Mahidol Oxford Tropical Medicine Research Unit (MORU) data sharing policy with other researchers to use in the future. All personal information will be anonymised so that no individual can be identified from their treatment records or through interviews.",
+            "timeFrame": "After completion of the trial activities and reporting",
+            "accessCriteria": "MORU data sharing policy",
+            "url": "https://www.tropmedres.ac/units/moru-bangkok/bioethics-engagement/data-sharing/moru-tropical-network-policy-on-sharing-data-and-other-outputs"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000077611",
+                "term": "Artemether, Lumefantrine Drug Combination"
+              },
+              {
+                "id": "C515299",
+                "term": "amodiaquine, artesunate drug combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000077549",
+                "term": "Artemether"
+              },
+              {
+                "id": "D037621",
+                "term": "Artemisinins"
+              },
+              {
+                "id": "D017382",
+                "term": "Reactive Oxygen Species"
+              },
+              {
+                "id": "D005609",
+                "term": "Free Radicals"
+              },
+              {
+                "id": "D007287",
+                "term": "Inorganic Chemicals"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000078102",
+                "term": "Lumefantrine"
+              },
+              {
+                "id": "D005449",
+                "term": "Fluorenes"
+              },
+              {
+                "id": "D011084",
+                "term": "Polycyclic Aromatic Hydrocarbons"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D012717",
+                "term": "Sesquiterpenes"
+              },
+              {
+                "id": "D013729",
+                "term": "Terpenes"
+              },
+              {
+                "id": "D011083",
+                "term": "Polycyclic Compounds"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT00674921",
+      "title": "Cotrimoxazole Prophylaxis Cessation Study Among Stabilized HIV-Infected Adult Patients on HAART in Entebbe, Uganda",
+      "brief_summary": "According to the national guidelines in Uganda and to the World Health Organization guidelines, HIV-infected patients should receive cotrimoxazole prophylaxis indefinitely. There are, however, concerns regarding the indefinite application of cotrimoxazole prophylaxis among patients immunologically stabilized on HAART (e.g. high pill burden, drug-drug interactions, toxicity and poor adherence because of treatment fatigue). To date no empirical evidence is available regarding the safety and optimal timing for the cessation of cotrimoxazole prophylaxis among HAART patients who successfully restored immunological competence.\n\nResearch question: Does morbidity significantly differ between continuation (orthodox) and cessation (experimental) of cotrimoxazole prophylaxis among immuno-competent patients stable HAART in the resource-limited setting of Uganda?",
+      "detailed_description": "Randomized double-blind placebo controlled equivalence trial to be conducted among consenting clinically healthy patients on HAART with 2 or more CD4 counts of 200 cells/ul or more for at least 3 months. The study will enable comparison of effects of randomized cessation of cotrimoxazole prophylaxis at 2 CD4-guided thresholds (200 Vs 350 cells/ul).\n\nRationale for inclusion of the placebo-controlled design\n\n* The double-blind placebo controlled approach is feasible and ethically justified in this equipoise situation to allow for concealment of allocated intervention among investigators and patients and avoids accidental unblinding of investigators to the allocated interventions by trial patients.\n* Maintenance of continued cotrimoxazole prophylaxis among patients randomized to this intervention will be easier if there is no awareness that those patients randomized to cessation of prophylaxis have a relative advantage of reduced pill burden.\n* It would be very difficult to maintain cessation of cotrimoxazole prophylaxis among patients randomized to do so in our setting where cotrimoxazole is readily and cheaply available in drug shops, drug stores and pharmacies.\n\nFirst randomisation\n\nPatients who have been on HAART for at least 3 months and who have a confirmed CD4 count between 200 and 349 cells/ul will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of the placebo cotrimoxazole daily.\n\nSecond randomization\n\nPatients who achieve a confirmed CD4 count of 350 cells/ul or more while on HAART will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of placebo cotrimoxazole daily. Some patients will have participated already in 1st randomization but others will be entering the trial at this stage for the first time.\n\nRationale for 4 trial arms\n\nIn order to assess the separate effects of cessation of cotrimoxazole prophylaxis in trial patients at the 2 randomization stages above, those continuing with prophylaxis will be compared with those ceasing prophylaxis, necessitating 2 arms at each stage.",
+      "evidence_sentences": [
+        "Randomized double-blind placebo controlled equivalence trial to be conducted among consenting clinically healthy patients on HAART with 2 or more CD4 counts of 200 cells/ul or more for at least 3 months.",
+        "Research question: Does morbidity significantly differ between continuation (orthodox) and cessation (experimental) of cotrimoxazole prophylaxis among immuno-competent patients stable HAART in the resource-limited setting of Uganda?",
+        "Rationale for inclusion of the placebo-controlled design * The double-blind placebo controlled approach is feasible and ethically justified in this equipoise situation to allow for concealment of allocated intervention among investigators and patients and avoids accidental unblinding of investigators to the allocated interventions by trial patients."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "UNKNOWN",
+      "last_update": "2008-06-04",
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "adults",
+        "kenya",
+        "turkana"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT00674921",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00674921",
+            "orgStudyIdInfo": {
+              "id": "009/ESR/NDA/DID-01/2008"
+            },
+            "organization": {
+              "fullName": "MRC/UVRI and LSHTM Uganda Research Unit",
+              "class": "OTHER"
+            },
+            "briefTitle": "Cotrimoxazole Prophylaxis Cessation Study Among Stabilized HIV-Infected Adult Patients on HAART in Entebbe, Uganda",
+            "officialTitle": "Cotrimoxazole Prophylaxis Cessation Study Among Stabilized HIV-Infected Adult Patients on HAART in Entebbe, Uganda",
+            "acronym": "CCS"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2008-05",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2008-06"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2011-06",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2011-06",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2008-05-06",
+            "studyFirstSubmitQcDate": "2008-05-06",
+            "studyFirstPostDateStruct": {
+              "date": "2008-05-08",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2008-06-04",
+            "lastUpdatePostDateStruct": {
+              "date": "2008-06-05",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "oldNameTitle": "Dr George Miiro",
+              "oldOrganization": "MRC/UVRI Uganda Research Unit on Aids"
+            },
+            "leadSponsor": {
+              "name": "MRC/UVRI and LSHTM Uganda Research Unit",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Medical Research Council",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "According to the national guidelines in Uganda and to the World Health Organization guidelines, HIV-infected patients should receive cotrimoxazole prophylaxis indefinitely. There are, however, concerns regarding the indefinite application of cotrimoxazole prophylaxis among patients immunologically stabilized on HAART (e.g. high pill burden, drug-drug interactions, toxicity and poor adherence because of treatment fatigue). To date no empirical evidence is available regarding the safety and optimal timing for the cessation of cotrimoxazole prophylaxis among HAART patients who successfully restored immunological competence.\n\nResearch question: Does morbidity significantly differ between continuation (orthodox) and cessation (experimental) of cotrimoxazole prophylaxis among immuno-competent patients stable HAART in the resource-limited setting of Uganda?",
+            "detailedDescription": "Randomized double-blind placebo controlled equivalence trial to be conducted among consenting clinically healthy patients on HAART with 2 or more CD4 counts of 200 cells/ul or more for at least 3 months. The study will enable comparison of effects of randomized cessation of cotrimoxazole prophylaxis at 2 CD4-guided thresholds (200 Vs 350 cells/ul).\n\nRationale for inclusion of the placebo-controlled design\n\n* The double-blind placebo controlled approach is feasible and ethically justified in this equipoise situation to allow for concealment of allocated intervention among investigators and patients and avoids accidental unblinding of investigators to the allocated interventions by trial patients.\n* Maintenance of continued cotrimoxazole prophylaxis among patients randomized to this intervention will be easier if there is no awareness that those patients randomized to cessation of prophylaxis have a relative advantage of reduced pill burden.\n* It would be very difficult to maintain cessation of cotrimoxazole prophylaxis among patients randomized to do so in our setting where cotrimoxazole is readily and cheaply available in drug shops, drug stores and pharmacies.\n\nFirst randomisation\n\nPatients who have been on HAART for at least 3 months and who have a confirmed CD4 count between 200 and 349 cells/ul will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of the placebo cotrimoxazole daily.\n\nSecond randomization\n\nPatients who achieve a confirmed CD4 count of 350 cells/ul or more while on HAART will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of placebo cotrimoxazole daily. Some patients will have participated already in 1st randomization but others will be entering the trial at this stage for the first time.\n\nRationale for 4 trial arms\n\nIn order to assess the separate effects of cessation of cotrimoxazole prophylaxis in trial patients at the 2 randomization stages above, those continuing with prophylaxis will be compared with those ceasing prophylaxis, necessitating 2 arms at each stage."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Infections"
+            ],
+            "keywords": [
+              "Opportunistic Infections",
+              "AIDS",
+              "HIV",
+              "Treatment Experienced"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE4"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "FACTORIAL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1650,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "1",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "It will comprise patients randomized to receive the placebo (stop cotrimoxazole prophylaxis) at CD4 counts of 200 or more but less than 350 cells/ul as they continue with HAART. Patients will be followed until they achieve a CD4 count of 350 cells/ul.",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              },
+              {
+                "label": "2",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "It will comprise patients randomized to continue with cotrimoxazole prophylaxis and HAART at CD4 counts of 200 or more but less than 350 cells/ul. These patients will be followed until they achieve a CD4 count of 350 cells/ul and above, at which point they will be considered for the second randomization.",
+                "interventionNames": [
+                  "Drug: cotrimoxazole"
+                ]
+              },
+              {
+                "label": "A",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "This arm will comprise patients who have achieved a CD4 count of 350 or more cells/ul either at the beginning of the study or once they have reached this threshold at the end of follow up in arms 1 and 2. They (including those previously in Arm 1) will receive the placebo (stop cotrimoxazole prophylaxis) after the second randomization but continue with HAART.",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              },
+              {
+                "label": "B",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "It will comprise patients randomized to continue or start with cotrimoxazole prophylaxis and HAART at CD4 of 350 or more cells/ul after second randomization. Some of them will have used cotrimoxazole prophylaxis whilst they were in arm 2 and others in arm 1 will restart cotrimoxazole prophylaxis at this stage.",
+                "interventionNames": [
+                  "Drug: cotrimoxazole"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "cotrimoxazole",
+                "description": "cotrimoxazole 800/160 mg once daily as indicated by the start and end times of the specified arms for continued prevention of HIV-related infections",
+                "armGroupLabels": [
+                  "2",
+                  "B"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo",
+                "description": "starch, magnesium stearate, sodium lauryl sulphate",
+                "armGroupLabels": [
+                  "1",
+                  "A"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "all-cause morbidity such as pneumonia or malaria (presumptive and definitive diagnosis)",
+                "timeFrame": "3 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "sub-clinical laboratory abnormalities (such as neutropenia) and serious adverse events (such as death)",
+                "timeFrame": "3 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Consenting HIV-infected patient aged 16 years or older,\n* Resident within 40 kms of study clinics\n* Regularly attending clinics\n* Documented HAART intake for at least 3 months\n* Clinically healthy and stable\n* Confirmed CD4 count of 200 cells/ul more.\n\nExclusion Criteria:\n\n* Acutely ill patients with opportunistic or other infections\n* Patients already enrolled in other HAART trials (e.g DART trial)\n* First trimester pregnancy at enrolment\n* Clinical and immunological evidence of HAART treatment failure\n* Unable to attend study clinics regularly\n* Hypersensitivity to cotrimoxazole",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "16 Years",
+            "maximumAge": "59 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "George Mukalazi Miiro, MSc, MBChB",
+                "role": "CONTACT",
+                "phone": "256-414-320-272",
+                "email": "george.miiro@mrcuganda.org"
+              },
+              {
+                "name": "Heiner Grosskurth, PhD, MD",
+                "role": "CONTACT",
+                "phone": "256-414-320-272",
+                "email": "heiner.grosskurth@mrcuganda.org"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "George Miiro, MSc, MBChB",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Heiner Grosskurth, PhD, MD",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "STUDY_DIRECTOR"
+              },
+              {
+                "name": "Paula Munderi, MRCP, MBChB",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "MRC/UVRI Uganda Research Unit on Aids",
+                "city": "Entebbe",
+                "zip": "256",
+                "country": "Uganda",
+                "geoPoint": {
+                  "lat": 0.05621,
+                  "lon": 32.47949
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "15577626",
+                "type": "RESULT",
+                "citation": "Zellweger C, Opravil M, Bernasconi E, Cavassini M, Bucher HC, Schiffer V, Wagels T, Flepp M, Rickenbach M, Furrer H; Swiss HIV Cohort Study. Long-term safety of discontinuation of secondary prophylaxis against Pneumocystis pneumonia: prospective multicentre study. AIDS. 2004 Oct 21;18(15):2047-53. doi: 10.1097/00002030-200410210-00009."
+              },
+              {
+                "pmid": "12594647",
+                "type": "RESULT",
+                "citation": "Mussini C, Pezzotti P, Antinori A, Borghi V, Monforte Ad, Govoni A, De Luca A, Ammassari A, Mongiardo N, Cerri MC, Bedini A, Beltrami C, Ursitti MA, Bini T, Cossarizza A, Esposito R; Changes in Opportunistic Prophylaxis (CIOP) Study Group. Discontinuation of secondary prophylaxis for Pneumocystis carinii pneumonia in human immunodeficiency virus-infected patients: a randomized trial by the CIOP Study Group. Clin Infect Dis. 2003 Mar 1;36(5):645-51. doi: 10.1086/367659. Epub 2003 Feb 12."
+              },
+              {
+                "pmid": "11188837",
+                "type": "RESULT",
+                "citation": "Ledergerber B, Mocroft A, Reiss P, Furrer H, Kirk O, Bickel M, Uberti-Foppa C, Pradier C, D'Arminio Monforte A, Schneider MM, Lundgren JD; Eight European Study Groups. Discontinuation of secondary prophylaxis against Pneumocystis carinii pneumonia in patients with HIV infection who have a response to antiretroviral therapy. Eight European Study Groups. N Engl J Med. 2001 Jan 18;344(3):168-74. doi: 10.1056/NEJM200101183440302."
+              },
+              {
+                "pmid": "16371882",
+                "type": "RESULT",
+                "citation": "Esposito S, Bojanin J, Porta A, Cesati L, Gualtieri L, Principi N. Discontinuation of secondary prophylaxis for Pneumocystis pneumonia in human immunodeficiency virus-infected children treated with highly active antiretroviral therapy. Pediatr Infect Dis J. 2005 Dec;24(12):1117-20. doi: 10.1097/01.inf.0000190038.53813.d2."
+              },
+              {
+                "pmid": "11172138",
+                "type": "RESULT",
+                "citation": "Lopez Bernaldo de Quiros JC, Miro JM, Pena JM, Podzamczer D, Alberdi JC, Martinez E, Cosin J, Claramonte X, Gonzalez J, Domingo P, Casado JL, Ribera E; Grupo de Estudio del SIDA 04/98. A randomized trial of the discontinuation of primary and secondary prophylaxis against Pneumocystis carinii pneumonia after highly active antiretroviral therapy in patients with HIV infection. Grupo de Estudio del SIDA 04/98. N Engl J Med. 2001 Jan 18;344(3):159-67. doi: 10.1056/NEJM200101183440301."
+              },
+              {
+                "pmid": "10219064",
+                "type": "RESULT",
+                "citation": "Furrer H, Egger M, Opravil M, Bernasconi E, Hirschel B, Battegay M, Telenti A, Vernazza PL, Rickenbach M, Flepp M, Malinverni R. Discontinuation of primary prophylaxis against Pneumocystis carinii pneumonia in HIV-1-infected adults treated with combination antiretroviral therapy. Swiss HIV Cohort Study. N Engl J Med. 1999 Apr 29;340(17):1301-6. doi: 10.1056/NEJM199904293401701."
+              },
+              {
+                "pmid": "10218526",
+                "type": "RESULT",
+                "citation": "Weverling GJ, Mocroft A, Ledergerber B, Kirk O, Gonzales-Lahoz J, d'Arminio Monforte A, Proenca R, Phillips AN, Lundgren JD, Reiss P. Discontinuation of Pneumocystis carinii pneumonia prophylaxis after start of highly active antiretroviral therapy in HIV-1 infection. EuroSIDA Study Group. Lancet. 1999 Apr 17;353(9161):1293-8. doi: 10.1016/s0140-6736(99)03287-0."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D009894",
+                "term": "Opportunistic Infections"
+              },
+              {
+                "id": "D000163",
+                "term": "Acquired Immunodeficiency Syndrome"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D012897",
+                "term": "Slow Virus Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015662",
+                "term": "Trimethoprim, Sulfamethoxazole Drug Combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D013420",
+                "term": "Sulfamethoxazole"
+              },
+              {
+                "id": "D000096926",
+                "term": "Benzenesulfonamides"
+              },
+              {
+                "id": "D013449",
+                "term": "Sulfonamides"
+              },
+              {
+                "id": "D000577",
+                "term": "Amides"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D013424",
+                "term": "Sulfanilamides"
+              },
+              {
+                "id": "D000814",
+                "term": "Aniline Compounds"
+              },
+              {
+                "id": "D000588",
+                "term": "Amines"
+              },
+              {
+                "id": "D001555",
+                "term": "Benzene Derivatives"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D013450",
+                "term": "Sulfones"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D014295",
+                "term": "Trimethoprim"
+              },
+              {
+                "id": "D011743",
+                "term": "Pyrimidines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06823765",
+            "orgStudyIdInfo": {
+              "id": "2000035990"
+            },
+            "organization": {
+              "fullName": "Yale University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Can Feedback From a Large Language Model Improve Health Care Quality?",
+            "officialTitle": "A Pilot Ptudy of an LLM Tool to Support Frontline Health Workers in Low-Resource Settings"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-04",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-01-30",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-10-17",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2025-10-17",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2025-01-23",
+            "studyFirstSubmitQcDate": "2025-02-06",
+            "studyFirstPostDateStruct": {
+              "date": "2025-02-12",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2026-01-30",
+            "lastUpdatePostDateStruct": {
+              "date": "2026-02-03",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Jason Abaluck",
+              "investigatorTitle": "Professor of Economics, Yale School of Management",
+              "investigatorAffiliation": "Yale University"
+            },
+            "leadSponsor": {
+              "name": "Yale University",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "EHA Clinics Nigeria",
+                "class": "UNKNOWN"
+              },
+              {
+                "name": "World Bank",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Pennsylvania",
+                "class": "OTHER"
+              },
+              {
+                "name": "George Washington University",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this study is to learn if computer-assisted advice can help improve patient care in Nigerian health clinics. The main question it aims to answer is: does giving healthcare workers instant computer feedback help them make better decisions about patient care?\n\nResearchers will compare patient care notes written by healthcare workers before and after they receive computer feedback to see if the feedback improves care quality. A doctor who doesn't know if feedback was given will review these notes.\n\nParticipants will:\n\n* Be seen by a community healthcare worker who uses the computer feedback system\n* Be treated by a fully trained medical doctor\n* Get tested for malaria, anemia, or urinary tract infections if they have certain symptoms",
+            "detailedDescription": "This project tests whether Large Language Models (LLMs) can improve patient care in Nigerian primary care clinics by giving customized and instant feedback to the provider in natural language. An LLM-based tool integrated into an electronic patient record management system provides \"second opinions\" to community health extension workers (CHEWs) at two clinics in Nigeria. These second opinions are intended to mirror what a reviewing physician might advise the CHEWs after seeing or hearing their initial report on a patient.\n\nFor the main analysis, this study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received. The patient is also seen by a fully trained medical officer who is in charge of patient care. The MO conducts a blinded review of the CHEW's patient notes to measures changes in the CHEW's care as a result of the LLM feedback. The data comes from the information captured in the electronic medical record (EMR) of the patient and from survey data collected from CHEWs, reviewing MOs, and a panel of reviewing Medical Doctors."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "All Conditions"
+            ],
+            "keywords": [
+              "Large Language Models",
+              "Primary Care",
+              "Nigeria"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "interventionModelDescription": "For the main analysis, the study employs a within-patient comparison of two patient notes created by the CHEW; one during the initial patient consultation, and one after the LLM feedback was received. The patient is also seen by a fully trained medical officer who is in charge of patient care. The MO conducts a blinded review of the CHEW's patient notes to measures changes in the CHEW's care as a result of the LLM feedback. The data comes from the information captured in the electronic medical record (EMR) of the patient and from survey data collected from CHEWs, reviewing MOs, and a panel of reviewing Medical Doctors.",
+              "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+              "maskingInfo": {
+                "masking": "NONE",
+                "maskingDescription": "The Medical Officers and the panel of Medical Doctors are both blinded to which note has been generated with LLM assistance."
+              }
+            },
+            "enrollmentInfo": {
+              "count": 491,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Clinical Assessment with and without LLMs",
+                "type": "EXPERIMENTAL",
+                "description": "The investigators employ a within-patient design. Patients receive two sequential assessments from a Community Health Extension Worker: first without and then with Large Language Model assistance.",
+                "interventionNames": [
+                  "Other: Large Language Model Clinical Decision Support"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Large Language Model Clinical Decision Support",
+                "description": "A Large Language Model (LLM) integrated into the clinic's Electronic Medical Record system provides real-time feedback on patient assessments. Community Health Extension Workers first create a standard SOAP note, submit it to the LLM, and receive detailed feedback and key recommendations. They can then update their assessment based on this feedback. All final treatment decisions are made by Medical Officers who independently evaluate patients.",
+                "armGroupLabels": [
+                  "Clinical Assessment with and without LLMs"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Indicator for an Error in the Treatment plan (with the Potential for Harm)",
+                "description": "During SOAP note evaluation, the MO is asked to indicate whether the treatment plan for the patient contains any errors, conditional on the MO's own diagnosis. This is coded as 1 if the MO indicates there is an error and 0 otherwise.\n\nThe introductory text (here for SOAP Note A) is: Please evaluate whether the treatment in SOAP Note A is appropriate for this patient's condition. Please base this on your own diagnosis, not the CHEW's diagnosis in SOAP Note A.\n\nThis is followed by the question: Is the treatment plan for the patient in SOAP Note A completely appropriate given your own diagnosis (accounting for conditional treatments based on medical tests)? Answer \"No\" if the patient should receive different medical care given your diagnosis. This can include both minor differences (for example, the patient should be advised to rest) and major errors (for example, the patient should receive a completely different set of medications). (Answer options: yes/no/unsure)",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for an Error in the Treatment Plan that Causes a Loss of at least X Quality-Adjusted Life Days",
+                "description": "This variable is coded as 1 if the MO indicates there is such an error and 0 otherwise. X is defined to be the highest benchmark on the appropriate DALY scale so that at least 5% of patients have an error that large in the unassisted SOAP note. In other words, severe errors are any errors that generate a harm rating at or above the 95th percentile of harm on the unassisted scale (pooling child and adult scales).",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for the Better Treatment Plan (as Determined by the MOs)",
+                "description": "Based on the DALY rating of SOAP Note A vs. B (counting instances with no errors as 0 DALY loss), the indicator is coded as 1 if the SOAP note has the better treatment plan (lower DALY loss) and 0 if MOs judge both notes to be the same in response to the following question: Are there any meaningful differences in the treatment plans of SOAP Note A and B?",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for whether Treatment is Consistent with a Predetermined \"Standard of Care\"",
+                "description": "At-risk patients receive malaria, anemia and UTI screening in accordance with certain demographic criteria. A dataset is then constructed with one observation for each (patient, screening test, note), up to six per patient.\n\nThe indicator of treatment misallocation records whether a patient was incorrectly treated for a condition based on the test result or lack of symptoms. The variable is coded as 1 if the patient tested positive and either received inappropriate or no treatment. It is also coded as 1 if the patient tested negative or was not tested based on the symptom screen but received treatment for the condition. The variable is only coded as 0 if the patient tested negative and was correctly not treated for the corresponding condition, or if they tested positive and received the correct treatment.",
+                "timeFrame": "Through study completion, an average of six months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Indicators Denoting Diagnosis and Treatment Alignment Between CHEWs and MOs",
+                "description": "For each medication in the CHEW's treatment plan, there is a \"clinical indication\" (the diagnosis associated with the drug) along with an indicator that specifies if a given prescription is conditional on a medical test result. The research team will consider three indicators of a match:\n\n* any match of the contents of the \"clinical indication\" field across medications;\n* any match of the contents of the \"medication\" field across indications, including whether the medication is conditional on a test or not;\n* a match of both medication and indication (and test conditionality).",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Alternative Indicators for Treatment Misallocation",
+                "description": "The research team will construct the following indicators of treatment misallocation:\n\n* Misallocation due to overprescription: a condition is treated that the patient is confirmed not to have\n* Misallocation due to underprescription: a condition the patient is confirmed to have is not treated\n* Misallocation due to incorrect dosing or drug choice: a condition the patient has is treated but the dosing or medication chosen is inappropriate.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Relationship of QALY Loss to Severity of Patient Condition",
+                "description": "In patients with only mild illnesses, the scope for QALY loss from mistakes may be limited relative to patients with more severe illnesses.\n\nWith this in mind, QALY loss is regressed on indicators for mild, moderate, and severe illnesses (as assessed by the MO) each interacted with the assisted note indicator, controlling for patient fixed effects. Results will be shown graphically.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicators for the Appropriateness of Medical Testing Decisions",
+                "description": "The potential misallocation of medical testing is operationalized in two ways:\n\n1. For each test type, the research team will construct an indicator that is coded as 1 if the CHEW recommends conducting a test that turns out to be negative, and a second indicator that is 1 if the CHEW neglects to request a test that turns out to be positive.\n2. Second, the research team will construct an indicator at the level of (patient, test, note) that measures whether the CHEW and MO requested the same or a comparable medical test (e.g. the CHEW requested a malaria RDT whereas the MO requested a malaria bloodsmear).\n\nCombining these indicators, a mismatch occurs if and only if either: i) a test was not requested by the CHEW but was positive, or ii) the test was requested by the CHEW but the result was negative and no equivalent test was ordered by the MO.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Average and Distribution of DALY Lost",
+                "description": "The effect of LLM assistance DALY lost is measured directly rather than indirectly (as in probability of error and severe error, which note is the better note). The full distribution of DALY ratings for the assisted and unassisted notes will also be shown in the results.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Deviations from the MO's SOAP",
+                "description": "The MO is asked to assess for each SOAP note whether medical tests ordered were necessary or clinically useful, whether there are missing or incorrect/unnecessary diagnoses, and whether there are missing or incorrect/unnecessary treatment plan elements.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Types of Harm Incurred",
+                "description": "The MO is asked to assess any short-term harm (additional symptoms or discomfort for some period), and any long-term serious harm (risk of impairment, death etc.) from the treatment plan in the SOAP note.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MO Evaluation of SOAP Notes: Measuring Healthy Time Lost in DALY",
+                "description": "The MO also provides an overall rating that is intended to reflect the \"healthy time lost\" from any errors in treatment in the SOAP note. For each assessment and plan constructed by a CHEW (with or without LLM advice), an MO will assess the expected magnitude of healthy life that would be lost if the CHEW plan were implemented instead of the MO's plan.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: Flagging MO Error",
+                "description": "In a first step, they will review the MO notes only and record whether there is any error in the diagnosis or treatment proposed in the conditional note or in the final note. If an error is identified the MDs will rate the error by severity to distinguish medical mistakes from differences in opinion about a patient who is not present.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: SOAP Note Rating",
+                "description": "The MD is asked to assess any short-term harm (additional symptoms or discomfort for some period), and any long-term serious harm (risk of impairment, death etc.) from the treatment plan in the SOAP note.\n\nThe MD also provides an overall rating that is intended to reflect the \"healthy time lost\" from any errors in treatment in the SOAP note. For each assessment and plan constructed by a CHEW (with or without LLM advice), an MO will assess the expected magnitude of healthy life that would be lost if the CHEW plan were implemented instead of the MO's plan. Healthy time is measured in units of disability-adjusted life year (DALYs), which reflect both length and quality of life.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "MD Evaluation of CHEW and MO Notes: LLM Review",
+                "description": "The MDs will also review the LLM feedback and answer the following questions:\n\n\"Did the CHEW follow all, some, or none of the LLM recommendations?\" If some or none: \"Imagine the CHEW had followed all the recommendations of the LLM. Would the resulting treatment plan be an improvement over their assisted note?\" (Yes/no) If yes: \"Please explain.\"\" \"Did the LLM make any mistakes?\" (Yes/no) If yes: \"Was any aspect of the CHEW's assisted treatment plan worse than the unassisted plan because the CHEW followed the LLM's erroneous recommendation?\" If yes: \"Please explain.",
+                "timeFrame": "Through study completion, an average of six months"
+              },
+              {
+                "measure": "Indicator for the Appropriateness of Triage Decisions",
+                "description": "For each (patient, note), an indicator records whether the CHEW triage decision (an intent to triage indicated in the SOAP note) and the MO suggested triage decision align.",
+                "timeFrame": "Through study completion, an average of six months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is at the clinic for outpatient consultation\n* Parent/guardian consent is required for individuals under 18\n\nExclusion Criteria:\n\n* Patient does not require emergency care\n* Patient is not at the clinic for a checkup (e.g. weight, blood pressure, follow up after recovery)\n* Patient is not a trauma patient (visit is not for an accident, wound or injury)\n* Patient is not at the clinic for a scheduled procedure or a birth",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Jason Abaluck",
+                "affiliation": "Yale University",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "EHA Clinics REACH Community Clinic, Gyadi Gyadi",
+                "city": "Kano",
+                "state": "Kano State",
+                "country": "Nigeria",
+                "geoPoint": {
+                  "lat": 12.00012,
+                  "lon": 8.51672
+                }
+              },
+              {
+                "facility": "EHA Clinics, 33 Lamido Crescent",
+                "city": "Kano",
+                "state": "Kano State",
+                "country": "Nigeria",
+                "geoPoint": {
+                  "lat": 12.00012,
+                  "lon": 8.51672
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "The following de-identified individual participant data (IDP) will be shared:\n\nPatient demographics and vitals Symptoms and clinical findings documented by CHEWs and MOs Test results (malaria, anemia, UTI) Treatment plans and prescriptions SOAP notes with and without LLM assistance from both CHEWs and MOs Provider assessments and DALY ratings Survey responses from CHEWs and MD panel reviews",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF",
+              "CSR",
+              "ANALYTIC_CODE"
+            ],
+            "timeFrame": "Data will be available to other researchers beginning 3 months after publication and will remain available with no end date.",
+            "accessCriteria": "Academic researchers with a formal appointment at a research institution must submit a research proposal detailing intended analyses and sign a data use agreement."
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "SAP",
+                "hasProtocol": false,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Statistical Analysis Plan",
+                "date": "2025-04-29",
+                "uploadDate": "2025-04-29T18:24",
+                "filename": "SAP_001.pdf",
+                "size": 626152
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05951595",
+            "orgStudyIdInfo": {
+              "id": "MAL23001"
+            },
+            "organization": {
+              "fullName": "University of Oxford",
+              "class": "OTHER"
+            },
+            "briefTitle": "A Study to Find Out if a Combination of 3 Medicines for the Treatment of Malaria Works as Well and is as Safe and Tolerable as Combinations of 2 Medicines",
+            "officialTitle": "An Open-label, Randomised, Controlled, Non-inferiority Trial to Compare the Efficacy, Safety and Tolerability of a Fixed Dose Triple Artemisinin-based Combination Therapy (TACT) Artemether-lumefantrine-amodiaquine Versus First-line Artemisinin-based Combination Therapies (ACTs) for the Treatment of Uncomplicated Plasmodium Falciparum Malaria",
+            "acronym": "FD-TACT"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-10",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-09-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2026-07-31",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2026-07-31",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-06-19",
+            "studyFirstSubmitQcDate": "2023-07-10",
+            "studyFirstPostDateStruct": {
+              "date": "2023-07-19",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-14",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-11-18",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University of Oxford",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The goal of this open-label randomised, controlled, non-inferiority trial is to assess and compare the efficacy, tolerability and safety of a fixed dose TACT artemether-lumefantrine-amodiaquine (ALAQ) to the ACTs artemether-lumefantrine (AL), artesunate-amodiaquine (ASAQ) (with single low-dose primaquine in some sites) for the treatment of uncomplicated Plasmodium falciparum malaria in patient. The main question it aims to answer is whether ALAQ, a fixed dose TACT, is as efficacious, safe and tolerable in comparison with AL and ASAQ.\n\nParticipants will be enrolled, admitted and randomised to receive the study drug (ALAQ, AL or ASAQ). Patients will receive directly observed treatments and will be followed up at least once daily for the first 3 days after enrolment followed by weekly visits from D7 up to D42. Patients will be asked to report to the clinics between scheduled visits in case of any illness or other symptoms or complaints.",
+            "detailedDescription": "Study participants with an uncomplicated P. falciparum monoinfection complying with all the inclusion criteria and without any of the exclusion criteria will be enrolled and randomised to three arms TACT (ALAQ), ACT1 (AL), ACT2 (ASAQ) at the sites in Africa and two arms TACT (ALAQ) and ACT (AL) at the site in Asia. Competitive recruitment with overall trial sample size 1,680 subjects (840 ALAQ, 420 AL, 420 ASAQ, i.e. a 2:1:1 ratio overall). In lower transmission settings (Annual Parasite Incidence \\<50 per 1000 population per year) the treatment will include a single 0.25 mg/kg gametocytocidal dose of primaquine as recommended by the World Health Organization (WHO) for patients ≥10 kg. Primaquine may be given if local treatment policy includes it.\n\nParticipants will be admitted for three days to an in-patient unit for directly observed treatment and to perform all the required study procedures from D0H0 (time of first dose intake) to D3 (H72). They will be followed up weekly starting D7 up to D42.\n\nMicroscopy to detect and quantify malaria parasitaemia will be performed daily (more frequently in participants with parasite density of \\>5000/µL at screening) during hospitalization and at all weekly and unscheduled visits. In participants with parasite densities \\>5000/µL at screening, parasite clearance rates will be assessed by repeated assessments of the parasite counts after the start of the antimalarial treatments. A capillary blood sample will be taken at each of the time-points for these parasite counts.\n\nA physical examination and measurements of vital signs along with a symptom questionnaire will be performed and recorded through a standardized method at baseline, daily during admission and weekly during follow up through D42 and at all unscheduled visits.\n\nSafety assessments will be performed by measuring markers of renal and hepatic toxicity, haemoglobin, platelet counts, absolute and differential white blood cell counts and electrocardiographs (ECGs). ECGs will be performed during hospitalization (H0, H4, and 4 hours after the last dose) and day 42 of follow up to assess and compare the effect of the TACT and ACTs on QT or corrected QT (QTc) intervals.\n\nPharmacokinetic measurements will be linked to measures of efficacy and toxicity. To reduce the burden of blood draws, especially in children, a population pharmacokinetic approach requiring sparse blood sampling will be followed in a subset of participants.\n\nBlood samples for parasite genotyping as well as genomic and transcriptomic studies will be collected at baseline and also on the day of a recurrent infection. In selected study sites, P. falciparum parasites will be cryopreserved for in vitro antimalarial drug sensitivity testing. Where possible, ex vivo or in vitro assessments of parasite susceptibility to artemisinins and partner drugs will be assessed. The in vivo and ex vivo data on artemisinin and partner drug sensitivity will potentially be used to identify new genetic or transcriptomic markers/patterns of artemisinin or partner drug resistance.\n\nThe trial has been funded by Global Health Innovative Technology Fund."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Uncomplicated Plasmodium Falciparum Malaria"
+            ],
+            "keywords": [
+              "Artemether",
+              "Lumefantrine",
+              "Amodiaquine",
+              "Artesunate",
+              "Triple Artemisinin-based Combination Therapy (TACT)"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1680,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Artemether-Lumefantrine-Amodiaquine (ALAQ)",
+                "type": "EXPERIMENTAL",
+                "description": "TACT group",
+                "interventionNames": [
+                  "Drug: Artemether-Lumefantrine-Amodiaquine (ALAQ)"
+                ]
+              },
+              {
+                "label": "Artemether-Lumefantrine (AL)",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "ACT 1 group",
+                "interventionNames": [
+                  "Drug: Artemether-Lumefantrine (AL)"
+                ]
+              },
+              {
+                "label": "Artesunate-Amodiaquine (ASAQ)",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "ACT 2 group",
+                "interventionNames": [
+                  "Drug: Artesunate-Amodiaquine (ASAQ)"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Artemether-Lumefantrine-Amodiaquine (ALAQ)",
+                "description": "A new fixed-dose combination containing artemether, lumefantrine and amodiaquine (ALAQ) will be used in the trial. Each paediatric (dispersible) tablet will contain 20 mg artemether, 120 mg lumefantrine, 40 mg amodiaquine. Two formulations of (non-dispersible/hard) tablets, containing 50 mg or 60 mg artemether, 300 or 360 mg lumefantrine and 100 or 120 mg amodiaquine, will be used for adolescents or adults. The treatments will be administered in 6 doses over 3 days at H0, H8, H24, H36, H48 and H60. The target dosing will be in line with the ranges recommended by the WHO (total dose of 5-24 mg/kg of artemether, 29-144 mg/ kg of lumefantrine, 22.5-45 mg/kg of amodiaquine).",
+                "armGroupLabels": [
+                  "Artemether-Lumefantrine-Amodiaquine (ALAQ)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Artemether-Lumefantrine (AL)",
+                "description": "A fixed-dose combination of AL will be used in the trial. Each paediatric (dispersible or non-dispersible) tablet will contain 20 mg artemether, 120 mg lumefantrine and adult (non-dispersible) tablets will contain 80 mg artemether, 480 mg lumefantrine. Treatment doses will be administered in 6 doses over 3 days at H0, H8, H24, H36, H48 and H60. The target dosing will be in line with the ranges recommended by the WHO.",
+                "armGroupLabels": [
+                  "Artemether-Lumefantrine (AL)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Artesunate-Amodiaquine (ASAQ)",
+                "description": "ASAQ will also be administered as a fixed dose combination. The tablets will contain 25 mg of artesunate and 67.5 mg of amodiaquine in the paediatric formulation and 100 mg artesunate, 270 mg amodiaquine in the adult formulation. The dosing will be administered once a day for 3 days at H0, H24 and H48 according to the schedule currently recommended by the WHO.",
+                "armGroupLabels": [
+                  "Artesunate-Amodiaquine (ASAQ)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "28-day efficacy",
+                "description": "28-day efficacy defined as the proportion of patients with Polymerase Chain Reaction (PCR)-corrected adequate clinical and parasitological response (ACPR) at Day 28, i.e., absence up to Day 28 of P. falciparum parasitaemia (detected by microscopy) with parasites genetically identical to those detected at baseline (as determined by PCR product length polymorphisms)",
+                "timeFrame": "28 days"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "28-day PCR uncorrected efficacy",
+                "description": "28-day PCR uncorrected efficacy defined as the proportion of patients with absence up to Day 28 of P. falciparum parasitaemia",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "42-day efficacy",
+                "description": "42-day efficacy defined as the proportion of patients with PCR-corrected adequate clinical and parasitological response (ACPR) at Day 42, i.e., absence up to Day 42 of P. falciparum parasitaemia (detected by microscopy) with parasites genetically identical to those detected at baseline (as determined by PCR product length polymorphisms)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "42-day PCR-uncorrected efficacy",
+                "description": "42-day PCR-uncorrected efficacy defined as the proportion of patients with absence up to Day 42 of P. falciparum parasitaemia",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Parasite clearance half-life",
+                "description": "Assessed by microscopy as primary parameter to determine parasite clearance half-life",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Proportion of participants with microscopically detectable P. falciparum parasitaemia at Day 3",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Fever clearance time",
+                "description": "Fever clearance time (i.e., the time taken for the tympanic temperature to fall below 37.5°C in participants who were febrile at inclusion)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportion of participants with gametocytaemia",
+                "description": "Proportion of participants with gametocytaemia during and after treatment stratified by presence of gametocytes at enrolment",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Incidence of adverse events (AEs)",
+                "description": "Incidence of AEs within the first 42 days including markers of hepatic, renal or bone marrow toxicity",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Incidence of serious adverse events (SAEs)",
+                "description": "Incidence of SAEs within the first 42 days including markers of hepatic, renal or bone marrow toxicity",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Number of cardiotoxicity events",
+                "description": "Cardiotoxicity in particular QT or QTc-interval above 500 ms at timepoint H4, H52 or H64, D42",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportion of participants requiring retreatment due to vomiting",
+                "description": "Proportion of participants requiring retreatment due to vomiting within 1 hour after administration of the study drugs",
+                "timeFrame": "1 hour after administration of each dose of the treatment"
+              },
+              {
+                "measure": "Proportion of participants who report completing a full course of observed TACT",
+                "description": "Proportion of participants who report completing a full course of observed TACT without withdrawal of consent or exclusion from study because of drug related serious adverse event",
+                "timeFrame": "3 days"
+              },
+              {
+                "measure": "Proportion of participants who report completing a full course of observed ACT",
+                "description": "Proportion of participants who report completing a full course of observed ACT without withdrawal of consent or exclusion from study because of drug related serious adverse event",
+                "timeFrame": "2 or 3 days depending on the treatment"
+              },
+              {
+                "measure": "Peak plasma concentration",
+                "description": "Peak plasma concentration (Cmax) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamics measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Area under curve",
+                "description": "Area under the plasma concentration versus time curve (AUC) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamic measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Pharmacokinetic interactions - peak plasma concentration",
+                "description": "Comparison of peak plasma concentration (Cmax) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamics measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Pharmacokinetic interactions - area under curve",
+                "description": "Comparison of area under the plasma concentration versus time curve (AUC) of artemisinin-derivatives and partner drugs in ACT and TACT treated participants in correlation with pharmacodynamic measures of drug efficacy",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Plasma levels of partner drugs",
+                "description": "Plasma levels of partner drugs in correlation with treatment efficacy and treatment arm on Day 7",
+                "timeFrame": "7 days"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Comparison of 28-day PCR-corrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 28-day PCR-corrected ACPR (as defined in outcome measure 1) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-uncorrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 28-day PCR-uncorrected efficacy (as defined in outcome measure 2) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-corrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 42-day PCR-corrected ACPR (as defined in outcome measure 3) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-uncorrected efficacy of ALAQ vs AL",
+                "description": "Comparison of 42-day PCR-uncorrected efficacy (as defined in outcome measure 4) of ALAQ vs AL in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-corrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 28-day PCR-corrected ACPR (as defined in outcome measure 1) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 28-day PCR-uncorrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 28-day PCR-uncorrected efficacy (as defined in outcome measure 2) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-corrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 42-day PCR-corrected ACPR (as defined in outcome measure 3) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Comparison of 42-day PCR-uncorrected efficacy of ALAQ vs ASAQ",
+                "description": "Comparison of 42-day PCR-uncorrected efficacy (as defined in outcome measure 4) of ALAQ vs ASAQ in infections with parasites carrying known and/or candidate markers of antimalarial drug resistance (mutations in pfkelch13, pfcrt, pfmdr1 and/or other markers, including those identified over the course of the study)",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportions of recurrent infections with mutations",
+                "description": "Proportions of recurrent infections with parasites carrying mutations known to be associated with recrudescence",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Proportions of specimens collected at baseline with parasites carrying mutations",
+                "description": "Proportions of specimens collected at baseline with parasites carrying mutations of known functional or operational significance (pfkelch13, pfcrt, pfmdr1, pfdhfr, pfdhps, pfplasmepsin2, and/or other parasite genetic markers associated with resistance or identified over the course of the study)",
+                "timeFrame": "Baseline"
+              },
+              {
+                "measure": "Change in haemoglobin concentration stratified for Glucose-6-Phosphate Dehydrogenase (G6PD) status/genotype",
+                "description": "Change in haemoglobin concentration at day 3, 7, 28, stratified for G6PD status/genotype in participants receiving single low dose primaquine (SLD-PQ) vs those not receiving it",
+                "timeFrame": "28 days"
+              },
+              {
+                "measure": "Comparison of transcriptomic patterns of drug sensitive and resistant parasites",
+                "description": "Comparison of levels of RNA transcription before treatment and 6, 12 and 24 hours after start of treatment between parasites with or without known or putative markers of drug resistance",
+                "timeFrame": "24 hours"
+              },
+              {
+                "measure": "Levels of RNA transcription coding for male or female specific gametocytes",
+                "description": "Levels of RNA transcription coding for male or female specific gametocytes at admission up to day 14, stratified by the presence of gametocytes at enrolment",
+                "timeFrame": "14 days"
+              },
+              {
+                "measure": "In vitro susceptibility of P. falciparum to artemisinins and partner drugs",
+                "description": "In vitro susceptibility, measured as % survival after drug exposure or as half-maximal inhibitory concentration (IC50), of P. falciparum to artemisinins and partner drugs according to study sites and genotype",
+                "timeFrame": "42 days"
+              },
+              {
+                "measure": "Ex vivo susceptibility of P. falciparum to artemisinins and partner drugs",
+                "description": "Ex vivo susceptibility, measured as % survival after drug exposure or as IC50, of P. falciparum to artemisinins and partner drugs according to study sites and genotype",
+                "timeFrame": "42 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female, aged ≥6 months (no upper limit unless one is required by local regulations) and bodyweight ≥5 kg\n* Ability to take oral medication\n* Fever defined as ≥38°C tympanic temperature or a history of fever within the last 24 hours\n* Acute uncomplicated P. falciparum monoinfection\n* Asexual P. falciparum parasitaemia: 1,000/µL to 250,000/µL determined on a peripheral blood film\n* Written informed consent by the participant, or by the parent/guardian in case of children lower than the age of consent, and assent if required (per local regulations)\n* Willingness and ability of the participants or parents/guardians to comply with the study protocol for the duration of the study\n\nExclusion Criteria:\n\n* Signs of severe malaria (adapted from WHO criteria)\n* Patients not fulfilling criteria for severe malaria but with other indication(s) for parenteral antimalarial treatment at the discretion of the treating physician\n* Haemoglobin \\<7 g/dL at screening\n* Participants who have received artemisinin or a derivative within the previous 7 days OR lumefantrine or amodiaquine within the previous 14 days\n* In applicable countries: use of seasonal malaria chemoprophylaxis (SMC) within the last 30 days\n* Acute illness other than malaria requiring systemic treatment\n* Severe acute malnutrition\n* Known HIV, tuberculosis, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or other severe infection\n* For women of child-bearing age: pregnant, trying to get pregnant or lactating\n* History of allergy or known contraindication to any of the study drugs, including neuropsychiatric disorders and epilepsy\n* Previous splenectomy\n* Participation in the previous 3 months and/or ongoing follow-up for an interventional study (including FD-TACT)",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "6 Months",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Mehul Dhorda, Ph.D",
+                "role": "CONTACT",
+                "phone": "+66 2 203-6333",
+                "email": "mehul@tropmedres.ac"
+              },
+              {
+                "name": "Arjen Dondorp, Prof.",
+                "role": "CONTACT",
+                "phone": "+66 2 203-6333",
+                "phoneExt": "6303",
+                "email": "arjen@tropmedres.ac"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Mehul Dhorda, Ph.D",
+                "affiliation": "Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Arjen Dondorp, Prof.",
+                "affiliation": "Mahidol Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Ruhuha Health Centre",
+                "status": "RECRUITING",
+                "city": "Ruhuha",
+                "state": "Eastern Province",
+                "country": "Rwanda",
+                "contacts": [
+                  {
+                    "name": "Leon Mutesa, MD PhD",
+                    "role": "CONTACT",
+                    "phone": "+250 788 451 013",
+                    "email": "lmutesa@gmail.com"
+                  },
+                  {
+                    "name": "Raphael Ndahimana, MSc",
+                    "role": "CONTACT",
+                    "phone": "+250 789 926 345",
+                    "email": "ndahimana.raphael@gmail.com"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": -2.30403,
+                  "lon": 30.05134
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "With participant's consent, participant's data and results from blood analyses stored in the database may be shared according to the terms defined in the Mahidol Oxford Tropical Medicine Research Unit (MORU) data sharing policy with other researchers to use in the future. All personal information will be anonymised so that no individual can be identified from their treatment records or through interviews.",
+            "timeFrame": "After completion of the trial activities and reporting",
+            "accessCriteria": "MORU data sharing policy",
+            "url": "https://www.tropmedres.ac/units/moru-bangkok/bioethics-engagement/data-sharing/moru-tropical-network-policy-on-sharing-data-and-other-outputs"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000077611",
+                "term": "Artemether, Lumefantrine Drug Combination"
+              },
+              {
+                "id": "C515299",
+                "term": "amodiaquine, artesunate drug combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000077549",
+                "term": "Artemether"
+              },
+              {
+                "id": "D037621",
+                "term": "Artemisinins"
+              },
+              {
+                "id": "D017382",
+                "term": "Reactive Oxygen Species"
+              },
+              {
+                "id": "D005609",
+                "term": "Free Radicals"
+              },
+              {
+                "id": "D007287",
+                "term": "Inorganic Chemicals"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000078102",
+                "term": "Lumefantrine"
+              },
+              {
+                "id": "D005449",
+                "term": "Fluorenes"
+              },
+              {
+                "id": "D011084",
+                "term": "Polycyclic Aromatic Hydrocarbons"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D012717",
+                "term": "Sesquiterpenes"
+              },
+              {
+                "id": "D013729",
+                "term": "Terpenes"
+              },
+              {
+                "id": "D011083",
+                "term": "Polycyclic Compounds"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00674921",
+            "orgStudyIdInfo": {
+              "id": "009/ESR/NDA/DID-01/2008"
+            },
+            "organization": {
+              "fullName": "MRC/UVRI and LSHTM Uganda Research Unit",
+              "class": "OTHER"
+            },
+            "briefTitle": "Cotrimoxazole Prophylaxis Cessation Study Among Stabilized HIV-Infected Adult Patients on HAART in Entebbe, Uganda",
+            "officialTitle": "Cotrimoxazole Prophylaxis Cessation Study Among Stabilized HIV-Infected Adult Patients on HAART in Entebbe, Uganda",
+            "acronym": "CCS"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2008-05",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2008-06"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2011-06",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2011-06",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2008-05-06",
+            "studyFirstSubmitQcDate": "2008-05-06",
+            "studyFirstPostDateStruct": {
+              "date": "2008-05-08",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2008-06-04",
+            "lastUpdatePostDateStruct": {
+              "date": "2008-06-05",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "oldNameTitle": "Dr George Miiro",
+              "oldOrganization": "MRC/UVRI Uganda Research Unit on Aids"
+            },
+            "leadSponsor": {
+              "name": "MRC/UVRI and LSHTM Uganda Research Unit",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Medical Research Council",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "According to the national guidelines in Uganda and to the World Health Organization guidelines, HIV-infected patients should receive cotrimoxazole prophylaxis indefinitely. There are, however, concerns regarding the indefinite application of cotrimoxazole prophylaxis among patients immunologically stabilized on HAART (e.g. high pill burden, drug-drug interactions, toxicity and poor adherence because of treatment fatigue). To date no empirical evidence is available regarding the safety and optimal timing for the cessation of cotrimoxazole prophylaxis among HAART patients who successfully restored immunological competence.\n\nResearch question: Does morbidity significantly differ between continuation (orthodox) and cessation (experimental) of cotrimoxazole prophylaxis among immuno-competent patients stable HAART in the resource-limited setting of Uganda?",
+            "detailedDescription": "Randomized double-blind placebo controlled equivalence trial to be conducted among consenting clinically healthy patients on HAART with 2 or more CD4 counts of 200 cells/ul or more for at least 3 months. The study will enable comparison of effects of randomized cessation of cotrimoxazole prophylaxis at 2 CD4-guided thresholds (200 Vs 350 cells/ul).\n\nRationale for inclusion of the placebo-controlled design\n\n* The double-blind placebo controlled approach is feasible and ethically justified in this equipoise situation to allow for concealment of allocated intervention among investigators and patients and avoids accidental unblinding of investigators to the allocated interventions by trial patients.\n* Maintenance of continued cotrimoxazole prophylaxis among patients randomized to this intervention will be easier if there is no awareness that those patients randomized to cessation of prophylaxis have a relative advantage of reduced pill burden.\n* It would be very difficult to maintain cessation of cotrimoxazole prophylaxis among patients randomized to do so in our setting where cotrimoxazole is readily and cheaply available in drug shops, drug stores and pharmacies.\n\nFirst randomisation\n\nPatients who have been on HAART for at least 3 months and who have a confirmed CD4 count between 200 and 349 cells/ul will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of the placebo cotrimoxazole daily.\n\nSecond randomization\n\nPatients who achieve a confirmed CD4 count of 350 cells/ul or more while on HAART will be randomized to continue prophylaxis with active cotrimoxazole or to cease prophylaxis with active cotrimoxazole but continue with ingestion of placebo cotrimoxazole daily. Some patients will have participated already in 1st randomization but others will be entering the trial at this stage for the first time.\n\nRationale for 4 trial arms\n\nIn order to assess the separate effects of cessation of cotrimoxazole prophylaxis in trial patients at the 2 randomization stages above, those continuing with prophylaxis will be compared with those ceasing prophylaxis, necessitating 2 arms at each stage."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Infections"
+            ],
+            "keywords": [
+              "Opportunistic Infections",
+              "AIDS",
+              "HIV",
+              "Treatment Experienced"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE4"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "FACTORIAL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1650,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "1",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "It will comprise patients randomized to receive the placebo (stop cotrimoxazole prophylaxis) at CD4 counts of 200 or more but less than 350 cells/ul as they continue with HAART. Patients will be followed until they achieve a CD4 count of 350 cells/ul.",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              },
+              {
+                "label": "2",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "It will comprise patients randomized to continue with cotrimoxazole prophylaxis and HAART at CD4 counts of 200 or more but less than 350 cells/ul. These patients will be followed until they achieve a CD4 count of 350 cells/ul and above, at which point they will be considered for the second randomization.",
+                "interventionNames": [
+                  "Drug: cotrimoxazole"
+                ]
+              },
+              {
+                "label": "A",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "This arm will comprise patients who have achieved a CD4 count of 350 or more cells/ul either at the beginning of the study or once they have reached this threshold at the end of follow up in arms 1 and 2. They (including those previously in Arm 1) will receive the placebo (stop cotrimoxazole prophylaxis) after the second randomization but continue with HAART.",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              },
+              {
+                "label": "B",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "It will comprise patients randomized to continue or start with cotrimoxazole prophylaxis and HAART at CD4 of 350 or more cells/ul after second randomization. Some of them will have used cotrimoxazole prophylaxis whilst they were in arm 2 and others in arm 1 will restart cotrimoxazole prophylaxis at this stage.",
+                "interventionNames": [
+                  "Drug: cotrimoxazole"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "cotrimoxazole",
+                "description": "cotrimoxazole 800/160 mg once daily as indicated by the start and end times of the specified arms for continued prevention of HIV-related infections",
+                "armGroupLabels": [
+                  "2",
+                  "B"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo",
+                "description": "starch, magnesium stearate, sodium lauryl sulphate",
+                "armGroupLabels": [
+                  "1",
+                  "A"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "all-cause morbidity such as pneumonia or malaria (presumptive and definitive diagnosis)",
+                "timeFrame": "3 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "sub-clinical laboratory abnormalities (such as neutropenia) and serious adverse events (such as death)",
+                "timeFrame": "3 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Consenting HIV-infected patient aged 16 years or older,\n* Resident within 40 kms of study clinics\n* Regularly attending clinics\n* Documented HAART intake for at least 3 months\n* Clinically healthy and stable\n* Confirmed CD4 count of 200 cells/ul more.\n\nExclusion Criteria:\n\n* Acutely ill patients with opportunistic or other infections\n* Patients already enrolled in other HAART trials (e.g DART trial)\n* First trimester pregnancy at enrolment\n* Clinical and immunological evidence of HAART treatment failure\n* Unable to attend study clinics regularly\n* Hypersensitivity to cotrimoxazole",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "16 Years",
+            "maximumAge": "59 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "George Mukalazi Miiro, MSc, MBChB",
+                "role": "CONTACT",
+                "phone": "256-414-320-272",
+                "email": "george.miiro@mrcuganda.org"
+              },
+              {
+                "name": "Heiner Grosskurth, PhD, MD",
+                "role": "CONTACT",
+                "phone": "256-414-320-272",
+                "email": "heiner.grosskurth@mrcuganda.org"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "George Miiro, MSc, MBChB",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Heiner Grosskurth, PhD, MD",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "STUDY_DIRECTOR"
+              },
+              {
+                "name": "Paula Munderi, MRCP, MBChB",
+                "affiliation": "MRC/UVRI Unit",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "MRC/UVRI Uganda Research Unit on Aids",
+                "city": "Entebbe",
+                "zip": "256",
+                "country": "Uganda",
+                "geoPoint": {
+                  "lat": 0.05621,
+                  "lon": 32.47949
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "15577626",
+                "type": "RESULT",
+                "citation": "Zellweger C, Opravil M, Bernasconi E, Cavassini M, Bucher HC, Schiffer V, Wagels T, Flepp M, Rickenbach M, Furrer H; Swiss HIV Cohort Study. Long-term safety of discontinuation of secondary prophylaxis against Pneumocystis pneumonia: prospective multicentre study. AIDS. 2004 Oct 21;18(15):2047-53. doi: 10.1097/00002030-200410210-00009."
+              },
+              {
+                "pmid": "12594647",
+                "type": "RESULT",
+                "citation": "Mussini C, Pezzotti P, Antinori A, Borghi V, Monforte Ad, Govoni A, De Luca A, Ammassari A, Mongiardo N, Cerri MC, Bedini A, Beltrami C, Ursitti MA, Bini T, Cossarizza A, Esposito R; Changes in Opportunistic Prophylaxis (CIOP) Study Group. Discontinuation of secondary prophylaxis for Pneumocystis carinii pneumonia in human immunodeficiency virus-infected patients: a randomized trial by the CIOP Study Group. Clin Infect Dis. 2003 Mar 1;36(5):645-51. doi: 10.1086/367659. Epub 2003 Feb 12."
+              },
+              {
+                "pmid": "11188837",
+                "type": "RESULT",
+                "citation": "Ledergerber B, Mocroft A, Reiss P, Furrer H, Kirk O, Bickel M, Uberti-Foppa C, Pradier C, D'Arminio Monforte A, Schneider MM, Lundgren JD; Eight European Study Groups. Discontinuation of secondary prophylaxis against Pneumocystis carinii pneumonia in patients with HIV infection who have a response to antiretroviral therapy. Eight European Study Groups. N Engl J Med. 2001 Jan 18;344(3):168-74. doi: 10.1056/NEJM200101183440302."
+              },
+              {
+                "pmid": "16371882",
+                "type": "RESULT",
+                "citation": "Esposito S, Bojanin J, Porta A, Cesati L, Gualtieri L, Principi N. Discontinuation of secondary prophylaxis for Pneumocystis pneumonia in human immunodeficiency virus-infected children treated with highly active antiretroviral therapy. Pediatr Infect Dis J. 2005 Dec;24(12):1117-20. doi: 10.1097/01.inf.0000190038.53813.d2."
+              },
+              {
+                "pmid": "11172138",
+                "type": "RESULT",
+                "citation": "Lopez Bernaldo de Quiros JC, Miro JM, Pena JM, Podzamczer D, Alberdi JC, Martinez E, Cosin J, Claramonte X, Gonzalez J, Domingo P, Casado JL, Ribera E; Grupo de Estudio del SIDA 04/98. A randomized trial of the discontinuation of primary and secondary prophylaxis against Pneumocystis carinii pneumonia after highly active antiretroviral therapy in patients with HIV infection. Grupo de Estudio del SIDA 04/98. N Engl J Med. 2001 Jan 18;344(3):159-67. doi: 10.1056/NEJM200101183440301."
+              },
+              {
+                "pmid": "10219064",
+                "type": "RESULT",
+                "citation": "Furrer H, Egger M, Opravil M, Bernasconi E, Hirschel B, Battegay M, Telenti A, Vernazza PL, Rickenbach M, Flepp M, Malinverni R. Discontinuation of primary prophylaxis against Pneumocystis carinii pneumonia in HIV-1-infected adults treated with combination antiretroviral therapy. Swiss HIV Cohort Study. N Engl J Med. 1999 Apr 29;340(17):1301-6. doi: 10.1056/NEJM199904293401701."
+              },
+              {
+                "pmid": "10218526",
+                "type": "RESULT",
+                "citation": "Weverling GJ, Mocroft A, Ledergerber B, Kirk O, Gonzales-Lahoz J, d'Arminio Monforte A, Proenca R, Phillips AN, Lundgren JD, Reiss P. Discontinuation of Pneumocystis carinii pneumonia prophylaxis after start of highly active antiretroviral therapy in HIV-1 infection. EuroSIDA Study Group. Lancet. 1999 Apr 17;353(9161):1293-8. doi: 10.1016/s0140-6736(99)03287-0."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D009894",
+                "term": "Opportunistic Infections"
+              },
+              {
+                "id": "D000163",
+                "term": "Acquired Immunodeficiency Syndrome"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D012897",
+                "term": "Slow Virus Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015662",
+                "term": "Trimethoprim, Sulfamethoxazole Drug Combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D013420",
+                "term": "Sulfamethoxazole"
+              },
+              {
+                "id": "D000096926",
+                "term": "Benzenesulfonamides"
+              },
+              {
+                "id": "D013449",
+                "term": "Sulfonamides"
+              },
+              {
+                "id": "D000577",
+                "term": "Amides"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D013424",
+                "term": "Sulfanilamides"
+              },
+              {
+                "id": "D000814",
+                "term": "Aniline Compounds"
+              },
+              {
+                "id": "D000588",
+                "term": "Amines"
+              },
+              {
+                "id": "D001555",
+                "term": "Benzene Derivatives"
+              },
+              {
+                "id": "D006841",
+                "term": "Hydrocarbons, Aromatic"
+              },
+              {
+                "id": "D006844",
+                "term": "Hydrocarbons, Cyclic"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              },
+              {
+                "id": "D013450",
+                "term": "Sulfones"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D014295",
+                "term": "Trimethoprim"
+              },
+              {
+                "id": "D011743",
+                "term": "Pyrimidines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

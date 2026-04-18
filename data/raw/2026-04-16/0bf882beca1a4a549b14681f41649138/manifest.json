@@ -1,0 +1,74 @@
+{
+  "run_id": "0bf882beca1a4a549b14681f41649138",
+  "stored_at": "2026-04-16T22:09:24+00:00",
+  "query": "cancer latest treatment therapy management USA",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "(cancer[MeSH] AND (therapy[MeSH] OR treatment[MeSH]) AND (management[MeSH] OR management[tiab]) AND (United States[me] OR USA[tiab]))",
+    "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR evidence synthesis[tiab]) AND (United States[me] OR USA[tiab]))",
+    "(cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR systematic review[tiab]) AND (USA[me] OR United States[tiab]))",
+    "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (evidence based medicine[MeSH] OR clinical guidelines[tiab]) AND (United States[me] OR USA[tiab]))",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(cancer[MeSH] AND (therapy[MeSH] OR treatment[MeSH]) AND (management[MeSH] OR management[tiab]) AND (United States[me] OR USA[tiab]))",
+    "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR evidence synthesis[tiab]) AND (United States[me] OR USA[tiab]))",
+    "(cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR systematic review[tiab]) AND (USA[me] OR United States[tiab]))",
+    "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (evidence based medicine[MeSH] OR clinical guidelines[tiab]) AND (United States[me] OR USA[tiab]))"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 68,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(cancer[MeSH] AND (therapy[MeSH] OR treatment[MeSH]) AND (management[MeSH] OR management[tiab]) AND (United States[me] OR USA[tiab]))",
+      "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR evidence synthesis[tiab]) AND (United States[me] OR USA[tiab]))",
+      "(cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (epidemiology[MeSH] OR systematic review[tiab]) AND (USA[me] OR United States[tiab]))",
+      "(lung cancer AND (therapy[MeSH] OR treatment[MeSH]) AND (evidence based medicine[MeSH] OR clinical guidelines[tiab]) AND (United States[me] OR USA[tiab]))"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0bf882beca1a4a549b14681f41649138\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0bf882beca1a4a549b14681f41649138\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0bf882beca1a4a549b14681f41649138\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0bf882beca1a4a549b14681f41649138\\combined.records.json"
+  }
+}

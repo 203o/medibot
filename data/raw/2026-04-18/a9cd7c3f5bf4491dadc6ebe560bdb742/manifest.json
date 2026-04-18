@@ -1,0 +1,71 @@
+{
+  "run_id": "a9cd7c3f5bf4491dadc6ebe560bdb742",
+  "stored_at": "2026-04-18T16:23:28+00:00",
+  "query": "parkinson's disease parkinson disease treatment therapy",
+  "query_fallbacks": [
+    "parkinson's disease parkinson disease treatment therapy",
+    "Parkinson's disease epidemiology 2026",
+    "Systematic review of Parkinson's disease treatment",
+    "Epidemiological studies on Parkinson's disease management",
+    "Meta-analysis of Parkinson's disease therapy outcomes",
+    "parkinson's disease parkinson disease treatment treatment",
+    "parkinson's disease"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson's disease parkinson disease treatment therapy",
+    "parkinson's disease parkinson disease treatment treatment",
+    "parkinson's disease"
+  ],
+  "expanded_queries": [
+    "Parkinson's disease epidemiology 2026",
+    "Systematic review of Parkinson's disease treatment",
+    "Epidemiological studies on Parkinson's disease management",
+    "Meta-analysis of Parkinson's disease therapy outcomes"
+  ],
+  "keywords": [
+    "parkinson's disease",
+    "parkinson",
+    "disease",
+    "treatment",
+    "therapy",
+    "management",
+    "options",
+    "2026"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 37,
+    "indexed_chunks": 157
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Parkinson's disease epidemiology 2026",
+      "Systematic review of Parkinson's disease treatment",
+      "Epidemiological studies on Parkinson's disease management",
+      "Meta-analysis of Parkinson's disease therapy outcomes"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\a9cd7c3f5bf4491dadc6ebe560bdb742\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\a9cd7c3f5bf4491dadc6ebe560bdb742\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\a9cd7c3f5bf4491dadc6ebe560bdb742\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\a9cd7c3f5bf4491dadc6ebe560bdb742\\combined.records.json"
+  }
+}

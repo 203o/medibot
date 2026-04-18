@@ -1,0 +1,993 @@
+{
+  "enabled": true,
+  "indexed_chunks": 145,
+  "matches": [
+    {
+      "id": "clinicaltrials:NCT00001643:0",
+      "score": 0.7093351483345032,
+      "metadata": {
+        "id": "clinicaltrials:NCT00001643:0",
+        "doc_id": "NCT00001643",
+        "source": "clinicaltrials",
+        "title": "Gene Analysis of Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00001643",
+        "text": "Children who do inherit the abnormal gene may or may not go on to actually develop Parkinson's disease-the relative chance of this happening is not known."
+      }
+    },
+    {
+      "id": "pubmed:4061437:1",
+      "score": 0.6936119794845581,
+      "metadata": {
+        "id": "pubmed:4061437:1",
+        "doc_id": "4061437",
+        "source": "pubmed",
+        "title": "Measles infection and Parkinson's disease.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, P.H.S.",
+        "year": "1985",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4061437/",
+        "text": "A case-control analysis of Parkinson's disease and infections in childhood was conducted in a cohort of 50,002 men who attended Harvard College (Cambridge, MA) or the University of Pennsylvania (Philadelphia, PA) between 1916 and 1950 and who were followed in adulthood for morbidity and mortality data."
+      }
+    },
+    {
+      "id": "pubmed:15465394:0",
+      "score": 0.6917631030082703,
+      "metadata": {
+        "id": "pubmed:15465394:0",
+        "doc_id": "15465394",
+        "source": "pubmed",
+        "title": "Impact of Parkinson's disease on patients' adolescent and adult children.",
+        "study_type": "Journal Article",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15465394/",
+        "text": "We assessed the impact of Parkinson's disease (PD) on the well-being of patients' adolescent and adult children."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00001643:2",
+      "score": 0.652337908744812,
+      "metadata": {
+        "id": "clinicaltrials:NCT00001643:2",
+        "doc_id": "NCT00001643",
+        "source": "clinicaltrials",
+        "title": "Gene Analysis of Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00001643",
+        "text": "Individuals 18 years of age and older from families in which Parkinson's disease appears to be inherited may be eligible for this study."
+      }
+    },
+    {
+      "id": "pubmed:31625879:1",
+      "score": 0.6397913098335266,
+      "metadata": {
+        "id": "pubmed:31625879:1",
+        "doc_id": "31625879",
+        "source": "pubmed",
+        "title": "[Parkinson's Disease: Clinical Review and Update].",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31625879/",
+        "text": "This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice."
+      }
+    },
+    {
+      "id": "pubmed:36342310:1",
+      "score": 0.6320180892944336,
+      "metadata": {
+        "id": "pubmed:36342310:1",
+        "doc_id": "36342310",
+        "source": "pubmed",
+        "title": "Pharmacological management of Parkinson's disease motor symptoms: update and recommendations from an expert.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36342310/",
+        "text": "Parkinson's disease (PD) is a neurodegenerative multisystemic disorder that affects approximately 1% of the population over 55 years old, with the mean age of onset at 60 years old, and the prevalence of the disease constantly growing."
+      }
+    },
+    {
+      "id": "pubmed:37182899:2",
+      "score": 0.6303236484527588,
+      "metadata": {
+        "id": "pubmed:37182899:2",
+        "doc_id": "37182899",
+        "source": "pubmed",
+        "title": "Closed-Loop Adaptive Deep Brain Stimulation in Parkinson's Disease: Procedures to Achieve It and Future Perspectives.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182899/",
+        "text": "Parkinson's disease (PD) is a neurodegenerative disease with a heavy burden on patients, families, and society."
+      }
+    },
+    {
+      "id": "pubmed:36012619:0",
+      "score": 0.608829140663147,
+      "metadata": {
+        "id": "pubmed:36012619:0",
+        "doc_id": "36012619",
+        "source": "pubmed",
+        "title": "Lipid Nanoparticles: Promising Treatment Approach for Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36012619/",
+        "text": "Parkinson's disease (PD), a neurodegenerative disorder, is a life-altering, debilitating disease exhibiting a severe physical, psychological, and financial burden on patients."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02445651:2",
+      "score": 0.6070003509521484,
+      "metadata": {
+        "id": "clinicaltrials:NCT02445651:2",
+        "doc_id": "NCT02445651",
+        "source": "clinicaltrials",
+        "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02445651",
+        "text": "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans."
+      }
+    },
+    {
+      "id": "pubmed:33441061:0",
+      "score": 0.6068649291992188,
+      "metadata": {
+        "id": "pubmed:33441061:0",
+        "doc_id": "33441061",
+        "source": "pubmed",
+        "title": "Extracellular Vesicles in the Treatment of Parkinson's Disease: A Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33441061/",
+        "text": "Parkinson's disease (PD) is one of the most common neurological disorders that can severely affect the ability to perform daily activities."
+      }
+    },
+    {
+      "id": "pubmed:31607362:0",
+      "score": 0.6056354641914368,
+      "metadata": {
+        "id": "pubmed:31607362:0",
+        "doc_id": "31607362",
+        "source": "pubmed",
+        "title": "Exercise and Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31607362/",
+        "text": "Parkinson's disease (PD) is one of the most common neurodegenerative diseases in the world."
+      }
+    },
+    {
+      "id": "pubmed:32568114:1",
+      "score": 0.6054481267929077,
+      "metadata": {
+        "id": "pubmed:32568114:1",
+        "doc_id": "32568114",
+        "source": "pubmed",
+        "title": "Challenges and Perspectives in the Management of Late-Stage Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32568114/",
+        "text": "Parkinson's disease (PD) is a common neurodegenerative disorder, with a continuously increasing prevalence."
+      }
+    },
+    {
+      "id": "pubmed:4061437:2",
+      "score": 0.6042356491088867,
+      "metadata": {
+        "id": "pubmed:4061437:2",
+        "doc_id": "4061437",
+        "source": "pubmed",
+        "title": "Measles infection and Parkinson's disease.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, P.H.S.",
+        "year": "1985",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4061437/",
+        "text": "Cases of Parkinson's disease were identified from responses to mailed questionnaires and death certificates through 1978."
+      }
+    },
+    {
+      "id": "pubmed:10451755:2",
+      "score": 0.5990155935287476,
+      "metadata": {
+        "id": "pubmed:10451755:2",
+        "doc_id": "10451755",
+        "source": "pubmed",
+        "title": "Parkinson's disease--levodopa complications.",
+        "study_type": "Journal Article, Review",
+        "year": "1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10451755/",
+        "text": "Parkinson's disease is a readily recognized clinical syndrome, characterized by resting tremor, rigidity, bradykinesia and loss of postural reflexes."
+      }
+    },
+    {
+      "id": "pubmed:34366370:0",
+      "score": 0.5977278351783752,
+      "metadata": {
+        "id": "pubmed:34366370:0",
+        "doc_id": "34366370",
+        "source": "pubmed",
+        "title": "Next-Generation Gene Therapy for Parkinson's Disease Using Engineered Viral Vectors.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34366370/",
+        "text": "This review summarizes the development and their potential in treating Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04269577:1",
+      "score": 0.5972338914871216,
+      "metadata": {
+        "id": "clinicaltrials:NCT04269577:1",
+        "doc_id": "NCT04269577",
+        "source": "clinicaltrials",
+        "title": "Motor Learning in Parkinson's Disease: Underlying Effective Connectivity and Influential Factors",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04269577",
+        "text": "Parkinson's disease (PD) is characterized by severe motor symptoms that can only be partially alleviated by medication."
+      }
+    },
+    {
+      "id": "pubmed:37634938:0",
+      "score": 0.5945569276809692,
+      "metadata": {
+        "id": "pubmed:37634938:0",
+        "doc_id": "37634938",
+        "source": "pubmed",
+        "title": "Continuous subcutaneous levodopa-carbidopa for the treatment of advanced Parkinson's disease: is it an improvement on other delivery?",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37634938/",
+        "text": "Parkinson's disease (PD) is the second most common neurodegenerative disease and is growing in prevalence and disability."
+      }
+    },
+    {
+      "id": "pubmed:10451755:0",
+      "score": 0.5941240787506104,
+      "metadata": {
+        "id": "pubmed:10451755:0",
+        "doc_id": "10451755",
+        "source": "pubmed",
+        "title": "Parkinson's disease--levodopa complications.",
+        "study_type": "Journal Article, Review",
+        "year": "1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10451755/",
+        "text": "This article reviews the current management of late-stage Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:31981631:0",
+      "score": 0.5921756029129028,
+      "metadata": {
+        "id": "pubmed:31981631:0",
+        "doc_id": "31981631",
+        "source": "pubmed",
+        "title": "The benefits and mechanisms of exercise training for Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31981631/",
+        "text": "Parkinson's disease (PD) is a significantly progressive neurodegenerative disease characterised by both motor and nonmotor disorders."
+      }
+    },
+    {
+      "id": "pubmed:41718119:0",
+      "score": 0.5891028642654419,
+      "metadata": {
+        "id": "pubmed:41718119:0",
+        "doc_id": "41718119",
+        "source": "pubmed",
+        "title": "Parkinson's Disease: From Gene-Environment Risk to Precision Therapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41718119/",
+        "text": "Parkinson's disease (PD) is a progressive and heterogeneous neurodegenerative disorder and one of the fastest-growing causes of neurological disability worldwide."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04730466:1",
+      "score": 0.588377833366394,
+      "metadata": {
+        "id": "clinicaltrials:NCT04730466:1",
+        "doc_id": "NCT04730466",
+        "source": "clinicaltrials",
+        "title": "Cognitive Rehabilitation as a Balance Rehabilitation Strategy in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04730466",
+        "text": "Parkinson's disease (PD) is the second most common neurodegenerative disorder."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04332276:2",
+      "score": 0.5875051617622375,
+      "metadata": {
+        "id": "clinicaltrials:NCT04332276:2",
+        "doc_id": "NCT04332276",
+        "source": "clinicaltrials",
+        "title": "Dopaminergic RestauratIon by IntraVEntriculaire Administration",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04332276",
+        "text": "Parkinson's disease (PD) is the second most frequent neurodegenerative disorder worldwide."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W35968382:0",
+      "score": 0.5874823331832886,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W35968382:0",
+        "doc_id": "https://openalex.org/W35968382",
+        "source": "openalex",
+        "title": "Characteristics and origin of anorogenic granites",
+        "study_type": "article",
+        "year": "1979",
+        "url": "http://ci.nii.ac.jp/naid/10019593683",
+        "text": "Parkinson's disease (PD) is a complex neurodegenerative disease."
+      }
+    },
+    {
+      "id": "pubmed:36415953:0",
+      "score": 0.5871632099151611,
+      "metadata": {
+        "id": "pubmed:36415953:0",
+        "doc_id": "36415953",
+        "source": "pubmed",
+        "title": "Reproductive characteristics, use of exogenous hormones and Parkinson disease in women from the E3N study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36415953/",
+        "text": "Nulliparity was not associated with Parkinson disease, but Parkinson disease incidence increased with the number of children in parous women (P-trend = 0.009)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00001643:1",
+      "score": 0.5860441327095032,
+      "metadata": {
+        "id": "clinicaltrials:NCT00001643:1",
+        "doc_id": "NCT00001643",
+        "source": "clinicaltrials",
+        "title": "Gene Analysis of Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00001643",
+        "text": "The purposes of this study are to identify the gene or genes responsible for an inherited form of Parkinson's disease and learn more about how the disease develops."
+      }
+    },
+    {
+      "id": "pubmed:38418216:0",
+      "score": 0.5841046571731567,
+      "metadata": {
+        "id": "pubmed:38418216:0",
+        "doc_id": "38418216",
+        "source": "pubmed",
+        "title": "Exercise as medicine in Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38418216/",
+        "text": "Parkinson's disease (PD) is an incurable and progressive neurological disorder leading to deleterious motor and non-motor consequences."
+      }
+    },
+    {
+      "id": "pubmed:39028854:1",
+      "score": 0.5830295085906982,
+      "metadata": {
+        "id": "pubmed:39028854:1",
+        "doc_id": "39028854",
+        "source": "pubmed",
+        "title": "Levodopa versus levodopa sparing in early parkinson's disease: can we meet halfway?",
+        "study_type": "Journal Article, Review, Comparative Study",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39028854/",
+        "text": "Monotherapy is the recommended initial treatment for early Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:40121531:0",
+      "score": 0.5823506712913513,
+      "metadata": {
+        "id": "pubmed:40121531:0",
+        "doc_id": "40121531",
+        "source": "pubmed",
+        "title": "Recent developments in gene therapy for Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40121531/",
+        "text": "Parkinson's disease (PD) is a progressive, neurodegenerative disorder for which there is currently no cure."
+      }
+    },
+    {
+      "id": "pubmed:40240592:0",
+      "score": 0.5780199766159058,
+      "metadata": {
+        "id": "pubmed:40240592:0",
+        "doc_id": "40240592",
+        "source": "pubmed",
+        "title": "Phase I trial of hES cell-derived dopaminergic neurons for Parkinson's disease.",
+        "study_type": "Journal Article, Clinical Trial, Phase I",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40240592/",
+        "text": "Parkinson's disease is a progressive neurodegenerative condition with a considerable health and economic burden"
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03191916:1",
+      "score": 0.5767723917961121,
+      "metadata": {
+        "id": "clinicaltrials:NCT03191916:1",
+        "doc_id": "NCT03191916",
+        "source": "clinicaltrials",
+        "title": "Transcranial Direct Current Stimulation for Cognitive Improvement in Parkinson's Patients",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT03191916",
+        "text": "Parkinson's disease (PD) is the second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      }
+    },
+    {
+      "id": "pubmed:39596436:0",
+      "score": 0.5742803812026978,
+      "metadata": {
+        "id": "pubmed:39596436:0",
+        "doc_id": "39596436",
+        "source": "pubmed",
+        "title": "Gene Therapy for Parkinson's Disease Using Midbrain Developmental Genes to Regulate Dopaminergic Neuronal Maintenance.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39596436/",
+        "text": "Parkinson's disease (PD) is the second most prevalent neurodegenerative disorder."
+      }
+    },
+    {
+      "id": "pubmed:37922901:0",
+      "score": 0.5731614828109741,
+      "metadata": {
+        "id": "pubmed:37922901:0",
+        "doc_id": "37922901",
+        "source": "pubmed",
+        "title": "Circuit-specific gene therapy reverses core symptoms in a primate Parkinson's disease model.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37922901/",
+        "text": "Parkinson's disease (PD) is a debilitating neurodegenerative disorder."
+      }
+    },
+    {
+      "id": "pubmed:36496996:1",
+      "score": 0.5727750062942505,
+      "metadata": {
+        "id": "pubmed:36496996:1",
+        "doc_id": "36496996",
+        "source": "pubmed",
+        "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36496996/",
+        "text": "The most commonly used treatment for Parkinson's disease (PD) is levodopa, prescribed in conjunction with carbidopa."
+      }
+    },
+    {
+      "id": "pubmed:11490169:1",
+      "score": 0.5721880197525024,
+      "metadata": {
+        "id": "pubmed:11490169:1",
+        "doc_id": "11490169",
+        "source": "pubmed",
+        "title": "Prevalence of Parkinson's disease in Bulgaria.",
+        "study_type": "Journal Article",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11490169/",
+        "text": "The aim of the present study was to perform an epidemiological investigation on Parkinson's disease in Bulgaria, using strict diagnostic criteria in an attempt to obtain a more accurate estimate of its frequency in this country."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06883266:1",
+      "score": 0.5718846917152405,
+      "metadata": {
+        "id": "clinicaltrials:NCT06883266:1",
+        "doc_id": "NCT06883266",
+        "source": "clinicaltrials",
+        "title": "Transcranial Direct Current Stimulation for Motor Function and Fatigue in PD",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06883266",
+        "text": "Parkinson's disease (PD) is the fastest growing and second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      }
+    },
+    {
+      "id": "pubmed:11490169:0",
+      "score": 0.5712546706199646,
+      "metadata": {
+        "id": "pubmed:11490169:0",
+        "doc_id": "11490169",
+        "source": "pubmed",
+        "title": "Prevalence of Parkinson's disease in Bulgaria.",
+        "study_type": "Journal Article",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11490169/",
+        "text": "The prevalence of Parkinson's disease was found to be 164.2 per 100,000 with 47 cases in the first region and 169.8 per 100,000 with 155 cases in the second region."
+      }
+    },
+    {
+      "id": "pubmed:36228514:0",
+      "score": 0.5704324245452881,
+      "metadata": {
+        "id": "pubmed:36228514:0",
+        "doc_id": "36228514",
+        "source": "pubmed",
+        "title": "Erythrocytic alpha-synuclein in early Parkinson's disease: A 3-year longitudinal study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228514/",
+        "text": "Early diagnosis of Parkinson's disease (PD) could significantly improve outcomes for patients and future disease-modifying treatments."
+      }
+    },
+    {
+      "id": "pubmed:30621042:0",
+      "score": 0.5656580924987793,
+      "metadata": {
+        "id": "pubmed:30621042:0",
+        "doc_id": "30621042",
+        "source": "pubmed",
+        "title": "Treatment of Parkinson's Disease through Personalized Medicine and Induced Pluripotent Stem Cells.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30621042/",
+        "text": "Parkinson's Disease (PD) is an intractable disease resulting in localized neurodegeneration of dopaminergic neurons of the substantia nigra pars compacta."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06998303:2",
+      "score": 0.5652396082878113,
+      "metadata": {
+        "id": "clinicaltrials:NCT06998303:2",
+        "doc_id": "NCT06998303",
+        "source": "clinicaltrials",
+        "title": "Imaging Core Aim 2, and Udall Project 2 Aim 2",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06998303",
+        "text": "More than one million people in the United States have Parkinson's disease (PD) and the prevalence is expected to double by 2040."
+      }
+    },
+    {
+      "id": "pubmed:32618053:0",
+      "score": 0.5646042823791504,
+      "metadata": {
+        "id": "pubmed:32618053:0",
+        "doc_id": "32618053",
+        "source": "pubmed",
+        "title": "A Large-Scale Full GBA1 Gene Screening in Parkinson's Disease in the Netherlands.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32618053/",
+        "text": "The number of first-degree relatives (excluding children) with Parkinson's disease was higher in p.D140H + p.E326K carriers (5.6%, 21 of 376) compared with p.E326K carriers (2.9%, 29 of 1014); OR, 2.0; P = 0.022, suggestive of a dose effect for different GBA1 variants."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00001643",
+      "title": "Gene Analysis of Parkinson's Disease",
+      "study_type": "OBSERVATIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT00001643",
+      "semantic_score": 0.7093351483345032,
+      "matched_sentences": [
+        "Children who do inherit the abnormal gene may or may not go on to actually develop Parkinson's disease-the relative chance of this happening is not known.",
+        "Individuals 18 years of age and older from families in which Parkinson's disease appears to be inherited may be eligible for this study.",
+        "The purposes of this study are to identify the gene or genes responsible for an inherited form of Parkinson's disease and learn more about how the disease develops."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "4061437",
+      "title": "Measles infection and Parkinson's disease.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, P.H.S.",
+      "year": "1985",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4061437/",
+      "semantic_score": 0.6936119794845581,
+      "matched_sentences": [
+        "A case-control analysis of Parkinson's disease and infections in childhood was conducted in a cohort of 50,002 men who attended Harvard College (Cambridge, MA) or the University of Pennsylvania (Philadelphia, PA) between 1916 and 1950 and who were followed in adulthood for morbidity and mortality data.",
+        "Cases of Parkinson's disease were identified from responses to mailed questionnaires and death certificates through 1978."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15465394",
+      "title": "Impact of Parkinson's disease on patients' adolescent and adult children.",
+      "study_type": "Journal Article",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15465394/",
+      "semantic_score": 0.6917631030082703,
+      "matched_sentences": [
+        "We assessed the impact of Parkinson's disease (PD) on the well-being of patients' adolescent and adult children."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31625879",
+      "title": "[Parkinson's Disease: Clinical Review and Update].",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31625879/",
+      "semantic_score": 0.6397913098335266,
+      "matched_sentences": [
+        "This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36342310",
+      "title": "Pharmacological management of Parkinson's disease motor symptoms: update and recommendations from an expert.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36342310/",
+      "semantic_score": 0.6320180892944336,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative multisystemic disorder that affects approximately 1% of the population over 55 years old, with the mean age of onset at 60 years old, and the prevalence of the disease constantly growing."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37182899",
+      "title": "Closed-Loop Adaptive Deep Brain Stimulation in Parkinson's Disease: Procedures to Achieve It and Future Perspectives.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37182899/",
+      "semantic_score": 0.6303236484527588,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative disease with a heavy burden on patients, families, and society."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36012619",
+      "title": "Lipid Nanoparticles: Promising Treatment Approach for Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36012619/",
+      "semantic_score": 0.608829140663147,
+      "matched_sentences": [
+        "Parkinson's disease (PD), a neurodegenerative disorder, is a life-altering, debilitating disease exhibiting a severe physical, psychological, and financial burden on patients."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02445651",
+      "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02445651",
+      "semantic_score": 0.6070003509521484,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33441061",
+      "title": "Extracellular Vesicles in the Treatment of Parkinson's Disease: A Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33441061/",
+      "semantic_score": 0.6068649291992188,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is one of the most common neurological disorders that can severely affect the ability to perform daily activities."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31607362",
+      "title": "Exercise and Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31607362/",
+      "semantic_score": 0.6056354641914368,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is one of the most common neurodegenerative diseases in the world."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32568114",
+      "title": "Challenges and Perspectives in the Management of Late-Stage Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32568114/",
+      "semantic_score": 0.6054481267929077,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a common neurodegenerative disorder, with a continuously increasing prevalence."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "10451755",
+      "title": "Parkinson's disease--levodopa complications.",
+      "study_type": "Journal Article, Review",
+      "year": "1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10451755/",
+      "semantic_score": 0.5990155935287476,
+      "matched_sentences": [
+        "Parkinson's disease is a readily recognized clinical syndrome, characterized by resting tremor, rigidity, bradykinesia and loss of postural reflexes.",
+        "This article reviews the current management of late-stage Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34366370",
+      "title": "Next-Generation Gene Therapy for Parkinson's Disease Using Engineered Viral Vectors.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34366370/",
+      "semantic_score": 0.5977278351783752,
+      "matched_sentences": [
+        "This review summarizes the development and their potential in treating Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04269577",
+      "title": "Motor Learning in Parkinson's Disease: Underlying Effective Connectivity and Influential Factors",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04269577",
+      "semantic_score": 0.5972338914871216,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is characterized by severe motor symptoms that can only be partially alleviated by medication."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37634938",
+      "title": "Continuous subcutaneous levodopa-carbidopa for the treatment of advanced Parkinson's disease: is it an improvement on other delivery?",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37634938/",
+      "semantic_score": 0.5945569276809692,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most common neurodegenerative disease and is growing in prevalence and disability."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31981631",
+      "title": "The benefits and mechanisms of exercise training for Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31981631/",
+      "semantic_score": 0.5921756029129028,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a significantly progressive neurodegenerative disease characterised by both motor and nonmotor disorders."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41718119",
+      "title": "Parkinson's Disease: From Gene-Environment Risk to Precision Therapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41718119/",
+      "semantic_score": 0.5891028642654419,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a progressive and heterogeneous neurodegenerative disorder and one of the fastest-growing causes of neurological disability worldwide."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04730466",
+      "title": "Cognitive Rehabilitation as a Balance Rehabilitation Strategy in Patients With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04730466",
+      "semantic_score": 0.588377833366394,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most common neurodegenerative disorder."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04332276",
+      "title": "Dopaminergic RestauratIon by IntraVEntriculaire Administration",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04332276",
+      "semantic_score": 0.5875051617622375,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most frequent neurodegenerative disorder worldwide."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W35968382",
+      "title": "Characteristics and origin of anorogenic granites",
+      "study_type": "article",
+      "year": "1979",
+      "url": "http://ci.nii.ac.jp/naid/10019593683",
+      "semantic_score": 0.5874823331832886,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a complex neurodegenerative disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36415953",
+      "title": "Reproductive characteristics, use of exogenous hormones and Parkinson disease in women from the E3N study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36415953/",
+      "semantic_score": 0.5871632099151611,
+      "matched_sentences": [
+        "Nulliparity was not associated with Parkinson disease, but Parkinson disease incidence increased with the number of children in parous women (P-trend = 0.009)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38418216",
+      "title": "Exercise as medicine in Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38418216/",
+      "semantic_score": 0.5841046571731567,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is an incurable and progressive neurological disorder leading to deleterious motor and non-motor consequences."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39028854",
+      "title": "Levodopa versus levodopa sparing in early parkinson's disease: can we meet halfway?",
+      "study_type": "Journal Article, Review, Comparative Study",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39028854/",
+      "semantic_score": 0.5830295085906982,
+      "matched_sentences": [
+        "Monotherapy is the recommended initial treatment for early Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40121531",
+      "title": "Recent developments in gene therapy for Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40121531/",
+      "semantic_score": 0.5823506712913513,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a progressive, neurodegenerative disorder for which there is currently no cure."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40240592",
+      "title": "Phase I trial of hES cell-derived dopaminergic neurons for Parkinson's disease.",
+      "study_type": "Journal Article, Clinical Trial, Phase I",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40240592/",
+      "semantic_score": 0.5780199766159058,
+      "matched_sentences": [
+        "Parkinson's disease is a progressive neurodegenerative condition with a considerable health and economic burden"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03191916",
+      "title": "Transcranial Direct Current Stimulation for Cognitive Improvement in Parkinson's Patients",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT03191916",
+      "semantic_score": 0.5767723917961121,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39596436",
+      "title": "Gene Therapy for Parkinson's Disease Using Midbrain Developmental Genes to Regulate Dopaminergic Neuronal Maintenance.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39596436/",
+      "semantic_score": 0.5742803812026978,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most prevalent neurodegenerative disorder."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37922901",
+      "title": "Circuit-specific gene therapy reverses core symptoms in a primate Parkinson's disease model.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37922901/",
+      "semantic_score": 0.5731614828109741,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a debilitating neurodegenerative disorder."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36496996",
+      "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36496996/",
+      "semantic_score": 0.5727750062942505,
+      "matched_sentences": [
+        "The most commonly used treatment for Parkinson's disease (PD) is levodopa, prescribed in conjunction with carbidopa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11490169",
+      "title": "Prevalence of Parkinson's disease in Bulgaria.",
+      "study_type": "Journal Article",
+      "year": "2001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11490169/",
+      "semantic_score": 0.5721880197525024,
+      "matched_sentences": [
+        "The aim of the present study was to perform an epidemiological investigation on Parkinson's disease in Bulgaria, using strict diagnostic criteria in an attempt to obtain a more accurate estimate of its frequency in this country.",
+        "The prevalence of Parkinson's disease was found to be 164.2 per 100,000 with 47 cases in the first region and 169.8 per 100,000 with 155 cases in the second region."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06883266",
+      "title": "Transcranial Direct Current Stimulation for Motor Function and Fatigue in PD",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06883266",
+      "semantic_score": 0.5718846917152405,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the fastest growing and second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228514",
+      "title": "Erythrocytic alpha-synuclein in early Parkinson's disease: A 3-year longitudinal study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228514/",
+      "semantic_score": 0.5704324245452881,
+      "matched_sentences": [
+        "Early diagnosis of Parkinson's disease (PD) could significantly improve outcomes for patients and future disease-modifying treatments."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30621042",
+      "title": "Treatment of Parkinson's Disease through Personalized Medicine and Induced Pluripotent Stem Cells.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30621042/",
+      "semantic_score": 0.5656580924987793,
+      "matched_sentences": [
+        "Parkinson's Disease (PD) is an intractable disease resulting in localized neurodegeneration of dopaminergic neurons of the substantia nigra pars compacta."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06998303",
+      "title": "Imaging Core Aim 2, and Udall Project 2 Aim 2",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06998303",
+      "semantic_score": 0.5652396082878113,
+      "matched_sentences": [
+        "More than one million people in the United States have Parkinson's disease (PD) and the prevalence is expected to double by 2040."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32618053",
+      "title": "A Large-Scale Full GBA1 Gene Screening in Parkinson's Disease in the Netherlands.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32618053/",
+      "semantic_score": 0.5646042823791504,
+      "matched_sentences": [
+        "The number of first-degree relatives (excluding children) with Parkinson's disease was higher in p.D140H + p.E326K carriers (5.6%, 21 of 376) compared with p.E326K carriers (2.9%, 29 of 1014); OR, 2.0; P = 0.022, suggestive of a dose effect for different GBA1 variants."
+      ]
+    }
+  ]
+}

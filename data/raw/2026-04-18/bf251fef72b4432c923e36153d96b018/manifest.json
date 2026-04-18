@@ -1,0 +1,59 @@
+{
+  "run_id": "bf251fef72b4432c923e36153d96b018",
+  "stored_at": "2026-04-18T16:48:27+00:00",
+  "query": "parkinson's disease mortality rate parkinson disease USA",
+  "query_fallbacks": [
+    "parkinson's disease mortality rate parkinson disease USA",
+    "parkinson's disease mortality rate parkinson disease",
+    "parkinson's disease mortality rate parkinson treatment",
+    "parkinson's disease usa",
+    "parkinson's disease"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson's disease mortality rate parkinson disease USA",
+    "parkinson's disease mortality rate parkinson disease",
+    "parkinson's disease mortality rate parkinson treatment",
+    "parkinson's disease usa",
+    "parkinson's disease"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "parkinson's disease",
+    "mortality",
+    "rate",
+    "parkinson",
+    "disease",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 33,
+    "indexed_chunks": 82
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bf251fef72b4432c923e36153d96b018\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bf251fef72b4432c923e36153d96b018\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bf251fef72b4432c923e36153d96b018\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\bf251fef72b4432c923e36153d96b018\\combined.records.json"
+  }
+}

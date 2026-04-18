@@ -1,0 +1,993 @@
+{
+  "enabled": true,
+  "indexed_chunks": 124,
+  "matches": [
+    {
+      "id": "openalex:https://openalex.org/W2606240142:0",
+      "score": 0.6611739993095398,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2606240142:0",
+        "doc_id": "https://openalex.org/W2606240142",
+        "source": "openalex",
+        "title": "Investments in cancer research awarded to UK institutions and the global burden of cancer 2000–2013: a systematic analysis",
+        "study_type": "article",
+        "year": "2017",
+        "url": "https://doi.org/10.1136/bmjopen-2016-013936",
+        "text": "Research funding for cancer is not allocated according to relative disease burden."
+      }
+    },
+    {
+      "id": "pubmed:40928377:0",
+      "score": 0.6520736217498779,
+      "metadata": {
+        "id": "pubmed:40928377:0",
+        "doc_id": "40928377",
+        "source": "pubmed",
+        "title": "Causes of death after surgery among cancer patients: a population-based cohort study.",
+        "study_type": "Journal Article",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40928377/",
+        "text": "By the 2020s, non-cancer causes emerged as the leading mortality driver in these cancers."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01752114:2",
+      "score": 0.6157987713813782,
+      "metadata": {
+        "id": "clinicaltrials:NCT01752114:2",
+        "doc_id": "NCT01752114",
+        "source": "clinicaltrials",
+        "title": "Early Diagnosis of Pulmonary Nodules",
+        "study_type": "OBSERVATIONAL",
+        "year": "2018",
+        "url": "https://clinicaltrials.gov/study/NCT01752114",
+        "text": "The data from this study will not be used to diagnose cancer nor be used to influence treatment decisions for the study participants."
+      }
+    },
+    {
+      "id": "pubmed:31030667:2",
+      "score": 0.6048197150230408,
+      "metadata": {
+        "id": "pubmed:31030667:2",
+        "doc_id": "31030667",
+        "source": "pubmed",
+        "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31030667/",
+        "text": "In this study we have reviewed several reports of cancer burden, including the Global cancer statistics 2018 and Cancer statistics in China, 2015, along with the GLOBCAN 2018 online database, to investigate the differences of cancer patterns between China, the United States (USA) and the United Kingdom (UK)."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2126945850:0",
+      "score": 0.6042674779891968,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2126945850:0",
+        "doc_id": "https://openalex.org/W2126945850",
+        "source": "openalex",
+        "title": "Global Patterns of Cancer Incidence and Mortality Rates and Trends",
+        "study_type": "review",
+        "year": "2010",
+        "url": "https://doi.org/10.1158/1055-9965.epi-10-0437",
+        "text": "In this review, we describe these changing global incidence and mortality patterns for select common cancers and the opportunities for cancer prevention in developing countries."
+      }
+    },
+    {
+      "id": "pubmed:37095596:0",
+      "score": 0.602219820022583,
+      "metadata": {
+        "id": "pubmed:37095596:0",
+        "doc_id": "37095596",
+        "source": "pubmed",
+        "title": "Cancer disparities in Appalachian Kentucky.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37095596/",
+        "text": "This study's goal was to evaluate Appalachian Kentucky's cancer burden compared to non-Appalachian Kentucky, and Kentucky compared to the United States (excluding Kentucky)."
+      }
+    },
+    {
+      "id": "pubmed:36566154:0",
+      "score": 0.5982214212417603,
+      "metadata": {
+        "id": "pubmed:36566154:0",
+        "doc_id": "36566154",
+        "source": "pubmed",
+        "title": "Disparities and Trends in Genitourinary Cancer Incidence and Mortality in the USA.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36566154/",
+        "text": "Previous studies have reported on incidence and mortality patterns for individual genitourinary cancers in the USA."
+      }
+    },
+    {
+      "id": "pubmed:21907006:1",
+      "score": 0.5909429788589478,
+      "metadata": {
+        "id": "pubmed:21907006:1",
+        "doc_id": "21907006",
+        "source": "pubmed",
+        "title": "Impact of using multiple causes of death codes to compute site-specific, death certificate-based cancer mortality statistics in the United States.",
+        "study_type": "Journal Article",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21907006/",
+        "text": "Nevertheless, this study provides evidence that, in general, restricting to UCD deaths will not under report cancer mortality statistics."
+      }
+    },
+    {
+      "id": "pubmed:28169842:0",
+      "score": 0.5880135297775269,
+      "metadata": {
+        "id": "pubmed:28169842:0",
+        "doc_id": "28169842",
+        "source": "pubmed",
+        "title": "Challenges in Management of Squamous Cell Carcinoma of the Anus in New England and Across the United States: A Review of the National Cancer Data Base.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28169842/",
+        "text": "A review of available data from the American College of Surgeons Committee on Cancer National Cancer Data Base focused on incidence, sex, age, stage at diagnosis, distance traveled for care, and utilization of therapy as first course of treatment (FCT)."
+      }
+    },
+    {
+      "id": "pubmed:25034462:0",
+      "score": 0.585391104221344,
+      "metadata": {
+        "id": "pubmed:25034462:0",
+        "doc_id": "25034462",
+        "source": "pubmed",
+        "title": "Trends in incidence, mortality, and survival for kidney cancer in Canada, 1986-2007.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25034462/",
+        "text": "We aimed to examine the trends in incidence, mortality, and survival for this cancer in Canada."
+      }
+    },
+    {
+      "id": "pubmed:1833348:2",
+      "score": 0.5824719667434692,
+      "metadata": {
+        "id": "pubmed:1833348:2",
+        "doc_id": "1833348",
+        "source": "pubmed",
+        "title": "A meta-analysis of cancer incidence in United States and Canadian native populations.",
+        "study_type": "Journal Article, Meta-Analysis",
+        "year": "1991",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1833348/",
+        "text": "Although these findings are not definitive, they overcome the limited numbers of site-specific cancers reported in many previous studies and are suggestive of general patterns of cancer incidence among Native populations."
+      }
+    },
+    {
+      "id": "pubmed:34405970:2",
+      "score": 0.5816528797149658,
+      "metadata": {
+        "id": "pubmed:34405970:2",
+        "doc_id": "34405970",
+        "source": "pubmed",
+        "title": "Do cancer incidence and mortality rates differ among ethnicities in Canada?",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34405970/",
+        "text": "Non-immigrant African males had the highest cancer incidence rates, and non-immigrant South Asian females had the highest mortality rates."
+      }
+    },
+    {
+      "id": "pubmed:34142787:0",
+      "score": 0.5809043049812317,
+      "metadata": {
+        "id": "pubmed:34142787:0",
+        "doc_id": "34142787",
+        "source": "pubmed",
+        "title": "Cancer in First Nations people in Ontario, Canada: Incidence and mortality, 1991 to 2010.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34142787/",
+        "text": "This study aims to measure cancer incidence and mortality rates of Registered First Nations people in Ontario and compare them with those of other people in Ontario from 1991 to 2010."
+      }
+    },
+    {
+      "id": "pubmed:23245607:2",
+      "score": 0.5804440379142761,
+      "metadata": {
+        "id": "pubmed:23245607:2",
+        "doc_id": "23245607",
+        "source": "pubmed",
+        "title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23245607/",
+        "text": "Sources included published studies, case notification, population-based cancer registries, other disease registries, antenatal clinic serosurveillance, hospital discharge data, ambulatory care data, household surveys, other surveys, and cohort studies."
+      }
+    },
+    {
+      "id": "pubmed:37195381:0",
+      "score": 0.580154538154602,
+      "metadata": {
+        "id": "pubmed:37195381:0",
+        "doc_id": "37195381",
+        "source": "pubmed",
+        "title": "CCN proteins: opportunities for clinical studies-a personal perspective.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37195381/",
+        "text": "In this review I have attempted to highlight the most recent evidence under the subcategories of cancer and non-cancer relevant that could lead to potential therapeutic approaches or ideas that can be factored into clinical advances."
+      }
+    },
+    {
+      "id": "pubmed:31030667:0",
+      "score": 0.5793360471725464,
+      "metadata": {
+        "id": "pubmed:31030667:0",
+        "doc_id": "31030667",
+        "source": "pubmed",
+        "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31030667/",
+        "text": "Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses."
+      }
+    },
+    {
+      "id": "pubmed:37364149:2",
+      "score": 0.5788310766220093,
+      "metadata": {
+        "id": "pubmed:37364149:2",
+        "doc_id": "37364149",
+        "source": "pubmed",
+        "title": "Obesity, diabetes, and cancer: epidemiology, pathophysiology, and potential interventions.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37364149/",
+        "text": "We also highlight pieces of evidence regarding treatment effects on cancer incidence in these populations."
+      }
+    },
+    {
+      "id": "pubmed:38374318:2",
+      "score": 0.5773309469223022,
+      "metadata": {
+        "id": "pubmed:38374318:2",
+        "doc_id": "38374318",
+        "source": "pubmed",
+        "title": "Causes of death among people living with metastatic cancer.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38374318/",
+        "text": "Leading non-cancer deaths are heart disease (32.4%), chronic obstructive and pulmonary disease (7.9%), cerebrovascular disease (6.1%), and infection (4.1%)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06172478:0",
+      "score": 0.5763322114944458,
+      "metadata": {
+        "id": "clinicaltrials:NCT06172478:0",
+        "doc_id": "NCT06172478",
+        "source": "clinicaltrials",
+        "title": "A Study of HER3-DXd in Subjects With Locally Advanced or Metastatic Solid Tumors",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06172478",
+        "text": "The study is enrolling cohorts of participants with melanoma \\[cutaneous/acral\\], squamous cell carcinomas of the head and neck (SCCHN), HER2-negative gastric cancer ovarian carcinoma, cervical cancer, endometrial cancer, bladder cancer, esophageal carcinoma, pancreatic carcinoma, prostate cancer, second-line gastric cancer, lung cancer, and breast cancer."
+      }
+    },
+    {
+      "id": "pubmed:26893066:1",
+      "score": 0.5755699872970581,
+      "metadata": {
+        "id": "pubmed:26893066:1",
+        "doc_id": "26893066",
+        "source": "pubmed",
+        "title": "Optimizing mouse models for precision cancer prevention.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26893066/",
+        "text": "As cancer has become increasingly prevalent, cancer prevention research has evolved towards placing a greater emphasis on reducing cancer deaths and minimizing the adverse consequences of having cancer."
+      }
+    },
+    {
+      "id": "pubmed:35294138:1",
+      "score": 0.5740653276443481,
+      "metadata": {
+        "id": "pubmed:35294138:1",
+        "doc_id": "35294138",
+        "source": "pubmed",
+        "title": "Short-term cancer prevalence in Canada, 2018.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35294138/",
+        "text": "This study presents detailed tumour-based cancer prevalence estimates in Canada by sex, age group, cancer type and prevalence duration as of January 1, 2018."
+      }
+    },
+    {
+      "id": "pubmed:24559581:0",
+      "score": 0.5712451338768005,
+      "metadata": {
+        "id": "pubmed:24559581:0",
+        "doc_id": "24559581",
+        "source": "pubmed",
+        "title": "Early palliative care for patients with advanced cancer: a cluster-randomised controlled trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24559581/",
+        "text": "The study took place at the Princess Margaret Cancer Centre (Toronto, ON, Canada), between Dec 1, 2006, and Feb 28, 2011."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2126945850:2",
+      "score": 0.5676378011703491,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2126945850:2",
+        "doc_id": "https://openalex.org/W2126945850",
+        "source": "openalex",
+        "title": "Global Patterns of Cancer Incidence and Mortality Rates and Trends",
+        "study_type": "review",
+        "year": "2010",
+        "url": "https://doi.org/10.1158/1055-9965.epi-10-0437",
+        "text": "While incidence and mortality rates for most cancers (including lung, colorectum, female breast, and prostate) are decreasing in the United States and many other western countries, they are increasing in several less developed and economically transitioning countries because of adoption of unhealthy western lifestyles such as smoking and physical inactivity and consumption of calorie-dense food."
+      }
+    },
+    {
+      "id": "pubmed:31960609:1",
+      "score": 0.5673066973686218,
+      "metadata": {
+        "id": "pubmed:31960609:1",
+        "doc_id": "31960609",
+        "source": "pubmed",
+        "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+        "text": "Improved cancer survival is expected to increase noncancer deaths; however, detailed causes of death have rarely been discussed."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02080260:2",
+      "score": 0.563654899597168,
+      "metadata": {
+        "id": "clinicaltrials:NCT02080260:2",
+        "doc_id": "NCT02080260",
+        "source": "clinicaltrials",
+        "title": "A Study of Regorafenib in Advanced Pancreatic Cancer Patients",
+        "study_type": "INTERVENTIONAL",
+        "year": "2022",
+        "url": "https://clinicaltrials.gov/study/NCT02080260",
+        "text": "This study is open at the Levine Cancer Institute (LCI)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03186703:1",
+      "score": 0.5625637769699097,
+      "metadata": {
+        "id": "clinicaltrials:NCT03186703:1",
+        "doc_id": "NCT03186703",
+        "source": "clinicaltrials",
+        "title": "Evaluating the Impact of the McMaster Optimal Aging Portal on Cancer Prevention Behaviours in Underserved Populations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT03186703",
+        "text": "Half of cancers are preventable through lifestyle modification such as smoking cessation, healthy eating, increasing physical activity and reducing alcohol intake; however, few Canadians engage in behaviours that are in line with cancer prevention guidelines."
+      }
+    },
+    {
+      "id": "pubmed:38740416:1",
+      "score": 0.5614315271377563,
+      "metadata": {
+        "id": "pubmed:38740416:1",
+        "doc_id": "38740416",
+        "source": "pubmed",
+        "title": "Projected estimates of cancer in Canada in 2024.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38740416/",
+        "text": "Efforts in prevention, screening, and treatment have reduced the impact of some cancers, but these short-term projections highlight the potential effect of cancer on people and health care systems in Canada."
+      }
+    },
+    {
+      "id": "pubmed:26086335:1",
+      "score": 0.5605020523071289,
+      "metadata": {
+        "id": "pubmed:26086335:1",
+        "doc_id": "26086335",
+        "source": "pubmed",
+        "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+        "text": "Because the Canadian Cancer Registry does not contain socioeconomic data, the 1991 Canadian Census Cohort was used to study social determinants of lung cancer risk in the general Canadian population."
+      }
+    },
+    {
+      "id": "pubmed:32074260:1",
+      "score": 0.5536710619926453,
+      "metadata": {
+        "id": "pubmed:32074260:1",
+        "doc_id": "32074260",
+        "source": "pubmed",
+        "title": "Prevalence, Incidence, and Risk of Cancer in Patients With Psoriasis and Psoriatic Arthritis: A Systematic Review and Meta-analysis.",
+        "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32074260/",
+        "text": "Data on treatment with biologic agents did not show an increased risk of cancer."
+      }
+    },
+    {
+      "id": "pubmed:37755589:1",
+      "score": 0.5481456518173218,
+      "metadata": {
+        "id": "pubmed:37755589:1",
+        "doc_id": "37755589",
+        "source": "pubmed",
+        "title": "Cancer profiles in China and comparisons with the USA: a comprehensive analysis in the incidence, mortality, survival, staging, and attribution to risk factors.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37755589/",
+        "text": "Lifestyle-related cancers including lung cancer, colorectal cancer, and breast cancer showed an upward trend and have been the leading cancer types in China."
+      }
+    },
+    {
+      "id": "pubmed:31078178:0",
+      "score": 0.5477209091186523,
+      "metadata": {
+        "id": "pubmed:31078178:0",
+        "doc_id": "31078178",
+        "source": "pubmed",
+        "title": "Estimates of the current and future burden of lung cancer attributable to PM",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31078178/",
+        "text": "The International Agency for Research on Cancer has classified PM"
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2112657305:0",
+      "score": 0.5474662780761719,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2112657305:0",
+        "doc_id": "https://openalex.org/W2112657305",
+        "source": "openalex",
+        "title": "Global surveillance of cancer survival 1995–2009: analysis of individual data for 25 676 887 patients from 279 population-based registries in 67 countries (CONCORD-2)",
+        "study_type": "article",
+        "year": "2014",
+        "url": "https://doi.org/10.1016/s0140-6736(14)62038-9",
+        "text": "Global surveillance of cancer survival 1995–2009: analysis of individual data for 25 676 887 patients from 279 population-based registries in 67 countries (CONCORD-2)"
+      }
+    },
+    {
+      "id": "pubmed:31960609:0",
+      "score": 0.5429726243019104,
+      "metadata": {
+        "id": "pubmed:31960609:0",
+        "doc_id": "31960609",
+        "source": "pubmed",
+        "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+        "text": "We identified cancer and noncancer-related causes of death using data from the 2000-2016 national cancer registry in Korea (n = 2 707 520), and we characterized the leading causes of death and proportionate mortalities over time."
+      }
+    },
+    {
+      "id": "pubmed:41197564:0",
+      "score": 0.5423709154129028,
+      "metadata": {
+        "id": "pubmed:41197564:0",
+        "doc_id": "41197564",
+        "source": "pubmed",
+        "title": "Spatiotemporal patterns in malignant brain and central nervous system cancer incidence and mortality in the United States.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41197564/",
+        "text": "Cancer data were sourced from the CDC Wonder Cancer database, including age-adjusted mortality-incidence rate ratios, age-adjusted incidence and mortality rates for all age groups and demographics in the United States."
+      }
+    },
+    {
+      "id": "pubmed:38230766:2",
+      "score": 0.5419225692749023,
+      "metadata": {
+        "id": "pubmed:38230766:2",
+        "doc_id": "38230766",
+        "source": "pubmed",
+        "title": "Cancer statistics, 2024.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38230766/",
+        "text": "Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2020) and mortality data collected by the National Center for Health Statistics (through 2021)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01772004:0",
+      "score": 0.5417678356170654,
+      "metadata": {
+        "id": "clinicaltrials:NCT01772004:0",
+        "doc_id": "NCT01772004",
+        "source": "clinicaltrials",
+        "title": "Avelumab in Metastatic or Locally Advanced Solid Tumors (JAVELIN Solid Tumor)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT01772004",
+        "text": "Closed cohorts: Non-small cell lung cancer (NSCLC, first line), NSCLC (post-platinum), metastatic breast cancer (MBC), colorectal cancer (CRC), urothelial carcinoma (secondary), mesothelioma, gastric/GEJ cancer (first line switch maintenance and second line), and ovarian cancer (secondary and platinum refractory + liposomal doxorubicin), renal cell carcinoma (second line) melanoma and head, neck squamous cell carcinoma (HNSCC), castrate-resistant prostate cancer (CRPC), adrenocortical carcinoma (ACC) urothelial carcinoma (efficacy), gastric/gastroesophageal junction (GEJ) cancer (third line), renal cell carcinoma (RCC, first line) and escalation phase ."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03186703:2",
+      "score": 0.5416955947875977,
+      "metadata": {
+        "id": "clinicaltrials:NCT03186703:2",
+        "doc_id": "NCT03186703",
+        "source": "clinicaltrials",
+        "title": "Evaluating the Impact of the McMaster Optimal Aging Portal on Cancer Prevention Behaviours in Underserved Populations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT03186703",
+        "text": "This may be in part due to lack of access to evidence-based information and the mixed messages on effective cancer prevention strategies that are propagated in the popular media."
+      }
+    },
+    {
+      "id": "pubmed:1833348:0",
+      "score": 0.5416184663772583,
+      "metadata": {
+        "id": "pubmed:1833348:0",
+        "doc_id": "1833348",
+        "source": "pubmed",
+        "title": "A meta-analysis of cancer incidence in United States and Canadian native populations.",
+        "study_type": "Journal Article, Meta-Analysis",
+        "year": "1991",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1833348/",
+        "text": "A meta-analytic approach was used to summarize studies of cancer incidence among Native populations in the United States and Canada."
+      }
+    },
+    {
+      "id": "pubmed:39522356:0",
+      "score": 0.5413483381271362,
+      "metadata": {
+        "id": "pubmed:39522356:0",
+        "doc_id": "39522356",
+        "source": "pubmed",
+        "title": "Prostate cancer incidence rates, trends, and treatment related to prostate-specific antigen screening recommendations in the United States.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39522356/",
+        "text": "Analyses were based on 777,152 cases diagnosed in 17 population-based tumor registries in the SEER Program of the US National Cancer Institute, 2007-2021."
+      }
+    },
+    {
+      "id": "pubmed:23470172:1",
+      "score": 0.5390543341636658,
+      "metadata": {
+        "id": "pubmed:23470172:1",
+        "doc_id": "23470172",
+        "source": "pubmed",
+        "title": "Cancer incidence, mortality and survival trends in Canada, 1970-2007.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23470172/",
+        "text": "Mortality rates were characterized by significant declines for all cancers combined and for most cancers examined except for melanoma and female lung cancer."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2606240142",
+      "title": "Investments in cancer research awarded to UK institutions and the global burden of cancer 2000–2013: a systematic analysis",
+      "study_type": "article",
+      "year": "2017",
+      "url": "https://doi.org/10.1136/bmjopen-2016-013936",
+      "semantic_score": 0.6611739993095398,
+      "matched_sentences": [
+        "Research funding for cancer is not allocated according to relative disease burden."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40928377",
+      "title": "Causes of death after surgery among cancer patients: a population-based cohort study.",
+      "study_type": "Journal Article",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40928377/",
+      "semantic_score": 0.6520736217498779,
+      "matched_sentences": [
+        "By the 2020s, non-cancer causes emerged as the leading mortality driver in these cancers."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01752114",
+      "title": "Early Diagnosis of Pulmonary Nodules",
+      "study_type": "OBSERVATIONAL",
+      "year": "2018",
+      "url": "https://clinicaltrials.gov/study/NCT01752114",
+      "semantic_score": 0.6157987713813782,
+      "matched_sentences": [
+        "The data from this study will not be used to diagnose cancer nor be used to influence treatment decisions for the study participants."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31030667",
+      "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31030667/",
+      "semantic_score": 0.6048197150230408,
+      "matched_sentences": [
+        "In this study we have reviewed several reports of cancer burden, including the Global cancer statistics 2018 and Cancer statistics in China, 2015, along with the GLOBCAN 2018 online database, to investigate the differences of cancer patterns between China, the United States (USA) and the United Kingdom (UK).",
+        "Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2126945850",
+      "title": "Global Patterns of Cancer Incidence and Mortality Rates and Trends",
+      "study_type": "review",
+      "year": "2010",
+      "url": "https://doi.org/10.1158/1055-9965.epi-10-0437",
+      "semantic_score": 0.6042674779891968,
+      "matched_sentences": [
+        "In this review, we describe these changing global incidence and mortality patterns for select common cancers and the opportunities for cancer prevention in developing countries.",
+        "While incidence and mortality rates for most cancers (including lung, colorectum, female breast, and prostate) are decreasing in the United States and many other western countries, they are increasing in several less developed and economically transitioning countries because of adoption of unhealthy western lifestyles such as smoking and physical inactivity and consumption of calorie-dense food."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37095596",
+      "title": "Cancer disparities in Appalachian Kentucky.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37095596/",
+      "semantic_score": 0.602219820022583,
+      "matched_sentences": [
+        "This study's goal was to evaluate Appalachian Kentucky's cancer burden compared to non-Appalachian Kentucky, and Kentucky compared to the United States (excluding Kentucky)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36566154",
+      "title": "Disparities and Trends in Genitourinary Cancer Incidence and Mortality in the USA.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36566154/",
+      "semantic_score": 0.5982214212417603,
+      "matched_sentences": [
+        "Previous studies have reported on incidence and mortality patterns for individual genitourinary cancers in the USA."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21907006",
+      "title": "Impact of using multiple causes of death codes to compute site-specific, death certificate-based cancer mortality statistics in the United States.",
+      "study_type": "Journal Article",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21907006/",
+      "semantic_score": 0.5909429788589478,
+      "matched_sentences": [
+        "Nevertheless, this study provides evidence that, in general, restricting to UCD deaths will not under report cancer mortality statistics."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28169842",
+      "title": "Challenges in Management of Squamous Cell Carcinoma of the Anus in New England and Across the United States: A Review of the National Cancer Data Base.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28169842/",
+      "semantic_score": 0.5880135297775269,
+      "matched_sentences": [
+        "A review of available data from the American College of Surgeons Committee on Cancer National Cancer Data Base focused on incidence, sex, age, stage at diagnosis, distance traveled for care, and utilization of therapy as first course of treatment (FCT)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25034462",
+      "title": "Trends in incidence, mortality, and survival for kidney cancer in Canada, 1986-2007.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25034462/",
+      "semantic_score": 0.585391104221344,
+      "matched_sentences": [
+        "We aimed to examine the trends in incidence, mortality, and survival for this cancer in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "1833348",
+      "title": "A meta-analysis of cancer incidence in United States and Canadian native populations.",
+      "study_type": "Journal Article, Meta-Analysis",
+      "year": "1991",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1833348/",
+      "semantic_score": 0.5824719667434692,
+      "matched_sentences": [
+        "Although these findings are not definitive, they overcome the limited numbers of site-specific cancers reported in many previous studies and are suggestive of general patterns of cancer incidence among Native populations.",
+        "A meta-analytic approach was used to summarize studies of cancer incidence among Native populations in the United States and Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34405970",
+      "title": "Do cancer incidence and mortality rates differ among ethnicities in Canada?",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34405970/",
+      "semantic_score": 0.5816528797149658,
+      "matched_sentences": [
+        "Non-immigrant African males had the highest cancer incidence rates, and non-immigrant South Asian females had the highest mortality rates."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34142787",
+      "title": "Cancer in First Nations people in Ontario, Canada: Incidence and mortality, 1991 to 2010.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34142787/",
+      "semantic_score": 0.5809043049812317,
+      "matched_sentences": [
+        "This study aims to measure cancer incidence and mortality rates of Registered First Nations people in Ontario and compare them with those of other people in Ontario from 1991 to 2010."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23245607",
+      "title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23245607/",
+      "semantic_score": 0.5804440379142761,
+      "matched_sentences": [
+        "Sources included published studies, case notification, population-based cancer registries, other disease registries, antenatal clinic serosurveillance, hospital discharge data, ambulatory care data, household surveys, other surveys, and cohort studies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37195381",
+      "title": "CCN proteins: opportunities for clinical studies-a personal perspective.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37195381/",
+      "semantic_score": 0.580154538154602,
+      "matched_sentences": [
+        "In this review I have attempted to highlight the most recent evidence under the subcategories of cancer and non-cancer relevant that could lead to potential therapeutic approaches or ideas that can be factored into clinical advances."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37364149",
+      "title": "Obesity, diabetes, and cancer: epidemiology, pathophysiology, and potential interventions.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37364149/",
+      "semantic_score": 0.5788310766220093,
+      "matched_sentences": [
+        "We also highlight pieces of evidence regarding treatment effects on cancer incidence in these populations."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38374318",
+      "title": "Causes of death among people living with metastatic cancer.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38374318/",
+      "semantic_score": 0.5773309469223022,
+      "matched_sentences": [
+        "Leading non-cancer deaths are heart disease (32.4%), chronic obstructive and pulmonary disease (7.9%), cerebrovascular disease (6.1%), and infection (4.1%)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06172478",
+      "title": "A Study of HER3-DXd in Subjects With Locally Advanced or Metastatic Solid Tumors",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06172478",
+      "semantic_score": 0.5763322114944458,
+      "matched_sentences": [
+        "The study is enrolling cohorts of participants with melanoma \\[cutaneous/acral\\], squamous cell carcinomas of the head and neck (SCCHN), HER2-negative gastric cancer ovarian carcinoma, cervical cancer, endometrial cancer, bladder cancer, esophageal carcinoma, pancreatic carcinoma, prostate cancer, second-line gastric cancer, lung cancer, and breast cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26893066",
+      "title": "Optimizing mouse models for precision cancer prevention.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26893066/",
+      "semantic_score": 0.5755699872970581,
+      "matched_sentences": [
+        "As cancer has become increasingly prevalent, cancer prevention research has evolved towards placing a greater emphasis on reducing cancer deaths and minimizing the adverse consequences of having cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35294138",
+      "title": "Short-term cancer prevalence in Canada, 2018.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35294138/",
+      "semantic_score": 0.5740653276443481,
+      "matched_sentences": [
+        "This study presents detailed tumour-based cancer prevalence estimates in Canada by sex, age group, cancer type and prevalence duration as of January 1, 2018."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24559581",
+      "title": "Early palliative care for patients with advanced cancer: a cluster-randomised controlled trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24559581/",
+      "semantic_score": 0.5712451338768005,
+      "matched_sentences": [
+        "The study took place at the Princess Margaret Cancer Centre (Toronto, ON, Canada), between Dec 1, 2006, and Feb 28, 2011."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31960609",
+      "title": "Causes of death among cancer patients in the era of cancer survivorship in Korea: Attention to the suicide and cardiovascular mortality.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31960609/",
+      "semantic_score": 0.5673066973686218,
+      "matched_sentences": [
+        "Improved cancer survival is expected to increase noncancer deaths; however, detailed causes of death have rarely been discussed.",
+        "We identified cancer and noncancer-related causes of death using data from the 2000-2016 national cancer registry in Korea (n = 2 707 520), and we characterized the leading causes of death and proportionate mortalities over time."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02080260",
+      "title": "A Study of Regorafenib in Advanced Pancreatic Cancer Patients",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT02080260",
+      "semantic_score": 0.563654899597168,
+      "matched_sentences": [
+        "This study is open at the Levine Cancer Institute (LCI)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03186703",
+      "title": "Evaluating the Impact of the McMaster Optimal Aging Portal on Cancer Prevention Behaviours in Underserved Populations",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT03186703",
+      "semantic_score": 0.5625637769699097,
+      "matched_sentences": [
+        "Half of cancers are preventable through lifestyle modification such as smoking cessation, healthy eating, increasing physical activity and reducing alcohol intake; however, few Canadians engage in behaviours that are in line with cancer prevention guidelines.",
+        "This may be in part due to lack of access to evidence-based information and the mixed messages on effective cancer prevention strategies that are propagated in the popular media."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38740416",
+      "title": "Projected estimates of cancer in Canada in 2024.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38740416/",
+      "semantic_score": 0.5614315271377563,
+      "matched_sentences": [
+        "Efforts in prevention, screening, and treatment have reduced the impact of some cancers, but these short-term projections highlight the potential effect of cancer on people and health care systems in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26086335",
+      "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+      "semantic_score": 0.5605020523071289,
+      "matched_sentences": [
+        "Because the Canadian Cancer Registry does not contain socioeconomic data, the 1991 Canadian Census Cohort was used to study social determinants of lung cancer risk in the general Canadian population."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32074260",
+      "title": "Prevalence, Incidence, and Risk of Cancer in Patients With Psoriasis and Psoriatic Arthritis: A Systematic Review and Meta-analysis.",
+      "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32074260/",
+      "semantic_score": 0.5536710619926453,
+      "matched_sentences": [
+        "Data on treatment with biologic agents did not show an increased risk of cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37755589",
+      "title": "Cancer profiles in China and comparisons with the USA: a comprehensive analysis in the incidence, mortality, survival, staging, and attribution to risk factors.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37755589/",
+      "semantic_score": 0.5481456518173218,
+      "matched_sentences": [
+        "Lifestyle-related cancers including lung cancer, colorectal cancer, and breast cancer showed an upward trend and have been the leading cancer types in China."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31078178",
+      "title": "Estimates of the current and future burden of lung cancer attributable to PM",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31078178/",
+      "semantic_score": 0.5477209091186523,
+      "matched_sentences": [
+        "The International Agency for Research on Cancer has classified PM"
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2112657305",
+      "title": "Global surveillance of cancer survival 1995–2009: analysis of individual data for 25 676 887 patients from 279 population-based registries in 67 countries (CONCORD-2)",
+      "study_type": "article",
+      "year": "2014",
+      "url": "https://doi.org/10.1016/s0140-6736(14)62038-9",
+      "semantic_score": 0.5474662780761719,
+      "matched_sentences": [
+        "Global surveillance of cancer survival 1995–2009: analysis of individual data for 25 676 887 patients from 279 population-based registries in 67 countries (CONCORD-2)"
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41197564",
+      "title": "Spatiotemporal patterns in malignant brain and central nervous system cancer incidence and mortality in the United States.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41197564/",
+      "semantic_score": 0.5423709154129028,
+      "matched_sentences": [
+        "Cancer data were sourced from the CDC Wonder Cancer database, including age-adjusted mortality-incidence rate ratios, age-adjusted incidence and mortality rates for all age groups and demographics in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38230766",
+      "title": "Cancer statistics, 2024.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38230766/",
+      "semantic_score": 0.5419225692749023,
+      "matched_sentences": [
+        "Each year, the American Cancer Society estimates the numbers of new cancer cases and deaths in the United States and compiles the most recent data on population-based cancer occurrence and outcomes using incidence data collected by central cancer registries (through 2020) and mortality data collected by the National Center for Health Statistics (through 2021)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01772004",
+      "title": "Avelumab in Metastatic or Locally Advanced Solid Tumors (JAVELIN Solid Tumor)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT01772004",
+      "semantic_score": 0.5417678356170654,
+      "matched_sentences": [
+        "Closed cohorts: Non-small cell lung cancer (NSCLC, first line), NSCLC (post-platinum), metastatic breast cancer (MBC), colorectal cancer (CRC), urothelial carcinoma (secondary), mesothelioma, gastric/GEJ cancer (first line switch maintenance and second line), and ovarian cancer (secondary and platinum refractory + liposomal doxorubicin), renal cell carcinoma (second line) melanoma and head, neck squamous cell carcinoma (HNSCC), castrate-resistant prostate cancer (CRPC), adrenocortical carcinoma (ACC) urothelial carcinoma (efficacy), gastric/gastroesophageal junction (GEJ) cancer (third line), renal cell carcinoma (RCC, first line) and escalation phase ."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39522356",
+      "title": "Prostate cancer incidence rates, trends, and treatment related to prostate-specific antigen screening recommendations in the United States.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39522356/",
+      "semantic_score": 0.5413483381271362,
+      "matched_sentences": [
+        "Analyses were based on 777,152 cases diagnosed in 17 population-based tumor registries in the SEER Program of the US National Cancer Institute, 2007-2021."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23470172",
+      "title": "Cancer incidence, mortality and survival trends in Canada, 1970-2007.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23470172/",
+      "semantic_score": 0.5390543341636658,
+      "matched_sentences": [
+        "Mortality rates were characterized by significant declines for all cancers combined and for most cancers examined except for melanoma and female lung cancer."
+      ]
+    }
+  ]
+}

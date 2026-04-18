@@ -1,0 +1,993 @@
+{
+  "enabled": true,
+  "indexed_chunks": 6,
+  "matches": [
+    {
+      "id": "pubmed:21551108:1",
+      "score": 0.8235422372817993,
+      "metadata": {
+        "id": "pubmed:21551108:1",
+        "doc_id": "21551108",
+        "source": "pubmed",
+        "title": "The treatment of early Parkinson's disease: levodopa rehabilitated.",
+        "study_type": "Journal Article, Review",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21551108/",
+        "text": "Many clinicians regard levodopa as a last resort in the symptomatic treatment of Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:38905055:0",
+      "score": 0.8072324395179749,
+      "metadata": {
+        "id": "pubmed:38905055:0",
+        "doc_id": "38905055",
+        "source": "pubmed",
+        "title": "Impact of Physical Exercise on Levodopa Therapy Across Parkinson's Disease Stages.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38905055/",
+        "text": "Levodopa is the gold standard of treatment in Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:37739971:1",
+      "score": 0.8036853075027466,
+      "metadata": {
+        "id": "pubmed:37739971:1",
+        "doc_id": "37739971",
+        "source": "pubmed",
+        "title": "Model-based optimization of controlled release formulation of levodopa for Parkinson's disease.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37739971/",
+        "text": "Levodopa is currently the standard of care treatment for Parkinson's disease, but chronic therapy has been linked to motor complications."
+      }
+    },
+    {
+      "id": "pubmed:39028854:0",
+      "score": 0.8008419275283813,
+      "metadata": {
+        "id": "pubmed:39028854:0",
+        "doc_id": "39028854",
+        "source": "pubmed",
+        "title": "Levodopa versus levodopa sparing in early parkinson's disease: can we meet halfway?",
+        "study_type": "Journal Article, Review, Comparative Study",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39028854/",
+        "text": "This review aims to provide a comprehensive evaluation of the existing literature regarding the benefits and drawbacks of levodopa versus levodopa-sparing strategies in drug-naive early-stage Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:11784369:0",
+      "score": 0.7953107953071594,
+      "metadata": {
+        "id": "pubmed:11784369:0",
+        "doc_id": "11784369",
+        "source": "pubmed",
+        "title": "The effect of stage of Parkinson's disease at the onset of levodopa therapy on development of motor complications.",
+        "study_type": "Clinical Trial, Journal Article",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11784369/",
+        "text": "The aim of this study was to ascertain whether the stage of Parkinson's disease (PD) (according to the Hoehn and Yahr staging system) would affect the length of time between the introduction of levodopa therapy and appearance of levodopa-associated motor complications."
+      }
+    },
+    {
+      "id": "pubmed:12751918:0",
+      "score": 0.7822070121765137,
+      "metadata": {
+        "id": "pubmed:12751918:0",
+        "doc_id": "12751918",
+        "source": "pubmed",
+        "title": "Levodopa-induced response fluctuations in patients with Parkinson's disease: strategies for management.",
+        "study_type": "Journal Article, Review",
+        "year": "2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12751918/",
+        "text": "Fluctuations in response to levodopa in patients in the advanced stages of idiopathic Parkinson's disease occur frequently and are a difficult problem to treat."
+      }
+    },
+    {
+      "id": "pubmed:32761324:0",
+      "score": 0.7651077508926392,
+      "metadata": {
+        "id": "pubmed:32761324:0",
+        "doc_id": "32761324",
+        "source": "pubmed",
+        "title": "Medical Management and Prevention of Motor Complications in Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32761324/",
+        "text": "Levodopa is the most effective medication for the treatment of the motor symptoms of Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:36496996:0",
+      "score": 0.75541090965271,
+      "metadata": {
+        "id": "pubmed:36496996:0",
+        "doc_id": "36496996",
+        "source": "pubmed",
+        "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36496996/",
+        "text": "Levodopa replacement therapy remains the current clinical treatment of choice for Parkinson's patients, but approximately 80% of the treated PD patients develop levodopa-induced dyskinesia (LID) in the advanced stages of the disease."
+      }
+    },
+    {
+      "id": "pubmed:40185525:1",
+      "score": 0.7527391910552979,
+      "metadata": {
+        "id": "pubmed:40185525:1",
+        "doc_id": "40185525",
+        "source": "pubmed",
+        "title": "Treatment of Motor Symptoms of Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40185525/",
+        "text": "The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions."
+      }
+    },
+    {
+      "id": "pubmed:21551108:0",
+      "score": 0.7484303712844849,
+      "metadata": {
+        "id": "pubmed:21551108:0",
+        "doc_id": "21551108",
+        "source": "pubmed",
+        "title": "The treatment of early Parkinson's disease: levodopa rehabilitated.",
+        "study_type": "Journal Article, Review",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21551108/",
+        "text": "Levodopa remains the most effective and best tolerated Parkinson's drug to date, and should have an important role in all therapeutic strategies, both as monotherapy in early Parkinson's disease and as part of combination therapy in advanced disease."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00363727:0",
+      "score": 0.7380529642105103,
+      "metadata": {
+        "id": "clinicaltrials:NCT00363727:0",
+        "doc_id": "NCT00363727",
+        "source": "clinicaltrials",
+        "title": "Onset Motor Complications Using REQUIP CR (Ropinirole Controlled-release) As Add-on Therapy To L-dopa In Parkinson's",
+        "study_type": "INTERVENTIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00363727",
+        "text": "This study evaluates how effective a new formulation of a marketed drug is in increasing the time to onset of dyskinesia (abnormal twisting, writhing movements) in patients with Parkinson's Disease who have been taking levodopa for less than 2 years."
+      }
+    },
+    {
+      "id": "pubmed:17047575:0",
+      "score": 0.7248292565345764,
+      "metadata": {
+        "id": "pubmed:17047575:0",
+        "doc_id": "17047575",
+        "source": "pubmed",
+        "title": "Motor fluctuations in Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17047575/",
+        "text": "The introduction of levodopa and its positive effect on motor dysfunction in Parkinson's disease has allowed neurologists to focus on motor fluctuations."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01382342:1",
+      "score": 0.7245175242424011,
+      "metadata": {
+        "id": "clinicaltrials:NCT01382342:1",
+        "doc_id": "NCT01382342",
+        "source": "clinicaltrials",
+        "title": "The Effect of Rasagiline on Cognition in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2015",
+        "url": "https://clinicaltrials.gov/study/NCT01382342",
+        "text": "The traditional pharmacological interventions for Parkinson's disease have focused on controlling and alleviating motor symptoms with levodopa and dopamine agonists."
+      }
+    },
+    {
+      "id": "pubmed:36496996:1",
+      "score": 0.7225326299667358,
+      "metadata": {
+        "id": "pubmed:36496996:1",
+        "doc_id": "36496996",
+        "source": "pubmed",
+        "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36496996/",
+        "text": "The most commonly used treatment for Parkinson's disease (PD) is levodopa, prescribed in conjunction with carbidopa."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT07432958:0",
+      "score": 0.7193212509155273,
+      "metadata": {
+        "id": "clinicaltrials:NCT07432958:0",
+        "doc_id": "NCT07432958",
+        "source": "clinicaltrials",
+        "title": "A Study to Evaluate the Effectiveness of Two Doses of AP-472 as Adjunctive Therapy to Levodopa in Parkinson's Disease (PD) Participants With Motor Fluctuations",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT07432958",
+        "text": "This is a Phase 2 study in people with Parkinson's disease who experience motor fluctuations while taking levodopa."
+      }
+    },
+    {
+      "id": "pubmed:29480220:0",
+      "score": 0.7162013649940491,
+      "metadata": {
+        "id": "pubmed:29480220:0",
+        "doc_id": "29480220",
+        "source": "pubmed",
+        "title": "Levodopa Effect and Motor Function in Late Stage Parkinson's Disease.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29480220/",
+        "text": "It is unclear to which degree Levodopa (L-dopa) remains effective also in the late stage of Parkinson's disease (PD) and to which degree motor fluctuations and dyskinesias remain a problem."
+      }
+    },
+    {
+      "id": "pubmed:40214767:0",
+      "score": 0.7124756574630737,
+      "metadata": {
+        "id": "pubmed:40214767:0",
+        "doc_id": "40214767",
+        "source": "pubmed",
+        "title": "Levodopa treatment: impacts and mechanisms throughout Parkinson's disease progression.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40214767/",
+        "text": "Treatment with levodopa, a precursor of dopamine (DA), to compensate for the loss of endogenous DA in Parkinson's disease (PD), has been a success story for over 50 years."
+      }
+    },
+    {
+      "id": "pubmed:40214767:1",
+      "score": 0.7107908725738525,
+      "metadata": {
+        "id": "pubmed:40214767:1",
+        "doc_id": "40214767",
+        "source": "pubmed",
+        "title": "Levodopa treatment: impacts and mechanisms throughout Parkinson's disease progression.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40214767/",
+        "text": "This review provides a broad overview on the use of levodopa in treating PD, with a focus on the underlying science of the challenges encountered in late stages of the disease."
+      }
+    },
+    {
+      "id": "pubmed:23948989:0",
+      "score": 0.7094883918762207,
+      "metadata": {
+        "id": "pubmed:23948989:0",
+        "doc_id": "23948989",
+        "source": "pubmed",
+        "title": "Levodopa in the treatment of Parkinson's disease: current status and new developments.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23948989/",
+        "text": "Levodopa, a dopamine precursor, is an effective and well-tolerated dopamine replacement agent used to treat Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:18690870:0",
+      "score": 0.709088921546936,
+      "metadata": {
+        "id": "pubmed:18690870:0",
+        "doc_id": "18690870",
+        "source": "pubmed",
+        "title": "The pharmacokinetics and pharmacodynamics of levodopa in the treatment of Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18690870/",
+        "text": "Levodopa, a prodrug of dopamine, remains to be one of the main drugs in the treatment of Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:38743091:1",
+      "score": 0.6991012096405029,
+      "metadata": {
+        "id": "pubmed:38743091:1",
+        "doc_id": "38743091",
+        "source": "pubmed",
+        "title": "Sublingual apomorphine in the treatment of Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38743091/",
+        "text": "Advanced Parkinson´s disease (PD) is often complicated by fluctuations of disability depending on plasma levels of levodopa."
+      }
+    },
+    {
+      "id": "pubmed:31625879:1",
+      "score": 0.6923075914382935,
+      "metadata": {
+        "id": "pubmed:31625879:1",
+        "doc_id": "31625879",
+        "source": "pubmed",
+        "title": "[Parkinson's Disease: Clinical Review and Update].",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31625879/",
+        "text": "This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05312632:0",
+      "score": 0.6873166561126709,
+      "metadata": {
+        "id": "clinicaltrials:NCT05312632:0",
+        "doc_id": "NCT05312632",
+        "source": "clinicaltrials",
+        "title": "A Study to Evaluate the Efficacy and Safety of Safinamide Mesilate as Add-on Therapy to Levodopa in Parkinson's Disease Participants With Motor Fluctuation in South Korea",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT05312632",
+        "text": "The primary purpose of this study is to evaluate the change at the 18th week from baseline in daily \"off\" time measured by participant diary and Parkinson's Disease Questionnaire-39 (PDQ-39) in participants with Parkinson's Disease who are receiving levodopa."
+      }
+    },
+    {
+      "id": "pubmed:31625879:0",
+      "score": 0.6840710043907166,
+      "metadata": {
+        "id": "pubmed:31625879:0",
+        "doc_id": "31625879",
+        "source": "pubmed",
+        "title": "[Parkinson's Disease: Clinical Review and Update].",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31625879/",
+        "text": "After the introduction of levodopa, deep brain stimulation emerged as the second therapy with an important symptomatic impact in the treatment of Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:36716191:2",
+      "score": 0.6803205013275146,
+      "metadata": {
+        "id": "pubmed:36716191:2",
+        "doc_id": "36716191",
+        "source": "pubmed",
+        "title": "An overview of the effects of levodopa and dopaminergic agonists on sleep disorders in Parkinson's disease.",
+        "study_type": "Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36716191/",
+        "text": "An overview of the effects of levodopa and dopaminergic agonists on sleep disorders in Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:10451755:0",
+      "score": 0.6787522435188293,
+      "metadata": {
+        "id": "pubmed:10451755:0",
+        "doc_id": "10451755",
+        "source": "pubmed",
+        "title": "Parkinson's disease--levodopa complications.",
+        "study_type": "Journal Article, Review",
+        "year": "1999",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10451755/",
+        "text": "This article reviews the current management of late-stage Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:36716191:1",
+      "score": 0.6771069765090942,
+      "metadata": {
+        "id": "pubmed:36716191:1",
+        "doc_id": "36716191",
+        "source": "pubmed",
+        "title": "An overview of the effects of levodopa and dopaminergic agonists on sleep disorders in Parkinson's disease.",
+        "study_type": "Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36716191/",
+        "text": "Levodopa and dopaminergic agonists are frequently prescribed to treat motor symptoms in Parkinson's disease, and there is increasing interest in how these pharmacological agents affect sleep and their effect on concomitant sleep disturbances and disorders."
+      }
+    },
+    {
+      "id": "pubmed:37184848:1",
+      "score": 0.6762974262237549,
+      "metadata": {
+        "id": "pubmed:37184848:1",
+        "doc_id": "37184848",
+        "source": "pubmed",
+        "title": "Risk of Parkinson Disease Among Service Members at Marine Corps Base Camp Lejeune.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37184848/",
+        "text": "Parkinson disease diagnoses were confirmed by medical record review."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02337738:0",
+      "score": 0.6721667051315308,
+      "metadata": {
+        "id": "clinicaltrials:NCT02337738:0",
+        "doc_id": "NCT02337738",
+        "source": "clinicaltrials",
+        "title": "A Phase 2/3 Study of TVP-1012 at 0.5 mg or 1 mg in Levodopa Treated Parkinson's Disease Participants",
+        "study_type": "INTERVENTIONAL",
+        "year": "2022",
+        "url": "https://clinicaltrials.gov/study/NCT02337738",
+        "text": "This is a multicenter, randomized, double-blind, placebo-controlled, parallel group, phase 2/3 study to evaluate the efficacy and safety of TVP-1012 as an add-on to levodopa in Japanese participants with Parkinson's disease with wearing-off phenomenon."
+      }
+    },
+    {
+      "id": "pubmed:26420046:2",
+      "score": 0.671645998954773,
+      "metadata": {
+        "id": "pubmed:26420046:2",
+        "doc_id": "26420046",
+        "source": "pubmed",
+        "title": "Initiation of medications for Parkinson's disease: a qualitative description.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26420046/",
+        "text": "Two domains emerged from the data: decision-making to initiate antiparkinsonian medications as prescribed and reasons to delay initiation of levodopa to a later stage of Parkinson's disease."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00955526:0",
+      "score": 0.6693914532661438,
+      "metadata": {
+        "id": "clinicaltrials:NCT00955526:0",
+        "doc_id": "NCT00955526",
+        "source": "clinicaltrials",
+        "title": "Study of KW-6002 (Istradefylline) for the Treatment of Parkinson's Disease in Patients Taking Levodopa",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00955526",
+        "text": "The purpose of this study is to establish the efficacy of 20 mg/day and 40 mg/day doses of istradefylline for reducing the mean total hours of awake time per day spent in the OFF state in patients with advanced Parkinson's disease (PD) treated with levodopa."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00455507:0",
+      "score": 0.6693914532661438,
+      "metadata": {
+        "id": "clinicaltrials:NCT00455507:0",
+        "doc_id": "NCT00455507",
+        "source": "clinicaltrials",
+        "title": "A Phase 2b Study of Istradefylline (KW-6002) for the Treatment of Parkinson's Disease in Patients Taking Levodopa",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00455507",
+        "text": "The purpose of this study is to establish the efficacy of 20 mg/day and 40 mg/day doses of istradefylline for reducing the mean total hours of awake time per day spent in the OFF state in patients with advanced Parkinson's disease (PD) treated with levodopa."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT07172698:1",
+      "score": 0.6693004369735718,
+      "metadata": {
+        "id": "clinicaltrials:NCT07172698:1",
+        "doc_id": "NCT07172698",
+        "source": "clinicaltrials",
+        "title": "Effects of a Multicomponent Protocol With Emphasis on Muscle Power Training on Bradykinesia in Individuals With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT07172698",
+        "text": "A Randomized Clinical Trial will be conducted, in which individuals diagnosed with Parkinson's disease, rigid-akinetic type, classified from 1 to 3 on the Hoehn and Yahr Scale, aged between 50 and 85 years, and who sign the Informed Consent Form will participate."
+      }
+    },
+    {
+      "id": "pubmed:26972527:2",
+      "score": 0.669119119644165,
+      "metadata": {
+        "id": "pubmed:26972527:2",
+        "doc_id": "26972527",
+        "source": "pubmed",
+        "title": "Do patients with late-stage Parkinson's disease still respond to levodopa?",
+        "study_type": "Journal Article",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26972527/",
+        "text": "To study the response to levodopa in late-stage PD (LSPD)."
+      }
+    },
+    {
+      "id": "pubmed:40464628:0",
+      "score": 0.6681638360023499,
+      "metadata": {
+        "id": "pubmed:40464628:0",
+        "doc_id": "40464628",
+        "source": "pubmed",
+        "title": "The Treatment of Older Patients with Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40464628/",
+        "text": "Further randomized controlled trials tailored to this patient population are needed to provide a better evidence base for the treatment of older patients with Parkinson's disease."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04928287:1",
+      "score": 0.6676198840141296,
+      "metadata": {
+        "id": "clinicaltrials:NCT04928287:1",
+        "doc_id": "NCT04928287",
+        "source": "clinicaltrials",
+        "title": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT04928287",
+        "text": "This clinical trial will be open to enroll 24 eligible participants diagnosed with Parkinson's disease."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06928519:1",
+      "score": 0.6650990843772888,
+      "metadata": {
+        "id": "clinicaltrials:NCT06928519:1",
+        "doc_id": "NCT06928519",
+        "source": "clinicaltrials",
+        "title": "Efficacy and Safety of Entacapone Combined With Madopar in the Treatment of Early Parkinson's Disease: An Observational, Multicenter, Case-Control Study",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06928519",
+        "text": "This observational, multicenter, case-control study aims to evaluate the efficacy and safety of Entacapone combined with Madopar (levodopa/benserazide) in the treatment of early-stage Parkinson's disease (PD) among Chinese patients."
+      }
+    },
+    {
+      "id": "pubmed:35146054:0",
+      "score": 0.6629517078399658,
+      "metadata": {
+        "id": "pubmed:35146054:0",
+        "doc_id": "35146054",
+        "source": "pubmed",
+        "title": "Preoperative Levodopa Response and Deep Brain Stimulation Effects on Motor Outcomes in Parkinson's Disease: A Systematic Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35146054/",
+        "text": "The up-to-date literature systematically reviewing the predictive value of preoperative levodopa responsiveness after deep brain stimulation (DBS) surgery in motor outcomes in Parkinson's disease (PD) is lacking."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01364545:0",
+      "score": 0.6622122526168823,
+      "metadata": {
+        "id": "clinicaltrials:NCT01364545:0",
+        "doc_id": "NCT01364545",
+        "source": "clinicaltrials",
+        "title": "Ketogenic Diets for Symptoms of Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2011",
+        "url": "https://clinicaltrials.gov/study/NCT01364545",
+        "text": "Current treatments for Parkinson's disease (including levodopa and deep brain stimulation) improve certain symptoms but are not thought to improve the underlying neurodegenerative disease process (they are not a \"cure\")."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00559871:1",
+      "score": 0.662198543548584,
+      "metadata": {
+        "id": "clinicaltrials:NCT00559871:1",
+        "doc_id": "NCT00559871",
+        "source": "clinicaltrials",
+        "title": "Safety and Efficacy Study of Fipamezole in Treatment of Motor Dysfunctions in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2009",
+        "url": "https://clinicaltrials.gov/study/NCT00559871",
+        "text": "This study is a multi-center, double-blind, placebo-controlled, multiple dose escalating, safety, tolerance, pharmacokinetics, and efficacy study of fipamezole administered in Parkinson's disease patients who are concomitantly being treated with a combination product of levodopa with a dopamine decarboxylase inhibitor (DDI) and possible other antiparkinson medication."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "21551108",
+      "title": "The treatment of early Parkinson's disease: levodopa rehabilitated.",
+      "study_type": "Journal Article, Review",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21551108/",
+      "semantic_score": 0.8235422372817993,
+      "matched_sentences": [
+        "Many clinicians regard levodopa as a last resort in the symptomatic treatment of Parkinson's disease.",
+        "Levodopa remains the most effective and best tolerated Parkinson's drug to date, and should have an important role in all therapeutic strategies, both as monotherapy in early Parkinson's disease and as part of combination therapy in advanced disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38905055",
+      "title": "Impact of Physical Exercise on Levodopa Therapy Across Parkinson's Disease Stages.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38905055/",
+      "semantic_score": 0.8072324395179749,
+      "matched_sentences": [
+        "Levodopa is the gold standard of treatment in Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37739971",
+      "title": "Model-based optimization of controlled release formulation of levodopa for Parkinson's disease.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37739971/",
+      "semantic_score": 0.8036853075027466,
+      "matched_sentences": [
+        "Levodopa is currently the standard of care treatment for Parkinson's disease, but chronic therapy has been linked to motor complications."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39028854",
+      "title": "Levodopa versus levodopa sparing in early parkinson's disease: can we meet halfway?",
+      "study_type": "Journal Article, Review, Comparative Study",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39028854/",
+      "semantic_score": 0.8008419275283813,
+      "matched_sentences": [
+        "This review aims to provide a comprehensive evaluation of the existing literature regarding the benefits and drawbacks of levodopa versus levodopa-sparing strategies in drug-naive early-stage Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11784369",
+      "title": "The effect of stage of Parkinson's disease at the onset of levodopa therapy on development of motor complications.",
+      "study_type": "Clinical Trial, Journal Article",
+      "year": "2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11784369/",
+      "semantic_score": 0.7953107953071594,
+      "matched_sentences": [
+        "The aim of this study was to ascertain whether the stage of Parkinson's disease (PD) (according to the Hoehn and Yahr staging system) would affect the length of time between the introduction of levodopa therapy and appearance of levodopa-associated motor complications."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12751918",
+      "title": "Levodopa-induced response fluctuations in patients with Parkinson's disease: strategies for management.",
+      "study_type": "Journal Article, Review",
+      "year": "2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12751918/",
+      "semantic_score": 0.7822070121765137,
+      "matched_sentences": [
+        "Fluctuations in response to levodopa in patients in the advanced stages of idiopathic Parkinson's disease occur frequently and are a difficult problem to treat."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32761324",
+      "title": "Medical Management and Prevention of Motor Complications in Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32761324/",
+      "semantic_score": 0.7651077508926392,
+      "matched_sentences": [
+        "Levodopa is the most effective medication for the treatment of the motor symptoms of Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36496996",
+      "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36496996/",
+      "semantic_score": 0.75541090965271,
+      "matched_sentences": [
+        "Levodopa replacement therapy remains the current clinical treatment of choice for Parkinson's patients, but approximately 80% of the treated PD patients develop levodopa-induced dyskinesia (LID) in the advanced stages of the disease.",
+        "The most commonly used treatment for Parkinson's disease (PD) is levodopa, prescribed in conjunction with carbidopa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40185525",
+      "title": "Treatment of Motor Symptoms of Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40185525/",
+      "semantic_score": 0.7527391910552979,
+      "matched_sentences": [
+        "The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00363727",
+      "title": "Onset Motor Complications Using REQUIP CR (Ropinirole Controlled-release) As Add-on Therapy To L-dopa In Parkinson's",
+      "study_type": "INTERVENTIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT00363727",
+      "semantic_score": 0.7380529642105103,
+      "matched_sentences": [
+        "This study evaluates how effective a new formulation of a marketed drug is in increasing the time to onset of dyskinesia (abnormal twisting, writhing movements) in patients with Parkinson's Disease who have been taking levodopa for less than 2 years."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17047575",
+      "title": "Motor fluctuations in Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17047575/",
+      "semantic_score": 0.7248292565345764,
+      "matched_sentences": [
+        "The introduction of levodopa and its positive effect on motor dysfunction in Parkinson's disease has allowed neurologists to focus on motor fluctuations."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01382342",
+      "title": "The Effect of Rasagiline on Cognition in Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2015",
+      "url": "https://clinicaltrials.gov/study/NCT01382342",
+      "semantic_score": 0.7245175242424011,
+      "matched_sentences": [
+        "The traditional pharmacological interventions for Parkinson's disease have focused on controlling and alleviating motor symptoms with levodopa and dopamine agonists."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07432958",
+      "title": "A Study to Evaluate the Effectiveness of Two Doses of AP-472 as Adjunctive Therapy to Levodopa in Parkinson's Disease (PD) Participants With Motor Fluctuations",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07432958",
+      "semantic_score": 0.7193212509155273,
+      "matched_sentences": [
+        "This is a Phase 2 study in people with Parkinson's disease who experience motor fluctuations while taking levodopa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29480220",
+      "title": "Levodopa Effect and Motor Function in Late Stage Parkinson's Disease.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29480220/",
+      "semantic_score": 0.7162013649940491,
+      "matched_sentences": [
+        "It is unclear to which degree Levodopa (L-dopa) remains effective also in the late stage of Parkinson's disease (PD) and to which degree motor fluctuations and dyskinesias remain a problem."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40214767",
+      "title": "Levodopa treatment: impacts and mechanisms throughout Parkinson's disease progression.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40214767/",
+      "semantic_score": 0.7124756574630737,
+      "matched_sentences": [
+        "Treatment with levodopa, a precursor of dopamine (DA), to compensate for the loss of endogenous DA in Parkinson's disease (PD), has been a success story for over 50 years.",
+        "This review provides a broad overview on the use of levodopa in treating PD, with a focus on the underlying science of the challenges encountered in late stages of the disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23948989",
+      "title": "Levodopa in the treatment of Parkinson's disease: current status and new developments.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23948989/",
+      "semantic_score": 0.7094883918762207,
+      "matched_sentences": [
+        "Levodopa, a dopamine precursor, is an effective and well-tolerated dopamine replacement agent used to treat Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18690870",
+      "title": "The pharmacokinetics and pharmacodynamics of levodopa in the treatment of Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18690870/",
+      "semantic_score": 0.709088921546936,
+      "matched_sentences": [
+        "Levodopa, a prodrug of dopamine, remains to be one of the main drugs in the treatment of Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38743091",
+      "title": "Sublingual apomorphine in the treatment of Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38743091/",
+      "semantic_score": 0.6991012096405029,
+      "matched_sentences": [
+        "Advanced Parkinson´s disease (PD) is often complicated by fluctuations of disability depending on plasma levels of levodopa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31625879",
+      "title": "[Parkinson's Disease: Clinical Review and Update].",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31625879/",
+      "semantic_score": 0.6923075914382935,
+      "matched_sentences": [
+        "This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice.",
+        "After the introduction of levodopa, deep brain stimulation emerged as the second therapy with an important symptomatic impact in the treatment of Parkinson's disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05312632",
+      "title": "A Study to Evaluate the Efficacy and Safety of Safinamide Mesilate as Add-on Therapy to Levodopa in Parkinson's Disease Participants With Motor Fluctuation in South Korea",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT05312632",
+      "semantic_score": 0.6873166561126709,
+      "matched_sentences": [
+        "The primary purpose of this study is to evaluate the change at the 18th week from baseline in daily \"off\" time measured by participant diary and Parkinson's Disease Questionnaire-39 (PDQ-39) in participants with Parkinson's Disease who are receiving levodopa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36716191",
+      "title": "An overview of the effects of levodopa and dopaminergic agonists on sleep disorders in Parkinson's disease.",
+      "study_type": "Review, Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36716191/",
+      "semantic_score": 0.6803205013275146,
+      "matched_sentences": [
+        "An overview of the effects of levodopa and dopaminergic agonists on sleep disorders in Parkinson's disease.",
+        "Levodopa and dopaminergic agonists are frequently prescribed to treat motor symptoms in Parkinson's disease, and there is increasing interest in how these pharmacological agents affect sleep and their effect on concomitant sleep disturbances and disorders."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "10451755",
+      "title": "Parkinson's disease--levodopa complications.",
+      "study_type": "Journal Article, Review",
+      "year": "1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10451755/",
+      "semantic_score": 0.6787522435188293,
+      "matched_sentences": [
+        "This article reviews the current management of late-stage Parkinson's disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37184848",
+      "title": "Risk of Parkinson Disease Among Service Members at Marine Corps Base Camp Lejeune.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37184848/",
+      "semantic_score": 0.6762974262237549,
+      "matched_sentences": [
+        "Parkinson disease diagnoses were confirmed by medical record review."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02337738",
+      "title": "A Phase 2/3 Study of TVP-1012 at 0.5 mg or 1 mg in Levodopa Treated Parkinson's Disease Participants",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT02337738",
+      "semantic_score": 0.6721667051315308,
+      "matched_sentences": [
+        "This is a multicenter, randomized, double-blind, placebo-controlled, parallel group, phase 2/3 study to evaluate the efficacy and safety of TVP-1012 as an add-on to levodopa in Japanese participants with Parkinson's disease with wearing-off phenomenon."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26420046",
+      "title": "Initiation of medications for Parkinson's disease: a qualitative description.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26420046/",
+      "semantic_score": 0.671645998954773,
+      "matched_sentences": [
+        "Two domains emerged from the data: decision-making to initiate antiparkinsonian medications as prescribed and reasons to delay initiation of levodopa to a later stage of Parkinson's disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00955526",
+      "title": "Study of KW-6002 (Istradefylline) for the Treatment of Parkinson's Disease in Patients Taking Levodopa",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00955526",
+      "semantic_score": 0.6693914532661438,
+      "matched_sentences": [
+        "The purpose of this study is to establish the efficacy of 20 mg/day and 40 mg/day doses of istradefylline for reducing the mean total hours of awake time per day spent in the OFF state in patients with advanced Parkinson's disease (PD) treated with levodopa."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00455507",
+      "title": "A Phase 2b Study of Istradefylline (KW-6002) for the Treatment of Parkinson's Disease in Patients Taking Levodopa",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00455507",
+      "semantic_score": 0.6693914532661438,
+      "matched_sentences": [
+        "The purpose of this study is to establish the efficacy of 20 mg/day and 40 mg/day doses of istradefylline for reducing the mean total hours of awake time per day spent in the OFF state in patients with advanced Parkinson's disease (PD) treated with levodopa."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07172698",
+      "title": "Effects of a Multicomponent Protocol With Emphasis on Muscle Power Training on Bradykinesia in Individuals With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07172698",
+      "semantic_score": 0.6693004369735718,
+      "matched_sentences": [
+        "A Randomized Clinical Trial will be conducted, in which individuals diagnosed with Parkinson's disease, rigid-akinetic type, classified from 1 to 3 on the Hoehn and Yahr Scale, aged between 50 and 85 years, and who sign the Informed Consent Form will participate."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26972527",
+      "title": "Do patients with late-stage Parkinson's disease still respond to levodopa?",
+      "study_type": "Journal Article",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26972527/",
+      "semantic_score": 0.669119119644165,
+      "matched_sentences": [
+        "To study the response to levodopa in late-stage PD (LSPD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40464628",
+      "title": "The Treatment of Older Patients with Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40464628/",
+      "semantic_score": 0.6681638360023499,
+      "matched_sentences": [
+        "Further randomized controlled trials tailored to this patient population are needed to provide a better evidence base for the treatment of older patients with Parkinson's disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04928287",
+      "title": "Randomized, Double-Blind Clinical Trial for Parkinson's Disease (Early and Moderate)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT04928287",
+      "semantic_score": 0.6676198840141296,
+      "matched_sentences": [
+        "This clinical trial will be open to enroll 24 eligible participants diagnosed with Parkinson's disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06928519",
+      "title": "Efficacy and Safety of Entacapone Combined With Madopar in the Treatment of Early Parkinson's Disease: An Observational, Multicenter, Case-Control Study",
+      "study_type": "OBSERVATIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06928519",
+      "semantic_score": 0.6650990843772888,
+      "matched_sentences": [
+        "This observational, multicenter, case-control study aims to evaluate the efficacy and safety of Entacapone combined with Madopar (levodopa/benserazide) in the treatment of early-stage Parkinson's disease (PD) among Chinese patients."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35146054",
+      "title": "Preoperative Levodopa Response and Deep Brain Stimulation Effects on Motor Outcomes in Parkinson's Disease: A Systematic Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35146054/",
+      "semantic_score": 0.6629517078399658,
+      "matched_sentences": [
+        "The up-to-date literature systematically reviewing the predictive value of preoperative levodopa responsiveness after deep brain stimulation (DBS) surgery in motor outcomes in Parkinson's disease (PD) is lacking."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01364545",
+      "title": "Ketogenic Diets for Symptoms of Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2011",
+      "url": "https://clinicaltrials.gov/study/NCT01364545",
+      "semantic_score": 0.6622122526168823,
+      "matched_sentences": [
+        "Current treatments for Parkinson's disease (including levodopa and deep brain stimulation) improve certain symptoms but are not thought to improve the underlying neurodegenerative disease process (they are not a \"cure\")."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00559871",
+      "title": "Safety and Efficacy Study of Fipamezole in Treatment of Motor Dysfunctions in Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2009",
+      "url": "https://clinicaltrials.gov/study/NCT00559871",
+      "semantic_score": 0.662198543548584,
+      "matched_sentences": [
+        "This study is a multi-center, double-blind, placebo-controlled, multiple dose escalating, safety, tolerance, pharmacokinetics, and efficacy study of fipamezole administered in Parkinson's disease patients who are concomitantly being treated with a combination product of levodopa with a dopamine decarboxylase inhibitor (DDI) and possible other antiparkinson medication."
+      ]
+    }
+  ]
+}

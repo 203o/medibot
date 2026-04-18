@@ -1,0 +1,17 @@
+{
+  "query": "malaria hydration during treatment Kenya, Turkana",
+  "medical_context": {
+    "medical_context": {
+      "disease": "malaria",
+      "intent": "hydration during treatment",
+      "location": "Kenya, Turkana"
+    },
+    "max_results": 2,
+    "sources": [
+      "pubmed",
+      "clinicaltrials"
+    ]
+  },
+  "pubmed_records": [],
+  "clinical_trials_records": []
+}

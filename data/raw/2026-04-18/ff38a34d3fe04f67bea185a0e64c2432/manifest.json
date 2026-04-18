@@ -1,0 +1,65 @@
+{
+  "run_id": "ff38a34d3fe04f67bea185a0e64c2432",
+  "stored_at": "2026-04-18T09:49:14+00:00",
+  "query": "malaria malaria afternoon",
+  "query_fallbacks": [
+    "malaria malaria afternoon",
+    "malaria epidemiology afternoon",
+    "malaria afternoon transmission",
+    "malaria afternoon prevalence",
+    "malaria afternoon incidence",
+    "malaria malaria afternoon treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria afternoon",
+    "malaria malaria afternoon treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology afternoon",
+    "malaria afternoon transmission",
+    "malaria afternoon prevalence",
+    "malaria afternoon incidence"
+  ],
+  "keywords": [
+    "malaria",
+    "afternoon"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 22,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 37,
+    "indexed_chunks": 117
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology afternoon",
+      "malaria afternoon transmission",
+      "malaria afternoon prevalence",
+      "malaria afternoon incidence"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ff38a34d3fe04f67bea185a0e64c2432\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ff38a34d3fe04f67bea185a0e64c2432\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ff38a34d3fe04f67bea185a0e64c2432\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ff38a34d3fe04f67bea185a0e64c2432\\combined.records.json"
+  }
+}

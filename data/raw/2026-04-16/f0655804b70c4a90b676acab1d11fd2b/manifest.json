@@ -1,0 +1,72 @@
+{
+  "run_id": "f0655804b70c4a90b676acab1d11fd2b",
+  "stored_at": "2026-04-16T16:53:46+00:00",
+  "query": "malaria malaria clinical question kenya kenya turkana",
+  "query_fallbacks": [
+    "malaria malaria clinical question kenya kenya turkana",
+    "(malaria AND epidemiology) AND (Kenya AND Turkana) AND (prevalence OR incidence) AND (systematic review OR meta-analysis)",
+    "(malaria AND burden) AND (Kenya AND Turkana) AND (epidemiological studies OR observational studies) AND (evidence synthesis OR review)",
+    "(malaria AND Kenya) AND (Turkana AND disease mapping) AND (spatial analysis OR geographic information systems) AND (epidemiological studies OR observational studies)",
+    "(malaria AND Turkana) AND (Kenya AND health outcomes) AND (outcome research OR health services research) AND (systematic review OR meta-analysis)",
+    "malaria malaria clinical question kenya",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria clinical question kenya kenya turkana",
+    "malaria malaria clinical question kenya",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "(malaria AND epidemiology) AND (Kenya AND Turkana) AND (prevalence OR incidence) AND (systematic review OR meta-analysis)",
+    "(malaria AND burden) AND (Kenya AND Turkana) AND (epidemiological studies OR observational studies) AND (evidence synthesis OR review)",
+    "(malaria AND Kenya) AND (Turkana AND disease mapping) AND (spatial analysis OR geographic information systems) AND (epidemiological studies OR observational studies)",
+    "(malaria AND Turkana) AND (Kenya AND health outcomes) AND (outcome research OR health services research) AND (systematic review OR meta-analysis)"
+  ],
+  "keywords": [
+    "malaria",
+    "clinical",
+    "question",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 72
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(malaria AND epidemiology) AND (Kenya AND Turkana) AND (prevalence OR incidence) AND (systematic review OR meta-analysis)",
+      "(malaria AND burden) AND (Kenya AND Turkana) AND (epidemiological studies OR observational studies) AND (evidence synthesis OR review)",
+      "(malaria AND Kenya) AND (Turkana AND disease mapping) AND (spatial analysis OR geographic information systems) AND (epidemiological studies OR observational studies)",
+      "(malaria AND Turkana) AND (Kenya AND health outcomes) AND (outcome research OR health services research) AND (systematic review OR meta-analysis)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\f0655804b70c4a90b676acab1d11fd2b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\f0655804b70c4a90b676acab1d11fd2b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\f0655804b70c4a90b676acab1d11fd2b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\f0655804b70c4a90b676acab1d11fd2b\\combined.records.json"
+  }
+}

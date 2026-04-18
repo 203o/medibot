@@ -1,0 +1,23 @@
+{
+  "run_id": "78ab91e544ee49b99be9570f3c78ef95",
+  "stored_at": "2026-04-15T12:51:50+00:00",
+  "query": "malaria clinical_question kenya",
+  "query_fallbacks": [
+    "malaria clinical_question kenya",
+    "malaria clinical_question",
+    "malaria"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 5
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\78ab91e544ee49b99be9570f3c78ef95\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\78ab91e544ee49b99be9570f3c78ef95\\clinicaltrials.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\78ab91e544ee49b99be9570f3c78ef95\\combined.records.json"
+  }
+}

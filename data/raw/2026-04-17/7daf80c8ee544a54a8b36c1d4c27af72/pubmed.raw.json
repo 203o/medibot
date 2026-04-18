@@ -1,0 +1,1209 @@
+{
+  "query": "lung cancer lung cancer mortality rates canada",
+  "selected_query": "lung cancer lung cancer mortality rates canada",
+  "attempted_queries": [
+    {
+      "query": "lung cancer lung cancer mortality rates canada",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38195644",
+    "23530101",
+    "13967780",
+    "38319507",
+    "39074244",
+    "38454087",
+    "31162856",
+    "39243029",
+    "33039364",
+    "27794416",
+    "3242824",
+    "39798695",
+    "28682689",
+    "4688412",
+    "8217852",
+    "40426148",
+    "14079129",
+    "8696718",
+    "2102366",
+    "32218661",
+    "32389507",
+    "40048159",
+    "26584618",
+    "23982909",
+    "7895211",
+    "3567810",
+    "12230752",
+    "34736929",
+    "2574779",
+    "38819904"
+  ],
+  "records": [
+    {
+      "pmid": "38195644",
+      "title": "Radiomics analysis to predict pulmonary nodule malignancy using machine learning approaches.",
+      "journal": "Thorax",
+      "abstract_sections": [
+        "Low-dose CT screening can reduce lung cancer-related mortality. However, most screen-detected pulmonary abnormalities do not develop into cancer and it often remains challenging to identify malignant nodules, particularly among indeterminate nodules. We aimed to develop and assess prediction models based on radiological features to discriminate between benign and malignant pulmonary lesions detected on a baseline screen.",
+        "Using four international lung cancer screening studies, we extracted 2060 radiomic features for each of 16 797 nodules (513 malignant) among 6865 participants. After filtering out low-quality radiomic features, 642 radiomic and 9 epidemiological features remained for model development. We used cross-validation and grid search to assess three machine learning (ML) models (eXtreme Gradient Boosted Trees, random forest, least absolute shrinkage and selection operator (LASSO)) for their ability to accurately predict risk of malignancy for pulmonary nodules. We report model performance based on the area under the curve (AUC) and calibration metrics in the held-out test set.",
+        "The LASSO model yielded the best predictive performance in cross-validation and was fit in the full training set based on optimised hyperparameters. Our radiomics model had a test-set AUC of 0.93 (95% CI 0.90 to 0.96) and outperformed the established Pan-Canadian Early Detection of Lung Cancer model (AUC 0.87, 95% CI 0.85 to 0.89) for nodule assessment. Our model performed well among both solid (AUC 0.93, 95% CI 0.89 to 0.97) and subsolid nodules (AUC 0.91, 95% CI 0.85 to 0.95).",
+        "We developed highly accurate ML models based on radiomic and epidemiological features from four international lung cancer screening studies that may be suitable for assessing indeterminate screen-detected pulmonary nodules for risk of malignancy."
+      ],
+      "abstract": "Low-dose CT screening can reduce lung cancer-related mortality. However, most screen-detected pulmonary abnormalities do not develop into cancer and it often remains challenging to identify malignant nodules, particularly among indeterminate nodules. We aimed to develop and assess prediction models based on radiological features to discriminate between benign and malignant pulmonary lesions detected on a baseline screen.\n\nUsing four international lung cancer screening studies, we extracted 2060 radiomic features for each of 16 797 nodules (513 malignant) among 6865 participants. After filtering out low-quality radiomic features, 642 radiomic and 9 epidemiological features remained for model development. We used cross-validation and grid search to assess three machine learning (ML) models (eXtreme Gradient Boosted Trees, random forest, least absolute shrinkage and selection operator (LASSO)) for their ability to accurately predict risk of malignancy for pulmonary nodules. We report model performance based on the area under the curve (AUC) and calibration metrics in the held-out test set.\n\nThe LASSO model yielded the best predictive performance in cross-validation and was fit in the full training set based on optimised hyperparameters. Our radiomics model had a test-set AUC of 0.93 (95% CI 0.90 to 0.96) and outperformed the established Pan-Canadian Early Detection of Lung Cancer model (AUC 0.87, 95% CI 0.85 to 0.89) for nodule assessment. Our model performed well among both solid (AUC 0.93, 95% CI 0.89 to 0.97) and subsolid nodules (AUC 0.91, 95% CI 0.85 to 0.95).\n\nWe developed highly accurate ML models based on radiomic and epidemiological features from four international lung cancer screening studies that may be suitable for assessing indeterminate screen-detected pulmonary nodules for risk of malignancy.",
+      "evidence_sentences": [
+        "Low-dose CT screening can reduce lung cancer-related mortality.",
+        "We developed highly accurate ML models based on radiomic and epidemiological features from four international lung cancer screening studies that may be suitable for assessing indeterminate screen-detected pulmonary nodules for risk of malignancy.",
+        "Our radiomics model had a test-set AUC of 0.93 (95% CI 0.90 to 0.96) and outperformed the established Pan-Canadian Early Detection of Lung Cancer model (AUC 0.87, 95% CI 0.85 to 0.89) for nodule assessment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Matthew T Warkentin",
+        "Hamad Al-Sawaihey",
+        "Stephen Lam",
+        "Geoffrey Liu",
+        "Brenda Diergaarde",
+        "Jian-Min Yuan",
+        "David O Wilson",
+        "Sukhinder Atkar-Khattra",
+        "Benjamin Grant",
+        "Yonathan Brhane",
+        "Elham Khodayari-Moez",
+        "Kiera R Murison",
+        "Martin C Tammemagi",
+        "Kieran R Campbell",
+        "Rayjean J Hung"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38195644/"
+    },
+    {
+      "pmid": "23530101",
+      "title": "Cancer cachexia in the age of obesity: skeletal muscle depletion is a powerful prognostic factor, independent of body mass index.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "Emerging evidence suggests muscle depletion predicts survival of patients with cancer.",
+        "At a cancer center in Alberta, Canada, consecutive patients with cancer (lung or GI; N = 1,473) were assessed at presentation for weight loss history, lumbar skeletal muscle index, and mean muscle attenuation (Hounsfield units) by computed tomography (CT). Univariate and multivariate analyses were conducted. Concordance (c) statistics were used to test predictive accuracy of survival models.",
+        "Body mass index (BMI) distribution was 17% obese, 35% overweight, 36% normal weight, and 12% underweight. Patients in all BMI categories varied widely in weight loss, muscle index, and muscle attenuation. Thresholds defining associations between these three variables and survival were determined using optimal stratification. High weight loss, low muscle index, and low muscle attenuation were independently prognostic of survival. A survival model containing conventional covariates (cancer diagnosis, stage, age, performance status) gave a c statistic of 0.73 (95% CI, 0.67 to 0.79), whereas a model ignoring conventional variables and including only BMI, weight loss, muscle index, and muscle attenuation gave a c statistic of 0.92 (95% CI, 0.88 to 0.95; P < .001). Patients who possessed all three of these poor prognostic variables survived 8.4 months (95% CI, 6.5 to 10.3), regardless of whether they presented as obese, overweight, normal weight, or underweight, in contrast to patients who had none of these features, who survived 28.4 months (95% CI, 24.2 to 32.6; P < .001).",
+        "CT images reveal otherwise occult muscle depletion. Patients with cancer who are cachexic by the conventional criterion (involuntary weight loss) and by two additional criteria (muscle depletion and low muscle attenuation) share a poor prognosis, regardless of overall body weight."
+      ],
+      "abstract": "Emerging evidence suggests muscle depletion predicts survival of patients with cancer.\n\nAt a cancer center in Alberta, Canada, consecutive patients with cancer (lung or GI; N = 1,473) were assessed at presentation for weight loss history, lumbar skeletal muscle index, and mean muscle attenuation (Hounsfield units) by computed tomography (CT). Univariate and multivariate analyses were conducted. Concordance (c) statistics were used to test predictive accuracy of survival models.\n\nBody mass index (BMI) distribution was 17% obese, 35% overweight, 36% normal weight, and 12% underweight. Patients in all BMI categories varied widely in weight loss, muscle index, and muscle attenuation. Thresholds defining associations between these three variables and survival were determined using optimal stratification. High weight loss, low muscle index, and low muscle attenuation were independently prognostic of survival. A survival model containing conventional covariates (cancer diagnosis, stage, age, performance status) gave a c statistic of 0.73 (95% CI, 0.67 to 0.79), whereas a model ignoring conventional variables and including only BMI, weight loss, muscle index, and muscle attenuation gave a c statistic of 0.92 (95% CI, 0.88 to 0.95; P < .001). Patients who possessed all three of these poor prognostic variables survived 8.4 months (95% CI, 6.5 to 10.3), regardless of whether they presented as obese, overweight, normal weight, or underweight, in contrast to patients who had none of these features, who survived 28.4 months (95% CI, 24.2 to 32.6; P < .001).\n\nCT images reveal otherwise occult muscle depletion. Patients with cancer who are cachexic by the conventional criterion (involuntary weight loss) and by two additional criteria (muscle depletion and low muscle attenuation) share a poor prognosis, regardless of overall body weight.",
+      "evidence_sentences": [
+        "At a cancer center in Alberta, Canada, consecutive patients with cancer (lung or GI; N = 1,473) were assessed at presentation for weight loss history, lumbar skeletal muscle index, and mean muscle attenuation (Hounsfield units) by computed tomography (CT).",
+        "A survival model containing conventional covariates (cancer diagnosis, stage, age, performance status) gave a c statistic of 0.73 (95% CI, 0.67 to 0.79), whereas a model ignoring conventional variables and including only BMI, weight loss, muscle index, and muscle attenuation gave a c statistic of 0.92 (95% CI, 0.88 to 0.95; P < .001).",
+        "Patients with cancer who are cachexic by the conventional criterion (involuntary weight loss) and by two additional criteria (muscle depletion and low muscle attenuation) share a poor prognosis, regardless of overall body weight."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Lisa Martin",
+        "Laura Birdsell",
+        "Neil Macdonald",
+        "Tony Reiman",
+        "M Thomas Clandinin",
+        "Linda J McCargar",
+        "Rachel Murphy",
+        "Sunita Ghosh",
+        "Michael B Sawyer",
+        "Vickie E Baracos"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23530101/"
+    },
+    {
+      "pmid": "13967780",
+      "title": "Lung cancer mortality trends in Canada, 1931-1960.",
+      "journal": "Canadian Medical Association journal",
+      "abstract_sections": [
+        "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented. In 1960, 2223 male deaths were due to lung cancer. In each five-year age group over 45, there has been a distinct increase in male lung cancer death rates since 1931. The greatest increase occurred between the ages of 65 and 79. The age group 70-74, where the lung cancer mortality rates increased from 10.7 in the period 1931-33 to 173.5 in 1958-60, indicates the trend. Between 1931 and 1960, the proportion of male lung cancer deaths to all male cancer deaths increased from 3% to 18.8%. Female deaths due to lung cancer numbered 321 in 1960. Between 1931 and 1960 the proportion of female lung cancer deaths to all female cancer deaths increased only from 1.4% to 3.2%."
+      ],
+      "abstract": "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented. In 1960, 2223 male deaths were due to lung cancer. In each five-year age group over 45, there has been a distinct increase in male lung cancer death rates since 1931. The greatest increase occurred between the ages of 65 and 79. The age group 70-74, where the lung cancer mortality rates increased from 10.7 in the period 1931-33 to 173.5 in 1958-60, indicates the trend. Between 1931 and 1960, the proportion of male lung cancer deaths to all male cancer deaths increased from 3% to 18.8%. Female deaths due to lung cancer numbered 321 in 1960. Between 1931 and 1960 the proportion of female lung cancer deaths to all female cancer deaths increased only from 1.4% to 3.2%.",
+      "evidence_sentences": [
+        "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented.",
+        "The age group 70-74, where the lung cancer mortality rates increased from 10.7 in the period 1931-33 to 173.5 in 1958-60, indicates the trend.",
+        "In each five-year age group over 45, there has been a distinct increase in male lung cancer death rates since 1931."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "E W BEST"
+      ],
+      "year": "1963",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/13967780/"
+    },
+    {
+      "pmid": "38319507",
+      "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+      "journal": "Current oncology reports",
+      "abstract_sections": [
+        "The eastern provinces of Canada exhibit a heightened prevalence and mortality rate of lung cancer compared to their western counterparts. While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends. This review aims to identify and analyze potential contributors to healthcare inequality, guiding policymakers towards a strategic and sustainable approach at the provincial level.",
+        "Existing studies emphasize the significant roles played by socio-economic and environmental factors in influencing lung cancer disparities across Canadian provinces. However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada. This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces. While socio-economic and environmental factors have been identified as influential, there is an evident need for further research to comprehensively understand and address the underlying contributors to these geographical discrepancies."
+      ],
+      "abstract": "The eastern provinces of Canada exhibit a heightened prevalence and mortality rate of lung cancer compared to their western counterparts. While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends. This review aims to identify and analyze potential contributors to healthcare inequality, guiding policymakers towards a strategic and sustainable approach at the provincial level.\n\nExisting studies emphasize the significant roles played by socio-economic and environmental factors in influencing lung cancer disparities across Canadian provinces. However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada. This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces. While socio-economic and environmental factors have been identified as influential, there is an evident need for further research to comprehensively understand and address the underlying contributors to these geographical discrepancies.",
+      "evidence_sentences": [
+        "However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada.",
+        "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces.",
+        "The eastern provinces of Canada exhibit a heightened prevalence and mortality rate of lung cancer compared to their western counterparts."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Jamileh Yousefi"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38319507/"
+    },
+    {
+      "pmid": "39074244",
+      "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+      "journal": "International journal of circumpolar health",
+      "abstract_sections": [
+        "Lung cancer is one of the most commonly diagnosed cancers in Canada and a leading cause of cancer mortality. Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic. We sought to develop a deeper understanding of lung cancer diagnosis, incidence, mortality, and survival in First Nations, Inuit, and Métis peoples in Canada. A systematic search was conducted in bibliographic databases to identify relevant studies published between January 2000 and March 2023. Articles were screened and assessed for relevance using the Population/ Concept/ Context (PCC) framework. A total of 22 articles were included in the final analysis, of which 13 were Inuit-specific, 7 were First Nations-specific, and 2 were Métis-specific. The literature suggests that comparative incidence, mortality, and relative risk of lung cancer is higher and survival is poorer in First Nations, Inuit and Métis peoples. Lung cancer also has varying impact on these population depending on sex, age, location and other factors. This review illustrates that more comprehensive quantitative and qualitative lung cancer research is essential to further identify the structural causes for the high incidence of the disease."
+      ],
+      "abstract": "Lung cancer is one of the most commonly diagnosed cancers in Canada and a leading cause of cancer mortality. Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic. We sought to develop a deeper understanding of lung cancer diagnosis, incidence, mortality, and survival in First Nations, Inuit, and Métis peoples in Canada. A systematic search was conducted in bibliographic databases to identify relevant studies published between January 2000 and March 2023. Articles were screened and assessed for relevance using the Population/ Concept/ Context (PCC) framework. A total of 22 articles were included in the final analysis, of which 13 were Inuit-specific, 7 were First Nations-specific, and 2 were Métis-specific. The literature suggests that comparative incidence, mortality, and relative risk of lung cancer is higher and survival is poorer in First Nations, Inuit and Métis peoples. Lung cancer also has varying impact on these population depending on sex, age, location and other factors. This review illustrates that more comprehensive quantitative and qualitative lung cancer research is essential to further identify the structural causes for the high incidence of the disease.",
+      "evidence_sentences": [
+        "We sought to develop a deeper understanding of lung cancer diagnosis, incidence, mortality, and survival in First Nations, Inuit, and Métis peoples in Canada.",
+        "Lung cancer is one of the most commonly diagnosed cancers in Canada and a leading cause of cancer mortality.",
+        "This review illustrates that more comprehensive quantitative and qualitative lung cancer research is essential to further identify the structural causes for the high incidence of the disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "James Russell O'Grady",
+        "Jannatul Ferdus",
+        "Sayna Leylachian",
+        "Yinka Bolarinwa",
+        "Joshua Wagamese",
+        "Lisa K Ellison",
+        "Connie Siedule",
+        "Ricardo Batista",
+        "Amanda J Sheppard"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39074244/"
+    },
+    {
+      "pmid": "38454087",
+      "title": "Progress in site-specific cancer mortality in Canada over the last 70 years.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "In Canada, the absolute number of cancer deaths has been steadily increasing, however, age-standardized cancer mortality rates peaked decades ago for most cancers. The objective of this study was to estimate the reduction in deaths for each cancer type under the scenario where peak mortality rates had remained stable in Canada. Data for this study were obtained the Global Cancer Observatory and Statistics Canada. We estimated age-standardized mortality rates (ASMR, per 100,000) from 1950 to 2022, standardized to the 2011 Canadian standard population. We identified peak mortality rates and applied the age-specific mortality rates from the peak year to the age-specific Canadian population estimates for subsequent years (up to 2022) to estimate the number of expected deaths. Avoided cancer deaths were the difference between the observed and expected number of cancer deaths. There have been major reductions in deaths among cancers related to tobacco consumption and other modifiable lifestyle habits (417,561 stomach; 218,244 colorectal; 186,553 lung; 66,281 cervix; 32,732 head and neck; 27,713 bladder; 22,464 leukemia; 20,428 pancreas; 8863 kidney; 3876 esophagus; 290 liver). There have been 201,979 deaths avoided for female-specific cancers (breast, cervix, ovary, uterus). Overall, there has been a 34% reduction in mortality for lung cancer among males and a 9% reduction among females. There has been a significant reduction in cancer mortality in Canada since site-specific cancer mortality rates peaked decades ago for many cancers. This shows the exceptional progress made in cancer control in Canada due to substantial improvements in prevention, screening, and treatment. This study highlights priority areas where more attention and investment are needed to achieve progress."
+      ],
+      "abstract": "In Canada, the absolute number of cancer deaths has been steadily increasing, however, age-standardized cancer mortality rates peaked decades ago for most cancers. The objective of this study was to estimate the reduction in deaths for each cancer type under the scenario where peak mortality rates had remained stable in Canada. Data for this study were obtained the Global Cancer Observatory and Statistics Canada. We estimated age-standardized mortality rates (ASMR, per 100,000) from 1950 to 2022, standardized to the 2011 Canadian standard population. We identified peak mortality rates and applied the age-specific mortality rates from the peak year to the age-specific Canadian population estimates for subsequent years (up to 2022) to estimate the number of expected deaths. Avoided cancer deaths were the difference between the observed and expected number of cancer deaths. There have been major reductions in deaths among cancers related to tobacco consumption and other modifiable lifestyle habits (417,561 stomach; 218,244 colorectal; 186,553 lung; 66,281 cervix; 32,732 head and neck; 27,713 bladder; 22,464 leukemia; 20,428 pancreas; 8863 kidney; 3876 esophagus; 290 liver). There have been 201,979 deaths avoided for female-specific cancers (breast, cervix, ovary, uterus). Overall, there has been a 34% reduction in mortality for lung cancer among males and a 9% reduction among females. There has been a significant reduction in cancer mortality in Canada since site-specific cancer mortality rates peaked decades ago for many cancers. This shows the exceptional progress made in cancer control in Canada due to substantial improvements in prevention, screening, and treatment. This study highlights priority areas where more attention and investment are needed to achieve progress.",
+      "evidence_sentences": [
+        "The objective of this study was to estimate the reduction in deaths for each cancer type under the scenario where peak mortality rates had remained stable in Canada.",
+        "In Canada, the absolute number of cancer deaths has been steadily increasing, however, age-standardized cancer mortality rates peaked decades ago for most cancers.",
+        "There has been a significant reduction in cancer mortality in Canada since site-specific cancer mortality rates peaked decades ago for many cancers."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Matthew T Warkentin",
+        "Yibing Ruan",
+        "Larry F Ellison",
+        "Jean-Michel Billette",
+        "Alain Demers",
+        "Fei-Fei Liu",
+        "Darren R Brenner"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38454087/"
+    },
+    {
+      "pmid": "31162856",
+      "title": "Lung cancer mortality reduction by LDCT screening-Results from the randomized German LUSI trial.",
+      "journal": "International journal of cancer",
+      "abstract_sections": [
+        "In 2011, the U.S. National Lung Cancer Screening Trial (NLST) reported a 20% reduction of lung cancer mortality after regular screening by low-dose computed tomography (LDCT), as compared to X-ray screening. The introduction of lung cancer screening programs in Europe awaits confirmation of these first findings from European trials that started in parallel with the NLST. The German Lung cancer Screening Intervention (LUSI) is a randomized trial among 4,052 long-term smokers, 50-69 years of age, recruited from the general population, comparing five annual rounds of LDCT screening (screening arm; n = 2,029 participants) with a control arm (n = 2,023) followed by annual postal questionnaire inquiries. Data on lung cancer incidence and mortality and vital status were collected from hospitals or office-based physicians, cancer registries, population registers and health offices. Over an average observation time of 8.8 years after randomization, the hazard ratio for lung cancer mortality was 0.74 (95% CI: 0.46-1.19; p = 0.21) among men and women combined. Modeling by sex, however showed a statistically significant reduction in lung cancer mortality among women (HR = 0.31 [95% CI: 0.10-0.96], p = 0.04), but not among men (HR = 0.94 [95% CI: 0.54-1.61], p = 0.81) screened by LDCT (p"
+      ],
+      "abstract": "In 2011, the U.S. National Lung Cancer Screening Trial (NLST) reported a 20% reduction of lung cancer mortality after regular screening by low-dose computed tomography (LDCT), as compared to X-ray screening. The introduction of lung cancer screening programs in Europe awaits confirmation of these first findings from European trials that started in parallel with the NLST. The German Lung cancer Screening Intervention (LUSI) is a randomized trial among 4,052 long-term smokers, 50-69 years of age, recruited from the general population, comparing five annual rounds of LDCT screening (screening arm; n = 2,029 participants) with a control arm (n = 2,023) followed by annual postal questionnaire inquiries. Data on lung cancer incidence and mortality and vital status were collected from hospitals or office-based physicians, cancer registries, population registers and health offices. Over an average observation time of 8.8 years after randomization, the hazard ratio for lung cancer mortality was 0.74 (95% CI: 0.46-1.19; p = 0.21) among men and women combined. Modeling by sex, however showed a statistically significant reduction in lung cancer mortality among women (HR = 0.31 [95% CI: 0.10-0.96], p = 0.04), but not among men (HR = 0.94 [95% CI: 0.54-1.61], p = 0.81) screened by LDCT (p",
+      "evidence_sentences": [
+        "National Lung Cancer Screening Trial (NLST) reported a 20% reduction of lung cancer mortality after regular screening by low-dose computed tomography (LDCT), as compared to X-ray screening.",
+        "Modeling by sex, however showed a statistically significant reduction in lung cancer mortality among women (HR = 0.31 [95% CI: 0.10-0.96], p = 0.04), but not among men (HR = 0.94 [95% CI: 0.54-1.61], p = 0.81) screened by LDCT (p",
+        "Data on lung cancer incidence and mortality and vital status were collected from hospitals or office-based physicians, cancer registries, population registers and health offices."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Nikolaus Becker",
+        "Erna Motsch",
+        "Anke Trotter",
+        "Claus P Heussel",
+        "Hendrik Dienemann",
+        "Philipp A Schnabel",
+        "Hans-Ulrich Kauczor",
+        "Sandra González Maldonado",
+        "Anthony B Miller",
+        "Rudolf Kaaks",
+        "Stefan Delorme"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31162856/"
+    },
+    {
+      "pmid": "39243029",
+      "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+      "journal": "BMC cancer",
+      "abstract_sections": [
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada. Some previous literature suggests that socioeconomic inequalities in lung cancer screening, treatment and survival may exist. The objective of this study was to compare overall survival for immigrants versus long-term residents of Ontario, Canada among patients diagnosed with lung cancer.",
+        "This population-based retrospective cohort study utilized linked health administrative databases and identified all individuals (immigrants and long-term residents) aged 40 + years diagnosed with incident lung cancer between April 1, 2012 and March 31, 2017. The primary outcome was 5-year overall survival with December 31, 2019 as the end of the follow-up period. We implemented adjusted Cox proportional hazards models stratified by age at diagnosis, sex, and cancer stage at diagnosis to examine survival.",
+        "Thirty-eight thousand seven hundred eighty-eight individuals diagnosed with lung cancer were included in our cohort including 7% who were immigrants. Immigrants were younger at diagnosis and were more likely to reside in the lowest neighbourhood income quintile (30.6% versus 24.5%) than long-term residents. After adjusting for age at diagnosis, neighbourhood income quintile, comorbidities, visits to primary care in the 6 to 30 months before diagnosis, continuity of care, cancer type and cancer stage at diagnosis, immigrant status was associated with a lower hazard of dying 5-years post-diagnosis for both females (0.7; 95% CI 0.6-0.8) and males (0.7; 95% CI 0.6-0.7) in comparison to long-term residents. This trend held in adjusted models stratified by cancer stage at diagnosis. For example, female immigrants diagnosed with early stage lung cancer had a hazard ratio of 0.5 (95% CI 0.4-0.7) in comparison to long-term residents.",
+        "Overall survival post diagnosis with lung cancer was better among Ontario immigrants versus long-term residents. Additional research, potentially on the protective effects of immigrant enclave and the intersection of immigrant status with racial/ethnic identity, is needed to further explore why better overall survival for immigrants remained."
+      ],
+      "abstract": "Lung cancer is one of the most common cancers and causes of cancer death in Canada. Some previous literature suggests that socioeconomic inequalities in lung cancer screening, treatment and survival may exist. The objective of this study was to compare overall survival for immigrants versus long-term residents of Ontario, Canada among patients diagnosed with lung cancer.\n\nThis population-based retrospective cohort study utilized linked health administrative databases and identified all individuals (immigrants and long-term residents) aged 40 + years diagnosed with incident lung cancer between April 1, 2012 and March 31, 2017. The primary outcome was 5-year overall survival with December 31, 2019 as the end of the follow-up period. We implemented adjusted Cox proportional hazards models stratified by age at diagnosis, sex, and cancer stage at diagnosis to examine survival.\n\nThirty-eight thousand seven hundred eighty-eight individuals diagnosed with lung cancer were included in our cohort including 7% who were immigrants. Immigrants were younger at diagnosis and were more likely to reside in the lowest neighbourhood income quintile (30.6% versus 24.5%) than long-term residents. After adjusting for age at diagnosis, neighbourhood income quintile, comorbidities, visits to primary care in the 6 to 30 months before diagnosis, continuity of care, cancer type and cancer stage at diagnosis, immigrant status was associated with a lower hazard of dying 5-years post-diagnosis for both females (0.7; 95% CI 0.6-0.8) and males (0.7; 95% CI 0.6-0.7) in comparison to long-term residents. This trend held in adjusted models stratified by cancer stage at diagnosis. For example, female immigrants diagnosed with early stage lung cancer had a hazard ratio of 0.5 (95% CI 0.4-0.7) in comparison to long-term residents.\n\nOverall survival post diagnosis with lung cancer was better among Ontario immigrants versus long-term residents. Additional research, potentially on the protective effects of immigrant enclave and the intersection of immigrant status with racial/ethnic identity, is needed to further explore why better overall survival for immigrants remained.",
+      "evidence_sentences": [
+        "The objective of this study was to compare overall survival for immigrants versus long-term residents of Ontario, Canada among patients diagnosed with lung cancer.",
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada.",
+        "This population-based retrospective cohort study utilized linked health administrative databases and identified all individuals (immigrants and long-term residents) aged 40 + years diagnosed with incident lung cancer between April 1, 2012 and March 31, 2017."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Arlinda Ruco",
+        "Aisha K Lofters",
+        "Hong Lu",
+        "Nancy N Baxter",
+        "Sara Guilcher",
+        "Alexander Kopp",
+        "Mandana Vahabi",
+        "Geetanjali D Datta"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39243029/"
+    },
+    {
+      "pmid": "33039364",
+      "title": "Organized Lung Cancer Screening Pilot: Informing a Province-Wide Program in Ontario, Canada.",
+      "journal": "The Annals of thoracic surgery",
+      "abstract_sections": [
+        "Lung cancer is the leading cause of cancer deaths in Ontario. The National Lung Screening Trial demonstrated that screening with low-dose computed tomography (LDCT) reduces lung cancer mortality.",
+        "In June 2017, Ontario Health (Cancer Care Ontario) initiated a pilot for lung cancer screening to inform implementation of a province-wide initiative. The screening pathway includes targeted recruitment strategies, the Tammemägi risk prediction model (PLCOm2012) to determine eligibility, opt-out smoking cessation services for all current smokers, use of the Lung-RADS scoring system to guide abnormal results management, and screening navigators providing end-to-end support. Referral criteria include being 55 years of age to 74 years of age and a current or former daily cigarette smoker for greater than or equal to 20 years, while the screening eligibility criterion is a PLCOm2012 risk greater than or equal to 2% in 6 years. Selected results of the interim pilot evaluation are presented. Four hospitals contributed data in the first year of the pilot.",
+        "During 2017 to 2018, 4205 Ontarians were recruited, 3234 risk assessments were conducted, and 2151 (66.5%) individuals were eligible for screening. Baseline LDCT scans were performed in 1624 (50.2%) individuals. Diagnostic evaluation in 120 (7.4%) individuals identified 28 (1.7%) with lung cancer, and proportions of stage I to II and stage III to IV were 71% and 29%, respectively. Of those recruited, 1443 (34.3%) individuals were smokers and 1326 (91.9%) accepted smoking cessation services.",
+        "The pilot is the largest in Canada and aligns with International Agency for Research on Cancer standards for population-based, organized cancer screening. Recruitment of high-risk individuals, high rates of smoking cessation program acceptance, and detection of early-stage cancers are demonstrated."
+      ],
+      "abstract": "Lung cancer is the leading cause of cancer deaths in Ontario. The National Lung Screening Trial demonstrated that screening with low-dose computed tomography (LDCT) reduces lung cancer mortality.\n\nIn June 2017, Ontario Health (Cancer Care Ontario) initiated a pilot for lung cancer screening to inform implementation of a province-wide initiative. The screening pathway includes targeted recruitment strategies, the Tammemägi risk prediction model (PLCOm2012) to determine eligibility, opt-out smoking cessation services for all current smokers, use of the Lung-RADS scoring system to guide abnormal results management, and screening navigators providing end-to-end support. Referral criteria include being 55 years of age to 74 years of age and a current or former daily cigarette smoker for greater than or equal to 20 years, while the screening eligibility criterion is a PLCOm2012 risk greater than or equal to 2% in 6 years. Selected results of the interim pilot evaluation are presented. Four hospitals contributed data in the first year of the pilot.\n\nDuring 2017 to 2018, 4205 Ontarians were recruited, 3234 risk assessments were conducted, and 2151 (66.5%) individuals were eligible for screening. Baseline LDCT scans were performed in 1624 (50.2%) individuals. Diagnostic evaluation in 120 (7.4%) individuals identified 28 (1.7%) with lung cancer, and proportions of stage I to II and stage III to IV were 71% and 29%, respectively. Of those recruited, 1443 (34.3%) individuals were smokers and 1326 (91.9%) accepted smoking cessation services.\n\nThe pilot is the largest in Canada and aligns with International Agency for Research on Cancer standards for population-based, organized cancer screening. Recruitment of high-risk individuals, high rates of smoking cessation program acceptance, and detection of early-stage cancers are demonstrated.",
+      "evidence_sentences": [
+        "The National Lung Screening Trial demonstrated that screening with low-dose computed tomography (LDCT) reduces lung cancer mortality.",
+        "Diagnostic evaluation in 120 (7.4%) individuals identified 28 (1.7%) with lung cancer, and proportions of stage I to II and stage III to IV were 71% and 29%, respectively.",
+        "In June 2017, Ontario Health (Cancer Care Ontario) initiated a pilot for lung cancer screening to inform implementation of a province-wide initiative."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Gail E Darling",
+        "Martin C Tammemägi",
+        "Heidi Schmidt",
+        "Daniel N Buchanan",
+        "Yvonne Leung",
+        "Caitlin McGarry",
+        "Linda Rabeneck"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33039364/"
+    },
+    {
+      "pmid": "27794416",
+      "title": "Biennial lung cancer screening in Canada with smoking cessation-outcomes and cost-effectiveness.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Guidelines recommend low-dose CT (LDCT) screening to detect lung cancer among eligible at-risk individuals. We used the OncoSim model (formerly Cancer Risk Management Model) to compare outcomes and costs between annual and biennial LDCT screening.",
+        "OncoSim incorporates vital statistics, cancer registry data, health survey and utility data, cost, and other data, and simulates individual lives, aggregating outcomes over millions of individuals. Using OncoSim and National Lung Screening Trial eligibility criteria (age 55-74, minimum 30 pack-year smoking history, smoking cessation less than 15 years from time of first screen) and data, we have modeled screening parameters, cancer stage distribution, and mortality shifts for screen diagnosed cancer. Costs (in 2008 Canadian dollars) and quality of life years gained are discounted at 3% annually.",
+        "Compared with annual LDCT screening, biennial screening used fewer resources, gained fewer life-years (61,000 vs. 77,000), but resulted in very similar quality-adjusted life-years (QALYs) (24,000 vs. 23,000) over 20 years. The incremental cost-effectiveness ratio (ICER) of annual compared with biennial screening was $54,000-$4.8 million/QALY gained. Average incremental CT scan use in biennial screening was 52% of that in annual screening. A smoking cessation intervention decreased the average cost-effectiveness ratio in most scenarios by half.",
+        "Over 20 years, biennial LDCT screening for lung cancer appears to provide similar benefit in terms of QALYs gained to annual screening and is more cost-effective. Further study of biennial screening should be undertaken in population screening programs. A smoking cessation program should be integrated into either screening strategy."
+      ],
+      "abstract": "Guidelines recommend low-dose CT (LDCT) screening to detect lung cancer among eligible at-risk individuals. We used the OncoSim model (formerly Cancer Risk Management Model) to compare outcomes and costs between annual and biennial LDCT screening.\n\nOncoSim incorporates vital statistics, cancer registry data, health survey and utility data, cost, and other data, and simulates individual lives, aggregating outcomes over millions of individuals. Using OncoSim and National Lung Screening Trial eligibility criteria (age 55-74, minimum 30 pack-year smoking history, smoking cessation less than 15 years from time of first screen) and data, we have modeled screening parameters, cancer stage distribution, and mortality shifts for screen diagnosed cancer. Costs (in 2008 Canadian dollars) and quality of life years gained are discounted at 3% annually.\n\nCompared with annual LDCT screening, biennial screening used fewer resources, gained fewer life-years (61,000 vs. 77,000), but resulted in very similar quality-adjusted life-years (QALYs) (24,000 vs. 23,000) over 20 years. The incremental cost-effectiveness ratio (ICER) of annual compared with biennial screening was $54,000-$4.8 million/QALY gained. Average incremental CT scan use in biennial screening was 52% of that in annual screening. A smoking cessation intervention decreased the average cost-effectiveness ratio in most scenarios by half.\n\nOver 20 years, biennial LDCT screening for lung cancer appears to provide similar benefit in terms of QALYs gained to annual screening and is more cost-effective. Further study of biennial screening should be undertaken in population screening programs. A smoking cessation program should be integrated into either screening strategy.",
+      "evidence_sentences": [
+        "Using OncoSim and National Lung Screening Trial eligibility criteria (age 55-74, minimum 30 pack-year smoking history, smoking cessation less than 15 years from time of first screen) and data, we have modeled screening parameters, cancer stage distribution, and mortality shifts for screen diagnosed cancer.",
+        "Over 20 years, biennial LDCT screening for lung cancer appears to provide similar benefit in terms of QALYs gained to annual screening and is more cost-effective.",
+        "Guidelines recommend low-dose CT (LDCT) screening to detect lung cancer among eligible at-risk individuals."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "John R Goffin",
+        "William M Flanagan",
+        "Anthony B Miller",
+        "Natalie R Fitzgerald",
+        "Saima Memon",
+        "Michael C Wolfson",
+        "William K Evans"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27794416/"
+    },
+    {
+      "pmid": "3242824",
+      "title": "Lung cancer mortality trends in Canada from 1931 to 1982.",
+      "journal": "Cancer detection and prevention",
+      "abstract_sections": [
+        "Lung cancer is the leading cancer that causes premature death in Canadian men, and it is the second leading cancer that causes death in Canadian women. To assess the long-term mortality of this disease, we collected and analyzed data from 1931 to 1982. A 3-year base period was used to obtain person-years exposure using the Newton-Cotes method. All rates were standardized to the 1956 Canadian population for age and sex using the direct method. Standard errors of age-standardized death rates (ASDR) were computed using Chiang's method. The ASDRs have increased both for men and women. The increases in older age groups are due to a large, absolute increase in lung cancer-caused mortality in both sexes. Although the absolute increase in lung cancer is greater in men, the percentage of increase is greater in women, especially in the younger age groups. The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population. Given the relatively low survival rates for lung cancer, preventive strategies are urgently required."
+      ],
+      "abstract": "Lung cancer is the leading cancer that causes premature death in Canadian men, and it is the second leading cancer that causes death in Canadian women. To assess the long-term mortality of this disease, we collected and analyzed data from 1931 to 1982. A 3-year base period was used to obtain person-years exposure using the Newton-Cotes method. All rates were standardized to the 1956 Canadian population for age and sex using the direct method. Standard errors of age-standardized death rates (ASDR) were computed using Chiang's method. The ASDRs have increased both for men and women. The increases in older age groups are due to a large, absolute increase in lung cancer-caused mortality in both sexes. Although the absolute increase in lung cancer is greater in men, the percentage of increase is greater in women, especially in the younger age groups. The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population. Given the relatively low survival rates for lung cancer, preventive strategies are urgently required.",
+      "evidence_sentences": [
+        "The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population.",
+        "The increases in older age groups are due to a large, absolute increase in lung cancer-caused mortality in both sexes.",
+        "Given the relatively low survival rates for lung cancer, preventive strategies are urgently required."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "D V Vakil"
+      ],
+      "year": "1988",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/3242824/"
+    },
+    {
+      "pmid": "39798695",
+      "title": "Impact of Comorbidities on the Mortality Benefits of Lung Cancer Screening: A Post-Hoc Analysis of the PLCO and NLST Trials.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "To evaluate how comorbidities affect mortality benefits of lung cancer screening (LCS) with low-dose computed tomography.",
+        "We developed a comorbidity index (Prostate, Lung, Colorectal, and Ovarian comorbidity index [PLCO-ci]) using LCS-eligible participants' data from the Prostate, Lung, Colorectal, and Ovarian (PLCO) trial (training set) and the National Lung Screening Trial (NLST) (validation set). PLCO-ci predicts five-year non-lung cancer (LC) mortality using a regularized Cox model; with performance evaluated using the area under the receiver operating characteristics curve. In NLST, LC mortality (per original publication) was compared between low-dose computed tomography and chest radiograph arms across the PLCO-ci quintile (Q1-5) using a cause-specific hazard ratio (csHR) with 95% confidence intervals (CIs).",
+        "Analyses included 34,690 PLCO and 53,452 NLST participants (mean age: 62 y [±5 y] and 61 y [±5 y], 58% and 59% male individuals, and 39% and 41% active smokers, respectively). PLCO-ci predicted five-year non-LC mortality with an area under the receiver operating characteristics curve of 0.72 (95% CI: 0.71-0.74) in PLCO and 0.69 (95% CI: 0.67-0.70) in NLST. In NLST, at a median follow-up of 6.5 years, LC mortality was significantly reduced for participants with intermediate comorbidity (Q2, Q3, and Q4): csHR 0.62 (95% CI: 0.41-0.95), 0.68 (95% CI: 0.48-0.96), and 0.72 (95% CI: 0.54-0.96) respectively, with a nonstatistically significant reduction for Q1 (csHR = 0.72, 95% CI: 0.45-1.17) and no reduction for Q5 participants (csHR = 0.99, 95% CI: 0.79-1.23). Participants in Q2, Q3, and Q4 (60%) accounted for 89% of LC deaths averted among all NLST participants. Q1 participants had low LC incidence, whereas Q5 had higher localized LC lethality, more squamous cell carcinomas, and untreated LC.",
+        "The PLCO-ci developed in this work shows that individuals with intermediate comorbidity benefited the most from LCS, highlighting the need of addressing comorbidities to achieve LC mortality benefits."
+      ],
+      "abstract": "To evaluate how comorbidities affect mortality benefits of lung cancer screening (LCS) with low-dose computed tomography.\n\nWe developed a comorbidity index (Prostate, Lung, Colorectal, and Ovarian comorbidity index [PLCO-ci]) using LCS-eligible participants' data from the Prostate, Lung, Colorectal, and Ovarian (PLCO) trial (training set) and the National Lung Screening Trial (NLST) (validation set). PLCO-ci predicts five-year non-lung cancer (LC) mortality using a regularized Cox model; with performance evaluated using the area under the receiver operating characteristics curve. In NLST, LC mortality (per original publication) was compared between low-dose computed tomography and chest radiograph arms across the PLCO-ci quintile (Q1-5) using a cause-specific hazard ratio (csHR) with 95% confidence intervals (CIs).\n\nAnalyses included 34,690 PLCO and 53,452 NLST participants (mean age: 62 y [±5 y] and 61 y [±5 y], 58% and 59% male individuals, and 39% and 41% active smokers, respectively). PLCO-ci predicted five-year non-LC mortality with an area under the receiver operating characteristics curve of 0.72 (95% CI: 0.71-0.74) in PLCO and 0.69 (95% CI: 0.67-0.70) in NLST. In NLST, at a median follow-up of 6.5 years, LC mortality was significantly reduced for participants with intermediate comorbidity (Q2, Q3, and Q4): csHR 0.62 (95% CI: 0.41-0.95), 0.68 (95% CI: 0.48-0.96), and 0.72 (95% CI: 0.54-0.96) respectively, with a nonstatistically significant reduction for Q1 (csHR = 0.72, 95% CI: 0.45-1.17) and no reduction for Q5 participants (csHR = 0.99, 95% CI: 0.79-1.23). Participants in Q2, Q3, and Q4 (60%) accounted for 89% of LC deaths averted among all NLST participants. Q1 participants had low LC incidence, whereas Q5 had higher localized LC lethality, more squamous cell carcinomas, and untreated LC.\n\nThe PLCO-ci developed in this work shows that individuals with intermediate comorbidity benefited the most from LCS, highlighting the need of addressing comorbidities to achieve LC mortality benefits.",
+      "evidence_sentences": [
+        "PLCO-ci predicts five-year non-lung cancer (LC) mortality using a regularized Cox model; with performance evaluated using the area under the receiver operating characteristics curve.",
+        "To evaluate how comorbidities affect mortality benefits of lung cancer screening (LCS) with low-dose computed tomography.",
+        "We developed a comorbidity index (Prostate, Lung, Colorectal, and Ovarian comorbidity index [PLCO-ci]) using LCS-eligible participants' data from the Prostate, Lung, Colorectal, and Ovarian (PLCO) trial (training set) and the National Lung Screening Trial (NLST) (validation set)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Sebastien Gendarme",
+        "Ehsan Irajizad",
+        "James P Long",
+        "Johannes F Fahrmann",
+        "Jennifer B Dennison",
+        "Seyyed Mahmood Ghasemi",
+        "Rongzhang Dou",
+        "Robert J Volk",
+        "Rafael Meza",
+        "Iakovos Toumazis",
+        "Florence Canoui-Poitrine",
+        "Samir M Hanash",
+        "Edwin J Ostrin"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39798695/"
+    },
+    {
+      "pmid": "28682689",
+      "title": "Regionalization and Outcomes of Lung Cancer Surgery in Ontario, Canada.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "Purpose Regionalization of complex surgery to high-volume hospitals has been advocated based on cross-sectional volume-outcome studies. In April 2007, the agency overseeing cancer care in Ontario, Canada, implemented a policy to regionalize lung cancer surgery at 14 designated hospitals, enforced by economic incentives and penalties. We studied the effects of implementation of this policy. Methods Using administrative health data, we used interrupted time series models to analyze the immediate and delayed effects of implementation of the policy on the distribution of lung cancer surgery among hospitals, surgical outcomes, and health services use. Results From 2004 to 2012, 16,641 patients underwent surgery for lung cancer. The proportion of operations performed in designated hospitals increased from 71% to 89% after the policy was implemented. Although operative mortality decreased from 4.1% to 2.9% (adjusted odds ratio, 0.68; 95% CI, 0.58 to 0.81; P < .001), the reduction was due to a preexisting declining trend in mortality. In contrast, in the years after implementation of the policy, length of hospital stay decreased more than expected from the baseline trend by 7% per year (95% CI, 5% to 9%; P < .001), and the distance traveled by all patients to the hospital for surgery increased by 4% per year (95% CI, 0% to 8%; P = .03), neither of which were explained by preexisting trends. Analyses limited to patients ≥ 70 years of age demonstrated a reduction in operative mortality (odds ratio, 0.80 per year after regionalization; 95% CI, 0.67 to 0.95; P = .01). Conclusion A policy to regionalize lung cancer surgery in Ontario led to increased centralization of surgery services but was not independently associated with improvements in operative mortality. Improvements in length of stay and in operative mortality among elderly patients suggest areas where regionalization may be beneficial."
+      ],
+      "abstract": "Purpose Regionalization of complex surgery to high-volume hospitals has been advocated based on cross-sectional volume-outcome studies. In April 2007, the agency overseeing cancer care in Ontario, Canada, implemented a policy to regionalize lung cancer surgery at 14 designated hospitals, enforced by economic incentives and penalties. We studied the effects of implementation of this policy. Methods Using administrative health data, we used interrupted time series models to analyze the immediate and delayed effects of implementation of the policy on the distribution of lung cancer surgery among hospitals, surgical outcomes, and health services use. Results From 2004 to 2012, 16,641 patients underwent surgery for lung cancer. The proportion of operations performed in designated hospitals increased from 71% to 89% after the policy was implemented. Although operative mortality decreased from 4.1% to 2.9% (adjusted odds ratio, 0.68; 95% CI, 0.58 to 0.81; P < .001), the reduction was due to a preexisting declining trend in mortality. In contrast, in the years after implementation of the policy, length of hospital stay decreased more than expected from the baseline trend by 7% per year (95% CI, 5% to 9%; P < .001), and the distance traveled by all patients to the hospital for surgery increased by 4% per year (95% CI, 0% to 8%; P = .03), neither of which were explained by preexisting trends. Analyses limited to patients ≥ 70 years of age demonstrated a reduction in operative mortality (odds ratio, 0.80 per year after regionalization; 95% CI, 0.67 to 0.95; P = .01). Conclusion A policy to regionalize lung cancer surgery in Ontario led to increased centralization of surgery services but was not independently associated with improvements in operative mortality. Improvements in length of stay and in operative mortality among elderly patients suggest areas where regionalization may be beneficial.",
+      "evidence_sentences": [
+        "In April 2007, the agency overseeing cancer care in Ontario, Canada, implemented a policy to regionalize lung cancer surgery at 14 designated hospitals, enforced by economic incentives and penalties.",
+        "Conclusion A policy to regionalize lung cancer surgery in Ontario led to increased centralization of surgery services but was not independently associated with improvements in operative mortality.",
+        "Methods Using administrative health data, we used interrupted time series models to analyze the immediate and delayed effects of implementation of the policy on the distribution of lung cancer surgery among hospitals, surgical outcomes, and health services use."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Anna M Bendzsak",
+        "Nancy N Baxter",
+        "Gail E Darling",
+        "Peter C Austin",
+        "David R Urbach"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28682689/"
+    },
+    {
+      "pmid": "4688412",
+      "title": "Age-adjusted mortality rates for lung cancer plotted against national cigarette consumption.",
+      "journal": "Acta pathologica et microbiologica Scandinavica. Section A, Pathology",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "J Clemmesen",
+        "A Nielsen"
+      ],
+      "year": "1973",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/4688412/"
+    },
+    {
+      "pmid": "8217852",
+      "title": "Mortality from lung cancer in Ontario uranium miners.",
+      "journal": "British journal of industrial medicine",
+      "abstract_sections": [
+        "Mortality from lung cancer was greater in Ontario uranium miners than in the general male population of Ontario (observed = 152, expected = 67.6, standardised mortality ratio 225, 95% confidence interval 191-264). Part of the excess of lung cancer may be because the proportion of men who are smokers or have smoked is greater in uranium miners than in Ontario men. Smoking does not explain the whole excess. Mortality from lung cancer in Ontario uranium miners is clearly related to exposure to short lived radon progeny. The excess relative risk of lung cancer from the same degree of exposure to short lived radon progeny is greatest five to 14 years after exposure and less subsequently. It is greater in men under the age of 55 years and less in older men. Part of the excess of lung cancer mortality in Ontario uranium miners is probably also due to exposure to arsenic that occurred earlier in gold mines. In Ontario uranium miners, the lung cancer mortality from exposure to arsenic increases as the intensity of exposure to short lived radon progeny increases. This finding is consistent with the hypothesis that the risk of lung cancer from exposure to arsenic is enhanced by exposure to other carcinogens. In Ontario uranium miners, the proportion of lung cancers that are small cell carcinomas is greater than in the general population. The proportion of small cell carcinomas is especially great five to 14 years after exposure to short lived radon progeny and in men who die from lung cancer at younger ages."
+      ],
+      "abstract": "Mortality from lung cancer was greater in Ontario uranium miners than in the general male population of Ontario (observed = 152, expected = 67.6, standardised mortality ratio 225, 95% confidence interval 191-264). Part of the excess of lung cancer may be because the proportion of men who are smokers or have smoked is greater in uranium miners than in Ontario men. Smoking does not explain the whole excess. Mortality from lung cancer in Ontario uranium miners is clearly related to exposure to short lived radon progeny. The excess relative risk of lung cancer from the same degree of exposure to short lived radon progeny is greatest five to 14 years after exposure and less subsequently. It is greater in men under the age of 55 years and less in older men. Part of the excess of lung cancer mortality in Ontario uranium miners is probably also due to exposure to arsenic that occurred earlier in gold mines. In Ontario uranium miners, the lung cancer mortality from exposure to arsenic increases as the intensity of exposure to short lived radon progeny increases. This finding is consistent with the hypothesis that the risk of lung cancer from exposure to arsenic is enhanced by exposure to other carcinogens. In Ontario uranium miners, the proportion of lung cancers that are small cell carcinomas is greater than in the general population. The proportion of small cell carcinomas is especially great five to 14 years after exposure to short lived radon progeny and in men who die from lung cancer at younger ages.",
+      "evidence_sentences": [
+        "Mortality from lung cancer was greater in Ontario uranium miners than in the general male population of Ontario (observed = 152, expected = 67.6, standardised mortality ratio 225, 95% confidence interval 191-264).",
+        "In Ontario uranium miners, the lung cancer mortality from exposure to arsenic increases as the intensity of exposure to short lived radon progeny increases.",
+        "Part of the excess of lung cancer mortality in Ontario uranium miners is probably also due to exposure to arsenic that occurred earlier in gold mines."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "R A Kusiak",
+        "A C Ritchie",
+        "J Muller",
+        "J Springer"
+      ],
+      "year": "1993",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8217852/"
+    },
+    {
+      "pmid": "40426148",
+      "title": "Real-world treatment patterns and outcomes for patients with non-metastatic non-small cell lung cancer: retrospective analyses in Canada, England, and Germany.",
+      "journal": "BMC pulmonary medicine",
+      "abstract_sections": [
+        "Recent therapeutic advancements for non-metastatic non-small cell lung cancer (NSCLC) have increased the need for real-world baselines against which future changes in patient management and clinical outcomes can be compared.",
+        "Data on patient characteristics, initial treatment, and overall survival (OS) were derived from adult patients diagnosed with stage I-IIIC NSCLC (2010-2020) in a regional Canadian database (Oncology Outcomes [O2]), an English national registry (Cancer Analysis System [CAS]), and four regional German registries (VONKOdb) and retrospectively analyzed separately using analogous methodology.",
+        "Data from 85,433 patients were analyzed. Stage at diagnosis varied, with proportions with stage I NSCLC ranging from 30.9% (VONKOdb) to 44.2% (O2) and with stage III disease from 36.9% (O2) to 48.5% (VONKOdb). Across the data sources, proportions receiving surgery ± other treatments were similar for stages I and II, but decreased through stages IIIA, IIIB, and IIIC (range, 24.7-42.7%, 4.6-21.8%, and 0.9-7.5%, respectively). Overall, 70.3-85.2% of patients received active treatment for NSCLC, with a trend toward lower proportions among those with stage III disease. Reached median OS tended to be longest in patients with resected stage I/II NSCLC (range, 28.8-128.0 months) and shortest in patients with stage IIIB/IIIC disease treated with systemic anticancer therapy (SACT) alone, radiotherapy alone, or SACT + palliative radiotherapy (range, 4.8-21.2 months).",
+        "These data provide insights into treatment pathways and survival outcomes before the widespread use of immunotherapy-based and targeted therapies and will serve as an important baseline for future evaluations of emerging treatments for patients with non-metastatic NSCLC."
+      ],
+      "abstract": "Recent therapeutic advancements for non-metastatic non-small cell lung cancer (NSCLC) have increased the need for real-world baselines against which future changes in patient management and clinical outcomes can be compared.\n\nData on patient characteristics, initial treatment, and overall survival (OS) were derived from adult patients diagnosed with stage I-IIIC NSCLC (2010-2020) in a regional Canadian database (Oncology Outcomes [O2]), an English national registry (Cancer Analysis System [CAS]), and four regional German registries (VONKOdb) and retrospectively analyzed separately using analogous methodology.\n\nData from 85,433 patients were analyzed. Stage at diagnosis varied, with proportions with stage I NSCLC ranging from 30.9% (VONKOdb) to 44.2% (O2) and with stage III disease from 36.9% (O2) to 48.5% (VONKOdb). Across the data sources, proportions receiving surgery ± other treatments were similar for stages I and II, but decreased through stages IIIA, IIIB, and IIIC (range, 24.7-42.7%, 4.6-21.8%, and 0.9-7.5%, respectively). Overall, 70.3-85.2% of patients received active treatment for NSCLC, with a trend toward lower proportions among those with stage III disease. Reached median OS tended to be longest in patients with resected stage I/II NSCLC (range, 28.8-128.0 months) and shortest in patients with stage IIIB/IIIC disease treated with systemic anticancer therapy (SACT) alone, radiotherapy alone, or SACT + palliative radiotherapy (range, 4.8-21.2 months).\n\nThese data provide insights into treatment pathways and survival outcomes before the widespread use of immunotherapy-based and targeted therapies and will serve as an important baseline for future evaluations of emerging treatments for patients with non-metastatic NSCLC.",
+      "evidence_sentences": [
+        "Recent therapeutic advancements for non-metastatic non-small cell lung cancer (NSCLC) have increased the need for real-world baselines against which future changes in patient management and clinical outcomes can be compared.",
+        "Data on patient characteristics, initial treatment, and overall survival (OS) were derived from adult patients diagnosed with stage I-IIIC NSCLC (2010-2020) in a regional Canadian database (Oncology Outcomes [O2]), an English national registry (Cancer Analysis System [CAS]), and four regional German registries (VONKOdb) and retrospectively analyzed separately using analogous methodology.",
+        "Reached median OS tended to be longest in patients with resected stage I/II NSCLC (range, 28.8-128.0 months) and shortest in patients with stage IIIB/IIIC disease treated with systemic anticancer therapy (SACT) alone, radiotherapy alone, or SACT + palliative radiotherapy (range, 4.8-21.2 months)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Alastair Greystoke",
+        "Melinda J Daumont",
+        "Caroline Rault",
+        "Hannah Baltus",
+        "Philip Q Ding",
+        "Gabrielle Emanuel",
+        "Stefano Lucherini",
+        "Lien Vo",
+        "Valeria M Saglimbene",
+        "Eleanor Ralphs",
+        "Cátia Leal",
+        "Minouk J Schoemaker",
+        "Alexander Katalinic",
+        "Annika Waldmann",
+        "Winson Y Cheung"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40426148/"
+    },
+    {
+      "pmid": "14079129",
+      "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+      "journal": "Canadian Medical Association journal",
+      "abstract_sections": [
+        "Available statistics were studied to define the extent of the lung cancer problem in Canada. Because of the low overall survival in treated and untreated cases at one year, mortality figures provide a rough index of morbidity from this disease.Male lung cancer death rates rose steadily from 3.0 to 24.6, and female rates from 1.6 to 4.0 per 100,000 population between 1931 and 1961. In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years. It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens."
+      ],
+      "abstract": "Available statistics were studied to define the extent of the lung cancer problem in Canada. Because of the low overall survival in treated and untreated cases at one year, mortality figures provide a rough index of morbidity from this disease.Male lung cancer death rates rose steadily from 3.0 to 24.6, and female rates from 1.6 to 4.0 per 100,000 population between 1931 and 1961. In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years. It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens.",
+      "evidence_sentences": [
+        "It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens.",
+        "Because of the low overall survival in treated and untreated cases at one year, mortality figures provide a rough index of morbidity from this disease.Male lung cancer death rates rose steadily from 3.0 to 24.6, and female rates from 1.6 to 4.0 per 100,000 population between 1931 and 1961.",
+        "In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "J W DAVIES",
+        "C B WALKER",
+        "E W BEST"
+      ],
+      "year": "1963",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/14079129/"
+    },
+    {
+      "pmid": "8696718",
+      "title": "The economics of lung cancer management in Canada.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Because lung cancer is a major health care problem in Canada, it is imperative to understand how resources are used to diagnose and treat this disease. This paper describes a method of modelling the direct patient care costs for lung cancer from the perspective of the government as payer in a universal health care system. Clinical algorithms were developed to describe the management of non-small cell (NSCLC) and small cell (SCLC) lung cancer. Patients were allocated to the treatment algorithms in the model based on a knowledge of their distribution by cell type and stage in Canadian cases. A microsimulation model developed by Statistics Canada was used to integrate the data on type of lung cancer, extent of disease, clinical management, survival and health care resource utilization. The direct care costs for diagnosis and treatment of NSCLC ranged from $Cdn 17 889 for the surgery/post-operative radiotherapy treatment of Stages I and II to $Cdn 6333 for supportive care for patients with Stage IV disease. The costs of determining relapse for NSCLC were estimated to be $Cdn 1528 and terminal care costs, made up largely of hospitalization charges and some palliative radiotherapy, were $Cdn 10 331. Direct care costs for the diagnosis and initial treatment of SCLC ranged from $Cdn 18 691 for management of limited stage disease to $Cdn 4739 for the supportive care of patients with extensive disease. The cost of determining relapse for SCLC was estimated to be $Cdn 1590 and terminal care costs averaged $Cdn 9966. For all 15 624 cases of lung cancer diagnosed in Canada in 1988, it was estimated that the total cost of providing treatment and follow-up, and managing relapse over 5 years was $Cdn 328 million. Despite the large total cost of lung cancer management, estimates of cost effectiveness of therapy showed that the cost per life year gained was approximately $Cdn 11 000 for NSCLC and $Cdn 19 560 for SCLC. These estimates of the direct health care costs assume that all patients have access to care, treatment is uncomplicated and practice is standard, and must be viewed as an idealized assessment of the cost of lung cancer management. The microsimulation model, however, does provide a useful framework for evaluating the costs of new diagnostic procedures, treatment strategies and new drugs."
+      ],
+      "abstract": "Because lung cancer is a major health care problem in Canada, it is imperative to understand how resources are used to diagnose and treat this disease. This paper describes a method of modelling the direct patient care costs for lung cancer from the perspective of the government as payer in a universal health care system. Clinical algorithms were developed to describe the management of non-small cell (NSCLC) and small cell (SCLC) lung cancer. Patients were allocated to the treatment algorithms in the model based on a knowledge of their distribution by cell type and stage in Canadian cases. A microsimulation model developed by Statistics Canada was used to integrate the data on type of lung cancer, extent of disease, clinical management, survival and health care resource utilization. The direct care costs for diagnosis and treatment of NSCLC ranged from $Cdn 17 889 for the surgery/post-operative radiotherapy treatment of Stages I and II to $Cdn 6333 for supportive care for patients with Stage IV disease. The costs of determining relapse for NSCLC were estimated to be $Cdn 1528 and terminal care costs, made up largely of hospitalization charges and some palliative radiotherapy, were $Cdn 10 331. Direct care costs for the diagnosis and initial treatment of SCLC ranged from $Cdn 18 691 for management of limited stage disease to $Cdn 4739 for the supportive care of patients with extensive disease. The cost of determining relapse for SCLC was estimated to be $Cdn 1590 and terminal care costs averaged $Cdn 9966. For all 15 624 cases of lung cancer diagnosed in Canada in 1988, it was estimated that the total cost of providing treatment and follow-up, and managing relapse over 5 years was $Cdn 328 million. Despite the large total cost of lung cancer management, estimates of cost effectiveness of therapy showed that the cost per life year gained was approximately $Cdn 11 000 for NSCLC and $Cdn 19 560 for SCLC. These estimates of the direct health care costs assume that all patients have access to care, treatment is uncomplicated and practice is standard, and must be viewed as an idealized assessment of the cost of lung cancer management. The microsimulation model, however, does provide a useful framework for evaluating the costs of new diagnostic procedures, treatment strategies and new drugs.",
+      "evidence_sentences": [
+        "For all 15 624 cases of lung cancer diagnosed in Canada in 1988, it was estimated that the total cost of providing treatment and follow-up, and managing relapse over 5 years was $Cdn 328 million.",
+        "A microsimulation model developed by Statistics Canada was used to integrate the data on type of lung cancer, extent of disease, clinical management, survival and health care resource utilization.",
+        "Because lung cancer is a major health care problem in Canada, it is imperative to understand how resources are used to diagnose and treat this disease."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "W K Evans",
+        "B P Will",
+        "J M Berthelot",
+        "M C Wolfson"
+      ],
+      "year": "1996",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8696718/"
+    },
+    {
+      "pmid": "2102366",
+      "title": "Lung cancer and smoking prevalence in Canada.",
+      "journal": "Health reports",
+      "abstract_sections": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada. For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago. Rates are still rising in these provinces, though much less steeply than in the past. In Ontario and the Western provinces, lung cancer death rates for men have reached a plateau in recent years and rates in British Columbia even show signs of falling. Sizable declines in smoking rates among men have been reported in all provinces over the last twenty years, and lung cancer death rates for men can thus be expected to begin declining in this decade. For women, lung cancer death rates began to rise steeply in the 1960s, although remaining well below the rates for men. Rates for women nearly doubled in both the 1970s and 1980s. Smoking rates for women increased up to the early 1970s and declined only slightly since then. Lung cancer death rates for women can thus be expected to continue to rise until the end of the century."
+      ],
+      "abstract": "This article reviews lung cancer mortality and smoking prevalence in Canada. For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago. Rates are still rising in these provinces, though much less steeply than in the past. In Ontario and the Western provinces, lung cancer death rates for men have reached a plateau in recent years and rates in British Columbia even show signs of falling. Sizable declines in smoking rates among men have been reported in all provinces over the last twenty years, and lung cancer death rates for men can thus be expected to begin declining in this decade. For women, lung cancer death rates began to rise steeply in the 1960s, although remaining well below the rates for men. Rates for women nearly doubled in both the 1970s and 1980s. Smoking rates for women increased up to the early 1970s and declined only slightly since then. Lung cancer death rates for women can thus be expected to continue to rise until the end of the century.",
+      "evidence_sentences": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada.",
+        "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago.",
+        "Sizable declines in smoking rates among men have been reported in all provinces over the last twenty years, and lung cancer death rates for men can thus be expected to begin declining in this decade."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "A Brancker"
+      ],
+      "year": "1990",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/2102366/"
+    },
+    {
+      "pmid": "32218661",
+      "title": "Therapeutic landscape of metastatic non-small-cell lung cancer in Canada in 2020.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality. Nevertheless, recent advances in the fields of immuno-oncology and precision medicine have led to significant improvements in clinical outcome in metastatic non-small-cell lung cancer (nsclc). Those improvements were facilitated by a greater understanding of the biologic classification of nsclc, which catalyzed discoveries of novel therapies. Here, we present a comprehensive review of the recent avalanche of practice-changing trials in metastatic nsclc, and we offer an approach to the management of this disease from a Canadian perspective. We begin with an overview of the pathologic and molecular characterization of metastatic nsclc. Next, we review the indications for currently approved immune checkpoint inhibitors, and we provide an approach to the management of disease with a driver mutation. Finally, we address future avenues in both diagnostics and therapeutics for patients with advanced and metastatic nsclc."
+      ],
+      "abstract": "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality. Nevertheless, recent advances in the fields of immuno-oncology and precision medicine have led to significant improvements in clinical outcome in metastatic non-small-cell lung cancer (nsclc). Those improvements were facilitated by a greater understanding of the biologic classification of nsclc, which catalyzed discoveries of novel therapies. Here, we present a comprehensive review of the recent avalanche of practice-changing trials in metastatic nsclc, and we offer an approach to the management of this disease from a Canadian perspective. We begin with an overview of the pathologic and molecular characterization of metastatic nsclc. Next, we review the indications for currently approved immune checkpoint inhibitors, and we provide an approach to the management of disease with a driver mutation. Finally, we address future avenues in both diagnostics and therapeutics for patients with advanced and metastatic nsclc.",
+      "evidence_sentences": [
+        "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality.",
+        "Nevertheless, recent advances in the fields of immuno-oncology and precision medicine have led to significant improvements in clinical outcome in metastatic non-small-cell lung cancer (nsclc).",
+        "Here, we present a comprehensive review of the recent avalanche of practice-changing trials in metastatic nsclc, and we offer an approach to the management of this disease from a Canadian perspective."
+      ],
+      "publication_types": [
+        "Historical Article",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "A Elkrief",
+        "P Joubert",
+        "M Florescu",
+        "M Tehfe",
+        "N Blais",
+        "B Routy"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32218661/"
+    },
+    {
+      "pmid": "32389507",
+      "title": "Incidence and Mortality of Lung Cancer Among Never Smokers in Relationship to Secondhand Smoking: Findings From the PLCO Trial.",
+      "journal": "Clinical lung cancer",
+      "abstract_sections": [
+        "To assess the impact of secondhand smoking on the incidence and mortality of lung cancer among never smokers enrolled onto the Prostate, Lung, Colorectal, and Ovary (PLCO) study.",
+        "Deidentified data sets from the PLCO study were accessed and never smokers who completed the supplementary questionnaire's questions related to history of exposure to secondhand smoking were included in the current study. Multivariate Cox regression analysis was conducted to evaluate the impact of adulthood and childhood secondhand smoking on lung cancer incidence and mortality.",
+        "A total of 49,569 participants were included in the current analysis. Using multivariate Cox regression analysis, participants with secondhand smoking most of their work time had a higher risk of lung cancer diagnosis (hazard ratio, 2.038; 95% confidence interval, 1.313-3.164; P = .002). Likewise, participants with secondhand smoking most of their adult living time had a higher risk of lung cancer diagnosis (hazard ratio, 1.809; 95% confidence interval, 1.161-2.819; P = .009). Moreover, participants with secondhand smoking most of the adult time had a higher risk of death from lung cancer (hazard ratio, 1.925; 95% confidence interval, 1.035-3.575; P = .038). Participants with secondhand smoking most of the adult time were also more likely to have had hypertension (P < .001), diabetes mellitus (P < .001), heart attack (P < .001), stroke (P = .028), chronic bronchitis (P < .001), and emphysema (P < .001).",
+        "Never smokers with a history of adult secondhand smoking had a higher probability of a subsequent diagnosis of lung cancer. Likewise, never smokers with a history of adult secondhand smoking were more likely to die from lung cancer."
+      ],
+      "abstract": "To assess the impact of secondhand smoking on the incidence and mortality of lung cancer among never smokers enrolled onto the Prostate, Lung, Colorectal, and Ovary (PLCO) study.\n\nDeidentified data sets from the PLCO study were accessed and never smokers who completed the supplementary questionnaire's questions related to history of exposure to secondhand smoking were included in the current study. Multivariate Cox regression analysis was conducted to evaluate the impact of adulthood and childhood secondhand smoking on lung cancer incidence and mortality.\n\nA total of 49,569 participants were included in the current analysis. Using multivariate Cox regression analysis, participants with secondhand smoking most of their work time had a higher risk of lung cancer diagnosis (hazard ratio, 2.038; 95% confidence interval, 1.313-3.164; P = .002). Likewise, participants with secondhand smoking most of their adult living time had a higher risk of lung cancer diagnosis (hazard ratio, 1.809; 95% confidence interval, 1.161-2.819; P = .009). Moreover, participants with secondhand smoking most of the adult time had a higher risk of death from lung cancer (hazard ratio, 1.925; 95% confidence interval, 1.035-3.575; P = .038). Participants with secondhand smoking most of the adult time were also more likely to have had hypertension (P < .001), diabetes mellitus (P < .001), heart attack (P < .001), stroke (P = .028), chronic bronchitis (P < .001), and emphysema (P < .001).\n\nNever smokers with a history of adult secondhand smoking had a higher probability of a subsequent diagnosis of lung cancer. Likewise, never smokers with a history of adult secondhand smoking were more likely to die from lung cancer.",
+      "evidence_sentences": [
+        "To assess the impact of secondhand smoking on the incidence and mortality of lung cancer among never smokers enrolled onto the Prostate, Lung, Colorectal, and Ovary (PLCO) study.",
+        "Multivariate Cox regression analysis was conducted to evaluate the impact of adulthood and childhood secondhand smoking on lung cancer incidence and mortality.",
+        "Using multivariate Cox regression analysis, participants with secondhand smoking most of their work time had a higher risk of lung cancer diagnosis (hazard ratio, 2.038; 95% confidence interval, 1.313-3.164; P = .002)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Omar Abdel-Rahman"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32389507/"
+    },
+    {
+      "pmid": "40048159",
+      "title": "Lung Cancer Surveillance for Patients With Head and Neck Cancer.",
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "abstract_sections": [
+        "Patients with head and neck squamous cell cancer (HNSCC) are at a greater risk of developing pulmonary metastases and/or second primary lung cancer. However, it remains uncertain whether lung screening in these patients, when the initial staging studies are negative, confers any survival benefit.",
+        "To evaluate long-term cancer survival outcomes in patients with HNSCC undergoing chest radiography vs low-dose computed tomography screening for pulmonary metastasis and/or second primary lung cancer.",
+        "This randomized parallel trial was conducted at a large academic hospital in Canada enrolling treatment-naive patients with de novo HNSCC from September 2015 to December 2022. Eligible patients did not meet the criteria for lung screening established by the US National Comprehensive Cancer Network guidelines. Participants were randomized to chest radiography or low-dose computed tomography screening groups. Data were analyzed from March to August 2024.",
+        "Comparison of chest radiography vs low-dose computed tomography screening methods.",
+        "Primary outcomes were the lung cancer detection rate measured by comparing the sensitivity and specificity of low-dose computed tomography with chest radiography. Secondary outcomes were overall survival and disease-free survival.",
+        "A total of 137 patients (mean [SD] age, 65.1 [14.1] years; 34 [24.8%] females and 103 [75.2%] males) were included and randomized, 68 (49.6%) to chest radiography and 69 (50.4%) to low-dose computed tomography. Nine of 137 patients (6.5%) developed a second primary lung cancer (6 patients) or lung metastases (3 patients). There were no clinically meaningful differences in survival outcomes between the 2 groups (hazard ratio, 1.2; 95% CI, 0.4-3.9). Chest radiography exhibited a relatively low sensitivity of 66.7% but a specificity of 100%. Low-dose computed tomography demonstrated both high sensitivity (100%) and specificity (100%), for an overall accuracy of 100%.",
+        "The findings of this randomized parallel trial indicate that low-dose computed tomography exhibits statistically significant superior sensitivity compared with chest radiography for diagnosing lung metastases and second primary lung cancer. However, there were no important differences in survival rates. These results hold practical significance, offering valuable insights to clinicians who are guiding decisions regarding lung screening protocols.",
+        "ISRCTN10954990."
+      ],
+      "abstract": "Patients with head and neck squamous cell cancer (HNSCC) are at a greater risk of developing pulmonary metastases and/or second primary lung cancer. However, it remains uncertain whether lung screening in these patients, when the initial staging studies are negative, confers any survival benefit.\n\nTo evaluate long-term cancer survival outcomes in patients with HNSCC undergoing chest radiography vs low-dose computed tomography screening for pulmonary metastasis and/or second primary lung cancer.\n\nThis randomized parallel trial was conducted at a large academic hospital in Canada enrolling treatment-naive patients with de novo HNSCC from September 2015 to December 2022. Eligible patients did not meet the criteria for lung screening established by the US National Comprehensive Cancer Network guidelines. Participants were randomized to chest radiography or low-dose computed tomography screening groups. Data were analyzed from March to August 2024.\n\nComparison of chest radiography vs low-dose computed tomography screening methods.\n\nPrimary outcomes were the lung cancer detection rate measured by comparing the sensitivity and specificity of low-dose computed tomography with chest radiography. Secondary outcomes were overall survival and disease-free survival.\n\nA total of 137 patients (mean [SD] age, 65.1 [14.1] years; 34 [24.8%] females and 103 [75.2%] males) were included and randomized, 68 (49.6%) to chest radiography and 69 (50.4%) to low-dose computed tomography. Nine of 137 patients (6.5%) developed a second primary lung cancer (6 patients) or lung metastases (3 patients). There were no clinically meaningful differences in survival outcomes between the 2 groups (hazard ratio, 1.2; 95% CI, 0.4-3.9). Chest radiography exhibited a relatively low sensitivity of 66.7% but a specificity of 100%. Low-dose computed tomography demonstrated both high sensitivity (100%) and specificity (100%), for an overall accuracy of 100%.\n\nThe findings of this randomized parallel trial indicate that low-dose computed tomography exhibits statistically significant superior sensitivity compared with chest radiography for diagnosing lung metastases and second primary lung cancer. However, there were no important differences in survival rates. These results hold practical significance, offering valuable insights to clinicians who are guiding decisions regarding lung screening protocols.\n\nISRCTN10954990.",
+      "evidence_sentences": [
+        "The findings of this randomized parallel trial indicate that low-dose computed tomography exhibits statistically significant superior sensitivity compared with chest radiography for diagnosing lung metastases and second primary lung cancer.",
+        "To evaluate long-term cancer survival outcomes in patients with HNSCC undergoing chest radiography vs low-dose computed tomography screening for pulmonary metastasis and/or second primary lung cancer.",
+        "Primary outcomes were the lung cancer detection rate measured by comparing the sensitivity and specificity of low-dose computed tomography with chest radiography."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Naif Fnais",
+        "Francisco Laxague",
+        "Marco A Mascarella",
+        "Raisa Chowdhury",
+        "Hedi Zhao",
+        "Sukhdeep Jatana",
+        "Abrar Aljassim",
+        "Catherine F Roy",
+        "Abdulaziz S Alrasheed",
+        "David S Chan",
+        "Jason Agulnik",
+        "Reza Forghani",
+        "Khalil Sultanem",
+        "Alex Mlynarek",
+        "Michael P Hier"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40048159/"
+    },
+    {
+      "pmid": "26584618",
+      "title": "Evaluation of different radon guideline values based on characterization of ecological risk and visualization of lung cancer mortality trends in British Columbia, Canada.",
+      "journal": "BMC public health",
+      "abstract_sections": [
+        "There is no safe concentration of radon gas, but guideline values provide threshold concentrations that are used to map areas at higher risk. These values vary between different regions, countries, and organizations, which can lead to differential classification of risk. For example the World Health Organization suggests a 100 Bq m(-3)value, while Health Canada recommends 200 Bq m(-3). Our objective was to describe how different thresholds characterized ecological radon risk and their visual association with lung cancer mortality trends in British Columbia, Canada.",
+        "Eight threshold values between 50 and 600 Bq m(-3) were identified, and classes of radon vulnerability were defined based on whether the observed 95(th) percentile radon concentration was above or below each value. A balanced random forest algorithm was used to model vulnerability, and the results were mapped. We compared high vulnerability areas, their estimated populations, and differences in lung cancer mortality trends stratified by smoking prevalence and sex.",
+        "Classification accuracy improved as the threshold concentrations decreased and the area classified as high vulnerability increased. Majority of the population lived within areas of lower vulnerability regardless of the threshold value. Thresholds as low as 50 Bq m(-3) were associated with higher lung cancer mortality, even in areas with low smoking prevalence. Temporal trends in lung cancer mortality were increasing for women, while decreasing for men.",
+        "Radon contributes to lung cancer in British Columbia. The results of the study contribute evidence supporting the use of a reference level lower than the current guideline of 200 Bq m(-3) for the province."
+      ],
+      "abstract": "There is no safe concentration of radon gas, but guideline values provide threshold concentrations that are used to map areas at higher risk. These values vary between different regions, countries, and organizations, which can lead to differential classification of risk. For example the World Health Organization suggests a 100 Bq m(-3)value, while Health Canada recommends 200 Bq m(-3). Our objective was to describe how different thresholds characterized ecological radon risk and their visual association with lung cancer mortality trends in British Columbia, Canada.\n\nEight threshold values between 50 and 600 Bq m(-3) were identified, and classes of radon vulnerability were defined based on whether the observed 95(th) percentile radon concentration was above or below each value. A balanced random forest algorithm was used to model vulnerability, and the results were mapped. We compared high vulnerability areas, their estimated populations, and differences in lung cancer mortality trends stratified by smoking prevalence and sex.\n\nClassification accuracy improved as the threshold concentrations decreased and the area classified as high vulnerability increased. Majority of the population lived within areas of lower vulnerability regardless of the threshold value. Thresholds as low as 50 Bq m(-3) were associated with higher lung cancer mortality, even in areas with low smoking prevalence. Temporal trends in lung cancer mortality were increasing for women, while decreasing for men.\n\nRadon contributes to lung cancer in British Columbia. The results of the study contribute evidence supporting the use of a reference level lower than the current guideline of 200 Bq m(-3) for the province.",
+      "evidence_sentences": [
+        "Our objective was to describe how different thresholds characterized ecological radon risk and their visual association with lung cancer mortality trends in British Columbia, Canada.",
+        "We compared high vulnerability areas, their estimated populations, and differences in lung cancer mortality trends stratified by smoking prevalence and sex.",
+        "Thresholds as low as 50 Bq m(-3) were associated with higher lung cancer mortality, even in areas with low smoking prevalence."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Michael C Branion-Calles",
+        "Trisalyn A Nelson",
+        "Sarah B Henderson"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26584618/"
+    },
+    {
+      "pmid": "23982909",
+      "title": "Lung cancer risk from radon in Ontario, Canada: how many lung cancers can we prevent?",
+      "journal": "Cancer causes & control : CCC",
+      "abstract_sections": [
+        "To calculate the burden of lung cancer illness due to radon for all thirty-six health units in Ontario and determine the number of radon-attributable lung cancer deaths that could be prevented.",
+        "We calculated the population attributable risk percent, excess life-time risk ratio, life-years lost, the number of lung cancer deaths due to radon, and the number of deaths that could be prevented if all homes above various cut-points were effectively reduced to background levels.",
+        "It is estimated that 13.6 % (95 % CI 11.0, 16.7) of lung cancer deaths in Ontario are attributable to radon, corresponding to 847 (95 % CI 686, 1,039) lung cancer deaths each year, approximately 84 % of these in ever-smokers. If all homes above 200 Bq/m(3), the current Canadian guideline, were remediated to background levels, it is estimated that 91 lung cancer deaths could be prevented each year, 233 if remediation was performed at 100 Bq/m(3). There was important variation across health units.",
+        "Radon is an important contributor to lung cancer deaths in Ontario. A large portion of radon-attributable lung cancer deaths are from exposures below the current Canadian guideline, suggesting interventions that install effective radon-preventive measures into buildings at build may be a good alternative population prevention strategy to testing and remediation. For some health units, testing and remediation may also prevent a portion of radon-related lung cancer deaths. Regional attributable risk estimates can help with local public health resource allocation and decision making."
+      ],
+      "abstract": "To calculate the burden of lung cancer illness due to radon for all thirty-six health units in Ontario and determine the number of radon-attributable lung cancer deaths that could be prevented.\n\nWe calculated the population attributable risk percent, excess life-time risk ratio, life-years lost, the number of lung cancer deaths due to radon, and the number of deaths that could be prevented if all homes above various cut-points were effectively reduced to background levels.\n\nIt is estimated that 13.6 % (95 % CI 11.0, 16.7) of lung cancer deaths in Ontario are attributable to radon, corresponding to 847 (95 % CI 686, 1,039) lung cancer deaths each year, approximately 84 % of these in ever-smokers. If all homes above 200 Bq/m(3), the current Canadian guideline, were remediated to background levels, it is estimated that 91 lung cancer deaths could be prevented each year, 233 if remediation was performed at 100 Bq/m(3). There was important variation across health units.\n\nRadon is an important contributor to lung cancer deaths in Ontario. A large portion of radon-attributable lung cancer deaths are from exposures below the current Canadian guideline, suggesting interventions that install effective radon-preventive measures into buildings at build may be a good alternative population prevention strategy to testing and remediation. For some health units, testing and remediation may also prevent a portion of radon-related lung cancer deaths. Regional attributable risk estimates can help with local public health resource allocation and decision making.",
+      "evidence_sentences": [
+        "A large portion of radon-attributable lung cancer deaths are from exposures below the current Canadian guideline, suggesting interventions that install effective radon-preventive measures into buildings at build may be a good alternative population prevention strategy to testing and remediation.",
+        "We calculated the population attributable risk percent, excess life-time risk ratio, life-years lost, the number of lung cancer deaths due to radon, and the number of deaths that could be prevented if all homes above various cut-points were effectively reduced to background levels.",
+        "It is estimated that 13.6 % (95 % CI 11.0, 16.7) of lung cancer deaths in Ontario are attributable to radon, corresponding to 847 (95 % CI 686, 1,039) lung cancer deaths each year, approximately 84 % of these in ever-smokers."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Emily Peterson",
+        "Amira Aker",
+        "JinHee Kim",
+        "Ye Li",
+        "Kevin Brand",
+        "Ray Copes"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23982909/"
+    },
+    {
+      "pmid": "7895211",
+      "title": "Lifetime probability of developing lung cancer, by smoking status, Canada.",
+      "journal": "Canadian journal of public health = Revue canadienne de sante publique",
+      "abstract_sections": [
+        "Life table methodology was used to estimate the probability of developing lung cancer by smoking status. Lifetime risks of developing lung cancer were estimated for six hypothetical cohorts (males, females, male current smokers, male never smokers, female current smokers, and female never smokers). Estimates of smoking mortality and incidence rates were calculated based on Canadian rates observed over the period 1987 to 1989. It was found that 172/1,000 of male current smokers will eventually develop lung cancer; the similar probability among female current smokers was 116/1,000. For those who never smoked on a regular basis the lifetime risk was substantially reduced. Only 13/1,000 males and 14/1,000 females in this category will develop lung cancer. When smoking status is not adjusted for, the lifetime risk of developing lung cancer is approximately 96/1,000 and 43/1,000 for males and females respectively."
+      ],
+      "abstract": "Life table methodology was used to estimate the probability of developing lung cancer by smoking status. Lifetime risks of developing lung cancer were estimated for six hypothetical cohorts (males, females, male current smokers, male never smokers, female current smokers, and female never smokers). Estimates of smoking mortality and incidence rates were calculated based on Canadian rates observed over the period 1987 to 1989. It was found that 172/1,000 of male current smokers will eventually develop lung cancer; the similar probability among female current smokers was 116/1,000. For those who never smoked on a regular basis the lifetime risk was substantially reduced. Only 13/1,000 males and 14/1,000 females in this category will develop lung cancer. When smoking status is not adjusted for, the lifetime risk of developing lung cancer is approximately 96/1,000 and 43/1,000 for males and females respectively.",
+      "evidence_sentences": [
+        "Lifetime risks of developing lung cancer were estimated for six hypothetical cohorts (males, females, male current smokers, male never smokers, female current smokers, and female never smokers).",
+        "When smoking status is not adjusted for, the lifetime risk of developing lung cancer is approximately 96/1,000 and 43/1,000 for males and females respectively.",
+        "It was found that 172/1,000 of male current smokers will eventually develop lung cancer; the similar probability among female current smokers was 116/1,000."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "P J Villeneuve",
+        "Y Mao"
+      ],
+      "year": "1994",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7895211/"
+    },
+    {
+      "pmid": "3567810",
+      "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+      "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+      "abstract_sections": [
+        "Recently published evidence indicates that involuntary smoking causes an increased risk of lung cancer among nonsmokers. Information was compiled on the proportion of people who had never smoked among victims of lung cancer, the risk of lung cancer for nonsmokers married to smokers and the prevalence of such exposure. On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women. The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure."
+      ],
+      "abstract": "Recently published evidence indicates that involuntary smoking causes an increased risk of lung cancer among nonsmokers. Information was compiled on the proportion of people who had never smoked among victims of lung cancer, the risk of lung cancer for nonsmokers married to smokers and the prevalence of such exposure. On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women. The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure.",
+      "evidence_sentences": [
+        "The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure.",
+        "On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women.",
+        "Information was compiled on the proportion of people who had never smoked among victims of lung cancer, the risk of lung cancer for nonsmokers married to smokers and the prevalence of such exposure."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "D T Wigle",
+        "N E Collishaw",
+        "J Kirkbride",
+        "Y Mao"
+      ],
+      "year": "1987",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/3567810/"
+    },
+    {
+      "pmid": "12230752",
+      "title": "Lung cancer.",
+      "journal": "Clinical evidence",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Alan Neville"
+      ],
+      "year": "2002",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12230752/"
+    },
+    {
+      "pmid": "34736929",
+      "title": "Impact of Volume on Mortality and Hospital Stay After Lung Cancer Surgery in a Single-Payer System.",
+      "journal": "The Annals of thoracic surgery",
+      "abstract_sections": [
+        "There is a literature gap for hospitals in single-payer health care systems quantifying the influence of hospital volume on outcomes after major lung cancer resection. We aimed to determine the effect of hospital volume on mortality and length of stay.",
+        "A retrospective cohort study using administrative, population-based data from a single-payer universal health care system was performed in adults with non-small cell lung cancer who underwent lobectomy or pneumonectomy between 2008 and 2017. Hospital volume was defined as the average annual number of major lung resections performed at each institution. Length of stay and postoperative mortality were compared using multivariable linear and nonlinear regression between hospital volume categories and continuously. Adjusted association between hospital volume and postoperative mortality was determined by multivariable logistic regression.",
+        "In all, 10 831 lung resections were performed: 1237 pneumonectomies and 9594 lobectomies. Patients undergoing lobectomy at high-volume hospitals had shorter median length of stay (6 vs 8 days, P = .001) compared with low-volume hospitals. After adjusting for confounders, surgery at a high-volume center was significantly associated with shorter length of stay after lobectomy and overall resections (P ≤ .001), but not after pneumonectomy (P = .787). Surgery at a high-volume center was positively associated with improved 90-day mortality in lobectomy and overall procedures (odds ratio 0.607 [95% confidence interval, 0.399 to 0.925], and 0.632 [95% confidence interval, 0.441 to 0.904], respectively). Volume was not a predictor of 90-day mortality after pneumonectomy (odds ratio 0.533 [95% confidence interval, 0.257 to 1.104], P = .090).",
+        "Surgery at a high-volume center was positively correlated with improved 90-day survival and shorter hospital length of stay. The results support regionalized lung cancer care in a single-payer health care system."
+      ],
+      "abstract": "There is a literature gap for hospitals in single-payer health care systems quantifying the influence of hospital volume on outcomes after major lung cancer resection. We aimed to determine the effect of hospital volume on mortality and length of stay.\n\nA retrospective cohort study using administrative, population-based data from a single-payer universal health care system was performed in adults with non-small cell lung cancer who underwent lobectomy or pneumonectomy between 2008 and 2017. Hospital volume was defined as the average annual number of major lung resections performed at each institution. Length of stay and postoperative mortality were compared using multivariable linear and nonlinear regression between hospital volume categories and continuously. Adjusted association between hospital volume and postoperative mortality was determined by multivariable logistic regression.\n\nIn all, 10 831 lung resections were performed: 1237 pneumonectomies and 9594 lobectomies. Patients undergoing lobectomy at high-volume hospitals had shorter median length of stay (6 vs 8 days, P = .001) compared with low-volume hospitals. After adjusting for confounders, surgery at a high-volume center was significantly associated with shorter length of stay after lobectomy and overall resections (P ≤ .001), but not after pneumonectomy (P = .787). Surgery at a high-volume center was positively associated with improved 90-day mortality in lobectomy and overall procedures (odds ratio 0.607 [95% confidence interval, 0.399 to 0.925], and 0.632 [95% confidence interval, 0.441 to 0.904], respectively). Volume was not a predictor of 90-day mortality after pneumonectomy (odds ratio 0.533 [95% confidence interval, 0.257 to 1.104], P = .090).\n\nSurgery at a high-volume center was positively correlated with improved 90-day survival and shorter hospital length of stay. The results support regionalized lung cancer care in a single-payer health care system.",
+      "evidence_sentences": [
+        "A retrospective cohort study using administrative, population-based data from a single-payer universal health care system was performed in adults with non-small cell lung cancer who underwent lobectomy or pneumonectomy between 2008 and 2017.",
+        "There is a literature gap for hospitals in single-payer health care systems quantifying the influence of hospital volume on outcomes after major lung cancer resection.",
+        "The results support regionalized lung cancer care in a single-payer health care system."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Clare Pollock",
+        "Stephan Soder",
+        "Nicole Ezer",
+        "Pasquale Ferraro",
+        "Edwin Lafontaine",
+        "Jocelyne Martin",
+        "Basil Nasir",
+        "Moishe Liberman"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34736929/"
+    },
+    {
+      "pmid": "2574779",
+      "title": "Lung cancer mortality and silicosis in Québec, 1938-85.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "Men who had received compensation for silicosis in Québec between 1938 and 1985 were studied up to the end of 1986 to estimate risk of lung cancer mortality. Particular attention was paid to selection biases inherent in the study of such workers. Age-specific and calendar-year-specific mortality rates of Québec men from 1931 to 1985 were used for comparison. Risk of death from lung cancer in men who had received compensation for silicosis was more than 3 times higher than expected; silicosis may be a strong risk factor for lung cancer mortality."
+      ],
+      "abstract": "Men who had received compensation for silicosis in Québec between 1938 and 1985 were studied up to the end of 1986 to estimate risk of lung cancer mortality. Particular attention was paid to selection biases inherent in the study of such workers. Age-specific and calendar-year-specific mortality rates of Québec men from 1931 to 1985 were used for comparison. Risk of death from lung cancer in men who had received compensation for silicosis was more than 3 times higher than expected; silicosis may be a strong risk factor for lung cancer mortality.",
+      "evidence_sentences": [
+        "Risk of death from lung cancer in men who had received compensation for silicosis was more than 3 times higher than expected; silicosis may be a strong risk factor for lung cancer mortality.",
+        "Men who had received compensation for silicosis in Québec between 1938 and 1985 were studied up to the end of 1986 to estimate risk of lung cancer mortality.",
+        "Age-specific and calendar-year-specific mortality rates of Québec men from 1931 to 1985 were used for comparison."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "C Infante-Rivard",
+        "B Armstrong",
+        "M Petitclerc",
+        "L G Cloutier",
+        "G Theriault"
+      ],
+      "year": "1989",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/2574779/"
+    },
+    {
+      "pmid": "38819904",
+      "title": "Predicting Lung Cancer Survival to the Future: Population-Based Cancer Survival Modeling Study.",
+      "journal": "JMIR public health and surveillance",
+      "abstract_sections": [
+        "Lung cancer remains the leading cause of cancer-related mortality globally, with late diagnoses often resulting in poor prognosis. In response, the Lung Ambition Alliance aims to double the 5-year survival rate by 2025.",
+        "Using the Taiwan Cancer Registry, this study uses the survivorship-period-cohort model to assess the feasibility of achieving this goal by predicting future survival rates of patients with lung cancer in Taiwan.",
+        "This retrospective study analyzed data from 205,104 patients with lung cancer registered between 1997 and 2018. Survival rates were calculated using the survivorship-period-cohort model, focusing on 1-year interval survival rates and extrapolating to predict 5-year outcomes for diagnoses up to 2020, as viewed from 2025. Model validation involved comparing predicted rates with actual data using symmetric mean absolute percentage error.",
+        "The study identified notable improvements in survival rates beginning in 2004, with the predicted 5-year survival rate for 2020 reaching 38.7%, marking a considerable increase from the most recent available data of 23.8% for patients diagnosed in 2013. Subgroup analysis revealed varied survival improvements across different demographics and histological types. Predictions based on current trends indicate that achieving the Lung Ambition Alliance's goal could be within reach.",
+        "The analysis demonstrates notable improvements in lung cancer survival rates in Taiwan, driven by the adoption of low-dose computed tomography screening, alongside advances in diagnostic technologies and treatment strategies. While the ambitious target set by the Lung Ambition Alliance appears achievable, ongoing advancements in medical technology and health policies will be crucial. The study underscores the potential impact of continued enhancements in lung cancer management and the importance of strategic health interventions to further improve survival outcomes."
+      ],
+      "abstract": "Lung cancer remains the leading cause of cancer-related mortality globally, with late diagnoses often resulting in poor prognosis. In response, the Lung Ambition Alliance aims to double the 5-year survival rate by 2025.\n\nUsing the Taiwan Cancer Registry, this study uses the survivorship-period-cohort model to assess the feasibility of achieving this goal by predicting future survival rates of patients with lung cancer in Taiwan.\n\nThis retrospective study analyzed data from 205,104 patients with lung cancer registered between 1997 and 2018. Survival rates were calculated using the survivorship-period-cohort model, focusing on 1-year interval survival rates and extrapolating to predict 5-year outcomes for diagnoses up to 2020, as viewed from 2025. Model validation involved comparing predicted rates with actual data using symmetric mean absolute percentage error.\n\nThe study identified notable improvements in survival rates beginning in 2004, with the predicted 5-year survival rate for 2020 reaching 38.7%, marking a considerable increase from the most recent available data of 23.8% for patients diagnosed in 2013. Subgroup analysis revealed varied survival improvements across different demographics and histological types. Predictions based on current trends indicate that achieving the Lung Ambition Alliance's goal could be within reach.\n\nThe analysis demonstrates notable improvements in lung cancer survival rates in Taiwan, driven by the adoption of low-dose computed tomography screening, alongside advances in diagnostic technologies and treatment strategies. While the ambitious target set by the Lung Ambition Alliance appears achievable, ongoing advancements in medical technology and health policies will be crucial. The study underscores the potential impact of continued enhancements in lung cancer management and the importance of strategic health interventions to further improve survival outcomes.",
+      "evidence_sentences": [
+        "The analysis demonstrates notable improvements in lung cancer survival rates in Taiwan, driven by the adoption of low-dose computed tomography screening, alongside advances in diagnostic technologies and treatment strategies.",
+        "Using the Taiwan Cancer Registry, this study uses the survivorship-period-cohort model to assess the feasibility of achieving this goal by predicting future survival rates of patients with lung cancer in Taiwan.",
+        "Lung cancer remains the leading cause of cancer-related mortality globally, with late diagnoses often resulting in poor prognosis."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "mortality",
+        "rates",
+        "canada"
+      ],
+      "authors": [
+        "Fan-Tsui Meng",
+        "Jing-Rong Jhuang",
+        "Yan-Teng Peng",
+        "Chun-Ju Chiang",
+        "Ya-Wen Yang",
+        "Chi-Yen Huang",
+        "Kuo-Ping Huang",
+        "Wen-Chung Lee"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38819904/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "2937",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38195644",
+        "23530101",
+        "13967780",
+        "38319507",
+        "39074244",
+        "38454087",
+        "31162856",
+        "39243029",
+        "33039364",
+        "27794416",
+        "3242824",
+        "39798695",
+        "28682689",
+        "4688412",
+        "8217852",
+        "40426148",
+        "14079129",
+        "8696718",
+        "2102366",
+        "32218661",
+        "32389507",
+        "40048159",
+        "26584618",
+        "23982909",
+        "7895211",
+        "3567810",
+        "12230752",
+        "34736929",
+        "2574779",
+        "38819904"
+      ],
+      "translationset": [
+        {
+          "from": "lung cancer",
+          "to": "\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]"
+        },
+        {
+          "from": "mortality rates",
+          "to": "\"mortality\"[MeSH Terms] OR \"mortality\"[All Fields] OR (\"mortality\"[All Fields] AND \"rates\"[All Fields]) OR \"mortality rates\"[All Fields]"
+        },
+        {
+          "from": "canada",
+          "to": "\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada's\"[All Fields] OR \"canadas\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]) AND (\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]) AND (\"mortality\"[MeSH Terms] OR \"mortality\"[All Fields] OR (\"mortality\"[All Fields] AND \"rates\"[All Fields]) OR \"mortality rates\"[All Fields]) AND (\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada s\"[All Fields] OR \"canadas\"[All Fields])"
+    }
+  }
+}

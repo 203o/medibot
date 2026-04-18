@@ -1,0 +1,73 @@
+{
+  "run_id": "69265b491b4f49a5a14fb27abea260d2",
+  "stored_at": "2026-04-17T19:51:59+00:00",
+  "query": "malaria lates treatment therapy management kenya",
+  "query_fallbacks": [
+    "malaria lates treatment therapy management kenya",
+    "malaria treatment outcomes kenya",
+    "latest malaria therapeutic interventions in kenya",
+    "evidence-based malaria management practices kenya",
+    "epidemiology of malaria treatment in kenya",
+    "malaria lates treatment therapy management",
+    "malaria lates treatment therapy treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria lates treatment therapy management kenya",
+    "malaria lates treatment therapy management",
+    "malaria lates treatment therapy treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria treatment outcomes kenya",
+    "latest malaria therapeutic interventions in kenya",
+    "evidence-based malaria management practices kenya",
+    "epidemiology of malaria treatment in kenya"
+  ],
+  "keywords": [
+    "malaria",
+    "lates",
+    "treatment",
+    "therapy",
+    "management",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 73,
+    "indexed_chunks": 136
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria treatment outcomes kenya",
+      "latest malaria therapeutic interventions in kenya",
+      "evidence-based malaria management practices kenya",
+      "epidemiology of malaria treatment in kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\69265b491b4f49a5a14fb27abea260d2\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\69265b491b4f49a5a14fb27abea260d2\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\69265b491b4f49a5a14fb27abea260d2\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\69265b491b4f49a5a14fb27abea260d2\\combined.records.json"
+  }
+}

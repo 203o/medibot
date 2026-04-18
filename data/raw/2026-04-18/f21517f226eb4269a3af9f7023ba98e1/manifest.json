@@ -1,0 +1,60 @@
+{
+  "run_id": "f21517f226eb4269a3af9f7023ba98e1",
+  "stored_at": "2026-04-18T17:06:06+00:00",
+  "query": "lung cancer smoking risk women lung canada",
+  "query_fallbacks": [
+    "lung cancer smoking risk women lung canada",
+    "lung cancer smoking risk women lung",
+    "lung cancer smoking risk women treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer smoking risk women lung canada",
+    "lung cancer smoking risk women lung",
+    "lung cancer smoking risk women treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "lung cancer",
+    "smoking",
+    "risk",
+    "women",
+    "lung",
+    "cancer",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 32,
+    "indexed_chunks": 43
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\f21517f226eb4269a3af9f7023ba98e1\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\f21517f226eb4269a3af9f7023ba98e1\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\f21517f226eb4269a3af9f7023ba98e1\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\f21517f226eb4269a3af9f7023ba98e1\\combined.records.json"
+  }
+}

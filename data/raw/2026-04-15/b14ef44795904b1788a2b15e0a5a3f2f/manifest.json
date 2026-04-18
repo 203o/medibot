@@ -1,0 +1,23 @@
+{
+  "run_id": "b14ef44795904b1788a2b15e0a5a3f2f",
+  "stored_at": "2026-04-15T14:28:16+00:00",
+  "query": "malaria rate of infection malawi",
+  "query_fallbacks": [
+    "malaria rate of infection malawi",
+    "malaria rate of infection",
+    "malaria"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 5
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\b14ef44795904b1788a2b15e0a5a3f2f\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\b14ef44795904b1788a2b15e0a5a3f2f\\clinicaltrials.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\b14ef44795904b1788a2b15e0a5a3f2f\\combined.records.json"
+  }
+}

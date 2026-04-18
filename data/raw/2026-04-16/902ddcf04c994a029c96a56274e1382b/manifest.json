@@ -1,0 +1,75 @@
+{
+  "run_id": "902ddcf04c994a029c96a56274e1382b",
+  "stored_at": "2026-04-16T20:48:04+00:00",
+  "query": "cancer you know about football united states of america",
+  "query_fallbacks": [
+    "cancer you know about football united states of america",
+    "cancer epidemiology united states",
+    "football knowledge cancer patients",
+    "cancer awareness football related injuries",
+    "united states cancer football participation",
+    "cancer you know about football",
+    "cancer you know about treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer you know about football united states of america",
+    "cancer you know about football",
+    "cancer you know about treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology united states",
+    "football knowledge cancer patients",
+    "cancer awareness football related injuries",
+    "united states cancer football participation"
+  ],
+  "keywords": [
+    "cancer",
+    "you",
+    "know",
+    "about",
+    "football",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 59,
+    "indexed_chunks": 95
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology united states",
+      "football knowledge cancer patients",
+      "cancer awareness football related injuries",
+      "united states cancer football participation"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\902ddcf04c994a029c96a56274e1382b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\902ddcf04c994a029c96a56274e1382b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\902ddcf04c994a029c96a56274e1382b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\902ddcf04c994a029c96a56274e1382b\\combined.records.json"
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "enabled": true,
+  "indexed_chunks": 33,
+  "matches": [
+    {
+      "id": "pubmed:37821868:0",
+      "score": 0.8135279417037964,
+      "metadata": {
+        "id": "pubmed:37821868:0",
+        "doc_id": "37821868",
+        "source": "pubmed",
+        "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+        "text": "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:38648401:1",
+      "score": 0.7938572764396667,
+      "metadata": {
+        "id": "pubmed:38648401:1",
+        "doc_id": "38648401",
+        "source": "pubmed",
+        "title": "Kenya must wake up to the threat of cryptic Anopheles species and their impact on residual malaria transmission.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38648401/",
+        "text": "Malaria remains a major health problem in Kenya despite the huge efforts put in place to control it."
+      }
+    },
+    {
+      "id": "pubmed:20507555:0",
+      "score": 0.7768057584762573,
+      "metadata": {
+        "id": "pubmed:20507555:0",
+        "doc_id": "20507555",
+        "source": "pubmed",
+        "title": "Barriers to prompt and effective malaria treatment among the poorest population in Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20507555/",
+        "text": "This paper explores access barriers to effective malaria treatment among the poorest population in four malaria endemic districts in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:37424519:0",
+      "score": 0.775303840637207,
+      "metadata": {
+        "id": "pubmed:37424519:0",
+        "doc_id": "37424519",
+        "source": "pubmed",
+        "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+        "text": "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4405398893:2",
+      "score": 0.773120641708374,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4405398893:2",
+        "doc_id": "https://openalex.org/W4405398893",
+        "source": "openalex",
+        "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+        "study_type": "article",
+        "year": "2024",
+        "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+        "text": "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2487690776:0",
+      "score": 0.7648018598556519,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2487690776:0",
+        "doc_id": "https://openalex.org/W2487690776",
+        "source": "openalex",
+        "title": "Drug-susceptibility and molecular characterization of epidemic and endemic malaria in Kenya",
+        "study_type": "dissertation",
+        "year": "2002",
+        "url": "https://doi.org/10.17037/PUBS.04656622>",
+        "text": "Malaria in Kenya continues to pose a great threat to health."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04695197:2",
+      "score": 0.7632737159729004,
+      "metadata": {
+        "id": "clinicaltrials:NCT04695197:2",
+        "doc_id": "NCT04695197",
+        "source": "clinicaltrials",
+        "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04695197",
+        "text": "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      }
+    },
+    {
+      "id": "pubmed:36683700:1",
+      "score": 0.762846827507019,
+      "metadata": {
+        "id": "pubmed:36683700:1",
+        "doc_id": "36683700",
+        "source": "pubmed",
+        "title": "Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.",
+        "study_type": "Review, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36683700/",
+        "text": "We conclude that DHAP is highly efficacious in the treatment of uncomplicated malaria in Ghana."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767191:2",
+      "score": 0.7598202228546143,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767191:2",
+        "doc_id": "NCT04767191",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04767191",
+        "text": "In line with this WHO recommendation, Kenya Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether lumefantrine (AL), and dihydroartemisinin-piperaquine (DHP), the first and second line treatment of uncomplicated malaria in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:39800719:0",
+      "score": 0.7594622373580933,
+      "metadata": {
+        "id": "pubmed:39800719:0",
+        "doc_id": "39800719",
+        "source": "pubmed",
+        "title": "Malaria prevalence, transmission potential and efficacy of artemisinin-based combination therapy in the Kenyan Central highlands: a zone previously characterized as malaria-free.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39800719/",
+        "text": "The current study sought to re-evaluate malaria prevalence, susceptibility to artemisinin-based combination therapy (ACT), transmission patterns and the presence of malaria vectors in the Kikuyu area of the Kenyan Central highlands, a non-traditional/low risk malaria transmission zone where there have been anecdotal reports of emerging malaria infections."
+      }
+    },
+    {
+      "id": "pubmed:40700688:2",
+      "score": 0.7590832114219666,
+      "metadata": {
+        "id": "pubmed:40700688:2",
+        "doc_id": "40700688",
+        "source": "pubmed",
+        "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+        "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+        "text": "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      }
+    },
+    {
+      "id": "pubmed:36352453:2",
+      "score": 0.7561402320861816,
+      "metadata": {
+        "id": "pubmed:36352453:2",
+        "doc_id": "36352453",
+        "source": "pubmed",
+        "title": "A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36352453/",
+        "text": "Malaria in western Kenya is currently characterized by sustained high Plasmodial transmission and infection resurgence, despite positive responses in some areas following intensified malaria control interventions since 2006."
+      }
+    },
+    {
+      "id": "pubmed:19036154:0",
+      "score": 0.7555745244026184,
+      "metadata": {
+        "id": "pubmed:19036154:0",
+        "doc_id": "19036154",
+        "source": "pubmed",
+        "title": "Malaria treatment-seeking behaviour and recovery from malaria in a highland area of Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19036154/",
+        "text": "To assess treatment-seeking behaviour for malaria in these areas, a questionnaire was administered to 117 randomly selected households in the highland area of Kipsamoite, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:36890544:1",
+      "score": 0.7549076080322266,
+      "metadata": {
+        "id": "pubmed:36890544:1",
+        "doc_id": "36890544",
+        "source": "pubmed",
+        "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+        "text": "In western Kenya, not all malaria cases are reported as stipulated in the community case management of malaria (CCMm) strategy."
+      }
+    },
+    {
+      "id": "pubmed:8758085:0",
+      "score": 0.7529319524765015,
+      "metadata": {
+        "id": "pubmed:8758085:0",
+        "doc_id": "8758085",
+        "source": "pubmed",
+        "title": "A malariometric survey in Turkana District, Kenya: chemosensitivity in vivo of Plasmodium falciparum infections and identity of the vector.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8758085/",
+        "text": "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya."
+      }
+    },
+    {
+      "id": "pubmed:35248055:2",
+      "score": 0.75086510181427,
+      "metadata": {
+        "id": "pubmed:35248055:2",
+        "doc_id": "35248055",
+        "source": "pubmed",
+        "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+        "text": "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      }
+    },
+    {
+      "id": "pubmed:25318705:0",
+      "score": 0.7504856586456299,
+      "metadata": {
+        "id": "pubmed:25318705:0",
+        "doc_id": "25318705",
+        "source": "pubmed",
+        "title": "Clinical malaria case definition and malaria attributable fraction in the highlands of western Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25318705/",
+        "text": "Cases of clinical malaria through active case surveillance were quantified in a highland area in Kenya and defined clinical malaria for different age groups."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4395073970:0",
+      "score": 0.7490962743759155,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4395073970:0",
+        "doc_id": "https://openalex.org/W4395073970",
+        "source": "openalex",
+        "title": "Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges",
+        "study_type": "review",
+        "year": "2024",
+        "url": "https://doi.org/10.1007/s44197-024-00228-2",
+        "text": "African countries have made certain progress in malaria control and elimination, including rapid diagnosis of malaria, promotion of mosquito nets and insecticides, intermittent prophylactic treatment in high-risk groups, artemisinin based combination therapies, and the development of vaccines."
+      }
+    },
+    {
+      "id": "pubmed:32324850:0",
+      "score": 0.7478359341621399,
+      "metadata": {
+        "id": "pubmed:32324850:0",
+        "doc_id": "32324850",
+        "source": "pubmed",
+        "title": "Impact of Community-Based Mass Testing and Treatment on Malaria Infection Prevalence in a High-Transmission Area of Western Kenya: A Cluster Randomized Controlled Trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32324850/",
+        "text": "We studied the efficacy of repeated rounds of community-based mass testing and treatment (MTaT) on malaria infection prevalence in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:18482078:0",
+      "score": 0.7454982995986938,
+      "metadata": {
+        "id": "pubmed:18482078:0",
+        "doc_id": "18482078",
+        "source": "pubmed",
+        "title": "Effects of revised diagnostic recommendations on malaria treatment practices across age groups in Kenya.",
+        "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18482078/",
+        "text": "The recent change of treatment policy for uncomplicated malaria from sulfadoxine-pyrime-thamine to artemether-lumefantrine (AL) in Kenya was accompanied by revised malaria diagnosis recommendations promoting presumptive antimalarial treatment in young children and parasitological diagnosis in patients 5 years and older."
+      }
+    },
+    {
+      "id": "pubmed:37433031:0",
+      "score": 0.7439291477203369,
+      "metadata": {
+        "id": "pubmed:37433031:0",
+        "doc_id": "37433031",
+        "source": "pubmed",
+        "title": "Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37433031/",
+        "text": "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled."
+      }
+    },
+    {
+      "id": "pubmed:27254098:1",
+      "score": 0.7430887818336487,
+      "metadata": {
+        "id": "pubmed:27254098:1",
+        "doc_id": "27254098",
+        "source": "pubmed",
+        "title": "Single dose treatment of malaria - current status and perspectives.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27254098/",
+        "text": "Currently, artemisinin-based combination therapies are the treatment of choice for uncomplicated malaria exhibiting high efficacy in clinical trial settings in sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "pubmed:36890544:0",
+      "score": 0.7426033020019531,
+      "metadata": {
+        "id": "pubmed:36890544:0",
+        "doc_id": "36890544",
+        "source": "pubmed",
+        "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+        "text": "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05757167:1",
+      "score": 0.7414668202400208,
+      "metadata": {
+        "id": "clinicaltrials:NCT05757167:1",
+        "doc_id": "NCT05757167",
+        "source": "clinicaltrials",
+        "title": "Improving Neonatal Health Through Rapid Malaria Testing in Early Pregnancy With High-Sensitivity Diagnostics",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05757167",
+        "text": "falciparum malaria in Kenya and the Democratic Republic of the Congo."
+      }
+    },
+    {
+      "id": "pubmed:37424519:2",
+      "score": 0.7398269772529602,
+      "metadata": {
+        "id": "pubmed:37424519:2",
+        "doc_id": "37424519",
+        "source": "pubmed",
+        "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+        "text": "Malaria continues to be a public health problem in Kenya, with an estimated 37.2 million people at high risk of the disease."
+      }
+    },
+    {
+      "id": "pubmed:31299976:1",
+      "score": 0.7379711270332336,
+      "metadata": {
+        "id": "pubmed:31299976:1",
+        "doc_id": "31299976",
+        "source": "pubmed",
+        "title": "Targeting remaining pockets of malaria transmission in Kenya to hasten progress towards national elimination goals: an assessment of prevalence and risk factors in children from the Lake endemic region.",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31299976/",
+        "text": "In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country."
+      }
+    },
+    {
+      "id": "pubmed:39736740:1",
+      "score": 0.7372424006462097,
+      "metadata": {
+        "id": "pubmed:39736740:1",
+        "doc_id": "39736740",
+        "source": "pubmed",
+        "title": "Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.",
+        "study_type": "Clinical Trial, Phase III, Journal Article, Randomized Controlled Trial",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39736740/",
+        "text": "In western Kenya, the burden of malaria in children remains high."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00379821:2",
+      "score": 0.73357754945755,
+      "metadata": {
+        "id": "clinicaltrials:NCT00379821:2",
+        "doc_id": "NCT00379821",
+        "source": "clinicaltrials",
+        "title": "Chloroquine Alone or in Combination for Malaria in Children in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00379821",
+        "text": "Combination therapy is becoming the mainstay of malaria treatment."
+      }
+    },
+    {
+      "id": "pubmed:30744665:2",
+      "score": 0.731343150138855,
+      "metadata": {
+        "id": "pubmed:30744665:2",
+        "doc_id": "30744665",
+        "source": "pubmed",
+        "title": "A previously unreported potential malaria vector in a dry ecology of Kenya.",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30744665/",
+        "text": "In Kenya, malaria remains a major public health menace equally affecting the semi-arid to arid ecologies."
+      }
+    },
+    {
+      "id": "pubmed:12023907:0",
+      "score": 0.7291375398635864,
+      "metadata": {
+        "id": "pubmed:12023907:0",
+        "doc_id": "12023907",
+        "source": "pubmed",
+        "title": "Clinical epidemiology of malaria in the highlands of western Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12023907/",
+        "text": "Two decades of inpatient malaria admission data from three health facilities in a high-altitude area of western Kenya do not support the canonical view of unstable transmission."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02671175:0",
+      "score": 0.7222754955291748,
+      "metadata": {
+        "id": "clinicaltrials:NCT02671175:0",
+        "doc_id": "NCT02671175",
+        "source": "clinicaltrials",
+        "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02671175",
+        "text": "This study is a confirmatory efficacy trial in Kenya and Uganda to determine the efficacy and safety of malaria chemoprevention post-discharge."
+      }
+    },
+    {
+      "id": "pubmed:15984377:1",
+      "score": 0.7215628027915955,
+      "metadata": {
+        "id": "pubmed:15984377:1",
+        "doc_id": "15984377",
+        "source": "pubmed",
+        "title": "Malaria in travelers returning from short organized tours to holiday resorts in Mombassa, Kenya.",
+        "study_type": "Case Reports, Journal Article",
+        "year": "2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15984377/",
+        "text": "To characterize the demographic and clinical features of malaria acquired in Kenya, and to assess the adequacy of preventive measures."
+      }
+    },
+    {
+      "id": "pubmed:37604474:0",
+      "score": 0.7209692597389221,
+      "metadata": {
+        "id": "pubmed:37604474:0",
+        "doc_id": "37604474",
+        "source": "pubmed",
+        "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+        "text": "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      }
+    },
+    {
+      "id": "pubmed:31801562:1",
+      "score": 0.7179056406021118,
+      "metadata": {
+        "id": "pubmed:31801562:1",
+        "doc_id": "31801562",
+        "source": "pubmed",
+        "title": "Gametocyte clearance in children, from western Kenya, with uncomplicated Plasmodium falciparum malaria after artemether-lumefantrine or dihydroartemisinin-piperaquine treatment.",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31801562/",
+        "text": "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment."
+      }
+    },
+    {
+      "id": "pubmed:34339387:0",
+      "score": 0.7170875072479248,
+      "metadata": {
+        "id": "pubmed:34339387:0",
+        "doc_id": "34339387",
+        "source": "pubmed",
+        "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+        "study_type": "Publication",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+        "text": "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning."
+      }
+    },
+    {
+      "id": "pubmed:36962553:0",
+      "score": 0.7140480279922485,
+      "metadata": {
+        "id": "pubmed:36962553:0",
+        "doc_id": "36962553",
+        "source": "pubmed",
+        "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+        "study_type": "Publication",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+        "text": "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      }
+    },
+    {
+      "id": "pubmed:24958707:0",
+      "score": 0.7137250900268555,
+      "metadata": {
+        "id": "pubmed:24958707:0",
+        "doc_id": "24958707",
+        "source": "pubmed",
+        "title": "Changes in antigen-specific cytokine and chemokine responses to Plasmodium falciparum antigens in a highland area of Kenya after a prolonged absence of malaria exposure.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24958707/",
+        "text": "A highland area of Kenya with low and unstable malaria transmission provided an opportunity to study this question."
+      }
+    },
+    {
+      "id": "pubmed:34987048:0",
+      "score": 0.7125418186187744,
+      "metadata": {
+        "id": "pubmed:34987048:0",
+        "doc_id": "34987048",
+        "source": "pubmed",
+        "title": "Cross-sectional study to predict subnational levels of health workers' knowledge about severe malaria treatment in Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34987048/",
+        "text": "Knowledge of severe malaria treatment policies is not adequately and optimally available among health workers across Kenya."
+      }
+    },
+    {
+      "id": "pubmed:36036611:0",
+      "score": 0.7123262882232666,
+      "metadata": {
+        "id": "pubmed:36036611:0",
+        "doc_id": "36036611",
+        "source": "pubmed",
+        "title": "Efficacy of Artemether-Lumefantrine and Dihydroartemisinin-Piperaquine for the Treatment of Uncomplicated Plasmodium falciparum Malaria among Children in Western Kenya, 2016 to 2017.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S., Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36036611/",
+        "text": "Both AL and DP were efficacious (per WHO 90% cutoff in the confidence interval) and well tolerated for the treatment of uncomplicated malaria in western Kenya, but AL efficacy appears to be waning."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT07362498:0",
+      "score": 0.7099723219871521,
+      "metadata": {
+        "id": "clinicaltrials:NCT07362498:0",
+        "doc_id": "NCT07362498",
+        "source": "clinicaltrials",
+        "title": "Health Systems Implementation and Molecular Surveillance of Multiple First-Line Treatments for Uncomplicated Malaria in Western Kenya",
+        "study_type": "OBSERVATIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT07362498",
+        "text": "This implementation study evaluated the health systems feasibility, economic costs, and stakeholder acceptability of deploying multiple first-line therapies (MFTs) that were of the artemisinin-based combination therapies (ACTs) type, for uncomplicated malaria in Western Kenya."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "37821868",
+      "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+      "semantic_score": 0.8135279417037964,
+      "matched_sentences": [
+        "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38648401",
+      "title": "Kenya must wake up to the threat of cryptic Anopheles species and their impact on residual malaria transmission.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38648401/",
+      "semantic_score": 0.7938572764396667,
+      "matched_sentences": [
+        "Malaria remains a major health problem in Kenya despite the huge efforts put in place to control it."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "20507555",
+      "title": "Barriers to prompt and effective malaria treatment among the poorest population in Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20507555/",
+      "semantic_score": 0.7768057584762573,
+      "matched_sentences": [
+        "This paper explores access barriers to effective malaria treatment among the poorest population in four malaria endemic districts in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37424519",
+      "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+      "semantic_score": 0.775303840637207,
+      "matched_sentences": [
+        "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions.",
+        "Malaria continues to be a public health problem in Kenya, with an estimated 37.2 million people at high risk of the disease."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4405398893",
+      "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+      "study_type": "article",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+      "semantic_score": 0.773120641708374,
+      "matched_sentences": [
+        "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2487690776",
+      "title": "Drug-susceptibility and molecular characterization of epidemic and endemic malaria in Kenya",
+      "study_type": "dissertation",
+      "year": "2002",
+      "url": "https://doi.org/10.17037/PUBS.04656622>",
+      "semantic_score": 0.7648018598556519,
+      "matched_sentences": [
+        "Malaria in Kenya continues to pose a great threat to health."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04695197",
+      "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04695197",
+      "semantic_score": 0.7632737159729004,
+      "matched_sentences": [
+        "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36683700",
+      "title": "Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.",
+      "study_type": "Review, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36683700/",
+      "semantic_score": 0.762846827507019,
+      "matched_sentences": [
+        "We conclude that DHAP is highly efficacious in the treatment of uncomplicated malaria in Ghana."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04767191",
+      "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04767191",
+      "semantic_score": 0.7598202228546143,
+      "matched_sentences": [
+        "In line with this WHO recommendation, Kenya Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether lumefantrine (AL), and dihydroartemisinin-piperaquine (DHP), the first and second line treatment of uncomplicated malaria in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39800719",
+      "title": "Malaria prevalence, transmission potential and efficacy of artemisinin-based combination therapy in the Kenyan Central highlands: a zone previously characterized as malaria-free.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39800719/",
+      "semantic_score": 0.7594622373580933,
+      "matched_sentences": [
+        "The current study sought to re-evaluate malaria prevalence, susceptibility to artemisinin-based combination therapy (ACT), transmission patterns and the presence of malaria vectors in the Kikuyu area of the Kenyan Central highlands, a non-traditional/low risk malaria transmission zone where there have been anecdotal reports of emerging malaria infections."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40700688",
+      "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+      "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+      "semantic_score": 0.7590832114219666,
+      "matched_sentences": [
+        "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36352453",
+      "title": "A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36352453/",
+      "semantic_score": 0.7561402320861816,
+      "matched_sentences": [
+        "Malaria in western Kenya is currently characterized by sustained high Plasmodial transmission and infection resurgence, despite positive responses in some areas following intensified malaria control interventions since 2006."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "19036154",
+      "title": "Malaria treatment-seeking behaviour and recovery from malaria in a highland area of Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19036154/",
+      "semantic_score": 0.7555745244026184,
+      "matched_sentences": [
+        "To assess treatment-seeking behaviour for malaria in these areas, a questionnaire was administered to 117 randomly selected households in the highland area of Kipsamoite, Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36890544",
+      "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+      "semantic_score": 0.7549076080322266,
+      "matched_sentences": [
+        "In western Kenya, not all malaria cases are reported as stipulated in the community case management of malaria (CCMm) strategy.",
+        "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "8758085",
+      "title": "A malariometric survey in Turkana District, Kenya: chemosensitivity in vivo of Plasmodium falciparum infections and identity of the vector.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8758085/",
+      "semantic_score": 0.7529319524765015,
+      "matched_sentences": [
+        "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35248055",
+      "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+      "semantic_score": 0.75086510181427,
+      "matched_sentences": [
+        "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25318705",
+      "title": "Clinical malaria case definition and malaria attributable fraction in the highlands of western Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25318705/",
+      "semantic_score": 0.7504856586456299,
+      "matched_sentences": [
+        "Cases of clinical malaria through active case surveillance were quantified in a highland area in Kenya and defined clinical malaria for different age groups."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4395073970",
+      "title": "Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges",
+      "study_type": "review",
+      "year": "2024",
+      "url": "https://doi.org/10.1007/s44197-024-00228-2",
+      "semantic_score": 0.7490962743759155,
+      "matched_sentences": [
+        "African countries have made certain progress in malaria control and elimination, including rapid diagnosis of malaria, promotion of mosquito nets and insecticides, intermittent prophylactic treatment in high-risk groups, artemisinin based combination therapies, and the development of vaccines."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32324850",
+      "title": "Impact of Community-Based Mass Testing and Treatment on Malaria Infection Prevalence in a High-Transmission Area of Western Kenya: A Cluster Randomized Controlled Trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32324850/",
+      "semantic_score": 0.7478359341621399,
+      "matched_sentences": [
+        "We studied the efficacy of repeated rounds of community-based mass testing and treatment (MTaT) on malaria infection prevalence in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18482078",
+      "title": "Effects of revised diagnostic recommendations on malaria treatment practices across age groups in Kenya.",
+      "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18482078/",
+      "semantic_score": 0.7454982995986938,
+      "matched_sentences": [
+        "The recent change of treatment policy for uncomplicated malaria from sulfadoxine-pyrime-thamine to artemether-lumefantrine (AL) in Kenya was accompanied by revised malaria diagnosis recommendations promoting presumptive antimalarial treatment in young children and parasitological diagnosis in patients 5 years and older."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37433031",
+      "title": "Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37433031/",
+      "semantic_score": 0.7439291477203369,
+      "matched_sentences": [
+        "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27254098",
+      "title": "Single dose treatment of malaria - current status and perspectives.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27254098/",
+      "semantic_score": 0.7430887818336487,
+      "matched_sentences": [
+        "Currently, artemisinin-based combination therapies are the treatment of choice for uncomplicated malaria exhibiting high efficacy in clinical trial settings in sub-Saharan Africa."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05757167",
+      "title": "Improving Neonatal Health Through Rapid Malaria Testing in Early Pregnancy With High-Sensitivity Diagnostics",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05757167",
+      "semantic_score": 0.7414668202400208,
+      "matched_sentences": [
+        "falciparum malaria in Kenya and the Democratic Republic of the Congo."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31299976",
+      "title": "Targeting remaining pockets of malaria transmission in Kenya to hasten progress towards national elimination goals: an assessment of prevalence and risk factors in children from the Lake endemic region.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31299976/",
+      "semantic_score": 0.7379711270332336,
+      "matched_sentences": [
+        "In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39736740",
+      "title": "Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.",
+      "study_type": "Clinical Trial, Phase III, Journal Article, Randomized Controlled Trial",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39736740/",
+      "semantic_score": 0.7372424006462097,
+      "matched_sentences": [
+        "In western Kenya, the burden of malaria in children remains high."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00379821",
+      "title": "Chloroquine Alone or in Combination for Malaria in Children in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00379821",
+      "semantic_score": 0.73357754945755,
+      "matched_sentences": [
+        "Combination therapy is becoming the mainstay of malaria treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30744665",
+      "title": "A previously unreported potential malaria vector in a dry ecology of Kenya.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30744665/",
+      "semantic_score": 0.731343150138855,
+      "matched_sentences": [
+        "In Kenya, malaria remains a major public health menace equally affecting the semi-arid to arid ecologies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12023907",
+      "title": "Clinical epidemiology of malaria in the highlands of western Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12023907/",
+      "semantic_score": 0.7291375398635864,
+      "matched_sentences": [
+        "Two decades of inpatient malaria admission data from three health facilities in a high-altitude area of western Kenya do not support the canonical view of unstable transmission."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02671175",
+      "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02671175",
+      "semantic_score": 0.7222754955291748,
+      "matched_sentences": [
+        "This study is a confirmatory efficacy trial in Kenya and Uganda to determine the efficacy and safety of malaria chemoprevention post-discharge."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15984377",
+      "title": "Malaria in travelers returning from short organized tours to holiday resorts in Mombassa, Kenya.",
+      "study_type": "Case Reports, Journal Article",
+      "year": "2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15984377/",
+      "semantic_score": 0.7215628027915955,
+      "matched_sentences": [
+        "To characterize the demographic and clinical features of malaria acquired in Kenya, and to assess the adequacy of preventive measures."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37604474",
+      "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+      "semantic_score": 0.7209692597389221,
+      "matched_sentences": [
+        "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31801562",
+      "title": "Gametocyte clearance in children, from western Kenya, with uncomplicated Plasmodium falciparum malaria after artemether-lumefantrine or dihydroartemisinin-piperaquine treatment.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31801562/",
+      "semantic_score": 0.7179056406021118,
+      "matched_sentences": [
+        "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34339387",
+      "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+      "study_type": "Publication",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+      "semantic_score": 0.7170875072479248,
+      "matched_sentences": [
+        "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36962553",
+      "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+      "study_type": "Publication",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+      "semantic_score": 0.7140480279922485,
+      "matched_sentences": [
+        "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24958707",
+      "title": "Changes in antigen-specific cytokine and chemokine responses to Plasmodium falciparum antigens in a highland area of Kenya after a prolonged absence of malaria exposure.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24958707/",
+      "semantic_score": 0.7137250900268555,
+      "matched_sentences": [
+        "A highland area of Kenya with low and unstable malaria transmission provided an opportunity to study this question."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34987048",
+      "title": "Cross-sectional study to predict subnational levels of health workers' knowledge about severe malaria treatment in Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34987048/",
+      "semantic_score": 0.7125418186187744,
+      "matched_sentences": [
+        "Knowledge of severe malaria treatment policies is not adequately and optimally available among health workers across Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36036611",
+      "title": "Efficacy of Artemether-Lumefantrine and Dihydroartemisinin-Piperaquine for the Treatment of Uncomplicated Plasmodium falciparum Malaria among Children in Western Kenya, 2016 to 2017.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S., Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36036611/",
+      "semantic_score": 0.7123262882232666,
+      "matched_sentences": [
+        "Both AL and DP were efficacious (per WHO 90% cutoff in the confidence interval) and well tolerated for the treatment of uncomplicated malaria in western Kenya, but AL efficacy appears to be waning."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07362498",
+      "title": "Health Systems Implementation and Molecular Surveillance of Multiple First-Line Treatments for Uncomplicated Malaria in Western Kenya",
+      "study_type": "OBSERVATIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07362498",
+      "semantic_score": 0.7099723219871521,
+      "matched_sentences": [
+        "This implementation study evaluated the health systems feasibility, economic costs, and stakeholder acceptability of deploying multiple first-line therapies (MFTs) that were of the artemisinin-based combination therapies (ACTs) type, for uncomplicated malaria in Western Kenya."
+      ]
+    }
+  ]
+}

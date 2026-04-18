@@ -1,0 +1,76 @@
+{
+  "run_id": "854c7d00c6dc4acc908fa219f8eac34b",
+  "stored_at": "2026-04-16T21:05:14+00:00",
+  "query": "cancer latest treatment therapy management united states of america",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management united states of america",
+    "(cancer OR carcinoma OR neoplasm) AND (treatment OR therapy) AND (lung OR pulmonary) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence based medicine OR systematic review) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence synthesis OR meta analysis) AND (united states OR usa OR american OR north america)",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management united states of america",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(cancer OR carcinoma OR neoplasm) AND (treatment OR therapy) AND (lung OR pulmonary) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence based medicine OR systematic review) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+    "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence synthesis OR meta analysis) AND (united states OR usa OR american OR north america)"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(cancer OR carcinoma OR neoplasm) AND (treatment OR therapy) AND (lung OR pulmonary) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+      "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence based medicine OR systematic review) AND (united states OR usa OR american OR north america)",
+      "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (epidemiology OR prevalence OR incidence) AND (united states OR usa OR american OR north america)",
+      "(lung OR pulmonary) cancer AND (treatment OR therapy) AND (evidence synthesis OR meta analysis) AND (united states OR usa OR american OR north america)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\854c7d00c6dc4acc908fa219f8eac34b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\854c7d00c6dc4acc908fa219f8eac34b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\854c7d00c6dc4acc908fa219f8eac34b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\854c7d00c6dc4acc908fa219f8eac34b\\combined.records.json"
+  }
+}

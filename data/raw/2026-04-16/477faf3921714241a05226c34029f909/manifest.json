@@ -1,0 +1,75 @@
+{
+  "run_id": "477faf3921714241a05226c34029f909",
+  "stored_at": "2026-04-16T13:57:21+00:00",
+  "query": "hiv studie showing caouses increase africa",
+  "query_fallbacks": [
+    "hiv studie showing caouses increase africa",
+    "(HIV OR AIDS) AND (epidemiology OR risk factors) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric)",
+    "(HIV transmission OR HIV incidence) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (risk factors OR determinants)",
+    "(HIV prevalence OR HIV burden) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (causes OR correlates)",
+    "(HIV OR AIDS) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (epidemiological studies OR systematic reviews)",
+    "hiv studie showing caouses increase",
+    "hiv studie showing caouses treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv studie showing caouses increase africa",
+    "hiv studie showing caouses increase",
+    "hiv studie showing caouses treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "(HIV OR AIDS) AND (epidemiology OR risk factors) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric)",
+    "(HIV transmission OR HIV incidence) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (risk factors OR determinants)",
+    "(HIV prevalence OR HIV burden) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (causes OR correlates)",
+    "(HIV OR AIDS) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (epidemiological studies OR systematic reviews)"
+  ],
+  "keywords": [
+    "hiv",
+    "studie",
+    "showing",
+    "caouses",
+    "increase",
+    "africa",
+    "among",
+    "children"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 21,
+    "openalex": 0,
+    "semantic_hits": 62,
+    "indexed_chunks": 81
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(HIV OR AIDS) AND (epidemiology OR risk factors) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric)",
+      "(HIV transmission OR HIV incidence) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (risk factors OR determinants)",
+      "(HIV prevalence OR HIV burden) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (causes OR correlates)",
+      "(HIV OR AIDS) AND (Africa OR sub-Saharan Africa) AND (children OR pediatric) AND (epidemiological studies OR systematic reviews)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\477faf3921714241a05226c34029f909\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\477faf3921714241a05226c34029f909\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\477faf3921714241a05226c34029f909\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\477faf3921714241a05226c34029f909\\combined.records.json"
+  }
+}

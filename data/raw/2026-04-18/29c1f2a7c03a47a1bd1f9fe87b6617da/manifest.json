@@ -1,0 +1,66 @@
+{
+  "run_id": "29c1f2a7c03a47a1bd1f9fe87b6617da",
+  "stored_at": "2026-04-18T10:17:36+00:00",
+  "query": "malaria malaria greeting",
+  "query_fallbacks": [
+    "malaria malaria greeting",
+    "malaria epidemiology",
+    "malaria transmission dynamics",
+    "malaria vector-borne disease",
+    "malaria endemic region",
+    "malaria malaria greeting treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria greeting",
+    "malaria malaria greeting treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology",
+    "malaria transmission dynamics",
+    "malaria vector-borne disease",
+    "malaria endemic region"
+  ],
+  "keywords": [
+    "malaria",
+    "greeting"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 3,
+    "clinicaltrials": 30,
+    "openalex": 30,
+    "semantic_hits": 36,
+    "indexed_chunks": 102
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology",
+      "malaria transmission dynamics",
+      "malaria vector-borne disease",
+      "malaria endemic region"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\29c1f2a7c03a47a1bd1f9fe87b6617da\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\29c1f2a7c03a47a1bd1f9fe87b6617da\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\29c1f2a7c03a47a1bd1f9fe87b6617da\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\29c1f2a7c03a47a1bd1f9fe87b6617da\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\29c1f2a7c03a47a1bd1f9fe87b6617da\\combined.records.json"
+  }
+}

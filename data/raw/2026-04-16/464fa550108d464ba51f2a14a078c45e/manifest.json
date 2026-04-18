@@ -1,0 +1,72 @@
+{
+  "run_id": "464fa550108d464ba51f2a14a078c45e",
+  "stored_at": "2026-04-16T17:53:43+00:00",
+  "query": "hiv rate infections children africa",
+  "query_fallbacks": [
+    "hiv rate infections children africa",
+    "incidence HIV infection in African children",
+    "epidemiology of pediatric HIV in Africa",
+    "HIV transmission rates among African youth",
+    "prevalence of HIV in African pediatric populations",
+    "hiv rate infections children",
+    "hiv rate infections children treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv rate infections children africa",
+    "hiv rate infections children",
+    "hiv rate infections children treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "incidence HIV infection in African children",
+    "epidemiology of pediatric HIV in Africa",
+    "HIV transmission rates among African youth",
+    "prevalence of HIV in African pediatric populations"
+  ],
+  "keywords": [
+    "hiv",
+    "rate",
+    "infections",
+    "children",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 26,
+    "openalex": 0,
+    "semantic_hits": 63,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "incidence HIV infection in African children",
+      "epidemiology of pediatric HIV in Africa",
+      "HIV transmission rates among African youth",
+      "prevalence of HIV in African pediatric populations"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\464fa550108d464ba51f2a14a078c45e\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\464fa550108d464ba51f2a14a078c45e\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\464fa550108d464ba51f2a14a078c45e\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\464fa550108d464ba51f2a14a078c45e\\combined.records.json"
+  }
+}

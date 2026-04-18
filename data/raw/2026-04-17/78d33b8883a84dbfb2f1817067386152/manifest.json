@@ -1,0 +1,67 @@
+{
+  "run_id": "78d33b8883a84dbfb2f1817067386152",
+  "stored_at": "2026-04-17T22:56:12+00:00",
+  "query": "cancer cancer leading causes death",
+  "query_fallbacks": [
+    "cancer cancer leading causes death",
+    "cancer mortality risk factors",
+    "leading causes of cancer deaths",
+    "cancer epidemiology mortality trends",
+    "cancer mortality statistics worldwide",
+    "cancer cancer leading causes treatment",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer leading causes death",
+    "cancer cancer leading causes treatment",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer mortality risk factors",
+    "leading causes of cancer deaths",
+    "cancer epidemiology mortality trends",
+    "cancer mortality statistics worldwide"
+  ],
+  "keywords": [
+    "cancer",
+    "leading",
+    "causes",
+    "death"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 31,
+    "indexed_chunks": 149
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer mortality risk factors",
+      "leading causes of cancer deaths",
+      "cancer epidemiology mortality trends",
+      "cancer mortality statistics worldwide"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\78d33b8883a84dbfb2f1817067386152\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\78d33b8883a84dbfb2f1817067386152\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\78d33b8883a84dbfb2f1817067386152\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\78d33b8883a84dbfb2f1817067386152\\combined.records.json"
+  }
+}

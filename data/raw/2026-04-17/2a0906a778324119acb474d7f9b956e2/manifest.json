@@ -1,0 +1,76 @@
+{
+  "run_id": "2a0906a778324119acb474d7f9b956e2",
+  "stored_at": "2026-04-17T00:00:44+00:00",
+  "query": "lung cancer you compare cancer deaths USA",
+  "query_fallbacks": [
+    "lung cancer you compare cancer deaths USA",
+    "lung cancer mortality rates Africa vs Canada",
+    "comparing lung cancer death rates Africa Canada",
+    "epidemiology of lung cancer deaths Africa Canada",
+    "lung cancer mortality comparison Africa Canada",
+    "lung cancer you compare cancer deaths",
+    "lung cancer you compare cancer treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer you compare cancer deaths USA",
+    "lung cancer you compare cancer deaths",
+    "lung cancer you compare cancer treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer mortality rates Africa vs Canada",
+    "comparing lung cancer death rates Africa Canada",
+    "epidemiology of lung cancer deaths Africa Canada",
+    "lung cancer mortality comparison Africa Canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "you",
+    "compare",
+    "cancer",
+    "deaths",
+    "africa",
+    "canada",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 2,
+    "openalex": 30,
+    "semantic_hits": 56,
+    "indexed_chunks": 65
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer mortality rates Africa vs Canada",
+      "comparing lung cancer death rates Africa Canada",
+      "epidemiology of lung cancer deaths Africa Canada",
+      "lung cancer mortality comparison Africa Canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2a0906a778324119acb474d7f9b956e2\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2a0906a778324119acb474d7f9b956e2\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2a0906a778324119acb474d7f9b956e2\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2a0906a778324119acb474d7f9b956e2\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2a0906a778324119acb474d7f9b956e2\\combined.records.json"
+  }
+}

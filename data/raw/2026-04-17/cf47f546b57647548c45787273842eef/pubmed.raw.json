@@ -1,0 +1,1177 @@
+{
+  "query": "cancer non cancer studies usa USA",
+  "selected_query": "cancer non cancer studies usa USA",
+  "attempted_queries": [
+    {
+      "query": "cancer non cancer studies usa USA",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "39753139",
+    "15308095",
+    "31836838",
+    "34508258",
+    "37366925",
+    "34168109",
+    "36454335",
+    "29032295",
+    "37095596",
+    "39000164",
+    "31030667",
+    "36566154",
+    "22519802",
+    "40494090",
+    "40765333",
+    "38904271",
+    "36332746",
+    "34097189",
+    "31836455",
+    "24629333",
+    "36443206",
+    "12628511",
+    "40088375",
+    "28803888",
+    "16595142",
+    "30878527",
+    "38731883",
+    "39747865",
+    "15569600",
+    "26893066"
+  ],
+  "records": [
+    {
+      "pmid": "39753139",
+      "title": "Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "Molecular subtypes, such as defined by The Cancer Genome Atlas (TCGA), delineate a cancer's underlying biology, bringing hope to inform a patient's prognosis and treatment plan. However, most approaches used in the discovery of subtypes are not suitable for assigning subtype labels to new cancer specimens from other studies or clinical trials. Here, we address this barrier by applying five different machine learning approaches to multi-omic data from 8,791 TCGA tumor samples comprising 106 subtypes from 26 different cancer cohorts to build models based upon small numbers of features that can classify new samples into previously defined TCGA molecular subtypes-a step toward molecular subtype application in the clinic. We validate select classifiers using external datasets. Predictive performance and classifier-selected features yield insight into the different machine-learning approaches and genomic data platforms. For each cancer and data type we provide containerized versions of the top-performing models as a public resource."
+      ],
+      "abstract": "Molecular subtypes, such as defined by The Cancer Genome Atlas (TCGA), delineate a cancer's underlying biology, bringing hope to inform a patient's prognosis and treatment plan. However, most approaches used in the discovery of subtypes are not suitable for assigning subtype labels to new cancer specimens from other studies or clinical trials. Here, we address this barrier by applying five different machine learning approaches to multi-omic data from 8,791 TCGA tumor samples comprising 106 subtypes from 26 different cancer cohorts to build models based upon small numbers of features that can classify new samples into previously defined TCGA molecular subtypes-a step toward molecular subtype application in the clinic. We validate select classifiers using external datasets. Predictive performance and classifier-selected features yield insight into the different machine-learning approaches and genomic data platforms. For each cancer and data type we provide containerized versions of the top-performing models as a public resource.",
+      "evidence_sentences": [
+        "However, most approaches used in the discovery of subtypes are not suitable for assigning subtype labels to new cancer specimens from other studies or clinical trials.",
+        "Molecular subtypes, such as defined by The Cancer Genome Atlas (TCGA), delineate a cancer's underlying biology, bringing hope to inform a patient's prognosis and treatment plan.",
+        "Here, we address this barrier by applying five different machine learning approaches to multi-omic data from 8,791 TCGA tumor samples comprising 106 subtypes from 26 different cancer cohorts to build models based upon small numbers of features that can classify new samples into previously defined TCGA molecular subtypes-a step toward molecular subtype application in the clinic."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Kyle Ellrott",
+        "Christopher K Wong",
+        "Christina Yau",
+        "Mauro A A Castro",
+        "Jordan A Lee",
+        "Brian J Karlberg",
+        "Jasleen K Grewal",
+        "Vincenzo Lagani",
+        "Bahar Tercan",
+        "Verena Friedl",
+        "Toshinori Hinoue",
+        "Vladislav Uzunangelov",
+        "Lindsay Westlake",
+        "Xavier Loinaz",
+        "Ina Felau",
+        "Peggy I Wang",
+        "Anab Kemal",
+        "Samantha J Caesar-Johnson",
+        "Ilya Shmulevich",
+        "Alexander J Lazar",
+        "Ioannis Tsamardinos",
+        "Katherine A Hoadley",
+        "Cancer Genome Atlas Analysis Network",
+        "A Gordon Robertson",
+        "Theo A Knijnenburg",
+        "Christopher C Benz",
+        "Joshua M Stuart",
+        "Jean C Zenklusen",
+        "Andrew D Cherniack",
+        "Peter W Laird"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39753139/"
+    },
+    {
+      "pmid": "15308095",
+      "title": "The immunobiology of cancer immunosurveillance and immunoediting.",
+      "journal": "Immunity",
+      "abstract_sections": [
+        "The last fifteen years have seen a reemergence of interest in cancer immunosurveillance and a broadening of this concept into one termed cancer immunoediting. The latter, supported by strong experimental data derived from murine tumor models and provocative correlative data obtained by studying human cancer, holds that the immune system not only protects the host against development of primary nonviral cancers but also sculpts tumor immunogenicity. Cancer immunoediting is a process consisting of three phases: elimination (i.e., cancer immunosurveillance), equilibrium, and escape. Herein, we summarize the data supporting the existence of each of the three cancer immunoediting phases. The full understanding of the immunobiology of cancer immunosurveillance and immunoediting will hopefully stimulate development of more effective immunotherapeutic approaches to control and/or eliminate human cancers."
+      ],
+      "abstract": "The last fifteen years have seen a reemergence of interest in cancer immunosurveillance and a broadening of this concept into one termed cancer immunoediting. The latter, supported by strong experimental data derived from murine tumor models and provocative correlative data obtained by studying human cancer, holds that the immune system not only protects the host against development of primary nonviral cancers but also sculpts tumor immunogenicity. Cancer immunoediting is a process consisting of three phases: elimination (i.e., cancer immunosurveillance), equilibrium, and escape. Herein, we summarize the data supporting the existence of each of the three cancer immunoediting phases. The full understanding of the immunobiology of cancer immunosurveillance and immunoediting will hopefully stimulate development of more effective immunotherapeutic approaches to control and/or eliminate human cancers.",
+      "evidence_sentences": [
+        "The latter, supported by strong experimental data derived from murine tumor models and provocative correlative data obtained by studying human cancer, holds that the immune system not only protects the host against development of primary nonviral cancers but also sculpts tumor immunogenicity.",
+        "The full understanding of the immunobiology of cancer immunosurveillance and immunoediting will hopefully stimulate development of more effective immunotherapeutic approaches to control and/or eliminate human cancers.",
+        "The last fifteen years have seen a reemergence of interest in cancer immunosurveillance and a broadening of this concept into one termed cancer immunoediting."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Gavin P Dunn",
+        "Lloyd J Old",
+        "Robert D Schreiber"
+      ],
+      "year": "2004",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15308095/"
+    },
+    {
+      "pmid": "31836838",
+      "title": "How the ageing microenvironment influences tumour progression.",
+      "journal": "Nature reviews. Cancer",
+      "abstract_sections": [
+        "Most cancers arise in individuals over the age of 60. As the world population is living longer and reaching older ages, cancer is becoming a substantial public health problem. It is estimated that, by 2050, more than 20% of the world's population will be over the age of 60 - the economic, healthcare and financial burdens this may place on society are far from trivial. In this Review, we address the role of the ageing microenvironment in the promotion of tumour progression. Specifically, we discuss the cellular and molecular changes in non-cancerous cells during ageing, and how these may contribute towards a tumour permissive microenvironment; these changes encompass biophysical alterations in the extracellular matrix, changes in secreted factors and changes in the immune system. We also discuss the contribution of these changes to responses to cancer therapy as ageing predicts outcomes of therapy, including survival. Yet, in preclinical studies, the contribution of the aged microenvironment to therapy response is largely ignored, with most studies designed in 8-week-old mice rather than older mice that reflect an age appropriate to the disease being modelled. This may explain, in part, the failure of many successful preclinical therapies upon their translation to the clinic. Overall, the intention of this Review is to provide an overview of the interplay that occurs between ageing cell types in the microenvironment and cancer cells and how this is likely to impact tumour metastasis and therapy response."
+      ],
+      "abstract": "Most cancers arise in individuals over the age of 60. As the world population is living longer and reaching older ages, cancer is becoming a substantial public health problem. It is estimated that, by 2050, more than 20% of the world's population will be over the age of 60 - the economic, healthcare and financial burdens this may place on society are far from trivial. In this Review, we address the role of the ageing microenvironment in the promotion of tumour progression. Specifically, we discuss the cellular and molecular changes in non-cancerous cells during ageing, and how these may contribute towards a tumour permissive microenvironment; these changes encompass biophysical alterations in the extracellular matrix, changes in secreted factors and changes in the immune system. We also discuss the contribution of these changes to responses to cancer therapy as ageing predicts outcomes of therapy, including survival. Yet, in preclinical studies, the contribution of the aged microenvironment to therapy response is largely ignored, with most studies designed in 8-week-old mice rather than older mice that reflect an age appropriate to the disease being modelled. This may explain, in part, the failure of many successful preclinical therapies upon their translation to the clinic. Overall, the intention of this Review is to provide an overview of the interplay that occurs between ageing cell types in the microenvironment and cancer cells and how this is likely to impact tumour metastasis and therapy response.",
+      "evidence_sentences": [
+        "Specifically, we discuss the cellular and molecular changes in non-cancerous cells during ageing, and how these may contribute towards a tumour permissive microenvironment; these changes encompass biophysical alterations in the extracellular matrix, changes in secreted factors and changes in the immune system.",
+        "Overall, the intention of this Review is to provide an overview of the interplay that occurs between ageing cell types in the microenvironment and cancer cells and how this is likely to impact tumour metastasis and therapy response.",
+        "We also discuss the contribution of these changes to responses to cancer therapy as ageing predicts outcomes of therapy, including survival."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Mitchell Fane",
+        "Ashani T Weeraratna"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31836838/"
+    },
+    {
+      "pmid": "34508258",
+      "title": "The MYC oncogene - the grand orchestrator of cancer growth and immune evasion.",
+      "journal": "Nature reviews. Clinical oncology",
+      "abstract_sections": [
+        "The MYC proto-oncogenes encode a family of transcription factors that are among the most commonly activated oncoproteins in human neoplasias. Indeed, MYC aberrations or upregulation of MYC-related pathways by alternate mechanisms occur in the vast majority of cancers. MYC proteins are master regulators of cellular programmes. Thus, cancers with MYC activation elicit many of the hallmarks of cancer required for autonomous neoplastic growth. In preclinical models, MYC inactivation can result in sustained tumour regression, a phenomenon that has been attributed to oncogene addiction. Many therapeutic agents that directly target MYC are under development; however, to date, their clinical efficacy remains to be demonstrated. In the past few years, studies have demonstrated that MYC signalling can enable tumour cells to dysregulate their microenvironment and evade the host immune response. Herein, we discuss how MYC pathways not only dictate cancer cell pathophysiology but also suppress the host immune response against that cancer. We also propose that therapies targeting the MYC pathway will be key to reversing cancerous growth and restoring antitumour immune responses in patients with MYC-driven cancers."
+      ],
+      "abstract": "The MYC proto-oncogenes encode a family of transcription factors that are among the most commonly activated oncoproteins in human neoplasias. Indeed, MYC aberrations or upregulation of MYC-related pathways by alternate mechanisms occur in the vast majority of cancers. MYC proteins are master regulators of cellular programmes. Thus, cancers with MYC activation elicit many of the hallmarks of cancer required for autonomous neoplastic growth. In preclinical models, MYC inactivation can result in sustained tumour regression, a phenomenon that has been attributed to oncogene addiction. Many therapeutic agents that directly target MYC are under development; however, to date, their clinical efficacy remains to be demonstrated. In the past few years, studies have demonstrated that MYC signalling can enable tumour cells to dysregulate their microenvironment and evade the host immune response. Herein, we discuss how MYC pathways not only dictate cancer cell pathophysiology but also suppress the host immune response against that cancer. We also propose that therapies targeting the MYC pathway will be key to reversing cancerous growth and restoring antitumour immune responses in patients with MYC-driven cancers.",
+      "evidence_sentences": [
+        "We also propose that therapies targeting the MYC pathway will be key to reversing cancerous growth and restoring antitumour immune responses in patients with MYC-driven cancers.",
+        "In the past few years, studies have demonstrated that MYC signalling can enable tumour cells to dysregulate their microenvironment and evade the host immune response.",
+        "Herein, we discuss how MYC pathways not only dictate cancer cell pathophysiology but also suppress the host immune response against that cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Renumathy Dhanasekaran",
+        "Anja Deutzmann",
+        "Wadie D Mahauad-Fernandez",
+        "Aida S Hansen",
+        "Arvin M Gouw",
+        "Dean W Felsher"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34508258/"
+    },
+    {
+      "pmid": "37366925",
+      "title": "Leptomeningeal Metastasis: A Review of the Pathophysiology, Diagnostic Methodology, and Therapeutic Landscape.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "The present review aimed to establish an understanding of the pathophysiology of leptomeningeal disease as it relates to late-stage development among different cancer types. For our purposes, the focused metastatic malignancies include breast cancer, lung cancer, melanoma, primary central nervous system tumors, and hematologic cancers (lymphoma, leukemia, and multiple myeloma). Of note, our discussion was limited to cancer-specific leptomeningeal metastases secondary to the aforementioned primary cancers. LMD mechanisms secondary to non-cancerous pathologies, such as infection or inflammation of the leptomeningeal layer, were excluded from our scope of review. Furthermore, we intended to characterize general leptomeningeal disease, including the specific anatomical infiltration process/area, CSF dissemination, manifesting clinical symptoms in patients afflicted with the disease, detection mechanisms, imaging modalities, and treatment therapies (both preclinical and clinical). Of these parameters, leptomeningeal disease across different primary cancers shares several features. Pathophysiology regarding the development of CNS involvement within the mentioned cancer subtypes is similar in nature and progression of disease. Consequently, detection of leptomeningeal disease, regardless of cancer type, employs several of the same techniques. Cerebrospinal fluid analysis in combination with varied imaging (CT, MRI, and PET-CT) has been noted in the current literature as the gold standard in the diagnosis of leptomeningeal metastasis. Treatment options for the disease are both varied and currently in development, given the rarity of these cases. Our review details the differences in leptomeningeal disease as they pertain through the lens of several different cancer subtypes in an effort to highlight the current state of targeted therapy, the potential shortcomings in treatment, and the direction of preclinical and clinical treatments in the future. As there is a lack of comprehensive reviews that seek to characterize leptomeningeal metastasis from various solid and hematologic cancers altogether, the authors intended to highlight not only the overlapping mechanisms but also the distinct patterning of disease detection and progression as a means to uniquely treat each metastasis type. The scarcity of LMD cases poses a barrier to more robust evaluations of this pathology. However, as treatments for primary cancers have improved over time, so has the incidence of LMD. The increase in diagnosed cases only represents a small fraction of LMD-afflicted patients. More often than not, LMD is determined upon autopsy. The motivation behind this review stems from the increased capacity to study LMD in spite of scarcity or poor patient prognosis. In vitro analysis of leptomeningeal cancer cells has allowed researchers to approach this disease at the level of cancer subtypes and markers. We ultimately hope to facilitate the clinical translation of LMD research through our discourse."
+      ],
+      "abstract": "The present review aimed to establish an understanding of the pathophysiology of leptomeningeal disease as it relates to late-stage development among different cancer types. For our purposes, the focused metastatic malignancies include breast cancer, lung cancer, melanoma, primary central nervous system tumors, and hematologic cancers (lymphoma, leukemia, and multiple myeloma). Of note, our discussion was limited to cancer-specific leptomeningeal metastases secondary to the aforementioned primary cancers. LMD mechanisms secondary to non-cancerous pathologies, such as infection or inflammation of the leptomeningeal layer, were excluded from our scope of review. Furthermore, we intended to characterize general leptomeningeal disease, including the specific anatomical infiltration process/area, CSF dissemination, manifesting clinical symptoms in patients afflicted with the disease, detection mechanisms, imaging modalities, and treatment therapies (both preclinical and clinical). Of these parameters, leptomeningeal disease across different primary cancers shares several features. Pathophysiology regarding the development of CNS involvement within the mentioned cancer subtypes is similar in nature and progression of disease. Consequently, detection of leptomeningeal disease, regardless of cancer type, employs several of the same techniques. Cerebrospinal fluid analysis in combination with varied imaging (CT, MRI, and PET-CT) has been noted in the current literature as the gold standard in the diagnosis of leptomeningeal metastasis. Treatment options for the disease are both varied and currently in development, given the rarity of these cases. Our review details the differences in leptomeningeal disease as they pertain through the lens of several different cancer subtypes in an effort to highlight the current state of targeted therapy, the potential shortcomings in treatment, and the direction of preclinical and clinical treatments in the future. As there is a lack of comprehensive reviews that seek to characterize leptomeningeal metastasis from various solid and hematologic cancers altogether, the authors intended to highlight not only the overlapping mechanisms but also the distinct patterning of disease detection and progression as a means to uniquely treat each metastasis type. The scarcity of LMD cases poses a barrier to more robust evaluations of this pathology. However, as treatments for primary cancers have improved over time, so has the incidence of LMD. The increase in diagnosed cases only represents a small fraction of LMD-afflicted patients. More often than not, LMD is determined upon autopsy. The motivation behind this review stems from the increased capacity to study LMD in spite of scarcity or poor patient prognosis. In vitro analysis of leptomeningeal cancer cells has allowed researchers to approach this disease at the level of cancer subtypes and markers. We ultimately hope to facilitate the clinical translation of LMD research through our discourse.",
+      "evidence_sentences": [
+        "LMD mechanisms secondary to non-cancerous pathologies, such as infection or inflammation of the leptomeningeal layer, were excluded from our scope of review.",
+        "As there is a lack of comprehensive reviews that seek to characterize leptomeningeal metastasis from various solid and hematologic cancers altogether, the authors intended to highlight not only the overlapping mechanisms but also the distinct patterning of disease detection and progression as a means to uniquely treat each metastasis type.",
+        "Our review details the differences in leptomeningeal disease as they pertain through the lens of several different cancer subtypes in an effort to highlight the current state of targeted therapy, the potential shortcomings in treatment, and the direction of preclinical and clinical treatments in the future."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Andrew Nguyen",
+        "Alexander Nguyen",
+        "Oluwaferanmi T Dada",
+        "Persis D Desai",
+        "Jacob C Ricci",
+        "Nikhil B Godbole",
+        "Kevin Pierre",
+        "Brandon Lucke-Wold"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37366925/"
+    },
+    {
+      "pmid": "34168109",
+      "title": "Long non-coding RNA AFAP1-AS1 accelerates lung cancer cells migration and invasion by interacting with SNIP1 to upregulate c-Myc.",
+      "journal": "Signal transduction and targeted therapy",
+      "abstract_sections": [
+        "Actin filament associated protein 1 antisense RNA 1 (named AFAP1-AS1) is a long non-coding RNA and overexpressed in many cancers. This study aimed to identify the role and mechanism of AFAP1-AS1 in lung cancer. The AFAP1-AS1 expression was firstly assessed in 187 paraffin-embedded lung cancer and 36 normal lung epithelial tissues by in situ hybridization. The migration and invasion abilities of AFAP1-AS1 were investigated in lung cancer cells. To uncover the molecular mechanism about AFAP1-AS1 function in lung cancer, we screened proteins that interact with AFAP1-AS1 by RNA pull down and the mass spectrometry analyses. AFAP1-AS1 was highly expressed in lung cancer clinical tissues and its expression was positively correlated with lung cancer patients' poor prognosis. In vivo experiments confirmed that AFAP1-AS1 could promote lung cancer metastasis. AFAP1-AS1 promoted lung cancer cells migration and invasion through interacting with Smad nuclear interacting protein 1 (named SNIP1), which inhibited ubiquitination and degradation of c-Myc protein. Upregulation of c-Myc molecule in turn promoted the expression of ZEB1, ZEB2, and SNAIL gene, which ultimately enhanced epithelial to mesenchymal transition (EMT) and lung cancer metastasis. Understanding the molecular mechanism by which AFAP1-AS1 promotes lung cancer's migration and invasion may provide novel therapeutic targets for lung cancer patients' early diagnosis and therapy."
+      ],
+      "abstract": "Actin filament associated protein 1 antisense RNA 1 (named AFAP1-AS1) is a long non-coding RNA and overexpressed in many cancers. This study aimed to identify the role and mechanism of AFAP1-AS1 in lung cancer. The AFAP1-AS1 expression was firstly assessed in 187 paraffin-embedded lung cancer and 36 normal lung epithelial tissues by in situ hybridization. The migration and invasion abilities of AFAP1-AS1 were investigated in lung cancer cells. To uncover the molecular mechanism about AFAP1-AS1 function in lung cancer, we screened proteins that interact with AFAP1-AS1 by RNA pull down and the mass spectrometry analyses. AFAP1-AS1 was highly expressed in lung cancer clinical tissues and its expression was positively correlated with lung cancer patients' poor prognosis. In vivo experiments confirmed that AFAP1-AS1 could promote lung cancer metastasis. AFAP1-AS1 promoted lung cancer cells migration and invasion through interacting with Smad nuclear interacting protein 1 (named SNIP1), which inhibited ubiquitination and degradation of c-Myc protein. Upregulation of c-Myc molecule in turn promoted the expression of ZEB1, ZEB2, and SNAIL gene, which ultimately enhanced epithelial to mesenchymal transition (EMT) and lung cancer metastasis. Understanding the molecular mechanism by which AFAP1-AS1 promotes lung cancer's migration and invasion may provide novel therapeutic targets for lung cancer patients' early diagnosis and therapy.",
+      "evidence_sentences": [
+        "Actin filament associated protein 1 antisense RNA 1 (named AFAP1-AS1) is a long non-coding RNA and overexpressed in many cancers.",
+        "This study aimed to identify the role and mechanism of AFAP1-AS1 in lung cancer.",
+        "AFAP1-AS1 promoted lung cancer cells migration and invasion through interacting with Smad nuclear interacting protein 1 (named SNIP1), which inhibited ubiquitination and degradation of c-Myc protein."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Yu Zhong",
+        "Liting Yang",
+        "Fang Xiong",
+        "Yi He",
+        "Yanyan Tang",
+        "Lei Shi",
+        "Songqing Fan",
+        "Zheng Li",
+        "Shanshan Zhang",
+        "Zhaojian Gong",
+        "Can Guo",
+        "Qianjin Liao",
+        "Yujuan Zhou",
+        "Ming Zhou",
+        "Bo Xiang",
+        "Xiaoling Li",
+        "Yong Li",
+        "Zhaoyang Zeng",
+        "Guiyuan Li",
+        "Wei Xiong"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34168109/"
+    },
+    {
+      "pmid": "36454335",
+      "title": "Treatment of actinic keratosis: a systematic review.",
+      "journal": "Archives of dermatological research",
+      "abstract_sections": [
+        "Treatment of actinic keratoses (AKs) can help lower the risk of eventual skin cancer and address field pre-cancerization. This review compares the different therapeutic options for actinic keratosis. Databases used include Medline, EMBASE, Web of Science and the Cochrane Library from inception to December 2019. Randomized control trials that were related to any approved or recognized treatment for actinic keratosis were included. 1186 studies were found, of which 80 with 6748 patients were included in the analysis. A network meta-analysis was not possible due to interstudy heterogeneity. The greatest degree of improvement was seen with photodynamic therapy (PDT) used adjunctively with other modalities, but this was not significantly different compared to other treatments. PDT, cryotherapy, imiquimod, ingenol mebutate (IMB), 5-fluorouracil (5-FU), trichloroacetic acid (TCA), and ablative fractional laser (AFXL), were all non-inferior to one another in terms of percent clearance of AKs, but the lowest rates of clearance were seen with diclofenac sodium. When results were substratified by body site, 5-FU, combination PDT and combination 5-FU with calcipotriol were the most beneficial for AKs on the head and neck, although they often caused the highest proportion of initial side effects. Absence of randomized control trials for surgical treatments and non-ablative laser limits comparison of these treatments to other modalities. Limitations include the lack of standardized outcome reporting limited the comparability of results across trials. The results of this analysis do not account for individual patient risk or cumulative risk for development of skin cancer. At present, PDT, cryotherapy, imiquimod, IMB, 5-FU, TCA, AFXL, and combination treatments are similarly efficacious in reducing AKs in immunocompetent patients.Registration: N/A."
+      ],
+      "abstract": "Treatment of actinic keratoses (AKs) can help lower the risk of eventual skin cancer and address field pre-cancerization. This review compares the different therapeutic options for actinic keratosis. Databases used include Medline, EMBASE, Web of Science and the Cochrane Library from inception to December 2019. Randomized control trials that were related to any approved or recognized treatment for actinic keratosis were included. 1186 studies were found, of which 80 with 6748 patients were included in the analysis. A network meta-analysis was not possible due to interstudy heterogeneity. The greatest degree of improvement was seen with photodynamic therapy (PDT) used adjunctively with other modalities, but this was not significantly different compared to other treatments. PDT, cryotherapy, imiquimod, ingenol mebutate (IMB), 5-fluorouracil (5-FU), trichloroacetic acid (TCA), and ablative fractional laser (AFXL), were all non-inferior to one another in terms of percent clearance of AKs, but the lowest rates of clearance were seen with diclofenac sodium. When results were substratified by body site, 5-FU, combination PDT and combination 5-FU with calcipotriol were the most beneficial for AKs on the head and neck, although they often caused the highest proportion of initial side effects. Absence of randomized control trials for surgical treatments and non-ablative laser limits comparison of these treatments to other modalities. Limitations include the lack of standardized outcome reporting limited the comparability of results across trials. The results of this analysis do not account for individual patient risk or cumulative risk for development of skin cancer. At present, PDT, cryotherapy, imiquimod, IMB, 5-FU, TCA, AFXL, and combination treatments are similarly efficacious in reducing AKs in immunocompetent patients.Registration: N/A.",
+      "evidence_sentences": [
+        "Absence of randomized control trials for surgical treatments and non-ablative laser limits comparison of these treatments to other modalities.",
+        "Treatment of actinic keratoses (AKs) can help lower the risk of eventual skin cancer and address field pre-cancerization.",
+        "PDT, cryotherapy, imiquimod, ingenol mebutate (IMB), 5-fluorouracil (5-FU), trichloroacetic acid (TCA), and ablative fractional laser (AFXL), were all non-inferior to one another in terms of percent clearance of AKs, but the lowest rates of clearance were seen with diclofenac sodium."
+      ],
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Brandon Worley",
+        "Vishnu Harikumar",
+        "Kelly Reynolds",
+        "McKenzie A Dirr",
+        "Rachel E Christensen",
+        "Noor Anvery",
+        "Michael D Yi",
+        "Emily Poon",
+        "Murad Alam"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36454335/"
+    },
+    {
+      "pmid": "29032295",
+      "title": "Innate sensing of cancer's non-immunologic hallmarks.",
+      "journal": "Current opinion in immunology",
+      "abstract_sections": [
+        "A cancer mass consists of a complex composition of cancer cells, stromal cells, endothelial cells and also immune cells, which can represent more than half of the cellularity of a solid cancer. These immune cells become activated when they sense cancer antigens and stress ligands. Innate immune cells also detect various aspects of cellular stress that characterize a growing tumor mass. These key hallmarks of cellular stress are also detected by the cancer cell itself. In this review, we highlight studies that show that the cancer cell itself could be considered an 'innate cell' that senses and reacts to non-immunologic hallmarks of cancer, including displaced nucleic acids, proteotoxic stress, oxidative stress, and metabolic alterations."
+      ],
+      "abstract": "A cancer mass consists of a complex composition of cancer cells, stromal cells, endothelial cells and also immune cells, which can represent more than half of the cellularity of a solid cancer. These immune cells become activated when they sense cancer antigens and stress ligands. Innate immune cells also detect various aspects of cellular stress that characterize a growing tumor mass. These key hallmarks of cellular stress are also detected by the cancer cell itself. In this review, we highlight studies that show that the cancer cell itself could be considered an 'innate cell' that senses and reacts to non-immunologic hallmarks of cancer, including displaced nucleic acids, proteotoxic stress, oxidative stress, and metabolic alterations.",
+      "evidence_sentences": [
+        "In this review, we highlight studies that show that the cancer cell itself could be considered an 'innate cell' that senses and reacts to non-immunologic hallmarks of cancer, including displaced nucleic acids, proteotoxic stress, oxidative stress, and metabolic alterations.",
+        "A cancer mass consists of a complex composition of cancer cells, stromal cells, endothelial cells and also immune cells, which can represent more than half of the cellularity of a solid cancer.",
+        "These immune cells become activated when they sense cancer antigens and stress ligands."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Ruth Seelige",
+        "Stephen Searles",
+        "Jack D Bui"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29032295/"
+    },
+    {
+      "pmid": "37095596",
+      "title": "Cancer disparities in Appalachian Kentucky.",
+      "journal": "The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association",
+      "abstract_sections": [
+        "Cancer is the second leading cause of death in the United States, and the disease burden is elevated in Appalachian Kentucky, due in part to health behaviors and inequities in social determinants of health. This study's goal was to evaluate Appalachian Kentucky's cancer burden compared to non-Appalachian Kentucky, and Kentucky compared to the United States (excluding Kentucky).",
+        "The following data were analyzed: annual all-cause and all-site cancer mortality rates from 1968 to 2018; 5-year all-site and site-specific cancer incidence and mortality rates from 2014 to 2018; aggregated screening and risk factor data from 2016 to 2018 for the United States (excluding Kentucky), Kentucky, non-Appalachian Kentucky, and Appalachian Kentucky; and human papilloma virus vaccination prevalence by sex from 2018 for the United States and Kentucky.",
+        "Since 1968, the United States has experienced a large decrease in all-cause and cancer mortality, but the reduction in Kentucky has been smaller and slower, driven by even smaller and slower reductions within Appalachian Kentucky. Appalachian Kentucky has higher overall cancer incidence and mortality rates and higher rates for several site-specific cancers compared to non-Appalachian Kentucky. Contributing factors include screening rate disparities and increased rates of obesity and smoking.",
+        "Appalachian Kentucky has experienced persistent cancer disparities, including elevated all-cause and cancer mortality rates for 50+ years, widening the gap between this region and the rest of the country. In addition to addressing social determinants of health, increased efforts aimed at improving health behaviors and increased access to health care resources could help reduce this disparity."
+      ],
+      "abstract": "Cancer is the second leading cause of death in the United States, and the disease burden is elevated in Appalachian Kentucky, due in part to health behaviors and inequities in social determinants of health. This study's goal was to evaluate Appalachian Kentucky's cancer burden compared to non-Appalachian Kentucky, and Kentucky compared to the United States (excluding Kentucky).\n\nThe following data were analyzed: annual all-cause and all-site cancer mortality rates from 1968 to 2018; 5-year all-site and site-specific cancer incidence and mortality rates from 2014 to 2018; aggregated screening and risk factor data from 2016 to 2018 for the United States (excluding Kentucky), Kentucky, non-Appalachian Kentucky, and Appalachian Kentucky; and human papilloma virus vaccination prevalence by sex from 2018 for the United States and Kentucky.\n\nSince 1968, the United States has experienced a large decrease in all-cause and cancer mortality, but the reduction in Kentucky has been smaller and slower, driven by even smaller and slower reductions within Appalachian Kentucky. Appalachian Kentucky has higher overall cancer incidence and mortality rates and higher rates for several site-specific cancers compared to non-Appalachian Kentucky. Contributing factors include screening rate disparities and increased rates of obesity and smoking.\n\nAppalachian Kentucky has experienced persistent cancer disparities, including elevated all-cause and cancer mortality rates for 50+ years, widening the gap between this region and the rest of the country. In addition to addressing social determinants of health, increased efforts aimed at improving health behaviors and increased access to health care resources could help reduce this disparity.",
+      "evidence_sentences": [
+        "This study's goal was to evaluate Appalachian Kentucky's cancer burden compared to non-Appalachian Kentucky, and Kentucky compared to the United States (excluding Kentucky).",
+        "The following data were analyzed: annual all-cause and all-site cancer mortality rates from 1968 to 2018; 5-year all-site and site-specific cancer incidence and mortality rates from 2014 to 2018; aggregated screening and risk factor data from 2016 to 2018 for the United States (excluding Kentucky), Kentucky, non-Appalachian Kentucky, and Appalachian Kentucky; and human papilloma virus vaccination prevalence by sex from 2018 for the United States and Kentucky.",
+        "Appalachian Kentucky has higher overall cancer incidence and mortality rates and higher rates for several site-specific cancers compared to non-Appalachian Kentucky."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Lauren Hudson",
+        "Todd Burus",
+        "Lee Park",
+        "Bin Huang",
+        "Pamela C Hull",
+        "Nathan L Vanderford"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37095596/"
+    },
+    {
+      "pmid": "39000164",
+      "title": "Therapeutic Approaches for Non-Melanoma Skin Cancer: Standard of Care and Emerging Modalities.",
+      "journal": "International journal of molecular sciences",
+      "abstract_sections": [
+        "Skin cancer encompasses a range of cutaneous malignancies, with non-melanoma skin cancers (NMSCs) being the most common neoplasm worldwide. Skin exposure is the leading risk factor for initiating NMSC. Ultraviolet (UV) light induces various genomic aberrations in both tumor-promoting and tumor-suppressing genes in epidermal cells. In conjunction with interactions with a changed stromal microenvironment and local immune suppression, these aberrations contribute to the occurrence and expansion of cancerous lesions. Surgical excision is still the most common treatment for these lesions; however, locally advanced or metastatic disease significantly increases the chances of morbidity or death. In recent years, numerous pharmacological targets were found through extensive research on the pathogenic mechanisms of NMSCs, leading to the development of novel treatments including Hedgehog pathway inhibitors for advanced and metastatic basal cell carcinoma (BCC) and PD-1/PD-L1 inhibitors for locally advanced cutaneous squamous cell carcinoma (cSCC) and Merkel cell carcinoma (MCC). Despite the efficacy of these new drugs, drug resistance and tolerability issues often arise with long-term treatment. Ongoing studies aim to identify alternative strategies with reduced adverse effects and increased tolerability. This review summarizes the current and emerging therapies used to treat NMSC."
+      ],
+      "abstract": "Skin cancer encompasses a range of cutaneous malignancies, with non-melanoma skin cancers (NMSCs) being the most common neoplasm worldwide. Skin exposure is the leading risk factor for initiating NMSC. Ultraviolet (UV) light induces various genomic aberrations in both tumor-promoting and tumor-suppressing genes in epidermal cells. In conjunction with interactions with a changed stromal microenvironment and local immune suppression, these aberrations contribute to the occurrence and expansion of cancerous lesions. Surgical excision is still the most common treatment for these lesions; however, locally advanced or metastatic disease significantly increases the chances of morbidity or death. In recent years, numerous pharmacological targets were found through extensive research on the pathogenic mechanisms of NMSCs, leading to the development of novel treatments including Hedgehog pathway inhibitors for advanced and metastatic basal cell carcinoma (BCC) and PD-1/PD-L1 inhibitors for locally advanced cutaneous squamous cell carcinoma (cSCC) and Merkel cell carcinoma (MCC). Despite the efficacy of these new drugs, drug resistance and tolerability issues often arise with long-term treatment. Ongoing studies aim to identify alternative strategies with reduced adverse effects and increased tolerability. This review summarizes the current and emerging therapies used to treat NMSC.",
+      "evidence_sentences": [
+        "Skin cancer encompasses a range of cutaneous malignancies, with non-melanoma skin cancers (NMSCs) being the most common neoplasm worldwide.",
+        "Ongoing studies aim to identify alternative strategies with reduced adverse effects and increased tolerability.",
+        "In conjunction with interactions with a changed stromal microenvironment and local immune suppression, these aberrations contribute to the occurrence and expansion of cancerous lesions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Stefano Sol",
+        "Fabiana Boncimino",
+        "Kristina Todorova",
+        "Sarah Elizabeth Waszyn",
+        "Anna Mandinova"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39000164/"
+    },
+    {
+      "pmid": "31030667",
+      "title": "Current cancer situation in China: good or bad news from the 2018 Global Cancer Statistics?",
+      "journal": "Cancer communications (London, England)",
+      "abstract_sections": [
+        "Cancer is the leading cause of death in China and depicting the cancer pattern of China would provide basic knowhows on how to tackle it more effectively. In this study we have reviewed several reports of cancer burden, including the Global cancer statistics 2018 and Cancer statistics in China, 2015, along with the GLOBCAN 2018 online database, to investigate the differences of cancer patterns between China, the United States (USA) and the United Kingdom (UK). An estimated 4.3 million new cancer cases and 2.9 million new cancer deaths occurred in China in 2018. Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses. In comparison, the digestive cancer deaths only took up ≤ 5% of the total cancer deaths in either USA or UK. Other reasons for the higher mortality in China may be the low rate of early-stage cancers at diagnosis and non-uniformed clinical cancer treatment strategies performed by different regions. China is undergoing the cancer transition stage where the cancer spectrum is changing from developing country to developed country, with a rapidly increase cancer burden of colorectal, prostate, female breast cancers in addition to a high occurrence of infection-related and digestive cancers. The incidence of westernized lifestyle-related cancers in China (i.e. colorectal cancer, prostate, bladder cancer) has risen but the incidence of the digestive cancers has decreased from 2000 to 2011. An estimated 40% of the risk factors can be attributed to environmental and lifestyle factors either in China or other developed countries. Tobacco smoking is the single most important carcinogenic risk factor in China, contributing to ~ 24.5% of cancers in males. Chronic infection is another important preventable cancer contributor which is responsible for ~ 17% of cancers. Comprehensive prevention and control strategies in China should include effective tobacco-control policy, recommendations for healthier lifestyles, along with enlarging the coverage of effective screening, educating, and vaccination programs to better sensitize greater awareness control to the general public."
+      ],
+      "abstract": "Cancer is the leading cause of death in China and depicting the cancer pattern of China would provide basic knowhows on how to tackle it more effectively. In this study we have reviewed several reports of cancer burden, including the Global cancer statistics 2018 and Cancer statistics in China, 2015, along with the GLOBCAN 2018 online database, to investigate the differences of cancer patterns between China, the United States (USA) and the United Kingdom (UK). An estimated 4.3 million new cancer cases and 2.9 million new cancer deaths occurred in China in 2018. Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses. In comparison, the digestive cancer deaths only took up ≤ 5% of the total cancer deaths in either USA or UK. Other reasons for the higher mortality in China may be the low rate of early-stage cancers at diagnosis and non-uniformed clinical cancer treatment strategies performed by different regions. China is undergoing the cancer transition stage where the cancer spectrum is changing from developing country to developed country, with a rapidly increase cancer burden of colorectal, prostate, female breast cancers in addition to a high occurrence of infection-related and digestive cancers. The incidence of westernized lifestyle-related cancers in China (i.e. colorectal cancer, prostate, bladder cancer) has risen but the incidence of the digestive cancers has decreased from 2000 to 2011. An estimated 40% of the risk factors can be attributed to environmental and lifestyle factors either in China or other developed countries. Tobacco smoking is the single most important carcinogenic risk factor in China, contributing to ~ 24.5% of cancers in males. Chronic infection is another important preventable cancer contributor which is responsible for ~ 17% of cancers. Comprehensive prevention and control strategies in China should include effective tobacco-control policy, recommendations for healthier lifestyles, along with enlarging the coverage of effective screening, educating, and vaccination programs to better sensitize greater awareness control to the general public.",
+      "evidence_sentences": [
+        "In this study we have reviewed several reports of cancer burden, including the Global cancer statistics 2018 and Cancer statistics in China, 2015, along with the GLOBCAN 2018 online database, to investigate the differences of cancer patterns between China, the United States (USA) and the United Kingdom (UK).",
+        "Other reasons for the higher mortality in China may be the low rate of early-stage cancers at diagnosis and non-uniformed clinical cancer treatment strategies performed by different regions.",
+        "Compared to the USA and UK, China has lower cancer incidence but a 30% and 40% higher cancer mortality than the UK and USA, among which 36.4% of the cancer-related deaths were from the digestive tract cancers (stomach, liver, and esophagus cancer) and have relatively poorer prognoses."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Rui-Mei Feng",
+        "Yi-Nan Zong",
+        "Su-Mei Cao",
+        "Rui-Hua Xu"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31030667/"
+    },
+    {
+      "pmid": "36566154",
+      "title": "Disparities and Trends in Genitourinary Cancer Incidence and Mortality in the USA.",
+      "journal": "European urology",
+      "abstract_sections": [
+        "Previous studies have reported on incidence and mortality patterns for individual genitourinary cancers in the USA. However, these studies addressed individual cancer types rather than genitourinary cancers overall.",
+        "To comprehensively examine disparities and trends in the incidence and mortality for the four major genitourinary cancers (bladder, kidney, prostate, and testis) in the USA.",
+        "We obtained incidence data from the National Cancer Institute 22-registry Surveillance, Epidemiology and End Results (SEER) database and the US Cancer Statistics database (Centers for Disease Control and Prevention) and mortality data from the National Center for Health Statistics to examine cross-sectional and temporal trends in incidence and death rates stratified by sex, race/ethnicity, and county.",
+        "Age-adjusted incidence and death rates were calculated using SEER*Stat software. Temporal trends were analyzed using Joinpoint regression for a two-sided significance level of p < 0.05.",
+        "Incidence and mortality rates for bladder and kidney cancers were two to four times higher for men than for women. Among non-Hispanic White individuals, the highest incidence rates were found in the Northeast for bladder cancer and in Appalachia for kidney cancer, whereas the highest death rates for prostate cancer were found in the West. Incidence rates increased for cancers of the kidney and testis and for advanced-stage prostate cancer in almost all racial/ethnic populations and for bladder cancer in the American Indian/Alaska Native population. Death rates increased for testicular cancer in the Hispanic population and stabilized for prostate cancer among White and Asian American/Pacific Islander men after a steady decline since the early 1990s. Study limitations include misclassification of race/ethnicity on medical records and death certificates.",
+        "We found persistent sociodemographic disparities and unfavorable trends in incidence or mortality for all four major genitourinary cancers. Future studies should elucidate the reasons for these patterns.",
+        "In the USA, rates of cancer cases are increasing for kidney, testis, and advanced-stage prostate cancers in the overall population, and for bladder cancer in the American Indian/Alaska Native population. Differences in the rates by sex and race/ethnicity remain."
+      ],
+      "abstract": "Previous studies have reported on incidence and mortality patterns for individual genitourinary cancers in the USA. However, these studies addressed individual cancer types rather than genitourinary cancers overall.\n\nTo comprehensively examine disparities and trends in the incidence and mortality for the four major genitourinary cancers (bladder, kidney, prostate, and testis) in the USA.\n\nWe obtained incidence data from the National Cancer Institute 22-registry Surveillance, Epidemiology and End Results (SEER) database and the US Cancer Statistics database (Centers for Disease Control and Prevention) and mortality data from the National Center for Health Statistics to examine cross-sectional and temporal trends in incidence and death rates stratified by sex, race/ethnicity, and county.\n\nAge-adjusted incidence and death rates were calculated using SEER*Stat software. Temporal trends were analyzed using Joinpoint regression for a two-sided significance level of p < 0.05.\n\nIncidence and mortality rates for bladder and kidney cancers were two to four times higher for men than for women. Among non-Hispanic White individuals, the highest incidence rates were found in the Northeast for bladder cancer and in Appalachia for kidney cancer, whereas the highest death rates for prostate cancer were found in the West. Incidence rates increased for cancers of the kidney and testis and for advanced-stage prostate cancer in almost all racial/ethnic populations and for bladder cancer in the American Indian/Alaska Native population. Death rates increased for testicular cancer in the Hispanic population and stabilized for prostate cancer among White and Asian American/Pacific Islander men after a steady decline since the early 1990s. Study limitations include misclassification of race/ethnicity on medical records and death certificates.\n\nWe found persistent sociodemographic disparities and unfavorable trends in incidence or mortality for all four major genitourinary cancers. Future studies should elucidate the reasons for these patterns.\n\nIn the USA, rates of cancer cases are increasing for kidney, testis, and advanced-stage prostate cancers in the overall population, and for bladder cancer in the American Indian/Alaska Native population. Differences in the rates by sex and race/ethnicity remain.",
+      "evidence_sentences": [
+        "Previous studies have reported on incidence and mortality patterns for individual genitourinary cancers in the USA.",
+        "Among non-Hispanic White individuals, the highest incidence rates were found in the Northeast for bladder cancer and in Appalachia for kidney cancer, whereas the highest death rates for prostate cancer were found in the West.",
+        "In the USA, rates of cancer cases are increasing for kidney, testis, and advanced-stage prostate cancers in the overall population, and for bladder cancer in the American Indian/Alaska Native population."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Elizabeth J Schafer",
+        "Ahmedin Jemal",
+        "Daniel Wiese",
+        "Hyuna Sung",
+        "Tyler B Kratzer",
+        "Farhad Islami",
+        "William L Dahut",
+        "Karen E Knudsen"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36566154/"
+    },
+    {
+      "pmid": "22519802",
+      "title": "Cancer clusters in the USA: what do the last twenty years of state and federal investigations tell us?",
+      "journal": "Critical reviews in toxicology",
+      "abstract_sections": [
+        "Cancer clusters garner considerable public and legislative attention, and there is often an expectation that cluster investigations in a community will reveal a causal link to an environmental exposure. At a 1989 national conference on disease clusters, it was reported that cluster studies conducted in the 1970s and 1980s rarely, if ever, produced important findings. We seek to answer the question: Have cancer cluster investigations conducted by US health agencies in the past 20 years improved our understanding of cancer etiology, or informed cancer prevention and control?",
+        "We reviewed publicly available cancer cluster investigation reports since 1990, obtained from literature searches and by canvassing all 50 states and the District of Columbia. Investigations were categorized with respect to cancer type(s), hypothesized exposure, whether perceived clusters were confirmed (e.g. by elevated incidence), and conclusions about a link between cancer(s) of concern and hypothesized environmental exposure(s).",
+        "We reviewed 428 investigations evaluating 567 cancers of concern. An increase in incidence was confirmed for 72 (13%) cancer categories (including the category \"all sites\"). Three of those were linked (with variable degree of certainty) to hypothesized exposures, but only one investigation revealed a clear cause.",
+        "It is fair to state that extensive efforts to find causes of community cancer clusters have not been successful. There are fundamental shortcomings to our current methods of investigating community cancer clusters. We recommend a multidisciplinary national dialogue on creative, innovative approaches to understanding when and why cancer and other chronic diseases cluster in space and time."
+      ],
+      "abstract": "Cancer clusters garner considerable public and legislative attention, and there is often an expectation that cluster investigations in a community will reveal a causal link to an environmental exposure. At a 1989 national conference on disease clusters, it was reported that cluster studies conducted in the 1970s and 1980s rarely, if ever, produced important findings. We seek to answer the question: Have cancer cluster investigations conducted by US health agencies in the past 20 years improved our understanding of cancer etiology, or informed cancer prevention and control?\n\nWe reviewed publicly available cancer cluster investigation reports since 1990, obtained from literature searches and by canvassing all 50 states and the District of Columbia. Investigations were categorized with respect to cancer type(s), hypothesized exposure, whether perceived clusters were confirmed (e.g. by elevated incidence), and conclusions about a link between cancer(s) of concern and hypothesized environmental exposure(s).\n\nWe reviewed 428 investigations evaluating 567 cancers of concern. An increase in incidence was confirmed for 72 (13%) cancer categories (including the category \"all sites\"). Three of those were linked (with variable degree of certainty) to hypothesized exposures, but only one investigation revealed a clear cause.\n\nIt is fair to state that extensive efforts to find causes of community cancer clusters have not been successful. There are fundamental shortcomings to our current methods of investigating community cancer clusters. We recommend a multidisciplinary national dialogue on creative, innovative approaches to understanding when and why cancer and other chronic diseases cluster in space and time.",
+      "evidence_sentences": [
+        "Cancer clusters garner considerable public and legislative attention, and there is often an expectation that cluster investigations in a community will reveal a causal link to an environmental exposure.",
+        "We reviewed publicly available cancer cluster investigation reports since 1990, obtained from literature searches and by canvassing all 50 states and the District of Columbia.",
+        "We reviewed 428 investigations evaluating 567 cancers of concern."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Michael Goodman",
+        "Joshua S Naiman",
+        "Dina Goodman",
+        "Judy S LaKind"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22519802/"
+    },
+    {
+      "pmid": "40494090",
+      "title": "Cytology-negative, non-myoinvasive stage IC serous endometrial cancer: Assessment of adjuvant chemotherapy omission.",
+      "journal": "Gynecologic oncology",
+      "abstract_sections": [
+        "The National Comprehensive Cancer Network clinical practice guidelines suggest possible adjuvant chemotherapy omission for non-myoinvasive stage IC serous endometrial cancers if pelvic cytologic testing shows no malignant cells. Given the limited available data to support this recommendation, this study examined the association between adjuvant chemotherapy omission and survival in patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancers.",
+        "This retrospective cohort study queried the Commission-on-Cancer's National Cancer Database. The study population included patients with non-myoinvasive stage IC serous endometrial cancer who had primary hysterectomy and nodal evaluation from 2010 to 2015. All patients had negative peritoneal cytology. Inverse probability of treatment weighting cohort was created to assess overall survival. Cytology-negative, inner-half myoinvasive stage IIC was evaluated as the proof-of-concept cohort.",
+        "In the non-myoinvasive stage IC cohort (n=976), 525 (53.8%) patients did not receive adjuvant chemotherapy. The 10-year overall survival rate for the adjuvant chemotherapy omission group was 11.0% lower compared to the adjuvant chemotherapy treatment group (68.0% versus 79.0%). Hazard risk for all-cause mortality of adjuvant chemotherapy omission compared to adjuvant chemotherapy treatment was 1.54 (95% confidence interval 1.22 to 1.96). In the inner-half myoinvasive stage IIC cohort (n=994), 359 (36.1%) patients did not receive adjuvant chemotherapy. Overall survival for the adjuvant chemotherapy omission group was poorer compared to the adjuvant chemotherapy treatment group (10-year rate 58.0% versus 68.7%, hazard ratio 1.60, 95% confidence interval 1.30 to 1.96).",
+        "In this cohort study, adjuvant chemotherapy omission was associated with decreased overall survival for patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancer."
+      ],
+      "abstract": "The National Comprehensive Cancer Network clinical practice guidelines suggest possible adjuvant chemotherapy omission for non-myoinvasive stage IC serous endometrial cancers if pelvic cytologic testing shows no malignant cells. Given the limited available data to support this recommendation, this study examined the association between adjuvant chemotherapy omission and survival in patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancers.\n\nThis retrospective cohort study queried the Commission-on-Cancer's National Cancer Database. The study population included patients with non-myoinvasive stage IC serous endometrial cancer who had primary hysterectomy and nodal evaluation from 2010 to 2015. All patients had negative peritoneal cytology. Inverse probability of treatment weighting cohort was created to assess overall survival. Cytology-negative, inner-half myoinvasive stage IIC was evaluated as the proof-of-concept cohort.\n\nIn the non-myoinvasive stage IC cohort (n=976), 525 (53.8%) patients did not receive adjuvant chemotherapy. The 10-year overall survival rate for the adjuvant chemotherapy omission group was 11.0% lower compared to the adjuvant chemotherapy treatment group (68.0% versus 79.0%). Hazard risk for all-cause mortality of adjuvant chemotherapy omission compared to adjuvant chemotherapy treatment was 1.54 (95% confidence interval 1.22 to 1.96). In the inner-half myoinvasive stage IIC cohort (n=994), 359 (36.1%) patients did not receive adjuvant chemotherapy. Overall survival for the adjuvant chemotherapy omission group was poorer compared to the adjuvant chemotherapy treatment group (10-year rate 58.0% versus 68.7%, hazard ratio 1.60, 95% confidence interval 1.30 to 1.96).\n\nIn this cohort study, adjuvant chemotherapy omission was associated with decreased overall survival for patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancer.",
+      "evidence_sentences": [
+        "Given the limited available data to support this recommendation, this study examined the association between adjuvant chemotherapy omission and survival in patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancers.",
+        "The National Comprehensive Cancer Network clinical practice guidelines suggest possible adjuvant chemotherapy omission for non-myoinvasive stage IC serous endometrial cancers if pelvic cytologic testing shows no malignant cells.",
+        "In this cohort study, adjuvant chemotherapy omission was associated with decreased overall survival for patients with cytology-negative, non-myoinvasive stage IC serous endometrial cancer."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Koji Matsuo",
+        "Emmeline L Friedman",
+        "Matthew W Lee",
+        "Aaron D Masjedi",
+        "Bonnie B Song",
+        "Mihiri S Karunaratne",
+        "Sawa Keymeulen",
+        "Maximilian Klar",
+        "Jason D Wright",
+        "Lynda D Roman"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40494090/"
+    },
+    {
+      "pmid": "40765333",
+      "title": "The Emerging Roles of Metabolic Reprogramming in Non-Small Cell Lung Cancer Progression.",
+      "journal": "Frontiers in bioscience (Landmark edition)",
+      "abstract_sections": [
+        "Lung cancer remains a leading cause of cancer-related mortality due to its capacity for silent metastasis and the significant challenges in achieving effective treatment. Currently, targeted therapies and chemotherapies are the primary options for advanced or inoperable lung cancer; however, their efficacy is often undermined by the cancer's ability to develop resistance through both genetic and non-genetic mechanisms. This review explores recent advances in understanding metabolic reprogramming in non-small cell lung cancer (NSCLC), focusing on its critical role in cancer progression. NSCLC cells exhibit heterogeneous activation of metabolic pathways influenced by their oncogenic mutations. Notably, their metabolic phenotypes evolve in response to environmental stressors and therapeutic pressures. Moreover, NSCLC cells engage in metabolic crosstalk with their microenvironment to enhance survival, leveraging distinct metabolic adaptations at both primary and metastatic sites. Despite extensive preclinical studies evaluating novel therapeutic strategies targeting these metabolic pathways, many have failed in clinical trials due to severe adverse effects. This is because the targeted pathways are crucial not only for cancer cells but also for normal cellular functions. Future research must prioritize approaches that selectively disrupt cancer-specific metabolic regulation to improve therapeutic outcomes."
+      ],
+      "abstract": "Lung cancer remains a leading cause of cancer-related mortality due to its capacity for silent metastasis and the significant challenges in achieving effective treatment. Currently, targeted therapies and chemotherapies are the primary options for advanced or inoperable lung cancer; however, their efficacy is often undermined by the cancer's ability to develop resistance through both genetic and non-genetic mechanisms. This review explores recent advances in understanding metabolic reprogramming in non-small cell lung cancer (NSCLC), focusing on its critical role in cancer progression. NSCLC cells exhibit heterogeneous activation of metabolic pathways influenced by their oncogenic mutations. Notably, their metabolic phenotypes evolve in response to environmental stressors and therapeutic pressures. Moreover, NSCLC cells engage in metabolic crosstalk with their microenvironment to enhance survival, leveraging distinct metabolic adaptations at both primary and metastatic sites. Despite extensive preclinical studies evaluating novel therapeutic strategies targeting these metabolic pathways, many have failed in clinical trials due to severe adverse effects. This is because the targeted pathways are crucial not only for cancer cells but also for normal cellular functions. Future research must prioritize approaches that selectively disrupt cancer-specific metabolic regulation to improve therapeutic outcomes.",
+      "evidence_sentences": [
+        "This review explores recent advances in understanding metabolic reprogramming in non-small cell lung cancer (NSCLC), focusing on its critical role in cancer progression.",
+        "Currently, targeted therapies and chemotherapies are the primary options for advanced or inoperable lung cancer; however, their efficacy is often undermined by the cancer's ability to develop resistance through both genetic and non-genetic mechanisms.",
+        "Despite extensive preclinical studies evaluating novel therapeutic strategies targeting these metabolic pathways, many have failed in clinical trials due to severe adverse effects."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Beatriz P Peixoto",
+        "Rebecca A Clague",
+        "Joshua P Reddy",
+        "Hiromi I Wettersten"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40765333/"
+    },
+    {
+      "pmid": "38904271",
+      "title": "Algorithms to identify radiotherapy intent in unresected non-metastatic non-small-cell lung cancer: an I-O Optimise analysis.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [
+        "This study aimed to develop and evaluate the performance of algorithms for identifying radiotherapy (RT) treatment intent in real-world data from patients with non-metastatic non-small-cell lung cancer (NSCLC). Using data from IPO-Porto hospital (Portugal) and the REAL-Oncology database (England), three algorithms were developed based on available RT information (#1: RT duration, #2: RT duration and type, #3: RT dose) and tested versus reference datasets. Study results showed that all three algorithms had good overall accuracy (91-100%) for patients receiving RT plus systemic anticancer therapy (SACT) and algorithms #2 and #3 also had good accuracy (>99%) for patients receiving RT alone. These algorithms could help classify treatment intent in patients with NSCLC receiving RT with or without SACT in real-world settings where intent information is missing/incomplete."
+      ],
+      "abstract": "This study aimed to develop and evaluate the performance of algorithms for identifying radiotherapy (RT) treatment intent in real-world data from patients with non-metastatic non-small-cell lung cancer (NSCLC). Using data from IPO-Porto hospital (Portugal) and the REAL-Oncology database (England), three algorithms were developed based on available RT information (#1: RT duration, #2: RT duration and type, #3: RT dose) and tested versus reference datasets. Study results showed that all three algorithms had good overall accuracy (91-100%) for patients receiving RT plus systemic anticancer therapy (SACT) and algorithms #2 and #3 also had good accuracy (>99%) for patients receiving RT alone. These algorithms could help classify treatment intent in patients with NSCLC receiving RT with or without SACT in real-world settings where intent information is missing/incomplete.",
+      "evidence_sentences": [
+        "This study aimed to develop and evaluate the performance of algorithms for identifying radiotherapy (RT) treatment intent in real-world data from patients with non-metastatic non-small-cell lung cancer (NSCLC).",
+        "Study results showed that all three algorithms had good overall accuracy (91-100%) for patients receiving RT plus systemic anticancer therapy (SACT) and algorithms #2 and #3 also had good accuracy (>99%) for patients receiving RT alone.",
+        "These algorithms could help classify treatment intent in patients with NSCLC receiving RT with or without SACT in real-world settings where intent information is missing/incomplete."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Eleanor Ralphs",
+        "Caroline Rault",
+        "Alan Calleja",
+        "Melinda J Daumont",
+        "John R Penrod",
+        "Matthew Thompson",
+        "Sue Cheeseman",
+        "Marta Soares"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38904271/"
+    },
+    {
+      "pmid": "36332746",
+      "title": "A pan-cancer-bioinformatic-based literature review of TRPM7 in cancers.",
+      "journal": "Pharmacology & therapeutics",
+      "abstract_sections": [
+        "TRPM7, a divalent cation-selective channel with kinase domains, has been widely reported to potentially affect cancers. In this study, we conducted multiple bioinformatic analyses based on open databases and reviewed articles that provided evidence for the effects of TRPM7 on cancers. The purposes of this paper are 1) to provide a pan-cancer overview of TRPM7 in cancers; 2) to summarize evidence of TRPM7 effects on cancers; 3) to identify potential future studies of TRPM7 in cancer. Bioinformatics analysis revealed that no cancer-related TRPM7 mutation was found. TRPM7 is aberrantly expressed in most cancer types but the cancer-noncancer expression pattern varies across cancer types. TRPM7 was not associated with survival, TMB, or cancer stemness in most cancer types. TRPM7 affected drug sensitivity and tumor immunity in some cancer types. The in vitro evidence, preclinical in vivo evidence, and clinical evidence for TRPM7 effects on cancers as well as TRPM7 kinase substrate and TRPM7-targeting drugs associated with cancers were summarized to facilitate comparison. We matched the bioinformatics evidence to literature evidence, thereby unveiling potential avenues for future investigation of TRPM7 in cancers. We believe that this paper will help orient research toward important and relevant aspects of the role of TRPM7 in cancers."
+      ],
+      "abstract": "TRPM7, a divalent cation-selective channel with kinase domains, has been widely reported to potentially affect cancers. In this study, we conducted multiple bioinformatic analyses based on open databases and reviewed articles that provided evidence for the effects of TRPM7 on cancers. The purposes of this paper are 1) to provide a pan-cancer overview of TRPM7 in cancers; 2) to summarize evidence of TRPM7 effects on cancers; 3) to identify potential future studies of TRPM7 in cancer. Bioinformatics analysis revealed that no cancer-related TRPM7 mutation was found. TRPM7 is aberrantly expressed in most cancer types but the cancer-noncancer expression pattern varies across cancer types. TRPM7 was not associated with survival, TMB, or cancer stemness in most cancer types. TRPM7 affected drug sensitivity and tumor immunity in some cancer types. The in vitro evidence, preclinical in vivo evidence, and clinical evidence for TRPM7 effects on cancers as well as TRPM7 kinase substrate and TRPM7-targeting drugs associated with cancers were summarized to facilitate comparison. We matched the bioinformatics evidence to literature evidence, thereby unveiling potential avenues for future investigation of TRPM7 in cancers. We believe that this paper will help orient research toward important and relevant aspects of the role of TRPM7 in cancers.",
+      "evidence_sentences": [
+        "The purposes of this paper are 1) to provide a pan-cancer overview of TRPM7 in cancers; 2) to summarize evidence of TRPM7 effects on cancers; 3) to identify potential future studies of TRPM7 in cancer.",
+        "TRPM7 is aberrantly expressed in most cancer types but the cancer-noncancer expression pattern varies across cancer types.",
+        "The in vitro evidence, preclinical in vivo evidence, and clinical evidence for TRPM7 effects on cancers as well as TRPM7 kinase substrate and TRPM7-targeting drugs associated with cancers were summarized to facilitate comparison."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Hengrui Liu",
+        "James P Dilger",
+        "Jun Lin"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36332746/"
+    },
+    {
+      "pmid": "34097189",
+      "title": "Decoding human cancer with whole genome sequencing: a review of PCAWG Project studies published in February 2020.",
+      "journal": "Cancer metastasis reviews",
+      "abstract_sections": [
+        "Cancer is underlined by genetic changes. In an unprecedented international effort, the Pan-Cancer Analysis of Whole Genomes (PCAWG) of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) sequenced the tumors of over two thousand five hundred patients across 38 different cancer types, as well as the corresponding healthy tissue, with the aim of identifying genome-wide mutations exclusively found in cancer and uncovering new genetic changes that drive tumor formation. What set this project apart from earlier efforts is the use of whole genome sequencing (WGS) that enabled to explore alterations beyond the coding DNA, into cancer's non-coding genome. WGS of the entire cohort allowed to tease apart driving mutations that initiate and support carcinogenesis from passenger mutations that do not play an overt role in the disease. At least one causative mutation was found in 95% of all cancers, with many tumors showing an average of 5 driver mutations. The PCAWG Project also assessed the transcriptional output altered in cancer and rebuilt the evolutionary history of each tumor showing that initial driver mutations can occur years if not decades prior to a diagnosis. Here, I provide a concise review of the Pan-Cancer Project papers published on February 2020, along with key computational tools and the digital framework generated as part of the project. This represents an historic effort by hundreds of international collaborators, which provides a comprehensive understanding of cancer genetics, with publicly available data and resources representing a treasure trove of information to advance cancer research for years to come."
+      ],
+      "abstract": "Cancer is underlined by genetic changes. In an unprecedented international effort, the Pan-Cancer Analysis of Whole Genomes (PCAWG) of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) sequenced the tumors of over two thousand five hundred patients across 38 different cancer types, as well as the corresponding healthy tissue, with the aim of identifying genome-wide mutations exclusively found in cancer and uncovering new genetic changes that drive tumor formation. What set this project apart from earlier efforts is the use of whole genome sequencing (WGS) that enabled to explore alterations beyond the coding DNA, into cancer's non-coding genome. WGS of the entire cohort allowed to tease apart driving mutations that initiate and support carcinogenesis from passenger mutations that do not play an overt role in the disease. At least one causative mutation was found in 95% of all cancers, with many tumors showing an average of 5 driver mutations. The PCAWG Project also assessed the transcriptional output altered in cancer and rebuilt the evolutionary history of each tumor showing that initial driver mutations can occur years if not decades prior to a diagnosis. Here, I provide a concise review of the Pan-Cancer Project papers published on February 2020, along with key computational tools and the digital framework generated as part of the project. This represents an historic effort by hundreds of international collaborators, which provides a comprehensive understanding of cancer genetics, with publicly available data and resources representing a treasure trove of information to advance cancer research for years to come.",
+      "evidence_sentences": [
+        "In an unprecedented international effort, the Pan-Cancer Analysis of Whole Genomes (PCAWG) of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) sequenced the tumors of over two thousand five hundred patients across 38 different cancer types, as well as the corresponding healthy tissue, with the aim of identifying genome-wide mutations exclusively found in cancer and uncovering new genetic changes that drive tumor formation.",
+        "What set this project apart from earlier efforts is the use of whole genome sequencing (WGS) that enabled to explore alterations beyond the coding DNA, into cancer's non-coding genome.",
+        "At least one causative mutation was found in 95% of all cancers, with many tumors showing an average of 5 driver mutations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Simona Giunta"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34097189/"
+    },
+    {
+      "pmid": "31836455",
+      "title": "Unraveling cancer lineage drivers in squamous cell carcinomas.",
+      "journal": "Pharmacology & therapeutics",
+      "abstract_sections": [
+        "Cancer hijacks embryonic development and adult wound repair mechanisms to fuel malignancy. Cancer frequently originates from de-regulated adult stem cells or progenitors, which are otherwise essential units for postnatal tissue remodeling and repair. Cancer genomics studies have revealed convergence of multiple cancers across organ sites, including squamous cell carcinomas (SCCs), a common group of cancers arising from the head and neck, esophagus, lung, cervix and skin. In this review, we summarize our current knowledge on the molecular drivers of SCCs, including these five major organ sites. We especially focus our discussion on lineage dependent driver genes and pathways, in the context of squamous development and stratification. We then use skin as a model to discuss the notion of field cancerization during SCC carcinogenesis, and cancer as a wound that never heals. Finally, we turn to the idea of context dependency widely observed in cancer driver genes, and outline literature support and possible explanations for their lineage specific functions. Through these discussions, we aim to provide an up-to-date summary of molecular mechanisms driving tumor plasticity in squamous cancers. Such basic knowledge will be helpful to inform the clinics for better stratifying cancer patients, revealing novel drug targets and providing effective treatment options."
+      ],
+      "abstract": "Cancer hijacks embryonic development and adult wound repair mechanisms to fuel malignancy. Cancer frequently originates from de-regulated adult stem cells or progenitors, which are otherwise essential units for postnatal tissue remodeling and repair. Cancer genomics studies have revealed convergence of multiple cancers across organ sites, including squamous cell carcinomas (SCCs), a common group of cancers arising from the head and neck, esophagus, lung, cervix and skin. In this review, we summarize our current knowledge on the molecular drivers of SCCs, including these five major organ sites. We especially focus our discussion on lineage dependent driver genes and pathways, in the context of squamous development and stratification. We then use skin as a model to discuss the notion of field cancerization during SCC carcinogenesis, and cancer as a wound that never heals. Finally, we turn to the idea of context dependency widely observed in cancer driver genes, and outline literature support and possible explanations for their lineage specific functions. Through these discussions, we aim to provide an up-to-date summary of molecular mechanisms driving tumor plasticity in squamous cancers. Such basic knowledge will be helpful to inform the clinics for better stratifying cancer patients, revealing novel drug targets and providing effective treatment options.",
+      "evidence_sentences": [
+        "Cancer genomics studies have revealed convergence of multiple cancers across organ sites, including squamous cell carcinomas (SCCs), a common group of cancers arising from the head and neck, esophagus, lung, cervix and skin.",
+        "Such basic knowledge will be helpful to inform the clinics for better stratifying cancer patients, revealing novel drug targets and providing effective treatment options.",
+        "Finally, we turn to the idea of context dependency widely observed in cancer driver genes, and outline literature support and possible explanations for their lineage specific functions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Yinglu Guan",
+        "Guan Wang",
+        "Danielle Fails",
+        "Priyadharsini Nagarajan",
+        "Yejing Ge"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31836455/"
+    },
+    {
+      "pmid": "24629333",
+      "title": "Viruses for tumor therapy.",
+      "journal": "Cell host & microbe",
+      "abstract_sections": [
+        "Oncolytic virotherapy exploits live viruses with selective tropism for cancerous cells and tissues to treat cancer. As discussed here, the field has progressed considerably as a result of both the successes and failures of previous and on-going clinical trials for various cancers. These studies indicate that oncolytic viruses are remarkably safe and more efficacious when virus replication stimulates sustained antitumor immune responses. In the future, virotherapy should be combined with immunomodulatory reagents that target immune tolerance to established cancers."
+      ],
+      "abstract": "Oncolytic virotherapy exploits live viruses with selective tropism for cancerous cells and tissues to treat cancer. As discussed here, the field has progressed considerably as a result of both the successes and failures of previous and on-going clinical trials for various cancers. These studies indicate that oncolytic viruses are remarkably safe and more efficacious when virus replication stimulates sustained antitumor immune responses. In the future, virotherapy should be combined with immunomodulatory reagents that target immune tolerance to established cancers.",
+      "evidence_sentences": [
+        "As discussed here, the field has progressed considerably as a result of both the successes and failures of previous and on-going clinical trials for various cancers.",
+        "These studies indicate that oncolytic viruses are remarkably safe and more efficacious when virus replication stimulates sustained antitumor immune responses.",
+        "In the future, virotherapy should be combined with immunomodulatory reagents that target immune tolerance to established cancers."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "John Bell",
+        "Grant McFadden"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24629333/"
+    },
+    {
+      "pmid": "36443206",
+      "title": "Eosinophilia in cancer and its regulation by sex hormones.",
+      "journal": "Trends in endocrinology and metabolism: TEM",
+      "abstract_sections": [
+        "Gender differences in the functionality of the immune system have been attributed, in part, to direct and indirect effects of sex steroids, especially estrogens, on immune cell repertoire and activity. Notable are studies that have defined roles for estrogens in the regulation of the biology of dendritic cells (DCs), macrophages, T cells and natural killer (NK) cells. Although estrogens can modulate eosinophil function, the mechanisms by which this occurs and how it contributes to the pathobiology of different diseases remains underexplored. Furthermore, although the importance of eosinophils in infection is well established, it remains unclear as to how these innate immune cells, which are present in different tumors, impact the biology of cancer cells and/or response to therapeutics. The observation that eosinophilia influences the efficacy of immune checkpoint blockers (ICBs) is significant considering the role of estrogens as regulators of eosinophil function and recent studies suggesting that response to ICBs is impacted by gender. Thus, in this review, we consider what is known about the roles of estrogen(s) in regulating tissue eosinophilia/eosinophil function and how this influences the pathobiology of breast cancer (in particular). This information provides the context for a discussion of how estrogens/the estrogen receptor (ER) signaling axis can be targeted in eosinophils and how this would be expected to influence the activity of standard-of-care interventions and contemporary immunotherapy regimens in cancer(s)."
+      ],
+      "abstract": "Gender differences in the functionality of the immune system have been attributed, in part, to direct and indirect effects of sex steroids, especially estrogens, on immune cell repertoire and activity. Notable are studies that have defined roles for estrogens in the regulation of the biology of dendritic cells (DCs), macrophages, T cells and natural killer (NK) cells. Although estrogens can modulate eosinophil function, the mechanisms by which this occurs and how it contributes to the pathobiology of different diseases remains underexplored. Furthermore, although the importance of eosinophils in infection is well established, it remains unclear as to how these innate immune cells, which are present in different tumors, impact the biology of cancer cells and/or response to therapeutics. The observation that eosinophilia influences the efficacy of immune checkpoint blockers (ICBs) is significant considering the role of estrogens as regulators of eosinophil function and recent studies suggesting that response to ICBs is impacted by gender. Thus, in this review, we consider what is known about the roles of estrogen(s) in regulating tissue eosinophilia/eosinophil function and how this influences the pathobiology of breast cancer (in particular). This information provides the context for a discussion of how estrogens/the estrogen receptor (ER) signaling axis can be targeted in eosinophils and how this would be expected to influence the activity of standard-of-care interventions and contemporary immunotherapy regimens in cancer(s).",
+      "evidence_sentences": [
+        "Thus, in this review, we consider what is known about the roles of estrogen(s) in regulating tissue eosinophilia/eosinophil function and how this influences the pathobiology of breast cancer (in particular).",
+        "This information provides the context for a discussion of how estrogens/the estrogen receptor (ER) signaling axis can be targeted in eosinophils and how this would be expected to influence the activity of standard-of-care interventions and contemporary immunotherapy regimens in cancer(s).",
+        "The observation that eosinophilia influences the efficacy of immune checkpoint blockers (ICBs) is significant considering the role of estrogens as regulators of eosinophil function and recent studies suggesting that response to ICBs is impacted by gender."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Sandeep Artham",
+        "Ching-Yi Chang",
+        "Donald P McDonnell"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36443206/"
+    },
+    {
+      "pmid": "12628511",
+      "title": "Mechanisms and applications of non-steroidal anti-inflammatory drugs in the chemoprevention of cancer.",
+      "journal": "Mutation research",
+      "abstract_sections": [
+        "Biological and chemical irritants can be the cause of irritation in a variety of organ sites. It is becoming well understood that chronic irritation in any form can initiate and accelerate the cancer process in these same organs. This understanding comes in part from the many epidemiologic studies which point out that chronic inflammation correlates with increased risk of developing cancer in that organ which is affected. One of the hallmarks of chronic irritation is the increased activity in the arachidonic acid pathway which provides many of the necessary inflammatory biochemical mediators to this process. Arachidonic acid metabolism diverges down two main pathways, the cyclooxygenase (COX) and the lipoxygenase (LOX) pathways. The COX pathway leads to prostaglandin and thromboxane production and the LOX pathway leads to the leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs). These classes of inflammatory molecules exert profound biological effects which enhance the development and progression of human cancers. A large number of synthetic drugs and natural products have been discovered that block many of these key pathways. Much experimental evidence in animals has shown that inhibition of the key enzymes which drive these pathways can, in fact, prevent, slow or reverse the cancer process. The data are convincing in a number of organ sites including colon, breast, lung, bladder and skin. More recently, double-blinded randomize clinical trials in humans have shown the prevention of colonic polyps by anti-inflammatory agents. These studies have primarily used non-steroidal anti-inflammatory drugs (NSAIDS) which block the COX pathways. Recent preclinical studies indicate that the LOX pathway also may be an important target for cancer prevention strategy. The expression of high levels of these enzymes in cancerous tissues make them an obvious first target for cancer prevention strategies. As newer more specific drugs are developed with few adverse effects this important prevention strategy may become a reality."
+      ],
+      "abstract": "Biological and chemical irritants can be the cause of irritation in a variety of organ sites. It is becoming well understood that chronic irritation in any form can initiate and accelerate the cancer process in these same organs. This understanding comes in part from the many epidemiologic studies which point out that chronic inflammation correlates with increased risk of developing cancer in that organ which is affected. One of the hallmarks of chronic irritation is the increased activity in the arachidonic acid pathway which provides many of the necessary inflammatory biochemical mediators to this process. Arachidonic acid metabolism diverges down two main pathways, the cyclooxygenase (COX) and the lipoxygenase (LOX) pathways. The COX pathway leads to prostaglandin and thromboxane production and the LOX pathway leads to the leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs). These classes of inflammatory molecules exert profound biological effects which enhance the development and progression of human cancers. A large number of synthetic drugs and natural products have been discovered that block many of these key pathways. Much experimental evidence in animals has shown that inhibition of the key enzymes which drive these pathways can, in fact, prevent, slow or reverse the cancer process. The data are convincing in a number of organ sites including colon, breast, lung, bladder and skin. More recently, double-blinded randomize clinical trials in humans have shown the prevention of colonic polyps by anti-inflammatory agents. These studies have primarily used non-steroidal anti-inflammatory drugs (NSAIDS) which block the COX pathways. Recent preclinical studies indicate that the LOX pathway also may be an important target for cancer prevention strategy. The expression of high levels of these enzymes in cancerous tissues make them an obvious first target for cancer prevention strategies. As newer more specific drugs are developed with few adverse effects this important prevention strategy may become a reality.",
+      "evidence_sentences": [
+        "This understanding comes in part from the many epidemiologic studies which point out that chronic inflammation correlates with increased risk of developing cancer in that organ which is affected.",
+        "Recent preclinical studies indicate that the LOX pathway also may be an important target for cancer prevention strategy.",
+        "These studies have primarily used non-steroidal anti-inflammatory drugs (NSAIDS) which block the COX pathways."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Vernon E Steele",
+        "Ernest T Hawk",
+        "Jaye L Viner",
+        "Ronald A Lubet"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12628511/"
+    },
+    {
+      "pmid": "40088375",
+      "title": "Cancer screening in patients with acromegaly: a plea for a personalized approach and international registries.",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "abstract_sections": [
+        "Acromegaly is a rare condition, and often diagnosis is delayed by several years, for most patients. Acromegaly is characterized by short and long-term respiratory, cardiovascular and metabolic comorbidities, with possible impact on mortality. In the last two decades, life expectancy has progressively increased in part due to a reduction in biochemically active disease, multidisciplinary treatment approaches and a reduction in complications, and the availability of new drugs. Of note, a leading cause of mortality, cardiovascular comorbidity, has been replaced by cancer(s). As such, neoplasms more frequently observed (colon, thyroid, breast, prostate, and stomach) in patients with acromegaly are receiving increased attention. Chronic exposure to increased growth hormone serum levels may contribute to an increase in the occurrence and progression of cancers. Various efforts have been made to determine the pathogenetic mechanisms involved. However, there are no clear medical-related societal agreement(s) in relation to screening methods or timing regarding neoplasm(s) diagnosis in patients with acromegaly. Additionally, independent and dependent risk factor data in patients with acromegaly is lacking. International/national registries could help lay the groundwork to better study the impact of cancer(s) in patients with acromegaly and subsequently lead to and validate the most appropriate diagnostic and therapeutic path forward."
+      ],
+      "abstract": "Acromegaly is a rare condition, and often diagnosis is delayed by several years, for most patients. Acromegaly is characterized by short and long-term respiratory, cardiovascular and metabolic comorbidities, with possible impact on mortality. In the last two decades, life expectancy has progressively increased in part due to a reduction in biochemically active disease, multidisciplinary treatment approaches and a reduction in complications, and the availability of new drugs. Of note, a leading cause of mortality, cardiovascular comorbidity, has been replaced by cancer(s). As such, neoplasms more frequently observed (colon, thyroid, breast, prostate, and stomach) in patients with acromegaly are receiving increased attention. Chronic exposure to increased growth hormone serum levels may contribute to an increase in the occurrence and progression of cancers. Various efforts have been made to determine the pathogenetic mechanisms involved. However, there are no clear medical-related societal agreement(s) in relation to screening methods or timing regarding neoplasm(s) diagnosis in patients with acromegaly. Additionally, independent and dependent risk factor data in patients with acromegaly is lacking. International/national registries could help lay the groundwork to better study the impact of cancer(s) in patients with acromegaly and subsequently lead to and validate the most appropriate diagnostic and therapeutic path forward.",
+      "evidence_sentences": [
+        "International/national registries could help lay the groundwork to better study the impact of cancer(s) in patients with acromegaly and subsequently lead to and validate the most appropriate diagnostic and therapeutic path forward.",
+        "Chronic exposure to increased growth hormone serum levels may contribute to an increase in the occurrence and progression of cancers.",
+        "Of note, a leading cause of mortality, cardiovascular comorbidity, has been replaced by cancer(s)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Luigi Demarchis",
+        "Sabrina Chiloiro",
+        "Antonella Giampietro",
+        "Laura De Marinis",
+        "Antonio Bianchi",
+        "Maria Fleseriu",
+        "Alfredo Pontecorvi"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40088375/"
+    },
+    {
+      "pmid": "28803888",
+      "title": "Cancer risk in HIV-infected people in the USA from 1996 to 2012: a population-based, registry-linkage study.",
+      "journal": "The lancet. HIV",
+      "abstract_sections": [
+        "Monitoring cancer risk among HIV-infected people in the modern antiretroviral therapy (ART) era is essential given their elevated risk for many cancers and prolonged survival with immunosuppression, ART exposure, and ageing. We aimed to examine cancer risk in HIV-infected people in the USA as compared with that in the general population.",
+        "We did a registry-linkage study with data from population-based HIV and cancer registries in the USA (the HIV/AIDS Cancer Match Study). We assessed a cohort of HIV-infected people identified in HIV registries in Colorado, Connecticut, Georgia, Maryland, Michigan, New Jersey, New York, Puerto Rico, and Texas from 1996 to 2012. Follow-up started 3 months after either the latest of the beginning of systematic name-based state HIV registration, HIV report date (or AIDS diagnosis, if this was earlier), start of cancer registration, or Jan 1, 1996, and ended at the earliest of either death, end of cancer-registry coverage, or Dec 31, 2012. We identified diagnoses of cancer in this population through linkage with corresponding cancer registries and calculated standardised incidence ratios (SIRs) to measure cancer risk in people with HIV compared with the USA general population, by dividing the observed number of cases in people with HIV by the expected number (estimated by applying general population cancer-incidence rates to person-time in the HIV population based on sex, age, race or ethnic group, calendar year, and registry). We tested SIR differences by AIDS status and over time using Poisson regression.",
+        "Among 448 258 people with HIV (who contributed 3 093 033 person-years), 21 294 incident cancers were diagnosed during 1996-2012. In these people, compared with the general population, risk was elevated (p<0·0001 for all) for cancer overall (SIR 1·69, 95% CI 1·67-1·72), AIDS-defining cancers (Kaposi's sarcoma [498·11, 477·82-519·03], non-Hodgkin lymphoma [11·51, 11·14-11·89], and cervix [3·24, 2·94-3·56]), most other virus-related cancers (eg, anus [19·06, 18·13-20·03], liver [3·21, 3·02-3·41], and Hodgkin's lymphoma [7·70, 7·20-8·23]), and some virus-unrelated cancers (eg, lung [1·97, 1·89-2·05]), but not for other common cancers. Risk for several cancers was higher after AIDS onset and declined across calendar periods. After multivariable adjustment, SIRs decreased significantly across 1996-2012 for Kaposi's sarcoma, two subtypes of non-Hodgkin lymphoma, and cancer of the anus, liver, and lung, but remained elevated. SIRs did not increase over time for any cancer.",
+        "For several virus-related cancers and lung cancer, declining risks over time in HIV-infected people probably reflect the expansion of ART since 1996. Additional efforts aimed at cancer prevention and screening in people with HIV are warranted.",
+        "National Cancer Institute."
+      ],
+      "abstract": "Monitoring cancer risk among HIV-infected people in the modern antiretroviral therapy (ART) era is essential given their elevated risk for many cancers and prolonged survival with immunosuppression, ART exposure, and ageing. We aimed to examine cancer risk in HIV-infected people in the USA as compared with that in the general population.\n\nWe did a registry-linkage study with data from population-based HIV and cancer registries in the USA (the HIV/AIDS Cancer Match Study). We assessed a cohort of HIV-infected people identified in HIV registries in Colorado, Connecticut, Georgia, Maryland, Michigan, New Jersey, New York, Puerto Rico, and Texas from 1996 to 2012. Follow-up started 3 months after either the latest of the beginning of systematic name-based state HIV registration, HIV report date (or AIDS diagnosis, if this was earlier), start of cancer registration, or Jan 1, 1996, and ended at the earliest of either death, end of cancer-registry coverage, or Dec 31, 2012. We identified diagnoses of cancer in this population through linkage with corresponding cancer registries and calculated standardised incidence ratios (SIRs) to measure cancer risk in people with HIV compared with the USA general population, by dividing the observed number of cases in people with HIV by the expected number (estimated by applying general population cancer-incidence rates to person-time in the HIV population based on sex, age, race or ethnic group, calendar year, and registry). We tested SIR differences by AIDS status and over time using Poisson regression.\n\nAmong 448 258 people with HIV (who contributed 3 093 033 person-years), 21 294 incident cancers were diagnosed during 1996-2012. In these people, compared with the general population, risk was elevated (p<0·0001 for all) for cancer overall (SIR 1·69, 95% CI 1·67-1·72), AIDS-defining cancers (Kaposi's sarcoma [498·11, 477·82-519·03], non-Hodgkin lymphoma [11·51, 11·14-11·89], and cervix [3·24, 2·94-3·56]), most other virus-related cancers (eg, anus [19·06, 18·13-20·03], liver [3·21, 3·02-3·41], and Hodgkin's lymphoma [7·70, 7·20-8·23]), and some virus-unrelated cancers (eg, lung [1·97, 1·89-2·05]), but not for other common cancers. Risk for several cancers was higher after AIDS onset and declined across calendar periods. After multivariable adjustment, SIRs decreased significantly across 1996-2012 for Kaposi's sarcoma, two subtypes of non-Hodgkin lymphoma, and cancer of the anus, liver, and lung, but remained elevated. SIRs did not increase over time for any cancer.\n\nFor several virus-related cancers and lung cancer, declining risks over time in HIV-infected people probably reflect the expansion of ART since 1996. Additional efforts aimed at cancer prevention and screening in people with HIV are warranted.\n\nNational Cancer Institute.",
+      "evidence_sentences": [
+        "We did a registry-linkage study with data from population-based HIV and cancer registries in the USA (the HIV/AIDS Cancer Match Study).",
+        "In these people, compared with the general population, risk was elevated (p<0·0001 for all) for cancer overall (SIR 1·69, 95% CI 1·67-1·72), AIDS-defining cancers (Kaposi's sarcoma [498·11, 477·82-519·03], non-Hodgkin lymphoma [11·51, 11·14-11·89], and cervix [3·24, 2·94-3·56]), most other virus-related cancers (eg, anus [19·06, 18·13-20·03], liver [3·21, 3·02-3·41], and Hodgkin's lymphoma [7·70, 7·20-8·23]), and some virus-unrelated cancers (eg, lung [1·97, 1·89-2·05]), but not for other common cancers.",
+        "We identified diagnoses of cancer in this population through linkage with corresponding cancer registries and calculated standardised incidence ratios (SIRs) to measure cancer risk in people with HIV compared with the USA general population, by dividing the observed number of cases in people with HIV by the expected number (estimated by applying general population cancer-incidence rates to person-time in the HIV population based on sex, age, race or ethnic group, calendar year, and registry)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Raúl U Hernández-Ramírez",
+        "Meredith S Shiels",
+        "Robert Dubrow",
+        "Eric A Engels"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28803888/"
+    },
+    {
+      "pmid": "16595142",
+      "title": "Does sunlight have a beneficial influence on certain cancers?",
+      "journal": "Progress in biophysics and molecular biology",
+      "abstract_sections": [
+        "Apperly [1941. The relation of solar radiation to cancer mortality in North America. Cancer Research 1, 191-195] first proposed that increased mortality from cancer in the north than in the south of the USA might be due to the south to north decrease in ambient solar radiation. This inverse association between ambient solar radiation and cancer mortality has been subsequently reported for cancers of the colon, breast, ovary and prostate. While the evidence that sunlight might be related to lower incidence or more favourable outcomes from cancer came initially from ecological studies, case-control and cohort studies have now shown a similar association of sun exposure with risks of colon, breast and prostate cancers in individuals, and other studies in individuals have found that serum and dietary vitamin D levels are associated with reduced risks of colorectal cancer and, less certainly, prostate cancer. Studies in individuals have recently also suggested an effect of sun exposure to reduce risk of non-Hodgkin lymphoma and to increase survival after a diagnosis of melanoma. Data on variation in survival from cancer by season of diagnosis suggest that sun exposure may also improve outcome from cancers of the breast, colon and prostate and Hodgkin lymphoma."
+      ],
+      "abstract": "Apperly [1941. The relation of solar radiation to cancer mortality in North America. Cancer Research 1, 191-195] first proposed that increased mortality from cancer in the north than in the south of the USA might be due to the south to north decrease in ambient solar radiation. This inverse association between ambient solar radiation and cancer mortality has been subsequently reported for cancers of the colon, breast, ovary and prostate. While the evidence that sunlight might be related to lower incidence or more favourable outcomes from cancer came initially from ecological studies, case-control and cohort studies have now shown a similar association of sun exposure with risks of colon, breast and prostate cancers in individuals, and other studies in individuals have found that serum and dietary vitamin D levels are associated with reduced risks of colorectal cancer and, less certainly, prostate cancer. Studies in individuals have recently also suggested an effect of sun exposure to reduce risk of non-Hodgkin lymphoma and to increase survival after a diagnosis of melanoma. Data on variation in survival from cancer by season of diagnosis suggest that sun exposure may also improve outcome from cancers of the breast, colon and prostate and Hodgkin lymphoma.",
+      "evidence_sentences": [
+        "While the evidence that sunlight might be related to lower incidence or more favourable outcomes from cancer came initially from ecological studies, case-control and cohort studies have now shown a similar association of sun exposure with risks of colon, breast and prostate cancers in individuals, and other studies in individuals have found that serum and dietary vitamin D levels are associated with reduced risks of colorectal cancer and, less certainly, prostate cancer.",
+        "Studies in individuals have recently also suggested an effect of sun exposure to reduce risk of non-Hodgkin lymphoma and to increase survival after a diagnosis of melanoma.",
+        "Cancer Research 1, 191-195] first proposed that increased mortality from cancer in the north than in the south of the USA might be due to the south to north decrease in ambient solar radiation."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Anne Kricker",
+        "Bruce Armstrong"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16595142/"
+    },
+    {
+      "pmid": "30878527",
+      "title": "miRNA-223 at the crossroads of inflammation and cancer.",
+      "journal": "Cancer letters",
+      "abstract_sections": [
+        "miR-223 is an evolutionarily conserved anti-inflammatory microRNA primarily expressed in myeloid cells. miR-223 post-transcriptionally regulates many genes essential in inflammation, cell proliferation, and invasion. Recent studies show that miR-223 is either endogenously expressed or transferred in exosomes or extracellular vesicles to non-phagocytic cells including cancer cells, where it exerts biological functions. In cancerous cells, miR-223 acts either as an oncomiR promoting tumors or as a tumor suppressor in a context-dependent manner. Taken together, miR-223 can regulate tumorigenesis at multiple levels, including by suppressing the inflammatory tumor microenvironment and modulating malignancy of cancer cells."
+      ],
+      "abstract": "miR-223 is an evolutionarily conserved anti-inflammatory microRNA primarily expressed in myeloid cells. miR-223 post-transcriptionally regulates many genes essential in inflammation, cell proliferation, and invasion. Recent studies show that miR-223 is either endogenously expressed or transferred in exosomes or extracellular vesicles to non-phagocytic cells including cancer cells, where it exerts biological functions. In cancerous cells, miR-223 acts either as an oncomiR promoting tumors or as a tumor suppressor in a context-dependent manner. Taken together, miR-223 can regulate tumorigenesis at multiple levels, including by suppressing the inflammatory tumor microenvironment and modulating malignancy of cancer cells.",
+      "evidence_sentences": [
+        "Recent studies show that miR-223 is either endogenously expressed or transferred in exosomes or extracellular vesicles to non-phagocytic cells including cancer cells, where it exerts biological functions.",
+        "Taken together, miR-223 can regulate tumorigenesis at multiple levels, including by suppressing the inflammatory tumor microenvironment and modulating malignancy of cancer cells.",
+        "In cancerous cells, miR-223 acts either as an oncomiR promoting tumors or as a tumor suppressor in a context-dependent manner."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Jacob Jeffries",
+        "Wenqing Zhou",
+        "Alan Y Hsu",
+        "Qing Deng"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30878527/"
+    },
+    {
+      "pmid": "38731883",
+      "title": "PKIB, a Novel Target for Cancer Therapy.",
+      "journal": "International journal of molecular sciences",
+      "abstract_sections": [
+        "The serine-threonine kinase protein kinase A (PKA) is a cyclic AMP (cAMP)-dependent intracellular protein with multiple roles in cellular biology including metabolic and transcription regulation functions. The cAMP-dependent protein kinase inhibitor β (PKIB) is one of three known endogenous protein kinase inhibitors of PKA. The role of PKIB is not yet fully understood. Hormonal signaling is correlated with increased PKIB expression through genetic regulation, and increasing PKIB expression is associated with decreased cancer patient prognosis. Additionally, PKIB impacts cancer cell behavior through two mechanisms; the first is the nuclear modulation of transcriptional activation and the second is the regulation of oncogenic AKT signaling. The limited research into PKIB indicates the oncogenic potential of PKIB in various cancers. However, some studies suggest a role of PKIB in non-cancerous disease states. This review aims to summarize the current literature and background of PKIB regarding cancer and related issues. In particular, we will focus on cancer development and therapeutic possibilities, which are of paramount interest in PKIB oncology research."
+      ],
+      "abstract": "The serine-threonine kinase protein kinase A (PKA) is a cyclic AMP (cAMP)-dependent intracellular protein with multiple roles in cellular biology including metabolic and transcription regulation functions. The cAMP-dependent protein kinase inhibitor β (PKIB) is one of three known endogenous protein kinase inhibitors of PKA. The role of PKIB is not yet fully understood. Hormonal signaling is correlated with increased PKIB expression through genetic regulation, and increasing PKIB expression is associated with decreased cancer patient prognosis. Additionally, PKIB impacts cancer cell behavior through two mechanisms; the first is the nuclear modulation of transcriptional activation and the second is the regulation of oncogenic AKT signaling. The limited research into PKIB indicates the oncogenic potential of PKIB in various cancers. However, some studies suggest a role of PKIB in non-cancerous disease states. This review aims to summarize the current literature and background of PKIB regarding cancer and related issues. In particular, we will focus on cancer development and therapeutic possibilities, which are of paramount interest in PKIB oncology research.",
+      "evidence_sentences": [
+        "However, some studies suggest a role of PKIB in non-cancerous disease states.",
+        "This review aims to summarize the current literature and background of PKIB regarding cancer and related issues.",
+        "Additionally, PKIB impacts cancer cell behavior through two mechanisms; the first is the nuclear modulation of transcriptional activation and the second is the regulation of oncogenic AKT signaling."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Anna Musket",
+        "Jonathan P Moorman",
+        "Jinyu Zhang",
+        "Yong Jiang"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38731883/"
+    },
+    {
+      "pmid": "39747865",
+      "title": "The spatially informed mFISHseq assay resolves biomarker discordance and predicts treatment response in breast cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Current assays fail to address breast cancer's complex biology and accurately predict treatment response. On a retrospective cohort of 1082 female breast tissues, we develop and validate mFISHseq, which integrates multiplexed RNA fluorescent in situ hybridization with RNA-sequencing, guided by laser capture microdissection. This technique ensures tumor purity, unbiased whole transcriptome profiling, and explicitly quantifies intratumoral heterogeneity. Here we show mFISHseq has 93% accuracy compared to immunohistochemistry. Our consensus subtyping and risk groups mitigate single sample discordance, provide early and late prognostic information, and identify high risk patients with enriched immune signatures, which predict response to neoadjuvant immunotherapy in the multicenter, phase II, prospective I-SPY2 trial. We identify putative antibody-drug conjugate (ADC)-responsive patients, as evidenced by a 19-feature T-DM1 classifier, validated on I-SPY2. Deploying mFISHseq as a research-use only test on 48 patients demonstrates clinical feasibility, revealing insights into the efficacy of targeted therapies, like CDK4/6 inhibitors, immunotherapies, and ADCs."
+      ],
+      "abstract": "Current assays fail to address breast cancer's complex biology and accurately predict treatment response. On a retrospective cohort of 1082 female breast tissues, we develop and validate mFISHseq, which integrates multiplexed RNA fluorescent in situ hybridization with RNA-sequencing, guided by laser capture microdissection. This technique ensures tumor purity, unbiased whole transcriptome profiling, and explicitly quantifies intratumoral heterogeneity. Here we show mFISHseq has 93% accuracy compared to immunohistochemistry. Our consensus subtyping and risk groups mitigate single sample discordance, provide early and late prognostic information, and identify high risk patients with enriched immune signatures, which predict response to neoadjuvant immunotherapy in the multicenter, phase II, prospective I-SPY2 trial. We identify putative antibody-drug conjugate (ADC)-responsive patients, as evidenced by a 19-feature T-DM1 classifier, validated on I-SPY2. Deploying mFISHseq as a research-use only test on 48 patients demonstrates clinical feasibility, revealing insights into the efficacy of targeted therapies, like CDK4/6 inhibitors, immunotherapies, and ADCs.",
+      "evidence_sentences": [
+        "Current assays fail to address breast cancer's complex biology and accurately predict treatment response.",
+        "Our consensus subtyping and risk groups mitigate single sample discordance, provide early and late prognostic information, and identify high risk patients with enriched immune signatures, which predict response to neoadjuvant immunotherapy in the multicenter, phase II, prospective I-SPY2 trial."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Evan D Paul",
+        "Barbora Huraiová",
+        "Natália Valková",
+        "Natalia Matyasovska",
+        "Daniela Gábrišová",
+        "Soňa Gubová",
+        "Helena Ignačáková",
+        "Tomáš Ondris",
+        "Michal Gala",
+        "Liliane Barroso",
+        "Silvia Bendíková",
+        "Jarmila Bíla",
+        "Katarína Buranovská",
+        "Diana Drobná",
+        "Zuzana Krchňáková",
+        "Maryna Kryvokhyzha",
+        "Daniel Lovíšek",
+        "Viktoriia Mamoilyk",
+        "Veronika Mancikova",
+        "Nina Vojtaššáková",
+        "Michaela Ristová",
+        "Iñaki Comino-Méndez",
+        "Igor Andrašina",
+        "Pavel Morozov",
+        "Thomas Tuschl",
+        "Fresia Pareja",
+        "Jakob N Kather",
+        "Pavol Čekan"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39747865/"
+    },
+    {
+      "pmid": "15569600",
+      "title": "Treating cancer with embryonic stem cells: rationale comes from aging studies.",
+      "journal": "Frontiers in bioscience : a journal and virtual library",
+      "abstract_sections": [
+        "In an earlier poster paper (1) we proposed that cancer can be viewed not only as a fatal disease but also as a local aberrant, rejuvenation, in an organism, and this fact can be useful for developing new anti-aging and anti-cancer treatments. In this paper we provide additional evidence from human and experimental animal studies in support of this view. First, we discuss cancer genes as candidate targets for anti-aging interventions. We review examples in which the life of experimental animals has been prolonged in situations of increased activity of proto-oncogenes - or decreased activity of tumor suppressors - in normal (non-cancerous) cells in vivo. Studies of genetic polymorphisms revealed similar effects on longevity in humans. Second, we discuss the possibility of treating cancer with embryonic stem cells. The fact that cancer cells do not, age, means that these cells overcome aging host cells. However, cancer cells can be suppressed by young and quickly proliferating non-cancer cells, such as embryonic stem cells. The grafting of these cells in the tumor environment could be a prospective non-toxic anti-cancer treatment. We discuss recent evidence in support of this view."
+      ],
+      "abstract": "In an earlier poster paper (1) we proposed that cancer can be viewed not only as a fatal disease but also as a local aberrant, rejuvenation, in an organism, and this fact can be useful for developing new anti-aging and anti-cancer treatments. In this paper we provide additional evidence from human and experimental animal studies in support of this view. First, we discuss cancer genes as candidate targets for anti-aging interventions. We review examples in which the life of experimental animals has been prolonged in situations of increased activity of proto-oncogenes - or decreased activity of tumor suppressors - in normal (non-cancerous) cells in vivo. Studies of genetic polymorphisms revealed similar effects on longevity in humans. Second, we discuss the possibility of treating cancer with embryonic stem cells. The fact that cancer cells do not, age, means that these cells overcome aging host cells. However, cancer cells can be suppressed by young and quickly proliferating non-cancer cells, such as embryonic stem cells. The grafting of these cells in the tumor environment could be a prospective non-toxic anti-cancer treatment. We discuss recent evidence in support of this view.",
+      "evidence_sentences": [
+        "We review examples in which the life of experimental animals has been prolonged in situations of increased activity of proto-oncogenes - or decreased activity of tumor suppressors - in normal (non-cancerous) cells in vivo.",
+        "The grafting of these cells in the tumor environment could be a prospective non-toxic anti-cancer treatment.",
+        "However, cancer cells can be suppressed by young and quickly proliferating non-cancer cells, such as embryonic stem cells."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Svetlana V Ukraintseva",
+        "Anatoly I Yashin"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15569600/"
+    },
+    {
+      "pmid": "26893066",
+      "title": "Optimizing mouse models for precision cancer prevention.",
+      "journal": "Nature reviews. Cancer",
+      "abstract_sections": [
+        "As cancer has become increasingly prevalent, cancer prevention research has evolved towards placing a greater emphasis on reducing cancer deaths and minimizing the adverse consequences of having cancer. 'Precision cancer prevention' takes into account the collaboration of intrinsic and extrinsic factors in influencing cancer incidence and aggressiveness in the context of the individual, as well as recognizing that such knowledge can improve early detection and enable more accurate discrimination of cancerous lesions. However, mouse models, and particularly genetically engineered mouse (GEM) models, have yet to be fully integrated into prevention research. In this Opinion article, we discuss opportunities and challenges for precision mouse modelling, including the essential criteria of mouse models for prevention research, representative success stories and opportunities for more refined analyses in future studies."
+      ],
+      "abstract": "As cancer has become increasingly prevalent, cancer prevention research has evolved towards placing a greater emphasis on reducing cancer deaths and minimizing the adverse consequences of having cancer. 'Precision cancer prevention' takes into account the collaboration of intrinsic and extrinsic factors in influencing cancer incidence and aggressiveness in the context of the individual, as well as recognizing that such knowledge can improve early detection and enable more accurate discrimination of cancerous lesions. However, mouse models, and particularly genetically engineered mouse (GEM) models, have yet to be fully integrated into prevention research. In this Opinion article, we discuss opportunities and challenges for precision mouse modelling, including the essential criteria of mouse models for prevention research, representative success stories and opportunities for more refined analyses in future studies.",
+      "evidence_sentences": [
+        "'Precision cancer prevention' takes into account the collaboration of intrinsic and extrinsic factors in influencing cancer incidence and aggressiveness in the context of the individual, as well as recognizing that such knowledge can improve early detection and enable more accurate discrimination of cancerous lesions.",
+        "In this Opinion article, we discuss opportunities and challenges for precision mouse modelling, including the essential criteria of mouse models for prevention research, representative success stories and opportunities for more refined analyses in future studies.",
+        "As cancer has become increasingly prevalent, cancer prevention research has evolved towards placing a greater emphasis on reducing cancer deaths and minimizing the adverse consequences of having cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "studies",
+        "usa"
+      ],
+      "authors": [
+        "Clémentine Le Magnen",
+        "Aditya Dutta",
+        "Cory Abate-Shen"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26893066/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "221688",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "39753139",
+        "15308095",
+        "31836838",
+        "34508258",
+        "37366925",
+        "34168109",
+        "36454335",
+        "29032295",
+        "37095596",
+        "39000164",
+        "31030667",
+        "36566154",
+        "22519802",
+        "40494090",
+        "40765333",
+        "38904271",
+        "36332746",
+        "34097189",
+        "31836455",
+        "24629333",
+        "36443206",
+        "12628511",
+        "40088375",
+        "28803888",
+        "16595142",
+        "30878527",
+        "38731883",
+        "39747865",
+        "15569600",
+        "26893066"
+      ],
+      "translationset": [
+        {
+          "from": "cancer",
+          "to": "\"cancer's\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]"
+        },
+        {
+          "from": "studies",
+          "to": "\"studies\"[All Fields] OR \"study\"[All Fields] OR \"study's\"[All Fields] OR \"studying\"[All Fields] OR \"studys\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND \"non\"[All Fields] AND (\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND (\"studies\"[All Fields] OR \"study\"[All Fields] OR \"study s\"[All Fields] OR \"studying\"[All Fields] OR \"studys\"[All Fields]) AND \"USA\"[All Fields] AND \"USA\"[All Fields]"
+    }
+  }
+}

@@ -1,0 +1,1756 @@
+{
+  "query": "malaria hiv prevalence kenya",
+  "selected_query": "malaria hiv prevalence kenya",
+  "attempted_queries": [
+    {
+      "query": "malaria hiv prevalence kenya",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "36529768",
+    "40018559",
+    "36410321",
+    "40990886",
+    "38224710",
+    "31546088",
+    "38640940",
+    "33614525",
+    "39544623",
+    "33716195",
+    "26173396",
+    "21224274",
+    "12598780",
+    "37697804",
+    "36189366",
+    "12598779",
+    "37788741",
+    "24556872",
+    "37494044",
+    "17538880",
+    "9840604",
+    "26407275",
+    "21505300",
+    "17158329",
+    "38982894",
+    "28787328",
+    "35341998",
+    "34257091",
+    "26425549",
+    "36544758"
+  ],
+  "records": [
+    {
+      "pmid": "36529768",
+      "title": "Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.",
+      "journal": "BMC medicine",
+      "abstract_sections": [
+        "Human immunodeficiency virus and acquired immune deficiency syndrome (HIV/AIDS) is still among the leading causes of disease burden and mortality in sub-Saharan Africa (SSA), and the world is not on track to meet targets set for ending the epidemic by the Joint United Nations Programme on HIV/AIDS (UNAIDS) and the United Nations Sustainable Development Goals (SDGs). Precise HIV burden information is critical for effective geographic and epidemiological targeting of prevention and treatment interventions. Age- and sex-specific HIV prevalence estimates are widely available at the national level, and region-wide local estimates were recently published for adults overall. We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA.",
+        "We analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.",
+        "We found substantial variation in HIV prevalence across localities, ages, and sexes that have been masked in earlier analyses. Within-country variation in prevalence in 2018 was a median 3.5 times greater across ages and sexes, compared to for all adults combined. We note large within-district prevalence differences between age groups: for men, 50% of districts displayed at least a 14-fold difference between age groups with the highest and lowest prevalence, and at least a 9-fold difference for women. Prevalence trends also varied over time; between 2000 and 2018, 70% of all districts saw a reduction in prevalence greater than five percentage points in at least one sex and age group. Meanwhile, over 30% of all districts saw at least a five percentage point prevalence increase in one or more sex and age group.",
+        "As the HIV epidemic persists and evolves in SSA, geographic and demographic shifts in prevention and treatment efforts are necessary. These estimates offer epidemiologically informative detail to better guide more targeted interventions, vital for combating HIV in SSA."
+      ],
+      "abstract": "Human immunodeficiency virus and acquired immune deficiency syndrome (HIV/AIDS) is still among the leading causes of disease burden and mortality in sub-Saharan Africa (SSA), and the world is not on track to meet targets set for ending the epidemic by the Joint United Nations Programme on HIV/AIDS (UNAIDS) and the United Nations Sustainable Development Goals (SDGs). Precise HIV burden information is critical for effective geographic and epidemiological targeting of prevention and treatment interventions. Age- and sex-specific HIV prevalence estimates are widely available at the national level, and region-wide local estimates were recently published for adults overall. We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA.\n\nWe analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.\n\nWe found substantial variation in HIV prevalence across localities, ages, and sexes that have been masked in earlier analyses. Within-country variation in prevalence in 2018 was a median 3.5 times greater across ages and sexes, compared to for all adults combined. We note large within-district prevalence differences between age groups: for men, 50% of districts displayed at least a 14-fold difference between age groups with the highest and lowest prevalence, and at least a 9-fold difference for women. Prevalence trends also varied over time; between 2000 and 2018, 70% of all districts saw a reduction in prevalence greater than five percentage points in at least one sex and age group. Meanwhile, over 30% of all districts saw at least a five percentage point prevalence increase in one or more sex and age group.\n\nAs the HIV epidemic persists and evolves in SSA, geographic and demographic shifts in prevention and treatment efforts are necessary. These estimates offer epidemiologically informative detail to better guide more targeted interventions, vital for combating HIV in SSA.",
+      "evidence_sentences": [
+        "We analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.",
+        "We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA.",
+        "Age- and sex-specific HIV prevalence estimates are widely available at the national level, and region-wide local estimates were recently published for adults overall."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Emily Haeuser",
+        "Audrey L Serfes",
+        "Michael A Cork",
+        "Mingyou Yang",
+        "Hedayat Abbastabar",
+        "E S Abhilash",
+        "Maryam Adabi",
+        "Oladimeji M Adebayo",
+        "Victor Adekanmbi",
+        "Daniel Adedayo Adeyinka",
+        "Saira Afzal",
+        "Bright Opoku Ahinkorah",
+        "Keivan Ahmadi",
+        "Muktar Beshir Ahmed",
+        "Yonas Akalu",
+        "Rufus Olusola Akinyemi",
+        "Chisom Joyqueenet Akunna",
+        "Fares Alahdab",
+        "Fahad Mashhour Alanezi",
+        "Turki M Alanzi",
+        "Kefyalew Addis Alene",
+        "Robert Kaba Alhassan",
+        "Vahid Alipour",
+        "Amir Almasi-Hashiani",
+        "Nelson Alvis-Guzman",
+        "Edward Kwabena Ameyaw",
+        "Saeed Amini",
+        "Dickson A Amugsi",
+        "Robert Ancuceanu",
+        "Davood Anvari",
+        "Seth Christopher Yaw Appiah",
+        "Jalal Arabloo",
+        "Olatunde Aremu",
+        "Mulusew A Asemahagn",
+        "Mohammad Asghari Jafarabadi",
+        "Atalel Fentahun Awedew",
+        "Beatriz Paulina Ayala Quintanilla",
+        "Martin Amogre Ayanore",
+        "Yared Asmare Aynalem",
+        "Samad Azari",
+        "Zelalem Nigussie Azene",
+        "B B Darshan",
+        "Tesleem Kayode Babalola",
+        "Atif Amin Baig",
+        "Maciej Banach",
+        "Till Winfried Bärnighausen",
+        "Arielle Wilder Bell",
+        "Akshaya Srikanth Bhagavathula",
+        "Nikha Bhardwaj",
+        "Pankaj Bhardwaj",
+        "Krittika Bhattacharyya",
+        "Ali Bijani",
+        "Zebenay Workneh Bitew",
+        "Somayeh Bohlouli",
+        "Obasanjo Afolabi Bolarinwa",
+        "Archith Boloor",
+        "Ivana Bozicevic",
+        "Zahid A Butt",
+        "Rosario Cárdenas",
+        "Felix Carvalho",
+        "Jaykaran Charan",
+        "Vijay Kumar Chattu",
+        "Mohiuddin Ahsanul Kabir Chowdhury",
+        "Dinh-Toi Chu",
+        "Richard G Cowden",
+        "Saad M A Dahlawi",
+        "Giovanni Damiani",
+        "Eugene Kofuor Maafo Darteh",
+        "Aso Mohammad Darwesh",
+        "José das Neves",
+        "Nicole Davis Weaver",
+        "Diego De Leo",
+        "Jan-Walter De Neve",
+        "Kebede Deribe",
+        "Keshab Deuba",
+        "Samath Dharmaratne",
+        "Mostafa Dianatinasab",
+        "Daniel Diaz",
+        "Alireza Didarloo",
+        "Shirin Djalalinia",
+        "Fariba Dorostkar",
+        "Eleonora Dubljanin",
+        "Bereket Duko",
+        "Maha El Tantawi",
+        "Shaimaa I El-Jaafary",
+        "Babak Eshrati",
+        "Sharareh Eskandarieh",
+        "Oghenowede Eyawo",
+        "Ifeanyi Jude Ezeonwumelu",
+        "Sayeh Ezzikouri",
+        "Farshad Farzadfar",
+        "Nazir Fattahi",
+        "Nelsensius Klau Fauk",
+        "Eduarda Fernandes",
+        "Irina Filip",
+        "Florian Fischer",
+        "Nataliya A Foigt",
+        "Masoud Foroutan",
+        "Takeshi Fukumoto",
+        "Mohamed M Gad",
+        "Abhay Motiramji Gaidhane",
+        "Birhan Gebresillassie Gebregiorgis",
+        "Ketema Bizuwork Gebremedhin",
+        "Lemma Getacher",
+        "Keyghobad Ghadiri",
+        "Ahmad Ghashghaee",
+        "Mahaveer Golechha",
+        "Mohammed Ibrahim Mohialdeen Gubari",
+        "Harish Chander Gugnani",
+        "Rafael Alves Guimarães",
+        "Mohammad Rifat Haider",
+        "Arvin Haj-Mirzaian",
+        "Samer Hamidi",
+        "Abdiwahab Hashi",
+        "Soheil Hassanipour",
+        "Hadi Hassankhani",
+        "Khezar Hayat",
+        "Claudiu Herteliu",
+        "Hung Chak Ho",
+        "Ramesh Holla",
+        "Mostafa Hosseini",
+        "Mehdi Hosseinzadeh",
+        "Bing-Fang Hwang",
+        "Segun Emmanuel Ibitoye",
+        "Olayinka Stephen Ilesanmi",
+        "Irena M Ilic",
+        "Milena D Ilic",
+        "Rakibul M Islam",
+        "Chidozie C D Iwu",
+        "Mihajlo Jakovljevic",
+        "Ravi Prakash Jha",
+        "John S Ji",
+        "Kimberly B Johnson",
+        "Nitin Joseph",
+        "Vasna Joshua",
+        "Farahnaz Joukar",
+        "Jacek Jerzy Jozwiak",
+        "Leila R Kalankesh",
+        "Rohollah Kalhor",
+        "Naser Kamyari",
+        "Tanuj Kanchan",
+        "Behzad Karami Matin",
+        "Salah Eddin Karimi",
+        "Gbenga A Kayode",
+        "Ali Kazemi Karyani",
+        "Maryam Keramati",
+        "Ejaz Ahmad Khan",
+        "Gulfaraz Khan",
+        "Md Nuruzzaman Khan",
+        "Khaled Khatab",
+        "Jagdish Khubchandani",
+        "Yun Jin Kim",
+        "Adnan Kisa",
+        "Sezer Kisa",
+        "Jacek A Kopec",
+        "Soewarta Kosen",
+        "Sindhura Lakshmi Koulmane Laxminarayana",
+        "Ai Koyanagi",
+        "Kewal Krishan",
+        "Barthelemy Kuate Defo",
+        "Nuworza Kugbey",
+        "Vaman Kulkarni",
+        "Manasi Kumar",
+        "Nithin Kumar",
+        "Dian Kusuma",
+        "Carlo La Vecchia",
+        "Dharmesh Kumar Lal",
+        "Iván Landires",
+        "Heidi Jane Larson",
+        "Savita Lasrado",
+        "Paul H Lee",
+        "Shanshan Li",
+        "Xuefeng Liu",
+        "Afshin Maleki",
+        "Preeti Malik",
+        "Mohammad Ali Mansournia",
+        "Francisco Rogerlândio Martins-Melo",
+        "Walter Mendoza",
+        "Ritesh G Menezes",
+        "Endalkachew Worku Mengesha",
+        "Tuomo J Meretoja",
+        "Tomislav Mestrovic",
+        "Andreea Mirica",
+        "Babak Moazen",
+        "Osama Mohamad",
+        "Yousef Mohammad",
+        "Abdollah Mohammadian-Hafshejani",
+        "Reza Mohammadpourhodki",
+        "Salahuddin Mohammed",
+        "Shafiu Mohammed",
+        "Ali H Mokdad",
+        "Masoud Moradi",
+        "Paula Moraga",
+        "Sumaira Mubarik",
+        "Getaneh Baye B Mulu",
+        "Lillian Mwanri",
+        "Ahamarshan Jayaraman Nagarajan",
+        "Mukhammad David Naimzada",
+        "Muhammad Naveed",
+        "Javad Nazari",
+        "Rawlance Ndejjo",
+        "Ionut Negoi",
+        "Frida N Ngalesoni",
+        "Georges Nguefack-Tsague",
+        "Josephine W Ngunjiri",
+        "Cuong Tat Nguyen",
+        "Huong Lan Thi Nguyen",
+        "Chukwudi A Nnaji",
+        "Jean Jacques Noubiap",
+        "Virginia Nuñez-Samudio",
+        "Vincent Ebuka Nwatah",
+        "Bogdan Oancea",
+        "Oluwakemi Ololade Odukoya",
+        "Andrew T Olagunju",
+        "Babayemi Oluwaseun Olakunde",
+        "Bolajoko Olubukunola Olusanya",
+        "Jacob Olusegun Olusanya",
+        "Ahmed Omar Bali",
+        "Obinna E Onwujekwe",
+        "Orish Ebere Orisakwe",
+        "Nikita Otstavnov",
+        "Stanislav S Otstavnov",
+        "Mayowa O Owolabi",
+        "P A Mahesh",
+        "Jagadish Rao Padubidri",
+        "Adrian Pana",
+        "Ashok Pandey",
+        "Seithikurippu R Pandi-Perumal",
+        "Fatemeh Pashazadeh Kan",
+        "George C Patton",
+        "Shrikant Pawar",
+        "Emmanuel K Peprah",
+        "Maarten J Postma",
+        "Liliana Preotescu",
+        "Zahiruddin Quazi Syed",
+        "Navid Rabiee",
+        "Amir Radfar",
+        "Alireza Rafiei",
+        "Fakher Rahim",
+        "Vafa Rahimi-Movaghar",
+        "Amir Masoud Rahmani",
+        "Kiana Ramezanzadeh",
+        "Juwel Rana",
+        "Chhabi Lal Ranabhat",
+        "Sowmya J Rao",
+        "David Laith Rawaf",
+        "Salman Rawaf",
+        "Reza Rawassizadeh",
+        "Lemma Demissie Regassa",
+        "Nima Rezaei",
+        "Aziz Rezapour",
+        "Mavra A Riaz",
+        "Ana Isabel Ribeiro",
+        "Jennifer M Ross",
+        "Enrico Rubagotti",
+        "Susan Fred Rumisha",
+        "Godfrey M Rwegerera",
+        "Sahar Saeedi Moghaddam",
+        "Rajesh Sagar",
+        "Biniyam Sahiledengle",
+        "Maitreyi Sahu",
+        "Marwa Rashad Salem",
+        "Hossein Samadi Kafil",
+        "Abdallah M Samy",
+        "Benn Sartorius",
+        "Brijesh Sathian",
+        "Abdul-Aziz Seidu",
+        "Amira A Shaheen",
+        "Masood Ali Shaikh",
+        "Morteza Shamsizadeh",
+        "Wondimeneh Shibabaw Shiferaw",
+        "Jae Il Shin",
+        "Roman Shrestha",
+        "Jasvinder A Singh",
+        "Valentin Yurievich Skryabin",
+        "Anna Aleksandrovna Skryabina",
+        "Shahin Soltani",
+        "Mu'awiyyah Babale Sufiyan",
+        "Takahiro Tabuchi",
+        "Eyayou Girma Tadesse",
+        "Nuno Taveira",
+        "Fisaha Haile Tesfay",
+        "Rekha Thapar",
+        "Marcos Roberto Tovani-Palone",
+        "Gebiyaw Wudie Tsegaye",
+        "Chukwuma David Umeokonkwo",
+        "Bhaskaran Unnikrishnan",
+        "Jorge Hugo Villafañe",
+        "Francesco S Violante",
+        "Bay Vo",
+        "Giang Thu Vu",
+        "Yohannes Dibaba Wado",
+        "Yasir Waheed",
+        "Richard G Wamai",
+        "Yanzhong Wang",
+        "Paul Ward",
+        "Nuwan Darshana Wickramasinghe",
+        "Katherine Wilson",
+        "Sanni Yaya",
+        "Paul Yip",
+        "Naohiro Yonemoto",
+        "Chuanhua Yu",
+        "Mikhail Sergeevich Zastrozhin",
+        "Yunquan Zhang",
+        "Zhi-Jiang Zhang",
+        "Simon I Hay",
+        "Laura Dwyer-Lindgren",
+        "Local Burden of Disease sub-Saharan Africa HIV Prevalence Collaborators"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36529768/"
+    },
+    {
+      "pmid": "40018559",
+      "title": "Prevalence and risk factors of curable sexually transmitted and reproductive tract infections and malaria co-infection among pregnant women at antenatal care booking in Kenya, Malawi and Tanzania: a cross-sectional study of randomised controlled trial data.",
+      "journal": "BMJ public health",
+      "abstract_sections": [
+        "Malaria and curable sexually transmitted and reproductive tract infections (STIs/RTIs) are associated with adverse pregnancy outcomes. This study reports the prevalence and risk factors of curable STIs/RTIs, STI/RTI co-infection and STI/RTI and malaria co-infection among HIV-negative pregnant women at their first antenatal care visit in Kenya, Malawi and Tanzania.",
+        "HIV-negative pregnant women of all gravidae (n=4680) were screened for syphilis with point-of-care tests and treated if positive. Separately, women provided blood samples (n=4569) for rapid plasma reagin (RPR) testing; positive cases were confirmation by",
+        "Malaria prevalence was 14.6% (95% CI 13.6 to 15.7), 45.9% (43.4 to 48.4) of women were positive for at least one curable STI/RTI and 6.7% (5.5 to 8.1) were co-infected with malaria and a curable STI/RTI. Prevalence of individual STIs/RTIs ranged from 28.5% (26.2 to 30.9) for bacterial vaginosis to 14.5% (12.7 to 16.4) for trichomoniasis, 13.8% (12.1 to 15.7) for chlamydia, 2.7% (1.9 to 3.6) for gonorrhoea and 1.7% (1.4 to 2.2) for RPR/TPPA-confirmed syphilis. The prevalence of STI/RTI co-infection was 10.1% (8.7 to 11.8). Paucigravidae, at highest risk of malaria, were also at greater risk of having chlamydia, gonorrhoea and bacterial vaginosis than multigravidae.",
+        "Of women infected with malaria, 49.0% also had a curable STI/RTI and one in five women with at least one STI/RTI were co-infected with more than one STI/RTI. Current antenatal interventions that address malaria and curable STIs/RTIs remain suboptimal. New approaches to preventing and managing these infections in pregnancy are urgently needed.",
+        "NCT03208179."
+      ],
+      "abstract": "Malaria and curable sexually transmitted and reproductive tract infections (STIs/RTIs) are associated with adverse pregnancy outcomes. This study reports the prevalence and risk factors of curable STIs/RTIs, STI/RTI co-infection and STI/RTI and malaria co-infection among HIV-negative pregnant women at their first antenatal care visit in Kenya, Malawi and Tanzania.\n\nHIV-negative pregnant women of all gravidae (n=4680) were screened for syphilis with point-of-care tests and treated if positive. Separately, women provided blood samples (n=4569) for rapid plasma reagin (RPR) testing; positive cases were confirmation by\n\nMalaria prevalence was 14.6% (95% CI 13.6 to 15.7), 45.9% (43.4 to 48.4) of women were positive for at least one curable STI/RTI and 6.7% (5.5 to 8.1) were co-infected with malaria and a curable STI/RTI. Prevalence of individual STIs/RTIs ranged from 28.5% (26.2 to 30.9) for bacterial vaginosis to 14.5% (12.7 to 16.4) for trichomoniasis, 13.8% (12.1 to 15.7) for chlamydia, 2.7% (1.9 to 3.6) for gonorrhoea and 1.7% (1.4 to 2.2) for RPR/TPPA-confirmed syphilis. The prevalence of STI/RTI co-infection was 10.1% (8.7 to 11.8). Paucigravidae, at highest risk of malaria, were also at greater risk of having chlamydia, gonorrhoea and bacterial vaginosis than multigravidae.\n\nOf women infected with malaria, 49.0% also had a curable STI/RTI and one in five women with at least one STI/RTI were co-infected with more than one STI/RTI. Current antenatal interventions that address malaria and curable STIs/RTIs remain suboptimal. New approaches to preventing and managing these infections in pregnancy are urgently needed.\n\nNCT03208179.",
+      "evidence_sentences": [
+        "This study reports the prevalence and risk factors of curable STIs/RTIs, STI/RTI co-infection and STI/RTI and malaria co-infection among HIV-negative pregnant women at their first antenatal care visit in Kenya, Malawi and Tanzania.",
+        "Separately, women provided blood samples (n=4569) for rapid plasma reagin (RPR) testing; positive cases were confirmation by Malaria prevalence was 14.6% (95% CI 13.6 to 15.7), 45.9% (43.4 to 48.4) of women were positive for at least one curable STI/RTI and 6.7% (5.5 to 8.1) were co-infected with malaria and a curable STI/RTI.",
+        "Of women infected with malaria, 49.0% also had a curable STI/RTI and one in five women with at least one STI/RTI were co-infected with more than one STI/RTI."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Georgia R Gore-Langton",
+        "Mwayiwawo Madanitsa",
+        "Hellen C Barsosio",
+        "Daniel T R Minja",
+        "Jacklin Mosha",
+        "Reginald A Kavishe",
+        "George Mtove",
+        "Samwel Gesase",
+        "Omari A Msemo",
+        "Simon Kariuki",
+        "Kephas Otieno",
+        "Kamija S Phiri",
+        "John P A Lusingu",
+        "Crispin Mukerebe",
+        "Alphaxard Manjurano",
+        "Pius Ikigo",
+        "Queen Saidi",
+        "Eric D Onyango",
+        "Christentze Schmiegelow",
+        "James Dodd",
+        "Jenny Hill",
+        "Helle Hansson",
+        "Michael Alifrangis",
+        "Julie Gutman",
+        "Patricia Jean Hunter",
+        "Nigel Klein",
+        "Ulla Ashorn",
+        "Asma Khalil",
+        "Matt Cairns",
+        "Feiko O Ter Kuile",
+        "R Matthew Chico"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40018559/"
+    },
+    {
+      "pmid": "36410321",
+      "title": "Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria. Two studies (cross-sectional and longitudinal) were designed in sequence between 2015-2018 and 2018-2020, respectively, to test the hypothesis that HIV-1 infected individuals have higher prevalence of asymptomatic parasitemia and gametocytemia than the HIV-1 negatives. This article describes the overall design of the two studies, encompassing data for the longitudinal study and additional data to the previously published baseline data for the cross-sectional study. In the cross-sectional study, HIV-1 positive participants were significantly older, more likely to be male, and more likely to have parasitemia relative to HIV-1 negatives (P < 0.01). In the longitudinal study, 300 participants were followed for 6 months. Of these, 102 were HIV-1 negative, 106 were newly diagnosed HIV-1 positive, and 92 were HIV-1 positive and on antiretroviral therapy, including antifolates, at enrollment. Overall parasitemia positivity at enrollment was 17.3% (52/300). Of these, 44% (23/52) were HIV-1 negative, 52% (27/52) were newly diagnosed HIV-1 positives, and only 4% (2/52) were HIV-1 positive and on treatment. Parasitemia for those on stable antiretroviral therapy was significantly lower (hazard ratio: 0.51, P < 0.001), compared with the HIV-1-negatives. On follow-up, there was a significant decline in parasitemia prevalence (hazard ratio: 0.74, P < 0.001) among the HIV patients newly initiated on antiretroviral therapy including trimethoprim-sulfamethoxasole. These data highlight the impact of HIV-1 and HIV treatment on asymptomatic parasitemia over time."
+      ],
+      "abstract": "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria. Two studies (cross-sectional and longitudinal) were designed in sequence between 2015-2018 and 2018-2020, respectively, to test the hypothesis that HIV-1 infected individuals have higher prevalence of asymptomatic parasitemia and gametocytemia than the HIV-1 negatives. This article describes the overall design of the two studies, encompassing data for the longitudinal study and additional data to the previously published baseline data for the cross-sectional study. In the cross-sectional study, HIV-1 positive participants were significantly older, more likely to be male, and more likely to have parasitemia relative to HIV-1 negatives (P < 0.01). In the longitudinal study, 300 participants were followed for 6 months. Of these, 102 were HIV-1 negative, 106 were newly diagnosed HIV-1 positive, and 92 were HIV-1 positive and on antiretroviral therapy, including antifolates, at enrollment. Overall parasitemia positivity at enrollment was 17.3% (52/300). Of these, 44% (23/52) were HIV-1 negative, 52% (27/52) were newly diagnosed HIV-1 positives, and only 4% (2/52) were HIV-1 positive and on treatment. Parasitemia for those on stable antiretroviral therapy was significantly lower (hazard ratio: 0.51, P < 0.001), compared with the HIV-1-negatives. On follow-up, there was a significant decline in parasitemia prevalence (hazard ratio: 0.74, P < 0.001) among the HIV patients newly initiated on antiretroviral therapy including trimethoprim-sulfamethoxasole. These data highlight the impact of HIV-1 and HIV treatment on asymptomatic parasitemia over time.",
+      "evidence_sentences": [
+        "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria.",
+        "Two studies (cross-sectional and longitudinal) were designed in sequence between 2015-2018 and 2018-2020, respectively, to test the hypothesis that HIV-1 infected individuals have higher prevalence of asymptomatic parasitemia and gametocytemia than the HIV-1 negatives.",
+        "On follow-up, there was a significant decline in parasitemia prevalence (hazard ratio: 0.74, P < 0.001) among the HIV patients newly initiated on antiretroviral therapy including trimethoprim-sulfamethoxasole."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Janet Oyieko",
+        "Nathanial K Copeland",
+        "Solomon Otieno",
+        "Carolyne Kifude",
+        "Stephen Ocholla",
+        "Jack Hutter",
+        "Hunter Smith",
+        "Ashleigh Roberds",
+        "Shirley Luckhart",
+        "V Ann Stewart"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36410321/"
+    },
+    {
+      "pmid": "40990886",
+      "title": "Global, Regional, and National Burden of Cardiovascular Diseases and Risk Factors in 204 Countries and Territories, 1990-2023.",
+      "journal": "Journal of the American College of Cardiology",
+      "abstract_sections": [
+        "Cardiovascular diseases (CVDs) are the leading cause of mortality and are among the foremost causes of disability globally. CVD burden has continued to increase in most countries since 1990, with trends driven by changing exposures to harmful risk factors, population growth, and population aging.",
+        "We report estimates of global, national, and subnational CVD burden, including 18 subdiseases and 12 associated modifiable risk factors. We analyzed change in CVD burden from 1990 to 2023 and identified drivers of change including population growth, population aging, and risk factor exposure.",
+        "The Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models. GBD 2023 estimated the population-level burden of diseases in 204 countries and territories from 1990 to 2023.",
+        "CVDs were the leading cause of disability-adjusted life years (DALYs) and deaths estimated in the GBD. As of 2023, there were 437 million (95% UI: 401 to 465 million) CVD DALYs globally, a 1.4-fold increase from the number in 1990 of 320 million (292 to 344 million). Ischemic heart disease, intracerebral hemorrhage, ischemic stroke, and hypertensive heart disease were the leading cardiovascular causes of DALYs in 2023 globally. As of 2023, age-standardized CVD DALY rates were highest in low and low-middle Socio-demographic Index (SDI) settings and lowest in high SDI settings. The number of CVD deaths increased globally from 13.1 million (95% UI: 12.2 to 14.0 million) in 1990 to 19.2 million (95% UI: 17.4 to 20.4 million) in 2023. The number of prevalent cases of CVD more than doubled since 1990, with 311 million (95% UI: 294 to 333 million) prevalent cases of CVD in 1990 and 626 million (95% UI: 591 to 672 million) prevalent cases in 2023 globally. A total of 79.6% (95% UI: 75.7% to 82.5%) of CVD burden is attributable to modifiable risk factors 347 million [95% UI: 318 to 373 million] DALYs in 2023). Globally, high systolic blood pressure, dietary risks, high low-density lipoprotein cholesterol, and air pollution were the modifiable risks responsible for most attributable CVD burden in 2023. Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases. Population growth and population aging were the main drivers of the increasing burden since 1990, adding 128 million (95% UI: 115 to 139 million) and 139 million (95% UI: 126 to 151 million) CVD DALYs to the increase in CVD burden since 1990.",
+        "CVD remains the leading cause of disease burden and death worldwide with the greatest burden in low, low-middle, and middle SDI regions. Large variation exists in CVD burden even for countries at similar levels of development, a gap explained substantially by known, modifiable risk factors that are inadequately controlled. The decades-long increase in CVD burden was the result of population growth, population aging, and increased exposure to a subset of risk factors led by metabolic risks. Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD."
+      ],
+      "abstract": "Cardiovascular diseases (CVDs) are the leading cause of mortality and are among the foremost causes of disability globally. CVD burden has continued to increase in most countries since 1990, with trends driven by changing exposures to harmful risk factors, population growth, and population aging.\n\nWe report estimates of global, national, and subnational CVD burden, including 18 subdiseases and 12 associated modifiable risk factors. We analyzed change in CVD burden from 1990 to 2023 and identified drivers of change including population growth, population aging, and risk factor exposure.\n\nThe Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models. GBD 2023 estimated the population-level burden of diseases in 204 countries and territories from 1990 to 2023.\n\nCVDs were the leading cause of disability-adjusted life years (DALYs) and deaths estimated in the GBD. As of 2023, there were 437 million (95% UI: 401 to 465 million) CVD DALYs globally, a 1.4-fold increase from the number in 1990 of 320 million (292 to 344 million). Ischemic heart disease, intracerebral hemorrhage, ischemic stroke, and hypertensive heart disease were the leading cardiovascular causes of DALYs in 2023 globally. As of 2023, age-standardized CVD DALY rates were highest in low and low-middle Socio-demographic Index (SDI) settings and lowest in high SDI settings. The number of CVD deaths increased globally from 13.1 million (95% UI: 12.2 to 14.0 million) in 1990 to 19.2 million (95% UI: 17.4 to 20.4 million) in 2023. The number of prevalent cases of CVD more than doubled since 1990, with 311 million (95% UI: 294 to 333 million) prevalent cases of CVD in 1990 and 626 million (95% UI: 591 to 672 million) prevalent cases in 2023 globally. A total of 79.6% (95% UI: 75.7% to 82.5%) of CVD burden is attributable to modifiable risk factors 347 million [95% UI: 318 to 373 million] DALYs in 2023). Globally, high systolic blood pressure, dietary risks, high low-density lipoprotein cholesterol, and air pollution were the modifiable risks responsible for most attributable CVD burden in 2023. Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases. Population growth and population aging were the main drivers of the increasing burden since 1990, adding 128 million (95% UI: 115 to 139 million) and 139 million (95% UI: 126 to 151 million) CVD DALYs to the increase in CVD burden since 1990.\n\nCVD remains the leading cause of disease burden and death worldwide with the greatest burden in low, low-middle, and middle SDI regions. Large variation exists in CVD burden even for countries at similar levels of development, a gap explained substantially by known, modifiable risk factors that are inadequately controlled. The decades-long increase in CVD burden was the result of population growth, population aging, and increased exposure to a subset of risk factors led by metabolic risks. Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD.",
+      "evidence_sentences": [
+        "Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases.",
+        "The Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models.",
+        "Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Global Burden of Cardiovascular Diseases and Risks 2023 Collaborators"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40990886/"
+    },
+    {
+      "pmid": "38224710",
+      "title": "Chemoprevention for malaria with monthly intermittent preventive treatment with dihydroartemisinin-piperaquine in pregnant women living with HIV on daily co-trimoxazole in Kenya and Malawi: a randomised, double-blind, placebo-controlled trial.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The efficacy of daily co-trimoxazole, an antifolate used for malaria chemoprevention in pregnant women living with HIV, is threatened by cross-resistance of Plasmodium falciparum to the antifolate sulfadoxine-pyrimethamine. We assessed whether addition of monthly dihydroartemisinin-piperaquine to daily co-trimoxazole is more effective at preventing malaria infection than monthly placebo plus daily co-trimoxazole in pregnant women living with HIV.",
+        "We did an individually randomised, two-arm, placebo-controlled trial in areas with high-grade sulfadoxine-pyrimethamine resistance in Kenya and Malawi. Pregnant women living with HIV on dolutegravir-based combination antiretroviral therapy (cART) who had singleton pregnancies between 16 weeks' and 28 weeks' gestation were randomly assigned (1:1) by computer-generated block randomisation, stratified by site and HIV status (known positive vs newly diagnosed), to daily co-trimoxazole plus monthly dihydroartemisinin-piperaquine (three tablets of 40 mg dihydroartemisinin and 320 mg piperaquine given daily for 3 days) or daily co-trimoxazole plus monthly placebo. Daily co-trimoxazole consisted of one tablet of 160 mg sulfamethoxazole and 800 mg trimethoprim. The primary endpoint was the incidence of Plasmodium infection detected in the peripheral (maternal) or placental (maternal) blood or tissue by PCR, microscopy, rapid diagnostic test, or placental histology (active infection) from 2 weeks after the first dose of dihydroartemisinin-piperaquine or placebo to delivery. Log-binomial regression was used for binary outcomes, and Poisson regression for count outcomes. The primary analysis was by modified intention to treat, consisting of all randomised eligible participants with primary endpoint data. The safety analysis included all women who received at least one dose of study drug. All investigators, laboratory staff, data analysts, and participants were masked to treatment assignment. This trial is registered with ClinicalTrials.gov, NCT04158713.",
+        "From Nov 11, 2019, to Aug 3, 2021, 904 women were enrolled and randomly assigned to co-trimoxazole plus dihydroartemisinin-piperaquine (n=448) or co-trimoxazole plus placebo (n=456), of whom 895 (99%) contributed to the primary analysis (co-trimoxazole plus dihydroartemisinin-piperaquine, n=443; co-trimoxazole plus placebo, n=452). The cumulative risk of any malaria infection during pregnancy or delivery was lower in the co-trimoxazole plus dihydroartemisinin-piperaquine group than in the co-trimoxazole plus placebo group (31 [7%] of 443 women vs 70 [15%] of 452 women, risk ratio 0·45, 95% CI 0·30-0·67; p=0·0001). The incidence of any malaria infection during pregnancy or delivery was 25·4 per 100 person-years in the co-trimoxazole plus dihydroartemisinin-piperaquine group versus 77·3 per 100 person-years in the co-trimoxazole plus placebo group (incidence rate ratio 0·32, 95% CI 0·22-0·47, p<0·0001). The number needed to treat to avert one malaria infection per pregnancy was 7 (95% CI 5-10). The incidence of serious adverse events was similar between groups in mothers (17·7 per 100 person-years in the co-trimoxazole plus dihydroartemisinin-piperaquine group [23 events] vs 17·8 per 100 person-years in the co-trimoxazole group [25 events]) and infants (45·4 per 100 person-years [23 events] vs 40·2 per 100 person-years [21 events]). Nausea within the first 4 days after the start of treatment was reported by 29 (7%) of 446 women in the co-trimoxazole plus dihydroartemisinin-piperaquine group versus 12 (3%) of 445 women in the co-trimoxazole plus placebo group. The risk of adverse pregnancy outcomes did not differ between groups.",
+        "Addition of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine to the standard of care with daily unsupervised co-trimoxazole in areas of high antifolate resistance substantially improves malaria chemoprevention in pregnant women living with HIV on dolutegravir-based cART and should be considered for policy.",
+        "European and Developing Countries Clinical Trials Partnership 2; UK Joint Global Health Trials Scheme (UK Foreign, Commonwealth and Development Office; Medical Research Council; National Institute for Health Research; Wellcome); and Swedish International Development Cooperation Agency."
+      ],
+      "abstract": "The efficacy of daily co-trimoxazole, an antifolate used for malaria chemoprevention in pregnant women living with HIV, is threatened by cross-resistance of Plasmodium falciparum to the antifolate sulfadoxine-pyrimethamine. We assessed whether addition of monthly dihydroartemisinin-piperaquine to daily co-trimoxazole is more effective at preventing malaria infection than monthly placebo plus daily co-trimoxazole in pregnant women living with HIV.\n\nWe did an individually randomised, two-arm, placebo-controlled trial in areas with high-grade sulfadoxine-pyrimethamine resistance in Kenya and Malawi. Pregnant women living with HIV on dolutegravir-based combination antiretroviral therapy (cART) who had singleton pregnancies between 16 weeks' and 28 weeks' gestation were randomly assigned (1:1) by computer-generated block randomisation, stratified by site and HIV status (known positive vs newly diagnosed), to daily co-trimoxazole plus monthly dihydroartemisinin-piperaquine (three tablets of 40 mg dihydroartemisinin and 320 mg piperaquine given daily for 3 days) or daily co-trimoxazole plus monthly placebo. Daily co-trimoxazole consisted of one tablet of 160 mg sulfamethoxazole and 800 mg trimethoprim. The primary endpoint was the incidence of Plasmodium infection detected in the peripheral (maternal) or placental (maternal) blood or tissue by PCR, microscopy, rapid diagnostic test, or placental histology (active infection) from 2 weeks after the first dose of dihydroartemisinin-piperaquine or placebo to delivery. Log-binomial regression was used for binary outcomes, and Poisson regression for count outcomes. The primary analysis was by modified intention to treat, consisting of all randomised eligible participants with primary endpoint data. The safety analysis included all women who received at least one dose of study drug. All investigators, laboratory staff, data analysts, and participants were masked to treatment assignment. This trial is registered with ClinicalTrials.gov, NCT04158713.\n\nFrom Nov 11, 2019, to Aug 3, 2021, 904 women were enrolled and randomly assigned to co-trimoxazole plus dihydroartemisinin-piperaquine (n=448) or co-trimoxazole plus placebo (n=456), of whom 895 (99%) contributed to the primary analysis (co-trimoxazole plus dihydroartemisinin-piperaquine, n=443; co-trimoxazole plus placebo, n=452). The cumulative risk of any malaria infection during pregnancy or delivery was lower in the co-trimoxazole plus dihydroartemisinin-piperaquine group than in the co-trimoxazole plus placebo group (31 [7%] of 443 women vs 70 [15%] of 452 women, risk ratio 0·45, 95% CI 0·30-0·67; p=0·0001). The incidence of any malaria infection during pregnancy or delivery was 25·4 per 100 person-years in the co-trimoxazole plus dihydroartemisinin-piperaquine group versus 77·3 per 100 person-years in the co-trimoxazole plus placebo group (incidence rate ratio 0·32, 95% CI 0·22-0·47, p<0·0001). The number needed to treat to avert one malaria infection per pregnancy was 7 (95% CI 5-10). The incidence of serious adverse events was similar between groups in mothers (17·7 per 100 person-years in the co-trimoxazole plus dihydroartemisinin-piperaquine group [23 events] vs 17·8 per 100 person-years in the co-trimoxazole group [25 events]) and infants (45·4 per 100 person-years [23 events] vs 40·2 per 100 person-years [21 events]). Nausea within the first 4 days after the start of treatment was reported by 29 (7%) of 446 women in the co-trimoxazole plus dihydroartemisinin-piperaquine group versus 12 (3%) of 445 women in the co-trimoxazole plus placebo group. The risk of adverse pregnancy outcomes did not differ between groups.\n\nAddition of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine to the standard of care with daily unsupervised co-trimoxazole in areas of high antifolate resistance substantially improves malaria chemoprevention in pregnant women living with HIV on dolutegravir-based cART and should be considered for policy.\n\nEuropean and Developing Countries Clinical Trials Partnership 2; UK Joint Global Health Trials Scheme (UK Foreign, Commonwealth and Development Office; Medical Research Council; National Institute for Health Research; Wellcome); and Swedish International Development Cooperation Agency.",
+      "evidence_sentences": [
+        "Addition of monthly intermittent preventive treatment with dihydroartemisinin-piperaquine to the standard of care with daily unsupervised co-trimoxazole in areas of high antifolate resistance substantially improves malaria chemoprevention in pregnant women living with HIV on dolutegravir-based cART and should be considered for policy.",
+        "We assessed whether addition of monthly dihydroartemisinin-piperaquine to daily co-trimoxazole is more effective at preventing malaria infection than monthly placebo plus daily co-trimoxazole in pregnant women living with HIV.",
+        "The efficacy of daily co-trimoxazole, an antifolate used for malaria chemoprevention in pregnant women living with HIV, is threatened by cross-resistance of Plasmodium falciparum to the antifolate sulfadoxine-pyrimethamine."
+      ],
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Hellen C Barsosio",
+        "Mwayiwawo Madanitsa",
+        "Everlyne D Ondieki",
+        "James Dodd",
+        "Eric D Onyango",
+        "Kephas Otieno",
+        "Duolao Wang",
+        "Jenny Hill",
+        "Victor Mwapasa",
+        "Kamija S Phiri",
+        "Kenneth Maleta",
+        "Miriam Taegtmeyer",
+        "Simon Kariuki",
+        "Christentze Schmiegelow",
+        "Julie R Gutman",
+        "Feiko O Ter Kuile"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38224710/"
+    },
+    {
+      "pmid": "31546088",
+      "title": "The impact of maternal HIV and malaria infection on the prevalence of congenital cytomegalovirus infection in Western Kenya.",
+      "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+      "abstract_sections": [
+        "Data on congenital cytomegalovirus (CMV) infection in Africa are limited.",
+        "To describe the prevalence of congenital CMV infection in a population with high prevalence of maternal HIV and malaria infection in western Kenya.",
+        "We screened newborns for CMV by polymerase chain reaction assay of saliva swabs and dried blood spots (DBS), and assessed maternal CMV immunoglobulin G (IgG) status by testing serum eluted from newborn's DBS. We calculated adjusted prevalence ratios (aPRs) using log-binomial regression models.",
+        "Among 1066 mothers, 210 (19·7%) had HIV infection and 207 (19·4%) had malaria infection; 33 (3·1%) mothers had both. Maternal CMV IgG prevalence was 93·1% (95% confidence interval [CI]: 88·3%-96·0%). Among 1078 newborns (12 sets of twins), 39 (3·6%, 95% CI: 2·7-4·9%) were CMV positive. The prevalence of congenital CMV infection by maternal HIV and malaria infection status was 5·0% (95% CI: 2·7-9·2%) for HIV only, 5·1% (95% CI: 2·7-9·4%) for malaria only, 8·8 (95% CI: 3·1-23·0) for HIV and malaria co-infection, and 2·6% (95% CI: 1·7-4·1%) for none. Congenital CMV infection was independently associated with maternal HIV infection (aPR=2·1; 95% CI: 1·0-4·2), adjusting for maternal age, parity, and malaria infection.",
+        "The prevalence of congenital CMV infection was higher than the 0·2-0·7% in developed countries. Maternal HIV infection may increase the risk of congenital CMV infection, but the role of maternal malaria on intrauterine transmission of CMV remains unclear."
+      ],
+      "abstract": "Data on congenital cytomegalovirus (CMV) infection in Africa are limited.\n\nTo describe the prevalence of congenital CMV infection in a population with high prevalence of maternal HIV and malaria infection in western Kenya.\n\nWe screened newborns for CMV by polymerase chain reaction assay of saliva swabs and dried blood spots (DBS), and assessed maternal CMV immunoglobulin G (IgG) status by testing serum eluted from newborn's DBS. We calculated adjusted prevalence ratios (aPRs) using log-binomial regression models.\n\nAmong 1066 mothers, 210 (19·7%) had HIV infection and 207 (19·4%) had malaria infection; 33 (3·1%) mothers had both. Maternal CMV IgG prevalence was 93·1% (95% confidence interval [CI]: 88·3%-96·0%). Among 1078 newborns (12 sets of twins), 39 (3·6%, 95% CI: 2·7-4·9%) were CMV positive. The prevalence of congenital CMV infection by maternal HIV and malaria infection status was 5·0% (95% CI: 2·7-9·2%) for HIV only, 5·1% (95% CI: 2·7-9·4%) for malaria only, 8·8 (95% CI: 3·1-23·0) for HIV and malaria co-infection, and 2·6% (95% CI: 1·7-4·1%) for none. Congenital CMV infection was independently associated with maternal HIV infection (aPR=2·1; 95% CI: 1·0-4·2), adjusting for maternal age, parity, and malaria infection.\n\nThe prevalence of congenital CMV infection was higher than the 0·2-0·7% in developed countries. Maternal HIV infection may increase the risk of congenital CMV infection, but the role of maternal malaria on intrauterine transmission of CMV remains unclear.",
+      "evidence_sentences": [
+        "To describe the prevalence of congenital CMV infection in a population with high prevalence of maternal HIV and malaria infection in western Kenya.",
+        "The prevalence of congenital CMV infection by maternal HIV and malaria infection status was 5·0% (95% CI: 2·7-9·2%) for HIV only, 5·1% (95% CI: 2·7-9·4%) for malaria only, 8·8 (95% CI: 3·1-23·0) for HIV and malaria co-infection, and 2·6% (95% CI: 1·7-4·1%) for none.",
+        "Congenital CMV infection was independently associated with maternal HIV infection (aPR=2·1; 95% CI: 1·0-4·2), adjusting for maternal age, parity, and malaria infection."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Nancy A Otieno",
+        "Bryan O Nyawanda",
+        "Fredrick Otiato",
+        "Martina Oneko",
+        "Minal M Amin",
+        "Michael Otieno",
+        "Daniel Omollo",
+        "Meredith McMorrow",
+        "Sandra S Chaves",
+        "Sheila C Dollard",
+        "Tatiana M Lanzieri"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31546088/"
+    },
+    {
+      "pmid": "38640940",
+      "title": "Global burden associated with 85 pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.",
+      "journal": "The Lancet. Infectious diseases",
+      "abstract_sections": [
+        "Despite a global epidemiological transition towards increased burden of non-communicable diseases, communicable diseases continue to cause substantial morbidity and mortality worldwide. Understanding the burden of a wide range of infectious diseases, and its variation by geography and age, is pivotal to research priority setting and resource mobilisation globally.",
+        "We estimated disability-adjusted life-years (DALYs) associated with 85 pathogens in 2019, globally, regionally, and for 204 countries and territories. The term pathogen included causative agents, pathogen groups, infectious conditions, and aggregate categories. We applied a novel methodological approach to account for underlying, immediate, and intermediate causes of death, which counted every death for which a pathogen had a role in the pathway to death. We refer to this measure as the burden associated with infection, which was estimated by combining different sources of information. To compare the burden among all pathogens, we used pathogen-specific ratios to incorporate the burden of immediate and intermediate causes of death for pathogens modelled previously by the GBD. We created the ratios by using multiple cause of death data, hospital discharge data, linkage data, and minimally invasive tissue sampling data to estimate the fraction of deaths coming from the pathway to death chain. We multiplied the pathogen-specific ratios by age-specific years of life lost (YLLs), calculated with GBD 2019 methods, and then added the adjusted YLLs to age-specific years lived with disability (YLDs) from GBD 2019 to produce adjusted DALYs to account for deaths in the chain. We used standard GBD methods to calculate 95% uncertainty intervals (UIs) for final estimates of DALYs by taking the 2·5th and 97·5th percentiles across 1000 posterior draws for each quantity of interest. We provided burden estimates pertaining to all ages and specifically to the under 5 years age group.",
+        "Globally in 2019, an estimated 704 million (95% UI 610-820) DALYs were associated with 85 different pathogens, including 309 million (250-377; 43·9% of the burden) in children younger than 5 years. This burden accounted for 27·7% (and 65·5% in those younger than 5 years) of the previously reported total DALYs from all causes in 2019. Comparing super-regions, considerable differences were observed in the estimated pathogen-associated burdens in relation to DALYs from all causes, with the highest burden observed in sub-Saharan Africa (314 million [270-368] DALYs; 61·5% of total regional burden) and the lowest in the high-income super-region (31·8 million [25·4-40·1] DALYs; 9·8%). Three leading pathogens were responsible for more than 50 million DALYs each in 2019: tuberculosis (65·1 million [59·0-71·2]), malaria (53·6 million [27·0-91·3]), and HIV or AIDS (52·1 million [46·6-60·9]). Malaria was the leading pathogen for DALYs in children younger than 5 years (37·2 million [17·8-64·2]). We also observed substantial burden associated with previously less recognised pathogens, including Staphylococcus aureus and specific Gram-negative bacterial species (ie, Klebsiella pneumoniae, Escherichia coli, Pseudomonas aeruginosa, Acinetobacter baumannii, and Helicobacter pylori). Conversely, some pathogens had a burden that was smaller than anticipated.",
+        "Our detailed breakdown of DALYs associated with a comprehensive list of pathogens on a global, regional, and country level has revealed the magnitude of the problem and helps to indicate where research funding mismatch might exist. Given the disproportionate impact of infection on low-income and middle-income countries, an essential next step is for countries and relevant stakeholders to address these gaps by making targeted investments.",
+        "Bill & Melinda Gates Foundation, Wellcome Trust, and Department of Health and Social Care using UK aid funding managed by the Fleming Fund."
+      ],
+      "abstract": "Despite a global epidemiological transition towards increased burden of non-communicable diseases, communicable diseases continue to cause substantial morbidity and mortality worldwide. Understanding the burden of a wide range of infectious diseases, and its variation by geography and age, is pivotal to research priority setting and resource mobilisation globally.\n\nWe estimated disability-adjusted life-years (DALYs) associated with 85 pathogens in 2019, globally, regionally, and for 204 countries and territories. The term pathogen included causative agents, pathogen groups, infectious conditions, and aggregate categories. We applied a novel methodological approach to account for underlying, immediate, and intermediate causes of death, which counted every death for which a pathogen had a role in the pathway to death. We refer to this measure as the burden associated with infection, which was estimated by combining different sources of information. To compare the burden among all pathogens, we used pathogen-specific ratios to incorporate the burden of immediate and intermediate causes of death for pathogens modelled previously by the GBD. We created the ratios by using multiple cause of death data, hospital discharge data, linkage data, and minimally invasive tissue sampling data to estimate the fraction of deaths coming from the pathway to death chain. We multiplied the pathogen-specific ratios by age-specific years of life lost (YLLs), calculated with GBD 2019 methods, and then added the adjusted YLLs to age-specific years lived with disability (YLDs) from GBD 2019 to produce adjusted DALYs to account for deaths in the chain. We used standard GBD methods to calculate 95% uncertainty intervals (UIs) for final estimates of DALYs by taking the 2·5th and 97·5th percentiles across 1000 posterior draws for each quantity of interest. We provided burden estimates pertaining to all ages and specifically to the under 5 years age group.\n\nGlobally in 2019, an estimated 704 million (95% UI 610-820) DALYs were associated with 85 different pathogens, including 309 million (250-377; 43·9% of the burden) in children younger than 5 years. This burden accounted for 27·7% (and 65·5% in those younger than 5 years) of the previously reported total DALYs from all causes in 2019. Comparing super-regions, considerable differences were observed in the estimated pathogen-associated burdens in relation to DALYs from all causes, with the highest burden observed in sub-Saharan Africa (314 million [270-368] DALYs; 61·5% of total regional burden) and the lowest in the high-income super-region (31·8 million [25·4-40·1] DALYs; 9·8%). Three leading pathogens were responsible for more than 50 million DALYs each in 2019: tuberculosis (65·1 million [59·0-71·2]), malaria (53·6 million [27·0-91·3]), and HIV or AIDS (52·1 million [46·6-60·9]). Malaria was the leading pathogen for DALYs in children younger than 5 years (37·2 million [17·8-64·2]). We also observed substantial burden associated with previously less recognised pathogens, including Staphylococcus aureus and specific Gram-negative bacterial species (ie, Klebsiella pneumoniae, Escherichia coli, Pseudomonas aeruginosa, Acinetobacter baumannii, and Helicobacter pylori). Conversely, some pathogens had a burden that was smaller than anticipated.\n\nOur detailed breakdown of DALYs associated with a comprehensive list of pathogens on a global, regional, and country level has revealed the magnitude of the problem and helps to indicate where research funding mismatch might exist. Given the disproportionate impact of infection on low-income and middle-income countries, an essential next step is for countries and relevant stakeholders to address these gaps by making targeted investments.\n\nBill & Melinda Gates Foundation, Wellcome Trust, and Department of Health and Social Care using UK aid funding managed by the Fleming Fund.",
+      "evidence_sentences": [
+        "Three leading pathogens were responsible for more than 50 million DALYs each in 2019: tuberculosis (65·1 million [59·0-71·2]), malaria (53·6 million [27·0-91·3]), and HIV or AIDS (52·1 million [46·6-60·9]).",
+        "Malaria was the leading pathogen for DALYs in children younger than 5 years (37·2 million [17·8-64·2])."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "IHME Pathogen Core Group"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38640940/"
+    },
+    {
+      "pmid": "33614525",
+      "title": "HIV-1 Infection Is Associated With Increased Prevalence and Abundance of",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "abstract_sections": [
+        "As morbidity and mortality due to malaria continue to decline, the identification of individuals with a high likelihood of transmitting malaria is needed to further reduce the prevalence of malaria. In areas of holoendemic malaria transmission, asymptomatically infected adults may be infected with transmissible gametocytes. The impact of HIV-1 on gametocyte carriage is unknown, but co-infection may lead to an increase in gametocytemia. In this study, a panel of qPCR assays was used to quantify gametocyte stage-specific transcripts present in dried blood spots obtained from asymptomatic adults seeking voluntary HIV testing in Kombewa, Kenya. A total of 1,116"
+      ],
+      "abstract": "As morbidity and mortality due to malaria continue to decline, the identification of individuals with a high likelihood of transmitting malaria is needed to further reduce the prevalence of malaria. In areas of holoendemic malaria transmission, asymptomatically infected adults may be infected with transmissible gametocytes. The impact of HIV-1 on gametocyte carriage is unknown, but co-infection may lead to an increase in gametocytemia. In this study, a panel of qPCR assays was used to quantify gametocyte stage-specific transcripts present in dried blood spots obtained from asymptomatic adults seeking voluntary HIV testing in Kombewa, Kenya. A total of 1,116",
+      "evidence_sentences": [
+        "In this study, a panel of qPCR assays was used to quantify gametocyte stage-specific transcripts present in dried blood spots obtained from asymptomatic adults seeking voluntary HIV testing in Kombewa, Kenya.",
+        "As morbidity and mortality due to malaria continue to decline, the identification of individuals with a high likelihood of transmitting malaria is needed to further reduce the prevalence of malaria.",
+        "In areas of holoendemic malaria transmission, asymptomatically infected adults may be infected with transmissible gametocytes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Deborah M Stiffler",
+        "Janet Oyieko",
+        "Carolyne M Kifude",
+        "David M Rockabrand",
+        "Shirley Luckhart",
+        "V Ann Stewart"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33614525/"
+    },
+    {
+      "pmid": "39544623",
+      "title": "Association of Sickle Cell Disease, Malaria and HIV in Multi Drug Resistant Invasive Non-typhoidal",
+      "journal": "East Africa science",
+      "abstract_sections": [
+        "Invasive non-typhoidal",
+        "This study recruited 16,679 children aged ≤16 years who presented with salmonellosis symptoms for a period of 6 years (2013-2018). The patients were age-matched with controls (asymptomatic individuals). The study was conducted at 3 outpatient sites and 1 inpatient site; the outpatient sites were all located within the Mukuru informal settlement. The inpatient site was Mbagathi district hospital, which serves patients residing in Kibera informal settlement. Blood and stool samples from children with fever ≥38°C and/or diarrhea and stool samples alone from controls were collected for processing for the presence of iNTS using basic microbiology procedures including culture, serology, and Kirby Bauer disc diffusion for sensitivity testing. Dry blood spots were also taken and processed for sickle cell protein markers using high-performance liquid chromatography (HPLC). HIV and malaria tests were also conducted using rapid tests, respectively.",
+        "From the total of 22,246 blood and stool samples tested, 741 (3.3%) tested positive for",
+        "The high prevalence of MDR iNTS isolates and emerging resistance to third-generation cephalosporins is of great concern, as they are the recommended drugs for the management of iNTS in our settings. Sickle cell disease, malaria, and HIV were all not major factors associated with iNTS disease among children in Mukuru and Kibera informal settlements."
+      ],
+      "abstract": "Invasive non-typhoidal\n\nThis study recruited 16,679 children aged ≤16 years who presented with salmonellosis symptoms for a period of 6 years (2013-2018). The patients were age-matched with controls (asymptomatic individuals). The study was conducted at 3 outpatient sites and 1 inpatient site; the outpatient sites were all located within the Mukuru informal settlement. The inpatient site was Mbagathi district hospital, which serves patients residing in Kibera informal settlement. Blood and stool samples from children with fever ≥38°C and/or diarrhea and stool samples alone from controls were collected for processing for the presence of iNTS using basic microbiology procedures including culture, serology, and Kirby Bauer disc diffusion for sensitivity testing. Dry blood spots were also taken and processed for sickle cell protein markers using high-performance liquid chromatography (HPLC). HIV and malaria tests were also conducted using rapid tests, respectively.\n\nFrom the total of 22,246 blood and stool samples tested, 741 (3.3%) tested positive for\n\nThe high prevalence of MDR iNTS isolates and emerging resistance to third-generation cephalosporins is of great concern, as they are the recommended drugs for the management of iNTS in our settings. Sickle cell disease, malaria, and HIV were all not major factors associated with iNTS disease among children in Mukuru and Kibera informal settlements.",
+      "evidence_sentences": [
+        "Sickle cell disease, malaria, and HIV were all not major factors associated with iNTS disease among children in Mukuru and Kibera informal settlements.",
+        "HIV and malaria tests were also conducted using rapid tests, respectively.",
+        "From the total of 22,246 blood and stool samples tested, 741 (3.3%) tested positive for The high prevalence of MDR iNTS isolates and emerging resistance to third-generation cephalosporins is of great concern, as they are the recommended drugs for the management of iNTS in our settings."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Susan Mutile Kavai",
+        "Cecilia Mbae",
+        "Celestine Wairimu",
+        "Ronald Ngetich",
+        "Zillah Wakio",
+        "Robert Onsaŕe",
+        "Samuel Kariuki"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39544623/"
+    },
+    {
+      "pmid": "33716195",
+      "title": "Global Tuberculosis Report 2020 - Reflections on the Global TB burden, treatment and prevention efforts.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "The October 2020 Global TB report reviews TB control strategies and United Nations (UN) targets set in the political declaration at the September 2018 UN General Assembly high-level meeting on TB held in New York. Progress in TB care and prevention has been very slow. In 2019, TB remained the most common cause of death from a single infectious pathogen. Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV. Adults accounted for 88% and children for 12% of people with TB. The WHO regions of South-East Asia (44%), Africa (25%), and the Western Pacific (18%) had the most people with TB. Eight countries accounted for two thirds of the global total: India (26%), Indonesia (8.5%), China (8.4%), the Philippines (6.0%), Pakistan (5.7%), Nigeria (4.4%), Bangladesh (3.6%) and South Africa (3.6%). Only 30% of the 3.5 million five-year target for children treated for TB was met. Major advances have been development of new all oral regimens for MDRTB and new regimens for preventive therapy. In 2020, the COVID-19 pandemic dislodged TB from the top infectious disease cause of mortality globally. Notably, global TB control efforts were not on track even before the advent of the COVID-19 pandemic. Many challenges remain to improve sub-optimal TB treatment and prevention services. Tuberculosis screening and diagnostic test services need to be ramped up. The major drivers of TB remain undernutrition, poverty, diabetes, tobacco smoking, and household air pollution and these need be addressed to achieve the WHO 2035 TB care and prevention targets. National programs need to include interventions for post-tuberculosis holistic wellbeing. From first detection of COVID-19 global coordination and political will with huge financial investments have led to the development of effective vaccines against SARS-CoV2 infection. The world now needs to similarly focus on development of new vaccines for TB utilizing new technological methods."
+      ],
+      "abstract": "The October 2020 Global TB report reviews TB control strategies and United Nations (UN) targets set in the political declaration at the September 2018 UN General Assembly high-level meeting on TB held in New York. Progress in TB care and prevention has been very slow. In 2019, TB remained the most common cause of death from a single infectious pathogen. Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV. Adults accounted for 88% and children for 12% of people with TB. The WHO regions of South-East Asia (44%), Africa (25%), and the Western Pacific (18%) had the most people with TB. Eight countries accounted for two thirds of the global total: India (26%), Indonesia (8.5%), China (8.4%), the Philippines (6.0%), Pakistan (5.7%), Nigeria (4.4%), Bangladesh (3.6%) and South Africa (3.6%). Only 30% of the 3.5 million five-year target for children treated for TB was met. Major advances have been development of new all oral regimens for MDRTB and new regimens for preventive therapy. In 2020, the COVID-19 pandemic dislodged TB from the top infectious disease cause of mortality globally. Notably, global TB control efforts were not on track even before the advent of the COVID-19 pandemic. Many challenges remain to improve sub-optimal TB treatment and prevention services. Tuberculosis screening and diagnostic test services need to be ramped up. The major drivers of TB remain undernutrition, poverty, diabetes, tobacco smoking, and household air pollution and these need be addressed to achieve the WHO 2035 TB care and prevention targets. National programs need to include interventions for post-tuberculosis holistic wellbeing. From first detection of COVID-19 global coordination and political will with huge financial investments have led to the development of effective vaccines against SARS-CoV2 infection. The world now needs to similarly focus on development of new vaccines for TB utilizing new technological methods.",
+      "evidence_sentences": [
+        "Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV.",
+        "The October 2020 Global TB report reviews TB control strategies and United Nations (UN) targets set in the political declaration at the September 2018 UN General Assembly high-level meeting on TB held in New York.",
+        "From first detection of COVID-19 global coordination and political will with huge financial investments have led to the development of effective vaccines against SARS-CoV2 infection."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Jeremiah Chakaya",
+        "Mishal Khan",
+        "Francine Ntoumi",
+        "Eleni Aklillu",
+        "Razia Fatima",
+        "Peter Mwaba",
+        "Nathan Kapata",
+        "Sayoki Mfinanga",
+        "Seyed Ehtesham Hasnain",
+        "Patrick D M C Katoto",
+        "André N H Bulabula",
+        "Nadia A Sam-Agudu",
+        "Jean B Nachega",
+        "Simon Tiberi",
+        "Timothy D McHugh",
+        "Ibrahim Abubakar",
+        "Alimuddin Zumla"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33716195/"
+    },
+    {
+      "pmid": "26173396",
+      "title": "Effects of HIV-1 infection on malaria parasitemia in milo sub-location, western Kenya.",
+      "journal": "BMC research notes",
+      "abstract_sections": [
+        "Malaria and HIV infections are both highly prevalent in sub-Saharan Africa, with HIV-infected patients being at higher risk of acquiring malaria. HIV-1 infection is known to impair the immune response and may increase the incidence of clinical malaria. However, a positive association between HIV-1 and malaria parasitaemia is still evolving. Equally, the effect of malaria on HIV-1 disease stage has not been well established, but when fever and parasitemia are high, malaria may be associated with transient increases in HIV-1 viral load, and progression of HIV-1 asymptomatic disease phase to AIDS.",
+        "To determine the effects of HIV-1 infection on malaria parasitaemia among consented residents of Milo sub-location, Bungoma County in western Kenya.",
+        "Census study evaluating malaria parasitaemia in asymptomatic individuals with unknown HIV-1 status.",
+        "After ethical approvals from both Moi University and MTRH research ethics committees, data of 3,258 participants were retrieved from both Webuye health demographic surveillance system (WHDSS), and Academic Model Providing Access to Healthcare (AMPATH) in the year 2010. The current study was identifying only un-diagnosed HIV-1 individuals at the time the primary data was collected. The data was then analysed for significant statistical association for malaria parasitemia and HIV-1 infection, using SPSS version 19. Demographic characteristics such as age and sex were summarized as means and percentages, while relationship between malaria parasitaemia and HIV-1 (serostatus) was analyzed using Chi square.",
+        "Age distribution for the 3,258 individuals ranged between 2 and 94 years, with a mean age of 26 years old. Females constituted 54.3%, while males were 45.8%. In terms of age distribution, 2-4 years old formed 15.1% of the study population, 5-9 years old were 8.8%, 10-14 years old were 8.6% while 15 years old and above were 67.5%. Of the 3,258 individuals whose data was eligible for analysis, 1.4% was newly diagnosed HIV-1 positive. Our findings showed a higher prevalence of malaria in children aged 2-10 years (73.4%), against the one reported in children in lake Victoria endemic region by the Kenya malaria indicator survey in the year 2010 (38.1%). There was no significant associations between the prevalence of asymptomatic malaria and HIV-1 status (p = 0.327). However, HIV-1/malaria co-infected individuals showed elevated mean malaria parasite density, compared to HIV-1 negative individuals, p = 0.002.",
+        "HIV-1 status was not found to have effect on malaria infection, but the mean malaria parasite density was significantly higher in HIV-1 positive than the HIV-1 negative population."
+      ],
+      "abstract": "Malaria and HIV infections are both highly prevalent in sub-Saharan Africa, with HIV-infected patients being at higher risk of acquiring malaria. HIV-1 infection is known to impair the immune response and may increase the incidence of clinical malaria. However, a positive association between HIV-1 and malaria parasitaemia is still evolving. Equally, the effect of malaria on HIV-1 disease stage has not been well established, but when fever and parasitemia are high, malaria may be associated with transient increases in HIV-1 viral load, and progression of HIV-1 asymptomatic disease phase to AIDS.\n\nTo determine the effects of HIV-1 infection on malaria parasitaemia among consented residents of Milo sub-location, Bungoma County in western Kenya.\n\nCensus study evaluating malaria parasitaemia in asymptomatic individuals with unknown HIV-1 status.\n\nAfter ethical approvals from both Moi University and MTRH research ethics committees, data of 3,258 participants were retrieved from both Webuye health demographic surveillance system (WHDSS), and Academic Model Providing Access to Healthcare (AMPATH) in the year 2010. The current study was identifying only un-diagnosed HIV-1 individuals at the time the primary data was collected. The data was then analysed for significant statistical association for malaria parasitemia and HIV-1 infection, using SPSS version 19. Demographic characteristics such as age and sex were summarized as means and percentages, while relationship between malaria parasitaemia and HIV-1 (serostatus) was analyzed using Chi square.\n\nAge distribution for the 3,258 individuals ranged between 2 and 94 years, with a mean age of 26 years old. Females constituted 54.3%, while males were 45.8%. In terms of age distribution, 2-4 years old formed 15.1% of the study population, 5-9 years old were 8.8%, 10-14 years old were 8.6% while 15 years old and above were 67.5%. Of the 3,258 individuals whose data was eligible for analysis, 1.4% was newly diagnosed HIV-1 positive. Our findings showed a higher prevalence of malaria in children aged 2-10 years (73.4%), against the one reported in children in lake Victoria endemic region by the Kenya malaria indicator survey in the year 2010 (38.1%). There was no significant associations between the prevalence of asymptomatic malaria and HIV-1 status (p = 0.327). However, HIV-1/malaria co-infected individuals showed elevated mean malaria parasite density, compared to HIV-1 negative individuals, p = 0.002.\n\nHIV-1 status was not found to have effect on malaria infection, but the mean malaria parasite density was significantly higher in HIV-1 positive than the HIV-1 negative population.",
+      "evidence_sentences": [
+        "Our findings showed a higher prevalence of malaria in children aged 2-10 years (73.4%), against the one reported in children in lake Victoria endemic region by the Kenya malaria indicator survey in the year 2010 (38.1%).",
+        "To determine the effects of HIV-1 infection on malaria parasitaemia among consented residents of Milo sub-location, Bungoma County in western Kenya.",
+        "There was no significant associations between the prevalence of asymptomatic malaria and HIV-1 status (p = 0.327)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Erick Kipkoech Rutto",
+        "Joshua Nyagol",
+        "Julius Oyugi",
+        "Samson Ndege",
+        "Noel Onyango",
+        "Andrew Obala",
+        "Chrispinus J Simiyu",
+        "Gye Boor",
+        "Winfrida Chelangat Cheriro",
+        "Barasa Otsyula",
+        "Ben Estambale"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26173396/"
+    },
+    {
+      "pmid": "21224274",
+      "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+      "journal": "International journal of epidemiology",
+      "abstract_sections": [
+        "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "In adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].",
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "abstract": "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.\n\nUsing large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.\n\nIn adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].\n\nThis is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals.",
+      "evidence_sentences": [
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.",
+        "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Diego F Cuadros",
+        "Adam J Branscum",
+        "Philip H Crowley"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21224274/"
+    },
+    {
+      "pmid": "12598780",
+      "title": "HIV increases the risk of malaria in women of all gravidities in Kisumu, Kenya.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "To study the importance of HIV infection for malaria in pregnancy in Kisumu, Kenya.",
+        "Healthy women with an uncomplicated pregnancy of 32 weeks or more attending the prenatal clinic in the Provincial Hospital between June 1996 and March 1999 were tested for HIV and malaria after consent had been obtained. For participating women who delivered in the same hospital, a blood smear of the mother and the placenta were obtained.",
+        "In the third trimester, 5093 women consented to testing: the prevalence of malaria and HIV was 20.1 and 24.9%, respectively. Among the 2502 screened women who delivered in the hospital, the prevalence of HIV, peripheral parasitaemia and placental malaria was 24.5, 15.2, and 19.0%, respectively. Compared with HIV-seronegative women, HIV-seropositive women were more likely to be parasitaemic, to have higher parasite densities, and to be febrile when parasitaemic. Placental infections in HIV-seropositive women were more likely to be chronic, as indicated by the presence of moderate to heavy pigment depositions. When adjusted by age, the typical gravidity-specific pattern of malaria in pregnancy disappeared in HIV-seropositive women; HIV-seropositive primigravidae had a similar risk of malaria as HIV-seropositive multigravidae. The excess malaria attributable to HIV in the third trimester increased from 34.6% among HIV-seropositive primigravidae, to 41.5% among HIV-seropositive secundigravidae, and 50.7% among HIV-seropositive gravidae with three or more pregnancies.",
+        "HIV infection alters patterns of malaria in pregnant women; in areas with both infections, all pregnant women should use malaria prevention."
+      ],
+      "abstract": "To study the importance of HIV infection for malaria in pregnancy in Kisumu, Kenya.\n\nHealthy women with an uncomplicated pregnancy of 32 weeks or more attending the prenatal clinic in the Provincial Hospital between June 1996 and March 1999 were tested for HIV and malaria after consent had been obtained. For participating women who delivered in the same hospital, a blood smear of the mother and the placenta were obtained.\n\nIn the third trimester, 5093 women consented to testing: the prevalence of malaria and HIV was 20.1 and 24.9%, respectively. Among the 2502 screened women who delivered in the hospital, the prevalence of HIV, peripheral parasitaemia and placental malaria was 24.5, 15.2, and 19.0%, respectively. Compared with HIV-seronegative women, HIV-seropositive women were more likely to be parasitaemic, to have higher parasite densities, and to be febrile when parasitaemic. Placental infections in HIV-seropositive women were more likely to be chronic, as indicated by the presence of moderate to heavy pigment depositions. When adjusted by age, the typical gravidity-specific pattern of malaria in pregnancy disappeared in HIV-seropositive women; HIV-seropositive primigravidae had a similar risk of malaria as HIV-seropositive multigravidae. The excess malaria attributable to HIV in the third trimester increased from 34.6% among HIV-seropositive primigravidae, to 41.5% among HIV-seropositive secundigravidae, and 50.7% among HIV-seropositive gravidae with three or more pregnancies.\n\nHIV infection alters patterns of malaria in pregnant women; in areas with both infections, all pregnant women should use malaria prevention.",
+      "evidence_sentences": [
+        "Among the 2502 screened women who delivered in the hospital, the prevalence of HIV, peripheral parasitaemia and placental malaria was 24.5, 15.2, and 19.0%, respectively.",
+        "In the third trimester, 5093 women consented to testing: the prevalence of malaria and HIV was 20.1 and 24.9%, respectively.",
+        "To study the importance of HIV infection for malaria in pregnancy in Kisumu, Kenya."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Anna M van Eijk",
+        "John G Ayisi",
+        "Feiko O ter Kuile",
+        "Ambrose O Misore",
+        "Juliana A Otieno",
+        "Daniel H Rosen",
+        "Piet A Kager",
+        "Richard W Steketee",
+        "Bernard L Nahlen"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12598780/"
+    },
+    {
+      "pmid": "37697804",
+      "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000",
+      "journal": "eLife",
+      "abstract_sections": [
+        "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse",
+        "This is a meta-analysis of global genotype and antimicrobial resistance (AMR) determinants extracted from previously sequenced genome data and analysed using consistent methods implemented in open analysis platforms GenoTyphi and Pathogenwatch.",
+        "Compared with previous global snapshots, the data highlight that genotype 4.3.1 (H58) has not spread beyond Asia and Eastern/Southern Africa; in other regions, distinct genotypes dominate and have independently evolved AMR. Data gaps remain in many parts of the world, and we show the potential of travel-associated sequences to provide informal 'sentinel' surveillance for such locations. The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia. Extensively drug-resistant (XDR) typhoid has become dominant in Pakistan (70% in 2020) but has not yet become established elsewhere. Ceftriaxone resistance has emerged in eight non-XDR genotypes, including a ciprofloxacin-resistant lineage (4.3.1.2.1) in India. Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes.",
+        "The consortium's aim is to encourage continued data sharing and collaboration to monitor the emergence and global spread of AMR Typhi, and to inform decision-making around the introduction of typhoid conjugate vaccines (TCVs) and other prevention and control strategies.",
+        "No specific funding was awarded for this meta-analysis. Coordinators were supported by fellowships from the European Union (ZAD received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 845681), the Wellcome Trust (SB, Wellcome Trust Senior Fellowship), and the National Health and Medical Research Council (DJI is supported by an NHMRC Investigator Grant [GNT1195210])."
+      ],
+      "abstract": "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse\n\nThis is a meta-analysis of global genotype and antimicrobial resistance (AMR) determinants extracted from previously sequenced genome data and analysed using consistent methods implemented in open analysis platforms GenoTyphi and Pathogenwatch.\n\nCompared with previous global snapshots, the data highlight that genotype 4.3.1 (H58) has not spread beyond Asia and Eastern/Southern Africa; in other regions, distinct genotypes dominate and have independently evolved AMR. Data gaps remain in many parts of the world, and we show the potential of travel-associated sequences to provide informal 'sentinel' surveillance for such locations. The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia. Extensively drug-resistant (XDR) typhoid has become dominant in Pakistan (70% in 2020) but has not yet become established elsewhere. Ceftriaxone resistance has emerged in eight non-XDR genotypes, including a ciprofloxacin-resistant lineage (4.3.1.2.1) in India. Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes.\n\nThe consortium's aim is to encourage continued data sharing and collaboration to monitor the emergence and global spread of AMR Typhi, and to inform decision-making around the introduction of typhoid conjugate vaccines (TCVs) and other prevention and control strategies.\n\nNo specific funding was awarded for this meta-analysis. Coordinators were supported by fellowships from the European Union (ZAD received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 845681), the Wellcome Trust (SB, Wellcome Trust Senior Fellowship), and the National Health and Medical Research Council (DJI is supported by an NHMRC Investigator Grant [GNT1195210]).",
+      "evidence_sentences": [
+        "The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia.",
+        "Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes."
+      ],
+      "publication_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Megan E Carey",
+        "Zoe A Dyson",
+        "Danielle J Ingle",
+        "Afreenish Amir",
+        "Mabel K Aworh",
+        "Marie Anne Chattaway",
+        "Ka Lip Chew",
+        "John A Crump",
+        "Nicholas A Feasey",
+        "Benjamin P Howden",
+        "Karen H Keddy",
+        "Mailis Maes",
+        "Christopher M Parry",
+        "Sandra Van Puyvelde",
+        "Hattie E Webb",
+        "Ayorinde Oluwatobiloba Afolayan",
+        "Anna P Alexander",
+        "Shalini Anandan",
+        "Jason R Andrews",
+        "Philip M Ashton",
+        "Buddha Basnyat",
+        "Ashish Bavdekar",
+        "Isaac I Bogoch",
+        "John D Clemens",
+        "Kesia Esther da Silva",
+        "Anuradha De",
+        "Joep de Ligt",
+        "Paula Lucia Diaz Guevara",
+        "Christiane Dolecek",
+        "Shanta Dutta",
+        "Marthie M Ehlers",
+        "Louise Francois Watkins",
+        "Denise O Garrett",
+        "Gauri Godbole",
+        "Melita A Gordon",
+        "Andrew R Greenhill",
+        "Chelsey Griffin",
+        "Madhu Gupta",
+        "Rene S Hendriksen",
+        "Robert S Heyderman",
+        "Yogesh Hooda",
+        "Juan Carlos Hormazabal",
+        "Odion O Ikhimiukor",
+        "Junaid Iqbal",
+        "Jobin John Jacob",
+        "Claire Jenkins",
+        "Dasaratha Ramaiah Jinka",
+        "Jacob John",
+        "Gagandeep Kang",
+        "Abdoulie Kanteh",
+        "Arti Kapil",
+        "Abhilasha Karkey",
+        "Samuel Kariuki",
+        "Robert A Kingsley",
+        "Roshine Mary Koshy",
+        "A C Lauer",
+        "Myron M Levine",
+        "Ravikumar Kadahalli Lingegowda",
+        "Stephen P Luby",
+        "Grant Austin Mackenzie",
+        "Tapfumanei Mashe",
+        "Chisomo Msefula",
+        "Ankur Mutreja",
+        "Geetha Nagaraj",
+        "Savitha Nagaraj",
+        "Satheesh Nair",
+        "Take K Naseri",
+        "Susana Nimarota-Brown",
+        "Elisabeth Njamkepo",
+        "Iruka N Okeke",
+        "Sulochana Putli Bai Perumal",
+        "Andrew J Pollard",
+        "Agila Kumari Pragasam",
+        "Firdausi Qadri",
+        "Farah N Qamar",
+        "Sadia Isfat Ara Rahman",
+        "Savitra Devi Rambocus",
+        "David A Rasko",
+        "Pallab Ray",
+        "Roy Robins-Browne",
+        "Temsunaro Rongsen-Chandola",
+        "Jean Pierre Rutanga",
+        "Samir K Saha",
+        "Senjuti Saha",
+        "Karnika Saigal",
+        "Mohammad Saiful Islam Sajib",
+        "Jessica C Seidman",
+        "Jivan Shakya",
+        "Varun Shamanna",
+        "Jayanthi Shastri",
+        "Rajeev Shrestha",
+        "Sonia Sia",
+        "Michael J Sikorski",
+        "Ashita Singh",
+        "Anthony M Smith",
+        "Kaitlin A Tagg",
+        "Dipesh Tamrakar",
+        "Arif Mohammed Tanmoy",
+        "Maria Thomas",
+        "Mathew S Thomas",
+        "Robert Thomsen",
+        "Nicholas R Thomson",
+        "Siaosi Tupua",
+        "Krista Vaidya",
+        "Mary Valcanis",
+        "Balaji Veeraraghavan",
+        "François-Xavier Weill",
+        "Jackie Wright",
+        "Gordon Dougan",
+        "Silvia Argimón",
+        "Jacqueline A Keane",
+        "David M Aanensen",
+        "Stephen Baker",
+        "Kathryn E Holt",
+        "Global Typhoid Genomics Consortium Group Authorship"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37697804/"
+    },
+    {
+      "pmid": "36189366",
+      "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+      "journal": "Frontiers in cellular and infection microbiology",
+      "abstract_sections": [
+        "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized. This is particularly important given that HIV-1 and malaria chemotherapies have the potential to alter gametocyte burden and mosquito infectivity. In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on"
+      ],
+      "abstract": "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized. This is particularly important given that HIV-1 and malaria chemotherapies have the potential to alter gametocyte burden and mosquito infectivity. In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on",
+      "evidence_sentences": [
+        "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on",
+        "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized.",
+        "This is particularly important given that HIV-1 and malaria chemotherapies have the potential to alter gametocyte burden and mosquito infectivity."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Ashleigh Roberds",
+        "Carolyne Kifude",
+        "Janet Oyieko",
+        "Stephen Ocholla",
+        "James Mutunga",
+        "David Oullo",
+        "Charles Waga",
+        "Zhaozhang Li",
+        "Shirley Luckhart",
+        "V Ann Stewart"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36189366/"
+    },
+    {
+      "pmid": "12598779",
+      "title": "The effect of dual infection with HIV and malaria on pregnancy outcome in western Kenya.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "To determine the effect of dual infection with HIV and malaria on birth outcomes and maternal anaemia among women delivering at a large public hospital in Kisumu, western Kenya.",
+        "Data on obstetric and neonatal characteristics, maternal and placental parasitaemia, and postpartum haemoglobin levels were collected from women enrolled in a cohort study of the interaction between malaria and HIV during pregnancy.",
+        "Between 1996 and 1999, data were available from 2466 singleton deliveries. The maternal HIV seroprevalence was 24.3%, and at delivery 22.0% of the women had evidence of malaria. Low birthweight, preterm delivery (PTD), intrauterine growth retardation (IUGR) and maternal anaemia (haemoglobin < 8 g/dl) occurred in 4.6, 6.7, 9.8 and 13.8% of deliveries, respectively. Maternal HIV, in the absence of malaria, was associated with a 99 g (95% CI 52-145) reduction in mean birthweight among all gravidae. Malaria was associated with both IUGR and PTD, resulting in a reduction in mean birthweight of 145 g (95% CI 82-209) among HIV-seronegative and 206 g (95% CI 115-298) among HIV-seropositive primigravidae, but not among multigravidae. Both HIV and malaria were significant risk factors for postpartum maternal anaemia, and HIV-seropositive women with malaria were twice as likely to have anaemia than HIV-seronegative women with or without malaria.",
+        "Women with dual infection are at particular risk of adverse birth outcomes. In areas with a moderate or high prevalence of HIV and malaria, all pregnant women should be the focus of malaria and anaemia control efforts to improve birth outcomes."
+      ],
+      "abstract": "To determine the effect of dual infection with HIV and malaria on birth outcomes and maternal anaemia among women delivering at a large public hospital in Kisumu, western Kenya.\n\nData on obstetric and neonatal characteristics, maternal and placental parasitaemia, and postpartum haemoglobin levels were collected from women enrolled in a cohort study of the interaction between malaria and HIV during pregnancy.\n\nBetween 1996 and 1999, data were available from 2466 singleton deliveries. The maternal HIV seroprevalence was 24.3%, and at delivery 22.0% of the women had evidence of malaria. Low birthweight, preterm delivery (PTD), intrauterine growth retardation (IUGR) and maternal anaemia (haemoglobin < 8 g/dl) occurred in 4.6, 6.7, 9.8 and 13.8% of deliveries, respectively. Maternal HIV, in the absence of malaria, was associated with a 99 g (95% CI 52-145) reduction in mean birthweight among all gravidae. Malaria was associated with both IUGR and PTD, resulting in a reduction in mean birthweight of 145 g (95% CI 82-209) among HIV-seronegative and 206 g (95% CI 115-298) among HIV-seropositive primigravidae, but not among multigravidae. Both HIV and malaria were significant risk factors for postpartum maternal anaemia, and HIV-seropositive women with malaria were twice as likely to have anaemia than HIV-seronegative women with or without malaria.\n\nWomen with dual infection are at particular risk of adverse birth outcomes. In areas with a moderate or high prevalence of HIV and malaria, all pregnant women should be the focus of malaria and anaemia control efforts to improve birth outcomes.",
+      "evidence_sentences": [
+        "To determine the effect of dual infection with HIV and malaria on birth outcomes and maternal anaemia among women delivering at a large public hospital in Kisumu, western Kenya.",
+        "In areas with a moderate or high prevalence of HIV and malaria, all pregnant women should be the focus of malaria and anaemia control efforts to improve birth outcomes.",
+        "The maternal HIV seroprevalence was 24.3%, and at delivery 22.0% of the women had evidence of malaria."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "John G Ayisi",
+        "Anna M van Eijk",
+        "Feiko O ter Kuile",
+        "Margarette S Kolczak",
+        "Juliana A Otieno",
+        "Ambrose O Misore",
+        "Piet A Kager",
+        "Richard W Steketee",
+        "Bernard L Nahlen"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12598779/"
+    },
+    {
+      "pmid": "37788741",
+      "title": "Implications of asymptomatic malaria infections on hematologic parameters in adults living with HIV in malaria-endemic regions with varying transmission intensities.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "HIV and malaria coinfection impacts disease management and clinical outcomes. This study investigated hematologic abnormalities in malaria-asymptomatic people living with HIV (PLHIV) in regions with differing malaria transmission.",
+        "Study participants were enrolled in the African Cohort Study: two sites in Kenya, one in Uganda, and one in Nigeria. Data was collected at enrollment and every 6 months. Logistic regression estimated odds ratios for associations between HIV/malaria status and anemia, thrombocytopenia, and leucopenia.",
+        "Samples from 1587 participants with one or more visits comprising 1471 (92.7%) from PLHIV and 116 (7.3%) without HIV were analyzed. Parasite point prevalence significantly differed across the study sites (P <0.001). PLHIV had higher odds of anemia, with males at lower odds compared to females; the odds of anemia decreased with age, reaching significance in those ≥50 years old. Participants in Kisumu, Kenya had higher odds of anemia compared to other sites. PLHIV had higher odds of leucopenia, but malaria co-infection was not associated with worsened leucopenia. The odds of thrombocytopenia were decreased in HIV/malaria co-infection compared to the uninfected group.",
+        "Hematological parameters are important indicators of health and disease. In PLHIV with asymptomatic malaria co-infection enrolled across four geographic sites in three African countries, abnormalities in hematologic parameters differ in different malaria transmission settings and are region-specific."
+      ],
+      "abstract": "HIV and malaria coinfection impacts disease management and clinical outcomes. This study investigated hematologic abnormalities in malaria-asymptomatic people living with HIV (PLHIV) in regions with differing malaria transmission.\n\nStudy participants were enrolled in the African Cohort Study: two sites in Kenya, one in Uganda, and one in Nigeria. Data was collected at enrollment and every 6 months. Logistic regression estimated odds ratios for associations between HIV/malaria status and anemia, thrombocytopenia, and leucopenia.\n\nSamples from 1587 participants with one or more visits comprising 1471 (92.7%) from PLHIV and 116 (7.3%) without HIV were analyzed. Parasite point prevalence significantly differed across the study sites (P <0.001). PLHIV had higher odds of anemia, with males at lower odds compared to females; the odds of anemia decreased with age, reaching significance in those ≥50 years old. Participants in Kisumu, Kenya had higher odds of anemia compared to other sites. PLHIV had higher odds of leucopenia, but malaria co-infection was not associated with worsened leucopenia. The odds of thrombocytopenia were decreased in HIV/malaria co-infection compared to the uninfected group.\n\nHematological parameters are important indicators of health and disease. In PLHIV with asymptomatic malaria co-infection enrolled across four geographic sites in three African countries, abnormalities in hematologic parameters differ in different malaria transmission settings and are region-specific.",
+      "evidence_sentences": [
+        "In PLHIV with asymptomatic malaria co-infection enrolled across four geographic sites in three African countries, abnormalities in hematologic parameters differ in different malaria transmission settings and are region-specific.",
+        "This study investigated hematologic abnormalities in malaria-asymptomatic people living with HIV (PLHIV) in regions with differing malaria transmission.",
+        "Logistic regression estimated odds ratios for associations between HIV/malaria status and anemia, thrombocytopenia, and leucopenia."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Edwin Kamau",
+        "Risper Maisiba",
+        "Nicole Dear",
+        "Allahna Esber",
+        "Ajay P Parikh",
+        "Michael Iroezindu",
+        "Emmanuel Bahemana",
+        "Hannah Kibuuka",
+        "John Owuoth",
+        "Jonah Maswai",
+        "Benjamin Opot",
+        "Raphael O Okoth",
+        "Farid Abdi",
+        "Maureen Mwalo",
+        "Dennis Juma",
+        "Ben Andagalu",
+        "Hoseah M Akala",
+        "Neha Shah",
+        "Trevor A Crowell",
+        "Jessica Cowden",
+        "Christina S Polyak",
+        "Julie A Ake",
+        "AFRICOS Study Group"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37788741/"
+    },
+    {
+      "pmid": "24556872",
+      "title": "Acute HIV-1 infection is as common as malaria in young febrile adults seeking care in coastal Kenya.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "Febrile adults are usually not tested for acute HIV-1 infection (AHI) in Africa. We assessed a strategy to diagnose AHI among young adult patients seeking care.",
+        "Young adults (<30 years) who met predefined AHI criteria at care seeking, including fever, sexually transmitted disease symptoms, diarrhoea, body pains or multiple partners were referred from five pharmacies and screened at five health facilities. Prevalent HIV-1 was diagnosed by nationally recommended serial rapid HIV-1 testing. Willing HIV-1-negative patients were evaluated for AHI, defined as a positive p24 antigen test, and subsequent seroconversion or RNA detection. Febrile patients evaluated for AHI were also screened for malaria using a rapid test, with PCR confirmation of positives.",
+        "In 3602 adults seeking care, overall HIV-1 prevalence was 3.9%: 7.6% (68/897) among patients meeting AHI criteria vs. 2.6% (71/2705) among those who did not (P < 0.001). AHI was diagnosed in five of 506 HIV-1-negative or discordant patients who met AHI risk criteria and were completely evaluated [prevalence 1.0%, 95% confidence interval (CI) 0.3-2.3%]. Of these five AHI cases, four were diagnosed among the 241 patients with fever (prevalence 1.7%, 95% CI 0.5-4.2%), vs. one among 265 non-febrile patients (prevalence 0.4%, 95% CI 0.0-2.0%, P = 0.1). Malaria was confirmed by PCR in four (1.7%) of the 241 febrile patients.",
+        "AHI was as common as confirmed malaria in young febrile adults seeking care. An AHI detection strategy targeting young febrile adults seeking care at pharmacies and health facilities is feasible and should be considered as an HIV-prevention strategy in high-transmission settings."
+      ],
+      "abstract": "Febrile adults are usually not tested for acute HIV-1 infection (AHI) in Africa. We assessed a strategy to diagnose AHI among young adult patients seeking care.\n\nYoung adults (<30 years) who met predefined AHI criteria at care seeking, including fever, sexually transmitted disease symptoms, diarrhoea, body pains or multiple partners were referred from five pharmacies and screened at five health facilities. Prevalent HIV-1 was diagnosed by nationally recommended serial rapid HIV-1 testing. Willing HIV-1-negative patients were evaluated for AHI, defined as a positive p24 antigen test, and subsequent seroconversion or RNA detection. Febrile patients evaluated for AHI were also screened for malaria using a rapid test, with PCR confirmation of positives.\n\nIn 3602 adults seeking care, overall HIV-1 prevalence was 3.9%: 7.6% (68/897) among patients meeting AHI criteria vs. 2.6% (71/2705) among those who did not (P < 0.001). AHI was diagnosed in five of 506 HIV-1-negative or discordant patients who met AHI risk criteria and were completely evaluated [prevalence 1.0%, 95% confidence interval (CI) 0.3-2.3%]. Of these five AHI cases, four were diagnosed among the 241 patients with fever (prevalence 1.7%, 95% CI 0.5-4.2%), vs. one among 265 non-febrile patients (prevalence 0.4%, 95% CI 0.0-2.0%, P = 0.1). Malaria was confirmed by PCR in four (1.7%) of the 241 febrile patients.\n\nAHI was as common as confirmed malaria in young febrile adults seeking care. An AHI detection strategy targeting young febrile adults seeking care at pharmacies and health facilities is feasible and should be considered as an HIV-prevention strategy in high-transmission settings.",
+      "evidence_sentences": [
+        "AHI was diagnosed in five of 506 HIV-1-negative or discordant patients who met AHI risk criteria and were completely evaluated [prevalence 1.0%, 95% confidence interval (CI) 0.3-2.3%].",
+        "In 3602 adults seeking care, overall HIV-1 prevalence was 3.9%: 7.6% (68/897) among patients meeting AHI criteria vs.",
+        "Febrile patients evaluated for AHI were also screened for malaria using a rapid test, with PCR confirmation of positives."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Eduard J Sanders",
+        "Peter Mugo",
+        "Henrieke A B Prins",
+        "Elizabeth Wahome",
+        "Alexander N Thiong'o",
+        "Grace Mwashigadi",
+        "Elisabeth M van der Elst",
+        "Anisa Omar",
+        "Adrian D Smith",
+        "Susan M Graham"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24556872/"
+    },
+    {
+      "pmid": "37494044",
+      "title": "Causes of Death Among Infants and Children in the Child Health and Mortality Prevention Surveillance (CHAMPS) Network.",
+      "journal": "JAMA network open",
+      "abstract_sections": [
+        "The number of deaths of children younger than 5 years has been steadily decreasing worldwide, from more than 17 million annual deaths in the 1970s to an estimated 5.3 million in 2019 (with 2.8 million deaths occurring in those aged 1-59 months [53% of all deaths in children aged <5 years]). More detailed characterization of childhood deaths could inform interventions to improve child survival.",
+        "To describe causes of postneonatal child deaths across 7 mortality surveillance sentinel sites in Africa and Asia.",
+        "The Child Health and Mortality Prevention Surveillance (CHAMPS) Network conducts childhood mortality surveillance in sub-Saharan Africa and South Asia using innovative postmortem minimally invasive tissue sampling (MITS). In this cross-sectional study, MITS was conducted in deceased children aged 1 to 59 months at 7 sites in sub-Saharan Africa and South Asia from December 3, 2016, to December 3, 2020. Data analysis was conducted between October and November 2021.",
+        "The expert panel attributed underlying, intermediate, and immediate conditions in the chain of events leading to death, based on histopathologic analysis, microbiological diagnostics, clinical data, and verbal autopsies.",
+        "In this study, MITS was performed in 632 deceased children (mean [SD] age at death, 1.3 [0.3] years; 342 [54.1%] male). The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]). When considering immediate causes only, sepsis (191 [36.7%]) and LRTI (129 [24.8%]) were the 2 dominant causes. An infection was present in the causal chain in 549 of 632 deaths (86.9%); pathogens most frequently contributing to infectious deaths included Klebsiella pneumoniae (155 of 549 infectious deaths [28.2%]; 127 [81.9%] considered nosocomial), Plasmodium falciparum (122 of 549 [22.2%]), and Streptococcus pneumoniae (109 of 549 [19.9%]). Other organisms, such as cytomegalovirus (57 [10.4%]) and Acinetobacter baumannii (39 [7.1%]; 35 of 39 [89.7%] considered nosocomial), also played important roles. For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI. Expert panels considered 494 of 632 deaths (78.2%) preventable and 26 of 632 deaths (4.1%) preventable under certain conditions.",
+        "In this cross-sectional study investigating causes of child mortality in the CHAMPS Network, results indicate that, in these high-mortality settings, infectious diseases continue to cause most deaths in infants and children, often in conjunction with malnutrition. These results also highlight opportunities for action to prevent deaths and reveal common interaction of various causes in the path toward death."
+      ],
+      "abstract": "The number of deaths of children younger than 5 years has been steadily decreasing worldwide, from more than 17 million annual deaths in the 1970s to an estimated 5.3 million in 2019 (with 2.8 million deaths occurring in those aged 1-59 months [53% of all deaths in children aged <5 years]). More detailed characterization of childhood deaths could inform interventions to improve child survival.\n\nTo describe causes of postneonatal child deaths across 7 mortality surveillance sentinel sites in Africa and Asia.\n\nThe Child Health and Mortality Prevention Surveillance (CHAMPS) Network conducts childhood mortality surveillance in sub-Saharan Africa and South Asia using innovative postmortem minimally invasive tissue sampling (MITS). In this cross-sectional study, MITS was conducted in deceased children aged 1 to 59 months at 7 sites in sub-Saharan Africa and South Asia from December 3, 2016, to December 3, 2020. Data analysis was conducted between October and November 2021.\n\nThe expert panel attributed underlying, intermediate, and immediate conditions in the chain of events leading to death, based on histopathologic analysis, microbiological diagnostics, clinical data, and verbal autopsies.\n\nIn this study, MITS was performed in 632 deceased children (mean [SD] age at death, 1.3 [0.3] years; 342 [54.1%] male). The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]). When considering immediate causes only, sepsis (191 [36.7%]) and LRTI (129 [24.8%]) were the 2 dominant causes. An infection was present in the causal chain in 549 of 632 deaths (86.9%); pathogens most frequently contributing to infectious deaths included Klebsiella pneumoniae (155 of 549 infectious deaths [28.2%]; 127 [81.9%] considered nosocomial), Plasmodium falciparum (122 of 549 [22.2%]), and Streptococcus pneumoniae (109 of 549 [19.9%]). Other organisms, such as cytomegalovirus (57 [10.4%]) and Acinetobacter baumannii (39 [7.1%]; 35 of 39 [89.7%] considered nosocomial), also played important roles. For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI. Expert panels considered 494 of 632 deaths (78.2%) preventable and 26 of 632 deaths (4.1%) preventable under certain conditions.\n\nIn this cross-sectional study investigating causes of child mortality in the CHAMPS Network, results indicate that, in these high-mortality settings, infectious diseases continue to cause most deaths in infants and children, often in conjunction with malnutrition. These results also highlight opportunities for action to prevent deaths and reveal common interaction of various causes in the path toward death.",
+      "evidence_sentences": [
+        "The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]).",
+        "For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI.",
+        "In this cross-sectional study investigating causes of child mortality in the CHAMPS Network, results indicate that, in these high-mortality settings, infectious diseases continue to cause most deaths in infants and children, often in conjunction with malnutrition."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Quique Bassat",
+        "Dianna M Blau",
+        "Ikechukwu Udo Ogbuanu",
+        "Solomon Samura",
+        "Erick Kaluma",
+        "Ima-Abasi Bassey",
+        "Samba Sow",
+        "Adama Mamby Keita",
+        "Milagritos D Tapia",
+        "Ashka Mehta",
+        "Karen L Kotloff",
+        "Afruna Rahman",
+        "Kazi Munisul Islam",
+        "Muntasir Alam",
+        "Shams El Arifeen",
+        "Emily S Gurley",
+        "Vicky Baillie",
+        "Portia Mutevedzi",
+        "Sana Mahtab",
+        "Bukiwe Nana Thwala",
+        "Beth A Tippett Barr",
+        "Dickens Onyango",
+        "Victor Akelo",
+        "Emily Rogena",
+        "Peter Onyango",
+        "Richard Omore",
+        "Inacio Mandomando",
+        "Sara Ajanovic",
+        "Rosauro Varo",
+        "Antonio Sitoe",
+        "Miquel Duran-Frigola",
+        "Nega Assefa",
+        "J Anthony G Scott",
+        "Lola Madrid",
+        "Tseyon Tesfaye",
+        "Yadeta Dessie",
+        "Zachary J Madewell",
+        "Robert F Breiman",
+        "Cynthia G Whitney",
+        "Shabir A Madhi",
+        "Child Health and Mortality Prevention Surveillance (CHAMPS) Network"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37494044/"
+    },
+    {
+      "pmid": "17538880",
+      "title": "HIV, malaria, and infant anemia as risk factors for postneonatal infant mortality among HIV-seropositive women in Kisumu, Kenya.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "HIV and malaria in sub-Saharan Africa are associated with poor pregnancy outcome and infant survival. We studied the association of placental malaria, infant malaria and anemia, and infant HIV status with postneonatal infant mortality (PNIM) among infants of HIV-seropositive women.",
+        "During 1996-2001, infants born to 570 HIV-seropositive mothers in Kisumu, Kenya were monitored monthly for malaria (parasitemia or clinical malaria) and anemia (hemoglobin level <8 g/dL) and vital status.",
+        "Thirty-nine deaths occurred among 112 HIV-positive infants (420/1000 live births [LBs] [95% confidence interval {CI}, 318-522 LBs]), and 36 occurred among 458 HIV-negative infants (99/1000 LBs [95% CI, 68-130 LBs]) (P<.001). In multivariate Cox regression analysis among HIV-negative infants, PNIM was associated with infant anemia (adjusted hazard ratio [AHR], 5.03 [95% CI, 1.97-12.81]) but not with placental malaria (AHR, 1.22 [95% CI, 0.50-2.95]) or infant malaria (AHR, 0.35 [95% CI, 0.10-1.21]). Among HIV-positive infants, neither placental malaria (AHR, 0.34 [95% CI, 0.10-1.10]) nor infant malaria (AHR, 0.31 [95% CI, 0.07-1.33]) or anemia (AHR, 1.07 [95% CI, 0.32-3.61]) was significantly associated with PNIM.",
+        "In this study population, placental malaria and infant parasitemia were not risk factors for PNIM among infants of HIV-seropositive women. The prevention of infant anemia may decrease PNIM among HIV-negative infants of HIV-seropositive women."
+      ],
+      "abstract": "HIV and malaria in sub-Saharan Africa are associated with poor pregnancy outcome and infant survival. We studied the association of placental malaria, infant malaria and anemia, and infant HIV status with postneonatal infant mortality (PNIM) among infants of HIV-seropositive women.\n\nDuring 1996-2001, infants born to 570 HIV-seropositive mothers in Kisumu, Kenya were monitored monthly for malaria (parasitemia or clinical malaria) and anemia (hemoglobin level <8 g/dL) and vital status.\n\nThirty-nine deaths occurred among 112 HIV-positive infants (420/1000 live births [LBs] [95% confidence interval {CI}, 318-522 LBs]), and 36 occurred among 458 HIV-negative infants (99/1000 LBs [95% CI, 68-130 LBs]) (P<.001). In multivariate Cox regression analysis among HIV-negative infants, PNIM was associated with infant anemia (adjusted hazard ratio [AHR], 5.03 [95% CI, 1.97-12.81]) but not with placental malaria (AHR, 1.22 [95% CI, 0.50-2.95]) or infant malaria (AHR, 0.35 [95% CI, 0.10-1.21]). Among HIV-positive infants, neither placental malaria (AHR, 0.34 [95% CI, 0.10-1.10]) nor infant malaria (AHR, 0.31 [95% CI, 0.07-1.33]) or anemia (AHR, 1.07 [95% CI, 0.32-3.61]) was significantly associated with PNIM.\n\nIn this study population, placental malaria and infant parasitemia were not risk factors for PNIM among infants of HIV-seropositive women. The prevention of infant anemia may decrease PNIM among HIV-negative infants of HIV-seropositive women.",
+      "evidence_sentences": [
+        "During 1996-2001, infants born to 570 HIV-seropositive mothers in Kisumu, Kenya were monitored monthly for malaria (parasitemia or clinical malaria) and anemia (hemoglobin level <8 g/dL) and vital status.",
+        "In multivariate Cox regression analysis among HIV-negative infants, PNIM was associated with infant anemia (adjusted hazard ratio [AHR], 5.03 [95% CI, 1.97-12.81]) but not with placental malaria (AHR, 1.22 [95% CI, 0.50-2.95]) or infant malaria (AHR, 0.35 [95% CI, 0.10-1.21]).",
+        "Among HIV-positive infants, neither placental malaria (AHR, 0.34 [95% CI, 0.10-1.10]) nor infant malaria (AHR, 0.31 [95% CI, 0.07-1.33]) or anemia (AHR, 1.07 [95% CI, 0.32-3.61]) was significantly associated with PNIM."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Anna M van Eijk",
+        "John G Ayisi",
+        "Feiko O Ter Kuile",
+        "Laurence Slutsker",
+        "Ya Ping Shi",
+        "Venkatachalam Udhayakumar",
+        "Juliana A Otieno",
+        "Piet A Kager",
+        "Renu B Lal",
+        "Richard W Steketee",
+        "Bernard L Nahlen"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17538880/"
+    },
+    {
+      "pmid": "9840604",
+      "title": "Efficacy of sulfadoxine-pyrimethamine for prevention of placental malaria in an area of Kenya with a high prevalence of malaria and human immunodeficiency virus infection.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "A fever case management (CM) approach using sulfadoxine-pyrimethamine (SP) was compared with two presumptive intertmittent SP treatment regimens in the second and third trimesters in pregnant primigravidae and secundigravidae in an area of intense Plasmodium falciparum malaria transmission in western Kenya. The investigation evaluated efficacy of the antimalarial regimens for prevention of placental malaria and examined the effect of human immunodeficiency virus (HIV) infection on antimalarial drug efficacy and adverse drug reactions. Twenty-seven percent (93 of 343) of pregnant women in the CM group had placental malaria compared with 12% (38 of 330; P < 0.001) of women who received two doses of SP and compared with 9% (28 of 316; P < 0.001) of women who received monthly SP. Fourteen percent (49 of 341) of women in the CM group delivered low birth weight (LBW) infants compared with 8% (27 of 325; P=0.118) of women who received two doses of SP and compared with 8% (26 of 331; P=0.078) of women who received monthly SP. Seven percent (7 of 99) of the HIV-negative women on the two-dose SP regimen had placental malaria compared with 25% (10 of 39; P=0.007) of HIV-positive women on the same regimen; the rate of placental malaria in HIV-positive women was reduced to 7% (2 of 28; P=-0.051) for women on the monthly SP regimen. Less than 2% of women reported adverse drug reactions, with no statistically significant differences between HIV-positive and HIV-negative women. Intermittent treatment with SP is safe and efficacious for the prevention of placental malaria in pregnant primigravidae and secundigravidae in sub-Saharan Africa. While a two-dose SP regimen may be effective in areas with low HIV seroprevalence, administration of SP monthly during the second and third trimesters of pregnancy should be considered in areas of high HIV seroprevalence to prevent the effects of maternal malaria on the newborn."
+      ],
+      "abstract": "A fever case management (CM) approach using sulfadoxine-pyrimethamine (SP) was compared with two presumptive intertmittent SP treatment regimens in the second and third trimesters in pregnant primigravidae and secundigravidae in an area of intense Plasmodium falciparum malaria transmission in western Kenya. The investigation evaluated efficacy of the antimalarial regimens for prevention of placental malaria and examined the effect of human immunodeficiency virus (HIV) infection on antimalarial drug efficacy and adverse drug reactions. Twenty-seven percent (93 of 343) of pregnant women in the CM group had placental malaria compared with 12% (38 of 330; P < 0.001) of women who received two doses of SP and compared with 9% (28 of 316; P < 0.001) of women who received monthly SP. Fourteen percent (49 of 341) of women in the CM group delivered low birth weight (LBW) infants compared with 8% (27 of 325; P=0.118) of women who received two doses of SP and compared with 8% (26 of 331; P=0.078) of women who received monthly SP. Seven percent (7 of 99) of the HIV-negative women on the two-dose SP regimen had placental malaria compared with 25% (10 of 39; P=0.007) of HIV-positive women on the same regimen; the rate of placental malaria in HIV-positive women was reduced to 7% (2 of 28; P=-0.051) for women on the monthly SP regimen. Less than 2% of women reported adverse drug reactions, with no statistically significant differences between HIV-positive and HIV-negative women. Intermittent treatment with SP is safe and efficacious for the prevention of placental malaria in pregnant primigravidae and secundigravidae in sub-Saharan Africa. While a two-dose SP regimen may be effective in areas with low HIV seroprevalence, administration of SP monthly during the second and third trimesters of pregnancy should be considered in areas of high HIV seroprevalence to prevent the effects of maternal malaria on the newborn.",
+      "evidence_sentences": [
+        "While a two-dose SP regimen may be effective in areas with low HIV seroprevalence, administration of SP monthly during the second and third trimesters of pregnancy should be considered in areas of high HIV seroprevalence to prevent the effects of maternal malaria on the newborn.",
+        "A fever case management (CM) approach using sulfadoxine-pyrimethamine (SP) was compared with two presumptive intertmittent SP treatment regimens in the second and third trimesters in pregnant primigravidae and secundigravidae in an area of intense Plasmodium falciparum malaria transmission in western Kenya.",
+        "Seven percent (7 of 99) of the HIV-negative women on the two-dose SP regimen had placental malaria compared with 25% (10 of 39; P=0.007) of HIV-positive women on the same regimen; the rate of placental malaria in HIV-positive women was reduced to 7% (2 of 28; P=-0.051) for women on the monthly SP regimen."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "M E Parise",
+        "J G Ayisi",
+        "B L Nahlen",
+        "L J Schultz",
+        "J M Roberts",
+        "A Misore",
+        "R Muga",
+        "A J Oloo",
+        "R W Steketee"
+      ],
+      "year": "1998",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/9840604/"
+    },
+    {
+      "pmid": "26407275",
+      "title": "Low Bacteremia Prevalence Among Febrile Children in Areas of Differing Malaria Transmission in Rural Kenya: A Cross-Sectional Study.",
+      "journal": "Journal of the Pediatric Infectious Diseases Society",
+      "abstract_sections": [
+        "With malaria declining, other causes of fever may account for a substantial portion of severe childhood illness in sub-Saharan Africa. We determined prevalence, etiologies, and correlates of bacteremia among children in Western Kenya.",
+        "In a cross-sectional study, febrile children aged 6 months to 15 years presenting to Kisii (low malaria endemicity) and Homabay (high malaria endemicity) Hospitals were enrolled and screened for malaria, human immunodeficiency virus (HIV) infection and bacteremia. Correlates of bacteremia were evaluated using logistic regression.",
+        "Among 1476 children enrolled, 48 (3.3%) had bacteremia (23 of 734, 3.1% in Kisii and 25 of 734, 3.4% in Homabay). Salmonella spp (19 typhi and 21 nontyphoidal salmonella) accounted for 83% (40 of 48) of isolates. The distribution of Salmonella spp was similar between sites. Bacteremia was associated with incomplete vaccination (adjusted odds ratio [aOR] = 2.1; 95% confidence interval [CI], 1.1-4.1), before treatment with antimalarials (aOR = 2.7; 95% CI, 1.4-4.1), having sought care elsewhere (aOR = 2.2; 95% CI, 1.2-4.0) and lower education of caregiver (aOR = 2.5; 95% CI, 1.1-4.8). Nontyphoidal salmonella bacteremia was associated with HIV (aOR = 6.8; 95% CI, 1.1-35.1) and anemia (hemoglobin <8 g/dL) (aOR = 5.2; 95% CI, 1.4-18.9).",
+        "Bacteremia was relatively uncommon, but children with HIV, anemia, incomplete vaccination, and/or persistent fever despite malaria treatment may have higher risk and may benefit from targeted bacterial culture and/or empiric antibiotic therapy."
+      ],
+      "abstract": "With malaria declining, other causes of fever may account for a substantial portion of severe childhood illness in sub-Saharan Africa. We determined prevalence, etiologies, and correlates of bacteremia among children in Western Kenya.\n\nIn a cross-sectional study, febrile children aged 6 months to 15 years presenting to Kisii (low malaria endemicity) and Homabay (high malaria endemicity) Hospitals were enrolled and screened for malaria, human immunodeficiency virus (HIV) infection and bacteremia. Correlates of bacteremia were evaluated using logistic regression.\n\nAmong 1476 children enrolled, 48 (3.3%) had bacteremia (23 of 734, 3.1% in Kisii and 25 of 734, 3.4% in Homabay). Salmonella spp (19 typhi and 21 nontyphoidal salmonella) accounted for 83% (40 of 48) of isolates. The distribution of Salmonella spp was similar between sites. Bacteremia was associated with incomplete vaccination (adjusted odds ratio [aOR] = 2.1; 95% confidence interval [CI], 1.1-4.1), before treatment with antimalarials (aOR = 2.7; 95% CI, 1.4-4.1), having sought care elsewhere (aOR = 2.2; 95% CI, 1.2-4.0) and lower education of caregiver (aOR = 2.5; 95% CI, 1.1-4.8). Nontyphoidal salmonella bacteremia was associated with HIV (aOR = 6.8; 95% CI, 1.1-35.1) and anemia (hemoglobin <8 g/dL) (aOR = 5.2; 95% CI, 1.4-18.9).\n\nBacteremia was relatively uncommon, but children with HIV, anemia, incomplete vaccination, and/or persistent fever despite malaria treatment may have higher risk and may benefit from targeted bacterial culture and/or empiric antibiotic therapy.",
+      "evidence_sentences": [
+        "In a cross-sectional study, febrile children aged 6 months to 15 years presenting to Kisii (low malaria endemicity) and Homabay (high malaria endemicity) Hospitals were enrolled and screened for malaria, human immunodeficiency virus (HIV) infection and bacteremia.",
+        "Bacteremia was relatively uncommon, but children with HIV, anemia, incomplete vaccination, and/or persistent fever despite malaria treatment may have higher risk and may benefit from targeted bacterial culture and/or empiric antibiotic therapy.",
+        "We determined prevalence, etiologies, and correlates of bacteremia among children in Western Kenya."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Frankline M Onchiri",
+        "Patricia B Pavlinac",
+        "Benson O Singa",
+        "Jacqueline M Naulikha",
+        "Elizabeth A Odundo",
+        "Carey Farquhar",
+        "Barbra A Richardson",
+        "Grace John-Stewart",
+        "Judd L Walson"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26407275/"
+    },
+    {
+      "pmid": "21505300",
+      "title": "Most adults seek urgent healthcare when acquiring HIV-1 and are frequently treated for malaria in coastal Kenya.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "Acute HIV-1 infection (AHI) may present with symptoms for which urgent healthcare is sought. However, little is known about healthcare seeking around the time of HIV-1 seroconversion in sub-Saharan Africa.",
+        "Review of clinical, counselling, treatment and laboratory records of previously HIV-1 seronegative at-risk adults, followed at monthly or 3-monthly visits, who seroconverted and enrolled in an AHI cohort. All HIV-seronegative plasma samples were tested for p24 antigen (p24) and stored preseroconversion samples for HIV-1 RNA (RNA). Factors associated with malaria treatment while acquiring HIV-1 were evaluated in multiple logistic regression.",
+        "Sixty men and 12 women (95% of 75 seroconverters) were evaluated, including 43 (60%) with either p24-positive or RNA-positive or HIV-1 discordant rapid antibodies prior to seroconversion. Prior to diagnosis, 54 patients (75%) reported fever and 50 (69%) sought urgent care for symptomatic illness, including 23 (32%) who sought care in a nonresearch setting. Twenty-nine patients (40%) received presumptive malaria treatment. Only 24% of febrile patients were tested for malaria parasites. All documented smear results were negative. Malaria treatment was strongly associated with fever [adjusted odds ratio (aOR): 46, 95% confidence interval (CI): 3-725] and nonresearch setting (aOR: 5, 95% CI: 3-64). AHI was suspected in six (12%) patients who presented for urgent care during research evaluation.",
+        "The majority of adults with AHI seek urgent healthcare. These individuals are often presumptively treated for malaria. Improved recognition of AHI in adults presenting for care may offer opportunities for optimizing HIV prevention strategies."
+      ],
+      "abstract": "Acute HIV-1 infection (AHI) may present with symptoms for which urgent healthcare is sought. However, little is known about healthcare seeking around the time of HIV-1 seroconversion in sub-Saharan Africa.\n\nReview of clinical, counselling, treatment and laboratory records of previously HIV-1 seronegative at-risk adults, followed at monthly or 3-monthly visits, who seroconverted and enrolled in an AHI cohort. All HIV-seronegative plasma samples were tested for p24 antigen (p24) and stored preseroconversion samples for HIV-1 RNA (RNA). Factors associated with malaria treatment while acquiring HIV-1 were evaluated in multiple logistic regression.\n\nSixty men and 12 women (95% of 75 seroconverters) were evaluated, including 43 (60%) with either p24-positive or RNA-positive or HIV-1 discordant rapid antibodies prior to seroconversion. Prior to diagnosis, 54 patients (75%) reported fever and 50 (69%) sought urgent care for symptomatic illness, including 23 (32%) who sought care in a nonresearch setting. Twenty-nine patients (40%) received presumptive malaria treatment. Only 24% of febrile patients were tested for malaria parasites. All documented smear results were negative. Malaria treatment was strongly associated with fever [adjusted odds ratio (aOR): 46, 95% confidence interval (CI): 3-725] and nonresearch setting (aOR: 5, 95% CI: 3-64). AHI was suspected in six (12%) patients who presented for urgent care during research evaluation.\n\nThe majority of adults with AHI seek urgent healthcare. These individuals are often presumptively treated for malaria. Improved recognition of AHI in adults presenting for care may offer opportunities for optimizing HIV prevention strategies.",
+      "evidence_sentences": [
+        "Factors associated with malaria treatment while acquiring HIV-1 were evaluated in multiple logistic regression.",
+        "Review of clinical, counselling, treatment and laboratory records of previously HIV-1 seronegative at-risk adults, followed at monthly or 3-monthly visits, who seroconverted and enrolled in an AHI cohort.",
+        "Malaria treatment was strongly associated with fever [adjusted odds ratio (aOR): 46, 95% confidence interval (CI): 3-725] and nonresearch setting (aOR: 5, 95% CI: 3-64)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Eduard J Sanders",
+        "Elizabeth Wahome",
+        "Mary Mwangome",
+        "Alexander N Thiong'o",
+        "Haile S Okuku",
+        "Matthew A Price",
+        "Lorraine Wamuyu",
+        "Michael Macharia",
+        "R Scott McClelland",
+        "Susan M Graham"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21505300/"
+    },
+    {
+      "pmid": "17158329",
+      "title": "Dual infection with HIV and malaria fuels the spread of both diseases in sub-Saharan Africa.",
+      "journal": "Science (New York, N.Y.)",
+      "abstract_sections": [
+        "Mounting evidence has revealed pathological interactions between HIV and malaria in dually infected patients, but the public health implications of the interplay have remained unclear. A transient almost one-log elevation in HIV viral load occurs during febrile malaria episodes; in addition, susceptibility to malaria is enhanced in HIV-infected patients. A mathematical model applied to a setting in Kenya with an adult population of roughly 200,000 estimated that, since 1980, the disease interaction may have been responsible for 8,500 excess HIV infections and 980,000 excess malaria episodes. Co-infection might also have facilitated the geographic expansion of malaria in areas where HIV prevalence is high. Hence, transient and repeated increases in HIV viral load resulting from recurrent co-infection with malaria may be an important factor in promoting the spread of HIV in sub-Saharan Africa."
+      ],
+      "abstract": "Mounting evidence has revealed pathological interactions between HIV and malaria in dually infected patients, but the public health implications of the interplay have remained unclear. A transient almost one-log elevation in HIV viral load occurs during febrile malaria episodes; in addition, susceptibility to malaria is enhanced in HIV-infected patients. A mathematical model applied to a setting in Kenya with an adult population of roughly 200,000 estimated that, since 1980, the disease interaction may have been responsible for 8,500 excess HIV infections and 980,000 excess malaria episodes. Co-infection might also have facilitated the geographic expansion of malaria in areas where HIV prevalence is high. Hence, transient and repeated increases in HIV viral load resulting from recurrent co-infection with malaria may be an important factor in promoting the spread of HIV in sub-Saharan Africa.",
+      "evidence_sentences": [
+        "A mathematical model applied to a setting in Kenya with an adult population of roughly 200,000 estimated that, since 1980, the disease interaction may have been responsible for 8,500 excess HIV infections and 980,000 excess malaria episodes.",
+        "Co-infection might also have facilitated the geographic expansion of malaria in areas where HIV prevalence is high.",
+        "Hence, transient and repeated increases in HIV viral load resulting from recurrent co-infection with malaria may be an important factor in promoting the spread of HIV in sub-Saharan Africa."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Laith J Abu-Raddad",
+        "Padmaja Patnaik",
+        "James G Kublin"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17158329/"
+    },
+    {
+      "pmid": "38982894",
+      "title": "A sub-national HIV epidemic appraisal in Kenya: a new approach for identifying priority geographies, populations and programmes for optimizing coverage for HIV prevention.",
+      "journal": "Journal of the International AIDS Society",
+      "abstract_sections": [
+        "The HIV Prevention 2025 Roadmap, developed by UNAIDS, recommends the adoption of a precision prevention approach focused on priority populations and geographies. With reduction in new HIV acquisitions in many countries, designing a differentiated HIV prevention response, using a Programme Science approach, based on the understanding of the epidemic and transmission dynamics at a sub-national level, is critical.",
+        "To support strategic planning, an epidemic appraisal at the sub-national level across 47 counties, with the 2019 population ranging from 0.14 million in Lamu to 4.40 million in Nairobi City, was conducted in Kenya using several existing data sources. Using 2021 Spectrum/EPP/Naomi model estimates of national and sub-national HIV incidence and prevalence, counties with high HIV incidence and prevalence were identified for geographic prioritization. The size of local key population (KP) networks and HIV prevalence in key and general populations were used to define epidemic typology and prioritize populations for HIV prevention programmes. Analysis of routine programme monitoring data for 2021 was used to assess coverage gaps in HIV prevention programmes, including prevention of vertical transmission, anti-retroviral therapy, KP programmes, adolescent girls and young women programme, and voluntary male medical circumcision programme.",
+        "Ten counties with more than 1000 incident acquisitions in 2021 accounted for 57% of new acquisitions. Twenty-four counties were grouped into the concentrated epidemic type-due to their low prevalence in the general population, high prevalence in KPs and relatively higher density of female sex workers and men who have sex with men populations. Four counties reflected a generalized epidemic, where HIV prevalence was more than 10% and 30%, respectively, among the general and key populations. The remaining 19 counties were classified as having mixed epidemics. Gaps in programmes were identified and counties where these gaps need to be addressed were also prioritized.",
+        "The HIV burden in Kenya is unevenly distributed and hence the mix of prevention strategies may vary according to the epidemic typology of the county. Prioritization of programmes based not only on disease burden and epidemic typology, but also on the prevailing gaps in coverage for reducing inequities is a key aspect of this appraisal."
+      ],
+      "abstract": "The HIV Prevention 2025 Roadmap, developed by UNAIDS, recommends the adoption of a precision prevention approach focused on priority populations and geographies. With reduction in new HIV acquisitions in many countries, designing a differentiated HIV prevention response, using a Programme Science approach, based on the understanding of the epidemic and transmission dynamics at a sub-national level, is critical.\n\nTo support strategic planning, an epidemic appraisal at the sub-national level across 47 counties, with the 2019 population ranging from 0.14 million in Lamu to 4.40 million in Nairobi City, was conducted in Kenya using several existing data sources. Using 2021 Spectrum/EPP/Naomi model estimates of national and sub-national HIV incidence and prevalence, counties with high HIV incidence and prevalence were identified for geographic prioritization. The size of local key population (KP) networks and HIV prevalence in key and general populations were used to define epidemic typology and prioritize populations for HIV prevention programmes. Analysis of routine programme monitoring data for 2021 was used to assess coverage gaps in HIV prevention programmes, including prevention of vertical transmission, anti-retroviral therapy, KP programmes, adolescent girls and young women programme, and voluntary male medical circumcision programme.\n\nTen counties with more than 1000 incident acquisitions in 2021 accounted for 57% of new acquisitions. Twenty-four counties were grouped into the concentrated epidemic type-due to their low prevalence in the general population, high prevalence in KPs and relatively higher density of female sex workers and men who have sex with men populations. Four counties reflected a generalized epidemic, where HIV prevalence was more than 10% and 30%, respectively, among the general and key populations. The remaining 19 counties were classified as having mixed epidemics. Gaps in programmes were identified and counties where these gaps need to be addressed were also prioritized.\n\nThe HIV burden in Kenya is unevenly distributed and hence the mix of prevention strategies may vary according to the epidemic typology of the county. Prioritization of programmes based not only on disease burden and epidemic typology, but also on the prevailing gaps in coverage for reducing inequities is a key aspect of this appraisal.",
+      "evidence_sentences": [
+        "Using 2021 Spectrum/EPP/Naomi model estimates of national and sub-national HIV incidence and prevalence, counties with high HIV incidence and prevalence were identified for geographic prioritization.",
+        "The size of local key population (KP) networks and HIV prevalence in key and general populations were used to define epidemic typology and prioritize populations for HIV prevention programmes.",
+        "The HIV burden in Kenya is unevenly distributed and hence the mix of prevention strategies may vary according to the epidemic typology of the county."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Ramesh Banadakoppa Manjappa",
+        "Parinita Bhattacharjee",
+        "Souradet Yuh-Nan Shaw",
+        "Joshua Gitonga",
+        "Japheth Kioko",
+        "Franklin Songok",
+        "Faran Emmanuel",
+        "Peter Arimi",
+        "Helgar Musyoki",
+        "Ruth Laibon Masha",
+        "James Blanchard"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38982894/"
+    },
+    {
+      "pmid": "28787328",
+      "title": "Integrating Household Water Treatment, Hand Washing, and Insecticide-Treated Bed Nets Into Pediatric HIV Care in Mombasa, Kenya: Impact on Diarrhea and Malaria Risk.",
+      "journal": "Journal of acquired immune deficiency syndromes (1999)",
+      "abstract_sections": [
+        "In developing countries, HIV-infected children are at higher risk of morbidity and mortality from opportunistic infections than HIV-uninfected children. To address this problem, the Healthy Living Initiative (HLI) in Mombasa, Kenya distributed basic care packages (BCPs) containing improved water storage vessels, water treatment solution, soap, and insecticide-treated bed nets to prevent diarrhea and malaria in children, and had community health workers (CHWs) make bimonthly home visits to encourage adherence to HLI interventions and antiretroviral (ARV) medicine use.",
+        "To evaluate HLI, we enrolled 500 HIV-infected children from Bomu Hospital. In the implementation phase, from February to August 2011, we conducted surveys of caregivers, then provided free BCPs. In the evaluation phase, from September 2011 to August 2012, CHWs recorded observations of BCP use during home visits. We abstracted hospital data to compare diarrhea and malaria episodes, and pharmacy data on ARVs dispensed, between the 12-month preimplementation baseline phase (February 2010-January 2011) and the evaluation phase.",
+        "The retention rate of children in HLI was 78.4%. In a multivariable logistic regression model adjusting for demographic characteristics, number of CHW home visits, distance to clinic, orphan status, and number of ARVs dispensed, children in HLI had 71% lower risk of diarrhea (relative risk 0.29, P < 0.001) and 87% lower risk of malaria (relative risk 0.13, P = 0.001) during the evaluation phase than the baseline phase; there was no independent association between ARV use and illness.",
+        "HIV-infected children in HLI were less likely to experience diarrhea and malaria during the evaluation phase than the baseline phase."
+      ],
+      "abstract": "In developing countries, HIV-infected children are at higher risk of morbidity and mortality from opportunistic infections than HIV-uninfected children. To address this problem, the Healthy Living Initiative (HLI) in Mombasa, Kenya distributed basic care packages (BCPs) containing improved water storage vessels, water treatment solution, soap, and insecticide-treated bed nets to prevent diarrhea and malaria in children, and had community health workers (CHWs) make bimonthly home visits to encourage adherence to HLI interventions and antiretroviral (ARV) medicine use.\n\nTo evaluate HLI, we enrolled 500 HIV-infected children from Bomu Hospital. In the implementation phase, from February to August 2011, we conducted surveys of caregivers, then provided free BCPs. In the evaluation phase, from September 2011 to August 2012, CHWs recorded observations of BCP use during home visits. We abstracted hospital data to compare diarrhea and malaria episodes, and pharmacy data on ARVs dispensed, between the 12-month preimplementation baseline phase (February 2010-January 2011) and the evaluation phase.\n\nThe retention rate of children in HLI was 78.4%. In a multivariable logistic regression model adjusting for demographic characteristics, number of CHW home visits, distance to clinic, orphan status, and number of ARVs dispensed, children in HLI had 71% lower risk of diarrhea (relative risk 0.29, P < 0.001) and 87% lower risk of malaria (relative risk 0.13, P = 0.001) during the evaluation phase than the baseline phase; there was no independent association between ARV use and illness.\n\nHIV-infected children in HLI were less likely to experience diarrhea and malaria during the evaluation phase than the baseline phase.",
+      "evidence_sentences": [
+        "To address this problem, the Healthy Living Initiative (HLI) in Mombasa, Kenya distributed basic care packages (BCPs) containing improved water storage vessels, water treatment solution, soap, and insecticide-treated bed nets to prevent diarrhea and malaria in children, and had community health workers (CHWs) make bimonthly home visits to encourage adherence to HLI interventions and antiretroviral (ARV) medicine use.",
+        "HIV-infected children in HLI were less likely to experience diarrhea and malaria during the evaluation phase than the baseline phase.",
+        "In a multivariable logistic regression model adjusting for demographic characteristics, number of CHW home visits, distance to clinic, orphan status, and number of ARVs dispensed, children in HLI had 71% lower risk of diarrhea (relative risk 0.29, P < 0.001) and 87% lower risk of malaria (relative risk 0.13, P = 0.001) during the evaluation phase than the baseline phase; there was no independent association between ARV use and illness."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Naomi R Sugar",
+        "Katharine A Schilling",
+        "Sunkyung Kim",
+        "Aabid Ahmed",
+        "Dennis Ngui Muyanga",
+        "Sumathi Sivapalasingam",
+        "Robert Quick"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28787328/"
+    },
+    {
+      "pmid": "35341998",
+      "title": "Tuberculosis, HIV/AIDS and Malaria Health Services in sub-Saharan Africa - A Situation Analysis of the Disruptions and Impact of the COVID-19 Pandemic.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "The unprecedented and ongoing COVID-19 pandemic has exposed weaknesses in African countries' health systems. The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.",
+        "In this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa.",
+        "The COVID-19 pandemic resulted in disruptions of routine health services and diversion of already limited available resources in sub-Saharan Africa. As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets. The extent of the disruption is yet to be fully quantified at country level as most data available is from modelling estimates before and during the pandemic.",
+        "Accurate country-level data is required to convince donors and governments to invest more into revamping these health services and help prepare for managing future pandemics without disruption of routine services. Increasing government expenditure on health is a critical part of Africa's economic policy. Strengthening health systems at various levels to overcome the negative impacts of COVID-19, and preparing for future epidemics will require strong visionary political leadership. Innovations in service delivery and technological adaptations are required as countries aim to limit disruptions to routine services."
+      ],
+      "abstract": "The unprecedented and ongoing COVID-19 pandemic has exposed weaknesses in African countries' health systems. The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.\n\nIn this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa.\n\nThe COVID-19 pandemic resulted in disruptions of routine health services and diversion of already limited available resources in sub-Saharan Africa. As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets. The extent of the disruption is yet to be fully quantified at country level as most data available is from modelling estimates before and during the pandemic.\n\nAccurate country-level data is required to convince donors and governments to invest more into revamping these health services and help prepare for managing future pandemics without disruption of routine services. Increasing government expenditure on health is a critical part of Africa's economic policy. Strengthening health systems at various levels to overcome the negative impacts of COVID-19, and preparing for future epidemics will require strong visionary political leadership. Innovations in service delivery and technological adaptations are required as countries aim to limit disruptions to routine services.",
+      "evidence_sentences": [
+        "The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.",
+        "As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets.",
+        "In this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Pascalina Chanda-Kapata",
+        "Francine Ntoumi",
+        "Nathan Kapata",
+        "Patrick Lungu",
+        "Luchenga Adam Mucheleng'anga",
+        "Jeremiah Chakaya",
+        "John Tembo",
+        "Cordelia Himwaze",
+        "Rashid Ansumana",
+        "Danny Asogun",
+        "Sayoki Mfinanga",
+        "Peter Nyasulu",
+        "Peter Mwaba",
+        "Dorothy Yeboah-Manu",
+        "Alimuddin Zumla",
+        "Jean B Nachega"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35341998/"
+    },
+    {
+      "pmid": "34257091",
+      "title": "Effectiveness of spatially targeted interventions for control of HIV, tuberculosis, leprosy and malaria: a systematic review.",
+      "journal": "BMJ open",
+      "abstract_sections": [
+        "As infectious diseases approach global elimination targets, spatial targeting is increasingly important to identify community hotspots of transmission and effectively target interventions. We aimed to synthesise relevant evidence to define best practice approaches and identify policy and research gaps.",
+        "To systematically appraise evidence for the effectiveness of spatially targeted community public health interventions for HIV, tuberculosis (TB), leprosy and malaria.",
+        "Systematic review.",
+        "We searched Medline, Embase, Global Health, Web of Science and Cochrane Database of Systematic Reviews between 1 January 1993 and 22 March 2021.",
+        "The studies had to include HIV or TB or leprosy or malaria and spatial hotspot definition, and community interventions.",
+        "A data extraction tool was used. For each study, we summarised approaches to identifying hotpots, intervention design and effectiveness of the intervention.",
+        "Ten studies, including one cluster randomised trial and nine with alternative designs (before-after, comparator area), satisfied our inclusion criteria. Spatially targeted interventions for HIV (one USA study), TB (three USA) and leprosy (two Brazil, one Federated States of Micronesia) each used household location and disease density to define hotspots followed by community-based screening. Malaria studies (one each from India, Indonesia and Kenya) used household location and disease density for hotspot identification followed by complex interventions typically combining community screening, larviciding of stagnant water bodies, indoor residual spraying and mass drug administration. Evidence of effect was mixed.",
+        "Studies investigating spatially targeted interventions were few in number, and mostly underpowered or otherwise limited methodologically, affecting interpretation of intervention impact. Applying advanced epidemiological methodologies supporting more robust hotspot identification and larger or more intensive interventions would strengthen the evidence-base for this increasingly important approach.",
+        "CRD42019130133."
+      ],
+      "abstract": "As infectious diseases approach global elimination targets, spatial targeting is increasingly important to identify community hotspots of transmission and effectively target interventions. We aimed to synthesise relevant evidence to define best practice approaches and identify policy and research gaps.\n\nTo systematically appraise evidence for the effectiveness of spatially targeted community public health interventions for HIV, tuberculosis (TB), leprosy and malaria.\n\nSystematic review.\n\nWe searched Medline, Embase, Global Health, Web of Science and Cochrane Database of Systematic Reviews between 1 January 1993 and 22 March 2021.\n\nThe studies had to include HIV or TB or leprosy or malaria and spatial hotspot definition, and community interventions.\n\nA data extraction tool was used. For each study, we summarised approaches to identifying hotpots, intervention design and effectiveness of the intervention.\n\nTen studies, including one cluster randomised trial and nine with alternative designs (before-after, comparator area), satisfied our inclusion criteria. Spatially targeted interventions for HIV (one USA study), TB (three USA) and leprosy (two Brazil, one Federated States of Micronesia) each used household location and disease density to define hotspots followed by community-based screening. Malaria studies (one each from India, Indonesia and Kenya) used household location and disease density for hotspot identification followed by complex interventions typically combining community screening, larviciding of stagnant water bodies, indoor residual spraying and mass drug administration. Evidence of effect was mixed.\n\nStudies investigating spatially targeted interventions were few in number, and mostly underpowered or otherwise limited methodologically, affecting interpretation of intervention impact. Applying advanced epidemiological methodologies supporting more robust hotspot identification and larger or more intensive interventions would strengthen the evidence-base for this increasingly important approach.\n\nCRD42019130133.",
+      "evidence_sentences": [
+        "Malaria studies (one each from India, Indonesia and Kenya) used household location and disease density for hotspot identification followed by complex interventions typically combining community screening, larviciding of stagnant water bodies, indoor residual spraying and mass drug administration.",
+        "To systematically appraise evidence for the effectiveness of spatially targeted community public health interventions for HIV, tuberculosis (TB), leprosy and malaria.",
+        "The studies had to include HIV or TB or leprosy or malaria and spatial hotspot definition, and community interventions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "McEwen Khundi",
+        "James R Carpenter",
+        "Marriott Nliwasa",
+        "Ted Cohen",
+        "Elizabeth L Corbett",
+        "Peter MacPherson"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34257091/"
+    },
+    {
+      "pmid": "26425549",
+      "title": "The Implications of HIV Treatment on the HIV-Malaria Coinfection Dynamics: A Modeling Perspective.",
+      "journal": "BioMed research international",
+      "abstract_sections": [
+        "Most hosts harbor multiple pathogens at the same time in disease epidemiology. Multiple pathogens have the potential for interaction resulting in negative impacts on host fitness or alterations in pathogen transmission dynamics. In this paper we develop a mathematical model describing the dynamics of HIV-malaria coinfection. Additionally, we extended our model to examine the role treatment (of malaria and HIV) plays in altering populations' dynamics. Our model consists of 13 interlinked equations which allow us to explore multiple aspects of HIV-malaria transmission and treatment. We perform qualitative analysis of the model that includes positivity and boundedness of solutions. Furthermore, we evaluate the reproductive numbers corresponding to the submodels and investigate the long term behavior of the submodels. We also consider the qualitative dynamics of the full model. Sensitivity analysis is done to determine the impact of some chosen parameters on the dynamics of malaria. Finally, numerical simulations illustrate the potential impact of the treatment scenarios and confirm our analytical results."
+      ],
+      "abstract": "Most hosts harbor multiple pathogens at the same time in disease epidemiology. Multiple pathogens have the potential for interaction resulting in negative impacts on host fitness or alterations in pathogen transmission dynamics. In this paper we develop a mathematical model describing the dynamics of HIV-malaria coinfection. Additionally, we extended our model to examine the role treatment (of malaria and HIV) plays in altering populations' dynamics. Our model consists of 13 interlinked equations which allow us to explore multiple aspects of HIV-malaria transmission and treatment. We perform qualitative analysis of the model that includes positivity and boundedness of solutions. Furthermore, we evaluate the reproductive numbers corresponding to the submodels and investigate the long term behavior of the submodels. We also consider the qualitative dynamics of the full model. Sensitivity analysis is done to determine the impact of some chosen parameters on the dynamics of malaria. Finally, numerical simulations illustrate the potential impact of the treatment scenarios and confirm our analytical results.",
+      "evidence_sentences": [
+        "Our model consists of 13 interlinked equations which allow us to explore multiple aspects of HIV-malaria transmission and treatment.",
+        "Additionally, we extended our model to examine the role treatment (of malaria and HIV) plays in altering populations' dynamics.",
+        "In this paper we develop a mathematical model describing the dynamics of HIV-malaria coinfection."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "F Nyabadza",
+        "B T Bekele",
+        "M A Rúa",
+        "D M Malonza",
+        "N Chiduku",
+        "M Kgosimore"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26425549/"
+    },
+    {
+      "pmid": "36544758",
+      "title": "COVID-19 vaccinology landscape in Africa.",
+      "journal": "Frontiers in immunology",
+      "abstract_sections": [
+        "More than two years after the start of COVID-19 pandemic, Africa still lags behind in terms vaccine distribution. This highlights the predicament of Africa in terms of vaccine development, deployment, and sustainability, not only for COVID-19, but for other major infectious diseases that plague the continent. This opinion discusses the challenges Africa faces in its race to vaccinate its people, and offers recommendations on the way forward. Specifically, to get out of the ongoing vaccine shortage trap, Africa needs to diversify investment not only to COVID-19 but also other diseases that burden the population. The continent needs to increase its capacity to acquire vaccines more equitably, improve access to technologies to enable local manufacture of vaccines, increase awareness on vaccines both in rural and urban areas to significantly reduce disease incidence of COVID-19 and as well as other prevalent diseases on the African continent such as HIV and TB. Such efforts will go a long way to reduce the disease burden in Africa."
+      ],
+      "abstract": "More than two years after the start of COVID-19 pandemic, Africa still lags behind in terms vaccine distribution. This highlights the predicament of Africa in terms of vaccine development, deployment, and sustainability, not only for COVID-19, but for other major infectious diseases that plague the continent. This opinion discusses the challenges Africa faces in its race to vaccinate its people, and offers recommendations on the way forward. Specifically, to get out of the ongoing vaccine shortage trap, Africa needs to diversify investment not only to COVID-19 but also other diseases that burden the population. The continent needs to increase its capacity to acquire vaccines more equitably, improve access to technologies to enable local manufacture of vaccines, increase awareness on vaccines both in rural and urban areas to significantly reduce disease incidence of COVID-19 and as well as other prevalent diseases on the African continent such as HIV and TB. Such efforts will go a long way to reduce the disease burden in Africa.",
+      "evidence_sentences": [
+        "The continent needs to increase its capacity to acquire vaccines more equitably, improve access to technologies to enable local manufacture of vaccines, increase awareness on vaccines both in rural and urban areas to significantly reduce disease incidence of COVID-19 and as well as other prevalent diseases on the African continent such as HIV and TB."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "kenya"
+      ],
+      "authors": [
+        "Sara Baptista",
+        "Sanushka Naidoo",
+        "Sara Suliman",
+        "Emmanuel Nepolo",
+        "Bernard N Kanoi",
+        "Jesse Gitaka",
+        "Oyedemi Mbaebie Blessing",
+        "Shymaa Enany"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36544758/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "300",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "36529768",
+        "40018559",
+        "36410321",
+        "40990886",
+        "38224710",
+        "31546088",
+        "38640940",
+        "33614525",
+        "39544623",
+        "33716195",
+        "26173396",
+        "21224274",
+        "12598780",
+        "37697804",
+        "36189366",
+        "12598779",
+        "37788741",
+        "24556872",
+        "37494044",
+        "17538880",
+        "9840604",
+        "26407275",
+        "21505300",
+        "17158329",
+        "38982894",
+        "28787328",
+        "35341998",
+        "34257091",
+        "26425549",
+        "36544758"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "hiv",
+          "to": "\"hiv\"[MeSH Terms] OR \"hiv\"[All Fields]"
+        },
+        {
+          "from": "prevalence",
+          "to": "\"epidemiology\"[Subheading] OR \"epidemiology\"[All Fields] OR \"prevalence\"[All Fields] OR \"prevalence\"[MeSH Terms] OR \"prevalance\"[All Fields] OR \"prevalences\"[All Fields] OR \"prevalence's\"[All Fields] OR \"prevalent\"[All Fields] OR \"prevalently\"[All Fields] OR \"prevalents\"[All Fields]"
+        },
+        {
+          "from": "kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"hiv\"[MeSH Terms] OR \"hiv\"[All Fields]) AND (\"epidemiology\"[MeSH Subheading] OR \"epidemiology\"[All Fields] OR \"prevalence\"[All Fields] OR \"prevalence\"[MeSH Terms] OR \"prevalance\"[All Fields] OR \"prevalences\"[All Fields] OR \"prevalence s\"[All Fields] OR \"prevalent\"[All Fields] OR \"prevalently\"[All Fields] OR \"prevalents\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields])"
+    }
+  }
+}

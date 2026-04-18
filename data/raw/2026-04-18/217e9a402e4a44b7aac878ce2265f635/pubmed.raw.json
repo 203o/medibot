@@ -1,0 +1,1232 @@
+{
+  "query": "lung cancer lung cancer treatment therapy usa",
+  "selected_query": "lung cancer lung cancer treatment therapy usa",
+  "attempted_queries": [
+    {
+      "query": "lung cancer lung cancer treatment therapy usa",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "39121882",
+    "34385702",
+    "40133478",
+    "38636443",
+    "26297204",
+    "39337530",
+    "32005431",
+    "33175991",
+    "27574741",
+    "34753715",
+    "36027916",
+    "39031586",
+    "37532102",
+    "29364287",
+    "33911215",
+    "40334018",
+    "31215500",
+    "37030062",
+    "36806787",
+    "38839544",
+    "29304362",
+    "38600814",
+    "40673977",
+    "40523990",
+    "38730427",
+    "34624218",
+    "32019323",
+    "29362920",
+    "32327179",
+    "36787870"
+  ],
+  "records": [
+    {
+      "pmid": "39121882",
+      "title": "New promises and challenges in the treatment of advanced non-small-cell lung cancer.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "Targeted therapies and immunotherapies have radically improved treatment for advanced non-small-cell lung cancer (NSCLC). Tyrosine kinase inhibitors targeting oncogenic driver mutations continue to evolve over multiple generations to enhance effectiveness and tackle drug resistance. Immune checkpoint inhibitors remain integral for the treatment of NSCLCs that do not have specific actionable genetic mutations. Antibody-drug conjugates and bispecific antibodies are being integrated into treatment guidelines, and emerging therapies include T-cell engagers, cellular therapies, cancer vaccines, and external devices. Despite these advances, challenges remain in identifying predictive biomarkers to individually tailor treatments, abrogate resistance, reduce costs, and ensure optimal cancer treatment accessibility."
+      ],
+      "abstract": "Targeted therapies and immunotherapies have radically improved treatment for advanced non-small-cell lung cancer (NSCLC). Tyrosine kinase inhibitors targeting oncogenic driver mutations continue to evolve over multiple generations to enhance effectiveness and tackle drug resistance. Immune checkpoint inhibitors remain integral for the treatment of NSCLCs that do not have specific actionable genetic mutations. Antibody-drug conjugates and bispecific antibodies are being integrated into treatment guidelines, and emerging therapies include T-cell engagers, cellular therapies, cancer vaccines, and external devices. Despite these advances, challenges remain in identifying predictive biomarkers to individually tailor treatments, abrogate resistance, reduce costs, and ensure optimal cancer treatment accessibility.",
+      "evidence_sentences": [
+        "Targeted therapies and immunotherapies have radically improved treatment for advanced non-small-cell lung cancer (NSCLC).",
+        "Antibody-drug conjugates and bispecific antibodies are being integrated into treatment guidelines, and emerging therapies include T-cell engagers, cellular therapies, cancer vaccines, and external devices.",
+        "Despite these advances, challenges remain in identifying predictive biomarkers to individually tailor treatments, abrogate resistance, reduce costs, and ensure optimal cancer treatment accessibility."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "May-Lucie Meyer",
+        "Bailey G Fitzgerald",
+        "Luis Paz-Ares",
+        "Federico Cappuzzo",
+        "Pasi A Jänne",
+        "Solange Peters",
+        "Fred R Hirsch"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39121882/"
+    },
+    {
+      "pmid": "34385702",
+      "title": "Toward personalized treatment approaches for non-small-cell lung cancer.",
+      "journal": "Nature medicine",
+      "abstract_sections": [
+        "Worldwide, lung cancer is the most common cause of cancer-related deaths. Molecular targeted therapies and immunotherapies for non-small-cell lung cancer (NSCLC) have improved outcomes markedly over the past two decades. However, the vast majority of advanced NSCLCs become resistant to current treatments and eventually progress. In this Perspective, we discuss some of the recent breakthrough therapies developed for NSCLC, focusing on immunotherapies and targeted therapies. We highlight our current understanding of mechanisms of resistance and the importance of incorporating genomic analyses into clinical studies to decipher these further. We underscore the future role of neoadjuvant and maintenance combination therapy approaches to potentially cure early disease. A major challenge to successful development of rational combination therapies will be the application of robust predictive biomarkers for clear-cut patient stratification, and we provide our views on clinical research areas that could influence how NSCLC will be managed over the coming decade."
+      ],
+      "abstract": "Worldwide, lung cancer is the most common cause of cancer-related deaths. Molecular targeted therapies and immunotherapies for non-small-cell lung cancer (NSCLC) have improved outcomes markedly over the past two decades. However, the vast majority of advanced NSCLCs become resistant to current treatments and eventually progress. In this Perspective, we discuss some of the recent breakthrough therapies developed for NSCLC, focusing on immunotherapies and targeted therapies. We highlight our current understanding of mechanisms of resistance and the importance of incorporating genomic analyses into clinical studies to decipher these further. We underscore the future role of neoadjuvant and maintenance combination therapy approaches to potentially cure early disease. A major challenge to successful development of rational combination therapies will be the application of robust predictive biomarkers for clear-cut patient stratification, and we provide our views on clinical research areas that could influence how NSCLC will be managed over the coming decade.",
+      "evidence_sentences": [
+        "Molecular targeted therapies and immunotherapies for non-small-cell lung cancer (NSCLC) have improved outcomes markedly over the past two decades.",
+        "Worldwide, lung cancer is the most common cause of cancer-related deaths.",
+        "However, the vast majority of advanced NSCLCs become resistant to current treatments and eventually progress."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Meina Wang",
+        "Roy S Herbst",
+        "Chris Boshoff"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34385702/"
+    },
+    {
+      "pmid": "40133478",
+      "title": "Update 2025: Management of Non‑Small-Cell Lung Cancer.",
+      "journal": "Lung",
+      "abstract_sections": [
+        "Lung cancer remains the leading cause of cancer-related mortality worldwide. Since 2024, the non-small-cell lung cancer (NSCLC) landscape has undergone a transformative shift, driven by 11 FDA approvals. Recent advances in molecular profiling, targeted therapies, and immunotherapies have revolutionized NSCLC management, ushering in an era of personalized treatment with improved patient outcomes. The increased adoption of low-dose computed tomography (LDCT) for screening has enhanced early detection, enabling intervention at more curable stages. Molecular diagnostics now play a pivotal role in guiding treatment strategies, with actionable genomic alterations (AGAs) informing the use of EGFR, ALK, ROS1, KRAS, NRG1, and other targeted inhibitors in both early and advanced settings. For instance, targeted therapies are increasingly being integrated into early-stage management, with adjuvant osimertinib for EGFR-mutated NSCLC and alectinib for ALK-positive NSCLC demonstrating substantial survival benefits. Immunotherapy, particularly immune checkpoint inhibitors, has become a cornerstone of treatment for AGA-negative NSCLC, either as monotherapy or in combination with chemotherapy, and is increasingly being utilized in the perioperative setting. Furthermore, emerging therapies such as bispecific antibodies, antibody-drug conjugates (ADCs), and novel immunotherapeutic agents show promise in addressing resistance mechanisms and improving outcomes in advanced-stage disease. Although new challenges arise, the evolving NSCLC treatment paradigm continues to prioritize precision medicine, offering hope for prolonged survival and enhanced quality of life for patients."
+      ],
+      "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide. Since 2024, the non-small-cell lung cancer (NSCLC) landscape has undergone a transformative shift, driven by 11 FDA approvals. Recent advances in molecular profiling, targeted therapies, and immunotherapies have revolutionized NSCLC management, ushering in an era of personalized treatment with improved patient outcomes. The increased adoption of low-dose computed tomography (LDCT) for screening has enhanced early detection, enabling intervention at more curable stages. Molecular diagnostics now play a pivotal role in guiding treatment strategies, with actionable genomic alterations (AGAs) informing the use of EGFR, ALK, ROS1, KRAS, NRG1, and other targeted inhibitors in both early and advanced settings. For instance, targeted therapies are increasingly being integrated into early-stage management, with adjuvant osimertinib for EGFR-mutated NSCLC and alectinib for ALK-positive NSCLC demonstrating substantial survival benefits. Immunotherapy, particularly immune checkpoint inhibitors, has become a cornerstone of treatment for AGA-negative NSCLC, either as monotherapy or in combination with chemotherapy, and is increasingly being utilized in the perioperative setting. Furthermore, emerging therapies such as bispecific antibodies, antibody-drug conjugates (ADCs), and novel immunotherapeutic agents show promise in addressing resistance mechanisms and improving outcomes in advanced-stage disease. Although new challenges arise, the evolving NSCLC treatment paradigm continues to prioritize precision medicine, offering hope for prolonged survival and enhanced quality of life for patients.",
+      "evidence_sentences": [
+        "Since 2024, the non-small-cell lung cancer (NSCLC) landscape has undergone a transformative shift, driven by 11 FDA approvals.",
+        "Lung cancer remains the leading cause of cancer-related mortality worldwide.",
+        "Immunotherapy, particularly immune checkpoint inhibitors, has become a cornerstone of treatment for AGA-negative NSCLC, either as monotherapy or in combination with chemotherapy, and is increasingly being utilized in the perioperative setting."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Hyein Jeon",
+        "Shuai Wang",
+        "Junmin Song",
+        "Harjot Gill",
+        "Haiying Cheng"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40133478/"
+    },
+    {
+      "pmid": "38636443",
+      "title": "Neoadjuvant EGFR-TKI therapy in Non-Small cell lung cancer.",
+      "journal": "Cancer treatment reviews",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) stages I-III are predominantly treated with surgery and combination immunotherapy and chemotherapy. A majority of these studies excluded patients with EGFR and ALK alterations. There are several completed and ongoing trials evaluating neoadjuvant treatment with EGFR-TKI monotherapy, combination therapy with chemotherapy, and combination therapy with immunotherapy. Here, we review completed clinical trials and discuss current ongoing trials' potential benefits, challenges, and future directions in the field."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) stages I-III are predominantly treated with surgery and combination immunotherapy and chemotherapy. A majority of these studies excluded patients with EGFR and ALK alterations. There are several completed and ongoing trials evaluating neoadjuvant treatment with EGFR-TKI monotherapy, combination therapy with chemotherapy, and combination therapy with immunotherapy. Here, we review completed clinical trials and discuss current ongoing trials' potential benefits, challenges, and future directions in the field.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) stages I-III are predominantly treated with surgery and combination immunotherapy and chemotherapy.",
+        "There are several completed and ongoing trials evaluating neoadjuvant treatment with EGFR-TKI monotherapy, combination therapy with chemotherapy, and combination therapy with immunotherapy.",
+        "Here, we review completed clinical trials and discuss current ongoing trials' potential benefits, challenges, and future directions in the field."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Christopher Grant",
+        "Misako Nagasaka"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38636443/"
+    },
+    {
+      "pmid": "26297204",
+      "title": "Lung cancer: Biology and treatment options.",
+      "journal": "Biochimica et biophysica acta",
+      "abstract_sections": [
+        "Lung cancer remains the leading cause of cancer mortality in men and women in the U.S. and worldwide. About 90% of lung cancer cases are caused by smoking and the use of tobacco products. However, other factors such as radon gas, asbestos, air pollution exposures, and chronic infections can contribute to lung carcinogenesis. In addition, multiple inherited and acquired mechanisms of susceptibility to lung cancer have been proposed. Lung cancer is divided into two broad histologic classes, which grow and spread differently: small-cell lung carcinomas (SCLCs) and non-small cell lung carcinomas (NSCLCs). Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy. Therapeutic-modalities recommendations depend on several factors, including the type and stage of cancer. Despite the improvements in diagnosis and therapy made during the past 25 years, the prognosis for patients with lung cancer is still unsatisfactory. The responses to current standard therapies are poor except for the most localized cancers. However, a better understanding of the biology pertinent to these challenging malignancies, might lead to the development of more efficacious and perhaps more specific drugs. The purpose of this review is to summarize the recent developments in lung cancer biology and its therapeutic strategies, and discuss the latest treatment advances including therapies currently under clinical investigation."
+      ],
+      "abstract": "Lung cancer remains the leading cause of cancer mortality in men and women in the U.S. and worldwide. About 90% of lung cancer cases are caused by smoking and the use of tobacco products. However, other factors such as radon gas, asbestos, air pollution exposures, and chronic infections can contribute to lung carcinogenesis. In addition, multiple inherited and acquired mechanisms of susceptibility to lung cancer have been proposed. Lung cancer is divided into two broad histologic classes, which grow and spread differently: small-cell lung carcinomas (SCLCs) and non-small cell lung carcinomas (NSCLCs). Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy. Therapeutic-modalities recommendations depend on several factors, including the type and stage of cancer. Despite the improvements in diagnosis and therapy made during the past 25 years, the prognosis for patients with lung cancer is still unsatisfactory. The responses to current standard therapies are poor except for the most localized cancers. However, a better understanding of the biology pertinent to these challenging malignancies, might lead to the development of more efficacious and perhaps more specific drugs. The purpose of this review is to summarize the recent developments in lung cancer biology and its therapeutic strategies, and discuss the latest treatment advances including therapies currently under clinical investigation.",
+      "evidence_sentences": [
+        "Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy.",
+        "The purpose of this review is to summarize the recent developments in lung cancer biology and its therapeutic strategies, and discuss the latest treatment advances including therapies currently under clinical investigation.",
+        "Despite the improvements in diagnosis and therapy made during the past 25 years, the prognosis for patients with lung cancer is still unsatisfactory."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Hassan Lemjabbar-Alaoui",
+        "Omer Ui Hassan",
+        "Yi-Wei Yang",
+        "Petra Buchanan"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26297204/"
+    },
+    {
+      "pmid": "39337530",
+      "title": "Emerging Targets in Non-Small Cell Lung Cancer.",
+      "journal": "International journal of molecular sciences",
+      "abstract_sections": [
+        "Lung cancer is responsible for a high burden of disease globally. Over the last two decades, the discovery of targetable oncogenic genomic alterations has revolutionized the treatment landscape for early-stage and advanced non-small cell lung cancer (NSCLC). New molecular drivers continue to emerge as promising therapeutic targets, including KRAS non-G12C, RAF/MEK, HER3, Nectin-4, folate receptor alpha, ITGB6, and PRMT5. In this review, we summarize the emerging molecular targets with a potential clinical impact in advanced NSCLC, elaborating on their clinical characteristics and specific mechanisms and molecular pathways for which targeted treatments are currently available. Additionally, we present an aggregate of ongoing clinical trials investigating the available treatment options targeting such alterations, in addition to their current recruitment status and preliminary efficacy data. These advancements may guide further research endeavors and inform future treatment strategies to improve the management of and transform outcomes for patients with advanced NSCLC."
+      ],
+      "abstract": "Lung cancer is responsible for a high burden of disease globally. Over the last two decades, the discovery of targetable oncogenic genomic alterations has revolutionized the treatment landscape for early-stage and advanced non-small cell lung cancer (NSCLC). New molecular drivers continue to emerge as promising therapeutic targets, including KRAS non-G12C, RAF/MEK, HER3, Nectin-4, folate receptor alpha, ITGB6, and PRMT5. In this review, we summarize the emerging molecular targets with a potential clinical impact in advanced NSCLC, elaborating on their clinical characteristics and specific mechanisms and molecular pathways for which targeted treatments are currently available. Additionally, we present an aggregate of ongoing clinical trials investigating the available treatment options targeting such alterations, in addition to their current recruitment status and preliminary efficacy data. These advancements may guide further research endeavors and inform future treatment strategies to improve the management of and transform outcomes for patients with advanced NSCLC.",
+      "evidence_sentences": [
+        "Over the last two decades, the discovery of targetable oncogenic genomic alterations has revolutionized the treatment landscape for early-stage and advanced non-small cell lung cancer (NSCLC).",
+        "Lung cancer is responsible for a high burden of disease globally.",
+        "These advancements may guide further research endeavors and inform future treatment strategies to improve the management of and transform outcomes for patients with advanced NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Louisa Liu",
+        "Joshua Soler",
+        "Karen L Reckamp",
+        "Kamya Sankar"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39337530/"
+    },
+    {
+      "pmid": "32005431",
+      "title": "Targeted Therapy and Checkpoint Immunotherapy in Lung Cancer.",
+      "journal": "Surgical pathology clinics",
+      "abstract_sections": [
+        "Lung cancer is the leading cause of cancer mortality. It is classified into different histologic subtypes, including adenocarcinoma, squamous carcinoma, and large cell carcinoma (commonly referred as non-small cell lung cancer) and small cell lung cancer. Comprehensive molecular characterization of lung cancer has expanded our understanding of the cellular origins and molecular pathways affected in each of these subtypes. Many of these genetic alterations represent potential therapeutic targets for which drugs are constantly under development. This article discusses the molecular characteristics of the main lung cancer subtypes and discusses the current guidelines and novel targeted therapies, including checkpoint immunotherapy."
+      ],
+      "abstract": "Lung cancer is the leading cause of cancer mortality. It is classified into different histologic subtypes, including adenocarcinoma, squamous carcinoma, and large cell carcinoma (commonly referred as non-small cell lung cancer) and small cell lung cancer. Comprehensive molecular characterization of lung cancer has expanded our understanding of the cellular origins and molecular pathways affected in each of these subtypes. Many of these genetic alterations represent potential therapeutic targets for which drugs are constantly under development. This article discusses the molecular characteristics of the main lung cancer subtypes and discusses the current guidelines and novel targeted therapies, including checkpoint immunotherapy.",
+      "evidence_sentences": [
+        "This article discusses the molecular characteristics of the main lung cancer subtypes and discusses the current guidelines and novel targeted therapies, including checkpoint immunotherapy.",
+        "It is classified into different histologic subtypes, including adenocarcinoma, squamous carcinoma, and large cell carcinoma (commonly referred as non-small cell lung cancer) and small cell lung cancer.",
+        "Comprehensive molecular characterization of lung cancer has expanded our understanding of the cellular origins and molecular pathways affected in each of these subtypes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Roberto Ruiz-Cordero",
+        "Walter Patrick Devine"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32005431/"
+    },
+    {
+      "pmid": "33175991",
+      "title": "Update 2020: Management of Non-Small Cell Lung Cancer.",
+      "journal": "Lung",
+      "abstract_sections": [
+        "The past decade has seen a revolution of new advances in the management of non-small cell lung cancer (NSCLC) with remarkable progresses in screening, diagnosis, and treatment. The advances in systemic treatment have been driven primarily by the development of molecularly targeted therapeutics, immune checkpoint inhibitors, and anti-angiogenic agents, all of which have transformed this field with significantly improved patient outcomes. This review will address updates in lung cancer screening, liquid biopsy, and immunotherapy in the front-line setting. We discuss recent advances and highlight the plethora of new approvals of molecular-targeted therapy for subgroups of NSCLC patients with sensitizing EGFR, ALK, ROS1, RET, BRAF V600E, MET, and NTRK alterations."
+      ],
+      "abstract": "The past decade has seen a revolution of new advances in the management of non-small cell lung cancer (NSCLC) with remarkable progresses in screening, diagnosis, and treatment. The advances in systemic treatment have been driven primarily by the development of molecularly targeted therapeutics, immune checkpoint inhibitors, and anti-angiogenic agents, all of which have transformed this field with significantly improved patient outcomes. This review will address updates in lung cancer screening, liquid biopsy, and immunotherapy in the front-line setting. We discuss recent advances and highlight the plethora of new approvals of molecular-targeted therapy for subgroups of NSCLC patients with sensitizing EGFR, ALK, ROS1, RET, BRAF V600E, MET, and NTRK alterations.",
+      "evidence_sentences": [
+        "The past decade has seen a revolution of new advances in the management of non-small cell lung cancer (NSCLC) with remarkable progresses in screening, diagnosis, and treatment.",
+        "This review will address updates in lung cancer screening, liquid biopsy, and immunotherapy in the front-line setting.",
+        "The advances in systemic treatment have been driven primarily by the development of molecularly targeted therapeutics, immune checkpoint inhibitors, and anti-angiogenic agents, all of which have transformed this field with significantly improved patient outcomes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Mariam Alexander",
+        "So Yeon Kim",
+        "Haiying Cheng"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33175991/"
+    },
+    {
+      "pmid": "27574741",
+      "title": "Lung cancer: current therapies and new targeted treatments.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "Lung cancer is the most frequent cause of cancer-related deaths worldwide. Every year, 1·8 million people are diagnosed with lung cancer, and 1·6 million people die as a result of the disease. 5-year survival rates vary from 4-17% depending on stage and regional differences. In this Seminar, we discuss existing treatment for patients with lung cancer and the promise of precision medicine, with special emphasis on new targeted therapies. Some subgroups, eg-patients with poor performance status and elderly patients-are not specifically addressed, because these groups require special treatment considerations and no frameworks have been established in terms of new targeted therapies. We discuss prevention and early detection of lung cancer with an emphasis on lung cancer screening. Although we acknowledge the importance of smoking prevention and cessation, this is a large topic beyond the scope of this Seminar."
+      ],
+      "abstract": "Lung cancer is the most frequent cause of cancer-related deaths worldwide. Every year, 1·8 million people are diagnosed with lung cancer, and 1·6 million people die as a result of the disease. 5-year survival rates vary from 4-17% depending on stage and regional differences. In this Seminar, we discuss existing treatment for patients with lung cancer and the promise of precision medicine, with special emphasis on new targeted therapies. Some subgroups, eg-patients with poor performance status and elderly patients-are not specifically addressed, because these groups require special treatment considerations and no frameworks have been established in terms of new targeted therapies. We discuss prevention and early detection of lung cancer with an emphasis on lung cancer screening. Although we acknowledge the importance of smoking prevention and cessation, this is a large topic beyond the scope of this Seminar.",
+      "evidence_sentences": [
+        "In this Seminar, we discuss existing treatment for patients with lung cancer and the promise of precision medicine, with special emphasis on new targeted therapies.",
+        "Every year, 1·8 million people are diagnosed with lung cancer, and 1·6 million people die as a result of the disease.",
+        "We discuss prevention and early detection of lung cancer with an emphasis on lung cancer screening."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Fred R Hirsch",
+        "Giorgio V Scagliotti",
+        "James L Mulshine",
+        "Regina Kwon",
+        "Walter J Curran",
+        "Yi-Long Wu",
+        "Luis Paz-Ares"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27574741/"
+    },
+    {
+      "pmid": "34753715",
+      "title": "Advances in systemic therapy for non-small cell lung cancer.",
+      "journal": "BMJ (Clinical research ed.)",
+      "abstract_sections": [
+        "Lung cancer remains a leading cause of cancer related mortality worldwide. Despite numerous advances in treatments over the past decade, non-small cell lung cancer (NSCLC) remains an incurable disease for most patients. The optimal treatment for all patients with locally advanced, but surgically resectable, NSCLC contains at least chemoradiation. Trimodality treatment with surgical resection has been a subject of debate for decades. For patients with unresectable or inoperable locally advanced disease, the incorporation of immunotherapy consolidation after chemoradiation has defined a new standard of care. For decades, the standard of care treatment for advanced stage NSCLC included only cytotoxic chemotherapy. However, with the introduction of targeted therapies and immunotherapy, the landscape of treatment has rapidly evolved. This review discusses the integration of these innovative therapies in the management of patients with newly diagnosed NSCLC."
+      ],
+      "abstract": "Lung cancer remains a leading cause of cancer related mortality worldwide. Despite numerous advances in treatments over the past decade, non-small cell lung cancer (NSCLC) remains an incurable disease for most patients. The optimal treatment for all patients with locally advanced, but surgically resectable, NSCLC contains at least chemoradiation. Trimodality treatment with surgical resection has been a subject of debate for decades. For patients with unresectable or inoperable locally advanced disease, the incorporation of immunotherapy consolidation after chemoradiation has defined a new standard of care. For decades, the standard of care treatment for advanced stage NSCLC included only cytotoxic chemotherapy. However, with the introduction of targeted therapies and immunotherapy, the landscape of treatment has rapidly evolved. This review discusses the integration of these innovative therapies in the management of patients with newly diagnosed NSCLC.",
+      "evidence_sentences": [
+        "Despite numerous advances in treatments over the past decade, non-small cell lung cancer (NSCLC) remains an incurable disease for most patients.",
+        "Lung cancer remains a leading cause of cancer related mortality worldwide.",
+        "However, with the introduction of targeted therapies and immunotherapy, the landscape of treatment has rapidly evolved."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Meagan Miller",
+        "Nasser Hanna"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34753715/"
+    },
+    {
+      "pmid": "36027916",
+      "title": "Personalized neoantigen vaccine NEO-PV-01 with chemotherapy and anti-PD-1 as first-line treatment for non-squamous non-small cell lung cancer.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "Neoantigens arising from mutations in tumor DNA provide targets for immune-based therapy. Here, we report the clinical and immune data from a Phase Ib clinical trial of a personalized neoantigen-vaccine NEO-PV-01 in combination with pemetrexed, carboplatin, and pembrolizumab as first-line therapy for advanced non-squamous non-small cell lung cancer (NSCLC). This analysis of 38 patients treated with the regimen demonstrated no treatment-related serious adverse events. Multiple parameters including baseline tumor immune infiltration and on-treatment circulating tumor DNA levels were highly correlated with clinical response. De novo neoantigen-specific CD4"
+      ],
+      "abstract": "Neoantigens arising from mutations in tumor DNA provide targets for immune-based therapy. Here, we report the clinical and immune data from a Phase Ib clinical trial of a personalized neoantigen-vaccine NEO-PV-01 in combination with pemetrexed, carboplatin, and pembrolizumab as first-line therapy for advanced non-squamous non-small cell lung cancer (NSCLC). This analysis of 38 patients treated with the regimen demonstrated no treatment-related serious adverse events. Multiple parameters including baseline tumor immune infiltration and on-treatment circulating tumor DNA levels were highly correlated with clinical response. De novo neoantigen-specific CD4",
+      "evidence_sentences": [
+        "Here, we report the clinical and immune data from a Phase Ib clinical trial of a personalized neoantigen-vaccine NEO-PV-01 in combination with pemetrexed, carboplatin, and pembrolizumab as first-line therapy for advanced non-squamous non-small cell lung cancer (NSCLC).",
+        "Multiple parameters including baseline tumor immune infiltration and on-treatment circulating tumor DNA levels were highly correlated with clinical response.",
+        "This analysis of 38 patients treated with the regimen demonstrated no treatment-related serious adverse events."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase I",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Mark M Awad",
+        "Ramaswamy Govindan",
+        "Kristen N Balogh",
+        "David R Spigel",
+        "Edward B Garon",
+        "Meghan E Bushway",
+        "Asaf Poran",
+        "Joong Hyuk Sheen",
+        "Victoria Kohler",
+        "Ekaterina Esaulova",
+        "John Srouji",
+        "Suchitra Ramesh",
+        "Rohit Vyasamneni",
+        "Binisha Karki",
+        "Tracey E Sciuto",
+        "Himanshu Sethi",
+        "Jesse Z Dong",
+        "Melissa A Moles",
+        "Kelledy Manson",
+        "Michael S Rooney",
+        "Zakaria S Khondker",
+        "Mark DeMario",
+        "Richard B Gaynor",
+        "Lakshmi Srinivasan"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36027916/"
+    },
+    {
+      "pmid": "39031586",
+      "title": "Top advances of the year: Targeted therapy for lung cancer.",
+      "journal": "Cancer",
+      "abstract_sections": [
+        "The past year has offered significant advancements in the field of non-small cell lung cancer (NSCLC), both in the early and advanced disease settings. The identification of guideline-recommended actionable targets has provided the foundation for developing multiple new therapeutic agents. There has been a focus on developing drugs designed to overcome acquired resistance, a limitation of tyrosine kinase inhibitor-based therapy in lung cancer. In addition, there is an emerging trend toward combination therapies for patients in the first-line setting with the goal of preventing or delaying resistance. Another promising area of development has been the use of antibody-drug conjugates, where there are the initial reports of central nervous system efficacy and activity in patients with genomic alterations. Over the past year, numerous publications and presentations have highlighted multiple therapeutic advances, offering new treatment options for patients with NSCLC. The focus of this review is to summarize the most impactful findings, emphasizing their significance in the evolving treatment landscape for NSCLC. Several landmark trials in lung cancer with practice-changing clinical implications have been presented and published in 2023. This article reviews a selection of these trials as they relate to early and advanced-stage oncogene-driven lung cancer. The ADAURA and ALINA trials, in which targeted therapy given in the adjuvant setting has demonstrated improved clinical outcomes, are reviewed. In the advanced-stage setting, recent trials in the context of specific oncogene drivers are reviewed, including EGFR, ALK, ROS1, RET, ERBB2 (HER2), BRAF, MET exon 14 skipping (METex14), and KRAS alterations. Also discussed are the results of several trials that have evaluated the use of combination therapies and resistance-mechanism agnostic treatment strategies. PLAIN LANGUAGE SUMMARY: Targeted therapy plays an important role for patients with early and advanced-stage non-small cell lung cancer carrying specific genetic alterations. New strategies that combine multiple therapies are now being studied in randomized clinical trials, with the goal of enhancing the effectiveness of targeted therapy for patients with advanced lung cancer."
+      ],
+      "abstract": "The past year has offered significant advancements in the field of non-small cell lung cancer (NSCLC), both in the early and advanced disease settings. The identification of guideline-recommended actionable targets has provided the foundation for developing multiple new therapeutic agents. There has been a focus on developing drugs designed to overcome acquired resistance, a limitation of tyrosine kinase inhibitor-based therapy in lung cancer. In addition, there is an emerging trend toward combination therapies for patients in the first-line setting with the goal of preventing or delaying resistance. Another promising area of development has been the use of antibody-drug conjugates, where there are the initial reports of central nervous system efficacy and activity in patients with genomic alterations. Over the past year, numerous publications and presentations have highlighted multiple therapeutic advances, offering new treatment options for patients with NSCLC. The focus of this review is to summarize the most impactful findings, emphasizing their significance in the evolving treatment landscape for NSCLC. Several landmark trials in lung cancer with practice-changing clinical implications have been presented and published in 2023. This article reviews a selection of these trials as they relate to early and advanced-stage oncogene-driven lung cancer. The ADAURA and ALINA trials, in which targeted therapy given in the adjuvant setting has demonstrated improved clinical outcomes, are reviewed. In the advanced-stage setting, recent trials in the context of specific oncogene drivers are reviewed, including EGFR, ALK, ROS1, RET, ERBB2 (HER2), BRAF, MET exon 14 skipping (METex14), and KRAS alterations. Also discussed are the results of several trials that have evaluated the use of combination therapies and resistance-mechanism agnostic treatment strategies. PLAIN LANGUAGE SUMMARY: Targeted therapy plays an important role for patients with early and advanced-stage non-small cell lung cancer carrying specific genetic alterations. New strategies that combine multiple therapies are now being studied in randomized clinical trials, with the goal of enhancing the effectiveness of targeted therapy for patients with advanced lung cancer.",
+      "evidence_sentences": [
+        "New strategies that combine multiple therapies are now being studied in randomized clinical trials, with the goal of enhancing the effectiveness of targeted therapy for patients with advanced lung cancer.",
+        "PLAIN LANGUAGE SUMMARY: Targeted therapy plays an important role for patients with early and advanced-stage non-small cell lung cancer carrying specific genetic alterations.",
+        "There has been a focus on developing drugs designed to overcome acquired resistance, a limitation of tyrosine kinase inhibitor-based therapy in lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Maisam Makarem",
+        "Pasi A Jänne"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39031586/"
+    },
+    {
+      "pmid": "37532102",
+      "title": "Neoadjuvant therapy in non-small cell lung cancer.",
+      "journal": "Critical reviews in oncology/hematology",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) stages I-III were previously predominantly treated with surgery and chemotherapy. With the advent of Checkmate-816, neoadjuvant nivolumab and chemotherapy was FDA approved for the treatment of resectable NSCLC. There are several ongoing trials evaluating other neoadjuvant combinations of chemotherapy and immunotherapy as well as targeted therapies towards driver mutations. Here, we review previous clinical trials and discuss current ongoing trials' potential benefits and challenges."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) stages I-III were previously predominantly treated with surgery and chemotherapy. With the advent of Checkmate-816, neoadjuvant nivolumab and chemotherapy was FDA approved for the treatment of resectable NSCLC. There are several ongoing trials evaluating other neoadjuvant combinations of chemotherapy and immunotherapy as well as targeted therapies towards driver mutations. Here, we review previous clinical trials and discuss current ongoing trials' potential benefits and challenges.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) stages I-III were previously predominantly treated with surgery and chemotherapy.",
+        "With the advent of Checkmate-816, neoadjuvant nivolumab and chemotherapy was FDA approved for the treatment of resectable NSCLC.",
+        "There are several ongoing trials evaluating other neoadjuvant combinations of chemotherapy and immunotherapy as well as targeted therapies towards driver mutations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Christopher Grant",
+        "Garo Hagopian",
+        "Misako Nagasaka"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37532102/"
+    },
+    {
+      "pmid": "29364287",
+      "title": "The biology and management of non-small cell lung cancer.",
+      "journal": "Nature",
+      "abstract_sections": [
+        "Important advancements in the treatment of non-small cell lung cancer (NSCLC) have been achieved over the past two decades, increasing our understanding of the disease biology and mechanisms of tumour progression, and advancing early detection and multimodal care. The use of small molecule tyrosine kinase inhibitors and immunotherapy has led to unprecedented survival benefits in selected patients. However, the overall cure and survival rates for NSCLC remain low, particularly in metastatic disease. Therefore, continued research into new drugs and combination therapies is required to expand the clinical benefit to a broader patient population and to improve outcomes in NSCLC."
+      ],
+      "abstract": "Important advancements in the treatment of non-small cell lung cancer (NSCLC) have been achieved over the past two decades, increasing our understanding of the disease biology and mechanisms of tumour progression, and advancing early detection and multimodal care. The use of small molecule tyrosine kinase inhibitors and immunotherapy has led to unprecedented survival benefits in selected patients. However, the overall cure and survival rates for NSCLC remain low, particularly in metastatic disease. Therefore, continued research into new drugs and combination therapies is required to expand the clinical benefit to a broader patient population and to improve outcomes in NSCLC.",
+      "evidence_sentences": [
+        "Important advancements in the treatment of non-small cell lung cancer (NSCLC) have been achieved over the past two decades, increasing our understanding of the disease biology and mechanisms of tumour progression, and advancing early detection and multimodal care.",
+        "The use of small molecule tyrosine kinase inhibitors and immunotherapy has led to unprecedented survival benefits in selected patients.",
+        "Therefore, continued research into new drugs and combination therapies is required to expand the clinical benefit to a broader patient population and to improve outcomes in NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Roy S Herbst",
+        "Daniel Morgensztern",
+        "Chris Boshoff"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29364287/"
+    },
+    {
+      "pmid": "33911215",
+      "title": "Evolution of systemic therapy for stages I-III non-metastatic non-small-cell lung cancer.",
+      "journal": "Nature reviews. Clinical oncology",
+      "abstract_sections": [
+        "The treatment goal for patients with early-stage lung cancer is cure. Multidisciplinary discussions of surgical resectability and medical operability determine the modality of definitive local treatment (surgery or radiotherapy) and the associated systemic therapies to further improve the likelihood of cure. Trial evidence supports cisplatin-based adjuvant therapy either after surgical resection or concurrently with radiotherapy. Consensus guidelines support neoadjuvant chemotherapy in lieu of adjuvant chemotherapy and carboplatin-based regimens for patients who are ineligible for cisplatin. The incorporation of newer agents, now standard for patients with stage IV lung cancer, into the curative therapy paradigm has lagged owing to inefficient trial designs, the lengthy follow-up needed to assess survival end points and a developmental focus on the advanced-stage disease setting. Surrogate end points, such as pathological response, are being studied and might shorten trial durations. In 2018, the anti-PD-L1 antibody durvalumab was approved for patients with stage III lung cancer after concurrent chemoradiotherapy. Since then, the study of targeted therapies and immunotherapies in patients with early-stage lung cancer has rapidly expanded. In this Review, we present the current considerations in the treatment of patients with early-stage lung cancer and explore the current and future state of clinical research to develop systemic therapies for non-metastatic lung cancer."
+      ],
+      "abstract": "The treatment goal for patients with early-stage lung cancer is cure. Multidisciplinary discussions of surgical resectability and medical operability determine the modality of definitive local treatment (surgery or radiotherapy) and the associated systemic therapies to further improve the likelihood of cure. Trial evidence supports cisplatin-based adjuvant therapy either after surgical resection or concurrently with radiotherapy. Consensus guidelines support neoadjuvant chemotherapy in lieu of adjuvant chemotherapy and carboplatin-based regimens for patients who are ineligible for cisplatin. The incorporation of newer agents, now standard for patients with stage IV lung cancer, into the curative therapy paradigm has lagged owing to inefficient trial designs, the lengthy follow-up needed to assess survival end points and a developmental focus on the advanced-stage disease setting. Surrogate end points, such as pathological response, are being studied and might shorten trial durations. In 2018, the anti-PD-L1 antibody durvalumab was approved for patients with stage III lung cancer after concurrent chemoradiotherapy. Since then, the study of targeted therapies and immunotherapies in patients with early-stage lung cancer has rapidly expanded. In this Review, we present the current considerations in the treatment of patients with early-stage lung cancer and explore the current and future state of clinical research to develop systemic therapies for non-metastatic lung cancer.",
+      "evidence_sentences": [
+        "The incorporation of newer agents, now standard for patients with stage IV lung cancer, into the curative therapy paradigm has lagged owing to inefficient trial designs, the lengthy follow-up needed to assess survival end points and a developmental focus on the advanced-stage disease setting.",
+        "In this Review, we present the current considerations in the treatment of patients with early-stage lung cancer and explore the current and future state of clinical research to develop systemic therapies for non-metastatic lung cancer.",
+        "The treatment goal for patients with early-stage lung cancer is cure."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Jamie E Chaft",
+        "Andreas Rimner",
+        "Walter Weder",
+        "Christopher G Azzoli",
+        "Mark G Kris",
+        "Tina Cascone"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33911215/"
+    },
+    {
+      "pmid": "40334018",
+      "title": "Immunotherapy for resectable lung cancer.",
+      "journal": "Cancer",
+      "abstract_sections": [
+        "Lung cancer remains a significant global health challenge, demanding innovative treatment strategies. Immune checkpoint blockade has revolutionized cancer care, leading to improved survival across advanced malignancies and has now become a standard therapy for earlier stage, resectable lung cancer. This review article consolidates the current landscape and future prospects of neoadjuvant and perioperative immunotherapy in lung cancer. The authors outline key findings from clinical trials in resectable lung cancer, including early efficacy, safety profiles, and emerging impact on disease recurrence, and overall survival. Additionally, this review elucidates the challenges encountered, including patient selection criteria, optimal treatment schedules, immune-related adverse events, and impact on surgery. This comprehensive analysis amalgamates current evidence with future directions, providing a roadmap for clinicians, researchers, and stakeholders to navigate the dynamic realm of immunotherapy for surgically resectable lung cancer."
+      ],
+      "abstract": "Lung cancer remains a significant global health challenge, demanding innovative treatment strategies. Immune checkpoint blockade has revolutionized cancer care, leading to improved survival across advanced malignancies and has now become a standard therapy for earlier stage, resectable lung cancer. This review article consolidates the current landscape and future prospects of neoadjuvant and perioperative immunotherapy in lung cancer. The authors outline key findings from clinical trials in resectable lung cancer, including early efficacy, safety profiles, and emerging impact on disease recurrence, and overall survival. Additionally, this review elucidates the challenges encountered, including patient selection criteria, optimal treatment schedules, immune-related adverse events, and impact on surgery. This comprehensive analysis amalgamates current evidence with future directions, providing a roadmap for clinicians, researchers, and stakeholders to navigate the dynamic realm of immunotherapy for surgically resectable lung cancer.",
+      "evidence_sentences": [
+        "This review article consolidates the current landscape and future prospects of neoadjuvant and perioperative immunotherapy in lung cancer.",
+        "Lung cancer remains a significant global health challenge, demanding innovative treatment strategies.",
+        "This comprehensive analysis amalgamates current evidence with future directions, providing a roadmap for clinicians, researchers, and stakeholders to navigate the dynamic realm of immunotherapy for surgically resectable lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Colum Dennehy",
+        "Michael R Conroy",
+        "Patrick M Forde"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40334018/"
+    },
+    {
+      "pmid": "31215500",
+      "title": "DLL3: an emerging target in small cell lung cancer.",
+      "journal": "Journal of hematology & oncology",
+      "abstract_sections": [
+        "Small cell lung cancer (SCLC) accounts for approximately 15% of all lung cancers. Despite high rates of response to first-line chemotherapy and radiotherapy, patients with extensive-stage disease eventually relapse, and very few patients survive more than 5 years from diagnosis. Treatment options for recurrent or refractory disease are limited, and the treatments that do exist are associated with significant treatment-related toxicities. Delta-like ligand 3 (DLL3) is an inhibitory Notch ligand that is highly expressed in SCLC and other neuroendocrine tumors but minimally expressed in normal tissues. It is therefore being explored as a potential therapeutic target in SCLC. Here, we review the preclinical and clinical evidence for targeting DLL3 in SCLC and discuss several DLL3-specific therapies being developed for the treatment of SCLC: the antibody-drug conjugate rovalpituzumab tesirine, the bispecific T cell engager immuno-oncology therapy AMG 757, and the chimeric antigen receptor T cell therapy AMG 119."
+      ],
+      "abstract": "Small cell lung cancer (SCLC) accounts for approximately 15% of all lung cancers. Despite high rates of response to first-line chemotherapy and radiotherapy, patients with extensive-stage disease eventually relapse, and very few patients survive more than 5 years from diagnosis. Treatment options for recurrent or refractory disease are limited, and the treatments that do exist are associated with significant treatment-related toxicities. Delta-like ligand 3 (DLL3) is an inhibitory Notch ligand that is highly expressed in SCLC and other neuroendocrine tumors but minimally expressed in normal tissues. It is therefore being explored as a potential therapeutic target in SCLC. Here, we review the preclinical and clinical evidence for targeting DLL3 in SCLC and discuss several DLL3-specific therapies being developed for the treatment of SCLC: the antibody-drug conjugate rovalpituzumab tesirine, the bispecific T cell engager immuno-oncology therapy AMG 757, and the chimeric antigen receptor T cell therapy AMG 119.",
+      "evidence_sentences": [
+        "Small cell lung cancer (SCLC) accounts for approximately 15% of all lung cancers.",
+        "Here, we review the preclinical and clinical evidence for targeting DLL3 in SCLC and discuss several DLL3-specific therapies being developed for the treatment of SCLC: the antibody-drug conjugate rovalpituzumab tesirine, the bispecific T cell engager immuno-oncology therapy AMG 757, and the chimeric antigen receptor T cell therapy AMG 119.",
+        "Treatment options for recurrent or refractory disease are limited, and the treatments that do exist are associated with significant treatment-related toxicities."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Dwight H Owen",
+        "Michael J Giffin",
+        "Julie M Bailis",
+        "Marie-Anne Damiette Smit",
+        "David P Carbone",
+        "Kai He"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31215500/"
+    },
+    {
+      "pmid": "37030062",
+      "title": "Immunotherapy-based combinations in metastatic NSCLC.",
+      "journal": "Cancer treatment reviews",
+      "abstract_sections": [
+        "Immuno-oncology has revolutionized the treatment of metastatic non-small cell lung cancer (mNSCLC) since the approval of immunotherapy by the U.S. FDA in 2015. Despite the advancements, outcomes for patients have room for further improvement. Combination therapies have shown promise in overcoming resistance and improving outcomes. This review focuses on current immunotherapy-based combination approaches, reported and ongoing trials, as well as novel combination strategies, challenges, and future directions for mNSCLC treatment. We summarize approaches in combination with chemotherapy, novel immune checkpoints, tyrosine kinase inhibitors and other strategies including vaccines, and radiation therapy. The promise of biomarker-driven studies to understand resistance and design multi-arm platform trials that evaluate novel therapies is becoming of increasing relevance with the ultimate goal of administering precision immunotherapy by identifying the right dose of the right combination for the right patient at the right time."
+      ],
+      "abstract": "Immuno-oncology has revolutionized the treatment of metastatic non-small cell lung cancer (mNSCLC) since the approval of immunotherapy by the U.S. FDA in 2015. Despite the advancements, outcomes for patients have room for further improvement. Combination therapies have shown promise in overcoming resistance and improving outcomes. This review focuses on current immunotherapy-based combination approaches, reported and ongoing trials, as well as novel combination strategies, challenges, and future directions for mNSCLC treatment. We summarize approaches in combination with chemotherapy, novel immune checkpoints, tyrosine kinase inhibitors and other strategies including vaccines, and radiation therapy. The promise of biomarker-driven studies to understand resistance and design multi-arm platform trials that evaluate novel therapies is becoming of increasing relevance with the ultimate goal of administering precision immunotherapy by identifying the right dose of the right combination for the right patient at the right time.",
+      "evidence_sentences": [
+        "Immuno-oncology has revolutionized the treatment of metastatic non-small cell lung cancer (mNSCLC) since the approval of immunotherapy by the U.S.",
+        "This review focuses on current immunotherapy-based combination approaches, reported and ongoing trials, as well as novel combination strategies, challenges, and future directions for mNSCLC treatment.",
+        "The promise of biomarker-driven studies to understand resistance and design multi-arm platform trials that evaluate novel therapies is becoming of increasing relevance with the ultimate goal of administering precision immunotherapy by identifying the right dose of the right combination for the right patient at the right time."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Aakash Desai",
+        "Solange Peters"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37030062/"
+    },
+    {
+      "pmid": "36806787",
+      "title": "Rare molecular subtypes of lung cancer.",
+      "journal": "Nature reviews. Clinical oncology",
+      "abstract_sections": [
+        "Oncogenes that occur in ≤5% of non-small-cell lung cancers have been defined as 'rare'; nonetheless, this frequency can correspond to a substantial number of patients diagnosed annually. Within rare oncogenes, less commonly identified alterations (such as HRAS, NRAS, RIT1, ARAF, RAF1 and MAP2K1 mutations, or ERBB family, LTK and RASGRF1 fusions) can share certain structural or oncogenic features with more commonly recognized alterations (such as KRAS, BRAF, MET and ERBB family mutations, or ALK, RET and ROS1 fusions). Over the past 5 years, a surge in the identification of rare-oncogene-driven lung cancers has challenged the boundaries of traditional clinical grade diagnostic assays and profiling algorithms. In tandem, the number of approved targeted therapies for patients with rare molecular subtypes of lung cancer has risen dramatically. Rational drug design has iteratively improved the quality of small-molecule therapeutic agents and introduced a wave of antibody-based therapeutics, expanding the list of actionable de novo and resistance alterations in lung cancer. Getting additional molecularly tailored therapeutics approved for rare-oncogene-driven lung cancers in a larger range of countries will require ongoing stakeholder cooperation. Patient advocates, health-care agencies, investigators and companies with an interest in diagnostics, therapeutics and real-world evidence have already taken steps to surmount the challenges associated with research into low-frequency drivers."
+      ],
+      "abstract": "Oncogenes that occur in ≤5% of non-small-cell lung cancers have been defined as 'rare'; nonetheless, this frequency can correspond to a substantial number of patients diagnosed annually. Within rare oncogenes, less commonly identified alterations (such as HRAS, NRAS, RIT1, ARAF, RAF1 and MAP2K1 mutations, or ERBB family, LTK and RASGRF1 fusions) can share certain structural or oncogenic features with more commonly recognized alterations (such as KRAS, BRAF, MET and ERBB family mutations, or ALK, RET and ROS1 fusions). Over the past 5 years, a surge in the identification of rare-oncogene-driven lung cancers has challenged the boundaries of traditional clinical grade diagnostic assays and profiling algorithms. In tandem, the number of approved targeted therapies for patients with rare molecular subtypes of lung cancer has risen dramatically. Rational drug design has iteratively improved the quality of small-molecule therapeutic agents and introduced a wave of antibody-based therapeutics, expanding the list of actionable de novo and resistance alterations in lung cancer. Getting additional molecularly tailored therapeutics approved for rare-oncogene-driven lung cancers in a larger range of countries will require ongoing stakeholder cooperation. Patient advocates, health-care agencies, investigators and companies with an interest in diagnostics, therapeutics and real-world evidence have already taken steps to surmount the challenges associated with research into low-frequency drivers.",
+      "evidence_sentences": [
+        "Rational drug design has iteratively improved the quality of small-molecule therapeutic agents and introduced a wave of antibody-based therapeutics, expanding the list of actionable de novo and resistance alterations in lung cancer.",
+        "Over the past 5 years, a surge in the identification of rare-oncogene-driven lung cancers has challenged the boundaries of traditional clinical grade diagnostic assays and profiling algorithms.",
+        "Oncogenes that occur in ≤5% of non-small-cell lung cancers have been defined as 'rare'; nonetheless, this frequency can correspond to a substantial number of patients diagnosed annually."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Guilherme Harada",
+        "Soo-Ryum Yang",
+        "Emiliano Cocco",
+        "Alexander Drilon"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36806787/"
+    },
+    {
+      "pmid": "38839544",
+      "title": "Implementing circulating tumor DNA as a prognostic biomarker in resectable non-small cell lung cancer.",
+      "journal": "Trends in cancer",
+      "abstract_sections": [
+        "Systemic treatment of resectable non-small cell lung cancer (NSCLC) is evolving with emerging neoadjuvant, perioperative, and adjuvant immunotherapy approaches. Circulating tumor DNA (ctDNA) detection at clinical diagnosis, during neoadjuvant therapy, or after resection may discern high-risk patients who might benefit from therapy escalation or switch. This Review summarizes translational implications of data supporting ctDNA-based risk determination in NSCLC and outstanding questions regarding ctDNA validity/utility as a prognostic biomarker. We discuss emerging ctDNA capabilities to refine clinical tumor-node-metastasis (TNM) staging in lung adenocarcinoma, ctDNA dynamics during neoadjuvant therapy for identifying patients deriving suboptimal benefit, and postoperative molecular residual disease (MRD) detection to escalate systemic therapy. Considering differential relapse characteristics in landmark MRD-negative/MRD-positive patients, we propose how ctDNA might integrate with pathological response data for optimal postoperative risk stratification."
+      ],
+      "abstract": "Systemic treatment of resectable non-small cell lung cancer (NSCLC) is evolving with emerging neoadjuvant, perioperative, and adjuvant immunotherapy approaches. Circulating tumor DNA (ctDNA) detection at clinical diagnosis, during neoadjuvant therapy, or after resection may discern high-risk patients who might benefit from therapy escalation or switch. This Review summarizes translational implications of data supporting ctDNA-based risk determination in NSCLC and outstanding questions regarding ctDNA validity/utility as a prognostic biomarker. We discuss emerging ctDNA capabilities to refine clinical tumor-node-metastasis (TNM) staging in lung adenocarcinoma, ctDNA dynamics during neoadjuvant therapy for identifying patients deriving suboptimal benefit, and postoperative molecular residual disease (MRD) detection to escalate systemic therapy. Considering differential relapse characteristics in landmark MRD-negative/MRD-positive patients, we propose how ctDNA might integrate with pathological response data for optimal postoperative risk stratification.",
+      "evidence_sentences": [
+        "Systemic treatment of resectable non-small cell lung cancer (NSCLC) is evolving with emerging neoadjuvant, perioperative, and adjuvant immunotherapy approaches.",
+        "We discuss emerging ctDNA capabilities to refine clinical tumor-node-metastasis (TNM) staging in lung adenocarcinoma, ctDNA dynamics during neoadjuvant therapy for identifying patients deriving suboptimal benefit, and postoperative molecular residual disease (MRD) detection to escalate systemic therapy.",
+        "Circulating tumor DNA (ctDNA) detection at clinical diagnosis, during neoadjuvant therapy, or after resection may discern high-risk patients who might benefit from therapy escalation or switch."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Chris Abbosh",
+        "Darren Hodgson",
+        "Gary J Doherty",
+        "Davina Gale",
+        "James R M Black",
+        "Leora Horn",
+        "Jorge S Reis-Filho",
+        "Charles Swanton"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38839544/"
+    },
+    {
+      "pmid": "29304362",
+      "title": "Leptomeningeal metastases in non-small-cell lung cancer.",
+      "journal": "The Lancet. Oncology",
+      "abstract_sections": [
+        "Leptomeningeal metastasis is a complication of advanced non-small-cell lung cancer (NSCLC). Diagnosis and monitoring of leptomeningeal metastasis are challenging, and are based on neurological, radiographic, and cerebrospinal fluid findings. Substantial progress has been made in several key aspects of management of leptomeningeal metastasis, including improved characterisation of the genetic profiles, generation of clinically relevant animal models, advances in cerebrospinal fluid liquid biopsy with improved cytology and genotyping analysis, and the development of therapeutic agents with greater CNS penetration. This Review discusses cumulative data on multiple treatment modalities with a particular focus on recent advances in molecularly targeted therapies in subtypes of patients with leptomeningeal metastasis from NSCLC. Future research is needed to further understand the biology of leptomeningeal metastasis and the mechanisms of resistance to treatment."
+      ],
+      "abstract": "Leptomeningeal metastasis is a complication of advanced non-small-cell lung cancer (NSCLC). Diagnosis and monitoring of leptomeningeal metastasis are challenging, and are based on neurological, radiographic, and cerebrospinal fluid findings. Substantial progress has been made in several key aspects of management of leptomeningeal metastasis, including improved characterisation of the genetic profiles, generation of clinically relevant animal models, advances in cerebrospinal fluid liquid biopsy with improved cytology and genotyping analysis, and the development of therapeutic agents with greater CNS penetration. This Review discusses cumulative data on multiple treatment modalities with a particular focus on recent advances in molecularly targeted therapies in subtypes of patients with leptomeningeal metastasis from NSCLC. Future research is needed to further understand the biology of leptomeningeal metastasis and the mechanisms of resistance to treatment.",
+      "evidence_sentences": [
+        "Leptomeningeal metastasis is a complication of advanced non-small-cell lung cancer (NSCLC).",
+        "This Review discusses cumulative data on multiple treatment modalities with a particular focus on recent advances in molecularly targeted therapies in subtypes of patients with leptomeningeal metastasis from NSCLC.",
+        "Future research is needed to further understand the biology of leptomeningeal metastasis and the mechanisms of resistance to treatment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Haiying Cheng",
+        "Roman Perez-Soler"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29304362/"
+    },
+    {
+      "pmid": "38600814",
+      "title": "Management of malignant superior vena cava syndrome.",
+      "journal": "Annals of palliative medicine",
+      "abstract_sections": [
+        "Superior vena cava (SVC) syndrome occurs due to obstructed blood flow through the SVC. It can present clinically on a spectrum, between asymptomatic and life-threatening emergency. Patients commonly report a feeling of fullness in the head, facial, neck and upper extremity edema, and dyspnea. On imaging, patients commonly have superior mediastinal widening and pleural effusion. The majority of cases are due to malignant causes, with non-small cell lung cancer, small cell lung cancer, and lymphoma the most commonly associated malignancies. When evaluating patients, a complete staging workup is recommended, as it will determine whether treatment should be definitive/curative or palliative in intent. If the patient requires urgent treatment of venous obstruction, such as in the cases of acute central airway obstruction, severe laryngeal edema and/or coma from cerebral edema, direct opening of the occlusion by endovascular stenting and angioplasty with thrombolysis should be considered. Such an approach can provide immediate relief of symptoms before cancer-specific therapies are initiated. The intent of treatment is to manage the underlying disease while palliating symptoms. Treatment approaches most commonly employ chemotherapy and/or radiation therapy depending on the primary histology. Mildly hypofractionated radiation regimens are most commonly employed and achieve high rates of symptomatic responses generally within 2 weeks of initiating therapy."
+      ],
+      "abstract": "Superior vena cava (SVC) syndrome occurs due to obstructed blood flow through the SVC. It can present clinically on a spectrum, between asymptomatic and life-threatening emergency. Patients commonly report a feeling of fullness in the head, facial, neck and upper extremity edema, and dyspnea. On imaging, patients commonly have superior mediastinal widening and pleural effusion. The majority of cases are due to malignant causes, with non-small cell lung cancer, small cell lung cancer, and lymphoma the most commonly associated malignancies. When evaluating patients, a complete staging workup is recommended, as it will determine whether treatment should be definitive/curative or palliative in intent. If the patient requires urgent treatment of venous obstruction, such as in the cases of acute central airway obstruction, severe laryngeal edema and/or coma from cerebral edema, direct opening of the occlusion by endovascular stenting and angioplasty with thrombolysis should be considered. Such an approach can provide immediate relief of symptoms before cancer-specific therapies are initiated. The intent of treatment is to manage the underlying disease while palliating symptoms. Treatment approaches most commonly employ chemotherapy and/or radiation therapy depending on the primary histology. Mildly hypofractionated radiation regimens are most commonly employed and achieve high rates of symptomatic responses generally within 2 weeks of initiating therapy.",
+      "evidence_sentences": [
+        "The majority of cases are due to malignant causes, with non-small cell lung cancer, small cell lung cancer, and lymphoma the most commonly associated malignancies.",
+        "Treatment approaches most commonly employ chemotherapy and/or radiation therapy depending on the primary histology.",
+        "If the patient requires urgent treatment of venous obstruction, such as in the cases of acute central airway obstruction, severe laryngeal edema and/or coma from cerebral edema, direct opening of the occlusion by endovascular stenting and angioplasty with thrombolysis should be considered."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Ronald Chow",
+        "Charles B Simone",
+        "Andreas Rimner"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38600814/"
+    },
+    {
+      "pmid": "40673977",
+      "title": "Personalized care for patients with EGFR-mutant nonsmall cell lung cancer: Navigating early to advanced disease management.",
+      "journal": "CA: a cancer journal for clinicians",
+      "abstract_sections": [
+        "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs). These therapies offer improved survival and reduced side effects compared with conventional treatments. Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer. TKIs are now incorporated into the management of early stage and locally advanced disease, and phase 3 trials have explored combination strategies in metastatic settings. Although these intensified approaches improve progression-free survival, they come with increased toxicity and higher costs, underscoring the need for precise patient selection to maximize benefit. Emerging data on biomarkers, such as co-mutations and circulating tumor DNA, show promise for refining treatment decisions. In addition, significant progress in understanding resistance mechanisms to EGFR TKIs has broadened therapeutic options. This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence."
+      ],
+      "abstract": "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs). These therapies offer improved survival and reduced side effects compared with conventional treatments. Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer. TKIs are now incorporated into the management of early stage and locally advanced disease, and phase 3 trials have explored combination strategies in metastatic settings. Although these intensified approaches improve progression-free survival, they come with increased toxicity and higher costs, underscoring the need for precise patient selection to maximize benefit. Emerging data on biomarkers, such as co-mutations and circulating tumor DNA, show promise for refining treatment decisions. In addition, significant progress in understanding resistance mechanisms to EGFR TKIs has broadened therapeutic options. This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence.",
+      "evidence_sentences": [
+        "This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence.",
+        "Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer.",
+        "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Maxime Borgeaud",
+        "Timothée Olivier",
+        "Jair Bar",
+        "Stephanie Pei Li Saw",
+        "Kaushal Parikh",
+        "Giuseppe Luigi Banna",
+        "Claudio De Vito",
+        "Jill Feldman",
+        "Xiuning Le",
+        "Alfredo Addeo"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40673977/"
+    },
+    {
+      "pmid": "40523990",
+      "title": "Advancing therapeutics in small-cell lung cancer.",
+      "journal": "Nature cancer",
+      "abstract_sections": [
+        "Small-cell lung cancer (SCLC) accounts for 10-15% of lung cancers and is characterized by early metastasis, treatment resistance and rapid progression. Treatment advancements have been stagnant for decades, with chemotherapy as the mainstay and immune checkpoint inhibitors offering only modest survival extensions. However, new insights into tumor heterogeneity and recent practice-changing observations such as the identification of targetable cell surface proteins could effectively transform SCLC therapy. In this Review, we highlight key advances in SCLC biology, therapeutic innovation and biomarker development. Finally, we discuss the role of reverse translation in optimizing treatments, approaches to overcoming resistance and ensuring equitable access to care."
+      ],
+      "abstract": "Small-cell lung cancer (SCLC) accounts for 10-15% of lung cancers and is characterized by early metastasis, treatment resistance and rapid progression. Treatment advancements have been stagnant for decades, with chemotherapy as the mainstay and immune checkpoint inhibitors offering only modest survival extensions. However, new insights into tumor heterogeneity and recent practice-changing observations such as the identification of targetable cell surface proteins could effectively transform SCLC therapy. In this Review, we highlight key advances in SCLC biology, therapeutic innovation and biomarker development. Finally, we discuss the role of reverse translation in optimizing treatments, approaches to overcoming resistance and ensuring equitable access to care.",
+      "evidence_sentences": [
+        "Small-cell lung cancer (SCLC) accounts for 10-15% of lung cancers and is characterized by early metastasis, treatment resistance and rapid progression.",
+        "Treatment advancements have been stagnant for decades, with chemotherapy as the mainstay and immune checkpoint inhibitors offering only modest survival extensions.",
+        "However, new insights into tumor heterogeneity and recent practice-changing observations such as the identification of targetable cell surface proteins could effectively transform SCLC therapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Anish Thomas",
+        "Chirayu Mohindroo",
+        "Giuseppe Giaccone"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40523990/"
+    },
+    {
+      "pmid": "38730427",
+      "title": "DLL3-guided therapies in small-cell lung cancer: from antibody-drug conjugate to precision immunotherapy and radioimmunotherapy.",
+      "journal": "Molecular cancer",
+      "abstract_sections": [
+        "DLL3 acts as an inhibitory ligand that downregulates Notch signaling and is upregulated by ASCL1, a transcription factor prevalent in the small-cell lung cancer (SCLC) subtype SCLC-A. Currently, the therapeutic strategies targeting DLL3 are varied, including antibody-drug conjugates (ADCs), bispecific T-cell engagers (BiTEs), and chimeric antigen receptor (CAR) T-cell therapies. Although rovalpituzumab tesirine (Rova-T) showed promise in a phase II study, it failed to produce favorable results in subsequent phase III trials, leading to the cessation of its development. Conversely, DLL3-targeted BiTEs have garnered significant clinical interest. Tarlatamab, for instance, demonstrated enhanced response rates and progression-free survival compared to the standard of care in a phase II trial; its biologics license application (BLA) is currently under US Food and Drug Administration (FDA) review. Numerous ongoing phase III studies aim to further evaluate tarlatamab's clinical efficacy, alongside the development of novel DLL3-targeted T-cell engagers, both bispecific and trispecific. CAR-T cell therapies targeting DLL3 have recently emerged and are undergoing various preclinical and early-phase clinical studies. Additionally, preclinical studies have shown promising efficacy for DLL3-targeted radiotherapy, which employs β-particle-emitting therapeutic radioisotopes conjugated to DLL3-targeting antibodies. DLL3-targeted therapies hold substantial potential for SCLC management. Future clinical trials will be crucial for comparing treatment outcomes among various approaches and exploring combination therapies to improve patient survival outcomes."
+      ],
+      "abstract": "DLL3 acts as an inhibitory ligand that downregulates Notch signaling and is upregulated by ASCL1, a transcription factor prevalent in the small-cell lung cancer (SCLC) subtype SCLC-A. Currently, the therapeutic strategies targeting DLL3 are varied, including antibody-drug conjugates (ADCs), bispecific T-cell engagers (BiTEs), and chimeric antigen receptor (CAR) T-cell therapies. Although rovalpituzumab tesirine (Rova-T) showed promise in a phase II study, it failed to produce favorable results in subsequent phase III trials, leading to the cessation of its development. Conversely, DLL3-targeted BiTEs have garnered significant clinical interest. Tarlatamab, for instance, demonstrated enhanced response rates and progression-free survival compared to the standard of care in a phase II trial; its biologics license application (BLA) is currently under US Food and Drug Administration (FDA) review. Numerous ongoing phase III studies aim to further evaluate tarlatamab's clinical efficacy, alongside the development of novel DLL3-targeted T-cell engagers, both bispecific and trispecific. CAR-T cell therapies targeting DLL3 have recently emerged and are undergoing various preclinical and early-phase clinical studies. Additionally, preclinical studies have shown promising efficacy for DLL3-targeted radiotherapy, which employs β-particle-emitting therapeutic radioisotopes conjugated to DLL3-targeting antibodies. DLL3-targeted therapies hold substantial potential for SCLC management. Future clinical trials will be crucial for comparing treatment outcomes among various approaches and exploring combination therapies to improve patient survival outcomes.",
+      "evidence_sentences": [
+        "DLL3 acts as an inhibitory ligand that downregulates Notch signaling and is upregulated by ASCL1, a transcription factor prevalent in the small-cell lung cancer (SCLC) subtype SCLC-A.",
+        "Future clinical trials will be crucial for comparing treatment outcomes among various approaches and exploring combination therapies to improve patient survival outcomes.",
+        "Additionally, preclinical studies have shown promising efficacy for DLL3-targeted radiotherapy, which employs β-particle-emitting therapeutic radioisotopes conjugated to DLL3-targeting antibodies."
+      ],
+      "publication_types": [
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Letter"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Po-Lan Su",
+        "Karthik Chakravarthy",
+        "Naoki Furuya",
+        "Jeremy Brownstein",
+        "Jianhua Yu",
+        "Meixiao Long",
+        "David Carbone",
+        "Zihai Li",
+        "Kai He"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38730427/"
+    },
+    {
+      "pmid": "34624218",
+      "title": "Three subtypes of lung cancer fibroblasts define distinct therapeutic paradigms.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "Cancer-associated fibroblasts (CAFs) are highly heterogeneous. With the lack of a comprehensive understanding of CAFs' functional distinctions, it remains unclear how cancer treatments could be personalized based on CAFs in a patient's tumor. We have established a living biobank of CAFs derived from biopsies of patients' non-small lung cancer (NSCLC) that encompasses a broad molecular spectrum of CAFs in clinical NSCLC. By functionally interrogating CAF heterogeneity using the same therapeutics received by patients, we identify three functional subtypes: (1) robustly protective of cancers and highly expressing HGF and FGF7; (2) moderately protective of cancers and highly expressing FGF7; and (3) those providing minimal protection. These functional differences among CAFs are governed by their intrinsic TGF-β signaling, which suppresses HGF and FGF7 expression. This CAF functional classification correlates with patients' clinical response to targeted therapies and also associates with the tumor immune microenvironment, therefore providing an avenue to guide personalized treatment."
+      ],
+      "abstract": "Cancer-associated fibroblasts (CAFs) are highly heterogeneous. With the lack of a comprehensive understanding of CAFs' functional distinctions, it remains unclear how cancer treatments could be personalized based on CAFs in a patient's tumor. We have established a living biobank of CAFs derived from biopsies of patients' non-small lung cancer (NSCLC) that encompasses a broad molecular spectrum of CAFs in clinical NSCLC. By functionally interrogating CAF heterogeneity using the same therapeutics received by patients, we identify three functional subtypes: (1) robustly protective of cancers and highly expressing HGF and FGF7; (2) moderately protective of cancers and highly expressing FGF7; and (3) those providing minimal protection. These functional differences among CAFs are governed by their intrinsic TGF-β signaling, which suppresses HGF and FGF7 expression. This CAF functional classification correlates with patients' clinical response to targeted therapies and also associates with the tumor immune microenvironment, therefore providing an avenue to guide personalized treatment.",
+      "evidence_sentences": [
+        "We have established a living biobank of CAFs derived from biopsies of patients' non-small lung cancer (NSCLC) that encompasses a broad molecular spectrum of CAFs in clinical NSCLC.",
+        "With the lack of a comprehensive understanding of CAFs' functional distinctions, it remains unclear how cancer treatments could be personalized based on CAFs in a patient's tumor.",
+        "This CAF functional classification correlates with patients' clinical response to targeted therapies and also associates with the tumor immune microenvironment, therefore providing an avenue to guide personalized treatment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Haichuan Hu",
+        "Zofia Piotrowska",
+        "Patricia J Hare",
+        "Huidong Chen",
+        "Hillary E Mulvey",
+        "Aislinn Mayfield",
+        "Sundus Noeen",
+        "Krystina Kattermann",
+        "Max Greenberg",
+        "August Williams",
+        "Amanda K Riley",
+        "Jarad J Wilson",
+        "Ying-Qing Mao",
+        "Ruo-Pan Huang",
+        "Mandeep K Banwait",
+        "Jeffrey Ho",
+        "Giovanna S Crowther",
+        "Lida P Hariri",
+        "Rebecca S Heist",
+        "David P Kodack",
+        "Luca Pinello",
+        "Alice T Shaw",
+        "Mari Mino-Kenudson",
+        "Aaron N Hata",
+        "Lecia V Sequist",
+        "Cyril H Benes",
+        "Matthew J Niederst",
+        "Jeffrey A Engelman"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34624218/"
+    },
+    {
+      "pmid": "32019323",
+      "title": "Treatment patterns in non-small-cell lung cancer in USA: results of the CancerMPact Survey 2018.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "David Robinson",
+        "Stephanie Hawthorne",
+        "Linda Zhao",
+        "Madelyn Hanson",
+        "Gena Kanas",
+        "Christine Davis",
+        "Otavio Clark"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32019323/"
+    },
+    {
+      "pmid": "29362920",
+      "title": "Leptomeningeal Metastases.",
+      "journal": "Current treatment options in oncology",
+      "abstract_sections": [
+        "Treatment options for leptomeningeal metastases are expanding with greater tolerability and efficacy than in the past. Improved knowledge of molecular subtypes of some cancers can guide in choosing more effective therapeutic options; however, physicians should be mindful that these molecular types can be different in the central nervous system compared to the rest of the body. This is particularly true in breast and lung cancer, in which some patients now can live for many months or even years after diagnosis of leptomeningeal metastases. Options for intrathecal therapies are expanding, but physicians should be mindful that this is a passive delivery system that relies on normal CSF flow, so therapies will not penetrate bulky or parenchymal disease sites, especially in the presence of abnormal CSF flow. When chemotherapeutic options are lacking or unsuccessful, focal radiosurgery which can provide symptomatic relief and proton craniospinal radiation remain effective options. Hopefully more formal studies will be conducted in the future to verify which treatments are indeed most effective for particular types of cancer."
+      ],
+      "abstract": "Treatment options for leptomeningeal metastases are expanding with greater tolerability and efficacy than in the past. Improved knowledge of molecular subtypes of some cancers can guide in choosing more effective therapeutic options; however, physicians should be mindful that these molecular types can be different in the central nervous system compared to the rest of the body. This is particularly true in breast and lung cancer, in which some patients now can live for many months or even years after diagnosis of leptomeningeal metastases. Options for intrathecal therapies are expanding, but physicians should be mindful that this is a passive delivery system that relies on normal CSF flow, so therapies will not penetrate bulky or parenchymal disease sites, especially in the presence of abnormal CSF flow. When chemotherapeutic options are lacking or unsuccessful, focal radiosurgery which can provide symptomatic relief and proton craniospinal radiation remain effective options. Hopefully more formal studies will be conducted in the future to verify which treatments are indeed most effective for particular types of cancer.",
+      "evidence_sentences": [
+        "This is particularly true in breast and lung cancer, in which some patients now can live for many months or even years after diagnosis of leptomeningeal metastases.",
+        "Hopefully more formal studies will be conducted in the future to verify which treatments are indeed most effective for particular types of cancer.",
+        "Improved knowledge of molecular subtypes of some cancers can guide in choosing more effective therapeutic options; however, physicians should be mindful that these molecular types can be different in the central nervous system compared to the rest of the body."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Jerome J Graber",
+        "Santosh Kesari"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29362920/"
+    },
+    {
+      "pmid": "32327179",
+      "title": "Biomarkers for Immunotherapy.",
+      "journal": "Thoracic surgery clinics",
+      "abstract_sections": [
+        "Immune checkpoint inhibitor (ICI) therapy has been approved for several solid tumors, including non-small cell lung cancer. ICIs have shown unprecedented durable responses and higher response rates than chemotherapy in selected patients. The development of biomarkers that serve as predictors of response is crucial for treatment selection. Evidence suggests that the response to immunotherapy depends on tumor genomics and the interactions with the immune system and the tumor microenvironment. This article reviews the data supporting the use of these biomarkers to optimize patient selection for these therapies and explores biomarkers that are the focus of ongoing research."
+      ],
+      "abstract": "Immune checkpoint inhibitor (ICI) therapy has been approved for several solid tumors, including non-small cell lung cancer. ICIs have shown unprecedented durable responses and higher response rates than chemotherapy in selected patients. The development of biomarkers that serve as predictors of response is crucial for treatment selection. Evidence suggests that the response to immunotherapy depends on tumor genomics and the interactions with the immune system and the tumor microenvironment. This article reviews the data supporting the use of these biomarkers to optimize patient selection for these therapies and explores biomarkers that are the focus of ongoing research.",
+      "evidence_sentences": [
+        "Immune checkpoint inhibitor (ICI) therapy has been approved for several solid tumors, including non-small cell lung cancer.",
+        "The development of biomarkers that serve as predictors of response is crucial for treatment selection.",
+        "Evidence suggests that the response to immunotherapy depends on tumor genomics and the interactions with the immune system and the tumor microenvironment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Jean G Bustamante-Alvarez",
+        "Dwight H Owen"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32327179/"
+    },
+    {
+      "pmid": "36787870",
+      "title": "Combining radiation therapy with immune checkpoint blockade for the treatment of small cell lung cancer.",
+      "journal": "Seminars in cancer biology",
+      "abstract_sections": [
+        "The addition of immune checkpoint blockade (ICB) therapy to standard chemotherapy has been shown to improve survival in patients with metastatic small cell lung cancer. However, the benefit is modest and there remains an unmet need for novel therapeutic approaches to enhance the effectiveness of immunotherapy in this disease, both in the early and late stages. Ionizing radiation, which is a standard treatment for small cell lung cancer, is known to trigger immunogenic cell death in tumor cells, making it an attractive partner for ICB therapies in multiple solid tumor types. However, the optimal radiation dosage and fractionation scheme, target sites for radiation, and sequencing of radiation in relation to ICB treatment are still unclear. In this review we discuss the molecular biology underlying radiation-induced tumor immunity as well as pre-clinical and clinical studies combining radiation with ICB treatments, with a focus on translational and clinical trials in small cell lung cancer."
+      ],
+      "abstract": "The addition of immune checkpoint blockade (ICB) therapy to standard chemotherapy has been shown to improve survival in patients with metastatic small cell lung cancer. However, the benefit is modest and there remains an unmet need for novel therapeutic approaches to enhance the effectiveness of immunotherapy in this disease, both in the early and late stages. Ionizing radiation, which is a standard treatment for small cell lung cancer, is known to trigger immunogenic cell death in tumor cells, making it an attractive partner for ICB therapies in multiple solid tumor types. However, the optimal radiation dosage and fractionation scheme, target sites for radiation, and sequencing of radiation in relation to ICB treatment are still unclear. In this review we discuss the molecular biology underlying radiation-induced tumor immunity as well as pre-clinical and clinical studies combining radiation with ICB treatments, with a focus on translational and clinical trials in small cell lung cancer.",
+      "evidence_sentences": [
+        "In this review we discuss the molecular biology underlying radiation-induced tumor immunity as well as pre-clinical and clinical studies combining radiation with ICB treatments, with a focus on translational and clinical trials in small cell lung cancer.",
+        "Ionizing radiation, which is a standard treatment for small cell lung cancer, is known to trigger immunogenic cell death in tumor cells, making it an attractive partner for ICB therapies in multiple solid tumor types.",
+        "The addition of immune checkpoint blockade (ICB) therapy to standard chemotherapy has been shown to improve survival in patients with metastatic small cell lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "lung",
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "usa",
+        "2026"
+      ],
+      "authors": [
+        "Ashish Saxena"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36787870/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "41668",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "39121882",
+        "34385702",
+        "40133478",
+        "38636443",
+        "26297204",
+        "39337530",
+        "32005431",
+        "33175991",
+        "27574741",
+        "34753715",
+        "36027916",
+        "39031586",
+        "37532102",
+        "29364287",
+        "33911215",
+        "40334018",
+        "31215500",
+        "37030062",
+        "36806787",
+        "38839544",
+        "29304362",
+        "38600814",
+        "40673977",
+        "40523990",
+        "38730427",
+        "34624218",
+        "32019323",
+        "29362920",
+        "32327179",
+        "36787870"
+      ],
+      "translationset": [
+        {
+          "from": "lung cancer",
+          "to": "\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]"
+        },
+        {
+          "from": "treatment",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment's\"[All Fields]"
+        },
+        {
+          "from": "therapy",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"therapy's\"[All Fields] OR \"therapys\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]) AND (\"lung neoplasms\"[MeSH Terms] OR (\"lung\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"lung neoplasms\"[All Fields] OR (\"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"lung cancer\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"therapy s\"[All Fields] OR \"therapys\"[All Fields]) AND \"usa\"[All Fields]"
+    }
+  }
+}

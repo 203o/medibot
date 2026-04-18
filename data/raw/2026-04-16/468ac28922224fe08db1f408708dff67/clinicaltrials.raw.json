@@ -1,0 +1,990 @@
+{
+  "query": "lung cancer latest treatment therapy management UK",
+  "selected_query": "lung cancer latest treatment therapy management UK",
+  "attempted_queries": [
+    {
+      "query": "lung cancer latest treatment therapy management UK",
+      "location_filter": "UK",
+      "count": 0
+    },
+    {
+      "query": "lung cancer latest treatment therapy management UK",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "UK",
+  "records": [
+    {
+      "nct_id": "NCT05455424",
+      "title": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+      "brief_summary": "Multicentre, 2 arm, open-label UK randomised phase II trial to determine the efficacy of niraparib versus active symptom control (ASC) in patients who have relapsed after previously receiving platinum based systemic therapy. 84 patients will be recruited from approximately 10 UK trial network sites.",
+      "detailed_description": "Mesothelioma is a cancer that is caused by exposure to asbestos, an environmental contaminant. This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy. There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy. There is an urgent need to explore more effective approaches to therapy. Targeted treatments offer potential hope for the treatment of mesothelioma. A class of drugs called PARP (Poly Adenosine Diphosphate-ribose polymerase) inhibitors have already been proven to improve the survival of patients with breast and ovarian cancers, that carry specific mutations. Mesothelioma has been shown in a recent trial to respond to this class of agent. Further investigation is warranted to test whether PARP inhibitors could be a new treatment option for patients. As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy. Patients whose tumours shrink or stabilise following chemotherapy are expected to have a greater chance of benefit from niraparib. It's not known if niraparib will be able to improve survival of patients with mesothelioma, or indeed whether or not toxicity could occur without benefit. For that reason, patients will be randomised with a 2:1 chance of receiving the drug. Those patients who do not receive niraparib will be closely monitored for signs of early tumour growth so that they can go on to receive an alternative treatment if necessary. If the NERO trial is positive, this study will lead to the approval of a new medicine for use around the world, one that would extend the life expectancy of patients for the first time following initial chemotherapy. NERO will recruit 84 patients over 12 months. Those randomised to receive niraparib will receive a daily dose of 200 mg or 300mg for up to 24 weeks within the trial.",
+      "evidence_sentences": [
+        "As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy.",
+        "This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy.",
+        "There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-05-12",
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT05455424",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05455424",
+            "orgStudyIdInfo": {
+              "id": "RMH CAN1682"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2022-000198-26",
+                "type": "EUDRACT_NUMBER"
+              },
+              {
+                "id": "ISRCTN16171129",
+                "type": "REGISTRY",
+                "domain": "ISRCTN Registry"
+              },
+              {
+                "id": "MCTA20F\\2",
+                "type": "OTHER_GRANT",
+                "domain": "Asthma and Lung UK"
+              }
+            ],
+            "organization": {
+              "fullName": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "briefTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+            "officialTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma: A Randomised Phase II Trial of Niraparib Versus Active Symptom Control in Patients With Previously Treated Mesothelioma",
+            "acronym": "NERO"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-05",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-07-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2022-06-08",
+            "studyFirstSubmitQcDate": "2022-07-08",
+            "studyFirstPostDateStruct": {
+              "date": "2022-07-13",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-05-12",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-05-15",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "University of Southampton",
+                "class": "OTHER"
+              },
+              {
+                "name": "British Lung Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Multicentre, 2 arm, open-label UK randomised phase II trial to determine the efficacy of niraparib versus active symptom control (ASC) in patients who have relapsed after previously receiving platinum based systemic therapy. 84 patients will be recruited from approximately 10 UK trial network sites.",
+            "detailedDescription": "Mesothelioma is a cancer that is caused by exposure to asbestos, an environmental contaminant. This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy. There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy. There is an urgent need to explore more effective approaches to therapy. Targeted treatments offer potential hope for the treatment of mesothelioma. A class of drugs called PARP (Poly Adenosine Diphosphate-ribose polymerase) inhibitors have already been proven to improve the survival of patients with breast and ovarian cancers, that carry specific mutations. Mesothelioma has been shown in a recent trial to respond to this class of agent. Further investigation is warranted to test whether PARP inhibitors could be a new treatment option for patients. As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy. Patients whose tumours shrink or stabilise following chemotherapy are expected to have a greater chance of benefit from niraparib. It's not known if niraparib will be able to improve survival of patients with mesothelioma, or indeed whether or not toxicity could occur without benefit. For that reason, patients will be randomised with a 2:1 chance of receiving the drug. Those patients who do not receive niraparib will be closely monitored for signs of early tumour growth so that they can go on to receive an alternative treatment if necessary. If the NERO trial is positive, this study will lead to the approval of a new medicine for use around the world, one that would extend the life expectancy of patients for the first time following initial chemotherapy. NERO will recruit 84 patients over 12 months. Those randomised to receive niraparib will receive a daily dose of 200 mg or 300mg for up to 24 weeks within the trial."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Mesothelioma, Malignant"
+            ],
+            "keywords": [
+              "Mesothelioma",
+              "Relapsed",
+              "Pleural",
+              "Peritoneal",
+              "Niraparib",
+              "PARP-Inhibitors",
+              "RECIST",
+              "Quality of Life",
+              "Phase II",
+              "Randomised",
+              "Progression-free survival"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "NERO is a multicentre, 2 arm, open-label UK randomised phase II trial comparing Niraparib versus ASC in patients with previously treated mesothelioma.",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 88,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Niraparib + ASC",
+                "type": "EXPERIMENTAL",
+                "description": "Patients will receive 200/300 mg of niraparib daily for study period of up to 24 weeks. Patients will be treated until disease progression, withdrawal, death or development of significant treatment limiting toxicity. Niraparib will be supplied in oral formulation as 100 mg capsules. The starting dose of Niraparib will be based upon the patient's baseline body weight and/or platelet count:\n\nParticipants with a baseline body weight ≥77 kg and baseline platelet count ≥150 x 109/L will be administered niraparib 300 mg daily.\n\nParticipants with a baseline body weight \\<77 kg or baseline platelet count \\<150 x 109/L will be administered niraparib 200 mg daily.\n\nThe dose of Niraparib can be reduced in 100 mg increments, to a minimum of 100 mg, per protocol. Dose escalations are not permitted.",
+                "interventionNames": [
+                  "Drug: Niraparib Oral Product"
+                ]
+              },
+              {
+                "label": "Active Symptom Control",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Patients in this arm will be managed symptomatically and will be treated as per the standard of care at each participating site. ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "interventionNames": [
+                  "Other: Active Symptom Control"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Niraparib Oral Product",
+                "description": "Niraparib (\\[3S\\]-3-\\[4-\\[7-(aminocarbonyl)-2H-indazol-2-yl\\] phenyl\\] piperidine \\[tosylate monohydrate salt\\]) is an orally available, potent, and highly selective PARP1 and PARP2 inhibitor. The excipients for niraparib are lactose monohydrate and magnesium stearate. Niraparib will be supplied in bottles containing 72 capsules of 100 mg. The capsules should be swallowed whole with water. The capsules should not be chewed or crushed and can be taken without regard to meals.",
+                "armGroupLabels": [
+                  "Niraparib + ASC"
+                ],
+                "otherNames": [
+                  "Zejula"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Active Symptom Control",
+                "description": "ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "armGroupLabels": [
+                  "Active Symptom Control"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Progression-free survival",
+                "description": "Progression-free survival is the determined by modified RECIST (pleural disease), RECIST 1.1 (for non-pleural disease), investigator reported progression or death from any cause (whichever event comes first)",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Overall Survival",
+                "description": "Time from randomisation to death from any cause",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Best overall response (progressive disease, stable disease, partial or complete response)",
+                "description": "The best overall response is the best response recorded from the start of treatment until disease progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Disease Control",
+                "description": "Stable disease, partial or complete response",
+                "timeFrame": "12 and 24 weeks post randomisation"
+              },
+              {
+                "measure": "Duration of response",
+                "description": "Time from complete or partial response (where this occurs) until progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Treatment compliance",
+                "description": "Assessed by summarising the percentage of the received dose relative to the intended dose at each cycle",
+                "timeFrame": "Up to 24 weeks"
+              },
+              {
+                "measure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+                "description": "Summary statistics and listings will be reported for patients in the safety population and will be summarised by treatment arm with classification by the latest version of MedDRA. Grade will be reported on the CTCAE toxicity scale (version 5.0). Both all cause and treatment related or emergent AEs will be included in the analysis.",
+                "timeFrame": "At the end of each treatment cycle (each cycle is 21 days, with a maximum of 8 cycles of treatment) for 100 days post treatment discontinuation and for ongoing drug-related AE's until resolved, return to baseline, or deemed irreversible"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Correlate homologous recombination gene alterations and clinical outcome",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "To identify causes of acquired resistance to Niraparib in a subset of patients undergoing optional re-biopsy at disease progression",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have signed and dated a REC-approved written informed consent form in accordance with regulatory and institutional guidelines. This must be obtained before the performance of any protocol-related procedures that are not part of normal patient care.\n* Patients must be willing and able to comply with scheduled visits, treatment schedule, laboratory tests, and other requirements of the study\n* Histologically confirmed diagnosis of mesothelioma. Any histological subtype (epithelioid, biphasic or sarcomatoid) and any site (e.g. pleural or peritoneal) with an available tissue block. Tissue blocks will be requested at the time of screening.\n* Patients must have received prior systemic therapy (any number of lines) for pleural or peritoneal mesothelioma.\n* Disease progression must be confirmed per Investigator's assessment prior to screening.\n* Any prior treatment must be completed at least 14 days prior to receiving study treatment, where all toxicities have recovered or returned to grade 1, with the exception of alopecia and neuropathy due to chemotherapy which should have returned to grade 2.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0-1.\n* Radiologically assessable disease by modified RECIST (pleural mesothelioma) or RECIST 1.1 (non-pleural mesothelioma or where measurements for modified RECIST cannot be obtained).\n* Age ≥ 18 years old.\n* Consent to provide mandatory diagnostic tissue blocks and blood samples for translational research, including an optional rebiopsy at progression.\n* Adequate organ function, including suitable bone marrow reserve and creatinine clearance.\n* Screening laboratory values must meet the following criteria within 48 hours prior to commencement of treatment:\n\n  1. White blood cells ≥ 2 x 109/L\n  2. Neutrophils ≥ 1.5 x 109/L\n  3. Platelets ≥ 100 x 109/L\n  4. Haemoglobin ≥ 90 g/L\n  5. Serum creatinine of ≤ 1.5 X ULN or creatinine clearance (CrCl) \\> 50 mL/minute (using Cockcroft/Gault formula)\n  6. AST ≤ 3 x ULN OR ALT ≤ 3 x ULN (if both are assessed, both need to be ≤ 3 x ULN)\n  7. Total bilirubin ≤ 1.5 x ULN (except patients with Gilbert Syndrome, who must have total bilirubin \\< 51.3 μmol/L)\n* Reproductive status:\n\n  1. Women of childbearing potential (WOCBP) must have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of Human Chorionic Gonadotropin) at enrolment and within 24 hours prior to the start of study treatment. An extension up to 3 days prior to the start of study treatment may be permissible in situations where results cannot be obtained within a 24-hour window.\n  2. Women must not be breastfeeding\n  3. WOCBP must agree to use a highly effective method of contraception for the duration of treatment and 180 days after the last dose ASC+Niraparib.\n  4. Men who are sexually active with WOCBP must use the contraceptive methods outlines in the protocol for the duration of treatment and for 90 days after the last dose of ASC+Niraparib\n* Expected survival of at least 12 weeks per Investigator's assessment\n\nExclusion Criteria:\n\n* Patients with untreated, symptomatic central nervous system (CNS) metastases, including carcinomatous meningitis, leptomeningeal disease, and radiographic signs of CNS haemorrhage are excluded.\n* Patients with untreated third space fluid collection requiring therapeutic drainage are excluded\n* Second malignancy within 5 years except cancers definitely treated curative intent (e.g. basal cell carcinoma of the skin, squamous cell carcinoma of the skin, in situ bladder cancer or in situ cervical cancer).\n* Any serious or uncontrolled medical disorder or active infection that, in the opinion of the investigator, may increase the risk associated with study participation, study drug administration, or would impair the ability of the patient to receive protocol therapy.\n* Difficulty swallowing or previous significant resection of the stomach or small bowel.\n* Patients who have not recovered from the effects of major surgery or significant traumatic injury at least 14 days before the first dose of study treatment.\n* Prior exposure to PARP inhibitor or known hypersensitivity to the components of niraparib.\n* New York Heart Associated class II or greater heart failure, hepatic \\[AST \\> 3XULN, ALT \\> 3XUL, Total bilirubin \\> 1.5XULN\\] or renal impairment \\[Serum creatinine of \\>1.5 X ULN or creatinine clearance (CrCL) ≤ 50 mL/minute (using Cockcroft/Gault formula)\\].\n* Known alcohol or drug abuse.\n* Patients are not permitted to enter any other interventional studies.\n* Any patient not able to give consent.\n* Any pregnant or breastfeeding patient.\n* Patient with known history or current diagnosis of myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML)\n* Patient with known history of active tuberculosis.\n* Patients with uncontrolled hypertension.\n* Participants have current active pneumonitis within 90 days of planned start of the study or a known history of interstitial lung disease, drug-related pneumonitis, or radiation pneumonitis requiring steroid treatment.\n* Patients that have received colony-stimulating factors (eg, granulocyte macrophage colony-stimulating factor or recombinant erythropoietin) within 2 weeks prior to the first dose of study treatment.\n* Live vaccines within 30 days prior to the first dose of study treatment and while participating in this clinical study.\n* Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Any positive test for hepatitis B virus or hepatitis C virus indicating acute or chronic infection.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Dean Fennell",
+                "affiliation": "University of Leicester",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University Hospital Southampton, Southampton General Hospital",
+                "city": "Southampton",
+                "state": "Hampshire",
+                "zip": "SO16 6YD",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 50.90395,
+                  "lon": -1.40428
+                }
+              },
+              {
+                "facility": "Medway NHS Foundation Trust, Medway Maritime Hospital",
+                "city": "Gillingham",
+                "state": "Kent",
+                "zip": "ME7 5NY",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.38914,
+                  "lon": 0.54863
+                }
+              },
+              {
+                "facility": "Somerset NHS Foundation Trust, Musgrove Park Hospital",
+                "city": "Taunton",
+                "state": "Somerset",
+                "zip": "TA1 5DA",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.01494,
+                  "lon": -3.10293
+                }
+              },
+              {
+                "facility": "Belfast Health and Social Care Trust, Belfast City Hospital",
+                "city": "Belfast",
+                "zip": "BT9 7AB",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 54.59682,
+                  "lon": -5.92541
+                }
+              },
+              {
+                "facility": "Velindre University NHS Trust, Velindre Cancer Centre",
+                "city": "Cardiff",
+                "zip": "CF15 7QZ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.48,
+                  "lon": -3.18
+                }
+              },
+              {
+                "facility": "Beatson West of Scotland Cancer Centre",
+                "city": "Glasgow",
+                "zip": "G12 0YN",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 55.86515,
+                  "lon": -4.25763
+                }
+              },
+              {
+                "facility": "The Princess Alexandra Hospital NHS Trust, The Princess Alexandra Hospital",
+                "city": "Harlow",
+                "zip": "CM20 1QX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.77655,
+                  "lon": 0.11158
+                }
+              },
+              {
+                "facility": "Hull University Teaching Hospitals NHS Trust, Castle Hill Hospital",
+                "city": "Hull",
+                "zip": "HU16 5JQ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.7446,
+                  "lon": -0.33525
+                }
+              },
+              {
+                "facility": "Leeds Teaching Hospitals NHS Trust, St James's Hospital",
+                "city": "Leeds",
+                "zip": "LS9 7TF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.79648,
+                  "lon": -1.54785
+                }
+              },
+              {
+                "facility": "University Hospitals of Leicester NHS Trust, Royal Leicester Infirmary",
+                "city": "Leicester",
+                "zip": "LE2 7LX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 52.6386,
+                  "lon": -1.13169
+                }
+              },
+              {
+                "facility": "Sheffield Teaching Hospitals NHS Foundation Trust, Weston Park Hospital",
+                "city": "Sheffield",
+                "zip": "S10 2JF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.38297,
+                  "lon": -1.4659
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "37993149",
+                "type": "DERIVED",
+                "citation": "Fennell D, Griffiths D, Eminton Z, Morgan-Fox A, Hill K, Ewings S, Stuart C, Johnson L, Mallard K, Nye M, Darlison L, Dulloo S, Cave J, Luo JL, Taylor P, Spicer J, Poile C, Bzura A, Griffiths G. Evaluating niraparib versus active symptom control in patients with previously treated mesothelioma (NERO): a study protocol for a multicentre, randomised, two-arm, open-label phase II trial in UK secondary care centres. BMJ Open. 2023 Nov 22;13(11):e073120. doi: 10.1136/bmjopen-2023-073120."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "IPD will be made available, including data dictionaries, for approved data sharing requests. Individual participant data will be shared that underlie the results after de-identification and normalisation of information (text, tables, figures, and appendices). The study protocol and statistical analysis plan will also be available. Pseudonymised participant data within the clinical trial dataset will be available for sharing via controlled access by authorised Southampton Clinical Trials Unit (SCTU) staff. The request for data access will need to detail the specific requirements and the proposed research, statistical analysis, publication plan and evidence of research group qualifications. Data will be shared once all parties have signed relevant data sharing documentation covering SCTU conditions for sharing and if required, an additional data sharing agreement from the sponsor. Proposals should be directed to ctu@soton.ac.uk.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Anonymous data will be available for request from 3 months after the publication of the results to researchers who provide a completed data sharing request form that describes a methodologically sound proposal, for the purpose of the approved proposal and if appropriate, signed a data-sharing agreement.",
+            "accessCriteria": "Data access requests will be reviewed against specific eligibility criteria by the SCTU data custodian and key members of the trial team.",
+            "url": "http://www.southampton.ac.uk/ctu/index.page?"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000086002",
+                "term": "Mesothelioma, Malignant"
+              },
+              {
+                "id": "D008654",
+                "term": "Mesothelioma"
+              },
+              {
+                "id": "D012008",
+                "term": "Recurrence"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000236",
+                "term": "Adenoma"
+              },
+              {
+                "id": "D009375",
+                "term": "Neoplasms, Glandular and Epithelial"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D018301",
+                "term": "Neoplasms, Mesothelial"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D010997",
+                "term": "Pleural Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "C545685",
+                "term": "niraparib"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05455424",
+            "orgStudyIdInfo": {
+              "id": "RMH CAN1682"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2022-000198-26",
+                "type": "EUDRACT_NUMBER"
+              },
+              {
+                "id": "ISRCTN16171129",
+                "type": "REGISTRY",
+                "domain": "ISRCTN Registry"
+              },
+              {
+                "id": "MCTA20F\\2",
+                "type": "OTHER_GRANT",
+                "domain": "Asthma and Lung UK"
+              }
+            ],
+            "organization": {
+              "fullName": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "briefTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+            "officialTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma: A Randomised Phase II Trial of Niraparib Versus Active Symptom Control in Patients With Previously Treated Mesothelioma",
+            "acronym": "NERO"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-05",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-07-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2022-06-08",
+            "studyFirstSubmitQcDate": "2022-07-08",
+            "studyFirstPostDateStruct": {
+              "date": "2022-07-13",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-05-12",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-05-15",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "University of Southampton",
+                "class": "OTHER"
+              },
+              {
+                "name": "British Lung Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Multicentre, 2 arm, open-label UK randomised phase II trial to determine the efficacy of niraparib versus active symptom control (ASC) in patients who have relapsed after previously receiving platinum based systemic therapy. 84 patients will be recruited from approximately 10 UK trial network sites.",
+            "detailedDescription": "Mesothelioma is a cancer that is caused by exposure to asbestos, an environmental contaminant. This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy. There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy. There is an urgent need to explore more effective approaches to therapy. Targeted treatments offer potential hope for the treatment of mesothelioma. A class of drugs called PARP (Poly Adenosine Diphosphate-ribose polymerase) inhibitors have already been proven to improve the survival of patients with breast and ovarian cancers, that carry specific mutations. Mesothelioma has been shown in a recent trial to respond to this class of agent. Further investigation is warranted to test whether PARP inhibitors could be a new treatment option for patients. As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy. Patients whose tumours shrink or stabilise following chemotherapy are expected to have a greater chance of benefit from niraparib. It's not known if niraparib will be able to improve survival of patients with mesothelioma, or indeed whether or not toxicity could occur without benefit. For that reason, patients will be randomised with a 2:1 chance of receiving the drug. Those patients who do not receive niraparib will be closely monitored for signs of early tumour growth so that they can go on to receive an alternative treatment if necessary. If the NERO trial is positive, this study will lead to the approval of a new medicine for use around the world, one that would extend the life expectancy of patients for the first time following initial chemotherapy. NERO will recruit 84 patients over 12 months. Those randomised to receive niraparib will receive a daily dose of 200 mg or 300mg for up to 24 weeks within the trial."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Mesothelioma, Malignant"
+            ],
+            "keywords": [
+              "Mesothelioma",
+              "Relapsed",
+              "Pleural",
+              "Peritoneal",
+              "Niraparib",
+              "PARP-Inhibitors",
+              "RECIST",
+              "Quality of Life",
+              "Phase II",
+              "Randomised",
+              "Progression-free survival"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "NERO is a multicentre, 2 arm, open-label UK randomised phase II trial comparing Niraparib versus ASC in patients with previously treated mesothelioma.",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 88,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Niraparib + ASC",
+                "type": "EXPERIMENTAL",
+                "description": "Patients will receive 200/300 mg of niraparib daily for study period of up to 24 weeks. Patients will be treated until disease progression, withdrawal, death or development of significant treatment limiting toxicity. Niraparib will be supplied in oral formulation as 100 mg capsules. The starting dose of Niraparib will be based upon the patient's baseline body weight and/or platelet count:\n\nParticipants with a baseline body weight ≥77 kg and baseline platelet count ≥150 x 109/L will be administered niraparib 300 mg daily.\n\nParticipants with a baseline body weight \\<77 kg or baseline platelet count \\<150 x 109/L will be administered niraparib 200 mg daily.\n\nThe dose of Niraparib can be reduced in 100 mg increments, to a minimum of 100 mg, per protocol. Dose escalations are not permitted.",
+                "interventionNames": [
+                  "Drug: Niraparib Oral Product"
+                ]
+              },
+              {
+                "label": "Active Symptom Control",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Patients in this arm will be managed symptomatically and will be treated as per the standard of care at each participating site. ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "interventionNames": [
+                  "Other: Active Symptom Control"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Niraparib Oral Product",
+                "description": "Niraparib (\\[3S\\]-3-\\[4-\\[7-(aminocarbonyl)-2H-indazol-2-yl\\] phenyl\\] piperidine \\[tosylate monohydrate salt\\]) is an orally available, potent, and highly selective PARP1 and PARP2 inhibitor. The excipients for niraparib are lactose monohydrate and magnesium stearate. Niraparib will be supplied in bottles containing 72 capsules of 100 mg. The capsules should be swallowed whole with water. The capsules should not be chewed or crushed and can be taken without regard to meals.",
+                "armGroupLabels": [
+                  "Niraparib + ASC"
+                ],
+                "otherNames": [
+                  "Zejula"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Active Symptom Control",
+                "description": "ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "armGroupLabels": [
+                  "Active Symptom Control"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Progression-free survival",
+                "description": "Progression-free survival is the determined by modified RECIST (pleural disease), RECIST 1.1 (for non-pleural disease), investigator reported progression or death from any cause (whichever event comes first)",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Overall Survival",
+                "description": "Time from randomisation to death from any cause",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Best overall response (progressive disease, stable disease, partial or complete response)",
+                "description": "The best overall response is the best response recorded from the start of treatment until disease progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Disease Control",
+                "description": "Stable disease, partial or complete response",
+                "timeFrame": "12 and 24 weeks post randomisation"
+              },
+              {
+                "measure": "Duration of response",
+                "description": "Time from complete or partial response (where this occurs) until progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Treatment compliance",
+                "description": "Assessed by summarising the percentage of the received dose relative to the intended dose at each cycle",
+                "timeFrame": "Up to 24 weeks"
+              },
+              {
+                "measure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+                "description": "Summary statistics and listings will be reported for patients in the safety population and will be summarised by treatment arm with classification by the latest version of MedDRA. Grade will be reported on the CTCAE toxicity scale (version 5.0). Both all cause and treatment related or emergent AEs will be included in the analysis.",
+                "timeFrame": "At the end of each treatment cycle (each cycle is 21 days, with a maximum of 8 cycles of treatment) for 100 days post treatment discontinuation and for ongoing drug-related AE's until resolved, return to baseline, or deemed irreversible"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Correlate homologous recombination gene alterations and clinical outcome",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "To identify causes of acquired resistance to Niraparib in a subset of patients undergoing optional re-biopsy at disease progression",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have signed and dated a REC-approved written informed consent form in accordance with regulatory and institutional guidelines. This must be obtained before the performance of any protocol-related procedures that are not part of normal patient care.\n* Patients must be willing and able to comply with scheduled visits, treatment schedule, laboratory tests, and other requirements of the study\n* Histologically confirmed diagnosis of mesothelioma. Any histological subtype (epithelioid, biphasic or sarcomatoid) and any site (e.g. pleural or peritoneal) with an available tissue block. Tissue blocks will be requested at the time of screening.\n* Patients must have received prior systemic therapy (any number of lines) for pleural or peritoneal mesothelioma.\n* Disease progression must be confirmed per Investigator's assessment prior to screening.\n* Any prior treatment must be completed at least 14 days prior to receiving study treatment, where all toxicities have recovered or returned to grade 1, with the exception of alopecia and neuropathy due to chemotherapy which should have returned to grade 2.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0-1.\n* Radiologically assessable disease by modified RECIST (pleural mesothelioma) or RECIST 1.1 (non-pleural mesothelioma or where measurements for modified RECIST cannot be obtained).\n* Age ≥ 18 years old.\n* Consent to provide mandatory diagnostic tissue blocks and blood samples for translational research, including an optional rebiopsy at progression.\n* Adequate organ function, including suitable bone marrow reserve and creatinine clearance.\n* Screening laboratory values must meet the following criteria within 48 hours prior to commencement of treatment:\n\n  1. White blood cells ≥ 2 x 109/L\n  2. Neutrophils ≥ 1.5 x 109/L\n  3. Platelets ≥ 100 x 109/L\n  4. Haemoglobin ≥ 90 g/L\n  5. Serum creatinine of ≤ 1.5 X ULN or creatinine clearance (CrCl) \\> 50 mL/minute (using Cockcroft/Gault formula)\n  6. AST ≤ 3 x ULN OR ALT ≤ 3 x ULN (if both are assessed, both need to be ≤ 3 x ULN)\n  7. Total bilirubin ≤ 1.5 x ULN (except patients with Gilbert Syndrome, who must have total bilirubin \\< 51.3 μmol/L)\n* Reproductive status:\n\n  1. Women of childbearing potential (WOCBP) must have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of Human Chorionic Gonadotropin) at enrolment and within 24 hours prior to the start of study treatment. An extension up to 3 days prior to the start of study treatment may be permissible in situations where results cannot be obtained within a 24-hour window.\n  2. Women must not be breastfeeding\n  3. WOCBP must agree to use a highly effective method of contraception for the duration of treatment and 180 days after the last dose ASC+Niraparib.\n  4. Men who are sexually active with WOCBP must use the contraceptive methods outlines in the protocol for the duration of treatment and for 90 days after the last dose of ASC+Niraparib\n* Expected survival of at least 12 weeks per Investigator's assessment\n\nExclusion Criteria:\n\n* Patients with untreated, symptomatic central nervous system (CNS) metastases, including carcinomatous meningitis, leptomeningeal disease, and radiographic signs of CNS haemorrhage are excluded.\n* Patients with untreated third space fluid collection requiring therapeutic drainage are excluded\n* Second malignancy within 5 years except cancers definitely treated curative intent (e.g. basal cell carcinoma of the skin, squamous cell carcinoma of the skin, in situ bladder cancer or in situ cervical cancer).\n* Any serious or uncontrolled medical disorder or active infection that, in the opinion of the investigator, may increase the risk associated with study participation, study drug administration, or would impair the ability of the patient to receive protocol therapy.\n* Difficulty swallowing or previous significant resection of the stomach or small bowel.\n* Patients who have not recovered from the effects of major surgery or significant traumatic injury at least 14 days before the first dose of study treatment.\n* Prior exposure to PARP inhibitor or known hypersensitivity to the components of niraparib.\n* New York Heart Associated class II or greater heart failure, hepatic \\[AST \\> 3XULN, ALT \\> 3XUL, Total bilirubin \\> 1.5XULN\\] or renal impairment \\[Serum creatinine of \\>1.5 X ULN or creatinine clearance (CrCL) ≤ 50 mL/minute (using Cockcroft/Gault formula)\\].\n* Known alcohol or drug abuse.\n* Patients are not permitted to enter any other interventional studies.\n* Any patient not able to give consent.\n* Any pregnant or breastfeeding patient.\n* Patient with known history or current diagnosis of myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML)\n* Patient with known history of active tuberculosis.\n* Patients with uncontrolled hypertension.\n* Participants have current active pneumonitis within 90 days of planned start of the study or a known history of interstitial lung disease, drug-related pneumonitis, or radiation pneumonitis requiring steroid treatment.\n* Patients that have received colony-stimulating factors (eg, granulocyte macrophage colony-stimulating factor or recombinant erythropoietin) within 2 weeks prior to the first dose of study treatment.\n* Live vaccines within 30 days prior to the first dose of study treatment and while participating in this clinical study.\n* Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Any positive test for hepatitis B virus or hepatitis C virus indicating acute or chronic infection.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Dean Fennell",
+                "affiliation": "University of Leicester",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University Hospital Southampton, Southampton General Hospital",
+                "city": "Southampton",
+                "state": "Hampshire",
+                "zip": "SO16 6YD",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 50.90395,
+                  "lon": -1.40428
+                }
+              },
+              {
+                "facility": "Medway NHS Foundation Trust, Medway Maritime Hospital",
+                "city": "Gillingham",
+                "state": "Kent",
+                "zip": "ME7 5NY",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.38914,
+                  "lon": 0.54863
+                }
+              },
+              {
+                "facility": "Somerset NHS Foundation Trust, Musgrove Park Hospital",
+                "city": "Taunton",
+                "state": "Somerset",
+                "zip": "TA1 5DA",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.01494,
+                  "lon": -3.10293
+                }
+              },
+              {
+                "facility": "Belfast Health and Social Care Trust, Belfast City Hospital",
+                "city": "Belfast",
+                "zip": "BT9 7AB",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 54.59682,
+                  "lon": -5.92541
+                }
+              },
+              {
+                "facility": "Velindre University NHS Trust, Velindre Cancer Centre",
+                "city": "Cardiff",
+                "zip": "CF15 7QZ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.48,
+                  "lon": -3.18
+                }
+              },
+              {
+                "facility": "Beatson West of Scotland Cancer Centre",
+                "city": "Glasgow",
+                "zip": "G12 0YN",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 55.86515,
+                  "lon": -4.25763
+                }
+              },
+              {
+                "facility": "The Princess Alexandra Hospital NHS Trust, The Princess Alexandra Hospital",
+                "city": "Harlow",
+                "zip": "CM20 1QX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.77655,
+                  "lon": 0.11158
+                }
+              },
+              {
+                "facility": "Hull University Teaching Hospitals NHS Trust, Castle Hill Hospital",
+                "city": "Hull",
+                "zip": "HU16 5JQ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.7446,
+                  "lon": -0.33525
+                }
+              },
+              {
+                "facility": "Leeds Teaching Hospitals NHS Trust, St James's Hospital",
+                "city": "Leeds",
+                "zip": "LS9 7TF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.79648,
+                  "lon": -1.54785
+                }
+              },
+              {
+                "facility": "University Hospitals of Leicester NHS Trust, Royal Leicester Infirmary",
+                "city": "Leicester",
+                "zip": "LE2 7LX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 52.6386,
+                  "lon": -1.13169
+                }
+              },
+              {
+                "facility": "Sheffield Teaching Hospitals NHS Foundation Trust, Weston Park Hospital",
+                "city": "Sheffield",
+                "zip": "S10 2JF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.38297,
+                  "lon": -1.4659
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "37993149",
+                "type": "DERIVED",
+                "citation": "Fennell D, Griffiths D, Eminton Z, Morgan-Fox A, Hill K, Ewings S, Stuart C, Johnson L, Mallard K, Nye M, Darlison L, Dulloo S, Cave J, Luo JL, Taylor P, Spicer J, Poile C, Bzura A, Griffiths G. Evaluating niraparib versus active symptom control in patients with previously treated mesothelioma (NERO): a study protocol for a multicentre, randomised, two-arm, open-label phase II trial in UK secondary care centres. BMJ Open. 2023 Nov 22;13(11):e073120. doi: 10.1136/bmjopen-2023-073120."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "IPD will be made available, including data dictionaries, for approved data sharing requests. Individual participant data will be shared that underlie the results after de-identification and normalisation of information (text, tables, figures, and appendices). The study protocol and statistical analysis plan will also be available. Pseudonymised participant data within the clinical trial dataset will be available for sharing via controlled access by authorised Southampton Clinical Trials Unit (SCTU) staff. The request for data access will need to detail the specific requirements and the proposed research, statistical analysis, publication plan and evidence of research group qualifications. Data will be shared once all parties have signed relevant data sharing documentation covering SCTU conditions for sharing and if required, an additional data sharing agreement from the sponsor. Proposals should be directed to ctu@soton.ac.uk.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Anonymous data will be available for request from 3 months after the publication of the results to researchers who provide a completed data sharing request form that describes a methodologically sound proposal, for the purpose of the approved proposal and if appropriate, signed a data-sharing agreement.",
+            "accessCriteria": "Data access requests will be reviewed against specific eligibility criteria by the SCTU data custodian and key members of the trial team.",
+            "url": "http://www.southampton.ac.uk/ctu/index.page?"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000086002",
+                "term": "Mesothelioma, Malignant"
+              },
+              {
+                "id": "D008654",
+                "term": "Mesothelioma"
+              },
+              {
+                "id": "D012008",
+                "term": "Recurrence"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000236",
+                "term": "Adenoma"
+              },
+              {
+                "id": "D009375",
+                "term": "Neoplasms, Glandular and Epithelial"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D018301",
+                "term": "Neoplasms, Mesothelial"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D010997",
+                "term": "Pleural Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "C545685",
+                "term": "niraparib"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

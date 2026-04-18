@@ -1,0 +1,1233 @@
+{
+  "query": "cancer cancer treatment therapy management USA",
+  "selected_query": "cancer cancer treatment therapy management USA",
+  "attempted_queries": [
+    {
+      "query": "cancer cancer treatment therapy management USA",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38943315",
+    "39239794",
+    "34207103",
+    "31178151",
+    "30691365",
+    "34370973",
+    "40095219",
+    "30497667",
+    "32040962",
+    "38767403",
+    "33619261",
+    "32289269",
+    "31806885",
+    "25575469",
+    "28209991",
+    "40299225",
+    "30497674",
+    "26216829",
+    "39012374",
+    "40066944",
+    "29931605",
+    "37647158",
+    "31286275",
+    "32678074",
+    "30497678",
+    "26568552",
+    "9509254",
+    "39799810",
+    "39102169",
+    "37382870"
+  ],
+  "records": [
+    {
+      "pmid": "38943315",
+      "title": "Multiple myeloma: 2024 update on diagnosis, risk-stratification, and management.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Multiple myeloma accounts for approximately 10% of hematologic malignancies.",
+        "The diagnosis requires ≥10% clonal bone marrow plasma cells or a biopsy proven plasmacytoma plus evidence of one or more multiple myeloma defining events (MDE): CRAB (hypercalcemia, renal failure, anemia, or lytic bone lesions) attributable to the plasma cell disorder, bone marrow clonal plasmacytosis ≥60%, serum involved/uninvolved free light chain (FLC) ratio ≥100 (provided involved FLC is ≥100 mg/L and urine monoclonal protein is ≥200 mg/24 h), or >1 focal lesion on magnetic resonance imaging.",
+        "The presence of del(17p), t(4;14), t(14;16), t(14;20), gain 1q, del 1p, or p53 mutation is considered high-risk multiple myeloma. Presence of any two high risk factors is considered double-hit myeloma; three or more high risk factors is triple-hit myeloma.",
+        "In patients who are candidates for autologous stem cell transplantation, induction therapy consists of anti-CD38 monoclonal antibody plus bortezomib, lenalidomide, dexamethasone (VRd) followed by autologous stem cell transplantation (ASCT). Selected standard risk patients can delay transplant until first relapse. Frail patients who not candidates for transplant are treated with VRd for approximately 8-12 cycles followed by maintenance or alternatively with daratumumab, lenalidomide, dexamethasone (DRd) until progression.",
+        "Standard risk patients need lenalidomide maintenance, while bortezomib plus lenalidomide maintenance is needed for high-risk myeloma.",
+        "A triplet regimen is usually needed at relapse, with the choice of regimen varying with each successive relapse. Chimeric antigen receptor T (CAR-T) cell therapy and bispecific antibodies are additional options."
+      ],
+      "abstract": "Multiple myeloma accounts for approximately 10% of hematologic malignancies.\n\nThe diagnosis requires ≥10% clonal bone marrow plasma cells or a biopsy proven plasmacytoma plus evidence of one or more multiple myeloma defining events (MDE): CRAB (hypercalcemia, renal failure, anemia, or lytic bone lesions) attributable to the plasma cell disorder, bone marrow clonal plasmacytosis ≥60%, serum involved/uninvolved free light chain (FLC) ratio ≥100 (provided involved FLC is ≥100 mg/L and urine monoclonal protein is ≥200 mg/24 h), or >1 focal lesion on magnetic resonance imaging.\n\nThe presence of del(17p), t(4;14), t(14;16), t(14;20), gain 1q, del 1p, or p53 mutation is considered high-risk multiple myeloma. Presence of any two high risk factors is considered double-hit myeloma; three or more high risk factors is triple-hit myeloma.\n\nIn patients who are candidates for autologous stem cell transplantation, induction therapy consists of anti-CD38 monoclonal antibody plus bortezomib, lenalidomide, dexamethasone (VRd) followed by autologous stem cell transplantation (ASCT). Selected standard risk patients can delay transplant until first relapse. Frail patients who not candidates for transplant are treated with VRd for approximately 8-12 cycles followed by maintenance or alternatively with daratumumab, lenalidomide, dexamethasone (DRd) until progression.\n\nStandard risk patients need lenalidomide maintenance, while bortezomib plus lenalidomide maintenance is needed for high-risk myeloma.\n\nA triplet regimen is usually needed at relapse, with the choice of regimen varying with each successive relapse. Chimeric antigen receptor T (CAR-T) cell therapy and bispecific antibodies are additional options.",
+      "evidence_sentences": [
+        "In patients who are candidates for autologous stem cell transplantation, induction therapy consists of anti-CD38 monoclonal antibody plus bortezomib, lenalidomide, dexamethasone (VRd) followed by autologous stem cell transplantation (ASCT).",
+        "Chimeric antigen receptor T (CAR-T) cell therapy and bispecific antibodies are additional options."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "S Vincent Rajkumar"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38943315/"
+    },
+    {
+      "pmid": "39239794",
+      "title": "Hodgkin lymphoma: 2025 update on diagnosis, risk-stratification, and management.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Hodgkin lymphoma (HL) is an uncommon B-cell lymphoid malignancy affecting 8570 new patients annually and representing ~10% of all lymphomas in the United States.",
+        "HL is composed of two distinct disease entities: classical HL and nodular lymphocyte predominant HL (also called nodular lymphocyte predominant B-cell lymphoma). Nodular sclerosis, mixed cellularity, lymphocyte depletion, and lymphocyte-rich HL are subgroups of classical HL.",
+        "An accurate assessment of the stage of disease in patients with HL is critical for the selection of the appropriate therapy. Prognostic models that identify patients at low or high risk for recurrence, as well as the response to therapy as determined by positron emission tomography (PET) scan, are used to optimize therapy.",
+        "Initial therapy for HL patients is based on the histology of the disease, the anatomical stage and the presence of poor prognostic features. Patients with early-stage disease are typically treated with combined modality strategies utilizing abbreviated courses of combination chemotherapy followed by involved-field radiation therapy, whereas those with advanced stage disease receive a longer course of chemotherapy often without radiation therapy. However, newer agents including brentuximab vedotin and anti-PD-1 antibodies are now standardly incorporated into frontline therapy.",
+        "High-dose chemotherapy (HDCT) followed by an autologous stem cell transplant (ASCT) is the standard of care for most patients who relapse following initial therapy. For patients who fail HDCT with ASCT, brentuximab vedotin, PD-1 blockade, non-myeloablative allogeneic transplant or participation in a clinical trial should be considered."
+      ],
+      "abstract": "Hodgkin lymphoma (HL) is an uncommon B-cell lymphoid malignancy affecting 8570 new patients annually and representing ~10% of all lymphomas in the United States.\n\nHL is composed of two distinct disease entities: classical HL and nodular lymphocyte predominant HL (also called nodular lymphocyte predominant B-cell lymphoma). Nodular sclerosis, mixed cellularity, lymphocyte depletion, and lymphocyte-rich HL are subgroups of classical HL.\n\nAn accurate assessment of the stage of disease in patients with HL is critical for the selection of the appropriate therapy. Prognostic models that identify patients at low or high risk for recurrence, as well as the response to therapy as determined by positron emission tomography (PET) scan, are used to optimize therapy.\n\nInitial therapy for HL patients is based on the histology of the disease, the anatomical stage and the presence of poor prognostic features. Patients with early-stage disease are typically treated with combined modality strategies utilizing abbreviated courses of combination chemotherapy followed by involved-field radiation therapy, whereas those with advanced stage disease receive a longer course of chemotherapy often without radiation therapy. However, newer agents including brentuximab vedotin and anti-PD-1 antibodies are now standardly incorporated into frontline therapy.\n\nHigh-dose chemotherapy (HDCT) followed by an autologous stem cell transplant (ASCT) is the standard of care for most patients who relapse following initial therapy. For patients who fail HDCT with ASCT, brentuximab vedotin, PD-1 blockade, non-myeloablative allogeneic transplant or participation in a clinical trial should be considered.",
+      "evidence_sentences": [
+        "Patients with early-stage disease are typically treated with combined modality strategies utilizing abbreviated courses of combination chemotherapy followed by involved-field radiation therapy, whereas those with advanced stage disease receive a longer course of chemotherapy often without radiation therapy.",
+        "Initial therapy for HL patients is based on the histology of the disease, the anatomical stage and the presence of poor prognostic features.",
+        "However, newer agents including brentuximab vedotin and anti-PD-1 antibodies are now standardly incorporated into frontline therapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Stephen M Ansell"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39239794/"
+    },
+    {
+      "pmid": "34207103",
+      "title": "Ovarian Cancer Immunotherapy and Personalized Medicine.",
+      "journal": "International journal of molecular sciences",
+      "abstract_sections": [
+        "Ovarian cancer response to immunotherapy is limited; however, the evaluation of sensitive/resistant target treatment subpopulations based on stratification by tumor biomarkers may improve the predictiveness of response to immunotherapy. These markers include tumor mutation burden, PD-L1, tumor-infiltrating lymphocytes, homologous recombination deficiency, and neoantigen intratumoral heterogeneity. Future directions in the treatment of ovarian cancer include the utilization of these biomarkers to select ideal candidates. This paper reviews the role of immunotherapy in ovarian cancer as well as novel therapeutics and study designs involving tumor biomarkers that increase the likelihood of success with immunotherapy in ovarian cancer."
+      ],
+      "abstract": "Ovarian cancer response to immunotherapy is limited; however, the evaluation of sensitive/resistant target treatment subpopulations based on stratification by tumor biomarkers may improve the predictiveness of response to immunotherapy. These markers include tumor mutation burden, PD-L1, tumor-infiltrating lymphocytes, homologous recombination deficiency, and neoantigen intratumoral heterogeneity. Future directions in the treatment of ovarian cancer include the utilization of these biomarkers to select ideal candidates. This paper reviews the role of immunotherapy in ovarian cancer as well as novel therapeutics and study designs involving tumor biomarkers that increase the likelihood of success with immunotherapy in ovarian cancer.",
+      "evidence_sentences": [
+        "Ovarian cancer response to immunotherapy is limited; however, the evaluation of sensitive/resistant target treatment subpopulations based on stratification by tumor biomarkers may improve the predictiveness of response to immunotherapy.",
+        "This paper reviews the role of immunotherapy in ovarian cancer as well as novel therapeutics and study designs involving tumor biomarkers that increase the likelihood of success with immunotherapy in ovarian cancer.",
+        "Future directions in the treatment of ovarian cancer include the utilization of these biomarkers to select ideal candidates."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Susan Morand",
+        "Monika Devanaboyina",
+        "Hannah Staats",
+        "Laura Stanbery",
+        "John Nemunaitis"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34207103/"
+    },
+    {
+      "pmid": "31178151",
+      "title": "Nasopharyngeal carcinoma.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "Nasopharyngeal carcinoma is characterised by distinct geographical distribution and is particularly prevalent in east and southeast Asia. Epidemiological trends in the past decade have shown that its incidence has declined gradually but progressively, and mortality has been reduced substantially. These findings probably reflect lifestyle and environmental changes, enhanced understanding of the pathogenesis and risk factors, population screening, advancements in imaging techniques, and individualised comprehensive chemoradiotherapy strategies. In particular, plasma Epstein-Barr virus (EBV) DNA has been used for population screening, prognostication, predicting treatment response for therapeutic adaptation, and disease surveillance. Moreover, the widespread application of intensity-modulated radiotherapy and optimisation of chemotherapy strategies (induction, concurrent, adjuvant) have contributed to improved survival with reduced toxicities. Among the existing developments in novel therapeutics, immune checkpoint therapies have achieved breakthroughs for treating recurrent or metastatic disease and represent a promising future direction in nasopharyngeal carcinoma."
+      ],
+      "abstract": "Nasopharyngeal carcinoma is characterised by distinct geographical distribution and is particularly prevalent in east and southeast Asia. Epidemiological trends in the past decade have shown that its incidence has declined gradually but progressively, and mortality has been reduced substantially. These findings probably reflect lifestyle and environmental changes, enhanced understanding of the pathogenesis and risk factors, population screening, advancements in imaging techniques, and individualised comprehensive chemoradiotherapy strategies. In particular, plasma Epstein-Barr virus (EBV) DNA has been used for population screening, prognostication, predicting treatment response for therapeutic adaptation, and disease surveillance. Moreover, the widespread application of intensity-modulated radiotherapy and optimisation of chemotherapy strategies (induction, concurrent, adjuvant) have contributed to improved survival with reduced toxicities. Among the existing developments in novel therapeutics, immune checkpoint therapies have achieved breakthroughs for treating recurrent or metastatic disease and represent a promising future direction in nasopharyngeal carcinoma.",
+      "evidence_sentences": [
+        "In particular, plasma Epstein-Barr virus (EBV) DNA has been used for population screening, prognostication, predicting treatment response for therapeutic adaptation, and disease surveillance.",
+        "These findings probably reflect lifestyle and environmental changes, enhanced understanding of the pathogenesis and risk factors, population screening, advancements in imaging techniques, and individualised comprehensive chemoradiotherapy strategies.",
+        "Moreover, the widespread application of intensity-modulated radiotherapy and optimisation of chemotherapy strategies (induction, concurrent, adjuvant) have contributed to improved survival with reduced toxicities."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Yu-Pei Chen",
+        "Anthony T C Chan",
+        "Quynh-Thu Le",
+        "Pierre Blanchard",
+        "Ying Sun",
+        "Jun Ma"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31178151/"
+    },
+    {
+      "pmid": "30691365",
+      "title": "Treatment of Advanced Prostate Cancer.",
+      "journal": "Annual review of medicine",
+      "abstract_sections": [
+        "The therapeutic landscape of prostate cancer has been transformed over the last decade by new therapeutics, advanced functional imaging, next-generation sequencing, and better use of existing therapies in early-stage disease. Until 2004, progression on androgen deprivation therapy for metastatic disease was treated with the addition of secondary hormonal manipulation; in the last decade, six systemic agents have been approved for the treatment of castration-resistant prostate cancer. We review clinical trials and survival benefit for these therapies and assess how the understanding of the disease shifted as these therapies were developed. We also discuss advances in noncastrate disease states, identification of biomarkers for prognosis and treatment selection, and opportunities in locoregional therapy to delay androgen deprivation therapy."
+      ],
+      "abstract": "The therapeutic landscape of prostate cancer has been transformed over the last decade by new therapeutics, advanced functional imaging, next-generation sequencing, and better use of existing therapies in early-stage disease. Until 2004, progression on androgen deprivation therapy for metastatic disease was treated with the addition of secondary hormonal manipulation; in the last decade, six systemic agents have been approved for the treatment of castration-resistant prostate cancer. We review clinical trials and survival benefit for these therapies and assess how the understanding of the disease shifted as these therapies were developed. We also discuss advances in noncastrate disease states, identification of biomarkers for prognosis and treatment selection, and opportunities in locoregional therapy to delay androgen deprivation therapy.",
+      "evidence_sentences": [
+        "Until 2004, progression on androgen deprivation therapy for metastatic disease was treated with the addition of secondary hormonal manipulation; in the last decade, six systemic agents have been approved for the treatment of castration-resistant prostate cancer.",
+        "We also discuss advances in noncastrate disease states, identification of biomarkers for prognosis and treatment selection, and opportunities in locoregional therapy to delay androgen deprivation therapy.",
+        "The therapeutic landscape of prostate cancer has been transformed over the last decade by new therapeutics, advanced functional imaging, next-generation sequencing, and better use of existing therapies in early-stage disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Min Yuen Teo",
+        "Dana E Rathkopf",
+        "Philip Kantoff"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30691365/"
+    },
+    {
+      "pmid": "34370973",
+      "title": "Prostate cancer.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The management of prostate cancer continues to evolve rapidly, with substantial advances being made in understanding the genomic landscape and biology underpinning both primary and metastatic prostate cancer. Similarly, the emergence of more sensitive imaging methods has improved diagnostic and staging accuracy and refined surveillance strategies. These advances have introduced personalised therapeutics to clinical practice, with treatments targeting genomic alterations in DNA repair pathways now clinically validated. An important shift in the therapeutic framework for metastatic disease has taken place, with metastatic-directed therapies being evaluated for oligometastatic disease, aggressive management of the primary lesion shown to benefit patients with low-volume metastatic disease, and with several novel androgen pathway inhibitors significantly improving survival when used as a first-line therapy for metastatic disease. Research into the molecular characterisation of localised, recurrent, and progressive disease will undoubtedly have an impact on clinical management. Similarly, emerging research into novel therapeutics, such as targeted radioisotopes and immunotherapy, holds much promise for improving the lives of patients with prostate cancer."
+      ],
+      "abstract": "The management of prostate cancer continues to evolve rapidly, with substantial advances being made in understanding the genomic landscape and biology underpinning both primary and metastatic prostate cancer. Similarly, the emergence of more sensitive imaging methods has improved diagnostic and staging accuracy and refined surveillance strategies. These advances have introduced personalised therapeutics to clinical practice, with treatments targeting genomic alterations in DNA repair pathways now clinically validated. An important shift in the therapeutic framework for metastatic disease has taken place, with metastatic-directed therapies being evaluated for oligometastatic disease, aggressive management of the primary lesion shown to benefit patients with low-volume metastatic disease, and with several novel androgen pathway inhibitors significantly improving survival when used as a first-line therapy for metastatic disease. Research into the molecular characterisation of localised, recurrent, and progressive disease will undoubtedly have an impact on clinical management. Similarly, emerging research into novel therapeutics, such as targeted radioisotopes and immunotherapy, holds much promise for improving the lives of patients with prostate cancer.",
+      "evidence_sentences": [
+        "An important shift in the therapeutic framework for metastatic disease has taken place, with metastatic-directed therapies being evaluated for oligometastatic disease, aggressive management of the primary lesion shown to benefit patients with low-volume metastatic disease, and with several novel androgen pathway inhibitors significantly improving survival when used as a first-line therapy for metastatic disease.",
+        "The management of prostate cancer continues to evolve rapidly, with substantial advances being made in understanding the genomic landscape and biology underpinning both primary and metastatic prostate cancer.",
+        "Similarly, emerging research into novel therapeutics, such as targeted radioisotopes and immunotherapy, holds much promise for improving the lives of patients with prostate cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Shahneen Sandhu",
+        "Caroline M Moore",
+        "Edmund Chiong",
+        "Himisha Beltran",
+        "Robert G Bristow",
+        "Scott G Williams"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34370973/"
+    },
+    {
+      "pmid": "40095219",
+      "title": "Waldenström Macroglobulinemia: 2025 Update on Diagnosis, Risk Stratification, and Management.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Waldenström macroglobulinemia (WM) is a lymphoplasmacytic lymphoma with immunoglobulin M (IgM) monoclonal protein. Clinical features include anemia, thrombocytopenia, hepatosplenomegaly, lymphadenopathy, and rarely hyperviscosity.",
+        "The presence of IgM monoclonal protein associated with ≥ 10% clonal lymphoplasmacytic cells in bone marrow confirms the diagnosis. The L265P mutation in MYD88 is detectable in more than 90% of patients and is found in most IgM MGUS patients. MYD88 is not required for the diagnosis.",
+        "Age, albumin, hemoglobin level, platelet count, β",
+        "Not all patients who fulfill WM criteria require therapy; these patients can be observed until symptoms develop. Rituximab-monotherapy is inferior to combination regimens. Recommended first-line therapy can be chemoimmunotherapy or a covalent Bruton tyrosine kinase inhibitor. The preferred Mayo Clinic induction is either rituximab and bendamustine (without rituximab maintenance) or zanubrutinib.",
+        "Bortezomib, cyclophosphamide, fludarabine, thalidomide, everolimus, pirtobrutinib, carfilzomib, lenalidomide, bendamustine, and venetoclax have all been shown to have activity in relapsed WM. Given WM's natural history, the reduction of therapy toxicity is an important part of treatment selection. Most patients succumb to causes unrelated to macroglobulinemia."
+      ],
+      "abstract": "Waldenström macroglobulinemia (WM) is a lymphoplasmacytic lymphoma with immunoglobulin M (IgM) monoclonal protein. Clinical features include anemia, thrombocytopenia, hepatosplenomegaly, lymphadenopathy, and rarely hyperviscosity.\n\nThe presence of IgM monoclonal protein associated with ≥ 10% clonal lymphoplasmacytic cells in bone marrow confirms the diagnosis. The L265P mutation in MYD88 is detectable in more than 90% of patients and is found in most IgM MGUS patients. MYD88 is not required for the diagnosis.\n\nAge, albumin, hemoglobin level, platelet count, β\n\nNot all patients who fulfill WM criteria require therapy; these patients can be observed until symptoms develop. Rituximab-monotherapy is inferior to combination regimens. Recommended first-line therapy can be chemoimmunotherapy or a covalent Bruton tyrosine kinase inhibitor. The preferred Mayo Clinic induction is either rituximab and bendamustine (without rituximab maintenance) or zanubrutinib.\n\nBortezomib, cyclophosphamide, fludarabine, thalidomide, everolimus, pirtobrutinib, carfilzomib, lenalidomide, bendamustine, and venetoclax have all been shown to have activity in relapsed WM. Given WM's natural history, the reduction of therapy toxicity is an important part of treatment selection. Most patients succumb to causes unrelated to macroglobulinemia.",
+      "evidence_sentences": [
+        "Given WM's natural history, the reduction of therapy toxicity is an important part of treatment selection.",
+        "Age, albumin, hemoglobin level, platelet count, β Not all patients who fulfill WM criteria require therapy; these patients can be observed until symptoms develop.",
+        "Recommended first-line therapy can be chemoimmunotherapy or a covalent Bruton tyrosine kinase inhibitor."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Morie A Gertz"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40095219/"
+    },
+    {
+      "pmid": "30497667",
+      "title": "Cutaneous Squamous Cell Carcinoma.",
+      "journal": "Hematology/oncology clinics of North America",
+      "abstract_sections": [
+        "Cutaneous squamous cell carcinoma represents 20% of all skin cancers, resulting in 1 million cases in the United States each year. The lifetime risk of developing squamous cell carcinoma continues to increase annually and will likely continue to increase because of the aging population. Most cutaneous squamous cell carcinoma are treated locally, with a subset leading to recurrence, metastasis, and death. This review of cutaneous squamous cell carcinoma covers incidence, recurrence rates, mortality rates, risk factors, staging systems, treatment, prevention, and monitoring."
+      ],
+      "abstract": "Cutaneous squamous cell carcinoma represents 20% of all skin cancers, resulting in 1 million cases in the United States each year. The lifetime risk of developing squamous cell carcinoma continues to increase annually and will likely continue to increase because of the aging population. Most cutaneous squamous cell carcinoma are treated locally, with a subset leading to recurrence, metastasis, and death. This review of cutaneous squamous cell carcinoma covers incidence, recurrence rates, mortality rates, risk factors, staging systems, treatment, prevention, and monitoring.",
+      "evidence_sentences": [
+        "This review of cutaneous squamous cell carcinoma covers incidence, recurrence rates, mortality rates, risk factors, staging systems, treatment, prevention, and monitoring.",
+        "Cutaneous squamous cell carcinoma represents 20% of all skin cancers, resulting in 1 million cases in the United States each year."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Abigail Waldman",
+        "Chrysalyne Schmults"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30497667/"
+    },
+    {
+      "pmid": "32040962",
+      "title": "Updates on the Management of Thyroid Cancer.",
+      "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "abstract_sections": [
+        "The diagnostic modalities, stratification tools, and treatment options for patients with thyroid cancer have rapidly evolved since the development of the American Thyroid Association (ATA) guidelines in 2015. This review compiles newer concepts in diagnosis, stratification tools and treatment options for patients with differentiated thyroid cancer (DTC), medullary thyroid carcinoma (MTC) and anaplastic thyroid cancer (ATC). Newer developments apply precision medicine in thyroid cancer patients to avoid over-treatment in low risk disease and under-treatment in high risk disease. Among novel patient-tailored therapies are selective RET inhibitors that have shown efficacy in the treatment of MTC with limited systemic toxicity compared with non-specific tyrosine kinase inhibitors. The combination of BRAF and MEK inhibitors have revolutionized management of"
+      ],
+      "abstract": "The diagnostic modalities, stratification tools, and treatment options for patients with thyroid cancer have rapidly evolved since the development of the American Thyroid Association (ATA) guidelines in 2015. This review compiles newer concepts in diagnosis, stratification tools and treatment options for patients with differentiated thyroid cancer (DTC), medullary thyroid carcinoma (MTC) and anaplastic thyroid cancer (ATC). Newer developments apply precision medicine in thyroid cancer patients to avoid over-treatment in low risk disease and under-treatment in high risk disease. Among novel patient-tailored therapies are selective RET inhibitors that have shown efficacy in the treatment of MTC with limited systemic toxicity compared with non-specific tyrosine kinase inhibitors. The combination of BRAF and MEK inhibitors have revolutionized management of",
+      "evidence_sentences": [
+        "This review compiles newer concepts in diagnosis, stratification tools and treatment options for patients with differentiated thyroid cancer (DTC), medullary thyroid carcinoma (MTC) and anaplastic thyroid cancer (ATC).",
+        "The diagnostic modalities, stratification tools, and treatment options for patients with thyroid cancer have rapidly evolved since the development of the American Thyroid Association (ATA) guidelines in 2015.",
+        "Newer developments apply precision medicine in thyroid cancer patients to avoid over-treatment in low risk disease and under-treatment in high risk disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Katherine A Araque",
+        "Sriram Gubbi",
+        "Joanna Klubo-Gwiezdzinska"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32040962/"
+    },
+    {
+      "pmid": "38767403",
+      "title": "Plasmablastic lymphoma: 2024 update on diagnosis, risk stratification, and management.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.",
+        "The diagnosis requires a high clinical suspicion and pathological confirmation. EBER expression and MYC gene rearrangements are frequently detected. The differential diagnosis includes EBV+ diffuse large B-cell lymphoma, extracavitary primary effusion lymphoma, ALK+ DLBCL, and HHV8+ large B-cell lymphoma, among others.",
+        "Age ≥60 years, advanced clinical stage, and high intermediate and high International Prognostic Index scores are associated with worse survival.",
+        "Combination chemotherapy regimens, such as EPOCH, are recommended. The addition of bortezomib, lenalidomide, or daratumumab might improve outcomes. Including PBL patients and their participation in prospective clinical trials is warranted."
+      ],
+      "abstract": "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.\n\nThe diagnosis requires a high clinical suspicion and pathological confirmation. EBER expression and MYC gene rearrangements are frequently detected. The differential diagnosis includes EBV+ diffuse large B-cell lymphoma, extracavitary primary effusion lymphoma, ALK+ DLBCL, and HHV8+ large B-cell lymphoma, among others.\n\nAge ≥60 years, advanced clinical stage, and high intermediate and high International Prognostic Index scores are associated with worse survival.\n\nCombination chemotherapy regimens, such as EPOCH, are recommended. The addition of bortezomib, lenalidomide, or daratumumab might improve outcomes. Including PBL patients and their participation in prospective clinical trials is warranted.",
+      "evidence_sentences": [
+        "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options.",
+        "Age ≥60 years, advanced clinical stage, and high intermediate and high International Prognostic Index scores are associated with worse survival.",
+        "Combination chemotherapy regimens, such as EPOCH, are recommended."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Andres Ramirez-Gamero",
+        "Humberto Martínez-Cordero",
+        "Brady E Beltrán",
+        "Jorge Florindez",
+        "Luis Malpica",
+        "Jorge J Castillo"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38767403/"
+    },
+    {
+      "pmid": "33619261",
+      "title": "Acute myeloid leukemia: current progress and future directions.",
+      "journal": "Blood cancer journal",
+      "abstract_sections": [
+        "Progress in the understanding of the biology and therapy of acute myeloid leukemia (AML) is occurring rapidly. Since 2017, nine agents have been approved for various indications in AML. These included several targeted therapies like venetoclax, FLT3 inhibitors, IDH inhibitors, and others. The management of AML is complicated, highlighting the need for expertise in order to deliver optimal therapy and achieve optimal outcomes. The multiple subentities in AML require very different therapies. In this review, we summarize the important pathophysiologies driving AML, review current therapies in standard practice, and address present and future research directions."
+      ],
+      "abstract": "Progress in the understanding of the biology and therapy of acute myeloid leukemia (AML) is occurring rapidly. Since 2017, nine agents have been approved for various indications in AML. These included several targeted therapies like venetoclax, FLT3 inhibitors, IDH inhibitors, and others. The management of AML is complicated, highlighting the need for expertise in order to deliver optimal therapy and achieve optimal outcomes. The multiple subentities in AML require very different therapies. In this review, we summarize the important pathophysiologies driving AML, review current therapies in standard practice, and address present and future research directions.",
+      "evidence_sentences": [
+        "The management of AML is complicated, highlighting the need for expertise in order to deliver optimal therapy and achieve optimal outcomes.",
+        "Progress in the understanding of the biology and therapy of acute myeloid leukemia (AML) is occurring rapidly.",
+        "Since 2017, nine agents have been approved for various indications in AML."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Hagop Kantarjian",
+        "Tapan Kadia",
+        "Courtney DiNardo",
+        "Naval Daver",
+        "Gautam Borthakur",
+        "Elias Jabbour",
+        "Guillermo Garcia-Manero",
+        "Marina Konopleva",
+        "Farhad Ravandi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33619261/"
+    },
+    {
+      "pmid": "32289269",
+      "title": "Acquired Resistance to Immune Checkpoint Inhibitors.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "Immune checkpoint inhibitors (ICIs) have rapidly altered the treatment landscape for multiple tumor types, providing unprecedented survival in some patients. Despite the characteristic durability of response to ICI, unfortunately many patients with initial response will later develop acquired resistance. The current understanding of mechanisms of acquired resistance to ICIs is remarkably limited, perhaps restraining effective development of next-generation immunotherapies. Here, we examine the barriers to progress and emerging clinical reports interrogating acquired resistance with the goal to facilitate efforts to overcome acquired resistance to ICIs in the future."
+      ],
+      "abstract": "Immune checkpoint inhibitors (ICIs) have rapidly altered the treatment landscape for multiple tumor types, providing unprecedented survival in some patients. Despite the characteristic durability of response to ICI, unfortunately many patients with initial response will later develop acquired resistance. The current understanding of mechanisms of acquired resistance to ICIs is remarkably limited, perhaps restraining effective development of next-generation immunotherapies. Here, we examine the barriers to progress and emerging clinical reports interrogating acquired resistance with the goal to facilitate efforts to overcome acquired resistance to ICIs in the future.",
+      "evidence_sentences": [
+        "Immune checkpoint inhibitors (ICIs) have rapidly altered the treatment landscape for multiple tumor types, providing unprecedented survival in some patients.",
+        "The current understanding of mechanisms of acquired resistance to ICIs is remarkably limited, perhaps restraining effective development of next-generation immunotherapies."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Adam J Schoenfeld",
+        "Matthew D Hellmann"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32289269/"
+    },
+    {
+      "pmid": "31806885",
+      "title": "Brain immunology and immunotherapy in brain tumours.",
+      "journal": "Nature reviews. Cancer",
+      "abstract_sections": [
+        "Gliomas, the most common malignant primary brain tumours, remain universally lethal. Yet, seminal discoveries in the past 5 years have clarified the anatomy, genetics and function of the immune system within the central nervous system (CNS) and altered the paradigm for successful immunotherapy. The impact of standard therapies on the response to immunotherapy is now better understood, as well. This new knowledge has implications for a broad range of tumours that develop within the CNS. Nevertheless, the requirements for successful therapy remain effective delivery and target specificity, while the dramatic heterogeneity of malignant gliomas at the genetic and immunological levels remains a profound challenge."
+      ],
+      "abstract": "Gliomas, the most common malignant primary brain tumours, remain universally lethal. Yet, seminal discoveries in the past 5 years have clarified the anatomy, genetics and function of the immune system within the central nervous system (CNS) and altered the paradigm for successful immunotherapy. The impact of standard therapies on the response to immunotherapy is now better understood, as well. This new knowledge has implications for a broad range of tumours that develop within the CNS. Nevertheless, the requirements for successful therapy remain effective delivery and target specificity, while the dramatic heterogeneity of malignant gliomas at the genetic and immunological levels remains a profound challenge.",
+      "evidence_sentences": [
+        "Nevertheless, the requirements for successful therapy remain effective delivery and target specificity, while the dramatic heterogeneity of malignant gliomas at the genetic and immunological levels remains a profound challenge.",
+        "Yet, seminal discoveries in the past 5 years have clarified the anatomy, genetics and function of the immune system within the central nervous system (CNS) and altered the paradigm for successful immunotherapy.",
+        "The impact of standard therapies on the response to immunotherapy is now better understood, as well."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "John H Sampson",
+        "Michael D Gunn",
+        "Peter E Fecci",
+        "David M Ashley"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31806885/"
+    },
+    {
+      "pmid": "25575469",
+      "title": "Antiresorptive therapy in the management of cancer treatment-induced bone loss.",
+      "journal": "Current osteoporosis reports",
+      "abstract_sections": [
+        "Cancer treatment-induced bone loss treatment has an important role to prevent bone loss-related events like fracture, significant morbidity, mortality, disfigurement and loss of self-esteem, and health-care expenditure. Numerous factors, including treatment regimens and bone metastasis, increase the risk of osteoporosis or local bone destruction in most breast and prostate cancer patients. Cytotoxic chemotherapies, radiation, and hormonal therapies can lead to premature menopause and decrease bone mineral density. Over 60 % of breast cancer patients within 1 year of beginning postoperative adjuvant chemotherapy experience ovarian failure. Also, ovarian ablation and aromatase inhibitors used to treat breast cancer and orchiectomy and androgen deprivation therapy (ADT; to treat prostate cancer) cause substantial bone loss. In this article, we will focus mainly on antiresorptive therapy in the management of cancer treatment-induced bone loss (CTIBL). An understanding of CTIBL is critical for determining how to assess the risk and identify which patients may benefit from preventive therapy."
+      ],
+      "abstract": "Cancer treatment-induced bone loss treatment has an important role to prevent bone loss-related events like fracture, significant morbidity, mortality, disfigurement and loss of self-esteem, and health-care expenditure. Numerous factors, including treatment regimens and bone metastasis, increase the risk of osteoporosis or local bone destruction in most breast and prostate cancer patients. Cytotoxic chemotherapies, radiation, and hormonal therapies can lead to premature menopause and decrease bone mineral density. Over 60 % of breast cancer patients within 1 year of beginning postoperative adjuvant chemotherapy experience ovarian failure. Also, ovarian ablation and aromatase inhibitors used to treat breast cancer and orchiectomy and androgen deprivation therapy (ADT; to treat prostate cancer) cause substantial bone loss. In this article, we will focus mainly on antiresorptive therapy in the management of cancer treatment-induced bone loss (CTIBL). An understanding of CTIBL is critical for determining how to assess the risk and identify which patients may benefit from preventive therapy.",
+      "evidence_sentences": [
+        "In this article, we will focus mainly on antiresorptive therapy in the management of cancer treatment-induced bone loss (CTIBL).",
+        "Cancer treatment-induced bone loss treatment has an important role to prevent bone loss-related events like fracture, significant morbidity, mortality, disfigurement and loss of self-esteem, and health-care expenditure.",
+        "Numerous factors, including treatment regimens and bone metastasis, increase the risk of osteoporosis or local bone destruction in most breast and prostate cancer patients."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Ashwani Garg",
+        "Kim Leitzel",
+        "Suhail Ali",
+        "Allan Lipton"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25575469/"
+    },
+    {
+      "pmid": "28209991",
+      "title": "MicroRNA therapeutics: towards a new era for the management of cancer and other diseases.",
+      "journal": "Nature reviews. Drug discovery",
+      "abstract_sections": [
+        "In just over two decades since the discovery of the first microRNA (miRNA), the field of miRNA biology has expanded considerably. Insights into the roles of miRNAs in development and disease, particularly in cancer, have made miRNAs attractive tools and targets for novel therapeutic approaches. Functional studies have confirmed that miRNA dysregulation is causal in many cases of cancer, with miRNAs acting as tumour suppressors or oncogenes (oncomiRs), and miRNA mimics and molecules targeted at miRNAs (antimiRs) have shown promise in preclinical development. Several miRNA-targeted therapeutics have reached clinical development, including a mimic of the tumour suppressor miRNA miR-34, which reached phase I clinical trials for treating cancer, and antimiRs targeted at miR-122, which reached phase II trials for treating hepatitis. In this article, we describe recent advances in our understanding of miRNAs in cancer and in other diseases and provide an overview of current miRNA therapeutics in the clinic. We also discuss the challenge of identifying the most efficacious therapeutic candidates and provide a perspective on achieving safe and targeted delivery of miRNA therapeutics."
+      ],
+      "abstract": "In just over two decades since the discovery of the first microRNA (miRNA), the field of miRNA biology has expanded considerably. Insights into the roles of miRNAs in development and disease, particularly in cancer, have made miRNAs attractive tools and targets for novel therapeutic approaches. Functional studies have confirmed that miRNA dysregulation is causal in many cases of cancer, with miRNAs acting as tumour suppressors or oncogenes (oncomiRs), and miRNA mimics and molecules targeted at miRNAs (antimiRs) have shown promise in preclinical development. Several miRNA-targeted therapeutics have reached clinical development, including a mimic of the tumour suppressor miRNA miR-34, which reached phase I clinical trials for treating cancer, and antimiRs targeted at miR-122, which reached phase II trials for treating hepatitis. In this article, we describe recent advances in our understanding of miRNAs in cancer and in other diseases and provide an overview of current miRNA therapeutics in the clinic. We also discuss the challenge of identifying the most efficacious therapeutic candidates and provide a perspective on achieving safe and targeted delivery of miRNA therapeutics.",
+      "evidence_sentences": [
+        "Functional studies have confirmed that miRNA dysregulation is causal in many cases of cancer, with miRNAs acting as tumour suppressors or oncogenes (oncomiRs), and miRNA mimics and molecules targeted at miRNAs (antimiRs) have shown promise in preclinical development.",
+        "Several miRNA-targeted therapeutics have reached clinical development, including a mimic of the tumour suppressor miRNA miR-34, which reached phase I clinical trials for treating cancer, and antimiRs targeted at miR-122, which reached phase II trials for treating hepatitis.",
+        "In this article, we describe recent advances in our understanding of miRNAs in cancer and in other diseases and provide an overview of current miRNA therapeutics in the clinic."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Rajesha Rupaimoole",
+        "Frank J Slack"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28209991/"
+    },
+    {
+      "pmid": "40299225",
+      "title": "Advances in Targeted Therapy for Metastatic Prostate Cancer.",
+      "journal": "Current treatment options in oncology",
+      "abstract_sections": [
+        "Over the past few years, treatment for advanced prostate cancer has begun shifting away from a one-size-fits-all approach toward biomarker-based therapies for select groups of patients. This review highlights the role of poly-ADP-ribose-polymerase (PARP) inhibitors in metastatic prostate cancer, emerging strategies to target the androgen receptor (AR), and innovative therapies aimed at cell surface proteins, including radioligand therapies, bispecific T cell engagers, and antibody-drug conjugates. For patients with homologous recombination repair (HRR)-mutated metastatic castration-resistant prostate cancer (CRPC), we favor combining a PARP inhibitor (PARPi) with an AR pathway inhibitor (ARPI), provided they can tolerate a more aggressive treatment strategy. In our opinion, patients with BRCA1 or BRCA2 mutations who are unable to handle combination therapy benefit from PARPi monotherapy. We are enthusiastic about the potential of ongoing clinical trials for new AR-directed therapies, such as AR ligand-directed degraders and CYP11A1 inhibitors, in metastatic CRPC. These treatments are expected to be most beneficial for patients whose cancer continues to rely on AR pathway signaling, suggesting they might also be effective in earlier stages of the disease. Progress in drug development and understanding of protein structures has led to new therapies that target cell surface proteins predominantly found in prostate cancer. We use"
+      ],
+      "abstract": "Over the past few years, treatment for advanced prostate cancer has begun shifting away from a one-size-fits-all approach toward biomarker-based therapies for select groups of patients. This review highlights the role of poly-ADP-ribose-polymerase (PARP) inhibitors in metastatic prostate cancer, emerging strategies to target the androgen receptor (AR), and innovative therapies aimed at cell surface proteins, including radioligand therapies, bispecific T cell engagers, and antibody-drug conjugates. For patients with homologous recombination repair (HRR)-mutated metastatic castration-resistant prostate cancer (CRPC), we favor combining a PARP inhibitor (PARPi) with an AR pathway inhibitor (ARPI), provided they can tolerate a more aggressive treatment strategy. In our opinion, patients with BRCA1 or BRCA2 mutations who are unable to handle combination therapy benefit from PARPi monotherapy. We are enthusiastic about the potential of ongoing clinical trials for new AR-directed therapies, such as AR ligand-directed degraders and CYP11A1 inhibitors, in metastatic CRPC. These treatments are expected to be most beneficial for patients whose cancer continues to rely on AR pathway signaling, suggesting they might also be effective in earlier stages of the disease. Progress in drug development and understanding of protein structures has led to new therapies that target cell surface proteins predominantly found in prostate cancer. We use",
+      "evidence_sentences": [
+        "These treatments are expected to be most beneficial for patients whose cancer continues to rely on AR pathway signaling, suggesting they might also be effective in earlier stages of the disease.",
+        "This review highlights the role of poly-ADP-ribose-polymerase (PARP) inhibitors in metastatic prostate cancer, emerging strategies to target the androgen receptor (AR), and innovative therapies aimed at cell surface proteins, including radioligand therapies, bispecific T cell engagers, and antibody-drug conjugates.",
+        "For patients with homologous recombination repair (HRR)-mutated metastatic castration-resistant prostate cancer (CRPC), we favor combining a PARP inhibitor (PARPi) with an AR pathway inhibitor (ARPI), provided they can tolerate a more aggressive treatment strategy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Kabir Grewal",
+        "Tanya B Dorff",
+        "Sagar S Mukhida",
+        "Neeraj Agarwal",
+        "Andrew W Hahn"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40299225/"
+    },
+    {
+      "pmid": "30497674",
+      "title": "Cutaneous Metastasis.",
+      "journal": "Hematology/oncology clinics of North America",
+      "abstract_sections": [
+        "Although rare, cutaneous metastases portend a poor prognosis and are often an indicator of widespread disease. Breast cancer and melanoma are the most common types of cancer that are associated with spread to and within the skin; however, other malignancies, such as lung, colon, head and neck, and hematologic, have been described with a degree of relative frequency. A variety of clinical appearances and syndromes of cutaneous metastases are presented and described in this article. Possible treatment options, including skin-directed therapies and immunotherapies, are also discussed."
+      ],
+      "abstract": "Although rare, cutaneous metastases portend a poor prognosis and are often an indicator of widespread disease. Breast cancer and melanoma are the most common types of cancer that are associated with spread to and within the skin; however, other malignancies, such as lung, colon, head and neck, and hematologic, have been described with a degree of relative frequency. A variety of clinical appearances and syndromes of cutaneous metastases are presented and described in this article. Possible treatment options, including skin-directed therapies and immunotherapies, are also discussed.",
+      "evidence_sentences": [
+        "Possible treatment options, including skin-directed therapies and immunotherapies, are also discussed.",
+        "Breast cancer and melanoma are the most common types of cancer that are associated with spread to and within the skin; however, other malignancies, such as lung, colon, head and neck, and hematologic, have been described with a degree of relative frequency."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "John D Strickley",
+        "Alfred Bennett Jenson",
+        "Jae Yeon Jung"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30497674/"
+    },
+    {
+      "pmid": "26216829",
+      "title": "Testicular Cancer. Preface.",
+      "journal": "The Urologic clinics of North America",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Editorial",
+        "Introductory Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Daniel W Lin"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26216829/"
+    },
+    {
+      "pmid": "39012374",
+      "title": "Riding the storm: managing cytokine-related toxicities in CAR-T cell therapy.",
+      "journal": "Seminars in immunopathology",
+      "abstract_sections": [
+        "The advent of chimeric antigen receptor T cells (CAR-T) has been a paradigm shift in cancer immunotherapeutics, with remarkable outcomes reported for a growing catalog of malignancies. While CAR-T are highly effective in multiple diseases, salvaging patients who were considered incurable, they have unique toxicities which can be life-threatening. Understanding the biology and risk factors for these toxicities has led to targeted treatment approaches which can mitigate them successfully. The three toxicities of particular interest are cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), and immune effector cell-associated hemophagocytic lymphohistiocytosis (HLH)-like syndrome (IEC-HS). Each of these is characterized by cytokine storm and hyperinflammation; however, they differ mechanistically with regard to the cytokines and immune cells that drive the pathophysiology. We summarize the current state of the field of CAR-T-associated toxicities, focusing on underlying biology and how this informs toxicity management and prevention. We also highlight several emerging agents showing promise in preclinical models and the clinic. Many of these established and emerging agents do not appear to impact the anti-tumor function of CAR-T, opening the door to additional and wider CAR-T applications."
+      ],
+      "abstract": "The advent of chimeric antigen receptor T cells (CAR-T) has been a paradigm shift in cancer immunotherapeutics, with remarkable outcomes reported for a growing catalog of malignancies. While CAR-T are highly effective in multiple diseases, salvaging patients who were considered incurable, they have unique toxicities which can be life-threatening. Understanding the biology and risk factors for these toxicities has led to targeted treatment approaches which can mitigate them successfully. The three toxicities of particular interest are cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), and immune effector cell-associated hemophagocytic lymphohistiocytosis (HLH)-like syndrome (IEC-HS). Each of these is characterized by cytokine storm and hyperinflammation; however, they differ mechanistically with regard to the cytokines and immune cells that drive the pathophysiology. We summarize the current state of the field of CAR-T-associated toxicities, focusing on underlying biology and how this informs toxicity management and prevention. We also highlight several emerging agents showing promise in preclinical models and the clinic. Many of these established and emerging agents do not appear to impact the anti-tumor function of CAR-T, opening the door to additional and wider CAR-T applications.",
+      "evidence_sentences": [
+        "We summarize the current state of the field of CAR-T-associated toxicities, focusing on underlying biology and how this informs toxicity management and prevention.",
+        "The advent of chimeric antigen receptor T cells (CAR-T) has been a paradigm shift in cancer immunotherapeutics, with remarkable outcomes reported for a growing catalog of malignancies.",
+        "Understanding the biology and risk factors for these toxicities has led to targeted treatment approaches which can mitigate them successfully."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Andrew D Hughes",
+        "David T Teachey",
+        "Caroline Diorio"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39012374/"
+    },
+    {
+      "pmid": "40066944",
+      "title": "TP53 -Mutated Myeloid Neoplasms: 2024 Update on Diagnosis, Risk-Stratification, and Management.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Alterations in the tumor suppressor gene TP53 are common in human cancers and are associated with an aggressive nature. Approximately 8%-12% of myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) harbor TP53 mutations (TP53"
+      ],
+      "abstract": "Alterations in the tumor suppressor gene TP53 are common in human cancers and are associated with an aggressive nature. Approximately 8%-12% of myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) harbor TP53 mutations (TP53",
+      "evidence_sentences": [
+        "Alterations in the tumor suppressor gene TP53 are common in human cancers and are associated with an aggressive nature."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Mithun Vinod Shah",
+        "Daniel A Arber",
+        "Devendra K Hiwase"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40066944/"
+    },
+    {
+      "pmid": "29931605",
+      "title": "Extranodal Diffuse Large B Cell Lymphoma: Molecular Features, Prognosis, and Risk of Central Nervous System Recurrence.",
+      "journal": "Current treatment options in oncology",
+      "abstract_sections": [
+        "Diffuse large B cell lymphoma (DLBCL) arises from extranodal organs in about 30% of cases. Its prognosis and risk of recurrence in the central nervous system (CNS) vary according to the primary site of origin. Recent studies begin to clarify these differences using molecular classification. Testicular, breast, and uterine DLBCL (as well as possibly primary cutaneous DLBCL, leg-type) share a high prevalence of the non-germinal center B cell (non-GCB) phenotype and the MYD88/CD79B-mutated (MCD) genotype. These biologic features, which resemble primary CNS lymphoma, may underlie their stage-independent propensity for CNS involvement. Management of these lymphomas should involve CNS prophylaxis, preferably using systemic high-dose methotrexate to prevent intraparenchymal recurrence. Involvement of the kidneys, adrenal glands, ovary, bone marrow, lung, or pleura usually indicates disseminated disease, conferring worse prognosis. Involvement of these sites is often associated with high CNS-International Prognostic Index (IPI), concurrent MYC and BCL2 or BCL6 rearrangements, or intravascular lymphoma-risk factors warranting CNS prophylaxis. In contrast, craniofacial, thyroid, localized bone, or gastric lymphomas have a variable prevalence of the non-GCB phenotype and lack MYD88 mutations. Their outcomes with standard immunochemotherapy are excellent, and the risk of CNS recurrence is low. We recommend individualized consideration of CNS prophylaxis based on the CNS-IPI score and anatomical proximity in cases of epidural, orbital, or skull involvement. Rituximab-containing immunochemotherapy is a standard approach for all extranodal DLBCLs. Surgery is no longer required for any primary site, but routine consolidative radiation therapy is recommended for testicular lymphoma. Radiation therapy also appears to be associated with better progression-free survival in primary bone DLBCL. Future studies should better distinguish primary from secondary sites of extranodal involvement, and investigate the association of newly identified genotypes with the risk of CNS or systemic recurrence."
+      ],
+      "abstract": "Diffuse large B cell lymphoma (DLBCL) arises from extranodal organs in about 30% of cases. Its prognosis and risk of recurrence in the central nervous system (CNS) vary according to the primary site of origin. Recent studies begin to clarify these differences using molecular classification. Testicular, breast, and uterine DLBCL (as well as possibly primary cutaneous DLBCL, leg-type) share a high prevalence of the non-germinal center B cell (non-GCB) phenotype and the MYD88/CD79B-mutated (MCD) genotype. These biologic features, which resemble primary CNS lymphoma, may underlie their stage-independent propensity for CNS involvement. Management of these lymphomas should involve CNS prophylaxis, preferably using systemic high-dose methotrexate to prevent intraparenchymal recurrence. Involvement of the kidneys, adrenal glands, ovary, bone marrow, lung, or pleura usually indicates disseminated disease, conferring worse prognosis. Involvement of these sites is often associated with high CNS-International Prognostic Index (IPI), concurrent MYC and BCL2 or BCL6 rearrangements, or intravascular lymphoma-risk factors warranting CNS prophylaxis. In contrast, craniofacial, thyroid, localized bone, or gastric lymphomas have a variable prevalence of the non-GCB phenotype and lack MYD88 mutations. Their outcomes with standard immunochemotherapy are excellent, and the risk of CNS recurrence is low. We recommend individualized consideration of CNS prophylaxis based on the CNS-IPI score and anatomical proximity in cases of epidural, orbital, or skull involvement. Rituximab-containing immunochemotherapy is a standard approach for all extranodal DLBCLs. Surgery is no longer required for any primary site, but routine consolidative radiation therapy is recommended for testicular lymphoma. Radiation therapy also appears to be associated with better progression-free survival in primary bone DLBCL. Future studies should better distinguish primary from secondary sites of extranodal involvement, and investigate the association of newly identified genotypes with the risk of CNS or systemic recurrence.",
+      "evidence_sentences": [
+        "Management of these lymphomas should involve CNS prophylaxis, preferably using systemic high-dose methotrexate to prevent intraparenchymal recurrence.",
+        "Their outcomes with standard immunochemotherapy are excellent, and the risk of CNS recurrence is low.",
+        "Surgery is no longer required for any primary site, but routine consolidative radiation therapy is recommended for testicular lymphoma."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Thomas A Ollila",
+        "Adam J Olszewski"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29931605/"
+    },
+    {
+      "pmid": "37647158",
+      "title": "2024 Update: Advances in the risk stratification and management of large B-cell lymphoma.",
+      "journal": "American journal of hematology",
+      "abstract_sections": [
+        "Diffuse large B-cell lymphoma (DLBCL) is a heterogeneous disease with varying clinical outcomes. Our understanding of its molecular makeup continues to improve risk stratification, and artificial-intelligence and ctDNA-based analyses have the potential to enhance risk assessment and disease monitoring. R-CHOP and Pola-R-CHP are used in the frontline setting; chimeric antigen receptor therapy (CART) is now the new standard-of-care for most with primary refractory disease; both CART and autologous stem cell transplantation are utilized in the relapsed and refractory setting. In this review, we summarize the classification and management of DLBCL with an emphasis on recent advances in the field."
+      ],
+      "abstract": "Diffuse large B-cell lymphoma (DLBCL) is a heterogeneous disease with varying clinical outcomes. Our understanding of its molecular makeup continues to improve risk stratification, and artificial-intelligence and ctDNA-based analyses have the potential to enhance risk assessment and disease monitoring. R-CHOP and Pola-R-CHP are used in the frontline setting; chimeric antigen receptor therapy (CART) is now the new standard-of-care for most with primary refractory disease; both CART and autologous stem cell transplantation are utilized in the relapsed and refractory setting. In this review, we summarize the classification and management of DLBCL with an emphasis on recent advances in the field.",
+      "evidence_sentences": [
+        "In this review, we summarize the classification and management of DLBCL with an emphasis on recent advances in the field.",
+        "R-CHOP and Pola-R-CHP are used in the frontline setting; chimeric antigen receptor therapy (CART) is now the new standard-of-care for most with primary refractory disease; both CART and autologous stem cell transplantation are utilized in the relapsed and refractory setting.",
+        "Diffuse large B-cell lymphoma (DLBCL) is a heterogeneous disease with varying clinical outcomes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Montreh Tavakkoli",
+        "Stefan K Barta"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37647158/"
+    },
+    {
+      "pmid": "31286275",
+      "title": "Management of Metastatic Hormone-Sensitive Prostate Cancer (mHSPC): an Evolving Treatment Paradigm.",
+      "journal": "Current treatment options in oncology",
+      "abstract_sections": [
+        "Combination systemic therapy is now standard of care for all men with metastatic, hormone-sensitive prostate cancer (mHSPC). Patients with mHSPC should be treated with standard androgen deprivation therapy (ADT) and abiraterone acetate with prednisone or docetaxel (chemohormoanl therapy) unless there are contraindications to combination therapy. Based on the Chemohormonal Therapy Versus Androgen Ablation Randomized Trial for Extensive Disease in Prostate Cancer (CHAARTED) study subgroup analysis, chemohormonal therapy may be most beneficial in men with high-volume disease burden, as men with low-volume metastatic disease do not appear to experience a survival benefit with chemohormonal therapy, while abiraterone in combination with ADT appears to be beneficial across both disease volume subgroups. Decisions regarding whether to use chemohormonal therapy or abiraterone and ADT for men with mHSPC should integrate consideration of volume of disease burden, quality of life effects, duration of therapy, and patient preferences for treatment as there is no formally powered prospective head-to-head comparison of these options demonstrating superiority of one approach over the other. Treatment of the primary tumor with radiation should be considered in men with de novo low-volume metastatic disease as radiation is associated with prolonged survival and a tolerable toxicity profile. Men with de novo high-volume metastatic disease do not appear to have improved survival with radiation of the primary tumor. Numerous clinical trials are ongoing to evaluate treatment approaches that may benefit men with mHSPC. Radical prostatectomy in men with mHSPC in combination with optimal systemic therapy is currently being assessed in a clinical trial, but should not be considered outside of a clinical trial. Metastasis-directed therapy with radiotherapy directed at metastatic lesions is still investigational, but can be considered in clinical trials in men with oligometastatic disease. Multiple studies are enrolling worldwide for men with mHSPC, and these should be considered for all interested patients."
+      ],
+      "abstract": "Combination systemic therapy is now standard of care for all men with metastatic, hormone-sensitive prostate cancer (mHSPC). Patients with mHSPC should be treated with standard androgen deprivation therapy (ADT) and abiraterone acetate with prednisone or docetaxel (chemohormoanl therapy) unless there are contraindications to combination therapy. Based on the Chemohormonal Therapy Versus Androgen Ablation Randomized Trial for Extensive Disease in Prostate Cancer (CHAARTED) study subgroup analysis, chemohormonal therapy may be most beneficial in men with high-volume disease burden, as men with low-volume metastatic disease do not appear to experience a survival benefit with chemohormonal therapy, while abiraterone in combination with ADT appears to be beneficial across both disease volume subgroups. Decisions regarding whether to use chemohormonal therapy or abiraterone and ADT for men with mHSPC should integrate consideration of volume of disease burden, quality of life effects, duration of therapy, and patient preferences for treatment as there is no formally powered prospective head-to-head comparison of these options demonstrating superiority of one approach over the other. Treatment of the primary tumor with radiation should be considered in men with de novo low-volume metastatic disease as radiation is associated with prolonged survival and a tolerable toxicity profile. Men with de novo high-volume metastatic disease do not appear to have improved survival with radiation of the primary tumor. Numerous clinical trials are ongoing to evaluate treatment approaches that may benefit men with mHSPC. Radical prostatectomy in men with mHSPC in combination with optimal systemic therapy is currently being assessed in a clinical trial, but should not be considered outside of a clinical trial. Metastasis-directed therapy with radiotherapy directed at metastatic lesions is still investigational, but can be considered in clinical trials in men with oligometastatic disease. Multiple studies are enrolling worldwide for men with mHSPC, and these should be considered for all interested patients.",
+      "evidence_sentences": [
+        "Based on the Chemohormonal Therapy Versus Androgen Ablation Randomized Trial for Extensive Disease in Prostate Cancer (CHAARTED) study subgroup analysis, chemohormonal therapy may be most beneficial in men with high-volume disease burden, as men with low-volume metastatic disease do not appear to experience a survival benefit with chemohormonal therapy, while abiraterone in combination with ADT appears to be beneficial across both disease volume subgroups.",
+        "Decisions regarding whether to use chemohormonal therapy or abiraterone and ADT for men with mHSPC should integrate consideration of volume of disease burden, quality of life effects, duration of therapy, and patient preferences for treatment as there is no formally powered prospective head-to-head comparison of these options demonstrating superiority of one approach over the other.",
+        "Combination systemic therapy is now standard of care for all men with metastatic, hormone-sensitive prostate cancer (mHSPC)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Adam B Weiner",
+        "Oluwarotimi S Nettey",
+        "Alicia K Morgans"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31286275/"
+    },
+    {
+      "pmid": "32678074",
+      "title": "Follicular lymphoma in the modern era: survival, treatment outcomes, and identification of high-risk subgroups.",
+      "journal": "Blood cancer journal",
+      "abstract_sections": [
+        "Patients with follicular lymphoma (FL) frequently require multiple treatments during their disease course; however, survival based on lines of treatment remains poorly described in the post-rituximab era. Also, the Follicular Lymphoma International Prognostic Index (FLIPI) score was developed to predict survival at diagnosis, yet it remains unknown whether increase in FLIPI score following an initial observation period is associated with less-favorable outcomes. To address these knowledge gaps, we retrospectively studied 1088 patients with FL grade 1-3A managed between 1998 and 2009 at our institution. Median overall survival (OS) and progression-free survival (PFS) after first-line treatment were not reached and 4.73 years, respectively. Following successive lines of treatment, years of median OS and PFS were, respectively: after second-line, 11.7 and 1.5; third-line, 8.8 and 1.1; fourth-line, 5.3 and 0.9; fifth-line, 3.1 and 0.6; sixth-line, 1.9 and 0.5. In initially observed, subsequently treated patients, FLIPI score increase after observation was associated with inferior survival following first-line treatment. The reduced survival we observed after second-line and later therapy supports the development of new treatments for relapsed patients and benchmarks historical targets for clinical endpoints. This study also highlights the utility of changes in FLIPI score at diagnosis and after observation in identifying patients likely to have worse outcomes."
+      ],
+      "abstract": "Patients with follicular lymphoma (FL) frequently require multiple treatments during their disease course; however, survival based on lines of treatment remains poorly described in the post-rituximab era. Also, the Follicular Lymphoma International Prognostic Index (FLIPI) score was developed to predict survival at diagnosis, yet it remains unknown whether increase in FLIPI score following an initial observation period is associated with less-favorable outcomes. To address these knowledge gaps, we retrospectively studied 1088 patients with FL grade 1-3A managed between 1998 and 2009 at our institution. Median overall survival (OS) and progression-free survival (PFS) after first-line treatment were not reached and 4.73 years, respectively. Following successive lines of treatment, years of median OS and PFS were, respectively: after second-line, 11.7 and 1.5; third-line, 8.8 and 1.1; fourth-line, 5.3 and 0.9; fifth-line, 3.1 and 0.6; sixth-line, 1.9 and 0.5. In initially observed, subsequently treated patients, FLIPI score increase after observation was associated with inferior survival following first-line treatment. The reduced survival we observed after second-line and later therapy supports the development of new treatments for relapsed patients and benchmarks historical targets for clinical endpoints. This study also highlights the utility of changes in FLIPI score at diagnosis and after observation in identifying patients likely to have worse outcomes.",
+      "evidence_sentences": [
+        "The reduced survival we observed after second-line and later therapy supports the development of new treatments for relapsed patients and benchmarks historical targets for clinical endpoints.",
+        "Following successive lines of treatment, years of median OS and PFS were, respectively: after second-line, 11.7 and 1.5; third-line, 8.8 and 1.1; fourth-line, 5.3 and 0.9; fifth-line, 3.1 and 0.6; sixth-line, 1.9 and 0.5.",
+        "Patients with follicular lymphoma (FL) frequently require multiple treatments during their disease course; however, survival based on lines of treatment remains poorly described in the post-rituximab era."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Connie L Batlevi",
+        "Fushen Sha",
+        "Anna Alperovich",
+        "Ai Ni",
+        "Katy Smith",
+        "Zhitao Ying",
+        "Jacob D Soumerai",
+        "Philip C Caron",
+        "Lorenzo Falchi",
+        "Audrey Hamilton",
+        "Paul A Hamlin",
+        "Steven M Horwitz",
+        "Erel Joffe",
+        "Anita Kumar",
+        "Matthew J Matasar",
+        "Alison J Moskowitz",
+        "Craig H Moskowitz",
+        "Ariela Noy",
+        "Colette Owens",
+        "Lia M Palomba",
+        "David Straus",
+        "Gottfried von Keudell",
+        "Andrew D Zelenetz",
+        "Venkatraman E Seshan",
+        "Anas Younes"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32678074/"
+    },
+    {
+      "pmid": "30497678",
+      "title": "Extramammary Paget's Disease.",
+      "journal": "Hematology/oncology clinics of North America",
+      "abstract_sections": [
+        "Extramammary Paget disease (EMPD) is a rare cutaneous malignancy most commonly affecting the genitals, perineum, and perianal area of the elderly. Despite its rarity, to those impacted, the disease and its treatment can have a tremendous impact on quality of life. Commonly confined to the epidermis, EMPD can be invasive, associated with contiguous extension or upward pagetoid spread of underlying malignancy or with distant synchronous malignancy. Because of its association with other cancers, formal evaluation is warranted. Treatment varies widely and evidence-based approaches are lacking. The authors review the workup and management options for the patient with EMPD."
+      ],
+      "abstract": "Extramammary Paget disease (EMPD) is a rare cutaneous malignancy most commonly affecting the genitals, perineum, and perianal area of the elderly. Despite its rarity, to those impacted, the disease and its treatment can have a tremendous impact on quality of life. Commonly confined to the epidermis, EMPD can be invasive, associated with contiguous extension or upward pagetoid spread of underlying malignancy or with distant synchronous malignancy. Because of its association with other cancers, formal evaluation is warranted. Treatment varies widely and evidence-based approaches are lacking. The authors review the workup and management options for the patient with EMPD.",
+      "evidence_sentences": [
+        "The authors review the workup and management options for the patient with EMPD.",
+        "Despite its rarity, to those impacted, the disease and its treatment can have a tremendous impact on quality of life.",
+        "Treatment varies widely and evidence-based approaches are lacking."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Mackenzie Asel",
+        "Nicole R LeBoeuf"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30497678/"
+    },
+    {
+      "pmid": "26568552",
+      "title": "Thyroid Gland Malignancies.",
+      "journal": "Hematology/oncology clinics of North America",
+      "abstract_sections": [
+        "Surgery remains the most important effective treatment for differentiated (DTC) and medullary thyroid cancer (MTC). Radioactive iodine (RAI) is another important treatment but is reserved only for DTC whose disease captures RAI. Once patients fail primary therapy, observation is often recommended, as most DTC and MTC patients will have indolent disease. However, in a fraction of patients, systemic therapy must be considered. In recent decades 4 systemic therapies have been approved by the United States FDA for DTC and MTC. Sorafenib and lenvatinib are approved for DTC and vandetanib and cabozantinib for MTC. Anaplastic thyroid cancer (ATC) is a rare and rapidly progressive form of thyroid cancer with a very high mortality rate. Treatment of ATC remains a challenge. Most patients are not surgical candidates at diagnosis due to advanced disease. External beam radiation and radiosensitizing radiation are the mainstay of therapy at this time. However, exciting new drugs and approaches to therapy are on the horizon but it will take a concerted, worldwide effort to complete clinical trials in order to find effective therapies that will improve the overall survival for this devastating disease."
+      ],
+      "abstract": "Surgery remains the most important effective treatment for differentiated (DTC) and medullary thyroid cancer (MTC). Radioactive iodine (RAI) is another important treatment but is reserved only for DTC whose disease captures RAI. Once patients fail primary therapy, observation is often recommended, as most DTC and MTC patients will have indolent disease. However, in a fraction of patients, systemic therapy must be considered. In recent decades 4 systemic therapies have been approved by the United States FDA for DTC and MTC. Sorafenib and lenvatinib are approved for DTC and vandetanib and cabozantinib for MTC. Anaplastic thyroid cancer (ATC) is a rare and rapidly progressive form of thyroid cancer with a very high mortality rate. Treatment of ATC remains a challenge. Most patients are not surgical candidates at diagnosis due to advanced disease. External beam radiation and radiosensitizing radiation are the mainstay of therapy at this time. However, exciting new drugs and approaches to therapy are on the horizon but it will take a concerted, worldwide effort to complete clinical trials in order to find effective therapies that will improve the overall survival for this devastating disease.",
+      "evidence_sentences": [
+        "Surgery remains the most important effective treatment for differentiated (DTC) and medullary thyroid cancer (MTC).",
+        "However, exciting new drugs and approaches to therapy are on the horizon but it will take a concerted, worldwide effort to complete clinical trials in order to find effective therapies that will improve the overall survival for this devastating disease.",
+        "Radioactive iodine (RAI) is another important treatment but is reserved only for DTC whose disease captures RAI."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Maria E Cabanillas",
+        "Ramona Dadu",
+        "Mimi I Hu",
+        "Charles Lu",
+        "Gary Brandon Gunn",
+        "Elizabeth G Grubbs",
+        "Stephen Y Lai",
+        "Michelle D Williams"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26568552/"
+    },
+    {
+      "pmid": "9509254",
+      "title": "Chronic pain.",
+      "journal": "Annual review of medicine",
+      "abstract_sections": [
+        "Chronic pain is an emotional experience and is defined as pain lasting greater than six months. It is important to understand the neurophysiology of pain in order to treat it. Nociceptors in the periphery travel to the substantia gelatinosa of the spinal cord while secondary and tertiary afferents transmit information from the dorsal horn to the brain. Modification of pain information may take place in these ascending pathways or in descending pathways. Treatment of chronic pain is most successful when it is approached in a multidisciplinary fashion with the focus not only on treatment of underlying etiology, but also on the secondary impacts of pain on the patient's life. The management of chronic pain requires special expertise. Most of the experts in chronic pain assessment and management organize themselves into pain treatment centers. These centers vary widely in their approach to the problem. The most sophisticated is a multidisciplinary center that is university-based and includes teaching and research. Treatment of chronic pain includes a variety of medications, psychological support, and rehabilitation. Multidisciplinary pain management is also an integral part of the palliative care and hospice concept used to treat cancer pain."
+      ],
+      "abstract": "Chronic pain is an emotional experience and is defined as pain lasting greater than six months. It is important to understand the neurophysiology of pain in order to treat it. Nociceptors in the periphery travel to the substantia gelatinosa of the spinal cord while secondary and tertiary afferents transmit information from the dorsal horn to the brain. Modification of pain information may take place in these ascending pathways or in descending pathways. Treatment of chronic pain is most successful when it is approached in a multidisciplinary fashion with the focus not only on treatment of underlying etiology, but also on the secondary impacts of pain on the patient's life. The management of chronic pain requires special expertise. Most of the experts in chronic pain assessment and management organize themselves into pain treatment centers. These centers vary widely in their approach to the problem. The most sophisticated is a multidisciplinary center that is university-based and includes teaching and research. Treatment of chronic pain includes a variety of medications, psychological support, and rehabilitation. Multidisciplinary pain management is also an integral part of the palliative care and hospice concept used to treat cancer pain.",
+      "evidence_sentences": [
+        "Most of the experts in chronic pain assessment and management organize themselves into pain treatment centers.",
+        "Multidisciplinary pain management is also an integral part of the palliative care and hospice concept used to treat cancer pain.",
+        "The management of chronic pain requires special expertise."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "C M Russo",
+        "W G Brose"
+      ],
+      "year": "1998",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/9509254/"
+    },
+    {
+      "pmid": "39799810",
+      "title": "Asian Thoracic Oncology Research Group expert consensus statement on the peri-operative management of non-small cell lung cancer.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "The peri-operative management of non-small cell lung cancer (NSCLC) in earlier stage disease has seen significant advances in recent years with the incorporation of immune checkpoint inhibitors and targeted therapy. However, many unanswered questions and challenges remain, including the application of clinical trial data to routine clinical practice. Recognising the unique demographic profile of Asian patients with NSCLC and heterogeneous healthcare systems, the Asian Thoracic Oncology Research Group (ATORG) convened a consensus meeting in Singapore on 26 April 2024 to discuss relevant issues spanning diagnostic testing to post-neoadjuvant treatment considerations and future directions. An interdisciplinary group of 19 experts comprising medical oncologists, thoracic surgeons, radiation oncologists, pulmonologists and pathologists from Singapore, Hong Kong, Mainland China, Korea, Japan, Taiwan, India, Malaysia, Thailand, Vietnam and Australia met to discuss emerging data, identify existing gaps in clinical care and develop a multidisciplinary, multinational expert consensus statement on the peri-operative management of NSCLC tailored to the Asia-Pacific region."
+      ],
+      "abstract": "The peri-operative management of non-small cell lung cancer (NSCLC) in earlier stage disease has seen significant advances in recent years with the incorporation of immune checkpoint inhibitors and targeted therapy. However, many unanswered questions and challenges remain, including the application of clinical trial data to routine clinical practice. Recognising the unique demographic profile of Asian patients with NSCLC and heterogeneous healthcare systems, the Asian Thoracic Oncology Research Group (ATORG) convened a consensus meeting in Singapore on 26 April 2024 to discuss relevant issues spanning diagnostic testing to post-neoadjuvant treatment considerations and future directions. An interdisciplinary group of 19 experts comprising medical oncologists, thoracic surgeons, radiation oncologists, pulmonologists and pathologists from Singapore, Hong Kong, Mainland China, Korea, Japan, Taiwan, India, Malaysia, Thailand, Vietnam and Australia met to discuss emerging data, identify existing gaps in clinical care and develop a multidisciplinary, multinational expert consensus statement on the peri-operative management of NSCLC tailored to the Asia-Pacific region.",
+      "evidence_sentences": [
+        "The peri-operative management of non-small cell lung cancer (NSCLC) in earlier stage disease has seen significant advances in recent years with the incorporation of immune checkpoint inhibitors and targeted therapy.",
+        "An interdisciplinary group of 19 experts comprising medical oncologists, thoracic surgeons, radiation oncologists, pulmonologists and pathologists from Singapore, Hong Kong, Mainland China, Korea, Japan, Taiwan, India, Malaysia, Thailand, Vietnam and Australia met to discuss emerging data, identify existing gaps in clinical care and develop a multidisciplinary, multinational expert consensus statement on the peri-operative management of NSCLC tailored to the Asia-Pacific region.",
+        "Recognising the unique demographic profile of Asian patients with NSCLC and heterogeneous healthcare systems, the Asian Thoracic Oncology Research Group (ATORG) convened a consensus meeting in Singapore on 26 April 2024 to discuss relevant issues spanning diagnostic testing to post-neoadjuvant treatment considerations and future directions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Consensus Statement"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Stephanie P L Saw",
+        "Wen-Zhao Zhong",
+        "Rui Fu",
+        "Molly S C Li",
+        "Yasushi Goto",
+        "Stephen B Fox",
+        "Yasushi Yatabe",
+        "Boon-Hean Ong",
+        "Calvin S H Ng",
+        "David D W Lee",
+        "Pham Cam Phuong",
+        "In Kyu Park",
+        "James C H Yang",
+        "Masahiro Tsuboi",
+        "Lye Mun Tho",
+        "Thomas John",
+        "Hsao-Hsun Hsu",
+        "Daniel S W Tan",
+        "Tony S K Mok",
+        "Thanyanan Reungwetwattana",
+        "Navneet Singh"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39799810/"
+    },
+    {
+      "pmid": "39102169",
+      "title": "Gastrointestinal Cancer Therapy and Cardiotoxicity.",
+      "journal": "Current treatment options in oncology",
+      "abstract_sections": [
+        "Gastrointestinal cancers are a heterogenous group of cancers that share common risk factors with cardiovascular disease. Therapy for gastrointestinal cancers have improved cancer-specific outcomes at the cost of cardiotoxicity. The most common cardiotoxic therapies utilized in gastrointestinal cancers include conventional chemotherapy (including fluoropyrimidines and anthracyclines), targeted therapies including anti-vascular endothelial growth factor (VEGF) therapy and tyrosine kinase inhibitors (TKI), and immunotherapy. It is important for clinicians managing patients with gastrointestinal cancers to be aware of potential cardiotoxicity associated with these agents."
+      ],
+      "abstract": "Gastrointestinal cancers are a heterogenous group of cancers that share common risk factors with cardiovascular disease. Therapy for gastrointestinal cancers have improved cancer-specific outcomes at the cost of cardiotoxicity. The most common cardiotoxic therapies utilized in gastrointestinal cancers include conventional chemotherapy (including fluoropyrimidines and anthracyclines), targeted therapies including anti-vascular endothelial growth factor (VEGF) therapy and tyrosine kinase inhibitors (TKI), and immunotherapy. It is important for clinicians managing patients with gastrointestinal cancers to be aware of potential cardiotoxicity associated with these agents.",
+      "evidence_sentences": [
+        "Therapy for gastrointestinal cancers have improved cancer-specific outcomes at the cost of cardiotoxicity.",
+        "The most common cardiotoxic therapies utilized in gastrointestinal cancers include conventional chemotherapy (including fluoropyrimidines and anthracyclines), targeted therapies including anti-vascular endothelial growth factor (VEGF) therapy and tyrosine kinase inhibitors (TKI), and immunotherapy.",
+        "It is important for clinicians managing patients with gastrointestinal cancers to be aware of potential cardiotoxicity associated with these agents."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Orly Leiva",
+        "Talal El Zarif",
+        "Jose Alvarez-Cardona"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39102169/"
+    },
+    {
+      "pmid": "37382870",
+      "title": "Multi-agent Systems and Cancer Pain Management.",
+      "journal": "Current pain and headache reports",
+      "abstract_sections": [
+        "The present investigation explores multi-agent systems, their function in cancer pain management, and how they might enhance patient care. Since cancer is a complex disease, technology can help doctors and patients coordinate care and communicate effectively. Even when a patient has a dedicated team, treatment may be fragmented. Multi-agent systems (MAS) are one component of technology that is making progress for cancer patients. Wireless sensory networks (WSN) and body area sensory networks (BASN) are examples of MAS.",
+        "Technology is advancing the care of patients, not only in everyday clinical practice, but also in creating accessible communication between patients and provider. Many hospitals have utilized electronic medical records (EHR), but recent advancements allowed the pre-existing infrastructure to network with personal devices creating a more congruent form of communications. Better communication can better organize pain management, leading to better clinical outcomes for patients, integrating body sensors, such as smart watch, or using self-reporting apps. Certain software applications are also used to help providers in early detections of some cancers, having accurate results. The integration of technology in the field of cancer management helps create an organized structure for cancer patients trying to understand/manage their complex diagnosis. The systems for the various healthcare entities can receive and access frequently updated information that can better provide better coverage of the patient's pain and still be within the legalities as it pertains to opioid medications. The systems include the EHR communicating with the information provided by the patient's cellular devices and then communicating with the healthcare team to determine the next step in management. This all happens automatically with much physical input from the patient decreasing the amount of effort from the patient and hopefully decreasing the number of patients' loss to follow-up."
+      ],
+      "abstract": "The present investigation explores multi-agent systems, their function in cancer pain management, and how they might enhance patient care. Since cancer is a complex disease, technology can help doctors and patients coordinate care and communicate effectively. Even when a patient has a dedicated team, treatment may be fragmented. Multi-agent systems (MAS) are one component of technology that is making progress for cancer patients. Wireless sensory networks (WSN) and body area sensory networks (BASN) are examples of MAS.\n\nTechnology is advancing the care of patients, not only in everyday clinical practice, but also in creating accessible communication between patients and provider. Many hospitals have utilized electronic medical records (EHR), but recent advancements allowed the pre-existing infrastructure to network with personal devices creating a more congruent form of communications. Better communication can better organize pain management, leading to better clinical outcomes for patients, integrating body sensors, such as smart watch, or using self-reporting apps. Certain software applications are also used to help providers in early detections of some cancers, having accurate results. The integration of technology in the field of cancer management helps create an organized structure for cancer patients trying to understand/manage their complex diagnosis. The systems for the various healthcare entities can receive and access frequently updated information that can better provide better coverage of the patient's pain and still be within the legalities as it pertains to opioid medications. The systems include the EHR communicating with the information provided by the patient's cellular devices and then communicating with the healthcare team to determine the next step in management. This all happens automatically with much physical input from the patient decreasing the amount of effort from the patient and hopefully decreasing the number of patients' loss to follow-up.",
+      "evidence_sentences": [
+        "The integration of technology in the field of cancer management helps create an organized structure for cancer patients trying to understand/manage their complex diagnosis.",
+        "The present investigation explores multi-agent systems, their function in cancer pain management, and how they might enhance patient care.",
+        "Better communication can better organize pain management, leading to better clinical outcomes for patients, integrating body sensors, such as smart watch, or using self-reporting apps."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "treatment",
+        "therapy",
+        "management",
+        "intervention",
+        "children",
+        "age",
+        "usa"
+      ],
+      "authors": [
+        "Tyler Alise Le",
+        "Arpi Jivalagian",
+        "Tasneem Hiba",
+        "Joshua Franz",
+        "Shahab Ahmadzadeh",
+        "Treniece Eubanks",
+        "Leisa Oglesby",
+        "Sahar Shekoohi",
+        "Elyse M Cornett",
+        "Alan D Kaye"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37382870/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "88933",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38943315",
+        "39239794",
+        "34207103",
+        "31178151",
+        "30691365",
+        "34370973",
+        "40095219",
+        "30497667",
+        "32040962",
+        "38767403",
+        "33619261",
+        "32289269",
+        "31806885",
+        "25575469",
+        "28209991",
+        "40299225",
+        "30497674",
+        "26216829",
+        "39012374",
+        "40066944",
+        "29931605",
+        "37647158",
+        "31286275",
+        "32678074",
+        "30497678",
+        "26568552",
+        "9509254",
+        "39799810",
+        "39102169",
+        "37382870"
+      ],
+      "translationset": [
+        {
+          "from": "cancer",
+          "to": "\"cancer's\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]"
+        },
+        {
+          "from": "treatment",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment's\"[All Fields]"
+        },
+        {
+          "from": "therapy",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"therapy's\"[All Fields] OR \"therapys\"[All Fields]"
+        },
+        {
+          "from": "management",
+          "to": "\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management's\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager's\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND (\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"therapy s\"[All Fields] OR \"therapys\"[All Fields]) AND (\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management s\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager s\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields]) AND \"USA\"[All Fields]"
+    }
+  }
+}

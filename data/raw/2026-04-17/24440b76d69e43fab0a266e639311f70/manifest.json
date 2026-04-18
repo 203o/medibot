@@ -1,0 +1,76 @@
+{
+  "run_id": "24440b76d69e43fab0a266e639311f70",
+  "stored_at": "2026-04-17T00:11:16+00:00",
+  "query": "lung cancer lung cancer treatment therapy USA",
+  "query_fallbacks": [
+    "lung cancer lung cancer treatment therapy USA",
+    "lung cancer epidemiology USA",
+    "lung cancer treatment outcomes adults USA",
+    "lung cancer therapy efficacy USA",
+    "lung cancer disease management USA",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer treatment therapy USA",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology USA",
+    "lung cancer treatment outcomes adults USA",
+    "lung cancer therapy efficacy USA",
+    "lung cancer disease management USA"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "adults",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 58,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology USA",
+      "lung cancer treatment outcomes adults USA",
+      "lung cancer therapy efficacy USA",
+      "lung cancer disease management USA"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\24440b76d69e43fab0a266e639311f70\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\24440b76d69e43fab0a266e639311f70\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\24440b76d69e43fab0a266e639311f70\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\24440b76d69e43fab0a266e639311f70\\combined.records.json"
+  }
+}

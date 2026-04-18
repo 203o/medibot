@@ -1,0 +1,67 @@
+{
+  "run_id": "6076f7c91942423eb4749a5e9b1d18a3",
+  "stored_at": "2026-04-18T10:10:49+00:00",
+  "query": "malaria hiv prevalence kenya",
+  "query_fallbacks": [
+    "malaria hiv prevalence kenya",
+    "malaria hiv coinfection prevalence kenya",
+    "hiv seroprevalence among malaria patients kenya",
+    "malaria hiv co-infection epidemiology kenya",
+    "kenya hiv prevalence in malaria endemic areas",
+    "malaria hiv prevalence kenya treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria hiv prevalence kenya",
+    "malaria hiv prevalence kenya treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria hiv coinfection prevalence kenya",
+    "hiv seroprevalence among malaria patients kenya",
+    "malaria hiv co-infection epidemiology kenya",
+    "kenya hiv prevalence in malaria endemic areas"
+  ],
+  "keywords": [
+    "malaria",
+    "hiv",
+    "prevalence",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 12,
+    "openalex": 0,
+    "semantic_hits": 39,
+    "indexed_chunks": 63
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria hiv coinfection prevalence kenya",
+      "hiv seroprevalence among malaria patients kenya",
+      "malaria hiv co-infection epidemiology kenya",
+      "kenya hiv prevalence in malaria endemic areas"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\6076f7c91942423eb4749a5e9b1d18a3\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\6076f7c91942423eb4749a5e9b1d18a3\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\6076f7c91942423eb4749a5e9b1d18a3\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\6076f7c91942423eb4749a5e9b1d18a3\\combined.records.json"
+  }
+}

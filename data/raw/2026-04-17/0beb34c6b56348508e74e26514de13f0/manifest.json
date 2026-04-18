@@ -1,0 +1,74 @@
+{
+  "run_id": "0beb34c6b56348508e74e26514de13f0",
+  "stored_at": "2026-04-17T13:12:23+00:00",
+  "query": "malaria malaria treatment therapy management keya",
+  "query_fallbacks": [
+    "malaria malaria treatment therapy management keya",
+    "malaria treatment efficacy epidemiology",
+    "malaria disease management outcomes research",
+    "malaria therapy effectiveness systematic review",
+    "malaria intervention strategies keya population",
+    "malaria malaria treatment therapy management",
+    "malaria malaria treatment therapy treatment",
+    "malaria keya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria treatment therapy management keya",
+    "malaria malaria treatment therapy management",
+    "malaria malaria treatment therapy treatment",
+    "malaria keya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria treatment efficacy epidemiology",
+    "malaria disease management outcomes research",
+    "malaria therapy effectiveness systematic review",
+    "malaria intervention strategies keya population"
+  ],
+  "keywords": [
+    "malaria",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "men",
+    "keya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 67,
+    "indexed_chunks": 143
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria treatment efficacy epidemiology",
+      "malaria disease management outcomes research",
+      "malaria therapy effectiveness systematic review",
+      "malaria intervention strategies keya population"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\0beb34c6b56348508e74e26514de13f0\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\0beb34c6b56348508e74e26514de13f0\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\0beb34c6b56348508e74e26514de13f0\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\0beb34c6b56348508e74e26514de13f0\\combined.records.json"
+  }
+}

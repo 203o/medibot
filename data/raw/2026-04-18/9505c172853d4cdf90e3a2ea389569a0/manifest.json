@@ -1,0 +1,73 @@
+{
+  "run_id": "9505c172853d4cdf90e3a2ea389569a0",
+  "stored_at": "2026-04-18T00:16:44+00:00",
+  "query": "cancer prostate cancer treatment therapy USA",
+  "query_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "(prostate cancer AND treatment) AND (epidemiology OR systematic review) AND USA",
+    "(prostate cancer treatment outcomes) AND (USA OR American population)",
+    "(prostate cancer therapy effectiveness) AND (USA OR US population)",
+    "(prostate cancer treatment patterns) AND (USA OR US healthcare system)",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(prostate cancer AND treatment) AND (epidemiology OR systematic review) AND USA",
+    "(prostate cancer treatment outcomes) AND (USA OR American population)",
+    "(prostate cancer therapy effectiveness) AND (USA OR US population)",
+    "(prostate cancer treatment patterns) AND (USA OR US healthcare system)"
+  ],
+  "keywords": [
+    "cancer",
+    "prostate",
+    "treatment",
+    "therapy",
+    "management",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 32,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(prostate cancer AND treatment) AND (epidemiology OR systematic review) AND USA",
+      "(prostate cancer treatment outcomes) AND (USA OR American population)",
+      "(prostate cancer therapy effectiveness) AND (USA OR US population)",
+      "(prostate cancer treatment patterns) AND (USA OR US healthcare system)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9505c172853d4cdf90e3a2ea389569a0\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9505c172853d4cdf90e3a2ea389569a0\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9505c172853d4cdf90e3a2ea389569a0\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9505c172853d4cdf90e3a2ea389569a0\\combined.records.json"
+  }
+}

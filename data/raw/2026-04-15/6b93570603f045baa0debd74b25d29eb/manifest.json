@@ -1,0 +1,33 @@
+{
+  "run_id": "6b93570603f045baa0debd74b25d29eb",
+  "stored_at": "2026-04-15T21:39:39+00:00",
+  "query": "malaria studies malawi",
+  "query_fallbacks": [
+    "malaria studies malawi",
+    "malaria studies",
+    "malaria studies treatment",
+    "malaria malawi",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "studies",
+    "malawi"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 5,
+    "semantic_hits": 4,
+    "indexed_chunks": 30
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\6b93570603f045baa0debd74b25d29eb\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\6b93570603f045baa0debd74b25d29eb\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\6b93570603f045baa0debd74b25d29eb\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\6b93570603f045baa0debd74b25d29eb\\combined.records.json"
+  }
+}

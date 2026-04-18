@@ -1,0 +1,76 @@
+{
+  "run_id": "002234b35cc94823ae6a71863e4a158d",
+  "stored_at": "2026-04-16T21:08:23+00:00",
+  "query": "cancer latest treatment therapy management united states of america",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management united states of america",
+    "(cancer OR neoplasm) AND (treatment OR therapy) AND (epidemiology OR evidence-based medicine) AND (united states OR usa OR american population)",
+    "(lung cancer) AND (current OR recent OR latest) AND (treatment OR management) AND (united states OR usa OR american population)",
+    "(cancer treatment OR oncology therapy) AND (epidemiology OR outcomes research) AND (united states OR usa OR american population) AND (lung cancer OR non-small cell lung cancer)",
+    "(lung cancer treatment OR lung neoplasm therapy) AND (evidence-based medicine OR systematic review) AND (united states OR usa OR american population) AND (current OR recent OR latest)",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management united states of america",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(cancer OR neoplasm) AND (treatment OR therapy) AND (epidemiology OR evidence-based medicine) AND (united states OR usa OR american population)",
+    "(lung cancer) AND (current OR recent OR latest) AND (treatment OR management) AND (united states OR usa OR american population)",
+    "(cancer treatment OR oncology therapy) AND (epidemiology OR outcomes research) AND (united states OR usa OR american population) AND (lung cancer OR non-small cell lung cancer)",
+    "(lung cancer treatment OR lung neoplasm therapy) AND (evidence-based medicine OR systematic review) AND (united states OR usa OR american population) AND (current OR recent OR latest)"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(cancer OR neoplasm) AND (treatment OR therapy) AND (epidemiology OR evidence-based medicine) AND (united states OR usa OR american population)",
+      "(lung cancer) AND (current OR recent OR latest) AND (treatment OR management) AND (united states OR usa OR american population)",
+      "(cancer treatment OR oncology therapy) AND (epidemiology OR outcomes research) AND (united states OR usa OR american population) AND (lung cancer OR non-small cell lung cancer)",
+      "(lung cancer treatment OR lung neoplasm therapy) AND (evidence-based medicine OR systematic review) AND (united states OR usa OR american population) AND (current OR recent OR latest)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\002234b35cc94823ae6a71863e4a158d\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\002234b35cc94823ae6a71863e4a158d\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\002234b35cc94823ae6a71863e4a158d\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\002234b35cc94823ae6a71863e4a158d\\combined.records.json"
+  }
+}

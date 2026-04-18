@@ -1,0 +1,71 @@
+{
+  "run_id": "fe51b15369514b56bba825ea6e157bad",
+  "stored_at": "2026-04-16T13:59:56+00:00",
+  "query": "hiv about adults africa",
+  "query_fallbacks": [
+    "hiv about adults africa",
+    "(HIV OR HIV-1 OR HIV-2) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (epidemiology OR prevalence) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (systematic review OR meta-analysis) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (risk factors OR determinants) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "hiv about adults",
+    "hiv about adults treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv about adults africa",
+    "hiv about adults",
+    "hiv about adults treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "(HIV OR HIV-1 OR HIV-2) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (epidemiology OR prevalence) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (systematic review OR meta-analysis) AND (adult OR adults) AND (Africa OR African OR Africans)",
+    "(HIV OR HIV-1 OR HIV-2) AND (risk factors OR determinants) AND (adult OR adults) AND (Africa OR African OR Africans)"
+  ],
+  "keywords": [
+    "hiv",
+    "about",
+    "adults",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 137
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(HIV OR HIV-1 OR HIV-2) AND (adult OR adults) AND (Africa OR African OR Africans)",
+      "(HIV OR HIV-1 OR HIV-2) AND (epidemiology OR prevalence) AND (adult OR adults) AND (Africa OR African OR Africans)",
+      "(HIV OR HIV-1 OR HIV-2) AND (systematic review OR meta-analysis) AND (adult OR adults) AND (Africa OR African OR Africans)",
+      "(HIV OR HIV-1 OR HIV-2) AND (risk factors OR determinants) AND (adult OR adults) AND (Africa OR African OR Africans)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fe51b15369514b56bba825ea6e157bad\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fe51b15369514b56bba825ea6e157bad\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fe51b15369514b56bba825ea6e157bad\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fe51b15369514b56bba825ea6e157bad\\combined.records.json"
+  }
+}

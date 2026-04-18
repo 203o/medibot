@@ -1,0 +1,1372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H-SM-RARS | Clinical System</title>
+    <style>
+        :root {
+            --primary: #0ea5e9;
+            --primary-dark: #0369a1;
+            --secondary: #64748b;
+            --accent: #10b981;
+            --bg-app: #f1f5f9;
+            --bg-panel: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --danger: #dc2626;
+            --warn: #d97706;
+            --success: #15803d;
+            --shadow: 0 1px 2px rgba(15, 23, 42, 0.06), 0 10px 30px rgba(15, 23, 42, 0.04);
+            --font-mono: "Consolas", monospace;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-sans);
+            background: linear-gradient(180deg, #f8fbfd 0%, var(--bg-app) 100%);
+            color: var(--text-main);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        header {
+            background: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(8px);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            min-height: 60px;
+            flex-shrink: 0;
+        }
+
+        .brand {
+            font-weight: 700;
+            color: var(--primary-dark);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .brand-dot {
+            width: 12px;
+            height: 12px;
+            background: linear-gradient(135deg, var(--primary), #38bdf8);
+            border-radius: 50%;
+            box-shadow: 0 0 0 4px rgba(14, 165, 233, 0.12);
+        }
+
+        .header-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+        }
+
+        .status-pill {
+            border: 1px solid var(--border);
+            background: #f8fafc;
+            border-radius: 999px;
+            padding: 6px 10px;
+        }
+
+        main {
+            display: grid;
+            grid-template-columns: 420px 1fr;
+            flex: 1;
+            overflow: hidden;
+            min-height: 0;
+        }
+
+        .chat-panel {
+            background: var(--bg-panel);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+        }
+
+        .chat-topbar {
+            padding: 1rem 1.25rem;
+            border-bottom: 1px solid var(--border);
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+        }
+
+        .chat-topbar h1 {
+            font-size: 1rem;
+            margin-bottom: 4px;
+        }
+
+        .chat-topbar p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            line-height: 1.4;
+        }
+
+        .chat-history {
+            flex: 1;
+            padding: 1.25rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 0.9rem;
+            min-height: 0;
+            scroll-behavior: smooth;
+        }
+
+        .message {
+            max-width: 92%;
+            padding: 12px 14px;
+            border-radius: 14px;
+            font-size: 0.94rem;
+            line-height: 1.45;
+            animation: fadeIn 0.25s ease;
+            box-shadow: var(--shadow);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(4px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message.user {
+            align-self: flex-end;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.system {
+            align-self: flex-start;
+            background: #f8fafc;
+            border: 1px solid var(--border);
+            color: var(--text-main);
+            border-bottom-left-radius: 4px;
+        }
+
+        .message-actions {
+            margin-top: 8px;
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+        }
+
+        .edit-btn,
+        .edit-cancel,
+        .edit-send {
+            border: 1px solid var(--border);
+            background: #ffffff;
+            color: var(--text-muted);
+            border-radius: 999px;
+            font-size: 0.72rem;
+            padding: 4px 10px;
+            cursor: pointer;
+        }
+
+        .message.user .edit-btn {
+            background: rgba(15, 23, 42, 0.28);
+            border-color: rgba(226, 232, 240, 0.25);
+            color: #e2e8f0;
+            padding: 3px 10px;
+        }
+
+        .message.user .edit-btn:hover {
+            background: rgba(15, 23, 42, 0.4);
+        }
+
+        .edit-send {
+            color: #0f766e;
+            border-color: #99f6e4;
+        }
+
+        .edit-cancel {
+            color: #64748b;
+        }
+
+        .edit-input {
+            width: 100%;
+            min-height: 82px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 10px;
+            font: inherit;
+            resize: vertical;
+            background: #ffffff;
+            color: var(--text-main);
+        }
+
+        .message.user.editing {
+            align-self: stretch;
+            max-width: 100%;
+            background: linear-gradient(135deg, #111827, #1f2937);
+            color: #e5e7eb;
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            border-radius: 14px;
+        }
+
+        .message.user.editing .edit-input {
+            background: rgba(17, 24, 39, 0.85);
+            border: 1px solid rgba(148, 163, 184, 0.4);
+            color: #f8fafc;
+            min-height: 96px;
+        }
+
+        .message.user.editing .message-actions {
+            justify-content: flex-end;
+            margin-top: 10px;
+        }
+
+        .message.user.editing .edit-cancel {
+            background: rgba(31, 41, 55, 0.8);
+            border-color: rgba(148, 163, 184, 0.35);
+            color: #cbd5e1;
+        }
+
+        .message.user.editing .edit-send {
+            background: #e5e7eb;
+            border-color: #e5e7eb;
+            color: #0f172a;
+            font-weight: 700;
+        }
+
+        .message-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 10px;
+        }
+
+        .mini-badge {
+            font-size: 0.72rem;
+            padding: 4px 8px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            background: #fff;
+            color: var(--text-muted);
+        }
+
+        .mini-badge.high { color: var(--success); }
+        .mini-badge.medium { color: var(--warn); }
+        .mini-badge.low { color: var(--danger); }
+
+        .inline-citation {
+            color: #2563eb;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+            font-weight: 600;
+        }
+
+        .message-evidence {
+            margin-top: 10px;
+            font-size: 0.78rem;
+            color: var(--text-muted);
+        }
+
+        .input-area {
+            padding: 1rem;
+            border-top: 1px solid var(--border);
+            background: var(--bg-panel);
+            display: grid;
+            gap: 10px;
+        }
+
+        .context-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
+
+        .context-grid input {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            outline: none;
+            font-size: 0.84rem;
+        }
+
+        .context-grid input:focus,
+        .composer textarea:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.12);
+        }
+
+        .composer {
+            display: flex;
+            gap: 10px;
+            align-items: flex-end;
+        }
+
+        .composer textarea {
+            flex: 1;
+            min-height: 52px;
+            max-height: 140px;
+            resize: vertical;
+            padding: 12px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            outline: none;
+            font: inherit;
+        }
+
+        .send-btn, .clear-btn {
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .send-btn {
+            background: var(--primary-dark);
+            color: white;
+            min-width: 96px;
+            padding: 12px 18px;
+        }
+
+        .send-btn:disabled {
+            opacity: 0.75;
+            cursor: wait;
+        }
+
+        .clear-btn {
+            background: #e2e8f0;
+            color: var(--text-main);
+            padding: 10px 12px;
+        }
+
+        .dashboard {
+            padding: 1.25rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            padding: 1rem;
+            box-shadow: var(--shadow);
+            min-width: 0;
+        }
+
+        .card-header {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: var(--text-muted);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 8px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+            gap: 1rem;
+        }
+
+        .steps {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            font-size: 0.72rem;
+        }
+
+        .step {
+            padding: 5px 9px;
+            background: #f1f5f9;
+            color: var(--secondary);
+            border-radius: 999px;
+            border: 1px solid transparent;
+        }
+
+        .step.active {
+            background: #e0f2fe;
+            color: var(--primary);
+            border-color: var(--primary);
+            font-weight: 700;
+        }
+
+        .step.done {
+            background: #dcfce7;
+            color: var(--success);
+        }
+
+        .json-box {
+            background: #27272a;
+            color: #d4d4d8;
+            padding: 10px;
+            border-radius: 8px;
+            font-family: var(--font-mono);
+            font-size: 0.76rem;
+            white-space: pre-wrap;
+            overflow-x: auto;
+            min-height: 90px;
+        }
+
+        .json-box.scrollable {
+            max-height: 420px;
+            overflow-y: auto;
+        }
+
+        .tier-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.82rem;
+            margin-bottom: 10px;
+        }
+
+        .tier-bar {
+            flex: 1;
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 999px;
+            overflow: hidden;
+        }
+
+        .tier-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary), #38bdf8);
+            width: 0%;
+            transition: width 0.35s ease;
+        }
+
+        .explain-box {
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 0.86rem;
+            color: #166534;
+            line-height: 1.5;
+        }
+
+        .log-box {
+            background: #0f172a;
+            color: #94a3b8;
+            font-family: var(--font-mono);
+            font-size: 0.74rem;
+            padding: 10px;
+            height: 150px;
+            overflow-y: auto;
+            border-radius: 8px;
+        }
+
+        .evidence-list {
+            display: grid;
+            gap: 10px;
+        }
+
+        .evidence-item {
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 10px;
+            background: #f8fafc;
+        }
+
+        .evidence-item strong {
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .evidence-item a {
+            color: var(--primary-dark);
+            text-decoration: none;
+        }
+
+        .summary-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .summary-pill {
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            background: #f8fafc;
+            padding: 6px 10px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .hidden { display: none !important; }
+
+        .loading {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border: 2px solid rgba(255, 255, 255, 0.8);
+            border-top-color: transparent;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 8px;
+            vertical-align: -2px;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        @media (max-width: 1100px) {
+            main {
+                grid-template-columns: 1fr;
+                grid-template-rows: minmax(380px, 48%) 1fr;
+            }
+
+            .chat-panel {
+                border-right: none;
+                border-bottom: 1px solid var(--border);
+            }
+        }
+
+        @media (max-width: 800px) {
+            .grid-2,
+            .context-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .composer {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .send-btn,
+            .clear-btn {
+                width: 100%;
+            }
+
+            header {
+                padding: 0.75rem 1rem;
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="brand"><div class="brand-dot"></div> Curalink AI MEdicalResearch Assistant</div>
+    <div class="header-meta">
+        <div id="systemStatus" class="status-pill">Connecting backend...</div>
+        <div id="sessionDisplay" class="status-pill">Session: --</div>
+    </div>
+</header>
+
+<main>
+    <section class="chat-panel">
+        <div class="chat-topbar">
+            <h1>Clinical Chat Console</h1>
+        </div>
+
+        <div class="chat-history" id="chatHistory">
+            <div class="message system">
+                <strong>System Ready.</strong><br>
+                I can keep track of your clinical context across turns and show the evidence trail for every response.
+                <div class="message-meta">
+                    <span class="mini-badge">Backend Chat</span>
+                    <span class="mini-badge">Evidence Trace</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="input-area">
+            <div class="context-grid">
+                <input type="text" id="diseaseInput" placeholder="Disease">
+                <input type="text" id="locationInput" placeholder="Location, e.g. Kenya, Turkana">
+            </div>
+
+            <form id="chatForm" class="composer">
+                <textarea id="userInput" placeholder="Ask a medical research question..." autocomplete="off"></textarea>
+                <button type="submit" class="send-btn" id="sendBtn">Analyze</button>
+            </form>
+
+            <button type="button" class="clear-btn" id="clearBtn">Clear Session</button>
+        </div>
+    </section>
+
+    <section class="dashboard">
+        <div class="grid-2">
+            <div class="card">
+                <div class="card-header">Top Evidence</div>
+                <div id="evidenceList" class="evidence-list"></div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span id="pipelineMode">Backend Grounding</span>
+                </div>
+                <div class="card-header" style="margin-top:4px">
+                    <span>Active Pipeline</span>
+                </div>
+                <div class="steps" id="pipelineSteps"></div>
+                <div class="card-header" style="margin-top:10px">
+                    <span>Session Summary</span>
+                    <span id="turnCount">0 turns</span>
+                </div>
+                <div class="summary-strip" id="summaryStrip"></div>
+                <div class="card-header" style="margin-top:10px">Retrieval & Ranking</div>
+                <div class="tier-row">
+                    <div style="width:84px">Publications</div>
+                    <div class="tier-bar"><div id="barT1" class="tier-fill"></div></div>
+                    <div id="labelT1">0</div>
+                </div>
+                <div class="tier-row">
+                    <div style="width:84px">Trials</div>
+                    <div class="tier-bar"><div id="barT2" class="tier-fill"></div></div>
+                    <div id="labelT2">0</div>
+                </div>
+                <div class="tier-row">
+                    <div style="width:84px">Ranked</div>
+                    <div class="tier-bar"><div id="barT3" class="tier-fill"></div></div>
+                    <div id="labelT3">0</div>
+                </div>
+                <div class="card-header" style="margin-top:10px">Final JSON</div>
+                <div id="jsonDisplay" class="json-box scrollable">{}</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">System Logs</div>
+            <div id="logBox" class="log-box"></div>
+        </div>
+    </section>
+</main>
+
+<script>
+    const API_BASE = window.__MEDIBOT_API_BASE__
+        || localStorage.getItem("MEDIBOT_API_BASE")
+        || (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+            ? "http://localhost:4000/api"
+            : "/api");
+    const STORAGE_KEY = "medibot-chat-session-v2";
+    const PIPELINE_STEPS = ["Query", "Intent", "Memory", "Retrieval", "Ranking", "Validation", "Answer"];
+
+    const STATE = {
+        sessionId: loadSessionId(),
+        turnCount: 0,
+        isProcessing: false,
+        lastResponse: null,
+        editingNode: null
+    };
+
+    const UI = {
+        status: document.getElementById("systemStatus"),
+        session: document.getElementById("sessionDisplay"),
+        form: document.getElementById("chatForm"),
+        input: document.getElementById("userInput"),
+        disease: document.getElementById("diseaseInput"),
+        location: document.getElementById("locationInput"),
+        history: document.getElementById("chatHistory"),
+        btn: document.getElementById("sendBtn"),
+        clearBtn: document.getElementById("clearBtn"),
+        steps: document.getElementById("pipelineSteps"),
+        mode: document.getElementById("pipelineMode"),
+        logs: document.getElementById("logBox"),
+        json: document.getElementById("jsonDisplay"),
+        evidence: document.getElementById("evidenceList"),
+        turnCount: document.getElementById("turnCount"),
+        summary: document.getElementById("summaryStrip"),
+        bars: [
+            document.getElementById("barT1"),
+            document.getElementById("barT2"),
+            document.getElementById("barT3")
+        ],
+        labels: [
+            document.getElementById("labelT1"),
+            document.getElementById("labelT2"),
+            document.getElementById("labelT3")
+        ]
+    };
+
+    function loadSessionId() {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        if (saved) return saved;
+        const sessionId = "MB-" + Math.random().toString(36).slice(2, 10).toUpperCase();
+        localStorage.setItem(STORAGE_KEY, sessionId);
+        return sessionId;
+    }
+
+    function resetSessionId() {
+        STATE.sessionId = "MB-" + Math.random().toString(36).slice(2, 10).toUpperCase();
+        localStorage.setItem(STORAGE_KEY, STATE.sessionId);
+    }
+
+    function wait(ms) {
+        return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+
+    function log(message, data) {
+        const time = new Date().toLocaleTimeString();
+        const line = document.createElement("div");
+        const serialized = data === undefined ? "" : " " + JSON.stringify(data);
+        line.innerHTML = `<span style="color:#64748b">[${time}]</span> <span style="color:#fbbf24">${message}</span>${serialized}`;
+        UI.logs.appendChild(line);
+        UI.logs.scrollTop = UI.logs.scrollHeight;
+    }
+
+    function logLlmSemanticDebug(payload) {
+        const evidence = Array.isArray(payload?.evidence) ? payload.evidence : [];
+        const docs = evidence
+            .map((item) => ({
+                id: item.id || "",
+                title: item.title || "",
+                tier: item.tier || "",
+                relevant: item?.llmSemantic?.relevant,
+                tier_suggestion: item?.llmSemantic?.tier_suggestion,
+                doc_type: item?.llmSemantic?.doc_type || "",
+                focus: item?.llmSemantic?.focus || ""
+            }))
+            .filter((item) => item.relevant !== undefined && item.relevant !== null);
+
+        if (!docs.length) {
+            log("LLM Semantic Debug", { available: false, reason: "no_semantic_fields_in_top_evidence" });
+            return;
+        }
+
+        log("LLM Semantic Debug", {
+            available: true,
+            documents: docs
+        });
+    }
+
+    function setPipelineStep(stepIndex) {
+        UI.steps.innerHTML = PIPELINE_STEPS.map((step, index) => {
+            let cls = "";
+            if (index < stepIndex) cls = "done";
+            if (index === stepIndex) cls = "active";
+            return `<div class="step ${cls}">${index + 1}. ${step}</div>`;
+        }).join("");
+    }
+
+    function setStatus(text, tone = "neutral") {
+        UI.status.textContent = text;
+        UI.status.style.color =
+            tone === "ok" ? "var(--success)" :
+            tone === "error" ? "var(--danger)" :
+            tone === "warn" ? "var(--warn)" :
+            "var(--text-muted)";
+    }
+
+    function syncHeader() {
+        UI.session.textContent = `Session: ${STATE.sessionId}`;
+        UI.turnCount.textContent = `${STATE.turnCount} turn${STATE.turnCount === 1 ? "" : "s"}`;
+    }
+
+    function setUserMessageContent(node, text) {
+        node.classList.remove("editing");
+        node.dataset.role = "user";
+        node.dataset.text = text;
+        node.innerHTML = `
+            <div>${escapeHtml(text).replace(/\n/g, "<br>")}</div>
+            <div class="message-actions">
+                <button type="button" class="edit-btn">Edit</button>
+            </div>
+        `;
+    }
+
+    function truncateConversationAfter(node) {
+        let current = node.nextElementSibling;
+        while (current) {
+            const next = current.nextElementSibling;
+            current.remove();
+            current = next;
+        }
+    }
+
+    function getUserQueriesUpTo(targetNode) {
+        const messages = Array.from(UI.history.querySelectorAll(".message.user"));
+        const upto = [];
+        for (const node of messages) {
+            const text = String(node.dataset.text || "").trim();
+            if (text) upto.push(text);
+            if (node === targetNode) break;
+        }
+        return upto;
+    }
+
+    async function postTurn(query, sessionId) {
+        const medicalContext = {
+            disease: UI.disease.value.trim(),
+            intent: query,
+            location: UI.location.value.trim()
+        };
+        const response = await fetch(`${API_BASE}/chat/turn`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                sessionId,
+                message: query,
+                medicalContext
+            })
+        });
+        if (!response.ok) {
+            throw new Error(`Turn request failed with status ${response.status}`);
+        }
+        return response.json();
+    }
+
+    async function replayFromEditedNode(node, editedText) {
+        const cleaned = String(editedText || "").trim();
+        if (!cleaned) return;
+        truncateConversationAfter(node);
+        setUserMessageContent(node, cleaned);
+
+        const queries = getUserQueriesUpTo(node);
+        if (!queries.length) return;
+
+        setBusy(true);
+        setStatus("Rebuilding conversation from edited turn...", "warn");
+        resetSessionId();
+        syncHeader();
+        STATE.turnCount = queries.length;
+        syncHeader();
+
+        try {
+            let payload = null;
+            for (const query of queries) {
+                payload = await postTurn(query, STATE.sessionId);
+            }
+            if (!payload) {
+                throw new Error("No backend response after replay.");
+            }
+            renderResponse(payload);
+            const citationSources = buildCitationSourcesFromPayload(payload);
+            addMessage("system", payload.answer || "No answer returned.", {
+                validation: payload.validation?.isValid ? "validated" : "blocked",
+                evidenceCount: payload.evidence?.length || 0,
+                answerBasis: payload.answerBasis || "evidence",
+                evidenceTitles: (payload.evidence || []).slice(0, 2).map((item) => item.id || item.title),
+                citationSources
+            });
+            setStatus("Edited turn replayed with a fresh response.", "ok");
+            log("Edited replay", {
+                sessionId: STATE.sessionId,
+                promptCount: queries.length,
+                editedPrompt: cleaned
+            });
+        } catch (error) {
+            setStatus("Edited replay failed.", "error");
+            log("Edited replay error", { message: error.message });
+            addMessage("system", `Edited send failed: ${error.message}`, {
+                validation: "error",
+                evidenceCount: 0
+            });
+        } finally {
+            STATE.editingNode = null;
+            setBusy(false);
+        }
+    }
+
+    function enterEditMode(node) {
+        if (!node || STATE.isProcessing) return;
+        if (STATE.editingNode && STATE.editingNode !== node) return;
+        STATE.editingNode = node;
+        node.classList.add("editing");
+        const original = String(node.dataset.text || "").trim();
+        node.innerHTML = `
+            <textarea class="edit-input">${escapeHtml(original)}</textarea>
+            <div class="message-actions">
+                <button type="button" class="edit-cancel">Cancel</button>
+                <button type="button" class="edit-send">Send</button>
+            </div>
+        `;
+        const input = node.querySelector(".edit-input");
+        if (input) input.focus();
+    }
+
+    function addMessage(role, text, meta = {}) {
+        const node = document.createElement("div");
+        node.className = `message ${role}`;
+        node.dataset.role = role;
+        node.dataset.text = String(text || "");
+
+        let extra = "";
+        if (role === "system" && meta) {
+            const evidenceBadge = meta.answerBasis === "general_knowledge"
+                ? `<span class="mini-badge">general knowledge</span>`
+                : (meta.evidenceCount !== undefined ? `<span class="mini-badge">${meta.evidenceCount} evidence</span>` : "");
+            const badges = [
+                meta.validation ? `<span class="mini-badge">${meta.validation}</span>` : "",
+                evidenceBadge
+            ].filter(Boolean).join("");
+
+            const evidenceLine = Array.isArray(meta.evidenceTitles) && meta.evidenceTitles.length
+                ? `<div class="message-evidence">Top evidence: ${meta.evidenceTitles.join(" | ")}</div>`
+                : "";
+
+            extra = `${badges ? `<div class="message-meta">${badges}</div>` : ""}${evidenceLine}`;
+        }
+
+        if (role === "user") {
+            setUserMessageContent(node, String(text || ""));
+        } else {
+            let assistantText = String(text || "");
+            const hasInlineCitations = /\[(PMID:)?[A-Za-z0-9_.-]+\]/.test(assistantText);
+            if (role === "system" && !hasInlineCitations && (meta.citationSources || []).length > 0) {
+                const relatedIds = (meta.citationSources || [])
+                    .map((source) => String(source?.id || "").trim())
+                    .filter(Boolean)
+                    .slice(0, 3);
+                if (relatedIds.length) {
+                    assistantText += `\nRelated sources: ${relatedIds.map((id) => `[${id}]`).join(" ")}`;
+                }
+            }
+            const messageHtml = role === "system"
+                ? formatAssistantMessageHtml(assistantText, meta.citationSources || [])
+                : escapeHtml(text).replace(/\n/g, "<br>");
+            node.innerHTML = `<div>${messageHtml}</div>${extra}`;
+        }
+        UI.history.appendChild(node);
+        UI.history.scrollTop = UI.history.scrollHeight;
+    }
+
+    function normalizeCitationId(value) {
+        return String(value || "").replace(/^\[|\]$/g, "").replace(/^PMID:/i, "").trim();
+    }
+
+    function buildCitationMap(citationSources = []) {
+        const map = new Map();
+        for (const source of citationSources || []) {
+            const rawId = String(source?.id || "").trim();
+            if (!rawId) continue;
+            map.set(normalizeCitationId(rawId), {
+                id: rawId,
+                url: source?.url || "",
+                title: source?.title || "",
+                year: source?.year || "",
+                platform: source?.platform || ""
+            });
+        }
+        return map;
+    }
+
+    function formatAssistantMessageText(text = "") {
+        let value = String(text || "").trim();
+        if (!value) return "";
+        value = value
+            .replace(/\s+(Evidence overview:|Study spotlight:|What this means:|Uncertainty:|Citations:|Related sources:)/g, "\n$1")
+            .replace(/Evidence overview:\s*-\s*/g, "Evidence overview:\n- ")
+            .replace(/\s-\s/g, "\n- ");
+
+        // Put study spotlight fields on their own bullet lines.
+        value = value
+            .replace(/Study spotlight:\s*/g, "Study spotlight:\n")
+            .replace(/Study spotlight:\n\s*ID:/g, "Study spotlight:\n- ID:")
+            .replace(/\s*\|\s*(Title:|Population:|Key finding:|Limitation:|Limitations:)/g, "\n- $1");
+
+        // If uncertainty contains multiple clauses separated by '|', render them as bullets.
+        value = value.replace(/Uncertainty:\s*([^\n]+)/g, (_match, body) => {
+            const parts = String(body || "")
+                .split("|")
+                .map((part) => part.trim())
+                .filter(Boolean);
+            if (parts.length <= 1) {
+                return parts.length ? `Uncertainty: ${parts[0]}` : "Uncertainty:";
+            }
+            return `Uncertainty:\n- ${parts.join("\n- ")}`;
+        });
+
+        return value;
+    }
+
+    function linkifySpotlightIds(html = "", citationMap = new Map()) {
+        return html.replace(/ID:\s*([A-Za-z0-9_.-]+)/g, (full, rawId) => {
+            const normalized = normalizeCitationId(rawId);
+            const source = citationMap.get(normalized);
+            if (!source?.url) return full;
+            return `ID: <a class="inline-citation" href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(rawId)}</a>`;
+        });
+    }
+
+    function formatAssistantMessageHtml(text = "", citationSources = []) {
+        const formatted = formatAssistantMessageText(text);
+        const citationMap = buildCitationMap(citationSources);
+        const citationPattern = /\[(PMID:)?([A-Za-z0-9_.-]+)\]/g;
+        let html = "";
+        let lastIndex = 0;
+        let match;
+
+        while ((match = citationPattern.exec(formatted)) !== null) {
+            const start = match.index;
+            const end = citationPattern.lastIndex;
+            const whole = match[0];
+            const normalized = normalizeCitationId(match[2]);
+            const source = citationMap.get(normalized);
+
+            html += escapeHtml(formatted.slice(lastIndex, start));
+            if (source?.url) {
+                html += `<a class="inline-citation" href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(whole)}</a>`;
+            } else {
+                html += escapeHtml(whole);
+            }
+            lastIndex = end;
+        }
+
+        html += escapeHtml(formatted.slice(lastIndex));
+        return linkifySpotlightIds(html, citationMap).replace(/\n/g, "<br>");
+    }
+
+    function buildCitationSourcesFromPayload(payload = {}) {
+        const fromMappings = (payload.sourceMapping || [])
+            .flatMap((mapping) => mapping.sources || [])
+            .filter((source) => source?.id);
+
+        const mappedIds = new Set(fromMappings.map((source) => normalizeCitationId(source.id)));
+        const fromEvidence = (payload.evidence || [])
+            .filter((item) => item?.id && item?.url)
+            .filter((item) => !mappedIds.has(normalizeCitationId(item.id)))
+            .map((item) => ({
+                id: item.id,
+                url: item.url,
+                title: item.title || "",
+                year: item.year || "",
+                platform: item.platform || item.source || ""
+            }));
+
+        return [...fromMappings, ...fromEvidence];
+    }
+
+    function escapeHtml(value) {
+        return String(value)
+            .replaceAll("&", "&amp;")
+            .replaceAll("<", "&lt;")
+            .replaceAll(">", "&gt;")
+            .replaceAll('"', "&quot;")
+            .replaceAll("'", "&#39;");
+    }
+
+    function renderJson(target, payload) {
+        target.textContent = JSON.stringify(payload, null, 2);
+    }
+
+    function renderSummary(response) {
+        const pills = [
+            `Disease: ${response.medicalContext?.disease || "n/a"}`,
+            `Intent: ${response.medicalContext?.intent || "n/a"}`,
+            `Location: ${response.medicalContext?.location || "Global"}`,
+            `Confidence: ${response.confidence || "low"}`,
+            `Grounded: ${response.conversation?.grounded ? "yes" : "no"}`
+        ];
+
+        UI.summary.innerHTML = pills.map((pill) => `<div class="summary-pill">${escapeHtml(pill)}</div>`).join("");
+    }
+
+    function renderBars(retrieval) {
+        const counts = [
+            retrieval?.publicationsCount || 0,
+            retrieval?.trialsCount || 0,
+            retrieval?.rankedCount || 0
+        ];
+
+        const max = Math.max(...counts, 1);
+        counts.forEach((count, index) => {
+            UI.bars[index].style.width = `${Math.max((count / max) * 100, count > 0 ? 20 : 0)}%`;
+            UI.labels[index].textContent = String(count);
+        });
+    }
+
+    function renderEvidence(response) {
+        const evidence = response.evidence || [];
+        if (!evidence.length) {
+            UI.evidence.innerHTML = `<div class="evidence-item"><strong>No evidence</strong><div>No external evidence returned for this turn.</div></div>`;
+            return;
+        }
+
+        UI.evidence.innerHTML = evidence.slice(0, 5).map((item) => `
+            <div class="evidence-item">
+                <strong>${escapeHtml(item.title || item.id)}</strong>
+                <div>${escapeHtml(item.source || "source")} | ${escapeHtml(String(item.year || "n/a"))} | score ${escapeHtml(String(item.score ?? "n/a"))}</div>
+                <div style="margin-top:6px"><strong>Authors:</strong> ${escapeHtml((item.authors || []).length ? item.authors.join(", ") : "Authors not available")}</div>
+                <div style="margin-top:6px">${escapeHtml(item.snippet || "No snippet available.")}</div>
+                ${item.url ? `<div style="margin-top:6px"><a href="${item.url}" target="_blank" rel="noopener noreferrer">Open source</a></div>` : ""}
+            </div>
+        `).join("");
+    }
+
+    function renderResponse(response) {
+        STATE.lastResponse = response;
+        renderJson(UI.json, response);
+        renderSummary(response);
+        renderBars(response.retrieval || {});
+        renderEvidence(response);
+    }
+
+    function setBusy(isBusy) {
+        STATE.isProcessing = isBusy;
+        UI.btn.disabled = isBusy;
+        UI.btn.innerHTML = isBusy ? '<span class="loading"></span>Processing' : "Analyze";
+    }
+
+    async function checkHealth() {
+        try {
+            const response = await fetch(`${API_BASE}/health`);
+            if (!response.ok) throw new Error("Health check failed");
+            const payload = await response.json();
+            setStatus(`System: ONLINE (${payload.service})`, "ok");
+            log("Backend", payload);
+        } catch (error) {
+            setStatus("Backend offline. Start the Express API on port 4000.", "error");
+            log("Backend Error", { message: error.message });
+        }
+    }
+
+    async function postSse(url, payload, onEvent) {
+        const response = await fetch(url, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Accept": "text/event-stream"
+            },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok || !response.body) {
+            throw new Error(`Streaming request failed with status ${response.status}`);
+        }
+
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder("utf-8");
+        let buffer = "";
+
+        const emit = (chunk) => {
+            const lines = chunk.split("\n");
+            let event = "message";
+            let data = "";
+
+            for (const line of lines) {
+                if (line.startsWith("event:")) {
+                    event = line.slice(6).trim();
+                } else if (line.startsWith("data:")) {
+                    data += line.slice(5).trim();
+                }
+            }
+
+            if (!data) return;
+
+            let parsed = data;
+            try {
+                parsed = JSON.parse(data);
+            } catch (_error) {
+                parsed = data;
+            }
+            onEvent(event, parsed);
+        };
+
+        while (true) {
+            const { value, done } = await reader.read();
+            if (done) break;
+            buffer += decoder.decode(value, { stream: true });
+
+            let sep = buffer.indexOf("\n\n");
+            while (sep !== -1) {
+                const raw = buffer.slice(0, sep).trim();
+                buffer = buffer.slice(sep + 2);
+                if (raw) emit(raw);
+                sep = buffer.indexOf("\n\n");
+            }
+        }
+
+        if (buffer.trim()) {
+            emit(buffer.trim());
+        }
+    }
+
+    async function runWorkflow(query) {
+        if (STATE.isProcessing) return;
+
+        const medicalContext = {
+            disease: UI.disease.value.trim(),
+            intent: query,
+            location: UI.location.value.trim()
+        };
+
+        STATE.turnCount += 1;
+        syncHeader();
+        addMessage("user", query);
+        UI.input.value = "";
+        setBusy(true);
+
+        try {
+            setPipelineStep(0);
+            setStatus("Parsing user query...", "warn");
+            log("Outgoing turn", { sessionId: STATE.sessionId, query, medicalContext });
+            await wait(120);
+
+            setPipelineStep(1);
+            setPipelineStep(2);
+            await wait(100);
+
+            let payload = null;
+            await postSse(`${API_BASE}/chat/turn/stream`, {
+                sessionId: STATE.sessionId,
+                message: query,
+                medicalContext
+            }, (event, data) => {
+                if (event === "retrieval_started") {
+                    setPipelineStep(3);
+                    log("Stream retrieval_started", data);
+                    return;
+                }
+                if (event === "ranking_done") {
+                    setPipelineStep(4);
+                    log("Stream ranking_done", data);
+                    return;
+                }
+                if (event === "synthesis_started") {
+                    setPipelineStep(5);
+                    log("Stream synthesis_started", data);
+                    return;
+                }
+                if (event === "citations_resolved") {
+                    log("Stream citations_resolved", data);
+                    return;
+                }
+                if (event === "error") {
+                    throw new Error(data?.message || "Streaming backend error");
+                }
+                if (event === "final_answer") {
+                    payload = data;
+                    return;
+                }
+            });
+
+            if (!payload) {
+                throw new Error("No final_answer event returned from stream.");
+            }
+
+            log("Backend response", {
+                confidence: payload.confidence,
+                evidenceCount: payload.evidence?.length || 0,
+                retrieval: payload.retrieval
+            });
+            if (payload.retrieval?.intentRouting) {
+                log("Intent Routing", payload.retrieval.intentRouting);
+            } else {
+                log("Intent Routing", { available: false, reason: "not_returned" });
+            }
+
+            const queryPlan = payload.retrieval?.queryPlan;
+            if (queryPlan) {
+                log("Query Plan", {
+                    original_query: queryPlan.originalQuery || "",
+                    expanded_queries: queryPlan.expandedQueries || [],
+                    heuristic_fallbacks: queryPlan.heuristicFallbacks || [],
+                    final_queries: queryPlan.finalQueries || []
+                });
+            } else {
+                log("Query Plan", { available: false, reason: "not_returned" });
+            }
+            const attachment = payload.retrieval?.followup?.attachment;
+            if (attachment) {
+                log("Intent Attachment", attachment);
+            }
+            logLlmSemanticDebug(payload);
+
+            STATE.sessionId = payload.sessionId || STATE.sessionId;
+            localStorage.setItem(STORAGE_KEY, STATE.sessionId);
+            syncHeader();
+
+            renderResponse(payload);
+
+            setPipelineStep(6);
+            const citationSources = buildCitationSourcesFromPayload(payload);
+            addMessage("system", payload.answer || "No answer returned.", {
+                validation: payload.validation?.isValid ? "validated" : "blocked",
+                evidenceCount: payload.evidence?.length || 0,
+                answerBasis: payload.answerBasis || "evidence",
+                evidenceTitles: (payload.evidence || []).slice(0, 2).map((item) => item.id || item.title),
+                citationSources
+            });
+
+            setStatus("Response validated and dashboard updated.", "ok");
+        } catch (error) {
+            STATE.turnCount = Math.max(STATE.turnCount - 1, 0);
+            syncHeader();
+            setStatus("Request failed. Backend response was not available.", "error");
+            log("Workflow Error", { message: error.message });
+            addMessage("system", `Request failed: ${error.message}`, {
+                confidence: "low",
+                validation: "error",
+                evidenceCount: 0
+            });
+        } finally {
+            setBusy(false);
+        }
+    }
+
+    function clearSession() {
+        resetSessionId();
+        STATE.turnCount = 0;
+        STATE.lastResponse = null;
+        STATE.editingNode = null;
+        UI.history.innerHTML = "";
+        renderJson(UI.json, {});
+        UI.summary.innerHTML = "";
+        UI.evidence.innerHTML = "";
+        UI.bars.forEach((bar) => { bar.style.width = "0%"; });
+        UI.labels.forEach((label) => { label.textContent = "0"; });
+        setPipelineStep(-1);
+        syncHeader();
+        setStatus("New session created.", "ok");
+        log("Session", { sessionId: STATE.sessionId, reset: true });
+    }
+
+    window.addEventListener("load", () => {
+        syncHeader();
+        setPipelineStep(-1);
+        checkHealth();
+
+        UI.history.addEventListener("click", (event) => {
+            const target = event.target;
+            if (!(target instanceof HTMLElement)) return;
+
+            if (target.classList.contains("edit-btn")) {
+                const messageNode = target.closest(".message.user");
+                if (messageNode) enterEditMode(messageNode);
+                return;
+            }
+
+            if (target.classList.contains("edit-cancel")) {
+                const messageNode = target.closest(".message.user");
+                if (!messageNode) return;
+                const original = String(messageNode.dataset.text || "").trim();
+                setUserMessageContent(messageNode, original);
+                STATE.editingNode = null;
+                return;
+            }
+
+            if (target.classList.contains("edit-send")) {
+                const messageNode = target.closest(".message.user");
+                if (!messageNode) return;
+                const input = messageNode.querySelector(".edit-input");
+                const nextText = input ? input.value : messageNode.dataset.text || "";
+                replayFromEditedNode(messageNode, nextText);
+            }
+        });
+
+        UI.form.addEventListener("submit", (event) => {
+            event.preventDefault();
+            const query = UI.input.value.trim();
+            if (query) {
+                runWorkflow(query);
+            }
+        });
+
+        UI.clearBtn.addEventListener("click", clearSession);
+        log("System", { initialized: true, sessionId: STATE.sessionId });
+    });
+</script>
+</body>
+</html>

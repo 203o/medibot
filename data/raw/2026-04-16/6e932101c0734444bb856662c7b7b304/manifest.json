@@ -1,0 +1,75 @@
+{
+  "run_id": "6e932101c0734444bb856662c7b7b304",
+  "stored_at": "2026-04-16T13:54:54+00:00",
+  "query": "hiv studie showing caouses increase africa",
+  "query_fallbacks": [
+    "hiv studie showing caouses increase africa",
+    "Epidemiological studies on HIV prevalence among African children",
+    "Risk factors contributing to increased HIV incidence in Africa",
+    "Systematic review of HIV transmission dynamics in African pediatric populations",
+    "Identifying causes of rising HIV rates in African child populations",
+    "hiv studie showing caouses increase",
+    "hiv studie showing caouses treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv studie showing caouses increase africa",
+    "hiv studie showing caouses increase",
+    "hiv studie showing caouses treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "Epidemiological studies on HIV prevalence among African children",
+    "Risk factors contributing to increased HIV incidence in Africa",
+    "Systematic review of HIV transmission dynamics in African pediatric populations",
+    "Identifying causes of rising HIV rates in African child populations"
+  ],
+  "keywords": [
+    "hiv",
+    "studie",
+    "showing",
+    "caouses",
+    "increase",
+    "africa",
+    "among",
+    "chilren"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 66,
+    "indexed_chunks": 92
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Epidemiological studies on HIV prevalence among African children",
+      "Risk factors contributing to increased HIV incidence in Africa",
+      "Systematic review of HIV transmission dynamics in African pediatric populations",
+      "Identifying causes of rising HIV rates in African child populations"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6e932101c0734444bb856662c7b7b304\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6e932101c0734444bb856662c7b7b304\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6e932101c0734444bb856662c7b7b304\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\6e932101c0734444bb856662c7b7b304\\combined.records.json"
+  }
+}

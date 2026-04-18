@@ -1,0 +1,65 @@
+{
+  "run_id": "34d18bc55e04454686b58c8729f45cb6",
+  "stored_at": "2026-04-18T15:50:16+00:00",
+  "query": "preventive measures preventive measures",
+  "query_fallbacks": [
+    "preventive measures preventive measures",
+    "preventive measures",
+    "preventive interventions",
+    "preventive strategies",
+    "preventive approaches",
+    "preventive measures preventive measures treatment"
+  ],
+  "heuristic_fallbacks": [
+    "preventive measures preventive measures",
+    "preventive measures preventive measures treatment",
+    "preventive measures"
+  ],
+  "expanded_queries": [
+    "preventive measures",
+    "preventive interventions",
+    "preventive strategies",
+    "preventive approaches"
+  ],
+  "keywords": [
+    "preventive measures",
+    "preventive",
+    "measures"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 29,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "preventive measures",
+      "preventive interventions",
+      "preventive strategies",
+      "preventive approaches"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\34d18bc55e04454686b58c8729f45cb6\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\34d18bc55e04454686b58c8729f45cb6\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\34d18bc55e04454686b58c8729f45cb6\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\34d18bc55e04454686b58c8729f45cb6\\combined.records.json"
+  }
+}

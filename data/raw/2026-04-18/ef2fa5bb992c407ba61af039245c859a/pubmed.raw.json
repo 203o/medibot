@@ -1,0 +1,97 @@
+{
+  "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+  "selected_query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+  "attempted_queries": [
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+      "count": 1
+    }
+  ],
+  "id_list": [
+    "33158747"
+  ],
+  "records": [
+    {
+      "pmid": "33158747",
+      "title": "Parkinson's disease advanced therapies - A systematic review: More unanswered questions than guidance.",
+      "journal": "Parkinsonism & related disorders",
+      "abstract_sections": [
+        "In advanced Parkinson's disease (PD), therapeutic interventions include device-aided therapies such as continuous subcutaneous apomorphine infusion (CSAI), levodopa-carbidopa intestinal gel (LCIG) infusion, and deep brain stimulation (DBS). We reappraised the evidence guiding the decision of appropriate device-aided therapies in advanced PD, and systematically reviewed the literature (including ongoing clinical trials) comparing CSAI, LCIG, DBS in terms of efficacy and cost-effectiveness, with particular consideration to possible conflicts of interests. Of 14,980 documents screened, sixteen were included (4 and 13 studies examining efficacy and cost-effectiveness, respectively). LCIG and DBS showed higher efficacy compared to best medical therapy (BMT). DBS was more expensive than BMT and LCIG. Lifetime costs of CSAI were lower of those of DBS, and DBS lifetime costs were lower than those of LCIG. The majority of studies (11 out of 16) showed direct or indirect sponsorship from pharmaceutical or device companies. Only one ongoing clinical trial comparing LCIG with DBS was found. Device-aided therapies address unmet needs in advanced PD. LCIG and DBS are superior to BMT in head-to-head studies; however, initial and lifetime costs should be considered when choosing those therapies. Guidelines to assist clinicians and patients to choose device-aided therapies, free from conflict of interests, are required."
+      ],
+      "abstract": "In advanced Parkinson's disease (PD), therapeutic interventions include device-aided therapies such as continuous subcutaneous apomorphine infusion (CSAI), levodopa-carbidopa intestinal gel (LCIG) infusion, and deep brain stimulation (DBS). We reappraised the evidence guiding the decision of appropriate device-aided therapies in advanced PD, and systematically reviewed the literature (including ongoing clinical trials) comparing CSAI, LCIG, DBS in terms of efficacy and cost-effectiveness, with particular consideration to possible conflicts of interests. Of 14,980 documents screened, sixteen were included (4 and 13 studies examining efficacy and cost-effectiveness, respectively). LCIG and DBS showed higher efficacy compared to best medical therapy (BMT). DBS was more expensive than BMT and LCIG. Lifetime costs of CSAI were lower of those of DBS, and DBS lifetime costs were lower than those of LCIG. The majority of studies (11 out of 16) showed direct or indirect sponsorship from pharmaceutical or device companies. Only one ongoing clinical trial comparing LCIG with DBS was found. Device-aided therapies address unmet needs in advanced PD. LCIG and DBS are superior to BMT in head-to-head studies; however, initial and lifetime costs should be considered when choosing those therapies. Guidelines to assist clinicians and patients to choose device-aided therapies, free from conflict of interests, are required.",
+      "evidence_sentences": [
+        "In advanced Parkinson's disease (PD), therapeutic interventions include device-aided therapies such as continuous subcutaneous apomorphine infusion (CSAI), levodopa-carbidopa intestinal gel (LCIG) infusion, and deep brain stimulation (DBS).",
+        "We reappraised the evidence guiding the decision of appropriate device-aided therapies in advanced PD, and systematically reviewed the literature (including ongoing clinical trials) comparing CSAI, LCIG, DBS in terms of efficacy and cost-effectiveness, with particular consideration to possible conflicts of interests.",
+        "Only one ongoing clinical trial comparing LCIG with DBS was found."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "parkinson’s disease",
+        "parkinson",
+        "disease",
+        "stage",
+        "levodopa",
+        "wearing",
+        "off",
+        "progression",
+        "relevant",
+        "research",
+        "clinical",
+        "trials",
+        "usa"
+      ],
+      "authors": [
+        "Luca Marsili",
+        "Matteo Bologna",
+        "Janis M Miyasaki",
+        "Carlo Colosimo"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33158747/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "1",
+      "retmax": "1",
+      "retstart": "0",
+      "idlist": [
+        "33158747"
+      ],
+      "translationset": [
+        {
+          "from": "parkinson's disease",
+          "to": "\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR (\"parkinson's\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson's disease\"[All Fields]"
+        },
+        {
+          "from": "parkinson disease",
+          "to": "\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]"
+        },
+        {
+          "from": "stage",
+          "to": "\"stage\"[All Fields] OR \"staged\"[All Fields] OR \"stages\"[All Fields] OR \"staging\"[All Fields] OR \"stagings\"[All Fields]"
+        },
+        {
+          "from": "levodopa",
+          "to": "\"levodopa\"[Supplementary Concept] OR \"levodopa\"[All Fields] OR \"levodopa\"[MeSH Terms] OR \"levodopa's\"[All Fields]"
+        },
+        {
+          "from": "systematic review",
+          "to": "\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]"
+        },
+        {
+          "from": "clinical trial",
+          "to": "\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR (\"parkinson s\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson s disease\"[All Fields]) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]) AND (\"stage\"[All Fields] OR \"staged\"[All Fields] OR \"stages\"[All Fields] OR \"staging\"[All Fields] OR \"stagings\"[All Fields]) AND (\"levodopa\"[Supplementary Concept] OR \"levodopa\"[All Fields] OR \"levodopa\"[MeSH Terms] OR \"levodopa s\"[All Fields]) AND (\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]) AND (\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields]) AND \"USA\"[All Fields]"
+    }
+  }
+}

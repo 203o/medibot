@@ -1,0 +1,71 @@
+{
+  "run_id": "55614dac517a4cd0a6ea2433bc2b328d",
+  "stored_at": "2026-04-16T13:51:29+00:00",
+  "query": "hiv mention evidence africa",
+  "query_fallbacks": [
+    "hiv mention evidence africa",
+    "hiv prevalence africa epidemiology",
+    "hiv evidence synthesis africa",
+    "africa hiv research findings",
+    "hiv epidemiological studies africa",
+    "hiv mention evidence",
+    "hiv mention evidence treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv mention evidence africa",
+    "hiv mention evidence",
+    "hiv mention evidence treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "hiv prevalence africa epidemiology",
+    "hiv evidence synthesis africa",
+    "africa hiv research findings",
+    "hiv epidemiological studies africa"
+  ],
+  "keywords": [
+    "hiv",
+    "mention",
+    "evidence",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 14,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 128
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "hiv prevalence africa epidemiology",
+      "hiv evidence synthesis africa",
+      "africa hiv research findings",
+      "hiv epidemiological studies africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\55614dac517a4cd0a6ea2433bc2b328d\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\55614dac517a4cd0a6ea2433bc2b328d\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\55614dac517a4cd0a6ea2433bc2b328d\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\55614dac517a4cd0a6ea2433bc2b328d\\combined.records.json"
+  }
+}

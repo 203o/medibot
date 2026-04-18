@@ -1,0 +1,1703 @@
+{
+  "query": "parkinson's disease parkinson disease children usa USA",
+  "selected_query": "parkinson's disease parkinson disease children usa USA",
+  "attempted_queries": [
+    {
+      "query": "parkinson's disease parkinson disease children usa USA",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "31701892",
+    "36100231",
+    "34624796",
+    "34236893",
+    "37922901",
+    "33526323",
+    "39303715",
+    "22275317",
+    "39952239",
+    "33168089",
+    "38614108",
+    "29140481",
+    "34417870",
+    "36881989",
+    "27252382",
+    "32691910",
+    "31656104",
+    "38613632",
+    "36108674",
+    "37947998",
+    "34071875",
+    "32966778",
+    "40056900",
+    "32444562",
+    "27677316",
+    "32165138",
+    "29936902",
+    "38946200",
+    "33589841",
+    "37028431"
+  ],
+  "records": [
+    {
+      "pmid": "31701892",
+      "title": "Identification of novel risk loci, causal insights, and heritable risk for Parkinson's disease: a meta-analysis of genome-wide association studies.",
+      "journal": "The Lancet. Neurology",
+      "abstract_sections": [
+        "Genome-wide association studies (GWAS) in Parkinson's disease have increased the scope of biological knowledge about the disease over the past decade. We aimed to use the largest aggregate of GWAS data to identify novel risk loci and gain further insight into the causes of Parkinson's disease.",
+        "We did a meta-analysis of 17 datasets from Parkinson's disease GWAS available from European ancestry samples to nominate novel loci for disease risk. These datasets incorporated all available data. We then used these data to estimate heritable risk and develop predictive models of this heritability. We also used large gene expression and methylation resources to examine possible functional consequences as well as tissue, cell type, and biological pathway enrichments for the identified risk factors. Additionally, we examined shared genetic risk between Parkinson's disease and other phenotypes of interest via genetic correlations followed by Mendelian randomisation.",
+        "Between Oct 1, 2017, and Aug 9, 2018, we analysed 7·8 million single nucleotide polymorphisms in 37 688 cases, 18 618 UK Biobank proxy-cases (ie, individuals who do not have Parkinson's disease but have a first degree relative that does), and 1·4 million controls. We identified 90 independent genome-wide significant risk signals across 78 genomic regions, including 38 novel independent risk signals in 37 loci. These 90 variants explained 16-36% of the heritable risk of Parkinson's disease depending on prevalence. Integrating methylation and expression data within a Mendelian randomisation framework identified putatively associated genes at 70 risk signals underlying GWAS loci for follow-up functional studies. Tissue-specific expression enrichment analyses suggested Parkinson's disease loci were heavily brain-enriched, with specific neuronal cell types being implicated from single cell data. We found significant genetic correlations with brain volumes (false discovery rate-adjusted p=0·0035 for intracranial volume, p=0·024 for putamen volume), smoking status (p=0·024), and educational attainment (p=0·038). Mendelian randomisation between cognitive performance and Parkinson's disease risk showed a robust association (p=8·00 × 10",
+        "These data provide the most comprehensive survey of genetic risk within Parkinson's disease to date, to the best of our knowledge, by revealing many additional Parkinson's disease risk loci, providing a biological context for these risk factors, and showing that a considerable genetic component of this disease remains unidentified. These associations derived from European ancestry datasets will need to be followed-up with more diverse data.",
+        "The National Institute on Aging at the National Institutes of Health (USA), The Michael J Fox Foundation, and The Parkinson's Foundation (see appendix for full list of funding sources)."
+      ],
+      "abstract": "Genome-wide association studies (GWAS) in Parkinson's disease have increased the scope of biological knowledge about the disease over the past decade. We aimed to use the largest aggregate of GWAS data to identify novel risk loci and gain further insight into the causes of Parkinson's disease.\n\nWe did a meta-analysis of 17 datasets from Parkinson's disease GWAS available from European ancestry samples to nominate novel loci for disease risk. These datasets incorporated all available data. We then used these data to estimate heritable risk and develop predictive models of this heritability. We also used large gene expression and methylation resources to examine possible functional consequences as well as tissue, cell type, and biological pathway enrichments for the identified risk factors. Additionally, we examined shared genetic risk between Parkinson's disease and other phenotypes of interest via genetic correlations followed by Mendelian randomisation.\n\nBetween Oct 1, 2017, and Aug 9, 2018, we analysed 7·8 million single nucleotide polymorphisms in 37 688 cases, 18 618 UK Biobank proxy-cases (ie, individuals who do not have Parkinson's disease but have a first degree relative that does), and 1·4 million controls. We identified 90 independent genome-wide significant risk signals across 78 genomic regions, including 38 novel independent risk signals in 37 loci. These 90 variants explained 16-36% of the heritable risk of Parkinson's disease depending on prevalence. Integrating methylation and expression data within a Mendelian randomisation framework identified putatively associated genes at 70 risk signals underlying GWAS loci for follow-up functional studies. Tissue-specific expression enrichment analyses suggested Parkinson's disease loci were heavily brain-enriched, with specific neuronal cell types being implicated from single cell data. We found significant genetic correlations with brain volumes (false discovery rate-adjusted p=0·0035 for intracranial volume, p=0·024 for putamen volume), smoking status (p=0·024), and educational attainment (p=0·038). Mendelian randomisation between cognitive performance and Parkinson's disease risk showed a robust association (p=8·00 × 10\n\nThese data provide the most comprehensive survey of genetic risk within Parkinson's disease to date, to the best of our knowledge, by revealing many additional Parkinson's disease risk loci, providing a biological context for these risk factors, and showing that a considerable genetic component of this disease remains unidentified. These associations derived from European ancestry datasets will need to be followed-up with more diverse data.\n\nThe National Institute on Aging at the National Institutes of Health (USA), The Michael J Fox Foundation, and The Parkinson's Foundation (see appendix for full list of funding sources).",
+      "evidence_sentences": [
+        "Mendelian randomisation between cognitive performance and Parkinson's disease risk showed a robust association (p=8·00 × 10 These data provide the most comprehensive survey of genetic risk within Parkinson's disease to date, to the best of our knowledge, by revealing many additional Parkinson's disease risk loci, providing a biological context for these risk factors, and showing that a considerable genetic component of this disease remains unidentified.",
+        "We aimed to use the largest aggregate of GWAS data to identify novel risk loci and gain further insight into the causes of Parkinson's disease.",
+        "Between Oct 1, 2017, and Aug 9, 2018, we analysed 7·8 million single nucleotide polymorphisms in 37 688 cases, 18 618 UK Biobank proxy-cases (ie, individuals who do not have Parkinson's disease but have a first degree relative that does), and 1·4 million controls."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Mike A Nalls",
+        "Cornelis Blauwendraat",
+        "Costanza L Vallerga",
+        "Karl Heilbron",
+        "Sara Bandres-Ciga",
+        "Diana Chang",
+        "Manuela Tan",
+        "Demis A Kia",
+        "Alastair J Noyce",
+        "Angli Xue",
+        "Jose Bras",
+        "Emily Young",
+        "Rainer von Coelln",
+        "Javier Simón-Sánchez",
+        "Claudia Schulte",
+        "Manu Sharma",
+        "Lynne Krohn",
+        "Lasse Pihlstrøm",
+        "Ari Siitonen",
+        "Hirotaka Iwaki",
+        "Hampton Leonard",
+        "Faraz Faghri",
+        "J Raphael Gibbs",
+        "Dena G Hernandez",
+        "Sonja W Scholz",
+        "Juan A Botia",
+        "Maria Martinez",
+        "Jean-Christophe Corvol",
+        "Suzanne Lesage",
+        "Joseph Jankovic",
+        "Lisa M Shulman",
+        "Margaret Sutherland",
+        "Pentti Tienari",
+        "Kari Majamaa",
+        "Mathias Toft",
+        "Ole A Andreassen",
+        "Tushar Bangale",
+        "Alexis Brice",
+        "Jian Yang",
+        "Ziv Gan-Or",
+        "Thomas Gasser",
+        "Peter Heutink",
+        "Joshua M Shulman",
+        "Nicholas W Wood",
+        "David A Hinds",
+        "John A Hardy",
+        "Huw R Morris",
+        "Jacob Gratten",
+        "Peter M Visscher",
+        "Robert R Graham",
+        "Andrew B Singleton",
+        "23andMe Research Team",
+        "System Genomics of Parkinson's Disease Consortium",
+        "International Parkinson's Disease Genomics Consortium"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31701892/"
+    },
+    {
+      "pmid": "36100231",
+      "title": "Genetics and Pathogenesis of Parkinson's Syndrome.",
+      "journal": "Annual review of pathology",
+      "abstract_sections": [
+        "Parkinson's disease (PD) is clinically, pathologically, and genetically heterogeneous, resisting distillation to a single, cohesive disorder. Instead, each affected individual develops a virtually unique form of Parkinson's syndrome. Clinical manifestations consist of variable motor and nonmotor features, and myriad overlaps are recognized with other neurodegenerative conditions. Although most commonly characterized by alpha-synuclein protein pathology throughout the central and peripheral nervous systems, the distribution varies and other pathologies commonly modify PD or trigger similar manifestations. Nearly all PD is genetically influenced. More than 100 genes or genetic loci have been identified, and most cases likely arise from interactions among many common and rare genetic variants. Despite its complex architecture, insights from experimental genetic dissection coalesce to reveal unifying biological themes, including synaptic, lysosomal, mitochondrial, andimmune-mediated mechanisms of pathogenesis. This emerging understanding of Parkinson's syndrome, coupled with advances in biomarkers and targeted therapies, presages successful precision medicine strategies."
+      ],
+      "abstract": "Parkinson's disease (PD) is clinically, pathologically, and genetically heterogeneous, resisting distillation to a single, cohesive disorder. Instead, each affected individual develops a virtually unique form of Parkinson's syndrome. Clinical manifestations consist of variable motor and nonmotor features, and myriad overlaps are recognized with other neurodegenerative conditions. Although most commonly characterized by alpha-synuclein protein pathology throughout the central and peripheral nervous systems, the distribution varies and other pathologies commonly modify PD or trigger similar manifestations. Nearly all PD is genetically influenced. More than 100 genes or genetic loci have been identified, and most cases likely arise from interactions among many common and rare genetic variants. Despite its complex architecture, insights from experimental genetic dissection coalesce to reveal unifying biological themes, including synaptic, lysosomal, mitochondrial, andimmune-mediated mechanisms of pathogenesis. This emerging understanding of Parkinson's syndrome, coupled with advances in biomarkers and targeted therapies, presages successful precision medicine strategies.",
+      "evidence_sentences": [
+        "Parkinson's disease (PD) is clinically, pathologically, and genetically heterogeneous, resisting distillation to a single, cohesive disorder.",
+        "This emerging understanding of Parkinson's syndrome, coupled with advances in biomarkers and targeted therapies, presages successful precision medicine strategies.",
+        "Instead, each affected individual develops a virtually unique form of Parkinson's syndrome."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Hui Ye",
+        "Laurie A Robak",
+        "Meigen Yu",
+        "Matthew Cykowski",
+        "Joshua M Shulman"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36100231/"
+    },
+    {
+      "pmid": "34624796",
+      "title": "Consensus on the treatment of dysphagia in Parkinson's disease.",
+      "journal": "Journal of the neurological sciences",
+      "abstract_sections": [
+        "Dysphagia is common in Parkinson's disease (PD). The effects of antiparkinsonian drugs on dysphagia are controversial. Several treatments for dysphagia are available but there is no consensus on their efficacy in PD.",
+        "To conduct a systematic review of the literature and to define consensus statements on the treatment of dysphagia in PD and related nutritional management.",
+        "A multinational group of experts in the field of neurogenic dysphagia and/or Parkinson's disease conducted a systematic evaluation of the literature and reported the results according to PRISMA guidelines. The evidence from the retrieved studies was analyzed and discussed in a consensus conference organized in Pavia, Italy, and the consensus statements were drafted. The final version of statements was subsequently achieved by e-mail consensus.",
+        "The literature review retrieved 64 papers on treatment and nutrition of patients with PD and dysphagia, mainly of Class IV quality. Based on the literature and expert opinion in cases where the evidence was limited or lacking, 26 statements were developed.",
+        "The statements developed by the Consensus panel provide a guidance for a multi-disciplinary treatment of dysphagia in patients with PD, involving neurologists, otorhinolaryngologists, gastroenterologists, phoniatricians, speech-language pathologists, dieticians, and clinical nutritionists."
+      ],
+      "abstract": "Dysphagia is common in Parkinson's disease (PD). The effects of antiparkinsonian drugs on dysphagia are controversial. Several treatments for dysphagia are available but there is no consensus on their efficacy in PD.\n\nTo conduct a systematic review of the literature and to define consensus statements on the treatment of dysphagia in PD and related nutritional management.\n\nA multinational group of experts in the field of neurogenic dysphagia and/or Parkinson's disease conducted a systematic evaluation of the literature and reported the results according to PRISMA guidelines. The evidence from the retrieved studies was analyzed and discussed in a consensus conference organized in Pavia, Italy, and the consensus statements were drafted. The final version of statements was subsequently achieved by e-mail consensus.\n\nThe literature review retrieved 64 papers on treatment and nutrition of patients with PD and dysphagia, mainly of Class IV quality. Based on the literature and expert opinion in cases where the evidence was limited or lacking, 26 statements were developed.\n\nThe statements developed by the Consensus panel provide a guidance for a multi-disciplinary treatment of dysphagia in patients with PD, involving neurologists, otorhinolaryngologists, gastroenterologists, phoniatricians, speech-language pathologists, dieticians, and clinical nutritionists.",
+      "evidence_sentences": [
+        "A multinational group of experts in the field of neurogenic dysphagia and/or Parkinson's disease conducted a systematic evaluation of the literature and reported the results according to PRISMA guidelines.",
+        "Dysphagia is common in Parkinson's disease (PD).",
+        "The literature review retrieved 64 papers on treatment and nutrition of patients with PD and dysphagia, mainly of Class IV quality."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Consensus Statement"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Antonio Schindler",
+        "Nicole Pizzorni",
+        "Emanuele Cereda",
+        "Giuseppe Cosentino",
+        "Micol Avenali",
+        "Cristina Montomoli",
+        "Giovanni Abbruzzese",
+        "Angelo Antonini",
+        "Filippo Barbiera",
+        "Marco Benazzo",
+        "Eduardo Benarroch",
+        "Giulia Bertino",
+        "Pere Clavè",
+        "Pietro Cortelli",
+        "Roberto Eleopra",
+        "Chiara Ferrari",
+        "Shaheen Hamdy",
+        "Maggie-Lee Huckabee",
+        "Leonardo Lopiano",
+        "Rosario Marchese-Ragona",
+        "Stefano Masiero",
+        "Emilia Michou",
+        "Antonio Occhini",
+        "Claudio Pacchetti",
+        "Ronald F Pfeiffer",
+        "Domenico A Restivo",
+        "Mariangela Rondanelli",
+        "Giovanni Ruoppolo",
+        "Giorgio Sandrini",
+        "Anthony Schapira",
+        "Fabrizio Stocchi",
+        "Eduardo Tolosa",
+        "Francesca Valentino",
+        "Mauro Zamboni",
+        "Roberta Zangaglia",
+        "Mario Zappia",
+        "Cristina Tassorelli",
+        "Enrico Alfonsi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34624796/"
+    },
+    {
+      "pmid": "34236893",
+      "title": "Parkinson's Disease Genetics and Pathophysiology.",
+      "journal": "Annual review of neuroscience",
+      "abstract_sections": [
+        "Parkinson's disease (PD) is a common neurodegenerative disorder characterized by degeneration of the substantia nigra pars compacta and by accumulation of α-synuclein in Lewy bodies. PD is caused by a combination of environmental factors and genetic variants. These variants range from highly penetrant Mendelian alleles to alleles that only modestly increase disease risk. Here, we review what is known about the genetics of PD. We also describe how PD genetics have solidified the role of endosomal, lysosomal, and mitochondrial dysfunction in PD pathophysiology. Finally, we highlight how all three pathways are affected by α-synuclein and how this knowledge may be harnessed for the development of disease-modifying therapeutics."
+      ],
+      "abstract": "Parkinson's disease (PD) is a common neurodegenerative disorder characterized by degeneration of the substantia nigra pars compacta and by accumulation of α-synuclein in Lewy bodies. PD is caused by a combination of environmental factors and genetic variants. These variants range from highly penetrant Mendelian alleles to alleles that only modestly increase disease risk. Here, we review what is known about the genetics of PD. We also describe how PD genetics have solidified the role of endosomal, lysosomal, and mitochondrial dysfunction in PD pathophysiology. Finally, we highlight how all three pathways are affected by α-synuclein and how this knowledge may be harnessed for the development of disease-modifying therapeutics.",
+      "evidence_sentences": [
+        "Parkinson's disease (PD) is a common neurodegenerative disorder characterized by degeneration of the substantia nigra pars compacta and by accumulation of α-synuclein in Lewy bodies.",
+        "Finally, we highlight how all three pathways are affected by α-synuclein and how this knowledge may be harnessed for the development of disease-modifying therapeutics.",
+        "These variants range from highly penetrant Mendelian alleles to alleles that only modestly increase disease risk."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Gabriel E Vázquez-Vélez",
+        "Huda Y Zoghbi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34236893/"
+    },
+    {
+      "pmid": "37922901",
+      "title": "Circuit-specific gene therapy reverses core symptoms in a primate Parkinson's disease model.",
+      "journal": "Cell",
+      "abstract_sections": [
+        "Parkinson's disease (PD) is a debilitating neurodegenerative disorder. Its symptoms are typically treated with levodopa or dopamine receptor agonists, but its action lacks specificity due to the wide distribution of dopamine receptors in the central nervous system and periphery. Here, we report the development of a gene therapy strategy to selectively manipulate PD-affected circuitry. Targeting striatal D1 medium spiny neurons (MSNs), whose activity is chronically suppressed in PD, we engineered a therapeutic strategy comprised of a highly efficient retrograde adeno-associated virus (AAV), promoter elements with strong D1-MSN activity, and a chemogenetic effector to enable precise D1-MSN activation after systemic ligand administration. Application of this therapeutic approach rescues locomotion, tremor, and motor skill defects in both mouse and primate models of PD, supporting the feasibility of targeted circuit modulation tools for the treatment of PD in humans."
+      ],
+      "abstract": "Parkinson's disease (PD) is a debilitating neurodegenerative disorder. Its symptoms are typically treated with levodopa or dopamine receptor agonists, but its action lacks specificity due to the wide distribution of dopamine receptors in the central nervous system and periphery. Here, we report the development of a gene therapy strategy to selectively manipulate PD-affected circuitry. Targeting striatal D1 medium spiny neurons (MSNs), whose activity is chronically suppressed in PD, we engineered a therapeutic strategy comprised of a highly efficient retrograde adeno-associated virus (AAV), promoter elements with strong D1-MSN activity, and a chemogenetic effector to enable precise D1-MSN activation after systemic ligand administration. Application of this therapeutic approach rescues locomotion, tremor, and motor skill defects in both mouse and primate models of PD, supporting the feasibility of targeted circuit modulation tools for the treatment of PD in humans.",
+      "evidence_sentences": [
+        "Parkinson's disease (PD) is a debilitating neurodegenerative disorder.",
+        "Targeting striatal D1 medium spiny neurons (MSNs), whose activity is chronically suppressed in PD, we engineered a therapeutic strategy comprised of a highly efficient retrograde adeno-associated virus (AAV), promoter elements with strong D1-MSN activity, and a chemogenetic effector to enable precise D1-MSN activation after systemic ligand administration.",
+        "Application of this therapeutic approach rescues locomotion, tremor, and motor skill defects in both mouse and primate models of PD, supporting the feasibility of targeted circuit modulation tools for the treatment of PD in humans."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Yefei Chen",
+        "Zexuan Hong",
+        "Jingyi Wang",
+        "Kunlin Liu",
+        "Jing Liu",
+        "Jianbang Lin",
+        "Shijing Feng",
+        "Tianhui Zhang",
+        "Liang Shan",
+        "Taian Liu",
+        "Pinyue Guo",
+        "Yunping Lin",
+        "Tian Li",
+        "Qian Chen",
+        "Xiaodan Jiang",
+        "Anan Li",
+        "Xiang Li",
+        "Yuantao Li",
+        "Jonathan J Wilde",
+        "Jin Bao",
+        "Ji Dai",
+        "Zhonghua Lu"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37922901/"
+    },
+    {
+      "pmid": "33526323",
+      "title": "Art therapy for Parkinson's disease.",
+      "journal": "Parkinsonism & related disorders",
+      "abstract_sections": [
+        "To explore the potential rehabilitative effect of art therapy and its underlying mechanisms in Parkinson's disease (PD).",
+        "Observational study of eighteen patients with PD, followed in a prospective, open-label, exploratory trial. Before and after twenty sessions of art therapy, PD patients were assessed with the UPDRS, Pegboard Test, Timed Up and Go Test (TUG), Beck Depression Inventory (BDI), Modified Fatigue Impact Scale and PROMIS-Self-Efficacy, Montreal Cognitive Assessment, Rey-Osterrieth Complex Figure Test (RCFT), Benton Visual Recognition Test (BVRT), Navon Test, Visual Search, and Stop Signal Task. Eye movements were recorded during the BVRT. Resting-state functional MRI (rs-fMRI) was also performed to assess functional connectivity (FC) changes within the dorsal attention (DAN), executive control (ECN), fronto-occipital (FOC), salience (SAL), primary and secondary visual (V1, V2) brain networks. We also tested fourteen age-matched healthy controls at baseline.",
+        "At baseline, PD patients showed abnormal visual-cognitive functions and eye movements. Analyses of rs-fMRI showed increased functional connectivity within DAN and ECN in patients compared to controls. Following art therapy, performance improved on Navon test, eye tracking, and UPDRS scores. Rs-fMRI analysis revealed significantly increased FC levels in brain regions within V1 and V2 networks.",
+        "Art therapy improves overall visual-cognitive skills and visual exploration strategies as well as general motor function in patients with PD. The changes in brain connectivity highlight a functional reorganization of visual networks."
+      ],
+      "abstract": "To explore the potential rehabilitative effect of art therapy and its underlying mechanisms in Parkinson's disease (PD).\n\nObservational study of eighteen patients with PD, followed in a prospective, open-label, exploratory trial. Before and after twenty sessions of art therapy, PD patients were assessed with the UPDRS, Pegboard Test, Timed Up and Go Test (TUG), Beck Depression Inventory (BDI), Modified Fatigue Impact Scale and PROMIS-Self-Efficacy, Montreal Cognitive Assessment, Rey-Osterrieth Complex Figure Test (RCFT), Benton Visual Recognition Test (BVRT), Navon Test, Visual Search, and Stop Signal Task. Eye movements were recorded during the BVRT. Resting-state functional MRI (rs-fMRI) was also performed to assess functional connectivity (FC) changes within the dorsal attention (DAN), executive control (ECN), fronto-occipital (FOC), salience (SAL), primary and secondary visual (V1, V2) brain networks. We also tested fourteen age-matched healthy controls at baseline.\n\nAt baseline, PD patients showed abnormal visual-cognitive functions and eye movements. Analyses of rs-fMRI showed increased functional connectivity within DAN and ECN in patients compared to controls. Following art therapy, performance improved on Navon test, eye tracking, and UPDRS scores. Rs-fMRI analysis revealed significantly increased FC levels in brain regions within V1 and V2 networks.\n\nArt therapy improves overall visual-cognitive skills and visual exploration strategies as well as general motor function in patients with PD. The changes in brain connectivity highlight a functional reorganization of visual networks.",
+      "evidence_sentences": [
+        "To explore the potential rehabilitative effect of art therapy and its underlying mechanisms in Parkinson's disease (PD).",
+        "Observational study of eighteen patients with PD, followed in a prospective, open-label, exploratory trial."
+      ],
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Alberto Cucca",
+        "Alessandro Di Rocco",
+        "Ikuko Acosta",
+        "Mahya Beheshti",
+        "Marygrace Berberian",
+        "Hilary C Bertisch",
+        "Amgad Droby",
+        "Tom Ettinger",
+        "Todd E Hudson",
+        "Matilde Inglese",
+        "Yoon J Jung",
+        "Daniella F Mania",
+        "Angelo Quartarone",
+        "John-Ross Rizzo",
+        "Kush Sharma",
+        "Andrew Feigin",
+        "Milton C Biagioni",
+        "M Felice Ghilardi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33526323/"
+    },
+    {
+      "pmid": "39303715",
+      "title": "A pontine-medullary loop crucial for REM sleep and its deficit in Parkinson's disease.",
+      "journal": "Cell",
+      "abstract_sections": [
+        "Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp"
+      ],
+      "abstract": "Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem. Here, we show in mice that neurons in the pontine sublaterodorsal tegmentum (SubLDT) that express corticotropin-releasing hormone-binding protein (Crhbp",
+      "evidence_sentences": [
+        "Identifying the properties of the rapid eye movement (REM) sleep circuitry and its relation to diseases has been challenging due to the neuronal heterogeneity of the brainstem."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Mitsuaki Kashiwagi",
+        "Goichi Beck",
+        "Mika Kanuka",
+        "Yoshifumi Arai",
+        "Kaeko Tanaka",
+        "Chika Tatsuzawa",
+        "Yumiko Koga",
+        "Yuki C Saito",
+        "Marina Takagi",
+        "Yo Oishi",
+        "Masanori Sakaguchi",
+        "Kousuke Baba",
+        "Masashi Ikuno",
+        "Hodaka Yamakado",
+        "Ryosuke Takahashi",
+        "Masashi Yanagisawa",
+        "Shigeo Murayama",
+        "Takeshi Sakurai",
+        "Kazuya Sakai",
+        "Yoshimi Nakagawa",
+        "Masahiko Watanabe",
+        "Hideki Mochizuki",
+        "Yu Hayashi"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39303715/"
+    },
+    {
+      "pmid": "22275317",
+      "title": "Diagnostic criteria for mild cognitive impairment in Parkinson's disease: Movement Disorder Society Task Force guidelines.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "abstract_sections": [
+        "Mild cognitive impairment is common in nondemented Parkinson's disease (PD) patients and may be a harbinger of dementia. In view of its importance, the Movement Disorder Society commissioned a task force to delineate diagnostic criteria for mild cognitive impairment in PD. The proposed diagnostic criteria are based on a literature review and expert consensus. This article provides guidelines to characterize the clinical syndrome and methods for its diagnosis. The criteria will require validation, and possibly refinement, as additional research improves our understanding of the epidemiology, presentation, neurobiology, assessment, and long-term course of this clinical syndrome. These diagnostic criteria will support future research efforts to identify at the earliest stage those PD patients at increased risk of progressive cognitive decline and dementia who may benefit from clinical interventions at a predementia stage."
+      ],
+      "abstract": "Mild cognitive impairment is common in nondemented Parkinson's disease (PD) patients and may be a harbinger of dementia. In view of its importance, the Movement Disorder Society commissioned a task force to delineate diagnostic criteria for mild cognitive impairment in PD. The proposed diagnostic criteria are based on a literature review and expert consensus. This article provides guidelines to characterize the clinical syndrome and methods for its diagnosis. The criteria will require validation, and possibly refinement, as additional research improves our understanding of the epidemiology, presentation, neurobiology, assessment, and long-term course of this clinical syndrome. These diagnostic criteria will support future research efforts to identify at the earliest stage those PD patients at increased risk of progressive cognitive decline and dementia who may benefit from clinical interventions at a predementia stage.",
+      "evidence_sentences": [
+        "Mild cognitive impairment is common in nondemented Parkinson's disease (PD) patients and may be a harbinger of dementia.",
+        "The proposed diagnostic criteria are based on a literature review and expert consensus."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Irene Litvan",
+        "Jennifer G Goldman",
+        "Alexander I Tröster",
+        "Ben A Schmand",
+        "Daniel Weintraub",
+        "Ronald C Petersen",
+        "Brit Mollenhauer",
+        "Charles H Adler",
+        "Karen Marder",
+        "Caroline H Williams-Gray",
+        "Dag Aarsland",
+        "Jaime Kulisevsky",
+        "Maria C Rodriguez-Oroz",
+        "David J Burn",
+        "Roger A Barker",
+        "Murat Emre"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22275317/"
+    },
+    {
+      "pmid": "39952239",
+      "title": "Pre-clinical safety and efficacy of human induced pluripotent stem cell-derived products for autologous cell therapy in Parkinson's disease.",
+      "journal": "Cell stem cell",
+      "abstract_sections": [
+        "Human induced pluripotent stem cell (hiPSC)-derived midbrain dopaminergic cells (mDACs) represent a promising source for autologous cell therapy in Parkinson's disease (PD), but standardized regulatory criteria are essential for clinical translation. In this pre-clinical study, we generated multiple clinical-grade hiPSC lines from freshly biopsied fibroblasts of four sporadic PD patients using episomal reprogramming and differentiated them into mDACs using a refined 21-day protocol. Rigorous evaluations included whole-genome/exome sequencing, RNA sequencing, and in vivo studies, including a 39-week Good Laboratory Practice-compliant mouse safety study. While mDACs from all lines met safety criteria, mDACs from one patient failed to improve rodent behavioral outcomes, underscoring inter-individual variability. Importantly, in vitro assessments did not reliably predict in vivo efficacy, identifying dopaminergic fiber density as a key efficacy criterion. These findings support comprehensive quality control guidelines for autologous cell therapy and pave the way for a clinical trial with eight sporadic PD patients, scheduled to commence in 2025."
+      ],
+      "abstract": "Human induced pluripotent stem cell (hiPSC)-derived midbrain dopaminergic cells (mDACs) represent a promising source for autologous cell therapy in Parkinson's disease (PD), but standardized regulatory criteria are essential for clinical translation. In this pre-clinical study, we generated multiple clinical-grade hiPSC lines from freshly biopsied fibroblasts of four sporadic PD patients using episomal reprogramming and differentiated them into mDACs using a refined 21-day protocol. Rigorous evaluations included whole-genome/exome sequencing, RNA sequencing, and in vivo studies, including a 39-week Good Laboratory Practice-compliant mouse safety study. While mDACs from all lines met safety criteria, mDACs from one patient failed to improve rodent behavioral outcomes, underscoring inter-individual variability. Importantly, in vitro assessments did not reliably predict in vivo efficacy, identifying dopaminergic fiber density as a key efficacy criterion. These findings support comprehensive quality control guidelines for autologous cell therapy and pave the way for a clinical trial with eight sporadic PD patients, scheduled to commence in 2025.",
+      "evidence_sentences": [
+        "Human induced pluripotent stem cell (hiPSC)-derived midbrain dopaminergic cells (mDACs) represent a promising source for autologous cell therapy in Parkinson's disease (PD), but standardized regulatory criteria are essential for clinical translation.",
+        "In this pre-clinical study, we generated multiple clinical-grade hiPSC lines from freshly biopsied fibroblasts of four sporadic PD patients using episomal reprogramming and differentiated them into mDACs using a refined 21-day protocol.",
+        "These findings support comprehensive quality control guidelines for autologous cell therapy and pave the way for a clinical trial with eight sporadic PD patients, scheduled to commence in 2025."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Jeha Jeon",
+        "Young Cha",
+        "Yean Ju Hong",
+        "In-Hee Lee",
+        "Heejin Jang",
+        "Sanghyeok Ko",
+        "Serhiy Naumenko",
+        "Minseon Kim",
+        "Hannah L Ryu",
+        "Zenith Shrestha",
+        "Nayeon Lee",
+        "Tae-Yoon Park",
+        "HoeWon Park",
+        "Seo-Hyun Kim",
+        "Ki-Jun Yoon",
+        "Bin Song",
+        "Jeffrey Schweitzer",
+        "Todd M Herrington",
+        "Sek Won Kong",
+        "Bob Carter",
+        "Pierre Leblanc",
+        "Kwang-Soo Kim"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39952239/"
+    },
+    {
+      "pmid": "33168089",
+      "title": "PINK1/PARKIN signalling in neurodegeneration and neuroinflammation.",
+      "journal": "Acta neuropathologica communications",
+      "abstract_sections": [
+        "Mutations in the PTEN-induced kinase 1 (PINK1) and Parkin RBR E3 ubiquitin-protein ligase (PARKIN) genes are associated with familial forms of Parkinson's disease (PD). PINK1, a protein kinase, and PARKIN, an E3 ubiquitin ligase, control the specific elimination of dysfunctional or superfluous mitochondria, thus fine-tuning mitochondrial network and preserving energy metabolism. PINK1 regulates PARKIN translocation in impaired mitochondria and drives their removal via selective autophagy, a process known as mitophagy. As knowledge obtained using different PINK1 and PARKIN transgenic animal models is being gathered, growing evidence supports the contribution of mitophagy impairment to several human pathologies, including PD and Alzheimer's diseases (AD). Therefore, therapeutic interventions aiming to modulate PINK1/PARKIN signalling might have the potential to treat these diseases. In this review, we will start by discussing how the interplay of PINK1 and PARKIN signalling helps mediate mitochondrial physiology. We will continue by debating the role of mitochondrial dysfunction in disorders such as amyotrophic lateral sclerosis, Alzheimer's, Huntington's and Parkinson's diseases, as well as eye diseases such as age-related macular degeneration and glaucoma, and the causative factors leading to PINK1/PARKIN-mediated neurodegeneration and neuroinflammation. Finally, we will discuss PINK1/PARKIN gene augmentation possibilities with a particular focus on AD, PD and glaucoma."
+      ],
+      "abstract": "Mutations in the PTEN-induced kinase 1 (PINK1) and Parkin RBR E3 ubiquitin-protein ligase (PARKIN) genes are associated with familial forms of Parkinson's disease (PD). PINK1, a protein kinase, and PARKIN, an E3 ubiquitin ligase, control the specific elimination of dysfunctional or superfluous mitochondria, thus fine-tuning mitochondrial network and preserving energy metabolism. PINK1 regulates PARKIN translocation in impaired mitochondria and drives their removal via selective autophagy, a process known as mitophagy. As knowledge obtained using different PINK1 and PARKIN transgenic animal models is being gathered, growing evidence supports the contribution of mitophagy impairment to several human pathologies, including PD and Alzheimer's diseases (AD). Therefore, therapeutic interventions aiming to modulate PINK1/PARKIN signalling might have the potential to treat these diseases. In this review, we will start by discussing how the interplay of PINK1 and PARKIN signalling helps mediate mitochondrial physiology. We will continue by debating the role of mitochondrial dysfunction in disorders such as amyotrophic lateral sclerosis, Alzheimer's, Huntington's and Parkinson's diseases, as well as eye diseases such as age-related macular degeneration and glaucoma, and the causative factors leading to PINK1/PARKIN-mediated neurodegeneration and neuroinflammation. Finally, we will discuss PINK1/PARKIN gene augmentation possibilities with a particular focus on AD, PD and glaucoma.",
+      "evidence_sentences": [
+        "We will continue by debating the role of mitochondrial dysfunction in disorders such as amyotrophic lateral sclerosis, Alzheimer's, Huntington's and Parkinson's diseases, as well as eye diseases such as age-related macular degeneration and glaucoma, and the causative factors leading to PINK1/PARKIN-mediated neurodegeneration and neuroinflammation.",
+        "Mutations in the PTEN-induced kinase 1 (PINK1) and Parkin RBR E3 ubiquitin-protein ligase (PARKIN) genes are associated with familial forms of Parkinson's disease (PD).",
+        "As knowledge obtained using different PINK1 and PARKIN transgenic animal models is being gathered, growing evidence supports the contribution of mitophagy impairment to several human pathologies, including PD and Alzheimer's diseases (AD)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Peter M J Quinn",
+        "Paula I Moreira",
+        "António Francisco Ambrósio",
+        "C Henrique Alves"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33168089/"
+    },
+    {
+      "pmid": "38614108",
+      "title": "RAB32 Ser71Arg in autosomal dominant Parkinson's disease: linkage, association, and functional analyses.",
+      "journal": "The Lancet. Neurology",
+      "abstract_sections": [
+        "Parkinson's disease is a progressive neurodegenerative disorder with multifactorial causes, among which genetic risk factors play a part. The RAB GTPases are regulators and substrates of LRRK2, and variants in the LRRK2 gene are important risk factors for Parkinson's disease. We aimed to explore genetic variability in RAB GTPases within cases of familial Parkinson's disease.",
+        "We did whole-exome sequencing in probands from families in Canada and Tunisia with Parkinson's disease without a genetic cause, who were recruited from the Centre for Applied Neurogenetics (Vancouver, BC, Canada), an international consortium that includes people with Parkinson's disease from 36 sites in 24 countries. 61 RAB GTPases were genetically screened, and candidate variants were genotyped in relatives of the probands to assess disease segregation by linkage analysis. Genotyping was also done to assess variant frequencies in individuals with idiopathic Parkinson's disease and controls, matched for age and sex, who were also from the Centre for Applied Neurogenetics but unrelated to the probands or each other. All participants were aged 18 years or older. The sequencing and genotyping findings were validated by case-control association analyses using bioinformatic data obtained from publicly available clinicogenomic databases (AMP-PD, GP2, and 100 000 Genomes Project) and a private German clinical diagnostic database (University of Tübingen). Clinical and pathological findings were summarised and haplotypes were determined. In-vitro studies were done to investigate protein interactions and enzyme activities.",
+        "Between June 1, 2010, and May 31, 2017, 130 probands from Canada and Tunisia (47 [36%] female and 83 [64%] male; mean age 72·7 years [SD 11·7; range 38-96]; 109 White European ancestry, 18 north African, two east Asian, and one Hispanic] underwent whole-exome sequencing. 15 variants in RAB GTPase genes were identified, of which the RAB32 variant c.213C>G (Ser71Arg) cosegregated with autosomal dominant Parkinson's disease in three families (nine affected individuals; non-parametric linkage Z score=1·95; p=0·03). 2604 unrelated individuals with Parkinson's disease and 344 matched controls were additionally genotyped, and five more people originating from five countries (Canada, Italy, Poland, Turkey, and Tunisia) were identified with the RAB32 variant. From the database searches, in which 6043 individuals with Parkinson's disease and 62 549 controls were included, another eight individuals were identified with the RAB32 variant from four countries (Canada, Germany, UK, and USA). Overall, the association of RAB32 c.213C>G (Ser71Arg) with Parkinson's disease was significant (odds ratio [OR] 13·17, 95% CI 2·15-87·23; p=0·0055; I",
+        "RAB32 Ser71Arg is a novel genetic risk factor for Parkinson's disease, with reduced penetrance. The variant was found in individuals with Parkinson's disease from multiple ethnic groups, with the same haplotype. In-vitro assays show that RAB32 Arg71 activates LRRK2 kinase, which indicates that genetically distinct causes of familial parkinsonism share the same mechanism. The discovery of RAB32 Ser71Arg also suggests several genetically inherited causes of Parkinson's disease originated to control intracellular immunity. This shared aetiology should be considered in future translational research, while the global epidemiology of RAB32 Ser71Arg needs to be assessed to inform genetic counselling.",
+        "National Institutes of Health, the Canada Excellence Research Chairs program, Aligning Science Across Parkinson's, the Michael J Fox Foundation for Parkinson's Research, and the UK Medical Research Council."
+      ],
+      "abstract": "Parkinson's disease is a progressive neurodegenerative disorder with multifactorial causes, among which genetic risk factors play a part. The RAB GTPases are regulators and substrates of LRRK2, and variants in the LRRK2 gene are important risk factors for Parkinson's disease. We aimed to explore genetic variability in RAB GTPases within cases of familial Parkinson's disease.\n\nWe did whole-exome sequencing in probands from families in Canada and Tunisia with Parkinson's disease without a genetic cause, who were recruited from the Centre for Applied Neurogenetics (Vancouver, BC, Canada), an international consortium that includes people with Parkinson's disease from 36 sites in 24 countries. 61 RAB GTPases were genetically screened, and candidate variants were genotyped in relatives of the probands to assess disease segregation by linkage analysis. Genotyping was also done to assess variant frequencies in individuals with idiopathic Parkinson's disease and controls, matched for age and sex, who were also from the Centre for Applied Neurogenetics but unrelated to the probands or each other. All participants were aged 18 years or older. The sequencing and genotyping findings were validated by case-control association analyses using bioinformatic data obtained from publicly available clinicogenomic databases (AMP-PD, GP2, and 100 000 Genomes Project) and a private German clinical diagnostic database (University of Tübingen). Clinical and pathological findings were summarised and haplotypes were determined. In-vitro studies were done to investigate protein interactions and enzyme activities.\n\nBetween June 1, 2010, and May 31, 2017, 130 probands from Canada and Tunisia (47 [36%] female and 83 [64%] male; mean age 72·7 years [SD 11·7; range 38-96]; 109 White European ancestry, 18 north African, two east Asian, and one Hispanic] underwent whole-exome sequencing. 15 variants in RAB GTPase genes were identified, of which the RAB32 variant c.213C>G (Ser71Arg) cosegregated with autosomal dominant Parkinson's disease in three families (nine affected individuals; non-parametric linkage Z score=1·95; p=0·03). 2604 unrelated individuals with Parkinson's disease and 344 matched controls were additionally genotyped, and five more people originating from five countries (Canada, Italy, Poland, Turkey, and Tunisia) were identified with the RAB32 variant. From the database searches, in which 6043 individuals with Parkinson's disease and 62 549 controls were included, another eight individuals were identified with the RAB32 variant from four countries (Canada, Germany, UK, and USA). Overall, the association of RAB32 c.213C>G (Ser71Arg) with Parkinson's disease was significant (odds ratio [OR] 13·17, 95% CI 2·15-87·23; p=0·0055; I\n\nRAB32 Ser71Arg is a novel genetic risk factor for Parkinson's disease, with reduced penetrance. The variant was found in individuals with Parkinson's disease from multiple ethnic groups, with the same haplotype. In-vitro assays show that RAB32 Arg71 activates LRRK2 kinase, which indicates that genetically distinct causes of familial parkinsonism share the same mechanism. The discovery of RAB32 Ser71Arg also suggests several genetically inherited causes of Parkinson's disease originated to control intracellular immunity. This shared aetiology should be considered in future translational research, while the global epidemiology of RAB32 Ser71Arg needs to be assessed to inform genetic counselling.\n\nNational Institutes of Health, the Canada Excellence Research Chairs program, Aligning Science Across Parkinson's, the Michael J Fox Foundation for Parkinson's Research, and the UK Medical Research Council.",
+      "evidence_sentences": [
+        "We did whole-exome sequencing in probands from families in Canada and Tunisia with Parkinson's disease without a genetic cause, who were recruited from the Centre for Applied Neurogenetics (Vancouver, BC, Canada), an international consortium that includes people with Parkinson's disease from 36 sites in 24 countries.",
+        "From the database searches, in which 6043 individuals with Parkinson's disease and 62 549 controls were included, another eight individuals were identified with the RAB32 variant from four countries (Canada, Germany, UK, and USA).",
+        "The discovery of RAB32 Ser71Arg also suggests several genetically inherited causes of Parkinson's disease originated to control intracellular immunity."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Emil K Gustavsson",
+        "Jordan Follett",
+        "Joanne Trinh",
+        "Sandeep K Barodia",
+        "Raquel Real",
+        "Zhiyong Liu",
+        "Melissa Grant-Peters",
+        "Jesse D Fox",
+        "Silke Appel-Cresswell",
+        "A Jon Stoessl",
+        "Alex Rajput",
+        "Ali H Rajput",
+        "Roland Auer",
+        "Russel Tilney",
+        "Marc Sturm",
+        "Tobias B Haack",
+        "Suzanne Lesage",
+        "Christelle Tesson",
+        "Alexis Brice",
+        "Carles Vilariño-Güell",
+        "Mina Ryten",
+        "Matthew S Goldberg",
+        "Andrew B West",
+        "Michele T Hu",
+        "Huw R Morris",
+        "Manu Sharma",
+        "Ziv Gan-Or",
+        "Bedia Samanci",
+        "Pawel Lis",
+        "Maria Teresa Periñan",
+        "Rim Amouri",
+        "Samia Ben Sassi",
+        "Faycel Hentati",
+        "Global Parkinson's Genetics Program (GP2)",
+        "Francesca Tonelli",
+        "Dario R Alessi",
+        "Matthew J Farrer"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38614108/"
+    },
+    {
+      "pmid": "29140481",
+      "title": "Excessive burden of lysosomal storage disorder gene variants in Parkinson's disease.",
+      "journal": "Brain : a journal of neurology",
+      "abstract_sections": [
+        "Mutations in the glucocerebrosidase gene (GBA), which cause Gaucher disease, are also potent risk factors for Parkinson's disease. We examined whether a genetic burden of variants in other lysosomal storage disorder genes is more broadly associated with Parkinson's disease susceptibility. The sequence kernel association test was used to interrogate variant burden among 54 lysosomal storage disorder genes, leveraging whole exome sequencing data from 1156 Parkinson's disease cases and 1679 control subjects. We discovered a significant burden of rare, likely damaging lysosomal storage disorder gene variants in association with Parkinson's disease risk. The association signal was robust to the exclusion of GBA, and consistent results were obtained in two independent replication cohorts, including 436 cases and 169 controls with whole exome sequencing and an additional 6713 cases and 5964 controls with exome-wide genotyping. In secondary analyses designed to highlight the specific genes driving the aggregate signal, we confirmed associations at the GBA and SMPD1 loci and newly implicate CTSD, SLC17A5, and ASAH1 as candidate Parkinson's disease susceptibility genes. In our discovery cohort, the majority of Parkinson's disease cases (56%) have at least one putative damaging variant in a lysosomal storage disorder gene, and 21% carry multiple alleles. Our results highlight several promising new susceptibility loci and reinforce the importance of lysosomal mechanisms in Parkinson's disease pathogenesis. We suggest that multiple genetic hits may act in combination to degrade lysosomal function, enhancing Parkinson's disease susceptibility."
+      ],
+      "abstract": "Mutations in the glucocerebrosidase gene (GBA), which cause Gaucher disease, are also potent risk factors for Parkinson's disease. We examined whether a genetic burden of variants in other lysosomal storage disorder genes is more broadly associated with Parkinson's disease susceptibility. The sequence kernel association test was used to interrogate variant burden among 54 lysosomal storage disorder genes, leveraging whole exome sequencing data from 1156 Parkinson's disease cases and 1679 control subjects. We discovered a significant burden of rare, likely damaging lysosomal storage disorder gene variants in association with Parkinson's disease risk. The association signal was robust to the exclusion of GBA, and consistent results were obtained in two independent replication cohorts, including 436 cases and 169 controls with whole exome sequencing and an additional 6713 cases and 5964 controls with exome-wide genotyping. In secondary analyses designed to highlight the specific genes driving the aggregate signal, we confirmed associations at the GBA and SMPD1 loci and newly implicate CTSD, SLC17A5, and ASAH1 as candidate Parkinson's disease susceptibility genes. In our discovery cohort, the majority of Parkinson's disease cases (56%) have at least one putative damaging variant in a lysosomal storage disorder gene, and 21% carry multiple alleles. Our results highlight several promising new susceptibility loci and reinforce the importance of lysosomal mechanisms in Parkinson's disease pathogenesis. We suggest that multiple genetic hits may act in combination to degrade lysosomal function, enhancing Parkinson's disease susceptibility.",
+      "evidence_sentences": [
+        "Mutations in the glucocerebrosidase gene (GBA), which cause Gaucher disease, are also potent risk factors for Parkinson's disease.",
+        "In secondary analyses designed to highlight the specific genes driving the aggregate signal, we confirmed associations at the GBA and SMPD1 loci and newly implicate CTSD, SLC17A5, and ASAH1 as candidate Parkinson's disease susceptibility genes.",
+        "The sequence kernel association test was used to interrogate variant burden among 54 lysosomal storage disorder genes, leveraging whole exome sequencing data from 1156 Parkinson's disease cases and 1679 control subjects."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Laurie A Robak",
+        "Iris E Jansen",
+        "Jeroen van Rooij",
+        "André G Uitterlinden",
+        "Robert Kraaij",
+        "Joseph Jankovic",
+        "International Parkinson’s Disease Genomics Consortium                    (IPDGC)",
+        "Peter Heutink",
+        "Joshua M Shulman"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29140481/"
+    },
+    {
+      "pmid": "34417870",
+      "title": "A multinational consensus on dysphagia in Parkinson's disease: screening, diagnosis and prognostic value.",
+      "journal": "Journal of neurology",
+      "abstract_sections": [
+        "Parkinson's disease (PD) is a neurodegenerative disorder characterized by a combination of motor and non-motor dysfunction. Dysphagia is a common symptom in PD, though it is still too frequently underdiagnosed. Consensus is lacking on screening, diagnosis, and prognosis of dysphagia in PD.",
+        "To systematically review the literature and to define consensus statements on the screening and the diagnosis of dysphagia in PD, as well as on the impact of dysphagia on the prognosis and quality of life (QoL) of PD patients.",
+        "A multinational group of experts in the field of neurogenic dysphagia and/or PD conducted a systematic revision of the literature published since January 1990 to February 2021 and reported the results according to PRISMA guidelines. The output of the research was then analyzed and discussed in a consensus conference convened in Pavia, Italy, where the consensus statements were drafted. The final version of statements was subsequently achieved by e-mail consensus.",
+        "Eighty-five papers were used to inform the Panel's statements even though most of them were of Class IV quality. The statements tackled four main areas: (1) screening of dysphagia: timing and tools; (2) diagnosis of dysphagia: clinical and instrumental detection, severity assessment; (3) dysphagia and QoL: impact and assessment; (4) prognostic value of dysphagia; impact on the outcome and role of associated conditions.",
+        "The statements elaborated by the Consensus Panel provide a framework to guide the neurologist in the timely detection and accurate diagnosis of dysphagia in PD."
+      ],
+      "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder characterized by a combination of motor and non-motor dysfunction. Dysphagia is a common symptom in PD, though it is still too frequently underdiagnosed. Consensus is lacking on screening, diagnosis, and prognosis of dysphagia in PD.\n\nTo systematically review the literature and to define consensus statements on the screening and the diagnosis of dysphagia in PD, as well as on the impact of dysphagia on the prognosis and quality of life (QoL) of PD patients.\n\nA multinational group of experts in the field of neurogenic dysphagia and/or PD conducted a systematic revision of the literature published since January 1990 to February 2021 and reported the results according to PRISMA guidelines. The output of the research was then analyzed and discussed in a consensus conference convened in Pavia, Italy, where the consensus statements were drafted. The final version of statements was subsequently achieved by e-mail consensus.\n\nEighty-five papers were used to inform the Panel's statements even though most of them were of Class IV quality. The statements tackled four main areas: (1) screening of dysphagia: timing and tools; (2) diagnosis of dysphagia: clinical and instrumental detection, severity assessment; (3) dysphagia and QoL: impact and assessment; (4) prognostic value of dysphagia; impact on the outcome and role of associated conditions.\n\nThe statements elaborated by the Consensus Panel provide a framework to guide the neurologist in the timely detection and accurate diagnosis of dysphagia in PD.",
+      "evidence_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative disorder characterized by a combination of motor and non-motor dysfunction.",
+        "The statements tackled four main areas: (1) screening of dysphagia: timing and tools; (2) diagnosis of dysphagia: clinical and instrumental detection, severity assessment; (3) dysphagia and QoL: impact and assessment; (4) prognostic value of dysphagia; impact on the outcome and role of associated conditions.",
+        "To systematically review the literature and to define consensus statements on the screening and the diagnosis of dysphagia in PD, as well as on the impact of dysphagia on the prognosis and quality of life (QoL) of PD patients."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Consensus Statement"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Giuseppe Cosentino",
+        "Micol Avenali",
+        "Antonio Schindler",
+        "Nicole Pizzorni",
+        "Cristina Montomoli",
+        "Giovanni Abbruzzese",
+        "Angelo Antonini",
+        "Filippo Barbiera",
+        "Marco Benazzo",
+        "Eduardo Elias Benarroch",
+        "Giulia Bertino",
+        "Emanuele Cereda",
+        "Pere Clavè",
+        "Pietro Cortelli",
+        "Roberto Eleopra",
+        "Chiara Ferrari",
+        "Shaheen Hamdy",
+        "Maggie-Lee Huckabee",
+        "Leonardo Lopiano",
+        "Rosario Marchese Ragona",
+        "Stefano Masiero",
+        "Emilia Michou",
+        "Antonio Occhini",
+        "Claudio Pacchetti",
+        "Ronald F Pfeiffer",
+        "Domenico A Restivo",
+        "Mariangela Rondanelli",
+        "Giovanni Ruoppolo",
+        "Giorgio Sandrini",
+        "Anthony H V Schapira",
+        "Fabrizio Stocchi",
+        "Eduardo Tolosa",
+        "Francesca Valentino",
+        "Mauro Zamboni",
+        "Roberta Zangaglia",
+        "Mario Zappia",
+        "Cristina Tassorelli",
+        "Enrico Alfonsi"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34417870/"
+    },
+    {
+      "pmid": "36881989",
+      "title": "Progression of clinical markers in prodromal Parkinson's disease and dementia with Lewy bodies: a multicentre study.",
+      "journal": "Brain : a journal of neurology",
+      "abstract_sections": [
+        "The neurodegenerative synucleinopathies, including Parkinson's disease and dementia with Lewy bodies, are characterized by a typically lengthy prodromal period of progressive subclinical motor and non-motor manifestations. Among these, idiopathic REM sleep behaviour disorder is a powerful early predictor of eventual phenoconversion, and therefore represents a critical opportunity to intervene with neuroprotective therapy. To inform the design of randomized trials, it is essential to study the natural progression of clinical markers during the prodromal stages of disease in order to establish optimal clinical end points. In this study, we combined prospective follow-up data from 28 centres of the International REM Sleep Behavior Disorder Study Group representing 12 countries. Polysomnogram-confirmed REM sleep behaviour disorder subjects were assessed for prodromal Parkinson's disease using the Movement Disorder Society criteria and underwent periodic structured sleep, motor, cognitive, autonomic and olfactory testing. We used linear mixed-effect modelling to estimate annual rates of clinical marker progression stratified by disease subtype, including prodromal Parkinson's disease and prodromal dementia with Lewy bodies. In addition, we calculated sample size requirements to demonstrate slowing of progression under different anticipated treatment effects. Overall, 1160 subjects were followed over an average of 3.3 ± 2.2 years. Among clinical variables assessed continuously, motor variables tended to progress faster and required the lowest sample sizes, ranging from 151 to 560 per group (at 50% drug efficacy and 2-year follow-up). By contrast, cognitive, olfactory and autonomic variables showed modest progression with higher variability, resulting in high sample sizes. The most efficient design was a time-to-event analysis using combined milestones of motor and cognitive decline, estimating 117 per group at 50% drug efficacy and 2-year trial duration. Finally, while phenoconverters showed overall greater progression than non-converters in motor, olfactory, cognitive and certain autonomic markers, the only robust difference in progression between Parkinson's disease and dementia with Lewy bodies phenoconverters was in cognitive testing. This large multicentre study demonstrates the evolution of motor and non-motor manifestations in prodromal synucleinopathy. These findings provide optimized clinical end points and sample size estimates to inform future neuroprotective trials."
+      ],
+      "abstract": "The neurodegenerative synucleinopathies, including Parkinson's disease and dementia with Lewy bodies, are characterized by a typically lengthy prodromal period of progressive subclinical motor and non-motor manifestations. Among these, idiopathic REM sleep behaviour disorder is a powerful early predictor of eventual phenoconversion, and therefore represents a critical opportunity to intervene with neuroprotective therapy. To inform the design of randomized trials, it is essential to study the natural progression of clinical markers during the prodromal stages of disease in order to establish optimal clinical end points. In this study, we combined prospective follow-up data from 28 centres of the International REM Sleep Behavior Disorder Study Group representing 12 countries. Polysomnogram-confirmed REM sleep behaviour disorder subjects were assessed for prodromal Parkinson's disease using the Movement Disorder Society criteria and underwent periodic structured sleep, motor, cognitive, autonomic and olfactory testing. We used linear mixed-effect modelling to estimate annual rates of clinical marker progression stratified by disease subtype, including prodromal Parkinson's disease and prodromal dementia with Lewy bodies. In addition, we calculated sample size requirements to demonstrate slowing of progression under different anticipated treatment effects. Overall, 1160 subjects were followed over an average of 3.3 ± 2.2 years. Among clinical variables assessed continuously, motor variables tended to progress faster and required the lowest sample sizes, ranging from 151 to 560 per group (at 50% drug efficacy and 2-year follow-up). By contrast, cognitive, olfactory and autonomic variables showed modest progression with higher variability, resulting in high sample sizes. The most efficient design was a time-to-event analysis using combined milestones of motor and cognitive decline, estimating 117 per group at 50% drug efficacy and 2-year trial duration. Finally, while phenoconverters showed overall greater progression than non-converters in motor, olfactory, cognitive and certain autonomic markers, the only robust difference in progression between Parkinson's disease and dementia with Lewy bodies phenoconverters was in cognitive testing. This large multicentre study demonstrates the evolution of motor and non-motor manifestations in prodromal synucleinopathy. These findings provide optimized clinical end points and sample size estimates to inform future neuroprotective trials.",
+      "evidence_sentences": [
+        "We used linear mixed-effect modelling to estimate annual rates of clinical marker progression stratified by disease subtype, including prodromal Parkinson's disease and prodromal dementia with Lewy bodies.",
+        "Finally, while phenoconverters showed overall greater progression than non-converters in motor, olfactory, cognitive and certain autonomic markers, the only robust difference in progression between Parkinson's disease and dementia with Lewy bodies phenoconverters was in cognitive testing.",
+        "Polysomnogram-confirmed REM sleep behaviour disorder subjects were assessed for prodromal Parkinson's disease using the Movement Disorder Society criteria and underwent periodic structured sleep, motor, cognitive, autonomic and olfactory testing."
+      ],
+      "publication_types": [
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Stephen Joza",
+        "Michele T Hu",
+        "Ki-Young Jung",
+        "Dieter Kunz",
+        "Ambra Stefani",
+        "Petr Dušek",
+        "Michele Terzaghi",
+        "Dario Arnaldi",
+        "Aleksandar Videnovic",
+        "Mya C Schiess",
+        "Wiebke Hermann",
+        "Jee-Young Lee",
+        "Luigi Ferini-Strambi",
+        "Simon J G Lewis",
+        "Laurène Leclair-Visonneau",
+        "Wolfgang H Oertel",
+        "Elena Antelmi",
+        "Friederike Sixel-Döring",
+        "Valérie Cochen De Cock",
+        "Claudio Liguori",
+        "Jun Liu",
+        "Federica Provini",
+        "Monica Puligheddu",
+        "Alessandra Nicoletti",
+        "Claudio L A Bassetti",
+        "Jitka Bušková",
+        "Yves Dauvilliers",
+        "Raffaele Ferri",
+        "Jacques Y Montplaisir",
+        "Michael Lawton",
+        "Han-Joon Kim",
+        "Frederik Bes",
+        "Birgit Högl",
+        "Karel Šonka",
+        "Giuseppe Fiamingo",
+        "Pietro Mattioli",
+        "Maria Lorena Lavadia",
+        "Jessika Suescun",
+        "Kyung Ah Woo",
+        "Sara Marelli",
+        "Kaylena Ehgoetz Martens",
+        "Annette Janzen",
+        "Giuseppe Plazzi",
+        "Brit Mollenhauer",
+        "Mariana Fernandes",
+        "Yuanyuan Li",
+        "Pietro Cortelli",
+        "Michela Figorilli",
+        "Calogero Edoardo Cicero",
+        "Carolin Schaefer",
+        "Lily Guiraud",
+        "Giuseppe Lanza",
+        "Jean-François Gagnon",
+        "Jun-Sang Sunwoo",
+        "Abubaker Ibrahim",
+        "Nicola Girtler",
+        "Claudia Trenkwalder",
+        "Luca Baldelli",
+        "Amelie Pelletier",
+        "Ronald B Postuma",
+        "International REM Sleep Behavior Disorder Study Group"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36881989/"
+    },
+    {
+      "pmid": "27252382",
+      "title": "TFEB at a glance.",
+      "journal": "Journal of cell science",
+      "abstract_sections": [
+        "The transcription factor EB (TFEB) plays a pivotal role in the regulation of basic cellular processes, such as lysosomal biogenesis and autophagy. The subcellular localization and activity of TFEB are regulated by mechanistic target of rapamycin (mTOR)-mediated phosphorylation, which occurs at the lysosomal surface. Phosphorylated TFEB is retained in the cytoplasm, whereas dephosphorylated TFEB translocates to the nucleus to induce the transcription of target genes. Thus, a lysosome-to-nucleus signaling pathway regulates cellular energy metabolism through TFEB. Recently, in vivo studies have revealed that TFEB is also involved in physiological processes, such as lipid catabolism. TFEB has attracted a lot of attention owing to its ability to induce the intracellular clearance of pathogenic factors in a variety of murine models of disease, such as Parkinson's and Alzheimer's, suggesting that novel therapeutic strategies could be based on the modulation of TFEB activity. In this Cell Science at a Glance article and accompanying poster, we present an overview of the latest research on TFEB function and its implication in human diseases."
+      ],
+      "abstract": "The transcription factor EB (TFEB) plays a pivotal role in the regulation of basic cellular processes, such as lysosomal biogenesis and autophagy. The subcellular localization and activity of TFEB are regulated by mechanistic target of rapamycin (mTOR)-mediated phosphorylation, which occurs at the lysosomal surface. Phosphorylated TFEB is retained in the cytoplasm, whereas dephosphorylated TFEB translocates to the nucleus to induce the transcription of target genes. Thus, a lysosome-to-nucleus signaling pathway regulates cellular energy metabolism through TFEB. Recently, in vivo studies have revealed that TFEB is also involved in physiological processes, such as lipid catabolism. TFEB has attracted a lot of attention owing to its ability to induce the intracellular clearance of pathogenic factors in a variety of murine models of disease, such as Parkinson's and Alzheimer's, suggesting that novel therapeutic strategies could be based on the modulation of TFEB activity. In this Cell Science at a Glance article and accompanying poster, we present an overview of the latest research on TFEB function and its implication in human diseases.",
+      "evidence_sentences": [
+        "TFEB has attracted a lot of attention owing to its ability to induce the intracellular clearance of pathogenic factors in a variety of murine models of disease, such as Parkinson's and Alzheimer's, suggesting that novel therapeutic strategies could be based on the modulation of TFEB activity.",
+        "In this Cell Science at a Glance article and accompanying poster, we present an overview of the latest research on TFEB function and its implication in human diseases."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Gennaro Napolitano",
+        "Andrea Ballabio"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27252382/"
+    },
+    {
+      "pmid": "32691910",
+      "title": "What Matters in Parkinson's Disease: Sex, Number of Children, or Birth Cohort?",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Rita A Popat",
+        "Lorene M Nelson"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32691910/"
+    },
+    {
+      "pmid": "31656104",
+      "title": "The reliability and validity of the Timed Up and Go as a clinical tool in individuals with and without disabilities across a lifespan: a systematic review.",
+      "journal": "Disability and rehabilitation",
+      "abstract_sections": [
+        "To summarize the available literature related to reliability and validity of the Timed Up and Go in typical adults and children, and individuals diagnosed with the following pathologies: Huntington's disease, stroke, multiple sclerosis, Parkinson's disease, spinal cord injury, Down syndrome, or cerebral palsy.",
+        "A search was conducted using MeSH terms and keywords through a variety of databases. Data regarding reliability and validity were synthesized.",
+        "This review included 77 articles. Results were variable depending on the studied population. The Timed Up and Go showed excellent reliability in typical adults, in individuals with cerebral palsy, in individuals with multiple sclerosis, in individuals with Huntington's disease, individuals with a stroke, and individuals with a spinal cord injury. The TUG demonstrated strong concurrent validity for individuals with stroke and spinal cord injury. Predictive validity data was limited.",
+        "Based on the literature assessed, the Timed Up and Go is clinically applicable and reliable across multiple populations. The Timed Up and Go has a wide variety of clinical use making it a diverse measure that should be considered when choosing an outcome an activity based outcome measure. However, there are some limitations in the validity of the utilization of the Timed Up and Go to some populations due to a lack of data and/or poor choice of comparison outcome measures when assessing validity. Additional research is needed for young to middle aged adults.IMPLICATIONS FOR REHABILITATIONOutcome measures are a vital component of clinical practice across all populations.The Timed Up and Go is a highly studied outcome measure in the geriatric population, but lacks research of its applicability to other populations.This study was able to highlight the clinical utility of the Timed Up and Go in populations that under utilize this outcome measure."
+      ],
+      "abstract": "To summarize the available literature related to reliability and validity of the Timed Up and Go in typical adults and children, and individuals diagnosed with the following pathologies: Huntington's disease, stroke, multiple sclerosis, Parkinson's disease, spinal cord injury, Down syndrome, or cerebral palsy.\n\nA search was conducted using MeSH terms and keywords through a variety of databases. Data regarding reliability and validity were synthesized.\n\nThis review included 77 articles. Results were variable depending on the studied population. The Timed Up and Go showed excellent reliability in typical adults, in individuals with cerebral palsy, in individuals with multiple sclerosis, in individuals with Huntington's disease, individuals with a stroke, and individuals with a spinal cord injury. The TUG demonstrated strong concurrent validity for individuals with stroke and spinal cord injury. Predictive validity data was limited.\n\nBased on the literature assessed, the Timed Up and Go is clinically applicable and reliable across multiple populations. The Timed Up and Go has a wide variety of clinical use making it a diverse measure that should be considered when choosing an outcome an activity based outcome measure. However, there are some limitations in the validity of the utilization of the Timed Up and Go to some populations due to a lack of data and/or poor choice of comparison outcome measures when assessing validity. Additional research is needed for young to middle aged adults.IMPLICATIONS FOR REHABILITATIONOutcome measures are a vital component of clinical practice across all populations.The Timed Up and Go is a highly studied outcome measure in the geriatric population, but lacks research of its applicability to other populations.This study was able to highlight the clinical utility of the Timed Up and Go in populations that under utilize this outcome measure.",
+      "evidence_sentences": [
+        "To summarize the available literature related to reliability and validity of the Timed Up and Go in typical adults and children, and individuals diagnosed with the following pathologies: Huntington's disease, stroke, multiple sclerosis, Parkinson's disease, spinal cord injury, Down syndrome, or cerebral palsy.",
+        "The Timed Up and Go showed excellent reliability in typical adults, in individuals with cerebral palsy, in individuals with multiple sclerosis, in individuals with Huntington's disease, individuals with a stroke, and individuals with a spinal cord injury.",
+        "Additional research is needed for young to middle aged adults.IMPLICATIONS FOR REHABILITATIONOutcome measures are a vital component of clinical practice across all populations.The Timed Up and Go is a highly studied outcome measure in the geriatric population, but lacks research of its applicability to other populations.This study was able to highlight the clinical utility of the Timed Up and Go in populations that under utilize this outcome measure."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Ashley Christopher",
+        "Emily Kraft",
+        "Hannah Olenick",
+        "Riley Kiesling",
+        "Antonette Doty"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31656104/"
+    },
+    {
+      "pmid": "38613632",
+      "title": "Nurses, Clergy, Chaplains, Parkinson's Disease, Workplace Religiosity, Women's Health and Family Issues.",
+      "journal": "Journal of religion and health",
+      "abstract_sections": [
+        "This issue of JORH explores a broad range of topics looking at the professions of nursing, clergy and chaplains. This issue also concludes the series on Parkinson's disease (Part 2), and for the first time, JORH presents a collation of articles relating to workplace religiosity. Finally, this issue revisits the topics of women's health and family issues in relation to religiosity and spirituality."
+      ],
+      "abstract": "This issue of JORH explores a broad range of topics looking at the professions of nursing, clergy and chaplains. This issue also concludes the series on Parkinson's disease (Part 2), and for the first time, JORH presents a collation of articles relating to workplace religiosity. Finally, this issue revisits the topics of women's health and family issues in relation to religiosity and spirituality.",
+      "evidence_sentences": [
+        "This issue also concludes the series on Parkinson's disease (Part 2), and for the first time, JORH presents a collation of articles relating to workplace religiosity."
+      ],
+      "publication_types": [
+        "Editorial",
+        "Introductory Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Lindsay B Carey",
+        "Jeffery Cohen",
+        "David Drummond",
+        "Carl Aiken",
+        "Harold G Koenig",
+        "Terrence Hill",
+        "Ezra Gabbay",
+        "Jacinda R Carey",
+        "Piret Paal"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38613632/"
+    },
+    {
+      "pmid": "36108674",
+      "title": "Structures of α-synuclein filaments from human brains with Lewy pathology.",
+      "journal": "Nature",
+      "abstract_sections": [
+        "Parkinson's disease (PD) is the most common movement disorder, with resting tremor, rigidity, bradykinesia and postural instability being major symptoms"
+      ],
+      "abstract": "Parkinson's disease (PD) is the most common movement disorder, with resting tremor, rigidity, bradykinesia and postural instability being major symptoms",
+      "evidence_sentences": [
+        "Parkinson's disease (PD) is the most common movement disorder, with resting tremor, rigidity, bradykinesia and postural instability being major symptoms"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Yang Yang",
+        "Yang Shi",
+        "Manuel Schweighauser",
+        "Xianjun Zhang",
+        "Abhay Kotecha",
+        "Alexey G Murzin",
+        "Holly J Garringer",
+        "Patrick W Cullinane",
+        "Yuko Saito",
+        "Tatiana Foroud",
+        "Thomas T Warner",
+        "Kazuko Hasegawa",
+        "Ruben Vidal",
+        "Shigeo Murayama",
+        "Tamas Revesz",
+        "Bernardino Ghetti",
+        "Masato Hasegawa",
+        "Tammaryn Lashley",
+        "Sjors H W Scheres",
+        "Michel Goedert"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36108674/"
+    },
+    {
+      "pmid": "37947998",
+      "title": "Suicide, Moral Injury, Parkinson's Disease, Diabetes and Dialysis.",
+      "journal": "Journal of religion and health",
+      "abstract_sections": [
+        "This issue of JORH presents the first of a two-part series specifically exploring suicide. Research relating to moral injury is also included-a topic which has previously been discussed within earlier editions of JORH and an issue that is increasingly recognised as being associated with suicide. Other topic areas explored within this issue are Parkinson's Disease, Diabetes, and Haemodialysis. Finally, readers are once again reminded of the 9th European Congress on Religion, Spirituality and Health (ECRSH) to be held in May 2024, 16-18th at the Paracelsus Medical University in Salzburg, Austria. We would also like to announce a proposed inaugural International Moral Injury and Wellbeing Conference (IMIWC), 19-20 September 2024, Brisbane Exhibition and Convention Centre, Australia."
+      ],
+      "abstract": "This issue of JORH presents the first of a two-part series specifically exploring suicide. Research relating to moral injury is also included-a topic which has previously been discussed within earlier editions of JORH and an issue that is increasingly recognised as being associated with suicide. Other topic areas explored within this issue are Parkinson's Disease, Diabetes, and Haemodialysis. Finally, readers are once again reminded of the 9th European Congress on Religion, Spirituality and Health (ECRSH) to be held in May 2024, 16-18th at the Paracelsus Medical University in Salzburg, Austria. We would also like to announce a proposed inaugural International Moral Injury and Wellbeing Conference (IMIWC), 19-20 September 2024, Brisbane Exhibition and Convention Centre, Australia.",
+      "evidence_sentences": [
+        "Other topic areas explored within this issue are Parkinson's Disease, Diabetes, and Haemodialysis."
+      ],
+      "publication_types": [
+        "Editorial"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Lindsay B Carey",
+        "Terrence Hill",
+        "Harold G Koenig",
+        "David Drummond",
+        "Ezra Gabbay",
+        "Jeffery Cohen",
+        "Carl Aiken",
+        "Piret Paal"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37947998/"
+    },
+    {
+      "pmid": "34071875",
+      "title": "The Application of Creatine Supplementation in Medical Rehabilitation.",
+      "journal": "Nutrients",
+      "abstract_sections": [
+        "Numerous health conditions affecting the musculoskeletal, cardiopulmonary, and nervous systems can result in physical dysfunction, impaired performance, muscle weakness, and disuse-induced atrophy. Due to its well-documented anabolic potential, creatine monohydrate has been investigated as a supplemental agent to mitigate the loss of muscle mass and function in a variety of acute and chronic conditions. A review of the literature was conducted to assess the current state of knowledge regarding the effects of creatine supplementation on rehabilitation from immobilization and injury, neurodegenerative diseases, cardiopulmonary disease, and other muscular disorders. Several of the findings are encouraging, showcasing creatine's potential efficacy as a supplemental agent via preservation of muscle mass, strength, and physical function; however, the results are not consistent. For multiple diseases, only a few creatine studies with small sample sizes have been published, making it difficult to draw definitive conclusions. Rationale for discordant findings is further complicated by differences in disease pathologies, intervention protocols, creatine dosing and duration, and patient population. While creatine supplementation demonstrates promise as a therapeutic aid, more research is needed to fill gaps in knowledge within medical rehabilitation."
+      ],
+      "abstract": "Numerous health conditions affecting the musculoskeletal, cardiopulmonary, and nervous systems can result in physical dysfunction, impaired performance, muscle weakness, and disuse-induced atrophy. Due to its well-documented anabolic potential, creatine monohydrate has been investigated as a supplemental agent to mitigate the loss of muscle mass and function in a variety of acute and chronic conditions. A review of the literature was conducted to assess the current state of knowledge regarding the effects of creatine supplementation on rehabilitation from immobilization and injury, neurodegenerative diseases, cardiopulmonary disease, and other muscular disorders. Several of the findings are encouraging, showcasing creatine's potential efficacy as a supplemental agent via preservation of muscle mass, strength, and physical function; however, the results are not consistent. For multiple diseases, only a few creatine studies with small sample sizes have been published, making it difficult to draw definitive conclusions. Rationale for discordant findings is further complicated by differences in disease pathologies, intervention protocols, creatine dosing and duration, and patient population. While creatine supplementation demonstrates promise as a therapeutic aid, more research is needed to fill gaps in knowledge within medical rehabilitation.",
+      "evidence_sentences": [
+        "A review of the literature was conducted to assess the current state of knowledge regarding the effects of creatine supplementation on rehabilitation from immobilization and injury, neurodegenerative diseases, cardiopulmonary disease, and other muscular disorders.",
+        "Rationale for discordant findings is further complicated by differences in disease pathologies, intervention protocols, creatine dosing and duration, and patient population.",
+        "For multiple diseases, only a few creatine studies with small sample sizes have been published, making it difficult to draw definitive conclusions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Kylie K Harmon",
+        "Jeffrey R Stout",
+        "David H Fukuda",
+        "Patrick S Pabian",
+        "Eric S Rawson",
+        "Matt S Stock"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34071875/"
+    },
+    {
+      "pmid": "32966778",
+      "title": "Human Stem Cell-Derived Neurons Repair Circuits and Restore Neural Function.",
+      "journal": "Cell stem cell",
+      "abstract_sections": [
+        "Although cell transplantation can rescue motor defects in Parkinson's disease (PD) models, whether and how grafts functionally repair damaged neural circuitry in the adult brain is not known. We transplanted hESC-derived midbrain dopamine (mDA) or cortical glutamate neurons into the substantia nigra or striatum of a mouse PD model and found extensive graft integration with host circuitry. Axonal pathfinding toward the dorsal striatum was determined by the identity of the grafted neurons, and anatomical presynaptic inputs were largely dependent on graft location, whereas inhibitory versus excitatory input was dictated by the identity of grafted neurons. hESC-derived mDA neurons display A9 characteristics and restore functionality of the reconstructed nigrostriatal circuit to mediate improvements in motor function. These results indicate similarity in cell-type-specific pre- and post-synaptic integration between transplant-reconstructed circuit and endogenous neural networks, highlighting the capacity of hPSC-derived neuron subtypes for specific circuit repair and functional restoration in the adult brain."
+      ],
+      "abstract": "Although cell transplantation can rescue motor defects in Parkinson's disease (PD) models, whether and how grafts functionally repair damaged neural circuitry in the adult brain is not known. We transplanted hESC-derived midbrain dopamine (mDA) or cortical glutamate neurons into the substantia nigra or striatum of a mouse PD model and found extensive graft integration with host circuitry. Axonal pathfinding toward the dorsal striatum was determined by the identity of the grafted neurons, and anatomical presynaptic inputs were largely dependent on graft location, whereas inhibitory versus excitatory input was dictated by the identity of grafted neurons. hESC-derived mDA neurons display A9 characteristics and restore functionality of the reconstructed nigrostriatal circuit to mediate improvements in motor function. These results indicate similarity in cell-type-specific pre- and post-synaptic integration between transplant-reconstructed circuit and endogenous neural networks, highlighting the capacity of hPSC-derived neuron subtypes for specific circuit repair and functional restoration in the adult brain.",
+      "evidence_sentences": [
+        "Although cell transplantation can rescue motor defects in Parkinson's disease (PD) models, whether and how grafts functionally repair damaged neural circuitry in the adult brain is not known."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Man Xiong",
+        "Yezheng Tao",
+        "Qinqin Gao",
+        "Ban Feng",
+        "Wei Yan",
+        "Yingying Zhou",
+        "Thomas A Kotsonis",
+        "Tingli Yuan",
+        "Zhiwen You",
+        "Ziyan Wu",
+        "Jiajie Xi",
+        "Alexander Haberman",
+        "Julia Graham",
+        "Jasper Block",
+        "Wenhao Zhou",
+        "Yuejun Chen",
+        "Su-Chun Zhang"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32966778/"
+    },
+    {
+      "pmid": "40056900",
+      "title": "Haploinsufficiency of ITSN1 is associated with a substantial increased risk of Parkinson's disease.",
+      "journal": "Cell reports",
+      "abstract_sections": [
+        "Despite its significant heritability, the genetic basis of Parkinson's disease (PD) remains incompletely understood. Here, in analyzing whole-genome sequence data from 3,809 PD cases and 247,101 controls in the UK Biobank, we discover that protein-truncating variants in ITSN1 confer a substantially increased risk of PD (p = 6.1 × 10"
+      ],
+      "abstract": "Despite its significant heritability, the genetic basis of Parkinson's disease (PD) remains incompletely understood. Here, in analyzing whole-genome sequence data from 3,809 PD cases and 247,101 controls in the UK Biobank, we discover that protein-truncating variants in ITSN1 confer a substantially increased risk of PD (p = 6.1 × 10",
+      "evidence_sentences": [
+        "Despite its significant heritability, the genetic basis of Parkinson's disease (PD) remains incompletely understood."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Thomas P Spargo",
+        "Chloe F Sands",
+        "Isabella R Juan",
+        "Jonathan Mitchell",
+        "Vida Ravanmehr",
+        "Jessica C Butts",
+        "Ruth B De-Paula",
+        "Youngdoo Kim",
+        "Fengyuan Hu",
+        "Quanli Wang",
+        "Dimitrios Vitsios",
+        "Manik Garg",
+        "Lawrence Middleton",
+        "Michal Tyrlik",
+        "Mirko Messa",
+        "Guillermo Del Angel",
+        "Daniel G Calame",
+        "Hiba Saade",
+        "Laurie Robak",
+        "Ben Hollis",
+        "Vishnu A Cuddapah",
+        "Huda Y Zoghbi",
+        "Joshua M Shulman",
+        "Slavé Petrovski",
+        "Ismael Al-Ramahi",
+        "Ioanna Tachmazidou",
+        "Ryan S Dhindsa"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40056900/"
+    },
+    {
+      "pmid": "32444562",
+      "title": "Deep Phenotyping of Parkinson's Disease.",
+      "journal": "Journal of Parkinson's disease",
+      "abstract_sections": [
+        "Phenotype is the set of observable traits of an organism or condition. While advances in genetics, imaging, and molecular biology have improved our understanding of the underlying biology of Parkinson's disease (PD), clinical phenotyping of PD still relies primarily on history and physical examination. These subjective, episodic, categorical assessments are valuable for diagnosis and care but have left gaps in our understanding of the PD phenotype. Sensors can provide objective, continuous, real-world data about the PD clinical phenotype, increase our knowledge of its pathology, enhance evaluation of therapies, and ultimately, improve patient care. In this paper, we explore the concept of deep phenotyping-the comprehensive assessment of a condition using multiple clinical, biological, genetic, imaging, and sensor-based tools-for PD. We discuss the rationale for, outline current approaches to, identify benefits and limitations of, and consider future directions for deep clinical phenotyping."
+      ],
+      "abstract": "Phenotype is the set of observable traits of an organism or condition. While advances in genetics, imaging, and molecular biology have improved our understanding of the underlying biology of Parkinson's disease (PD), clinical phenotyping of PD still relies primarily on history and physical examination. These subjective, episodic, categorical assessments are valuable for diagnosis and care but have left gaps in our understanding of the PD phenotype. Sensors can provide objective, continuous, real-world data about the PD clinical phenotype, increase our knowledge of its pathology, enhance evaluation of therapies, and ultimately, improve patient care. In this paper, we explore the concept of deep phenotyping-the comprehensive assessment of a condition using multiple clinical, biological, genetic, imaging, and sensor-based tools-for PD. We discuss the rationale for, outline current approaches to, identify benefits and limitations of, and consider future directions for deep clinical phenotyping.",
+      "evidence_sentences": [
+        "While advances in genetics, imaging, and molecular biology have improved our understanding of the underlying biology of Parkinson's disease (PD), clinical phenotyping of PD still relies primarily on history and physical examination."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "E Ray Dorsey",
+        "Larsson Omberg",
+        "Emma Waddell",
+        "Jamie L Adams",
+        "Roy Adams",
+        "Mohammad Rafayet Ali",
+        "Katherine Amodeo",
+        "Abigail Arky",
+        "Erika F Augustine",
+        "Karthik Dinesh",
+        "Mohammed Ehsan Hoque",
+        "Alistair M Glidden",
+        "Stella Jensen-Roberts",
+        "Zachary Kabelac",
+        "Dina Katabi",
+        "Karl Kieburtz",
+        "Daniel R Kinel",
+        "Max A Little",
+        "Karlo J Lizarraga",
+        "Taylor Myers",
+        "Sara Riggare",
+        "Spencer Z Rosero",
+        "Suchi Saria",
+        "Giovanni Schifitto",
+        "Ruth B Schneider",
+        "Gaurav Sharma",
+        "Ira Shoulson",
+        "E Anna Stevenson",
+        "Christopher G Tarolli",
+        "Jiebo Luo",
+        "Michael P McDermott"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32444562/"
+    },
+    {
+      "pmid": "27677316",
+      "title": "Perioperative management of Parkinson's disease.",
+      "journal": "Expert review of neurotherapeutics",
+      "abstract_sections": [
+        "Guidelines for the management of Parkinson's disease (PD) patients in the perioperative setting are lacking. Areas covered: Here we review potential problems that may arise when PD patients are undergoing an operation. We also review the literature, where available, and provide our expert opinion and recommendations based on experience. Expert commentary: Elderly patients with PD are especially prone to complications in the perioperative setting. Extreme caution must be used to ensure appropriate medication administration, transition to non-oral agents, if indicated, and early mobilization to achieve rapid recovery after surgery."
+      ],
+      "abstract": "Guidelines for the management of Parkinson's disease (PD) patients in the perioperative setting are lacking. Areas covered: Here we review potential problems that may arise when PD patients are undergoing an operation. We also review the literature, where available, and provide our expert opinion and recommendations based on experience. Expert commentary: Elderly patients with PD are especially prone to complications in the perioperative setting. Extreme caution must be used to ensure appropriate medication administration, transition to non-oral agents, if indicated, and early mobilization to achieve rapid recovery after surgery.",
+      "evidence_sentences": [
+        "Guidelines for the management of Parkinson's disease (PD) patients in the perioperative setting are lacking.",
+        "We also review the literature, where available, and provide our expert opinion and recommendations based on experience.",
+        "Areas covered: Here we review potential problems that may arise when PD patients are undergoing an operation."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Umer Akbar",
+        "Arlet G Kurkchubasche",
+        "Joseph H Friedman"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27677316/"
+    },
+    {
+      "pmid": "32165138",
+      "title": "Effects of air pollution on the nervous system and its possible role in neurodevelopmental and neurodegenerative disorders.",
+      "journal": "Pharmacology & therapeutics",
+      "abstract_sections": [
+        "Recent extensive evidence indicates that air pollution, in addition to causing respiratory and cardiovascular diseases, may also negatively affect the brain and contribute to central nervous system diseases. Air pollution is comprised of ambient particulate matter (PM) of different sizes, gases, organic compounds, and metals. An important contributor to PM is represented by traffic-related air pollution, mostly ascribed to diesel exhaust (DE). Epidemiological and animal studies have shown that exposure to air pollution may be associated with multiple adverse effects on the central nervous system. In addition to a variety of behavioral abnormalities, the most prominent effects caused by air pollution are oxidative stress and neuro-inflammation, which are seen in both humans and animals, and are supported by in vitro studies. Among factors which can affect neurotoxic outcomes, age is considered most relevant. Human and animal studies suggest that air pollution may cause developmental neurotoxicity, and may contribute to the etiology of neurodevelopmental disorders, including autism spectrum disorder. In addition, air pollution exposure has been associated with increased expression of markers of neurodegenerative disease pathologies, such as alpha-synuclein or beta-amyloid, and may thus contribute to the etiopathogenesis of neurodegenerative diseases, particularly Alzheimer's disease and Parkinson's disease."
+      ],
+      "abstract": "Recent extensive evidence indicates that air pollution, in addition to causing respiratory and cardiovascular diseases, may also negatively affect the brain and contribute to central nervous system diseases. Air pollution is comprised of ambient particulate matter (PM) of different sizes, gases, organic compounds, and metals. An important contributor to PM is represented by traffic-related air pollution, mostly ascribed to diesel exhaust (DE). Epidemiological and animal studies have shown that exposure to air pollution may be associated with multiple adverse effects on the central nervous system. In addition to a variety of behavioral abnormalities, the most prominent effects caused by air pollution are oxidative stress and neuro-inflammation, which are seen in both humans and animals, and are supported by in vitro studies. Among factors which can affect neurotoxic outcomes, age is considered most relevant. Human and animal studies suggest that air pollution may cause developmental neurotoxicity, and may contribute to the etiology of neurodevelopmental disorders, including autism spectrum disorder. In addition, air pollution exposure has been associated with increased expression of markers of neurodegenerative disease pathologies, such as alpha-synuclein or beta-amyloid, and may thus contribute to the etiopathogenesis of neurodegenerative diseases, particularly Alzheimer's disease and Parkinson's disease.",
+      "evidence_sentences": [
+        "In addition, air pollution exposure has been associated with increased expression of markers of neurodegenerative disease pathologies, such as alpha-synuclein or beta-amyloid, and may thus contribute to the etiopathogenesis of neurodegenerative diseases, particularly Alzheimer's disease and Parkinson's disease.",
+        "In addition to a variety of behavioral abnormalities, the most prominent effects caused by air pollution are oxidative stress and neuro-inflammation, which are seen in both humans and animals, and are supported by in vitro studies.",
+        "Recent extensive evidence indicates that air pollution, in addition to causing respiratory and cardiovascular diseases, may also negatively affect the brain and contribute to central nervous system diseases."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Lucio G Costa",
+        "Toby B Cole",
+        "Khoi Dao",
+        "Yu-Chi Chang",
+        "Jacki Coburn",
+        "Jacqueline M Garrick"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32165138/"
+    },
+    {
+      "pmid": "29936902",
+      "title": "Prospective memory in clinical populations.",
+      "journal": "The Clinical neuropsychologist",
+      "abstract_sections": [
+        "Prospective memory (PM) has emerged as a form of episodic memory that is frequently impaired in a variety of clinical populations. Neuropsychologists who routinely evaluate these populations are often unaware of the possibility of PM deficits or the impact these deficits may have on everyday functioning. The objective of this special issue is to provide an overview of the nature of prospective deficits in a range of clinical populations, to discuss neuropsychological assessment techniques, and to critically evaluate management strategies.",
+        "We solicited papers from established researchers and issued a general call for papers for the special issue on PM in clinical populations.",
+        "We received submissions from the nine authors that we solicited. These submissions range from developmental disorders, including autism, attention deficit hyperactivity disorder, and dyslexia; to disorders of adulthood, such as schizophrenia, HIV, brain injury, and multiple sclerosis; and finally disorders that tend to occur at older ages, such as Parkinson's disease and mild cognitive impairment. In addition, we have included four original research articles that provide novel data on other populations. These are children and adolescents with 22q11.2 deletion syndrome, first-degree relatives of people with schizophrenia, individuals with mild brain injury, and individuals with idiopathic REM sleep behavioral disorder.",
+        "The issue highlights the need for clinical neuropsychologists to be aware of the possible existence of deficits in PM in a variety of clinical populations and the importance of both assessment and management strategies to reduce the impact on daily life."
+      ],
+      "abstract": "Prospective memory (PM) has emerged as a form of episodic memory that is frequently impaired in a variety of clinical populations. Neuropsychologists who routinely evaluate these populations are often unaware of the possibility of PM deficits or the impact these deficits may have on everyday functioning. The objective of this special issue is to provide an overview of the nature of prospective deficits in a range of clinical populations, to discuss neuropsychological assessment techniques, and to critically evaluate management strategies.\n\nWe solicited papers from established researchers and issued a general call for papers for the special issue on PM in clinical populations.\n\nWe received submissions from the nine authors that we solicited. These submissions range from developmental disorders, including autism, attention deficit hyperactivity disorder, and dyslexia; to disorders of adulthood, such as schizophrenia, HIV, brain injury, and multiple sclerosis; and finally disorders that tend to occur at older ages, such as Parkinson's disease and mild cognitive impairment. In addition, we have included four original research articles that provide novel data on other populations. These are children and adolescents with 22q11.2 deletion syndrome, first-degree relatives of people with schizophrenia, individuals with mild brain injury, and individuals with idiopathic REM sleep behavioral disorder.\n\nThe issue highlights the need for clinical neuropsychologists to be aware of the possible existence of deficits in PM in a variety of clinical populations and the importance of both assessment and management strategies to reduce the impact on daily life.",
+      "evidence_sentences": [
+        "These submissions range from developmental disorders, including autism, attention deficit hyperactivity disorder, and dyslexia; to disorders of adulthood, such as schizophrenia, HIV, brain injury, and multiple sclerosis; and finally disorders that tend to occur at older ages, such as Parkinson's disease and mild cognitive impairment.",
+        "These are children and adolescents with 22q11.2 deletion syndrome, first-degree relatives of people with schizophrenia, individuals with mild brain injury, and individuals with idiopathic REM sleep behavioral disorder."
+      ],
+      "publication_types": [
+        "Editorial",
+        "Introductory Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Sarah A Raskin"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29936902/"
+    },
+    {
+      "pmid": "38946200",
+      "title": "Research Priorities on the Role of α-Synuclein in Parkinson's Disease Pathogenesis.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "abstract_sections": [
+        "Various forms of Parkinson's disease, including its common sporadic form, are characterized by prominent α-synuclein (αSyn) aggregation in affected brain regions. However, the role of αSyn in the pathogenesis and evolution of the disease remains unclear, despite vast research efforts of more than a quarter century. A better understanding of the role of αSyn, either primary or secondary, is critical for developing disease-modifying therapies. Previous attempts to hone this research have been challenged by experimental limitations, but recent technological advances may facilitate progress. The Scientific Issues Committee of the International Parkinson and Movement Disorder Society (MDS) charged a panel of experts in the field to discuss current scientific priorities and identify research strategies with potential for a breakthrough. © 2024 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society."
+      ],
+      "abstract": "Various forms of Parkinson's disease, including its common sporadic form, are characterized by prominent α-synuclein (αSyn) aggregation in affected brain regions. However, the role of αSyn in the pathogenesis and evolution of the disease remains unclear, despite vast research efforts of more than a quarter century. A better understanding of the role of αSyn, either primary or secondary, is critical for developing disease-modifying therapies. Previous attempts to hone this research have been challenged by experimental limitations, but recent technological advances may facilitate progress. The Scientific Issues Committee of the International Parkinson and Movement Disorder Society (MDS) charged a panel of experts in the field to discuss current scientific priorities and identify research strategies with potential for a breakthrough. © 2024 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "evidence_sentences": [
+        "Various forms of Parkinson's disease, including its common sporadic form, are characterized by prominent α-synuclein (αSyn) aggregation in affected brain regions.",
+        "However, the role of αSyn in the pathogenesis and evolution of the disease remains unclear, despite vast research efforts of more than a quarter century.",
+        "The Scientific Issues Committee of the International Parkinson and Movement Disorder Society (MDS) charged a panel of experts in the field to discuss current scientific priorities and identify research strategies with potential for a breakthrough."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Jacqueline Burré",
+        "Robert H Edwards",
+        "Glenda Halliday",
+        "Anthony E Lang",
+        "Hilal A Lashuel",
+        "Ronald Melki",
+        "Shigeo Murayama",
+        "Tiago F Outeiro",
+        "Stella M Papa",
+        "Leonidas Stefanis",
+        "Amanda L Woerman",
+        "Dalton James Surmeier",
+        "Lorraine V Kalia",
+        "Ryosuke Takahashi",
+        "MDS Scientific Issues Committee"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38946200/"
+    },
+    {
+      "pmid": "33589841",
+      "title": "Genome sequencing analysis identifies new loci associated with Lewy body dementia and provides insights into its genetic architecture.",
+      "journal": "Nature genetics",
+      "abstract_sections": [
+        "The genetic basis of Lewy body dementia (LBD) is not well understood. Here, we performed whole-genome sequencing in large cohorts of LBD cases and neurologically healthy controls to study the genetic architecture of this understudied form of dementia, and to generate a resource for the scientific community. Genome-wide association analysis identified five independent risk loci, whereas genome-wide gene-aggregation tests implicated mutations in the gene GBA. Genetic risk scores demonstrate that LBD shares risk profiles and pathways with Alzheimer's disease and Parkinson's disease, providing a deeper molecular understanding of the complex genetic architecture of this age-related neurodegenerative condition."
+      ],
+      "abstract": "The genetic basis of Lewy body dementia (LBD) is not well understood. Here, we performed whole-genome sequencing in large cohorts of LBD cases and neurologically healthy controls to study the genetic architecture of this understudied form of dementia, and to generate a resource for the scientific community. Genome-wide association analysis identified five independent risk loci, whereas genome-wide gene-aggregation tests implicated mutations in the gene GBA. Genetic risk scores demonstrate that LBD shares risk profiles and pathways with Alzheimer's disease and Parkinson's disease, providing a deeper molecular understanding of the complex genetic architecture of this age-related neurodegenerative condition.",
+      "evidence_sentences": [
+        "Genetic risk scores demonstrate that LBD shares risk profiles and pathways with Alzheimer's disease and Parkinson's disease, providing a deeper molecular understanding of the complex genetic architecture of this age-related neurodegenerative condition.",
+        "Here, we performed whole-genome sequencing in large cohorts of LBD cases and neurologically healthy controls to study the genetic architecture of this understudied form of dementia, and to generate a resource for the scientific community."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Intramural"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Ruth Chia",
+        "Marya S Sabir",
+        "Sara Bandres-Ciga",
+        "Sara Saez-Atienzar",
+        "Regina H Reynolds",
+        "Emil Gustavsson",
+        "Ronald L Walton",
+        "Sarah Ahmed",
+        "Coralie Viollet",
+        "Jinhui Ding",
+        "Mary B Makarious",
+        "Monica Diez-Fairen",
+        "Makayla K Portley",
+        "Zalak Shah",
+        "Yevgeniya Abramzon",
+        "Dena G Hernandez",
+        "Cornelis Blauwendraat",
+        "David J Stone",
+        "John Eicher",
+        "Laura Parkkinen",
+        "Olaf Ansorge",
+        "Lorraine Clark",
+        "Lawrence S Honig",
+        "Karen Marder",
+        "Afina Lemstra",
+        "Peter St George-Hyslop",
+        "Elisabet Londos",
+        "Kevin Morgan",
+        "Tammaryn Lashley",
+        "Thomas T Warner",
+        "Zane Jaunmuktane",
+        "Douglas Galasko",
+        "Isabel Santana",
+        "Pentti J Tienari",
+        "Liisa Myllykangas",
+        "Minna Oinas",
+        "Nigel J Cairns",
+        "John C Morris",
+        "Glenda M Halliday",
+        "Vivianna M Van Deerlin",
+        "John Q Trojanowski",
+        "Maurizio Grassano",
+        "Andrea Calvo",
+        "Gabriele Mora",
+        "Antonio Canosa",
+        "Gianluca Floris",
+        "Ryan C Bohannan",
+        "Francesca Brett",
+        "Ziv Gan-Or",
+        "Joshua T Geiger",
+        "Anni Moore",
+        "Patrick May",
+        "Rejko Krüger",
+        "David S Goldstein",
+        "Grisel Lopez",
+        "Nahid Tayebi",
+        "Ellen Sidransky",
+        "American Genome Center",
+        "Lucy Norcliffe-Kaufmann",
+        "Jose-Alberto Palma",
+        "Horacio Kaufmann",
+        "Vikram G Shakkottai",
+        "Matthew Perkins",
+        "Kathy L Newell",
+        "Thomas Gasser",
+        "Claudia Schulte",
+        "Francesco Landi",
+        "Erika Salvi",
+        "Daniele Cusi",
+        "Eliezer Masliah",
+        "Ronald C Kim",
+        "Chad A Caraway",
+        "Edwin S Monuki",
+        "Maura Brunetti",
+        "Ted M Dawson",
+        "Liana S Rosenthal",
+        "Marilyn S Albert",
+        "Olga Pletnikova",
+        "Juan C Troncoso",
+        "Margaret E Flanagan",
+        "Qinwen Mao",
+        "Eileen H Bigio",
+        "Eloy Rodríguez-Rodríguez",
+        "Jon Infante",
+        "Carmen Lage",
+        "Isabel González-Aramburu",
+        "Pascual Sanchez-Juan",
+        "Bernardino Ghetti",
+        "Julia Keith",
+        "Sandra E Black",
+        "Mario Masellis",
+        "Ekaterina Rogaeva",
+        "Charles Duyckaerts",
+        "Alexis Brice",
+        "Suzanne Lesage",
+        "Georgia Xiromerisiou",
+        "Matthew J Barrett",
+        "Bension S Tilley",
+        "Steve Gentleman",
+        "Giancarlo Logroscino",
+        "Geidy E Serrano",
+        "Thomas G Beach",
+        "Ian G McKeith",
+        "Alan J Thomas",
+        "Johannes Attems",
+        "Christopher M Morris",
+        "Laura Palmer",
+        "Seth Love",
+        "Claire Troakes",
+        "Safa Al-Sarraj",
+        "Angela K Hodges",
+        "Dag Aarsland",
+        "Gregory Klein",
+        "Scott M Kaiser",
+        "Randy Woltjer",
+        "Pau Pastor",
+        "Lynn M Bekris",
+        "James B Leverenz",
+        "Lilah M Besser",
+        "Amanda Kuzma",
+        "Alan E Renton",
+        "Alison Goate",
+        "David A Bennett",
+        "Clemens R Scherzer",
+        "Huw R Morris",
+        "Raffaele Ferrari",
+        "Diego Albani",
+        "Stuart Pickering-Brown",
+        "Kelley Faber",
+        "Walter A Kukull",
+        "Estrella Morenas-Rodriguez",
+        "Alberto Lleó",
+        "Juan Fortea",
+        "Daniel Alcolea",
+        "Jordi Clarimon",
+        "Mike A Nalls",
+        "Luigi Ferrucci",
+        "Susan M Resnick",
+        "Toshiko Tanaka",
+        "Tatiana M Foroud",
+        "Neill R Graff-Radford",
+        "Zbigniew K Wszolek",
+        "Tanis Ferman",
+        "Bradley F Boeve",
+        "John A Hardy",
+        "Eric J Topol",
+        "Ali Torkamani",
+        "Andrew B Singleton",
+        "Mina Ryten",
+        "Dennis W Dickson",
+        "Adriano Chiò",
+        "Owen A Ross",
+        "J Raphael Gibbs",
+        "Clifton L Dalgard",
+        "Bryan J Traynor",
+        "Sonja W Scholz"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33589841/"
+    },
+    {
+      "pmid": "37028431",
+      "title": "Cognitive heterogeneity in Parkinson's disease: A mechanistic view.",
+      "journal": "Neuron",
+      "abstract_sections": [
+        "Cognitive impairment occurs in most individuals with Parkinson's disease (PD), exacting a high toll on patients, their caregivers, and the healthcare system. In this review, we begin by summarizing the current clinical landscape surrounding cognition in PD. We then discuss how cognitive impairment and dementia may develop in PD based on the spread of the pathological protein alpha-synuclein (aSyn) from neurons in brainstem regions to those in the cortical regions of the brain responsible for higher cognitive functions, as first proposed in the Braak hypothesis. We appraise the Braak hypothesis from molecular (conformations of aSyn), cell biological (cell-to-cell spread of pathological aSyn), and organ-level (region-to-region spread of aSyn pathology at the whole brain level) viewpoints. Finally, we argue that individual host factors may be the most poorly understood aspect of this pathological process, accounting for substantial heterogeneity in the pattern and pace of cognitive decline in PD."
+      ],
+      "abstract": "Cognitive impairment occurs in most individuals with Parkinson's disease (PD), exacting a high toll on patients, their caregivers, and the healthcare system. In this review, we begin by summarizing the current clinical landscape surrounding cognition in PD. We then discuss how cognitive impairment and dementia may develop in PD based on the spread of the pathological protein alpha-synuclein (aSyn) from neurons in brainstem regions to those in the cortical regions of the brain responsible for higher cognitive functions, as first proposed in the Braak hypothesis. We appraise the Braak hypothesis from molecular (conformations of aSyn), cell biological (cell-to-cell spread of pathological aSyn), and organ-level (region-to-region spread of aSyn pathology at the whole brain level) viewpoints. Finally, we argue that individual host factors may be the most poorly understood aspect of this pathological process, accounting for substantial heterogeneity in the pattern and pace of cognitive decline in PD.",
+      "evidence_sentences": [
+        "Cognitive impairment occurs in most individuals with Parkinson's disease (PD), exacting a high toll on patients, their caregivers, and the healthcare system.",
+        "In this review, we begin by summarizing the current clinical landscape surrounding cognition in PD."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "authors": [
+        "Marc Carceles-Cordon",
+        "Dan Weintraub",
+        "Alice S Chen-Plotkin"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37028431/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "1371",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "31701892",
+        "36100231",
+        "34624796",
+        "34236893",
+        "37922901",
+        "33526323",
+        "39303715",
+        "22275317",
+        "39952239",
+        "33168089",
+        "38614108",
+        "29140481",
+        "34417870",
+        "36881989",
+        "27252382",
+        "32691910",
+        "31656104",
+        "38613632",
+        "36108674",
+        "37947998",
+        "34071875",
+        "32966778",
+        "40056900",
+        "32444562",
+        "27677316",
+        "32165138",
+        "29936902",
+        "38946200",
+        "33589841",
+        "37028431"
+      ],
+      "translationset": [
+        {
+          "from": "parkinson's disease",
+          "to": "\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR (\"parkinson's\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson's disease\"[All Fields]"
+        },
+        {
+          "from": "parkinson disease",
+          "to": "\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]"
+        },
+        {
+          "from": "children",
+          "to": "\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child's\"[All Fields] OR \"children's\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR (\"parkinson s\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson s disease\"[All Fields]) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]) AND (\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child s\"[All Fields] OR \"children s\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]) AND \"USA\"[All Fields] AND \"USA\"[All Fields]"
+    }
+  }
+}

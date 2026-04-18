@@ -1,0 +1,74 @@
+{
+  "run_id": "5f8d83f2eb49461781bef497df21240e",
+  "stored_at": "2026-04-16T21:28:43+00:00",
+  "query": "cancer latest treatment therapy management USA",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "cancer epidemiology USA",
+    "lung cancer treatment outcomes USA",
+    "systematic review cancer therapy USA",
+    "lung cancer management guidelines USA",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology USA",
+    "lung cancer treatment outcomes USA",
+    "systematic review cancer therapy USA",
+    "lung cancer management guidelines USA"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology USA",
+      "lung cancer treatment outcomes USA",
+      "systematic review cancer therapy USA",
+      "lung cancer management guidelines USA"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\5f8d83f2eb49461781bef497df21240e\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\5f8d83f2eb49461781bef497df21240e\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\5f8d83f2eb49461781bef497df21240e\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\5f8d83f2eb49461781bef497df21240e\\combined.records.json"
+  }
+}

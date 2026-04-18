@@ -1,0 +1,71 @@
+{
+  "run_id": "11d18ff9d41f492192c7efe8ee7ec5ca",
+  "stored_at": "2026-04-16T10:52:59+00:00",
+  "query": "malaria clinical guidance Kenya",
+  "query_fallbacks": [
+    "malaria clinical guidance Kenya",
+    "malaria epidemiology Kenya",
+    "Kenya malaria treatment guidelines",
+    "malaria disease burden in Kenya",
+    "Kenya malaria prevention strategies",
+    "malaria clinical guidance",
+    "malaria clinical guidance treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria clinical guidance Kenya",
+    "malaria clinical guidance",
+    "malaria clinical guidance treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology Kenya",
+    "Kenya malaria treatment guidelines",
+    "malaria disease burden in Kenya",
+    "Kenya malaria prevention strategies"
+  ],
+  "keywords": [
+    "malaria",
+    "clinical",
+    "guidance",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 16,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 48
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology Kenya",
+      "Kenya malaria treatment guidelines",
+      "malaria disease burden in Kenya",
+      "Kenya malaria prevention strategies"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\11d18ff9d41f492192c7efe8ee7ec5ca\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\11d18ff9d41f492192c7efe8ee7ec5ca\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\11d18ff9d41f492192c7efe8ee7ec5ca\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\11d18ff9d41f492192c7efe8ee7ec5ca\\combined.records.json"
+  }
+}

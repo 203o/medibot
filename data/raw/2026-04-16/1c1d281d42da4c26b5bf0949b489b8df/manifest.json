@@ -1,0 +1,74 @@
+{
+  "run_id": "1c1d281d42da4c26b5bf0949b489b8df",
+  "stored_at": "2026-04-16T13:30:11+00:00",
+  "query": "parkinson's deep brain stimulation United States of America",
+  "query_fallbacks": [
+    "parkinson's deep brain stimulation United States of America",
+    "Parkinson's disease epidemiology in the United States",
+    "Deep brain stimulation outcomes in Parkinson's patients",
+    "Incidence of Parkinson's disease in the USA",
+    "Systematic review of deep brain stimulation for Parkinson's",
+    "parkinson's deep brain stimulation",
+    "parkinson's deep brain stimulation treatment",
+    "parkinson's united states",
+    "parkinson's"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson's deep brain stimulation United States of America",
+    "parkinson's deep brain stimulation",
+    "parkinson's deep brain stimulation treatment",
+    "parkinson's united states",
+    "parkinson's"
+  ],
+  "expanded_queries": [
+    "Parkinson's disease epidemiology in the United States",
+    "Deep brain stimulation outcomes in Parkinson's patients",
+    "Incidence of Parkinson's disease in the USA",
+    "Systematic review of deep brain stimulation for Parkinson's"
+  ],
+  "keywords": [
+    "parkinson's",
+    "deep",
+    "brain",
+    "stimulation",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Parkinson's disease epidemiology in the United States",
+      "Deep brain stimulation outcomes in Parkinson's patients",
+      "Incidence of Parkinson's disease in the USA",
+      "Systematic review of deep brain stimulation for Parkinson's"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\1c1d281d42da4c26b5bf0949b489b8df\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\1c1d281d42da4c26b5bf0949b489b8df\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\1c1d281d42da4c26b5bf0949b489b8df\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\1c1d281d42da4c26b5bf0949b489b8df\\combined.records.json"
+  }
+}

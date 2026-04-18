@@ -1,0 +1,1613 @@
+{
+  "query": "cancer non small cell lung USA",
+  "selected_query": "cancer non small cell lung USA",
+  "attempted_queries": [
+    {
+      "query": "cancer non small cell lung USA",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "30285222",
+    "30560866",
+    "30979687",
+    "32784481",
+    "7677489",
+    "37267954",
+    "29945888",
+    "32051585",
+    "39938515",
+    "34172784",
+    "33514641",
+    "32001676",
+    "38093367",
+    "36351380",
+    "34865516",
+    "32402356",
+    "35105868",
+    "29157386",
+    "17157622",
+    "30638934",
+    "32857949",
+    "31086949",
+    "14578194",
+    "32452900",
+    "29622080",
+    "34816394",
+    "29976955",
+    "33648347",
+    "18039118",
+    "24578213"
+  ],
+  "records": [
+    {
+      "pmid": "30285222",
+      "title": "Metastatic non-small cell lung cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "D Planchard",
+        "S Popat",
+        "K Kerr",
+        "S Novello",
+        "E F Smit",
+        "C Faivre-Finn",
+        "T S Mok",
+        "M Reck",
+        "P E Van Schil",
+        "M D Hellmann",
+        "S Peters",
+        "ESMO Guidelines Committee"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30285222/"
+    },
+    {
+      "pmid": "30560866",
+      "title": "Local mutational diversity drives intratumoral immune heterogeneity in non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC). This revealed that the immune microenvironment has high spatial heterogeneity such that intratumoral regional variation is as large as inter-personal variation. While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance. Together, these findings caution against that immunological signatures can be predicted solely from TMB or microenvironmental analysis from a single locus biopsy."
+      ],
+      "abstract": "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC). This revealed that the immune microenvironment has high spatial heterogeneity such that intratumoral regional variation is as large as inter-personal variation. While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance. Together, these findings caution against that immunological signatures can be predicted solely from TMB or microenvironmental analysis from a single locus biopsy.",
+      "evidence_sentences": [
+        "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC).",
+        "While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Qingzhu Jia",
+        "Wei Wu",
+        "Yuqi Wang",
+        "Peter B Alexander",
+        "Chengdu Sun",
+        "Zhihua Gong",
+        "Jia-Nan Cheng",
+        "Huaibo Sun",
+        "Yanfang Guan",
+        "Xuefeng Xia",
+        "Ling Yang",
+        "Xin Yi",
+        "Yisong Y Wan",
+        "Haidong Wang",
+        "Ji He",
+        "P Andrew Futreal",
+        "Qi-Jing Li",
+        "Bo Zhu"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30560866/"
+    },
+    {
+      "pmid": "30979687",
+      "title": "Single-Cell Transcriptomics of Human and Mouse Lung Cancers Reveals Conserved Myeloid Populations across Individuals and Species.",
+      "journal": "Immunity",
+      "abstract_sections": [
+        "Tumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth. These cells can diversify into a spectrum of states, which might promote or limit tumor outgrowth but remain poorly understood. Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients. We uncovered 25 TIM states, most of which were reproducibly found across patients. To facilitate translational research of these populations, we also profiled TIMs in mice. In comparing TIMs across species, we identified a near-complete congruence of population structures among dendritic cells and monocytes; conserved neutrophil subsets; and species differences among macrophages. By contrast, myeloid cell population structures in patients' blood showed limited overlap with those of TIMs. This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets."
+      ],
+      "abstract": "Tumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth. These cells can diversify into a spectrum of states, which might promote or limit tumor outgrowth but remain poorly understood. Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients. We uncovered 25 TIM states, most of which were reproducibly found across patients. To facilitate translational research of these populations, we also profiled TIMs in mice. In comparing TIMs across species, we identified a near-complete congruence of population structures among dendritic cells and monocytes; conserved neutrophil subsets; and species differences among macrophages. By contrast, myeloid cell population structures in patients' blood showed limited overlap with those of TIMs. This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets.",
+      "evidence_sentences": [
+        "Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients.",
+        "This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets.",
+        "Tumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Rapolas Zilionis",
+        "Camilla Engblom",
+        "Christina Pfirschke",
+        "Virginia Savova",
+        "David Zemmour",
+        "Hatice D Saatcioglu",
+        "Indira Krishnan",
+        "Giorgia Maroni",
+        "Claire V Meyerovitz",
+        "Clara M Kerwin",
+        "Sun Choi",
+        "William G Richards",
+        "Assunta De Rienzo",
+        "Daniel G Tenen",
+        "Raphael Bueno",
+        "Elena Levantini",
+        "Mikael J Pittet",
+        "Allon M Klein"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30979687/"
+    },
+    {
+      "pmid": "32784481",
+      "title": "Notch Transduction in Non-Small Cell Lung Cancer.",
+      "journal": "International journal of molecular sciences",
+      "abstract_sections": [
+        "The evolutionarily-conserved Notch signaling pathway plays critical roles in cell communication, function and homeostasis equilibrium. The pathway serves as a cell-to-cell juxtaposed molecular transducer and is crucial in a number of cell processes including cell fate specification, asymmetric cell division and lateral inhibition. Notch also plays critical roles in organismal development, homeostasis, and regeneration, including somitogenesis, left-right asymmetry, neurogenesis, tissue repair, self-renewal and stemness, and its dysregulation has causative roles in a number of congenital and acquired pathologies, including cancer. In the lung, Notch activity is necessary for cell fate specification and expansion, and its aberrant activity is markedly linked to various defects in club cell formation, alveologenesis, and non-small cell lung cancer (NSCLC) development. In this review, we focus on the role this intercellular signaling device plays during lung development and on its functional relevance in proximo-distal cell fate specification, branching morphogenesis, and alveolar cell determination and maturation, then revise its involvement in NSCLC formation, progression and treatment refractoriness, particularly in the context of various mutational statuses associated with NSCLC, and, lastly, conclude by providing a succinct outlook of the therapeutic perspectives of Notch targeting in NSCLC therapy, including an overview on prospective synthetic lethality approaches."
+      ],
+      "abstract": "The evolutionarily-conserved Notch signaling pathway plays critical roles in cell communication, function and homeostasis equilibrium. The pathway serves as a cell-to-cell juxtaposed molecular transducer and is crucial in a number of cell processes including cell fate specification, asymmetric cell division and lateral inhibition. Notch also plays critical roles in organismal development, homeostasis, and regeneration, including somitogenesis, left-right asymmetry, neurogenesis, tissue repair, self-renewal and stemness, and its dysregulation has causative roles in a number of congenital and acquired pathologies, including cancer. In the lung, Notch activity is necessary for cell fate specification and expansion, and its aberrant activity is markedly linked to various defects in club cell formation, alveologenesis, and non-small cell lung cancer (NSCLC) development. In this review, we focus on the role this intercellular signaling device plays during lung development and on its functional relevance in proximo-distal cell fate specification, branching morphogenesis, and alveolar cell determination and maturation, then revise its involvement in NSCLC formation, progression and treatment refractoriness, particularly in the context of various mutational statuses associated with NSCLC, and, lastly, conclude by providing a succinct outlook of the therapeutic perspectives of Notch targeting in NSCLC therapy, including an overview on prospective synthetic lethality approaches.",
+      "evidence_sentences": [
+        "In the lung, Notch activity is necessary for cell fate specification and expansion, and its aberrant activity is markedly linked to various defects in club cell formation, alveologenesis, and non-small cell lung cancer (NSCLC) development.",
+        "In this review, we focus on the role this intercellular signaling device plays during lung development and on its functional relevance in proximo-distal cell fate specification, branching morphogenesis, and alveolar cell determination and maturation, then revise its involvement in NSCLC formation, progression and treatment refractoriness, particularly in the context of various mutational statuses associated with NSCLC, and, lastly, conclude by providing a succinct outlook of the therapeutic perspectives of Notch targeting in NSCLC therapy, including an overview on prospective synthetic lethality approaches.",
+        "Notch also plays critical roles in organismal development, homeostasis, and regeneration, including somitogenesis, left-right asymmetry, neurogenesis, tissue repair, self-renewal and stemness, and its dysregulation has causative roles in a number of congenital and acquired pathologies, including cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Amnah Sharif",
+        "Ann Shaji",
+        "May Chammaa",
+        "Eileen Pawlik",
+        "Rodrigo Fernandez-Valdivia"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32784481/"
+    },
+    {
+      "pmid": "7677489",
+      "title": "Randomized trial of lobectomy versus limited resection for T1 N0 non-small cell lung cancer. Lung Cancer Study Group.",
+      "journal": "The Annals of thoracic surgery",
+      "abstract_sections": [
+        "It has been reported that limited resection (segment or wedge) is equivalent to lobectomy in the management of early stage (T1-2 N0) non-small cell lung cancer.",
+        "A prospective, multiinstitutional randomized trial was instituted comparing limited resection with lobectomy for patients with peripheral T1 N0 non-small cell lung cancer documented at operation. Analysis included locoregional and distant recurrence rates, 5-year survival rates, perioperative morbidity and mortality, and late pulmonary function assessment.",
+        "There were 276 patients randomized, with 247 patients eligible for analysis. There were no significant differences for all stratification variables, selected prognostic factors, perioperative morbidity, mortality, or late pulmonary function. In patients undergoing limited resection, there was an observed 75% increase in recurrence rates (p = 0.02, one-sided) attributable to an observed tripling of the local recurrence rate (p = 0.008 two-sided), an observed 30% increase in overall death rate (p = 0.08, one-sided), and an observed 50% increase in death with cancer rate (p = 0.09, one-sided) compared to patients undergoing lobectomy (p = 0.10, one-sided was the predefined threshold for statistical significance for this equivalency study).",
+        "Compared with lobectomy, limited pulmonary resection does not confer improved perioperative morbidity, mortality, or late postoperative pulmonary function. Because of the higher death rate and locoregional recurrence rate associated with limited resection, lobectomy still must be considered the surgical procedure of choice for patients with peripheral T1 N0 non-small cell lung cancer."
+      ],
+      "abstract": "It has been reported that limited resection (segment or wedge) is equivalent to lobectomy in the management of early stage (T1-2 N0) non-small cell lung cancer.\n\nA prospective, multiinstitutional randomized trial was instituted comparing limited resection with lobectomy for patients with peripheral T1 N0 non-small cell lung cancer documented at operation. Analysis included locoregional and distant recurrence rates, 5-year survival rates, perioperative morbidity and mortality, and late pulmonary function assessment.\n\nThere were 276 patients randomized, with 247 patients eligible for analysis. There were no significant differences for all stratification variables, selected prognostic factors, perioperative morbidity, mortality, or late pulmonary function. In patients undergoing limited resection, there was an observed 75% increase in recurrence rates (p = 0.02, one-sided) attributable to an observed tripling of the local recurrence rate (p = 0.008 two-sided), an observed 30% increase in overall death rate (p = 0.08, one-sided), and an observed 50% increase in death with cancer rate (p = 0.09, one-sided) compared to patients undergoing lobectomy (p = 0.10, one-sided was the predefined threshold for statistical significance for this equivalency study).\n\nCompared with lobectomy, limited pulmonary resection does not confer improved perioperative morbidity, mortality, or late postoperative pulmonary function. Because of the higher death rate and locoregional recurrence rate associated with limited resection, lobectomy still must be considered the surgical procedure of choice for patients with peripheral T1 N0 non-small cell lung cancer.",
+      "evidence_sentences": [
+        "A prospective, multiinstitutional randomized trial was instituted comparing limited resection with lobectomy for patients with peripheral T1 N0 non-small cell lung cancer documented at operation.",
+        "Because of the higher death rate and locoregional recurrence rate associated with limited resection, lobectomy still must be considered the surgical procedure of choice for patients with peripheral T1 N0 non-small cell lung cancer.",
+        "It has been reported that limited resection (segment or wedge) is equivalent to lobectomy in the management of early stage (T1-2 N0) non-small cell lung cancer."
+      ],
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "R J Ginsberg",
+        "L V Rubinstein"
+      ],
+      "year": "1995",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7677489/"
+    },
+    {
+      "pmid": "37267954",
+      "title": "Senescent alveolar macrophages promote early-stage lung tumorigenesis.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "Senescent cells play relevant but context-dependent roles during tumorigenesis. Here, in an oncogenic Kras-driven lung cancer mouse model, we found that senescent cells, specifically alveolar macrophages, accumulate early in neoplasia. These macrophages have upregulated expression of p16"
+      ],
+      "abstract": "Senescent cells play relevant but context-dependent roles during tumorigenesis. Here, in an oncogenic Kras-driven lung cancer mouse model, we found that senescent cells, specifically alveolar macrophages, accumulate early in neoplasia. These macrophages have upregulated expression of p16",
+      "evidence_sentences": [
+        "Here, in an oncogenic Kras-driven lung cancer mouse model, we found that senescent cells, specifically alveolar macrophages, accumulate early in neoplasia.",
+        "Senescent cells play relevant but context-dependent roles during tumorigenesis.",
+        "These macrophages have upregulated expression of p16"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Luis I Prieto",
+        "Ines Sturmlechner",
+        "Sara I Graves",
+        "Cheng Zhang",
+        "Nick P Goplen",
+        "Eunhee S Yi",
+        "Jie Sun",
+        "Hu Li",
+        "Darren J Baker"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37267954/"
+    },
+    {
+      "pmid": "29945888",
+      "title": "POU2F3 is a master regulator of a tuft cell-like variant of small cell lung cancer.",
+      "journal": "Genes & development",
+      "abstract_sections": [
+        "Small cell lung cancer (SCLC) is widely considered to be a tumor of pulmonary neuroendocrine cells; however, a variant form of this disease has been described that lacks neuroendocrine features. Here, we applied domain-focused CRISPR screening to human cancer cell lines to identify the transcription factor (TF) POU2F3 (POU class 2 homeobox 3; also known as SKN-1a/OCT-11) as a powerful dependency in a subset of SCLC lines. An analysis of human SCLC specimens revealed that POU2F3 is expressed exclusively in variant SCLC tumors that lack expression of neuroendocrine markers and instead express markers of a chemosensory lineage known as tuft cells. Using chromatin- and RNA-profiling experiments, we provide evidence that POU2F3 is a master regulator of tuft cell identity in a variant form of SCLC. Moreover, we show that most SCLC tumors can be classified into one of three lineages based on the expression of POU2F3, ASCL1, or NEUROD1. Our CRISPR screens exposed other unique dependencies in POU2F3-expressing SCLC lines, including the lineage TFs SOX9 and ASCL2 and the receptor tyrosine kinase IGF1R (insulin-like growth factor 1 receptor). These data reveal POU2F3 as a cell identity determinant and a dependency in a tuft cell-like variant of SCLC, which may reflect a previously unrecognized cell of origin or a"
+      ],
+      "abstract": "Small cell lung cancer (SCLC) is widely considered to be a tumor of pulmonary neuroendocrine cells; however, a variant form of this disease has been described that lacks neuroendocrine features. Here, we applied domain-focused CRISPR screening to human cancer cell lines to identify the transcription factor (TF) POU2F3 (POU class 2 homeobox 3; also known as SKN-1a/OCT-11) as a powerful dependency in a subset of SCLC lines. An analysis of human SCLC specimens revealed that POU2F3 is expressed exclusively in variant SCLC tumors that lack expression of neuroendocrine markers and instead express markers of a chemosensory lineage known as tuft cells. Using chromatin- and RNA-profiling experiments, we provide evidence that POU2F3 is a master regulator of tuft cell identity in a variant form of SCLC. Moreover, we show that most SCLC tumors can be classified into one of three lineages based on the expression of POU2F3, ASCL1, or NEUROD1. Our CRISPR screens exposed other unique dependencies in POU2F3-expressing SCLC lines, including the lineage TFs SOX9 and ASCL2 and the receptor tyrosine kinase IGF1R (insulin-like growth factor 1 receptor). These data reveal POU2F3 as a cell identity determinant and a dependency in a tuft cell-like variant of SCLC, which may reflect a previously unrecognized cell of origin or a",
+      "evidence_sentences": [
+        "Small cell lung cancer (SCLC) is widely considered to be a tumor of pulmonary neuroendocrine cells; however, a variant form of this disease has been described that lacks neuroendocrine features.",
+        "Here, we applied domain-focused CRISPR screening to human cancer cell lines to identify the transcription factor (TF) POU2F3 (POU class 2 homeobox 3; also known as SKN-1a/OCT-11) as a powerful dependency in a subset of SCLC lines.",
+        "An analysis of human SCLC specimens revealed that POU2F3 is expressed exclusively in variant SCLC tumors that lack expression of neuroendocrine markers and instead express markers of a chemosensory lineage known as tuft cells."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Yu-Han Huang",
+        "Olaf Klingbeil",
+        "Xue-Yan He",
+        "Xiaoli S Wu",
+        "Gayatri Arun",
+        "Bin Lu",
+        "Tim D D Somerville",
+        "Joseph P Milazzo",
+        "John E Wilkinson",
+        "Osama E Demerdash",
+        "David L Spector",
+        "Mikala Egeblad",
+        "Junwei Shi",
+        "Christopher R Vakoc"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29945888/"
+    },
+    {
+      "pmid": "32051585",
+      "title": "Mechanical regulation of glycolysis via cytoskeleton architecture.",
+      "journal": "Nature",
+      "abstract_sections": [
+        "The mechanics of the cellular microenvironment continuously modulates cell functions such as growth, survival, apoptosis, differentiation and morphogenesis via cytoskeletal remodelling and actomyosin contractility"
+      ],
+      "abstract": "The mechanics of the cellular microenvironment continuously modulates cell functions such as growth, survival, apoptosis, differentiation and morphogenesis via cytoskeletal remodelling and actomyosin contractility",
+      "evidence_sentences": [
+        "The mechanics of the cellular microenvironment continuously modulates cell functions such as growth, survival, apoptosis, differentiation and morphogenesis via cytoskeletal remodelling and actomyosin contractility"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Jin Suk Park",
+        "Christoph J Burckhardt",
+        "Rossana Lazcano",
+        "Luisa M Solis",
+        "Tadamoto Isogai",
+        "Linqing Li",
+        "Christopher S Chen",
+        "Boning Gao",
+        "John D Minna",
+        "Robert Bachoo",
+        "Ralph J DeBerardinis",
+        "Gaudenz Danuser"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32051585/"
+    },
+    {
+      "pmid": "39938515",
+      "title": "Extracellular vesicles from the lung pro-thrombotic niche drive cancer-associated thrombosis and metastasis via integrin beta 2.",
+      "journal": "Cell",
+      "abstract_sections": [
+        "Cancer is a systemic disease with complications beyond the primary tumor site. Among them, thrombosis is the second leading cause of death in patients with certain cancers (e.g., pancreatic ductal adenocarcinoma [PDAC]) and advanced-stage disease. Here, we demonstrate that pro-thrombotic small extracellular vesicles (sEVs) are secreted by C-X-C motif chemokine 13 (CXCL13)-reprogrammed interstitial macrophages in the non-metastatic lung microenvironment of multiple cancers, a niche that we define as the pro-thrombotic niche (PTN). These sEVs package clustered integrin β"
+      ],
+      "abstract": "Cancer is a systemic disease with complications beyond the primary tumor site. Among them, thrombosis is the second leading cause of death in patients with certain cancers (e.g., pancreatic ductal adenocarcinoma [PDAC]) and advanced-stage disease. Here, we demonstrate that pro-thrombotic small extracellular vesicles (sEVs) are secreted by C-X-C motif chemokine 13 (CXCL13)-reprogrammed interstitial macrophages in the non-metastatic lung microenvironment of multiple cancers, a niche that we define as the pro-thrombotic niche (PTN). These sEVs package clustered integrin β",
+      "evidence_sentences": [
+        "Here, we demonstrate that pro-thrombotic small extracellular vesicles (sEVs) are secreted by C-X-C motif chemokine 13 (CXCL13)-reprogrammed interstitial macrophages in the non-metastatic lung microenvironment of multiple cancers, a niche that we define as the pro-thrombotic niche (PTN).",
+        "Among them, thrombosis is the second leading cause of death in patients with certain cancers (e.g., pancreatic ductal adenocarcinoma [PDAC]) and advanced-stage disease.",
+        "Cancer is a systemic disease with complications beyond the primary tumor site."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Serena Lucotti",
+        "Yusuke Ogitani",
+        "Candia M Kenific",
+        "Jacob Geri",
+        "Young Hun Kim",
+        "Jinghua Gu",
+        "Uthra Balaji",
+        "Linda Bojmar",
+        "Lee Shaashua",
+        "Yi Song",
+        "Michele Cioffi",
+        "Pernille Lauritzen",
+        "Oveen M Joseph",
+        "Tetsuhiko Asao",
+        "Paul M Grandgenett",
+        "Michael A Hollingsworth",
+        "Christopher Peralta",
+        "Alexandra E Pagano",
+        "Henrik Molina",
+        "Harry B Lengel",
+        "Elizabeth G Dunne",
+        "Xiaohong Jing",
+        "Madeleine Schmitter",
+        "Lucia Borriello",
+        "Thomas Miller",
+        "Haiying Zhang",
+        "Yevgeniy Romin",
+        "Katia Manova",
+        "Doru Paul",
+        "H Lawrence Remmel",
+        "Eileen M O'Reilly",
+        "William R Jarnagin",
+        "David Kelsen",
+        "Sharon M Castellino",
+        "Lisa Giulino-Roth",
+        "David R Jones",
+        "John S Condeelis",
+        "Virginia Pascual",
+        "James B Bussel",
+        "Nancy Boudreau",
+        "Irina Matei",
+        "David Entenberg",
+        "Jacqueline F Bromberg",
+        "Diane M Simeone",
+        "David Lyden"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39938515/"
+    },
+    {
+      "pmid": "34172784",
+      "title": "Lung adenocarcinoma and lung squamous cell carcinoma cancer classification, biomarker identification, and gene expression analysis using overlapping feature selection methods.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "Lung cancer is one of the deadliest cancers in the world. Two of the most common subtypes, lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), have drastically different biological signatures, yet they are often treated similarly and classified together as non-small cell lung cancer (NSCLC). LUAD and LUSC biomarkers are scarce, and their distinct biological mechanisms have yet to be elucidated. To detect biologically relevant markers, many studies have attempted to improve traditional machine learning algorithms or develop novel algorithms for biomarker discovery. However, few have used overlapping machine learning or feature selection methods for cancer classification, biomarker identification, or gene expression analysis. This study proposes to use overlapping traditional feature selection or feature reduction techniques for cancer classification and biomarker discovery. The genes selected by the overlapping method were then verified using random forest. The classification statistics of the overlapping method were compared to those of the traditional feature selection methods. The identified biomarkers were validated in an external dataset using AUC and ROC analysis. Gene expression analysis was then performed to further investigate biological differences between LUAD and LUSC. Overall, our method achieved classification results comparable to, if not better than, the traditional algorithms. It also identified multiple known biomarkers, and five potentially novel biomarkers with high discriminating values between LUAD and LUSC. Many of the biomarkers also exhibit significant prognostic potential, particularly in LUAD. Our study also unraveled distinct biological pathways between LUAD and LUSC."
+      ],
+      "abstract": "Lung cancer is one of the deadliest cancers in the world. Two of the most common subtypes, lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), have drastically different biological signatures, yet they are often treated similarly and classified together as non-small cell lung cancer (NSCLC). LUAD and LUSC biomarkers are scarce, and their distinct biological mechanisms have yet to be elucidated. To detect biologically relevant markers, many studies have attempted to improve traditional machine learning algorithms or develop novel algorithms for biomarker discovery. However, few have used overlapping machine learning or feature selection methods for cancer classification, biomarker identification, or gene expression analysis. This study proposes to use overlapping traditional feature selection or feature reduction techniques for cancer classification and biomarker discovery. The genes selected by the overlapping method were then verified using random forest. The classification statistics of the overlapping method were compared to those of the traditional feature selection methods. The identified biomarkers were validated in an external dataset using AUC and ROC analysis. Gene expression analysis was then performed to further investigate biological differences between LUAD and LUSC. Overall, our method achieved classification results comparable to, if not better than, the traditional algorithms. It also identified multiple known biomarkers, and five potentially novel biomarkers with high discriminating values between LUAD and LUSC. Many of the biomarkers also exhibit significant prognostic potential, particularly in LUAD. Our study also unraveled distinct biological pathways between LUAD and LUSC.",
+      "evidence_sentences": [
+        "Two of the most common subtypes, lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), have drastically different biological signatures, yet they are often treated similarly and classified together as non-small cell lung cancer (NSCLC).",
+        "However, few have used overlapping machine learning or feature selection methods for cancer classification, biomarker identification, or gene expression analysis.",
+        "Lung cancer is one of the deadliest cancers in the world."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Joe W Chen",
+        "Joseph Dhahbi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34172784/"
+    },
+    {
+      "pmid": "33514641",
+      "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8",
+      "journal": "Science immunology",
+      "abstract_sections": [
+        "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8"
+      ],
+      "abstract": "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8",
+      "evidence_sentences": [
+        "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Paul Gueguen",
+        "Christina Metoikidou",
+        "Thomas Dupic",
+        "Myriam Lawand",
+        "Christel Goudot",
+        "Sylvain Baulande",
+        "Sonia Lameiras",
+        "Olivier Lantz",
+        "Nicolas Girard",
+        "Agathe Seguin-Givelet",
+        "Marine Lefevre",
+        "Thierry Mora",
+        "Aleksandra M Walczak",
+        "Joshua J Waterfall",
+        "Sebastian Amigorena"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33514641/"
+    },
+    {
+      "pmid": "32001676",
+      "title": "Comprehensive T cell repertoire characterization of non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC). This requires a better understanding of the T cells in the lungs of patients with NSCLC. Here, we report T cell repertoire analysis in a cohort of 236 early-stage NSCLC patients. T cell repertoire attributes are associated with clinicopathologic features, mutational and immune landscape. A considerable proportion of the most prevalent T cells in tumors are also prevalent in the uninvolved tumor-adjacent lungs and appear specific to shared background mutations or viral infections. Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival. These findings indicate that a concise understanding of antigens and T cells in NSCLC is needed to improve therapeutic efficacy and reduce toxicity with immunotherapy, particularly adoptive T cell therapy."
+      ],
+      "abstract": "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC). This requires a better understanding of the T cells in the lungs of patients with NSCLC. Here, we report T cell repertoire analysis in a cohort of 236 early-stage NSCLC patients. T cell repertoire attributes are associated with clinicopathologic features, mutational and immune landscape. A considerable proportion of the most prevalent T cells in tumors are also prevalent in the uninvolved tumor-adjacent lungs and appear specific to shared background mutations or viral infections. Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival. These findings indicate that a concise understanding of antigens and T cells in NSCLC is needed to improve therapeutic efficacy and reduce toxicity with immunotherapy, particularly adoptive T cell therapy.",
+      "evidence_sentences": [
+        "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC).",
+        "Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival.",
+        "This requires a better understanding of the T cells in the lungs of patients with NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Alexandre Reuben",
+        "Jiexin Zhang",
+        "Shin-Heng Chiou",
+        "Rachel M Gittelman",
+        "Jun Li",
+        "Won-Chul Lee",
+        "Junya Fujimoto",
+        "Carmen Behrens",
+        "Xiaoke Liu",
+        "Feng Wang",
+        "Kelly Quek",
+        "Chunlin Wang",
+        "Farrah Kheradmand",
+        "Runzhe Chen",
+        "Chi-Wan Chow",
+        "Heather Lin",
+        "Chantale Bernatchez",
+        "Ali Jalali",
+        "Xin Hu",
+        "Chang-Jiun Wu",
+        "Agda Karina Eterovic",
+        "Edwin Roger Parra",
+        "Erik Yusko",
+        "Ryan Emerson",
+        "Sharon Benzeno",
+        "Marissa Vignali",
+        "Xifeng Wu",
+        "Yuanqing Ye",
+        "Latasha D Little",
+        "Curtis Gumbs",
+        "Xizeng Mao",
+        "Xingzhi Song",
+        "Samantha Tippen",
+        "Rebecca L Thornton",
+        "Tina Cascone",
+        "Alexandra Snyder",
+        "Jennifer A Wargo",
+        "Roy Herbst",
+        "Stephen Swisher",
+        "Humam Kadara",
+        "Cesar Moran",
+        "Neda Kalhor",
+        "Jianhua Zhang",
+        "Paul Scheet",
+        "Ara A Vaporciyan",
+        "Boris Sepesi",
+        "Don L Gibbons",
+        "Harlan Robins",
+        "Patrick Hwu",
+        "John V Heymach",
+        "Padmanee Sharma",
+        "James P Allison",
+        "Veera Baladandayuthapani",
+        "Jack J Lee",
+        "Mark M Davis",
+        "Ignacio I Wistuba",
+        "P Andrew Futreal",
+        "Jianjun Zhang"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32001676/"
+    },
+    {
+      "pmid": "38093367",
+      "title": "USP13 drives lung squamous cell carcinoma by switching lung club cell lineage plasticity.",
+      "journal": "Molecular cancer",
+      "abstract_sections": [
+        "Lung squamous cell carcinoma (LUSC) is associated with high mortality and limited targeted therapies. USP13 is one of the most amplified genes in LUSC, yet its role in lung cancer is largely unknown. Here, we established a novel mouse model of LUSC by overexpressing USP13 on Kras"
+      ],
+      "abstract": "Lung squamous cell carcinoma (LUSC) is associated with high mortality and limited targeted therapies. USP13 is one of the most amplified genes in LUSC, yet its role in lung cancer is largely unknown. Here, we established a novel mouse model of LUSC by overexpressing USP13 on Kras",
+      "evidence_sentences": [
+        "Lung squamous cell carcinoma (LUSC) is associated with high mortality and limited targeted therapies.",
+        "USP13 is one of the most amplified genes in LUSC, yet its role in lung cancer is largely unknown."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Juntae Kwon",
+        "Jinmin Zhang",
+        "Boram Mok",
+        "Samuel Allsup",
+        "Chul Kim",
+        "Jeffrey Toretsky",
+        "Cecil Han"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38093367/"
+    },
+    {
+      "pmid": "36351380",
+      "title": "Toll-like receptor 2 orchestrates a tumor suppressor response in non-small cell lung cancer.",
+      "journal": "Cell reports",
+      "abstract_sections": [
+        "Targeting early-stage lung cancer is vital to improve survival. However, the mechanisms and components of the early tumor suppressor response in lung cancer are not well understood. In this report, we study the role of Toll-like receptor 2 (TLR2), a regulator of oncogene-induced senescence, which is a key tumor suppressor response in premalignancy. Using human lung cancer samples and genetically engineered mouse models, we show that TLR2 is active early in lung tumorigenesis, where it correlates with improved survival and clinical regression. Mechanistically, TLR2 impairs early lung cancer progression via activation of cell intrinsic cell cycle arrest pathways and the proinflammatory senescence-associated secretory phenotype (SASP). The SASP regulates non-cell autonomous anti-tumor responses, such as immune surveillance of premalignant cells, and we observe impaired myeloid cell recruitment to lung tumors after Tlr2 loss. Last, we show that administration of a TLR2 agonist reduces lung tumor growth, highlighting TLR2 as a possible therapeutic target."
+      ],
+      "abstract": "Targeting early-stage lung cancer is vital to improve survival. However, the mechanisms and components of the early tumor suppressor response in lung cancer are not well understood. In this report, we study the role of Toll-like receptor 2 (TLR2), a regulator of oncogene-induced senescence, which is a key tumor suppressor response in premalignancy. Using human lung cancer samples and genetically engineered mouse models, we show that TLR2 is active early in lung tumorigenesis, where it correlates with improved survival and clinical regression. Mechanistically, TLR2 impairs early lung cancer progression via activation of cell intrinsic cell cycle arrest pathways and the proinflammatory senescence-associated secretory phenotype (SASP). The SASP regulates non-cell autonomous anti-tumor responses, such as immune surveillance of premalignant cells, and we observe impaired myeloid cell recruitment to lung tumors after Tlr2 loss. Last, we show that administration of a TLR2 agonist reduces lung tumor growth, highlighting TLR2 as a possible therapeutic target.",
+      "evidence_sentences": [
+        "Mechanistically, TLR2 impairs early lung cancer progression via activation of cell intrinsic cell cycle arrest pathways and the proinflammatory senescence-associated secretory phenotype (SASP).",
+        "The SASP regulates non-cell autonomous anti-tumor responses, such as immune surveillance of premalignant cells, and we observe impaired myeloid cell recruitment to lung tumors after Tlr2 loss.",
+        "Using human lung cancer samples and genetically engineered mouse models, we show that TLR2 is active early in lung tumorigenesis, where it correlates with improved survival and clinical regression."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Fraser R Millar",
+        "Adam Pennycuick",
+        "Morwenna Muir",
+        "Andrea Quintanilla",
+        "Priya Hari",
+        "Elisabeth Freyer",
+        "Philippe Gautier",
+        "Alison Meynert",
+        "Graeme Grimes",
+        "Carla Salomo Coll",
+        "Sofia Zdral",
+        "Stella Victorelli",
+        "Vitor H Teixeira",
+        "John Connelly",
+        "João F Passos",
+        "Marian A Ros",
+        "William A H Wallace",
+        "Margaret C Frame",
+        "Andrew H Sims",
+        "Luke Boulter",
+        "Sam M Janes",
+        "Simon Wilkinson",
+        "Juan Carlos Acosta"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36351380/"
+    },
+    {
+      "pmid": "34865516",
+      "title": "Diagnostic and economic value of biomarker testing for targetable mutations in non-small-cell lung cancer: a literature review.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [
+        "We aimed to assess the diagnostic and economic value of next-generation sequencing (NGS) versus single-gene testing, and of liquid biopsy (LBx) versus tissue biopsy (TBx) in non-small-cell lung cancer biomarker testing through literature review. Embase and MEDLINE were searched to identify relevant studies (n = 43) from 2015 to 2020 in adults with advanced non-small-cell lung cancer. For NGS versus single-gene testing, concordance was 70-99% and sensitivity was 86-100%. For LBx versus TBx, specificity was 43-100% and sensitivity was ≥60%. Turnaround times were longer for NGS versus single-gene testing (but not vs sequential testing) and faster for LBx versus TBx. NGS was cost-effective, and LBx reduced US per-patient costs. NGS versus single-gene testing and LBx versus TBx were concordant. NGS and LBx may be cost-effective for initial screening."
+      ],
+      "abstract": "We aimed to assess the diagnostic and economic value of next-generation sequencing (NGS) versus single-gene testing, and of liquid biopsy (LBx) versus tissue biopsy (TBx) in non-small-cell lung cancer biomarker testing through literature review. Embase and MEDLINE were searched to identify relevant studies (n = 43) from 2015 to 2020 in adults with advanced non-small-cell lung cancer. For NGS versus single-gene testing, concordance was 70-99% and sensitivity was 86-100%. For LBx versus TBx, specificity was 43-100% and sensitivity was ≥60%. Turnaround times were longer for NGS versus single-gene testing (but not vs sequential testing) and faster for LBx versus TBx. NGS was cost-effective, and LBx reduced US per-patient costs. NGS versus single-gene testing and LBx versus TBx were concordant. NGS and LBx may be cost-effective for initial screening.",
+      "evidence_sentences": [
+        "We aimed to assess the diagnostic and economic value of next-generation sequencing (NGS) versus single-gene testing, and of liquid biopsy (LBx) versus tissue biopsy (TBx) in non-small-cell lung cancer biomarker testing through literature review.",
+        "Embase and MEDLINE were searched to identify relevant studies (n = 43) from 2015 to 2020 in adults with advanced non-small-cell lung cancer.",
+        "NGS was cost-effective, and LBx reduced US per-patient costs."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Ying Zheng",
+        "Helene Vioix",
+        "Frank X Liu",
+        "Barinder Singh",
+        "Sakshi Sharma",
+        "Deepti Sharda"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34865516/"
+    },
+    {
+      "pmid": "32402356",
+      "title": "Alternatives to Surgery for Early-Stage Non-Small Cell Lung Cancer: Thermal Ablation.",
+      "journal": "Clinics in chest medicine",
+      "abstract_sections": [
+        "Thermal ablation involves the application of heat or cold energy to the lung under image guidance to eradicate tumors. It is indicated for treatment of early-stage non-small cell lung cancer in nonsurgical patients. Ablation technologies have advanced, such that nearly all small tumors can now be treated safely and effectively. Ablation does not cause a lasting decline in pulmonary function tests and may therefore be used to treat multiple synchronous and metachronous lung tumors, a chief advantage over other treatments. Large series with intermediate- and long-term data have been reported showing favorable overall survival, similar to radiation therapy."
+      ],
+      "abstract": "Thermal ablation involves the application of heat or cold energy to the lung under image guidance to eradicate tumors. It is indicated for treatment of early-stage non-small cell lung cancer in nonsurgical patients. Ablation technologies have advanced, such that nearly all small tumors can now be treated safely and effectively. Ablation does not cause a lasting decline in pulmonary function tests and may therefore be used to treat multiple synchronous and metachronous lung tumors, a chief advantage over other treatments. Large series with intermediate- and long-term data have been reported showing favorable overall survival, similar to radiation therapy.",
+      "evidence_sentences": [
+        "It is indicated for treatment of early-stage non-small cell lung cancer in nonsurgical patients.",
+        "Ablation does not cause a lasting decline in pulmonary function tests and may therefore be used to treat multiple synchronous and metachronous lung tumors, a chief advantage over other treatments.",
+        "Ablation technologies have advanced, such that nearly all small tumors can now be treated safely and effectively."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Matthew T Quirk",
+        "Shimwoo Lee",
+        "Nikitha Murali",
+        "Scott Genshaft",
+        "Fereidoun Abtin",
+        "Robert Suh"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32402356/"
+    },
+    {
+      "pmid": "35105868",
+      "title": "ΔNp63 regulates a common landscape of enhancer associated genes in non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Distinct lung stem cells give rise to lung adenocarcinoma (LUAD) and squamous cell carcinoma (LUSC). ΔNp63, the p53 family member and p63 isoform, guides the maturation of these stem cells through the regulation of their self-renewal and terminal differentiation; however, the underlying mechanistic role regulated by ∆Np63 in lung cancer development has remained elusive. By utilizing a ΔNp63-specific conditional knockout mouse model and xenograft models of LUAD and LUSC, we found that ∆Np63 promotes non-small cell lung cancer by maintaining the lung stem cells necessary for lung cancer cell initiation and progression in quiescence. ChIP-seq analysis of lung basal cells, alveolar type 2 (AT2) cells, and LUAD reveals robust ∆Np63 regulation of a common landscape of enhancers of cell identity genes. Importantly, one of these genes, BCL9L, is among the enhancer associated genes regulated by ∆Np63 in Kras-driven LUAD and mediates the oncogenic effects of ∆Np63 in both LUAD and LUSC. Accordingly, high BCL9L levels correlate with poor prognosis in LUAD patients. Taken together, our findings provide a unifying oncogenic role for ∆Np63 in both LUAD and LUSC through the regulation of a common landscape of enhancer associated genes."
+      ],
+      "abstract": "Distinct lung stem cells give rise to lung adenocarcinoma (LUAD) and squamous cell carcinoma (LUSC). ΔNp63, the p53 family member and p63 isoform, guides the maturation of these stem cells through the regulation of their self-renewal and terminal differentiation; however, the underlying mechanistic role regulated by ∆Np63 in lung cancer development has remained elusive. By utilizing a ΔNp63-specific conditional knockout mouse model and xenograft models of LUAD and LUSC, we found that ∆Np63 promotes non-small cell lung cancer by maintaining the lung stem cells necessary for lung cancer cell initiation and progression in quiescence. ChIP-seq analysis of lung basal cells, alveolar type 2 (AT2) cells, and LUAD reveals robust ∆Np63 regulation of a common landscape of enhancers of cell identity genes. Importantly, one of these genes, BCL9L, is among the enhancer associated genes regulated by ∆Np63 in Kras-driven LUAD and mediates the oncogenic effects of ∆Np63 in both LUAD and LUSC. Accordingly, high BCL9L levels correlate with poor prognosis in LUAD patients. Taken together, our findings provide a unifying oncogenic role for ∆Np63 in both LUAD and LUSC through the regulation of a common landscape of enhancer associated genes.",
+      "evidence_sentences": [
+        "By utilizing a ΔNp63-specific conditional knockout mouse model and xenograft models of LUAD and LUSC, we found that ∆Np63 promotes non-small cell lung cancer by maintaining the lung stem cells necessary for lung cancer cell initiation and progression in quiescence.",
+        "ΔNp63, the p53 family member and p63 isoform, guides the maturation of these stem cells through the regulation of their self-renewal and terminal differentiation; however, the underlying mechanistic role regulated by ∆Np63 in lung cancer development has remained elusive.",
+        "Distinct lung stem cells give rise to lung adenocarcinoma (LUAD) and squamous cell carcinoma (LUSC)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Marco Napoli",
+        "Sarah J Wu",
+        "Bethanie L Gore",
+        "Hussein A Abbas",
+        "Kyubum Lee",
+        "Rahul Checker",
+        "Shilpa Dhar",
+        "Kimal Rajapakshe",
+        "Aik Choon Tan",
+        "Min Gyu Lee",
+        "Cristian Coarfa",
+        "Elsa R Flores"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35105868/"
+    },
+    {
+      "pmid": "29157386",
+      "title": "Prognostic Value of",
+      "journal": "PET clinics",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) is a leading cause of cancer-related death with a poor prognosis. Numerous factors contribute to treatment outcome. 18F-fluorodeoxyglucose (FDG) uptake reflects tumor metabolic activity and is an important prognosticator in patients with NSCLC. Volume-based FDG-PET parameters reflect the metabolic status of a malignancy more accurately than maximum standardized uptake value and thus are better prognostic markers in lung cancer. FDG-avid tumor burden parameters may help clinicians to predict treatment outcomes before and during therapy so that treatment can be adjusted to achieve the best possible outcomes while avoiding side effects."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) is a leading cause of cancer-related death with a poor prognosis. Numerous factors contribute to treatment outcome. 18F-fluorodeoxyglucose (FDG) uptake reflects tumor metabolic activity and is an important prognosticator in patients with NSCLC. Volume-based FDG-PET parameters reflect the metabolic status of a malignancy more accurately than maximum standardized uptake value and thus are better prognostic markers in lung cancer. FDG-avid tumor burden parameters may help clinicians to predict treatment outcomes before and during therapy so that treatment can be adjusted to achieve the best possible outcomes while avoiding side effects.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) is a leading cause of cancer-related death with a poor prognosis.",
+        "FDG-avid tumor burden parameters may help clinicians to predict treatment outcomes before and during therapy so that treatment can be adjusted to achieve the best possible outcomes while avoiding side effects.",
+        "Volume-based FDG-PET parameters reflect the metabolic status of a malignancy more accurately than maximum standardized uptake value and thus are better prognostic markers in lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Gang Cheng",
+        "He Huang"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29157386/"
+    },
+    {
+      "pmid": "17157622",
+      "title": "Lung cancer.",
+      "journal": "Radiologic clinics of North America",
+      "abstract_sections": [
+        "Lung cancer is the most frequently occurring cancer in the world, and in the United States it is the second most common cancer diagnosed. Accurate staging by imaging can have a significant impact on appropriate treatment and surgical options. Familiarity with the different histologic subtypes of lung cancer and the typical and atypical appearances of lung cancer is vital. Radiologists serve a critical role in the diagnosis, staging, and follow-up of patients with lung cancer."
+      ],
+      "abstract": "Lung cancer is the most frequently occurring cancer in the world, and in the United States it is the second most common cancer diagnosed. Accurate staging by imaging can have a significant impact on appropriate treatment and surgical options. Familiarity with the different histologic subtypes of lung cancer and the typical and atypical appearances of lung cancer is vital. Radiologists serve a critical role in the diagnosis, staging, and follow-up of patients with lung cancer.",
+      "evidence_sentences": [
+        "Familiarity with the different histologic subtypes of lung cancer and the typical and atypical appearances of lung cancer is vital.",
+        "Radiologists serve a critical role in the diagnosis, staging, and follow-up of patients with lung cancer.",
+        "Accurate staging by imaging can have a significant impact on appropriate treatment and surgical options."
+      ],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Michelle S Ginsberg",
+        "Ravinder K Grewal",
+        "Robert T Heelan"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17157622/"
+    },
+    {
+      "pmid": "30638934",
+      "title": "Nuclear TAZ activity distinctly associates with subtypes of non-small cell lung cancer.",
+      "journal": "Biochemical and biophysical research communications",
+      "abstract_sections": [
+        "The transcription co-factor TAZ plays critical roles in the regulation of human carcinogenesis. However, the pathological role for TAZ in lung cancer has remained incompletely understood. TAZ expression was examined by immunohistochemistry for 163 NSCLC tissues. TAZ expression was also examined by western blotting for 20 frozen paired NSCLC and adjacent normal lung tissues. We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival. Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD. The nuclear localization of TAZ correlates worse clinical outcomes in LUSC, but not LUAD, further suggesting a prognostic value for activated TAZ in LUSC. A meta-analysis of the public datasets from TCGA, Broad institute, and Oncomine shows that the TAZ gene (WWTR1) copy numbers are significantly increased in LUSC and correlate with the increase of TAZ mRNA expression, suggesting that TAZ is overexpressed in LUSC at least partly through gene amplifications. Collectively, our results suggest that TAZ expression distinctly associates with subtypes of NSCLC and may be useful for developing novel therapeutics treating LUSC."
+      ],
+      "abstract": "The transcription co-factor TAZ plays critical roles in the regulation of human carcinogenesis. However, the pathological role for TAZ in lung cancer has remained incompletely understood. TAZ expression was examined by immunohistochemistry for 163 NSCLC tissues. TAZ expression was also examined by western blotting for 20 frozen paired NSCLC and adjacent normal lung tissues. We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival. Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD. The nuclear localization of TAZ correlates worse clinical outcomes in LUSC, but not LUAD, further suggesting a prognostic value for activated TAZ in LUSC. A meta-analysis of the public datasets from TCGA, Broad institute, and Oncomine shows that the TAZ gene (WWTR1) copy numbers are significantly increased in LUSC and correlate with the increase of TAZ mRNA expression, suggesting that TAZ is overexpressed in LUSC at least partly through gene amplifications. Collectively, our results suggest that TAZ expression distinctly associates with subtypes of NSCLC and may be useful for developing novel therapeutics treating LUSC.",
+      "evidence_sentences": [
+        "We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival.",
+        "Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD.",
+        "Collectively, our results suggest that TAZ expression distinctly associates with subtypes of NSCLC and may be useful for developing novel therapeutics treating LUSC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Yuanyuan Wang",
+        "Yang Han",
+        "Zhongliang Guo",
+        "Yanan Yang",
+        "Tao Ren"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30638934/"
+    },
+    {
+      "pmid": "32857949",
+      "title": "Mastering the Complex Targeted Therapy for Non-small Cell Lung Cancer.",
+      "journal": "Cancer cell",
+      "abstract_sections": [
+        "In a recent Nature article, Middleton et al. report the National Lung Matrix trial results where patients with previously treated non-small cell lung cancer (NSCLC) are assigned to personalized therapy based on the results of a 28-gene next-generation sequencing panel test."
+      ],
+      "abstract": "In a recent Nature article, Middleton et al. report the National Lung Matrix trial results where patients with previously treated non-small cell lung cancer (NSCLC) are assigned to personalized therapy based on the results of a 28-gene next-generation sequencing panel test.",
+      "evidence_sentences": [
+        "report the National Lung Matrix trial results where patients with previously treated non-small cell lung cancer (NSCLC) are assigned to personalized therapy based on the results of a 28-gene next-generation sequencing panel test."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Comment"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Siddhartha Devarakonda",
+        "Ramaswamy Govindan",
+        "Daniel Morgensztern"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32857949/"
+    },
+    {
+      "pmid": "31086949",
+      "title": "EGFR mutation subtypes and response to immune checkpoint blockade treatment in non-small-cell lung cancer.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "abstract_sections": [
+        "Although EGFR mutant tumors exhibit low response rates to immune checkpoint blockade overall, some EGFR mutant tumors do respond to these therapies; however, there is a lack of understanding of the characteristics of EGFR mutant lung tumors responsive to immune checkpoint blockade.",
+        "We retrospectively analyzed de-identified clinical and molecular data on 171 cases of EGFR mutant lung tumors treated with immune checkpoint inhibitors from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, University of California Los Angeles, and Dana Farber Cancer Institute. A separate cohort of 383 EGFR mutant lung cancer cases with sequencing data available from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, and The Cancer Genome Atlas was compiled to assess the relationship between tumor mutation burden and specific EGFR alterations.",
+        "Compared with 212 EGFR wild-type lung cancers, outcomes with programmed cell death 1 or programmed death-ligand 1 (PD-(L)1) blockade were worse in patients with lung tumors harboring alterations in exon 19 of EGFR (EGFRΔ19) but similar for EGFRL858R lung tumors. EGFRT790M status and PD-L1 expression did not impact response or survival outcomes to immune checkpoint blockade. PD-L1 expression was similar across EGFR alleles. Lung tumors with EGFRΔ19 alterations harbored a lower tumor mutation burden compared with EGFRL858R lung tumors despite similar smoking history.",
+        "EGFR mutant tumors have generally low response to immune checkpoint inhibitors, but outcomes vary by allele. Understanding the heterogeneity of EGFR mutant tumors may be informative for establishing the benefits and uses of PD-(L)1 therapies for patients with this disease."
+      ],
+      "abstract": "Although EGFR mutant tumors exhibit low response rates to immune checkpoint blockade overall, some EGFR mutant tumors do respond to these therapies; however, there is a lack of understanding of the characteristics of EGFR mutant lung tumors responsive to immune checkpoint blockade.\n\nWe retrospectively analyzed de-identified clinical and molecular data on 171 cases of EGFR mutant lung tumors treated with immune checkpoint inhibitors from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, University of California Los Angeles, and Dana Farber Cancer Institute. A separate cohort of 383 EGFR mutant lung cancer cases with sequencing data available from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, and The Cancer Genome Atlas was compiled to assess the relationship between tumor mutation burden and specific EGFR alterations.\n\nCompared with 212 EGFR wild-type lung cancers, outcomes with programmed cell death 1 or programmed death-ligand 1 (PD-(L)1) blockade were worse in patients with lung tumors harboring alterations in exon 19 of EGFR (EGFRΔ19) but similar for EGFRL858R lung tumors. EGFRT790M status and PD-L1 expression did not impact response or survival outcomes to immune checkpoint blockade. PD-L1 expression was similar across EGFR alleles. Lung tumors with EGFRΔ19 alterations harbored a lower tumor mutation burden compared with EGFRL858R lung tumors despite similar smoking history.\n\nEGFR mutant tumors have generally low response to immune checkpoint inhibitors, but outcomes vary by allele. Understanding the heterogeneity of EGFR mutant tumors may be informative for establishing the benefits and uses of PD-(L)1 therapies for patients with this disease.",
+      "evidence_sentences": [
+        "Compared with 212 EGFR wild-type lung cancers, outcomes with programmed cell death 1 or programmed death-ligand 1 (PD-(L)1) blockade were worse in patients with lung tumors harboring alterations in exon 19 of EGFR (EGFRΔ19) but similar for EGFRL858R lung tumors.",
+        "We retrospectively analyzed de-identified clinical and molecular data on 171 cases of EGFR mutant lung tumors treated with immune checkpoint inhibitors from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, University of California Los Angeles, and Dana Farber Cancer Institute.",
+        "A separate cohort of 383 EGFR mutant lung cancer cases with sequencing data available from the Yale Cancer Center, Memorial Sloan Kettering Cancer Center, and The Cancer Genome Atlas was compiled to assess the relationship between tumor mutation burden and specific EGFR alterations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "K Hastings",
+        "H A Yu",
+        "W Wei",
+        "F Sanchez-Vega",
+        "M DeVeaux",
+        "J Choi",
+        "H Rizvi",
+        "A Lisberg",
+        "A Truini",
+        "C A Lydon",
+        "Z Liu",
+        "B S Henick",
+        "A Wurtz",
+        "G Cai",
+        "A J Plodkowski",
+        "N M Long",
+        "D F Halpenny",
+        "J Killam",
+        "I Oliva",
+        "N Schultz",
+        "G J Riely",
+        "M E Arcila",
+        "M Ladanyi",
+        "D Zelterman",
+        "R S Herbst",
+        "S B Goldberg",
+        "M M Awad",
+        "E B Garon",
+        "S Gettinger",
+        "M D Hellmann",
+        "K Politi"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31086949/"
+    },
+    {
+      "pmid": "14578194",
+      "title": "Non-small-cell lung cancer molecular signatures recapitulate lung developmental pathways.",
+      "journal": "The American journal of pathology",
+      "abstract_sections": [
+        "Current paradigms hold that lung carcinomas arise from pleuripotent stem cells capable of differentiation into one or several histological types. These paradigms suggest lung tumor cell ontogeny is determined by consequences of gene expression that recapitulate events important in embryonic lung development. Using oligonucleotide microarrays, we acquired gene profiles from 32 microdissected non-small-cell lung tumors. We determined the 100 top-ranked marker genes for adenocarcinoma, squamous cell, large cell, and carcinoid using nearest neighbor analysis. Results were validated by immunostaining for 11 selected proteins using a tissue microarray representing 80 tumors. Gene expression data of lung development were accessed from a publicly available dataset generated with the murine Mu11k genome microarray. Self-organized mapping identified two temporally distinct clusters of murine orthologues. Supervised clustering of lung development data showed large-cell carcinoma gene orthologues were in a cluster expressed in pseudoglandular and canalicular stages whereas adenocarcinoma homologues were predominantly in a cluster expressed later in the terminal sac and alveolar stages of murine lung development. Representative large-cell genes (E2F3, MYBL2, HDAC2, CDK4, PCNA) are expressed in the nucleus and are associated with cell cycle and proliferation. In contrast, adenocarcinoma genes are associated with lung-specific transcription pathways (SFTPB, TTF-1), cell adhesion, and signal transduction. In sum, non-small-cell lung tumors histology gene profiles suggest mechanisms relevant to ontogeny and clinical course. Adenocarcinoma genes are associated with differentiation and glandular formation whereas large-cell genes are associated with proliferation and differentiation arrest. The identification of developmentally regulated pathways active in tumorigenesis provides insights into lung carcinogenesis and suggests early steps may differ according to the eventual tumor morphology."
+      ],
+      "abstract": "Current paradigms hold that lung carcinomas arise from pleuripotent stem cells capable of differentiation into one or several histological types. These paradigms suggest lung tumor cell ontogeny is determined by consequences of gene expression that recapitulate events important in embryonic lung development. Using oligonucleotide microarrays, we acquired gene profiles from 32 microdissected non-small-cell lung tumors. We determined the 100 top-ranked marker genes for adenocarcinoma, squamous cell, large cell, and carcinoid using nearest neighbor analysis. Results were validated by immunostaining for 11 selected proteins using a tissue microarray representing 80 tumors. Gene expression data of lung development were accessed from a publicly available dataset generated with the murine Mu11k genome microarray. Self-organized mapping identified two temporally distinct clusters of murine orthologues. Supervised clustering of lung development data showed large-cell carcinoma gene orthologues were in a cluster expressed in pseudoglandular and canalicular stages whereas adenocarcinoma homologues were predominantly in a cluster expressed later in the terminal sac and alveolar stages of murine lung development. Representative large-cell genes (E2F3, MYBL2, HDAC2, CDK4, PCNA) are expressed in the nucleus and are associated with cell cycle and proliferation. In contrast, adenocarcinoma genes are associated with lung-specific transcription pathways (SFTPB, TTF-1), cell adhesion, and signal transduction. In sum, non-small-cell lung tumors histology gene profiles suggest mechanisms relevant to ontogeny and clinical course. Adenocarcinoma genes are associated with differentiation and glandular formation whereas large-cell genes are associated with proliferation and differentiation arrest. The identification of developmentally regulated pathways active in tumorigenesis provides insights into lung carcinogenesis and suggests early steps may differ according to the eventual tumor morphology.",
+      "evidence_sentences": [
+        "In sum, non-small-cell lung tumors histology gene profiles suggest mechanisms relevant to ontogeny and clinical course.",
+        "Using oligonucleotide microarrays, we acquired gene profiles from 32 microdissected non-small-cell lung tumors.",
+        "Supervised clustering of lung development data showed large-cell carcinoma gene orthologues were in a cluster expressed in pseudoglandular and canalicular stages whereas adenocarcinoma homologues were predominantly in a cluster expressed later in the terminal sac and alveolar stages of murine lung development."
+      ],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Alain C Borczuk",
+        "Lyall Gorenstein",
+        "Kristin L Walter",
+        "Adel A Assaad",
+        "Liqun Wang",
+        "Charles A Powell"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/14578194/"
+    },
+    {
+      "pmid": "32452900",
+      "title": "Pneumonitis associated with immune checkpoint inhibitors among patients with non-small cell lung cancer.",
+      "journal": "Current opinion in pulmonary medicine",
+      "abstract_sections": [
+        "Patients with lung cancer are particularly vulnerable to lung injury associated with immune checkpoint inhibition and often present with more frequent and more severe manifestations of lung disease compared to patients with other tumor types. The present review explores the reasons for increased susceptibility to immune checkpoint-related lung injury among this group of patients and focuses on the current knowledge of the clinical and radiologic manifestations of lung injury associated with immune checkpoint blockade and current treatment strategies.",
+        "Recent investigations have shown that pneumonitis risk associated with immune checkpoint blockade may be stratified according to the tumor type that is being targeted. Patients with lung cancer have the highest rates of pneumonitis associated with this class of agents.",
+        "Pneumonitis associated with immune checkpoint blockade among patients with lung cancer has the highest prevalence of all cancer types. In this patient population, the additional insult to the lungs imposed by immune-checkpoint therapies is often poorly tolerated because of tumor burden within the lung, sequelae from prior treatment and frequent comorbid lung diseases, such as chronic obstructive pulmonary disease. Thus, early recognition and treatment is critical in this patient population to successful outcome."
+      ],
+      "abstract": "Patients with lung cancer are particularly vulnerable to lung injury associated with immune checkpoint inhibition and often present with more frequent and more severe manifestations of lung disease compared to patients with other tumor types. The present review explores the reasons for increased susceptibility to immune checkpoint-related lung injury among this group of patients and focuses on the current knowledge of the clinical and radiologic manifestations of lung injury associated with immune checkpoint blockade and current treatment strategies.\n\nRecent investigations have shown that pneumonitis risk associated with immune checkpoint blockade may be stratified according to the tumor type that is being targeted. Patients with lung cancer have the highest rates of pneumonitis associated with this class of agents.\n\nPneumonitis associated with immune checkpoint blockade among patients with lung cancer has the highest prevalence of all cancer types. In this patient population, the additional insult to the lungs imposed by immune-checkpoint therapies is often poorly tolerated because of tumor burden within the lung, sequelae from prior treatment and frequent comorbid lung diseases, such as chronic obstructive pulmonary disease. Thus, early recognition and treatment is critical in this patient population to successful outcome.",
+      "evidence_sentences": [
+        "The present review explores the reasons for increased susceptibility to immune checkpoint-related lung injury among this group of patients and focuses on the current knowledge of the clinical and radiologic manifestations of lung injury associated with immune checkpoint blockade and current treatment strategies.",
+        "In this patient population, the additional insult to the lungs imposed by immune-checkpoint therapies is often poorly tolerated because of tumor burden within the lung, sequelae from prior treatment and frequent comorbid lung diseases, such as chronic obstructive pulmonary disease.",
+        "Patients with lung cancer are particularly vulnerable to lung injury associated with immune checkpoint inhibition and often present with more frequent and more severe manifestations of lung disease compared to patients with other tumor types."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Vickie R Shannon"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32452900/"
+    },
+    {
+      "pmid": "29622080",
+      "title": "Targeted Therapy and Immunotherapy in the Treatment of Non-Small Cell Lung Cancer.",
+      "journal": "Radiologic clinics of North America",
+      "abstract_sections": [
+        "The treatment strategy in advanced non-small cell lung cancer (NSCLC) has evolved from empirical chemotherapy to a personalized approach based on histology and molecular markers of primary tumors. Targeted therapies are directed at the products of oncogenic driver mutations. Immunotherapy facilitates the recognition of cancer as foreign by the host immune system, stimulates the immune system, and alleviates the inhibition that allows the growth and spread of cancer cells. The authors describes the role of targeted therapy and immunotherapy in the treatment of NSCLC, patterns of disease present on imaging studies, and immune-related adverse events encountered with immunotherapy."
+      ],
+      "abstract": "The treatment strategy in advanced non-small cell lung cancer (NSCLC) has evolved from empirical chemotherapy to a personalized approach based on histology and molecular markers of primary tumors. Targeted therapies are directed at the products of oncogenic driver mutations. Immunotherapy facilitates the recognition of cancer as foreign by the host immune system, stimulates the immune system, and alleviates the inhibition that allows the growth and spread of cancer cells. The authors describes the role of targeted therapy and immunotherapy in the treatment of NSCLC, patterns of disease present on imaging studies, and immune-related adverse events encountered with immunotherapy.",
+      "evidence_sentences": [
+        "The treatment strategy in advanced non-small cell lung cancer (NSCLC) has evolved from empirical chemotherapy to a personalized approach based on histology and molecular markers of primary tumors.",
+        "Immunotherapy facilitates the recognition of cancer as foreign by the host immune system, stimulates the immune system, and alleviates the inhibition that allows the growth and spread of cancer cells.",
+        "The authors describes the role of targeted therapy and immunotherapy in the treatment of NSCLC, patterns of disease present on imaging studies, and immune-related adverse events encountered with immunotherapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Girish S Shroff",
+        "Patricia M de Groot",
+        "Vassiliki A Papadimitrakopoulou",
+        "Mylene T Truong",
+        "Brett W Carter"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29622080/"
+    },
+    {
+      "pmid": "34816394",
+      "title": "Pulmonary delivery of osimertinib liposomes for non-small cell lung cancer treatment: formulation development and in vitro evaluation.",
+      "journal": "Drug delivery and translational research",
+      "abstract_sections": [
+        "Osimertinib (OB) is a third-generation irreversible tyrosine kinase inhibitor targeting the epidermal growth factor receptor (EGFR), overexpressed in non-small cell lung cancer. Systemic administration of drug often results in poor drug levels at the primary tumor in the lungs and is associated with systemic side effects. In this study, we developed inhalable OB liposomes that can locally accumulate at the tumor site thereby limiting systemic toxicity. OB was loaded into liposomes via active and passive loading methods. The OB active liposomes achieved a higher encapsulation (78%) compared to passive liposomes (25%). The liposomes (passive and active) exhibited excellent aerosolization performance with an aerodynamic diameter of 4 µm and fine particle fraction of 82%. In H1975 cells, OB active and passive liposomes reduced IC"
+      ],
+      "abstract": "Osimertinib (OB) is a third-generation irreversible tyrosine kinase inhibitor targeting the epidermal growth factor receptor (EGFR), overexpressed in non-small cell lung cancer. Systemic administration of drug often results in poor drug levels at the primary tumor in the lungs and is associated with systemic side effects. In this study, we developed inhalable OB liposomes that can locally accumulate at the tumor site thereby limiting systemic toxicity. OB was loaded into liposomes via active and passive loading methods. The OB active liposomes achieved a higher encapsulation (78%) compared to passive liposomes (25%). The liposomes (passive and active) exhibited excellent aerosolization performance with an aerodynamic diameter of 4 µm and fine particle fraction of 82%. In H1975 cells, OB active and passive liposomes reduced IC",
+      "evidence_sentences": [
+        "Osimertinib (OB) is a third-generation irreversible tyrosine kinase inhibitor targeting the epidermal growth factor receptor (EGFR), overexpressed in non-small cell lung cancer.",
+        "Systemic administration of drug often results in poor drug levels at the primary tumor in the lungs and is associated with systemic side effects.",
+        "The liposomes (passive and active) exhibited excellent aerosolization performance with an aerodynamic diameter of 4 µm and fine particle fraction of 82%."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Shruti S Sawant",
+        "Suyash M Patil",
+        "Snehal K Shukla",
+        "Nishant S Kulkarni",
+        "Vivek Gupta",
+        "Nitesh K Kunda"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34816394/"
+    },
+    {
+      "pmid": "29976955",
+      "title": "Tissue and exosomal miRNA editing in Non-Small Cell Lung Cancer.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "RNA editing in microRNAs has been recently proposed as a novel biomarker in cancer. Here, we investigated RNA editing by leveraging small-RNA sequencing data from 87 NSCLC (Non-Small Cell Lung Cancer) samples paired with normal lung tissues from The Cancer Genome Atlas (TCGA) combined with 26 plasma-derived exosome samples from an independent cohort. Using both the editing levels and microRNA editing expression, we detected deregulated microRNA editing events between NSCLC tumor and normal tissues. Interestingly, and for the first time, we also detected editing sites in the microRNA cargo of circulating exosomes, providing the potential to non-invasively discriminate between normal and tumor samples. Of note, miR-411-5p edited in position 5 was significantly dysregulated in tissues as well as in exosomes of NSCLC patients, suggesting a potential targetome shift relevant to lung cancer biology."
+      ],
+      "abstract": "RNA editing in microRNAs has been recently proposed as a novel biomarker in cancer. Here, we investigated RNA editing by leveraging small-RNA sequencing data from 87 NSCLC (Non-Small Cell Lung Cancer) samples paired with normal lung tissues from The Cancer Genome Atlas (TCGA) combined with 26 plasma-derived exosome samples from an independent cohort. Using both the editing levels and microRNA editing expression, we detected deregulated microRNA editing events between NSCLC tumor and normal tissues. Interestingly, and for the first time, we also detected editing sites in the microRNA cargo of circulating exosomes, providing the potential to non-invasively discriminate between normal and tumor samples. Of note, miR-411-5p edited in position 5 was significantly dysregulated in tissues as well as in exosomes of NSCLC patients, suggesting a potential targetome shift relevant to lung cancer biology.",
+      "evidence_sentences": [
+        "Here, we investigated RNA editing by leveraging small-RNA sequencing data from 87 NSCLC (Non-Small Cell Lung Cancer) samples paired with normal lung tissues from The Cancer Genome Atlas (TCGA) combined with 26 plasma-derived exosome samples from an independent cohort.",
+        "Of note, miR-411-5p edited in position 5 was significantly dysregulated in tissues as well as in exosomes of NSCLC patients, suggesting a potential targetome shift relevant to lung cancer biology.",
+        "Interestingly, and for the first time, we also detected editing sites in the microRNA cargo of circulating exosomes, providing the potential to non-invasively discriminate between normal and tumor samples."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Giovanni Nigita",
+        "Rosario Distefano",
+        "Dario Veneziano",
+        "Giulia Romano",
+        "Mohammad Rahman",
+        "Kai Wang",
+        "Harvey Pass",
+        "Carlo M Croce",
+        "Mario Acunzo",
+        "Patrick Nana-Sinkam"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29976955/"
+    },
+    {
+      "pmid": "33648347",
+      "title": "Canakinumab with and without pembrolizumab in patients with resectable non-small-cell lung cancer: CANOPY-N study design.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [
+        "Canakinumab is a human IgGκ monoclonal antibody, with high affinity and specificity for IL-1β. The Canakinumab Anti-Inflammatory Thrombosis Outcome Study (CANTOS) trial, evaluating canakinumab for cardiovascular disease, provided the first signal of the potential of IL-1β inhibition on lung cancer incidence reduction. Here, we describe the rationale and design for CANOPY-N, a randomized Phase II trial evaluating IL-1β inhibition with or without immune checkpoint inhibition as neoadjuvant treatment in patients with non-small-cell lung cancer. Patients with stage IB to IIIA non-small-cell lung cancer eligible for complete resection will receive canakinumab or pembrolizumab as monotherapy, or in combination. The primary end point is major pathological response by central review; secondary end points include overall response rate, major pathological response (local review), surgical feasibility rate and pharmacokinetics."
+      ],
+      "abstract": "Canakinumab is a human IgGκ monoclonal antibody, with high affinity and specificity for IL-1β. The Canakinumab Anti-Inflammatory Thrombosis Outcome Study (CANTOS) trial, evaluating canakinumab for cardiovascular disease, provided the first signal of the potential of IL-1β inhibition on lung cancer incidence reduction. Here, we describe the rationale and design for CANOPY-N, a randomized Phase II trial evaluating IL-1β inhibition with or without immune checkpoint inhibition as neoadjuvant treatment in patients with non-small-cell lung cancer. Patients with stage IB to IIIA non-small-cell lung cancer eligible for complete resection will receive canakinumab or pembrolizumab as monotherapy, or in combination. The primary end point is major pathological response by central review; secondary end points include overall response rate, major pathological response (local review), surgical feasibility rate and pharmacokinetics.",
+      "evidence_sentences": [
+        "Here, we describe the rationale and design for CANOPY-N, a randomized Phase II trial evaluating IL-1β inhibition with or without immune checkpoint inhibition as neoadjuvant treatment in patients with non-small-cell lung cancer.",
+        "Patients with stage IB to IIIA non-small-cell lung cancer eligible for complete resection will receive canakinumab or pembrolizumab as monotherapy, or in combination.",
+        "The Canakinumab Anti-Inflammatory Thrombosis Outcome Study (CANTOS) trial, evaluating canakinumab for cardiovascular disease, provided the first signal of the potential of IL-1β inhibition on lung cancer incidence reduction."
+      ],
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Pilar Garrido",
+        "Jean-Louis Pujol",
+        "Edward S Kim",
+        "Jay M Lee",
+        "Masahiro Tsuboi",
+        "Ana Gómez-Rueda",
+        "Amparo Benito",
+        "Nicolas Moreno",
+        "Luis Gorospe",
+        "Tuochuan Dong",
+        "Cecile Blin",
+        "Vanessa Rodrik-Outmezguine",
+        "Vanessa Q Passos",
+        "Tony Sk Mok"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33648347/"
+    },
+    {
+      "pmid": "18039118",
+      "title": "Lung cancer preneoplasia.",
+      "journal": "Annual review of pathology",
+      "abstract_sections": [
+        "From histological and biological perspectives, lung cancer is a complex neoplasm. Although the sequential preneoplastic changes have been defined for centrally arising squamous carcinomas of the lung, they have been poorly documented for the other major forms of lung cancers, including small cell lung carcinoma and adenocarcinomas. There are three main morphologic forms of preneoplastic lesions recognized in the lung: squamous dysplasias, atypical adenomatous hyperplasia, and diffuse idiopathic pulmonary neuroendocrine cell hyperplasia. However, these lesions account for the development of only a subset of lung cancers. Several studies have provided information regarding the molecular characterization of lung preneoplastic changes, especially for squamous cell carcinoma. These molecular changes have been detected in the histologically normal and abnormal respiratory epithelium of smokers. Two different molecular pathways have been detected in lung adenocarcinoma pathogenesis: smoking-associated activation of RAS signaling, and nonsmoking-associated activation of EGFR signaling; the latter is detected in histologically normal respiratory epithelium."
+      ],
+      "abstract": "From histological and biological perspectives, lung cancer is a complex neoplasm. Although the sequential preneoplastic changes have been defined for centrally arising squamous carcinomas of the lung, they have been poorly documented for the other major forms of lung cancers, including small cell lung carcinoma and adenocarcinomas. There are three main morphologic forms of preneoplastic lesions recognized in the lung: squamous dysplasias, atypical adenomatous hyperplasia, and diffuse idiopathic pulmonary neuroendocrine cell hyperplasia. However, these lesions account for the development of only a subset of lung cancers. Several studies have provided information regarding the molecular characterization of lung preneoplastic changes, especially for squamous cell carcinoma. These molecular changes have been detected in the histologically normal and abnormal respiratory epithelium of smokers. Two different molecular pathways have been detected in lung adenocarcinoma pathogenesis: smoking-associated activation of RAS signaling, and nonsmoking-associated activation of EGFR signaling; the latter is detected in histologically normal respiratory epithelium.",
+      "evidence_sentences": [
+        "Although the sequential preneoplastic changes have been defined for centrally arising squamous carcinomas of the lung, they have been poorly documented for the other major forms of lung cancers, including small cell lung carcinoma and adenocarcinomas.",
+        "Two different molecular pathways have been detected in lung adenocarcinoma pathogenesis: smoking-associated activation of RAS signaling, and nonsmoking-associated activation of EGFR signaling; the latter is detected in histologically normal respiratory epithelium.",
+        "There are three main morphologic forms of preneoplastic lesions recognized in the lung: squamous dysplasias, atypical adenomatous hyperplasia, and diffuse idiopathic pulmonary neuroendocrine cell hyperplasia."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Ignacio I Wistuba",
+        "Adi F Gazdar"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18039118/"
+    },
+    {
+      "pmid": "24578213",
+      "title": "Targeting angiogenesis in squamous non-small cell lung cancer.",
+      "journal": "Drugs",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases. The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma. However, improvements in the survival of patients with squamous NSCLC have remained elusive, presenting an urgent need for understanding and investigating therapeutically relevant molecular targets, specifically in squamous NSCLC. Although anti-VEGF therapy has been studied in squamous NSCLC, progress has been slow, in part due to issues related to pulmonary hemorrhage. In addition to these safety concerns, several phase III trials that initially included patients with squamous NSCLC failed to demonstrate improved overall survival (primary endpoint) with the addition of antiangiogenic therapy to chemotherapy compared with chemotherapy alone. Angiogenesis is an established hallmark of tumor progression and metastasis, and the role of VEGF signaling in angiogenesis is well established. However, some studies suggest that, while inhibiting VEGF signaling may be beneficial, prolonged exposure to VEGF/VEGF receptor (VEGFR) inhibitors may allow tumor cells to utilize alternative angiogenic mechanisms and become resistant. As a result, agents that target multiple angiogenic pathways simultaneously are also under evaluation. This review focuses on current and investigational antiangiogenic targets in squamous NSCLC, including VEGF/VEGFRs, fibroblast growth factor receptors, platelet-derived growth factor receptors, and angiopoietin. Additionally, clinical trials investigating VEGF- and multi-targeted antiangiogenic therapies are discussed."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases. The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma. However, improvements in the survival of patients with squamous NSCLC have remained elusive, presenting an urgent need for understanding and investigating therapeutically relevant molecular targets, specifically in squamous NSCLC. Although anti-VEGF therapy has been studied in squamous NSCLC, progress has been slow, in part due to issues related to pulmonary hemorrhage. In addition to these safety concerns, several phase III trials that initially included patients with squamous NSCLC failed to demonstrate improved overall survival (primary endpoint) with the addition of antiangiogenic therapy to chemotherapy compared with chemotherapy alone. Angiogenesis is an established hallmark of tumor progression and metastasis, and the role of VEGF signaling in angiogenesis is well established. However, some studies suggest that, while inhibiting VEGF signaling may be beneficial, prolonged exposure to VEGF/VEGF receptor (VEGFR) inhibitors may allow tumor cells to utilize alternative angiogenic mechanisms and become resistant. As a result, agents that target multiple angiogenic pathways simultaneously are also under evaluation. This review focuses on current and investigational antiangiogenic targets in squamous NSCLC, including VEGF/VEGFRs, fibroblast growth factor receptors, platelet-derived growth factor receptors, and angiopoietin. Additionally, clinical trials investigating VEGF- and multi-targeted antiangiogenic therapies are discussed.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases.",
+        "The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma.",
+        "In addition to these safety concerns, several phase III trials that initially included patients with squamous NSCLC failed to demonstrate improved overall survival (primary endpoint) with the addition of antiangiogenic therapy to chemotherapy compared with chemotherapy alone."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "treatment",
+        "therapy",
+        "management",
+        "options",
+        "patient",
+        "adenocarcinoma",
+        "subtype",
+        "expression",
+        "usa"
+      ],
+      "authors": [
+        "Bilal Piperdi",
+        "Amartej Merla",
+        "Roman Perez-Soler"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24578213/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "22721",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "30285222",
+        "30560866",
+        "30979687",
+        "32784481",
+        "7677489",
+        "37267954",
+        "29945888",
+        "32051585",
+        "39938515",
+        "34172784",
+        "33514641",
+        "32001676",
+        "38093367",
+        "36351380",
+        "34865516",
+        "32402356",
+        "35105868",
+        "29157386",
+        "17157622",
+        "30638934",
+        "32857949",
+        "31086949",
+        "14578194",
+        "32452900",
+        "29622080",
+        "34816394",
+        "29976955",
+        "33648347",
+        "18039118",
+        "24578213"
+      ],
+      "translationset": [
+        {
+          "from": "cancer",
+          "to": "\"cancer's\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]"
+        },
+        {
+          "from": "small",
+          "to": "\"Small\"[Journal:__jid101235338] OR \"small\"[All Fields]"
+        },
+        {
+          "from": "cell",
+          "to": "\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]"
+        },
+        {
+          "from": "lung",
+          "to": "\"lung\"[MeSH Terms] OR \"lung\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND \"non\"[All Fields] AND (\"small\"[Journal] OR \"small\"[All Fields]) AND (\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]) AND (\"lung\"[MeSH Terms] OR \"lung\"[All Fields]) AND \"USA\"[All Fields]"
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "query": "malaria about children kenya turkana",
+  "selected_query": "malaria about children kenya turkana",
+  "attempted_queries": [
+    {
+      "query": "malaria about children kenya turkana",
+      "count": 9
+    }
+  ],
+  "id_list": [
+    "21639926",
+    "38064427",
+    "41666451",
+    "34339387",
+    "41029815",
+    "39819451",
+    "28590539",
+    "8758085",
+    "12285083"
+  ],
+  "records": [
+    {
+      "pmid": "21639926",
+      "title": "Malaria in Kakuma refugee camp, Turkana, Kenya: facilitation of Anopheles arabiensis vector populations by installed water distribution and catchment systems.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria is a major health concern for displaced persons occupying refugee camps in sub-Saharan Africa, yet there is little information on the incidence of infection and nature of transmission in these settings. Kakuma Refugee Camp, located in a dry area of north-western Kenya, has hosted ca. 60,000 to 90,000 refugees since 1992, primarily from Sudan and Somalia. The purpose of this study was to investigate malaria prevalence and attack rate and sources of Anopheles vectors in Kakuma refugee camp, in 2005-2006, after a malaria epidemic was observed by staff at camp clinics.",
+        "Malaria prevalence and attack rate was estimated from cases of fever presenting to camp clinics and the hospital in August 2005, using rapid diagnostic tests and microscopy of blood smears. Larval habitats of vectors were sampled and mapped. Houses were sampled for adult vectors using the pyrethrum knockdown spray method, and mapped. Vectors were identified to species level and their infection with Plasmodium falciparum determined.",
+        "Prevalence of febrile illness with P. falciparum was highest among the 5 to 17 year olds (62.4%) while malaria attack rate was highest among the two to 4 year olds (5.2/1,000/day). Infected individuals were spatially concentrated in three of the 11 residential zones of the camp. The indoor densities of Anopheles arabiensis, the sole malaria vector, were similar during the wet and dry seasons, but were distributed in an aggregated fashion and predominantly in the same zones where malaria attack rates were high. Larval habitats and larval populations were also concentrated in these zones. Larval habitats were man-made pits of water associated with tap-stands installed as the water delivery system to residents with year round availability in the camp. Three percent of A. arabiensis adult females were infected with P. falciparum sporozoites in the rainy season.",
+        "Malaria in Kakuma refugee camp was due mainly to infection with P. falciparum and showed a hyperendemic age-prevalence profile, in an area with otherwise low risk of malaria given prevailing climate. Transmission was sustained by A. arabiensis, whose populations were facilitated by installation of man-made water distribution and catchment systems."
+      ],
+      "abstract": "Malaria is a major health concern for displaced persons occupying refugee camps in sub-Saharan Africa, yet there is little information on the incidence of infection and nature of transmission in these settings. Kakuma Refugee Camp, located in a dry area of north-western Kenya, has hosted ca. 60,000 to 90,000 refugees since 1992, primarily from Sudan and Somalia. The purpose of this study was to investigate malaria prevalence and attack rate and sources of Anopheles vectors in Kakuma refugee camp, in 2005-2006, after a malaria epidemic was observed by staff at camp clinics.\n\nMalaria prevalence and attack rate was estimated from cases of fever presenting to camp clinics and the hospital in August 2005, using rapid diagnostic tests and microscopy of blood smears. Larval habitats of vectors were sampled and mapped. Houses were sampled for adult vectors using the pyrethrum knockdown spray method, and mapped. Vectors were identified to species level and their infection with Plasmodium falciparum determined.\n\nPrevalence of febrile illness with P. falciparum was highest among the 5 to 17 year olds (62.4%) while malaria attack rate was highest among the two to 4 year olds (5.2/1,000/day). Infected individuals were spatially concentrated in three of the 11 residential zones of the camp. The indoor densities of Anopheles arabiensis, the sole malaria vector, were similar during the wet and dry seasons, but were distributed in an aggregated fashion and predominantly in the same zones where malaria attack rates were high. Larval habitats and larval populations were also concentrated in these zones. Larval habitats were man-made pits of water associated with tap-stands installed as the water delivery system to residents with year round availability in the camp. Three percent of A. arabiensis adult females were infected with P. falciparum sporozoites in the rainy season.\n\nMalaria in Kakuma refugee camp was due mainly to infection with P. falciparum and showed a hyperendemic age-prevalence profile, in an area with otherwise low risk of malaria given prevailing climate. Transmission was sustained by A. arabiensis, whose populations were facilitated by installation of man-made water distribution and catchment systems.",
+      "evidence_sentences": [
+        "The indoor densities of Anopheles arabiensis, the sole malaria vector, were similar during the wet and dry seasons, but were distributed in an aggregated fashion and predominantly in the same zones where malaria attack rates were high.",
+        "The purpose of this study was to investigate malaria prevalence and attack rate and sources of Anopheles vectors in Kakuma refugee camp, in 2005-2006, after a malaria epidemic was observed by staff at camp clinics.",
+        "Malaria is a major health concern for displaced persons occupying refugee camps in sub-Saharan Africa, yet there is little information on the incidence of infection and nature of transmission in these settings."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "M Nabie Bayoh",
+        "Willis Akhwale",
+        "Maurice Ombok",
+        "David Sang",
+        "Sammy C Engoki",
+        "Dan Koros",
+        "Edward D Walker",
+        "Holly A Williams",
+        "Heather Burke",
+        "Gregory L Armstrong",
+        "Martin S Cetron",
+        "Michelle Weinberg",
+        "Robert Breiman",
+        "Mary J Hamel"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21639926/"
+    },
+    {
+      "pmid": "38064427",
+      "title": "Understanding the fine-scale heterogeneity and spatial drivers of malaria transmission in Kenya using model-based geostatistical methods.",
+      "journal": "PLOS global public health",
+      "abstract_sections": [
+        "Malaria remains a public health concern. Monitoring the fine-scale heterogeneity of the malaria burden enables more targeted control efforts. Although malaria indicator surveys (MIS) have been crucial in evaluating the progress of malaria control interventions, they are only designed to provide a cross-sectional national and regional malaria disease burden. Recent advances in geostatistical methods allow us to interpolate national survey data to describe subnational disease burden that is crucial in informing targeted control. A binomial geostatistical model employing Markov chain Monte Carlo (MCMC) parameter estimation methods is used to understand the spatial drivers of malaria risk in Kenya and to predict malaria risk at a fine-scale resolution, including identifying hotspots. A total of 11,549 children aged six months to 14 years from 207 clusters were sampled in this survey and used in the present analysis. The national malaria prevalence based on the data was 8.4%, with the highest in the lake endemic zone (18.1%) and the lowest in the low-risk zone (<1%). The analysis shows that elevation, proportion of insectcide treated net (ITN) distributed, rainfall, temperature and urbanization covariates are all significant predictors of malaria transmission. The 5x5 Km resolution maps show that malaria is heterogeneous in Kenya, with hotspot areas in the lake endemic area, the coastal areas, and some parts of the shores of Lake Turkana and Kajiado. The high-resolution malaria prevalence maps produced as part of the analysis have shown that Kenya has additional malaria hotspots, especially in areas least expected. These findings call for a rethinking of malaria burden classification in some regions for effective planning, implementation, resource mobilization, monitoring, and evaluation of malaria interventions in the country."
+      ],
+      "abstract": "Malaria remains a public health concern. Monitoring the fine-scale heterogeneity of the malaria burden enables more targeted control efforts. Although malaria indicator surveys (MIS) have been crucial in evaluating the progress of malaria control interventions, they are only designed to provide a cross-sectional national and regional malaria disease burden. Recent advances in geostatistical methods allow us to interpolate national survey data to describe subnational disease burden that is crucial in informing targeted control. A binomial geostatistical model employing Markov chain Monte Carlo (MCMC) parameter estimation methods is used to understand the spatial drivers of malaria risk in Kenya and to predict malaria risk at a fine-scale resolution, including identifying hotspots. A total of 11,549 children aged six months to 14 years from 207 clusters were sampled in this survey and used in the present analysis. The national malaria prevalence based on the data was 8.4%, with the highest in the lake endemic zone (18.1%) and the lowest in the low-risk zone (<1%). The analysis shows that elevation, proportion of insectcide treated net (ITN) distributed, rainfall, temperature and urbanization covariates are all significant predictors of malaria transmission. The 5x5 Km resolution maps show that malaria is heterogeneous in Kenya, with hotspot areas in the lake endemic area, the coastal areas, and some parts of the shores of Lake Turkana and Kajiado. The high-resolution malaria prevalence maps produced as part of the analysis have shown that Kenya has additional malaria hotspots, especially in areas least expected. These findings call for a rethinking of malaria burden classification in some regions for effective planning, implementation, resource mobilization, monitoring, and evaluation of malaria interventions in the country.",
+      "evidence_sentences": [
+        "The 5x5 Km resolution maps show that malaria is heterogeneous in Kenya, with hotspot areas in the lake endemic area, the coastal areas, and some parts of the shores of Lake Turkana and Kajiado.",
+        "A binomial geostatistical model employing Markov chain Monte Carlo (MCMC) parameter estimation methods is used to understand the spatial drivers of malaria risk in Kenya and to predict malaria risk at a fine-scale resolution, including identifying hotspots.",
+        "The high-resolution malaria prevalence maps produced as part of the analysis have shown that Kenya has additional malaria hotspots, especially in areas least expected."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Donnie Mategula",
+        "Judy Gichuki"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38064427/"
+    },
+    {
+      "pmid": "41666451",
+      "title": "A Baseline Mixed-Methods Study to Inform Seasonal Malaria Chemoprevention Delivery in a Semi-Nomadic Population in Turkana, Kenya.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024. To inform the design of SMC, we conducted a baseline qualitative and quantitative study. Using stratified cluster sampling, we enrolled 198 households with children of ages 6 months to 5 years and tested all individuals six months and older using a rapid diagnostic test (RDT) and polymerase chain reaction (PCR) for Plasmodium falciparum. We performed 78 key informant interviews; 31 focus group discussions with community health workers, elders, and caretakers of children; and 60 in-depth interviews with caretakers. Prevalence of P. falciparum infection was 21% (9-42%) by RDT and 21% (11-38%) by PCR. Prevalence varied across villages, with the highest positivity of 73% by PCR. Although SMC was perceived positively, the identified challenges included physical access (households far from village centers, pastoralists, children living in the streets), stigma (children living with disabilities, households with members struggling with alcohol use), and acceptability (traditionalists, highly educated households). Despite the high malaria burden in the region, SMC may be a feasible approach to reduce its burden and transmission. However, implementation of SMC should be tailored, combining centralized distribution with door-to-door delivery and outreach to pastoralists and people living in the interior. Using existing grassroots structures, such as pastoralist leadership structures and religious and group leaders, and intensive mobilization will be critical for success of this intervention."
+      ],
+      "abstract": "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024. To inform the design of SMC, we conducted a baseline qualitative and quantitative study. Using stratified cluster sampling, we enrolled 198 households with children of ages 6 months to 5 years and tested all individuals six months and older using a rapid diagnostic test (RDT) and polymerase chain reaction (PCR) for Plasmodium falciparum. We performed 78 key informant interviews; 31 focus group discussions with community health workers, elders, and caretakers of children; and 60 in-depth interviews with caretakers. Prevalence of P. falciparum infection was 21% (9-42%) by RDT and 21% (11-38%) by PCR. Prevalence varied across villages, with the highest positivity of 73% by PCR. Although SMC was perceived positively, the identified challenges included physical access (households far from village centers, pastoralists, children living in the streets), stigma (children living with disabilities, households with members struggling with alcohol use), and acceptability (traditionalists, highly educated households). Despite the high malaria burden in the region, SMC may be a feasible approach to reduce its burden and transmission. However, implementation of SMC should be tailored, combining centralized distribution with door-to-door delivery and outreach to pastoralists and people living in the interior. Using existing grassroots structures, such as pastoralist leadership structures and religious and group leaders, and intensive mobilization will be critical for success of this intervention.",
+      "evidence_sentences": [
+        "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024.",
+        "Despite the high malaria burden in the region, SMC may be a feasible approach to reduce its burden and transmission.",
+        "Although SMC was perceived positively, the identified challenges included physical access (households far from village centers, pastoralists, children living in the streets), stigma (children living with disabilities, households with members struggling with alcohol use), and acceptability (traditionalists, highly educated households)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Natalya Kostandova",
+        "Catherine Kafu",
+        "Tabitha J Chepkwony",
+        "George Ambani",
+        "Lucy Abel",
+        "Beatrice Rotich",
+        "Joseph Kipkoech Kirui",
+        "Emmah Kimachas",
+        "Emily Robie",
+        "Kaman Lowoi",
+        "David Ekai",
+        "Gilchrist Lokoel",
+        "Omalo Orinda",
+        "Suzanne Van Hulle",
+        "Robert Mgeni",
+        "Wendy Prudhomme O'Meara",
+        "Amy Wesolowski",
+        "Becky Genberg",
+        "Diana Menya"
+      ],
+      "year": "2026",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41666451/"
+    },
+    {
+      "pmid": "34339387",
+      "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning. However, the area is changing, with substantial development, an upsurge in travel associated with resource extraction, and more populated settlements forming. Recently, numerous malaria outbreaks have highlighted the need to characterize malaria transmission and its associated risk factors in the region to inform control strategies. Reactive case detection of confirmed malaria cases at six health facilities across central Turkana was conducted from 2018 to 2019. Infections in household members of index cases were detected by malaria rapid diagnostic tests (RDTs) and PCR tests, and they were grouped according household and individual characteristics. The relationships between putative risk factors and infection were quantified by multilevel logistic regression models. Of the 3,189 household members analyzed, 33.6% had positive RDT results and/or PCR test results. RDT-detected infections were more prevalent in children; however, PCR-detected infections were similarly prevalent across age groups. Recent travel was rarely reported and not significantly associated with infection. Bed net coverage was low and net crowding was associated with increased risks of household infections. Infections were present year-round, and fluctuations in prevalence were not associated with rainfall. These findings indicate year-round, endemic transmission with moderate population immunity. This is in stark contrast to recent estimates in this area. Therefore, further investigations to design effective intervention approaches to address malaria in this rapidly changing region and other similar settings across the Horn of Africa are warranted."
+      ],
+      "abstract": "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning. However, the area is changing, with substantial development, an upsurge in travel associated with resource extraction, and more populated settlements forming. Recently, numerous malaria outbreaks have highlighted the need to characterize malaria transmission and its associated risk factors in the region to inform control strategies. Reactive case detection of confirmed malaria cases at six health facilities across central Turkana was conducted from 2018 to 2019. Infections in household members of index cases were detected by malaria rapid diagnostic tests (RDTs) and PCR tests, and they were grouped according household and individual characteristics. The relationships between putative risk factors and infection were quantified by multilevel logistic regression models. Of the 3,189 household members analyzed, 33.6% had positive RDT results and/or PCR test results. RDT-detected infections were more prevalent in children; however, PCR-detected infections were similarly prevalent across age groups. Recent travel was rarely reported and not significantly associated with infection. Bed net coverage was low and net crowding was associated with increased risks of household infections. Infections were present year-round, and fluctuations in prevalence were not associated with rainfall. These findings indicate year-round, endemic transmission with moderate population immunity. This is in stark contrast to recent estimates in this area. Therefore, further investigations to design effective intervention approaches to address malaria in this rapidly changing region and other similar settings across the Horn of Africa are warranted.",
+      "evidence_sentences": [
+        "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning.",
+        "Reactive case detection of confirmed malaria cases at six health facilities across central Turkana was conducted from 2018 to 2019.",
+        "Therefore, further investigations to design effective intervention approaches to address malaria in this rapidly changing region and other similar settings across the Horn of Africa are warranted."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Hannah R Meredith",
+        "Amy Wesolowski",
+        "Diana Menya",
+        "Daniel Esimit",
+        "Gilchrist Lokoel",
+        "Joseph Kipkoech",
+        "Betsy Freedman",
+        "Samuel Lokemer",
+        "James Maragia",
+        "George Ambani",
+        "Steve M Taylor",
+        "Wendy Prudhomme-O'Meara",
+        "Andrew A Obala"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34339387/"
+    },
+    {
+      "pmid": "41029815",
+      "title": "The effect of non-adherence to treatment guidelines, quantification and distribution practices on antimalarial commodities inventory levels in healthcare facilities at Turkana County, Kenya.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria is a global public health concern and a leading cause of morbidity and mortality, especially in children under the age of 5 years. In Kenya, it is among the top ten causes of morbidity and mortality as reported in the Kenya Health Information System (KHIS2). Adequate inventory levels of antimalarial medicines and rapid diagnostic test (RDT) kits must be available for proper malaria case management. Adherence to the malaria test and treat guidelinesand effective quantification, and distribution practices affect the health facility stock levels of antimalarial medicines and RDT kits. This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.",
+        "This was a descriptive cross-sectional study across facilities in Turkana County. Simple random sampling was used to select 152 health facilities, of which 132 participated in the study. Data was collected using a researcher-administered questionnaire and an abstraction tool that was adapted from the standard logistics indicator abstraction tool (LIAT). Data analysis was done using descriptive statistics, including means, proportions, and percentages.",
+        "Data was collected from 132 respondents, and the majority (98, 74.2%) were male. One hundred and eight (81.8%) were nurses. Only 35 (26.5%) facilities adhered to the treatment guidelines. Quantification for antimalarial medicines and RDT kits was done quarterly using the consumption method, and seasonality was not considered to forecast reorder quantities. Most facilities (80, 60.6%) cited the lack of vehicles as a major challenge during the interfacility redistribution of commodities. Most of the health facilities were overstocked with commodities. The facilities that adhered to test and treat had lower average months of stock (9.5) of commodities in all categories, compared to those that treated more patients than those confirmed malaria-positive (13.2).",
+        "Adherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal. This led to most facilities being overstocked with these commodities."
+      ],
+      "abstract": "Malaria is a global public health concern and a leading cause of morbidity and mortality, especially in children under the age of 5 years. In Kenya, it is among the top ten causes of morbidity and mortality as reported in the Kenya Health Information System (KHIS2). Adequate inventory levels of antimalarial medicines and rapid diagnostic test (RDT) kits must be available for proper malaria case management. Adherence to the malaria test and treat guidelinesand effective quantification, and distribution practices affect the health facility stock levels of antimalarial medicines and RDT kits. This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.\n\nThis was a descriptive cross-sectional study across facilities in Turkana County. Simple random sampling was used to select 152 health facilities, of which 132 participated in the study. Data was collected using a researcher-administered questionnaire and an abstraction tool that was adapted from the standard logistics indicator abstraction tool (LIAT). Data analysis was done using descriptive statistics, including means, proportions, and percentages.\n\nData was collected from 132 respondents, and the majority (98, 74.2%) were male. One hundred and eight (81.8%) were nurses. Only 35 (26.5%) facilities adhered to the treatment guidelines. Quantification for antimalarial medicines and RDT kits was done quarterly using the consumption method, and seasonality was not considered to forecast reorder quantities. Most facilities (80, 60.6%) cited the lack of vehicles as a major challenge during the interfacility redistribution of commodities. Most of the health facilities were overstocked with commodities. The facilities that adhered to test and treat had lower average months of stock (9.5) of commodities in all categories, compared to those that treated more patients than those confirmed malaria-positive (13.2).\n\nAdherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal. This led to most facilities being overstocked with these commodities.",
+      "evidence_sentences": [
+        "This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.",
+        "Malaria is a global public health concern and a leading cause of morbidity and mortality, especially in children under the age of 5 years.",
+        "The facilities that adhered to test and treat had lower average months of stock (9.5) of commodities in all categories, compared to those that treated more patients than those confirmed malaria-positive (13.2)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Brian N Muyokani",
+        "Peter N Karimi",
+        "Taraiya F Ntore",
+        "Jean Habagusenga",
+        "Abiud M Manyura"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41029815/"
+    },
+    {
+      "pmid": "39819451",
+      "title": "Detection of low frequency artemisinin resistance mutations, C469Y, P553L and A675V, and fixed antifolate resistance mutations in asymptomatic primary school children in Kenya.",
+      "journal": "BMC infectious diseases",
+      "abstract_sections": [
+        "To understand the emergence and spread of drug-resistant parasites in malaria-endemic areas, accurate assessment and monitoring of antimalarial drug resistance markers is critical. Recent advances in next-generation sequencing (NGS) technologies have enabled the tracking of drug-resistant malaria parasites.",
+        "In this study, we used Targeted Amplicon Deep Sequencing (TADS) to characterise the genetic diversity of the Pfk13, Pfdhfr, Pfdhps, and Pfmdr1 genes among primary school-going children in 15 counties in Kenya (Bungoma, Busia, Homa Bay, Migori, Kakamega, Kilifi, Kirinyaga, Kisii, Kisumu, Kwale, Siaya, Tana River, Turkana, Vihiga and West Pokot). A total of 920 dried blood spot (DBS) samples collected from 121 selected primary schools within the country were used to extract genomic DNA. A nested polymerase chain reaction (PCR) was used to generate amplicons that were sequenced to determine the prevalence of known and novel polymorphisms.",
+        "Pfk13 mutations associated with artemisinin resistance were present as mixed genotype infections for the C469Y mutation in 23 samples (4%), the A675V mutation in 2 samples (1.7%), and the P553L mutation in 7 samples (1.2%). The A578S mutation, was also identified in mixed infections, appearing in 15.2% of the 87 samples analysed. The Pfdhfr 51I and 108 N pyrimethamine-resistance mutations were at fixation (100% frequency), and the Pfmdr1 Y184F mutation, which is linked to reduced susceptibility to several antimalarial drugs, especially those used in combination therapies for malaria treatment, was detected in 97.5% of the samples as mixed-genotype infections.",
+        "The genomic surveillance of asymptomatic school children in Kenya provides an early warning signal of at least 1 of the 3 validated artemisinin resistance mutations circulating in all regions in Western Kenya sampled except Homa Bay and Kisii Counties. These signals in asymptomatic and mixed infections would have been missed without deep sequencing."
+      ],
+      "abstract": "To understand the emergence and spread of drug-resistant parasites in malaria-endemic areas, accurate assessment and monitoring of antimalarial drug resistance markers is critical. Recent advances in next-generation sequencing (NGS) technologies have enabled the tracking of drug-resistant malaria parasites.\n\nIn this study, we used Targeted Amplicon Deep Sequencing (TADS) to characterise the genetic diversity of the Pfk13, Pfdhfr, Pfdhps, and Pfmdr1 genes among primary school-going children in 15 counties in Kenya (Bungoma, Busia, Homa Bay, Migori, Kakamega, Kilifi, Kirinyaga, Kisii, Kisumu, Kwale, Siaya, Tana River, Turkana, Vihiga and West Pokot). A total of 920 dried blood spot (DBS) samples collected from 121 selected primary schools within the country were used to extract genomic DNA. A nested polymerase chain reaction (PCR) was used to generate amplicons that were sequenced to determine the prevalence of known and novel polymorphisms.\n\nPfk13 mutations associated with artemisinin resistance were present as mixed genotype infections for the C469Y mutation in 23 samples (4%), the A675V mutation in 2 samples (1.7%), and the P553L mutation in 7 samples (1.2%). The A578S mutation, was also identified in mixed infections, appearing in 15.2% of the 87 samples analysed. The Pfdhfr 51I and 108 N pyrimethamine-resistance mutations were at fixation (100% frequency), and the Pfmdr1 Y184F mutation, which is linked to reduced susceptibility to several antimalarial drugs, especially those used in combination therapies for malaria treatment, was detected in 97.5% of the samples as mixed-genotype infections.\n\nThe genomic surveillance of asymptomatic school children in Kenya provides an early warning signal of at least 1 of the 3 validated artemisinin resistance mutations circulating in all regions in Western Kenya sampled except Homa Bay and Kisii Counties. These signals in asymptomatic and mixed infections would have been missed without deep sequencing.",
+      "evidence_sentences": [
+        "In this study, we used Targeted Amplicon Deep Sequencing (TADS) to characterise the genetic diversity of the Pfk13, Pfdhfr, Pfdhps, and Pfmdr1 genes among primary school-going children in 15 counties in Kenya (Bungoma, Busia, Homa Bay, Migori, Kakamega, Kilifi, Kirinyaga, Kisii, Kisumu, Kwale, Siaya, Tana River, Turkana, Vihiga and West Pokot).",
+        "The genomic surveillance of asymptomatic school children in Kenya provides an early warning signal of at least 1 of the 3 validated artemisinin resistance mutations circulating in all regions in Western Kenya sampled except Homa Bay and Kisii Counties.",
+        "The Pfdhfr 51I and 108 N pyrimethamine-resistance mutations were at fixation (100% frequency), and the Pfmdr1 Y184F mutation, which is linked to reduced susceptibility to several antimalarial drugs, especially those used in combination therapies for malaria treatment, was detected in 97.5% of the samples as mixed-genotype infections."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Victor Osoti",
+        "Kevin Wamae",
+        "Leonard Ndwiga",
+        "Paul M Gichuki",
+        "Collins Okoyo",
+        "Stella Kepha",
+        "Kibor Keitany",
+        "Regina Kandie",
+        "Stephen Aricha",
+        "Rosebella Kiplagat",
+        "Charles Mwandawiro",
+        "Philip Bejon",
+        "Robert W Snow",
+        "Lynette Isabella Ochola-Oyier"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39819451/"
+    },
+    {
+      "pmid": "28590539",
+      "title": "Nutritional status and morbidity on an irrigation project in Turkana District, Kenya.",
+      "journal": "American journal of human biology : the official journal of the Human Biology Council",
+      "abstract_sections": [
+        "The research reported on here was undertaken to identify the most important contributors to continuing high mortality on a small-scale irrigation project at Nakwamoru in Turkana District, Kenya. The health status of project settlers had not been assessed prior to the present study, which was undertaken in 1978-79, a decade after the project was started. The purpose of the study was to estimate the nutritional status of project children and the major causes of morbidity in the Nakwamoru area. Nutritional status was derived from cross-sectional anthropometric measurements, including weights, heights, triceps skinfolds, and upper arm circumferences, taken on approximately 60% of project children (n = 236) aged 1-10 years. The major causes of morbidity in project settlers of all ages for the period 1973-78 were estimated from outpatient records from the local primary care facility. Age/sex patterns of clinic use were obtained through interviews. Stunting was found to be prevalent, especially in children aged 1-4, while wasting was only observed in a small proportion of the sample, indicating a seasonal pattern of malnutrition. Derived cross-sectional areas of upper arm muscle and fat were found to be low by comparison with U.S. standards, suggesting both energy and protein deficits in project children. Malaria and acute respiratory infections were found to be the major causes of illness in the local population, and both are likely to have contributed to the generally poor nutritional status of project children. Despite free biomedical care, 15% of the local population in general and 23% of adult females had never used clinic services."
+      ],
+      "abstract": "The research reported on here was undertaken to identify the most important contributors to continuing high mortality on a small-scale irrigation project at Nakwamoru in Turkana District, Kenya. The health status of project settlers had not been assessed prior to the present study, which was undertaken in 1978-79, a decade after the project was started. The purpose of the study was to estimate the nutritional status of project children and the major causes of morbidity in the Nakwamoru area. Nutritional status was derived from cross-sectional anthropometric measurements, including weights, heights, triceps skinfolds, and upper arm circumferences, taken on approximately 60% of project children (n = 236) aged 1-10 years. The major causes of morbidity in project settlers of all ages for the period 1973-78 were estimated from outpatient records from the local primary care facility. Age/sex patterns of clinic use were obtained through interviews. Stunting was found to be prevalent, especially in children aged 1-4, while wasting was only observed in a small proportion of the sample, indicating a seasonal pattern of malnutrition. Derived cross-sectional areas of upper arm muscle and fat were found to be low by comparison with U.S. standards, suggesting both energy and protein deficits in project children. Malaria and acute respiratory infections were found to be the major causes of illness in the local population, and both are likely to have contributed to the generally poor nutritional status of project children. Despite free biomedical care, 15% of the local population in general and 23% of adult females had never used clinic services.",
+      "evidence_sentences": [
+        "Malaria and acute respiratory infections were found to be the major causes of illness in the local population, and both are likely to have contributed to the generally poor nutritional status of project children.",
+        "The research reported on here was undertaken to identify the most important contributors to continuing high mortality on a small-scale irrigation project at Nakwamoru in Turkana District, Kenya.",
+        "The purpose of the study was to estimate the nutritional status of project children and the major causes of morbidity in the Nakwamoru area."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Jean Brainard"
+      ],
+      "year": "1990",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28590539/"
+    },
+    {
+      "pmid": "8758085",
+      "title": "A malariometric survey in Turkana District, Kenya: chemosensitivity in vivo of Plasmodium falciparum infections and identity of the vector.",
+      "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+      "abstract_sections": [
+        "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya. Both treatments were effective, achieving clinical cure (> 75% reduction in parasitaemia on day 2 with clinical improvement, and negative blood slide on day 7) in both children and adults. A limited entomological survey suggested that the main malaria vector in this area was Anopheles arabiensis."
+      ],
+      "abstract": "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya. Both treatments were effective, achieving clinical cure (> 75% reduction in parasitaemia on day 2 with clinical improvement, and negative blood slide on day 7) in both children and adults. A limited entomological survey suggested that the main malaria vector in this area was Anopheles arabiensis.",
+      "evidence_sentences": [
+        "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya.",
+        "Both treatments were effective, achieving clinical cure (> 75% reduction in parasitaemia on day 2 with clinical improvement, and negative blood slide on day 7) in both children and adults.",
+        "A limited entomological survey suggested that the main malaria vector in this area was Anopheles arabiensis."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "D Clarke",
+        "H Odialla",
+        "J Ouma",
+        "V Kenny",
+        "R MacCabe",
+        "B Rapuoda",
+        "W M Watkins"
+      ],
+      "year": "1996",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8758085/"
+    },
+    {
+      "pmid": "12285083",
+      "title": "Taking health care to the Maasai.",
+      "journal": "Africa health",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "about",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "B King"
+      ],
+      "year": "1992",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12285083/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "9",
+      "retmax": "9",
+      "retstart": "0",
+      "idlist": [
+        "21639926",
+        "38064427",
+        "41666451",
+        "34339387",
+        "41029815",
+        "39819451",
+        "28590539",
+        "8758085",
+        "12285083"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "children",
+          "to": "\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child's\"[All Fields] OR \"children's\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]"
+        },
+        {
+          "from": "kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child s\"[All Fields] OR \"children s\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields]) AND \"turkana\"[All Fields]",
+      "warninglist": {
+        "phrasesignored": [
+          "about"
+        ],
+        "quotedphrasesnotfound": [],
+        "outputmessages": []
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "run_id": "e2164f72397b40299a675683afb50312",
+  "stored_at": "2026-04-15T11:51:35+00:00",
+  "query": "malaria hydration during treatment Kenya, Turkana",
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 0,
+    "clinicaltrials": 0
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\e2164f72397b40299a675683afb50312\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\e2164f72397b40299a675683afb50312\\clinicaltrials.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\e2164f72397b40299a675683afb50312\\combined.records.json"
+  }
+}

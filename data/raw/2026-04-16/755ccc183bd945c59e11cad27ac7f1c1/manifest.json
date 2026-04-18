@@ -1,0 +1,70 @@
+{
+  "run_id": "755ccc183bd945c59e11cad27ac7f1c1",
+  "stored_at": "2026-04-16T10:52:59+00:00",
+  "query": "hiv infections thika",
+  "query_fallbacks": [
+    "hiv infections thika",
+    "HIV epidemiology Kenya",
+    "HIV incidence Thika region",
+    "HIV prevalence Kenya rural areas",
+    "HIV transmission dynamics East Africa",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv infections thika",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV epidemiology Kenya",
+    "HIV incidence Thika region",
+    "HIV prevalence Kenya rural areas",
+    "HIV transmission dynamics East Africa"
+  ],
+  "keywords": [
+    "hiv",
+    "infections",
+    "thika"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 63,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV epidemiology Kenya",
+      "HIV incidence Thika region",
+      "HIV prevalence Kenya rural areas",
+      "HIV transmission dynamics East Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\755ccc183bd945c59e11cad27ac7f1c1\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\755ccc183bd945c59e11cad27ac7f1c1\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\755ccc183bd945c59e11cad27ac7f1c1\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\755ccc183bd945c59e11cad27ac7f1c1\\combined.records.json"
+  }
+}

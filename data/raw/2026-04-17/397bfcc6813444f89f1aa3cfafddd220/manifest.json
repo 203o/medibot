@@ -1,0 +1,73 @@
+{
+  "run_id": "397bfcc6813444f89f1aa3cfafddd220",
+  "stored_at": "2026-04-17T23:56:56+00:00",
+  "query": "cancer prostate cancer treatment therapy USA",
+  "query_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "(USA[geo]) AND (prostate cancer AND treatment OR therapy) AND (cancer[MeSH])",
+    "(USA OR American) AND (prostate cancer treatment OR cancer therapy) AND (epidemiology OR systematic review)",
+    "(prostate cancer AND treatment AND therapy) AND (USA OR United States) AND (cohort study OR randomized controlled trial)",
+    "(cancer AND prostate cancer) AND (treatment AND therapy) AND (USA OR American)",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(USA[geo]) AND (prostate cancer AND treatment OR therapy) AND (cancer[MeSH])",
+    "(USA OR American) AND (prostate cancer treatment OR cancer therapy) AND (epidemiology OR systematic review)",
+    "(prostate cancer AND treatment AND therapy) AND (USA OR United States) AND (cohort study OR randomized controlled trial)",
+    "(cancer AND prostate cancer) AND (treatment AND therapy) AND (USA OR American)"
+  ],
+  "keywords": [
+    "cancer",
+    "prostate",
+    "treatment",
+    "therapy",
+    "management",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 32,
+    "indexed_chunks": 3
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(USA[geo]) AND (prostate cancer AND treatment OR therapy) AND (cancer[MeSH])",
+      "(USA OR American) AND (prostate cancer treatment OR cancer therapy) AND (epidemiology OR systematic review)",
+      "(prostate cancer AND treatment AND therapy) AND (USA OR United States) AND (cohort study OR randomized controlled trial)",
+      "(cancer AND prostate cancer) AND (treatment AND therapy) AND (USA OR American)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\397bfcc6813444f89f1aa3cfafddd220\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\397bfcc6813444f89f1aa3cfafddd220\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\397bfcc6813444f89f1aa3cfafddd220\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\397bfcc6813444f89f1aa3cfafddd220\\combined.records.json"
+  }
+}

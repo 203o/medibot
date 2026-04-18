@@ -1,0 +1,960 @@
+{
+  "enabled": true,
+  "indexed_chunks": 43,
+  "matches": [
+    {
+      "id": "pubmed:2102366:0",
+      "score": 0.8239978551864624,
+      "metadata": {
+        "id": "pubmed:2102366:0",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "This article reviews lung cancer mortality and smoking prevalence in Canada."
+      }
+    },
+    {
+      "id": "pubmed:3567810:0",
+      "score": 0.777991771697998,
+      "metadata": {
+        "id": "pubmed:3567810:0",
+        "doc_id": "3567810",
+        "source": "pubmed",
+        "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+        "study_type": "Journal Article",
+        "year": "1987",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+        "text": "On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women."
+      }
+    },
+    {
+      "id": "pubmed:8724218:1",
+      "score": 0.7720928192138672,
+      "metadata": {
+        "id": "pubmed:8724218:1",
+        "doc_id": "8724218",
+        "source": "pubmed",
+        "title": "Female lung cancer.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8724218/",
+        "text": "Exposure to environmental tobacco smoke increases risk of lung cancer in nonsmoking women."
+      }
+    },
+    {
+      "id": "pubmed:14079129:0",
+      "score": 0.7673928737640381,
+      "metadata": {
+        "id": "pubmed:14079129:0",
+        "doc_id": "14079129",
+        "source": "pubmed",
+        "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+        "text": "It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04610606:0",
+      "score": 0.7361630797386169,
+      "metadata": {
+        "id": "clinicaltrials:NCT04610606:0",
+        "doc_id": "NCT04610606",
+        "source": "clinicaltrials",
+        "title": "Pilot Prehabilitation Intervention in Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT04610606",
+        "text": "Lung cancer is the second most prevalent cancer in Canada and the leading cause of cancer-related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:38319507:2",
+      "score": 0.7305964827537537,
+      "metadata": {
+        "id": "pubmed:38319507:2",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces."
+      }
+    },
+    {
+      "id": "pubmed:3242824:0",
+      "score": 0.7283662557601929,
+      "metadata": {
+        "id": "pubmed:3242824:0",
+        "doc_id": "3242824",
+        "source": "pubmed",
+        "title": "Lung cancer mortality trends in Canada from 1931 to 1982.",
+        "study_type": "Journal Article",
+        "year": "1988",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3242824/",
+        "text": "The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population."
+      }
+    },
+    {
+      "id": "pubmed:39243029:1",
+      "score": 0.7247511148452759,
+      "metadata": {
+        "id": "pubmed:39243029:1",
+        "doc_id": "39243029",
+        "source": "pubmed",
+        "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+        "text": "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      }
+    },
+    {
+      "id": "pubmed:38319507:1",
+      "score": 0.7243620157241821,
+      "metadata": {
+        "id": "pubmed:38319507:1",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends."
+      }
+    },
+    {
+      "id": "pubmed:37479810:1",
+      "score": 0.7177386283874512,
+      "metadata": {
+        "id": "pubmed:37479810:1",
+        "doc_id": "37479810",
+        "source": "pubmed",
+        "title": "The global burden of lung cancer: current status and future trends.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37479810/",
+        "text": "Tobacco smoking is the leading risk factor for lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:30567516:0",
+      "score": 0.7144137024879456,
+      "metadata": {
+        "id": "pubmed:30567516:0",
+        "doc_id": "30567516",
+        "source": "pubmed",
+        "title": "Risk of lung cancer in relation to various metrics of smoking history: a case-control study in Montreal.",
+        "study_type": "Journal Article",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30567516/",
+        "text": "Irrespective of the histologic type of lung cancer and the smoking metric examined, high levels of smoking led to high levels of risk, for both men and women."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05515354:1",
+      "score": 0.7008240818977356,
+      "metadata": {
+        "id": "clinicaltrials:NCT05515354:1",
+        "doc_id": "NCT05515354",
+        "source": "clinicaltrials",
+        "title": "Smoking Cessation and Menstrual Cycle Phase",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05515354",
+        "text": "Smoking cessation is an important cancer prevention strategy for the close to 2 million Canadian women who currently smoke."
+      }
+    },
+    {
+      "id": "pubmed:2102366:1",
+      "score": 0.700312077999115,
+      "metadata": {
+        "id": "pubmed:2102366:1",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      }
+    },
+    {
+      "id": "pubmed:11511609:0",
+      "score": 0.698277473449707,
+      "metadata": {
+        "id": "pubmed:11511609:0",
+        "doc_id": "11511609",
+        "source": "pubmed",
+        "title": "Socioeconomic status and lung cancer risk in Canada.",
+        "study_type": "Journal Article",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11511609/",
+        "text": "This study examines SES and lung cancer risk in Canada."
+      }
+    },
+    {
+      "id": "pubmed:7895211:0",
+      "score": 0.6937819719314575,
+      "metadata": {
+        "id": "pubmed:7895211:0",
+        "doc_id": "7895211",
+        "source": "pubmed",
+        "title": "Lifetime probability of developing lung cancer, by smoking status, Canada.",
+        "study_type": "Journal Article",
+        "year": "1994",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7895211/",
+        "text": "When smoking status is not adjusted for, the lifetime risk of developing lung cancer is approximately 96/1,000 and 43/1,000 for males and females respectively."
+      }
+    },
+    {
+      "id": "pubmed:31078177:1",
+      "score": 0.692324161529541,
+      "metadata": {
+        "id": "pubmed:31078177:1",
+        "doc_id": "31078177",
+        "source": "pubmed",
+        "title": "Estimates of the current and future burden of cancer attributable to active and passive tobacco smoking in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31078177/",
+        "text": "Strategies focused on reducing the prevalence of tobacco smoking are crucial for cancer control in Canada."
+      }
+    },
+    {
+      "id": "pubmed:35323350:2",
+      "score": 0.6915531754493713,
+      "metadata": {
+        "id": "pubmed:35323350:2",
+        "doc_id": "35323350",
+        "source": "pubmed",
+        "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+        "text": "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones."
+      }
+    },
+    {
+      "id": "pubmed:36607729:0",
+      "score": 0.6915103197097778,
+      "metadata": {
+        "id": "pubmed:36607729:0",
+        "doc_id": "36607729",
+        "source": "pubmed",
+        "title": "Lung Cancer Risk Prediction Nomogram in Nonsmoking Chinese Women: Retrospective Cross-sectional Cohort Study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36607729/",
+        "text": "The study aimed to develop and validate a simple and noninvasive model that could assess and stratify lung cancer risk in nonsmoking Chinese women."
+      }
+    },
+    {
+      "id": "pubmed:32218661:0",
+      "score": 0.6914815306663513,
+      "metadata": {
+        "id": "pubmed:32218661:0",
+        "doc_id": "32218661",
+        "source": "pubmed",
+        "title": "Therapeutic landscape of metastatic non-small-cell lung cancer in Canada in 2020.",
+        "study_type": "Historical Article, Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32218661/",
+        "text": "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05515354:2",
+      "score": 0.6910414099693298,
+      "metadata": {
+        "id": "clinicaltrials:NCT05515354:2",
+        "doc_id": "NCT05515354",
+        "source": "clinicaltrials",
+        "title": "Smoking Cessation and Menstrual Cycle Phase",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05515354",
+        "text": "Tobacco use is a risk factor for at least 20 types of cancer and remains the leading preventable cause of cancer in Canada."
+      }
+    },
+    {
+      "id": "pubmed:19445746:2",
+      "score": 0.6854580640792847,
+      "metadata": {
+        "id": "pubmed:19445746:2",
+        "doc_id": "19445746",
+        "source": "pubmed",
+        "title": "Lung cancer.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445746/",
+        "text": "Lung cancer is the leading cause of cancer deaths in both men and women, with 80-90% of cases caused by smoking."
+      }
+    },
+    {
+      "id": "pubmed:3567810:1",
+      "score": 0.6851963996887207,
+      "metadata": {
+        "id": "pubmed:3567810:1",
+        "doc_id": "3567810",
+        "source": "pubmed",
+        "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+        "study_type": "Journal Article",
+        "year": "1987",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+        "text": "The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure."
+      }
+    },
+    {
+      "id": "pubmed:39074244:0",
+      "score": 0.6798087358474731,
+      "metadata": {
+        "id": "pubmed:39074244:0",
+        "doc_id": "39074244",
+        "source": "pubmed",
+        "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+        "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+        "text": "Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic."
+      }
+    },
+    {
+      "id": "pubmed:29705772:1",
+      "score": 0.6758056879043579,
+      "metadata": {
+        "id": "pubmed:29705772:1",
+        "doc_id": "29705772",
+        "source": "pubmed",
+        "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+        "text": "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011."
+      }
+    },
+    {
+      "id": "pubmed:32389507:0",
+      "score": 0.6745837926864624,
+      "metadata": {
+        "id": "pubmed:32389507:0",
+        "doc_id": "32389507",
+        "source": "pubmed",
+        "title": "Incidence and Mortality of Lung Cancer Among Never Smokers in Relationship to Secondhand Smoking: Findings From the PLCO Trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32389507/",
+        "text": "To assess the impact of secondhand smoking on the incidence and mortality of lung cancer among never smokers enrolled onto the Prostate, Lung, Colorectal, and Ovary (PLCO) study."
+      }
+    },
+    {
+      "id": "pubmed:21406127:2",
+      "score": 0.6743578314781189,
+      "metadata": {
+        "id": "pubmed:21406127:2",
+        "doc_id": "21406127",
+        "source": "pubmed",
+        "title": "Lung cancer.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21406127/",
+        "text": "Lung cancer is the leading cause of cancer deaths in both men and women, with 80% to 90% of cases caused by smoking."
+      }
+    },
+    {
+      "id": "pubmed:34070989:1",
+      "score": 0.6720955967903137,
+      "metadata": {
+        "id": "pubmed:34070989:1",
+        "doc_id": "34070989",
+        "source": "pubmed",
+        "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+        "text": "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      }
+    },
+    {
+      "id": "pubmed:39435907:0",
+      "score": 0.6703512668609619,
+      "metadata": {
+        "id": "pubmed:39435907:0",
+        "doc_id": "39435907",
+        "source": "pubmed",
+        "title": "Socioeconomic Status, Smoking, and Lung Cancer: Mediation and Bias Analysis in the SYNERGY Study.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39435907/",
+        "text": "Mediation analysis of lung cancer risks for SES estimated mean proportions of 43% in men and 33% in women attributable to smoking."
+      }
+    },
+    {
+      "id": "pubmed:35839461:0",
+      "score": 0.6702649593353271,
+      "metadata": {
+        "id": "pubmed:35839461:0",
+        "doc_id": "35839461",
+        "source": "pubmed",
+        "title": "Circulating Isovalerylcarnitine and Lung Cancer Risk: Evidence from Mendelian Randomization and Prediagnostic Blood Measurements.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35839461/",
+        "text": "Tobacco exposure causes 8 of 10 lung cancers, and identifying additional risk factors is challenging due to confounding introduced by smoking in traditional observational studies."
+      }
+    },
+    {
+      "id": "pubmed:36290875:0",
+      "score": 0.6659348011016846,
+      "metadata": {
+        "id": "pubmed:36290875:0",
+        "doc_id": "36290875",
+        "source": "pubmed",
+        "title": "Access to Cancer Drugs in Canada.",
+        "study_type": "Editorial",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+        "text": "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      }
+    },
+    {
+      "id": "pubmed:31078177:0",
+      "score": 0.663893461227417,
+      "metadata": {
+        "id": "pubmed:31078177:0",
+        "doc_id": "31078177",
+        "source": "pubmed",
+        "title": "Estimates of the current and future burden of cancer attributable to active and passive tobacco smoking in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31078177/",
+        "text": "In this study, we estimate the proportion of cancer cases in 2015 attributable to past tobacco smoking and passive exposure in Canada and the proportion of cancers in the future that could be prevented through the implementation of interventions targeted at reducing tobacco use."
+      }
+    },
+    {
+      "id": "pubmed:36607729:2",
+      "score": 0.6624941825866699,
+      "metadata": {
+        "id": "pubmed:36607729:2",
+        "doc_id": "36607729",
+        "source": "pubmed",
+        "title": "Lung Cancer Risk Prediction Nomogram in Nonsmoking Chinese Women: Retrospective Cross-sectional Cohort Study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36607729/",
+        "text": "We designed and validated a simple and noninvasive lung cancer risk model for nonsmoking women."
+      }
+    },
+    {
+      "id": "pubmed:14079129:2",
+      "score": 0.6621131300926208,
+      "metadata": {
+        "id": "pubmed:14079129:2",
+        "doc_id": "14079129",
+        "source": "pubmed",
+        "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+        "text": "In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years."
+      }
+    },
+    {
+      "id": "pubmed:13967780:0",
+      "score": 0.6547896862030029,
+      "metadata": {
+        "id": "pubmed:13967780:0",
+        "doc_id": "13967780",
+        "source": "pubmed",
+        "title": "Lung cancer mortality trends in Canada, 1931-1960.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13967780/",
+        "text": "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented."
+      }
+    },
+    {
+      "id": "pubmed:30567516:1",
+      "score": 0.6543624401092529,
+      "metadata": {
+        "id": "pubmed:30567516:1",
+        "doc_id": "30567516",
+        "source": "pubmed",
+        "title": "Risk of lung cancer in relation to various metrics of smoking history: a case-control study in Montreal.",
+        "study_type": "Journal Article",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30567516/",
+        "text": "The purposes of this study are: to provide new data on smoking-lung cancer associations and to explore the relative impact of different dimensions of smoking history on lung cancer risk."
+      }
+    },
+    {
+      "id": "pubmed:31162856:1",
+      "score": 0.6519947052001953,
+      "metadata": {
+        "id": "pubmed:31162856:1",
+        "doc_id": "31162856",
+        "source": "pubmed",
+        "title": "Lung cancer mortality reduction by LDCT screening-Results from the randomized German LUSI trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31162856/",
+        "text": "Modeling by sex, however showed a statistically significant reduction in lung cancer mortality among women (HR = 0.31 [95% CI: 0.10-0.96], p = 0.04), but not among men (HR = 0.94 [95% CI: 0.54-1.61], p = 0.81) screened by LDCT (p"
+      }
+    },
+    {
+      "id": "pubmed:32847991:1",
+      "score": 0.650457501411438,
+      "metadata": {
+        "id": "pubmed:32847991:1",
+        "doc_id": "32847991",
+        "source": "pubmed",
+        "title": "Role of occupational exposures in lung cancer risk among women.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32847991/",
+        "text": "To explore possible associations between selected occupational agents and lung cancer risk among women."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06628102:0",
+      "score": 0.6502238512039185,
+      "metadata": {
+        "id": "clinicaltrials:NCT06628102:0",
+        "doc_id": "NCT06628102",
+        "source": "clinicaltrials",
+        "title": "Improving Detection of Early Lung Cancer in a Diverse Population (IDEAL) Study",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT06628102",
+        "text": "The evidence led to the implementation of LDCT lung cancer screening in Canada for people who have smoked heavily in the past or are still smoking."
+      }
+    },
+    {
+      "id": "pubmed:22052329:2",
+      "score": 0.6501445770263672,
+      "metadata": {
+        "id": "pubmed:22052329:2",
+        "doc_id": "22052329",
+        "source": "pubmed",
+        "title": "Cigarette smoking and lung cancer--relative risk estimates for the major histological types from a pooled analysis of case-control studies.",
+        "study_type": "Comparative Study, Journal Article, Multicenter Study, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22052329/",
+        "text": "By using one of the largest lung cancer datasets ever assembled, we explored the impact of smoking on risks of the major cell types of lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:36769181:1",
+      "score": 0.6459952592849731,
+      "metadata": {
+        "id": "pubmed:36769181:1",
+        "doc_id": "36769181",
+        "source": "pubmed",
+        "title": "Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36769181/",
+        "text": "Sex differences in the metabolism of tobacco smoke predispose females to developing COPD and accumulating damage from oxidative stress that poses a risk for the development of lung cancer."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "2102366",
+      "title": "Lung cancer and smoking prevalence in Canada.",
+      "study_type": "Journal Article, Review",
+      "year": "1990",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+      "semantic_score": 0.8239978551864624,
+      "matched_sentences": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada.",
+        "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "3567810",
+      "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+      "study_type": "Journal Article",
+      "year": "1987",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+      "semantic_score": 0.777991771697998,
+      "matched_sentences": [
+        "On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women.",
+        "The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "8724218",
+      "title": "Female lung cancer.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8724218/",
+      "semantic_score": 0.7720928192138672,
+      "matched_sentences": [
+        "Exposure to environmental tobacco smoke increases risk of lung cancer in nonsmoking women."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "14079129",
+      "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+      "study_type": "Journal Article",
+      "year": "1963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+      "semantic_score": 0.7673928737640381,
+      "matched_sentences": [
+        "It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens.",
+        "In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04610606",
+      "title": "Pilot Prehabilitation Intervention in Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT04610606",
+      "semantic_score": 0.7361630797386169,
+      "matched_sentences": [
+        "Lung cancer is the second most prevalent cancer in Canada and the leading cause of cancer-related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38319507",
+      "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+      "semantic_score": 0.7305964827537537,
+      "matched_sentences": [
+        "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces.",
+        "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "3242824",
+      "title": "Lung cancer mortality trends in Canada from 1931 to 1982.",
+      "study_type": "Journal Article",
+      "year": "1988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3242824/",
+      "semantic_score": 0.7283662557601929,
+      "matched_sentences": [
+        "The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39243029",
+      "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+      "semantic_score": 0.7247511148452759,
+      "matched_sentences": [
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37479810",
+      "title": "The global burden of lung cancer: current status and future trends.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37479810/",
+      "semantic_score": 0.7177386283874512,
+      "matched_sentences": [
+        "Tobacco smoking is the leading risk factor for lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30567516",
+      "title": "Risk of lung cancer in relation to various metrics of smoking history: a case-control study in Montreal.",
+      "study_type": "Journal Article",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30567516/",
+      "semantic_score": 0.7144137024879456,
+      "matched_sentences": [
+        "Irrespective of the histologic type of lung cancer and the smoking metric examined, high levels of smoking led to high levels of risk, for both men and women.",
+        "The purposes of this study are: to provide new data on smoking-lung cancer associations and to explore the relative impact of different dimensions of smoking history on lung cancer risk."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05515354",
+      "title": "Smoking Cessation and Menstrual Cycle Phase",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05515354",
+      "semantic_score": 0.7008240818977356,
+      "matched_sentences": [
+        "Smoking cessation is an important cancer prevention strategy for the close to 2 million Canadian women who currently smoke.",
+        "Tobacco use is a risk factor for at least 20 types of cancer and remains the leading preventable cause of cancer in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11511609",
+      "title": "Socioeconomic status and lung cancer risk in Canada.",
+      "study_type": "Journal Article",
+      "year": "2001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11511609/",
+      "semantic_score": 0.698277473449707,
+      "matched_sentences": [
+        "This study examines SES and lung cancer risk in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "7895211",
+      "title": "Lifetime probability of developing lung cancer, by smoking status, Canada.",
+      "study_type": "Journal Article",
+      "year": "1994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7895211/",
+      "semantic_score": 0.6937819719314575,
+      "matched_sentences": [
+        "When smoking status is not adjusted for, the lifetime risk of developing lung cancer is approximately 96/1,000 and 43/1,000 for males and females respectively."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31078177",
+      "title": "Estimates of the current and future burden of cancer attributable to active and passive tobacco smoking in Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31078177/",
+      "semantic_score": 0.692324161529541,
+      "matched_sentences": [
+        "Strategies focused on reducing the prevalence of tobacco smoking are crucial for cancer control in Canada.",
+        "In this study, we estimate the proportion of cancer cases in 2015 attributable to past tobacco smoking and passive exposure in Canada and the proportion of cancers in the future that could be prevented through the implementation of interventions targeted at reducing tobacco use."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35323350",
+      "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+      "semantic_score": 0.6915531754493713,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36607729",
+      "title": "Lung Cancer Risk Prediction Nomogram in Nonsmoking Chinese Women: Retrospective Cross-sectional Cohort Study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36607729/",
+      "semantic_score": 0.6915103197097778,
+      "matched_sentences": [
+        "The study aimed to develop and validate a simple and noninvasive model that could assess and stratify lung cancer risk in nonsmoking Chinese women.",
+        "We designed and validated a simple and noninvasive lung cancer risk model for nonsmoking women."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32218661",
+      "title": "Therapeutic landscape of metastatic non-small-cell lung cancer in Canada in 2020.",
+      "study_type": "Historical Article, Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32218661/",
+      "semantic_score": 0.6914815306663513,
+      "matched_sentences": [
+        "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "19445746",
+      "title": "Lung cancer.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19445746/",
+      "semantic_score": 0.6854580640792847,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer deaths in both men and women, with 80-90% of cases caused by smoking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39074244",
+      "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+      "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+      "semantic_score": 0.6798087358474731,
+      "matched_sentences": [
+        "Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29705772",
+      "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+      "semantic_score": 0.6758056879043579,
+      "matched_sentences": [
+        "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32389507",
+      "title": "Incidence and Mortality of Lung Cancer Among Never Smokers in Relationship to Secondhand Smoking: Findings From the PLCO Trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32389507/",
+      "semantic_score": 0.6745837926864624,
+      "matched_sentences": [
+        "To assess the impact of secondhand smoking on the incidence and mortality of lung cancer among never smokers enrolled onto the Prostate, Lung, Colorectal, and Ovary (PLCO) study."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21406127",
+      "title": "Lung cancer.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21406127/",
+      "semantic_score": 0.6743578314781189,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer deaths in both men and women, with 80% to 90% of cases caused by smoking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34070989",
+      "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+      "semantic_score": 0.6720955967903137,
+      "matched_sentences": [
+        "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39435907",
+      "title": "Socioeconomic Status, Smoking, and Lung Cancer: Mediation and Bias Analysis in the SYNERGY Study.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39435907/",
+      "semantic_score": 0.6703512668609619,
+      "matched_sentences": [
+        "Mediation analysis of lung cancer risks for SES estimated mean proportions of 43% in men and 33% in women attributable to smoking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35839461",
+      "title": "Circulating Isovalerylcarnitine and Lung Cancer Risk: Evidence from Mendelian Randomization and Prediagnostic Blood Measurements.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35839461/",
+      "semantic_score": 0.6702649593353271,
+      "matched_sentences": [
+        "Tobacco exposure causes 8 of 10 lung cancers, and identifying additional risk factors is challenging due to confounding introduced by smoking in traditional observational studies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36290875",
+      "title": "Access to Cancer Drugs in Canada.",
+      "study_type": "Editorial",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+      "semantic_score": 0.6659348011016846,
+      "matched_sentences": [
+        "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "13967780",
+      "title": "Lung cancer mortality trends in Canada, 1931-1960.",
+      "study_type": "Journal Article",
+      "year": "1963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13967780/",
+      "semantic_score": 0.6547896862030029,
+      "matched_sentences": [
+        "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31162856",
+      "title": "Lung cancer mortality reduction by LDCT screening-Results from the randomized German LUSI trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31162856/",
+      "semantic_score": 0.6519947052001953,
+      "matched_sentences": [
+        "Modeling by sex, however showed a statistically significant reduction in lung cancer mortality among women (HR = 0.31 [95% CI: 0.10-0.96], p = 0.04), but not among men (HR = 0.94 [95% CI: 0.54-1.61], p = 0.81) screened by LDCT (p"
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32847991",
+      "title": "Role of occupational exposures in lung cancer risk among women.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32847991/",
+      "semantic_score": 0.650457501411438,
+      "matched_sentences": [
+        "To explore possible associations between selected occupational agents and lung cancer risk among women."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06628102",
+      "title": "Improving Detection of Early Lung Cancer in a Diverse Population (IDEAL) Study",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT06628102",
+      "semantic_score": 0.6502238512039185,
+      "matched_sentences": [
+        "The evidence led to the implementation of LDCT lung cancer screening in Canada for people who have smoked heavily in the past or are still smoking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22052329",
+      "title": "Cigarette smoking and lung cancer--relative risk estimates for the major histological types from a pooled analysis of case-control studies.",
+      "study_type": "Comparative Study, Journal Article, Multicenter Study, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22052329/",
+      "semantic_score": 0.6501445770263672,
+      "matched_sentences": [
+        "By using one of the largest lung cancer datasets ever assembled, we explored the impact of smoking on risks of the major cell types of lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36769181",
+      "title": "Mechanisms Contributing to the Comorbidity of COPD and Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769181/",
+      "semantic_score": 0.6459952592849731,
+      "matched_sentences": [
+        "Sex differences in the metabolism of tobacco smoke predispose females to developing COPD and accumulating damage from oxidative stress that poses a risk for the development of lung cancer."
+      ]
+    }
+  ]
+}

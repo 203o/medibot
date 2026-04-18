@@ -1,0 +1,2600 @@
+{
+  "query": "hiv rate infections thika",
+  "selected_query": "hiv rate infections thika",
+  "attempted_queries": [
+    {
+      "query": "hiv rate infections thika",
+      "location_filter": "thika",
+      "count": 3
+    }
+  ],
+  "location": "thika",
+  "records": [
+    {
+      "nct_id": "NCT06087913",
+      "title": "Safety and PK Multi-dose Study of TAF/EVG Vaginal Insert",
+      "brief_summary": "MATRIX-001 will examine the safety, PK, modeled PD, and acceptability of inserts containing the combination of TAF and EVG applied vaginally, daily for 3 days, then every other day for 14 days. The inserts are ultimately intended to be the basis of an event-driven, on-demand method for prevention of HIV and HSV sexual infection.",
+      "detailed_description": "Participants will be enrolled across three sites, in USA, Kenya, and South Africa, approximately 20 per site. Participants will be randomized (1:1) to receive either a placebo or TAF/EVG vaginal insert as well as be randomized (1:1:1) to 3 different tissue sampling time points post-treatment (24hr, 48hr and 72hr after the last dose). Participants will be asked to complete 8 study visits with clinical and behavioral evaluations, and a subset will complete an in-depth interview to assess acceptability of vaginal insert use.",
+      "evidence_sentences": [
+        "The inserts are ultimately intended to be the basis of an event-driven, on-demand method for prevention of HIV and HSV sexual infection.",
+        "Participants will be randomized (1:1) to receive either a placebo or TAF/EVG vaginal insert as well as be randomized (1:1:1) to 3 different tissue sampling time points post-treatment (24hr, 48hr and 72hr after the last dose).",
+        "Participants will be asked to complete 8 study visits with clinical and behavioral evaluations, and a subset will complete an in-depth interview to assess acceptability of vaginal insert use."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-08-25",
+      "query_keywords": [
+        "hiv",
+        "rate",
+        "infections",
+        "thika"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06087913",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06087913",
+            "orgStudyIdInfo": {
+              "id": "MATRIX-001"
+            },
+            "organization": {
+              "fullName": "Eastern Virginia Medical School",
+              "class": "OTHER"
+            },
+            "briefTitle": "Safety and PK Multi-dose Study of TAF/EVG Vaginal Insert",
+            "officialTitle": "A Phase I Randomized, Placebo-controlled, Double-blind Study to Assess Safety, Pharmacokinetics, and Modeled Pharmacodynamics of a Vaginal Insert Containing Tenofovir Alafenamide and Elvitegravir"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-11-08",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-12-02",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-12-02",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2023-09-07",
+            "studyFirstSubmitQcDate": "2023-10-11",
+            "studyFirstPostDateStruct": {
+              "date": "2023-10-18",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-08-25",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-09-02",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Eastern Virginia Medical School",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "CONRAD",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Pittsburgh",
+                "class": "OTHER"
+              },
+              {
+                "name": "Centre for the AIDS Programme of Research in South Africa",
+                "class": "NETWORK"
+              },
+              {
+                "name": "Kenya Medical Research Institute",
+                "class": "OTHER"
+              },
+              {
+                "name": "United States Agency for International Development (USAID)",
+                "class": "FED"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MATRIX-001 will examine the safety, PK, modeled PD, and acceptability of inserts containing the combination of TAF and EVG applied vaginally, daily for 3 days, then every other day for 14 days. The inserts are ultimately intended to be the basis of an event-driven, on-demand method for prevention of HIV and HSV sexual infection.",
+            "detailedDescription": "Participants will be enrolled across three sites, in USA, Kenya, and South Africa, approximately 20 per site. Participants will be randomized (1:1) to receive either a placebo or TAF/EVG vaginal insert as well as be randomized (1:1:1) to 3 different tissue sampling time points post-treatment (24hr, 48hr and 72hr after the last dose). Participants will be asked to complete 8 study visits with clinical and behavioral evaluations, and a subset will complete an in-depth interview to assess acceptability of vaginal insert use."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Safety Issues"
+            ],
+            "keywords": [
+              "vaginal insert",
+              "HIV",
+              "pre-exposure prophylaxis (PrEP)"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "Randomized, Placebo-Controlled, Double-Blind",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "maskingDescription": "Double-blind",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 68,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Active",
+                "type": "EXPERIMENTAL",
+                "description": "TAF/EVG (20/16mg) vaginal insert",
+                "interventionNames": [
+                  "Drug: TAF/EVG vaginal insert"
+                ]
+              },
+              {
+                "label": "Placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Matching placebo insert",
+                "interventionNames": [
+                  "Drug: Matching Placebo vaginal insert"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "TAF/EVG vaginal insert",
+                "description": "vaginal insert applied daily for 3 days then every other day for 14 days",
+                "armGroupLabels": [
+                  "Active"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Matching Placebo vaginal insert",
+                "description": "vaginal insert applied daily for 3 days then every other day for 14 days",
+                "armGroupLabels": [
+                  "Placebo"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Number and Severity of Adverse Events",
+                "description": "Safety measured by reported AE's Grade 2 and higher",
+                "timeFrame": "Randomization through study completion, an average of 3 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Pharmacokinetics (PK) in cervicovaginal fluid (CVF)",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Pharmacokinetics (PK) in plasma",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Pharmacokinetics (PK) in cervicovaginal tissue",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Modeled in vitro Pharmacodynamics (PD) for HIV",
+                "description": "Rate of anti-viral activity in CVF",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Modeled in vitro Pharmacodynamics (PD) for Herpes simplex virus (HSV)",
+                "description": "Rate of anti-viral activity in CVF",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Number of participants who find using the vaginal insert acceptable.",
+                "description": "Responses to key questions on satisfaction, comfort with insertion, willingness to use the vaginal insert",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Number of participants with changes to vaginal microbiome",
+                "description": "Evaluate mucosal factors and microbiome changes from baseline associated with mucosal function, including immune cells, pH, soluble markers, and immune cells.",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Modeled Tissue PD",
+                "description": "p24 antigen production in cervicovaginal tissue infected with HIV-1 ex vivo",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Aged 18 to 50 years (inclusive) at Screening.\n2. Assigned female sex at birth.\n3. Able and willing to provide written informed consent to be screened for and enrolled in MATRIX-001 in one of the study languages (as specified in site SOP).\n4. General good health (by volunteer history) without any evidence of clinically significant systemic disease (as determined by Investigator of Record \\[IoR\\] or designee).\n5. Has had vaginal sex and has an intact uterus and cervix.\n6. Has a regular and/or predictable bleeding pattern based on the opinion of the investigator, or is oligomenorrheic or amenorrhoeic.\n7. HIV-uninfected based on testing performed at Screening and Enrollment (per protocol algorithms in Appendix II).\n8. Negative urine pregnancy test at Screening and Enrollment.\n9. Protected from pregnancy by an effective contraceptive method as confirmed by site SOP; effective methods include:\n\n   * minimum of 3 months of use of a combined hormonal contraceptive method (except vaginal rings)\n   * minimum of 6 months of use of a progestin only contraceptive method or copper IUD\n   * Sterilization of participant or partner\n   * Correct and consistent condom use (for US site only)\n   * Abstinence from penile-vaginal intercourse (for US site only)\n10. Participants over the age of 21 (inclusive) must have documentation of a Grade 0 Pap smear within the past 3 years prior to Enrollment, per the Female Genital Grading Table for Use in Microbicide Studies Addendum 1 (Dated November 2007) to the DAIDS Table for Grading Adult and Pediatric Adverse Events, Corrected Version 2.1, July 2017, or Grade 1 Pap smear at Screening with no treatment required.\n11. Normal cervicovaginal mucosa (as defined in MATRIX-001 Study Specific Procedures \\[SSP\\] manual).\n12. Willing and able to comply with protocol requirements, including abstaining from vaginal activity and product use at specified times.\n13. Per participant report, if in a relationship, must be in a mutually monogamous relationship with a partner who is not known to be HIV positive or to currently have an STI.\n\nExclusion Criteria:\n\n1. Per participant report, intends to do any of the following during the study participation period:\n\n   * Become pregnant.\n   * Breastfeed.\n   * Relocate away from the study site.\n   * Travel away from the study site for a time period that would interfere with product resupply and/or study participation.\n2. Currently breastfeeding.\n3. Positive HIV test at Screening or Enrollment.\n4. History of sensitivity/allergy to any component of the study product, topical anesthetic, cellulose based thrombogenic material, or to both silver nitrate and Monsel's solution.\n5. Positive test for Trichomonas vaginalis (TV), Neisseria gonorrhea (GC), Chlamydia trachomatis (CT), Treponema pallidum (Syphilis), or Hepatitis B surface antigen (HBsAg) at Screening or (per participant report) treated for GC, CT, TV, HBsAg or syphilis in the past 12 months.\n6. Chronic or acute vulvar, vaginal or cervical symptoms (pain, irritation, spotting/bleeding other than what would be expected from contraceptive use, discharge, etc.).\n7. Known bleeding/clotting disorder, including use of anti-coagulation.\n8. Need for continued use of any contraindicated concomitant medications (as listed in Appendix III).\n9. Participation in any other trial with use of an investigational drug/device within the last 30 days or planned participation in any other investigational trial with use of a drug/device during the study.\n10. Participants who previously received an HIV vaccine or HIV broadly neutralizing antibody (bNAb) are not eligible. Individuals may be eligible if they participated in an HIV vaccine or bNAb study but have documentation that they did not receive active product (e.g., placebo recipients).\n11. Prior use of PEP or oral PrEP (including FTC/TDF) in the past 4 weeks or any prior use of long-acting systemic PrEP (including cabotegravir or islatravir).\n12. Grade 2 or higher pelvic finding or laboratory abnormality, per the DAIDS Table for Grading Adult and Pediatric Adverse Events, Corrected Version 2.1, July 2017 and/or Addenda 1 (Female Genital Grading Tables for Use in Microbicide Studies \\[Dated November 2007\\]) or clinically significant laboratory abnormality as determined by the clinician.\n13. Use of any of the following in the past 12 months: stimulants (cocaine \\[including crack\\], methamphetamine, or non-physician prescribed pharmaceutical-grade stimulants), or inhaled nitrates, or illicit injection drug use of any kind.\n14. Has any other condition that, based on the opinion of the IoR or designee, would preclude provision of informed consent, make participation in the study unsafe, complicate interpretation of study outcome data, or otherwise interfere with achieving the study objectives.",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "50 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Leila Mansoor, BPharm, PhD",
+                "affiliation": "Centre for the AIDS Programme of Research in South Africa",
+                "role": "STUDY_CHAIR"
+              },
+              {
+                "name": "Nelly Mugo, MBChB",
+                "affiliation": "Kenya Medical Research Institute",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Eastern Virginia Medical School Clinical Research Clinic (EVMS CRC)",
+                "city": "Norfolk",
+                "state": "Virginia",
+                "zip": "23507",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 36.84681,
+                  "lon": -76.28522
+                }
+              },
+              {
+                "facility": "Kenya Medical Research Institute (KEMRI)",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              },
+              {
+                "facility": "CAPRISA eThekwini Clinical Research Site",
+                "city": "Durban",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.8579,
+                  "lon": 31.0292
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "36423375",
+                "type": "BACKGROUND",
+                "citation": "Dobard CW, Peet MM, Nishiura K, Holder A, Dinh C, Mitchell J, Khalil G, Pan Y, Singh ON, McCormick TJ, Agrahari V, Gupta P, Jonnalagadda S, Heneine W, Clark MR, Garcia-Lerma JG, Doncel GF. Single dose topical inserts containing tenofovir alafenamide fumarate and elvitegravir provide pre- and post-exposure protection against vaginal SHIV infection in macaques. EBioMedicine. 2022 Dec;86:104361. doi: 10.1016/j.ebiom.2022.104361. Epub 2022 Nov 21."
+              },
+              {
+                "pmid": "37153145",
+                "type": "BACKGROUND",
+                "citation": "Thurman AR, Ouattara LA, Yousefieh N, Anderson PL, Bushman LR, Fang X, Hanif H, Clark M, Singh O, Doncel GF. A phase I study to assess safety, pharmacokinetics, and pharmacodynamics of a vaginal insert containing tenofovir alafenamide and elvitegravir. Front Cell Infect Microbiol. 2023 Apr 19;13:1130101. doi: 10.3389/fcimb.2023.1130101. eCollection 2023."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "MTN-039 Safety and PK of TAF/EVG rectal insert",
+                "url": "https://clinicaltrials.gov/study/NCT04047420"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT03030768",
+      "title": "Safer Conception Intervention for HIV-1 Serodiscordant Couples",
+      "brief_summary": "The greatest burden of the HIV-1 epidemic lies in sub-Saharan Africa, where a substantial proportion of infections occur in long-term heterosexual HIV-1 serodiscordant partnerships. Such couples face a difficult dilemma when considering their desire to have children: forego condom use, attempt to conceive and risk HIV-1 transmission or continue condom use and relinquish their childbearing desires. Based on evidence from rigorous clinical trials demonstrating the strong efficacy of individual interventions for HIV-1 prevention and formative work with HIV-1 serodiscordant couples and clinicians with expertise in HIV-1 prevention and reproductive health in the Kenyan context, this study pilots a safer conception intervention that focuses on antiretrovirals (as antiretroviral therapy \\[ART\\] taken by the HIV-1 infected partner and pre-exposure prophylaxis \\[PrEP\\] taken by the HIV-1 uninfected partner) and timed condomless sex. Additional strategies for couples include diagnosis and treatment of STIs and male circumcision.\n\nmHealth tools, including SMS and mobile applications are novel and very popular among Kenyans to ease the burden of addressing health problems. This safer conception intervention incorporates mHealth tools to improve couples' experiences tracking fertility indicators and communicating with providers about their readiness to practice safer conception. SMS surveys to collect daily information from women about their fertility signs and SMS messages are used to reinforce HIV-1 prevention, including condom use for couples during periods that do not have a high likelihood of fertility. An in-clinic mobile application is used to improve clinician-patient counseling and assessments of couple readiness to practice safer conception. To inform future engagement of mHealth tools, the investigators will prospectively evaluate clinician and patient experiences using SMS surveys and the tablet application. Couples with immediate fertility intentions will be followed longitudinally, allowing careful tracking of pregnancy and HIV-1 incidence. The study takes place in Thika, Kenya.",
+      "detailed_description": "Overall Design This is an open-label, prospective cohort pilot study of HIV-1 serodiscordant couples with immediate fertility desires. The overall goal is to determine uptake and sustained use of safer conception strategies, strategies for HIV-1 risk reduction during periods when couples attempt to conceive a child. The study offers PrEP (daily oral TDF or FTC/TDF) to the HIV-1 uninfected member of the couple, ART to the HIV-1 infected member of the couple, teach women about tracking fertility indicators and predicting upcoming periods of peak fertility, and work with couples to establish their readiness to practice timed condomless sex. mHealth tools will be integrated to capture fertility indicators, sexual behavior, improve patient-provider communication, and remind couples about their upcoming periods with peak fertility. The investigators will conduct mixed-methods work to understand couples experiences practicing safer conception and couples and providers experiences using the mHealth tools.\n\nAIMS\n\n1. To determine uptake (and adherence, when applicable) of each component of an integrated safer conception intervention among HIV-1 serodiscordant couples, including:\n\n   1. Use of PrEP by the HIV-1 uninfected partner\n   2. Use of ART by the HIV-1 infected partner\n   3. Menstrual cycle monitoring\n   4. Patterns of condom use\n   5. STI treatment\n   6. Medical male circumcision, and\n   7. Vaginal self-insemination\n2. To determine rates of pregnancy and HIV-1 incidence among HIV-1 serodiscordant couples participating in a safer conception intervention pilot\n3. To determine which fertility indicators - including onset of menses, basal body temperature, vaginal mucus characteristics, results from luteinizing hormone tests - are most feasible for Kenyan women in HIV-1 serodiscordant partnerships to monitor via SMS\n4. To obtain user feedback about mHealth tools designed to improve patient experience with safer conception including:\n\n   1. Women's experiences tracking fertility signs through SMS and\n   2. Couples' and provider's experiences using a clinic-based tablet application that encompasses clinical, laboratory and fertility data to improve patient-provider communication about safer conception readiness\n   3. Women and men's experiences receiving SMS messages with personalized safer conception reminders\n5. To assess participant experiences with an mHealth-enhanced safer conception intervention\n\nStudy procedures:\n\nClinic visits will take place at screening and enrollment, monthly prior to pregnancy and quarterly during pregnancy, for up to 12 months or the end of pregnancy, whichever comes later. Couples will move from a preparatory period into a peri-conception period once they decide to practice timed condomless sex, based on discussions with study clinicians and counselors. They will move from peri-conception to pregnancy once pregnancy occurs or from peri-conception to study exit if pregnancy does not occur within 12 months of study enrollment. During the preparatory and peri-conception periods, women will receive daily SMS surveys.\n\nScreening:\n\nAt screening, both members of couples will undergo HIV-1 testing to verify HIV-1 serodiscordancy and women will have a pregnancy test. Demographic, behavioral and medical information will be collected, along with additional laboratory results to establish eligibility (for HIV-1 uninfected partners - serum creatinine, hepatitis B surface antigen). Couples' fertility desires will be assessed and medical history will include information about current use of contraceptives and menstrual cycle regularity.\n\nEnrollment:\n\nAt enrollment, members of couples will separately complete interviewer-administered questionnaires to assess their pre-intervention knowledge, perceptions of, and barriers to safer conception strategies and gather data on their demographic and medical characteristics, sexual behavior and any current contraception and/or antiretroviral use. Both partners will undergo diagnostic testing and treatment of genital infections, including gonorrhea, chlamydia, trichomonas, and bacterial vaginosis (BV, if there are symptoms). HIV-1 uninfected partners will be re-tested to verify their HIV-1 status and assessed for acute HIV-1 infection. Women will be tested for pregnancy. HIV-1 infected partners will have specimen collected for CD4 and plasma viral load quantification. Physical exams will be conducted for both partners. Social harm will also be assessed in a culturally appropriate manner and captured on validated case report forms. Safer conception behavioral counseling will be in addition to couples counseling for HIV-1 prevention that fosters an understanding of HIV-1 serodiscordancy and negotiation of safer sex.\n\nDaily SMS surveys:\n\nThe day after enrollment, women will begin to receive daily SMS surveys to assess fertility signs and sexual behavior.\n\nFollow up visits:\n\nParticipants will complete follow up visits to track their compliance with the intervention strategies and study procedures. Participants will be scheduled for monthly study visits during the preparatory and peri-conception periods and quarterly during pregnancy. Participants can move from the preparatory period to peri-conception based on their own desires and counseling from a clinician.\n\nExit:\n\nFollowing the end of pregnancy or 12 months after study enrollment (whichever is later), couples will be exited from the study. At study exit, couples will be counseled about their current fertility goals (which may have changed throughout the course of follow up, especially for couples who become pregnant and have a child during the study period) and offered contraception and referrals for ongoing services, as appropriate.\n\nQualitative interviews:\n\nTo gain a deeper understanding of how participants perceive the integrated safer conception intervention and the mHealth components that are part of the intervention, we will conduct in-depth interviews with up to 40 couples. Interview topics will include: identification of factors influencing individuals' preferences for safer conception strategies, their experience with safer conception strategies, and their intentions for continued use of these strategies should they desire pregnancy again and user satisfaction with the mHealth tools and suggestions for improvement.",
+      "evidence_sentences": [
+        "The overall goal is to determine uptake and sustained use of safer conception strategies, strategies for HIV-1 risk reduction during periods when couples attempt to conceive a child.",
+        "The greatest burden of the HIV-1 epidemic lies in sub-Saharan Africa, where a substantial proportion of infections occur in long-term heterosexual HIV-1 serodiscordant partnerships.",
+        "To determine uptake (and adherence, when applicable) of each component of an integrated safer conception intervention among HIV-1 serodiscordant couples, including: 1."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "COMPLETED",
+      "last_update": "2018-09-10",
+      "query_keywords": [
+        "hiv",
+        "rate",
+        "infections",
+        "thika"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT03030768",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03030768",
+            "orgStudyIdInfo": {
+              "id": "STUDY00002068"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "R00HD076679",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/R00HD076679"
+              },
+              {
+                "id": "R21TW009908",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/R21TW009908"
+              }
+            ],
+            "organization": {
+              "fullName": "University of Washington",
+              "class": "OTHER"
+            },
+            "briefTitle": "Safer Conception Intervention for HIV-1 Serodiscordant Couples",
+            "officialTitle": "Pilot of an mHealth-enhanced, Safer Conception Intervention to Reduce HIV-1 Risk Among Kenyan HIV-1 Serodiscordant Couples",
+            "acronym": "SCIP"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-09",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2016-02"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2018-05",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2018-07",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2017-01-12",
+            "studyFirstSubmitQcDate": "2017-01-20",
+            "studyFirstPostDateStruct": {
+              "date": "2017-01-25",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-09-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-09-12",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Renee Heffron",
+              "investigatorTitle": "Assistant Professor",
+              "investigatorAffiliation": "University of Washington"
+            },
+            "leadSponsor": {
+              "name": "University of Washington",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+                "class": "NIH"
+              },
+              {
+                "name": "Fogarty International Center of the National Institute of Health",
+                "class": "NIH"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The greatest burden of the HIV-1 epidemic lies in sub-Saharan Africa, where a substantial proportion of infections occur in long-term heterosexual HIV-1 serodiscordant partnerships. Such couples face a difficult dilemma when considering their desire to have children: forego condom use, attempt to conceive and risk HIV-1 transmission or continue condom use and relinquish their childbearing desires. Based on evidence from rigorous clinical trials demonstrating the strong efficacy of individual interventions for HIV-1 prevention and formative work with HIV-1 serodiscordant couples and clinicians with expertise in HIV-1 prevention and reproductive health in the Kenyan context, this study pilots a safer conception intervention that focuses on antiretrovirals (as antiretroviral therapy \\[ART\\] taken by the HIV-1 infected partner and pre-exposure prophylaxis \\[PrEP\\] taken by the HIV-1 uninfected partner) and timed condomless sex. Additional strategies for couples include diagnosis and treatment of STIs and male circumcision.\n\nmHealth tools, including SMS and mobile applications are novel and very popular among Kenyans to ease the burden of addressing health problems. This safer conception intervention incorporates mHealth tools to improve couples' experiences tracking fertility indicators and communicating with providers about their readiness to practice safer conception. SMS surveys to collect daily information from women about their fertility signs and SMS messages are used to reinforce HIV-1 prevention, including condom use for couples during periods that do not have a high likelihood of fertility. An in-clinic mobile application is used to improve clinician-patient counseling and assessments of couple readiness to practice safer conception. To inform future engagement of mHealth tools, the investigators will prospectively evaluate clinician and patient experiences using SMS surveys and the tablet application. Couples with immediate fertility intentions will be followed longitudinally, allowing careful tracking of pregnancy and HIV-1 incidence. The study takes place in Thika, Kenya.",
+            "detailedDescription": "Overall Design This is an open-label, prospective cohort pilot study of HIV-1 serodiscordant couples with immediate fertility desires. The overall goal is to determine uptake and sustained use of safer conception strategies, strategies for HIV-1 risk reduction during periods when couples attempt to conceive a child. The study offers PrEP (daily oral TDF or FTC/TDF) to the HIV-1 uninfected member of the couple, ART to the HIV-1 infected member of the couple, teach women about tracking fertility indicators and predicting upcoming periods of peak fertility, and work with couples to establish their readiness to practice timed condomless sex. mHealth tools will be integrated to capture fertility indicators, sexual behavior, improve patient-provider communication, and remind couples about their upcoming periods with peak fertility. The investigators will conduct mixed-methods work to understand couples experiences practicing safer conception and couples and providers experiences using the mHealth tools.\n\nAIMS\n\n1. To determine uptake (and adherence, when applicable) of each component of an integrated safer conception intervention among HIV-1 serodiscordant couples, including:\n\n   1. Use of PrEP by the HIV-1 uninfected partner\n   2. Use of ART by the HIV-1 infected partner\n   3. Menstrual cycle monitoring\n   4. Patterns of condom use\n   5. STI treatment\n   6. Medical male circumcision, and\n   7. Vaginal self-insemination\n2. To determine rates of pregnancy and HIV-1 incidence among HIV-1 serodiscordant couples participating in a safer conception intervention pilot\n3. To determine which fertility indicators - including onset of menses, basal body temperature, vaginal mucus characteristics, results from luteinizing hormone tests - are most feasible for Kenyan women in HIV-1 serodiscordant partnerships to monitor via SMS\n4. To obtain user feedback about mHealth tools designed to improve patient experience with safer conception including:\n\n   1. Women's experiences tracking fertility signs through SMS and\n   2. Couples' and provider's experiences using a clinic-based tablet application that encompasses clinical, laboratory and fertility data to improve patient-provider communication about safer conception readiness\n   3. Women and men's experiences receiving SMS messages with personalized safer conception reminders\n5. To assess participant experiences with an mHealth-enhanced safer conception intervention\n\nStudy procedures:\n\nClinic visits will take place at screening and enrollment, monthly prior to pregnancy and quarterly during pregnancy, for up to 12 months or the end of pregnancy, whichever comes later. Couples will move from a preparatory period into a peri-conception period once they decide to practice timed condomless sex, based on discussions with study clinicians and counselors. They will move from peri-conception to pregnancy once pregnancy occurs or from peri-conception to study exit if pregnancy does not occur within 12 months of study enrollment. During the preparatory and peri-conception periods, women will receive daily SMS surveys.\n\nScreening:\n\nAt screening, both members of couples will undergo HIV-1 testing to verify HIV-1 serodiscordancy and women will have a pregnancy test. Demographic, behavioral and medical information will be collected, along with additional laboratory results to establish eligibility (for HIV-1 uninfected partners - serum creatinine, hepatitis B surface antigen). Couples' fertility desires will be assessed and medical history will include information about current use of contraceptives and menstrual cycle regularity.\n\nEnrollment:\n\nAt enrollment, members of couples will separately complete interviewer-administered questionnaires to assess their pre-intervention knowledge, perceptions of, and barriers to safer conception strategies and gather data on their demographic and medical characteristics, sexual behavior and any current contraception and/or antiretroviral use. Both partners will undergo diagnostic testing and treatment of genital infections, including gonorrhea, chlamydia, trichomonas, and bacterial vaginosis (BV, if there are symptoms). HIV-1 uninfected partners will be re-tested to verify their HIV-1 status and assessed for acute HIV-1 infection. Women will be tested for pregnancy. HIV-1 infected partners will have specimen collected for CD4 and plasma viral load quantification. Physical exams will be conducted for both partners. Social harm will also be assessed in a culturally appropriate manner and captured on validated case report forms. Safer conception behavioral counseling will be in addition to couples counseling for HIV-1 prevention that fosters an understanding of HIV-1 serodiscordancy and negotiation of safer sex.\n\nDaily SMS surveys:\n\nThe day after enrollment, women will begin to receive daily SMS surveys to assess fertility signs and sexual behavior.\n\nFollow up visits:\n\nParticipants will complete follow up visits to track their compliance with the intervention strategies and study procedures. Participants will be scheduled for monthly study visits during the preparatory and peri-conception periods and quarterly during pregnancy. Participants can move from the preparatory period to peri-conception based on their own desires and counseling from a clinician.\n\nExit:\n\nFollowing the end of pregnancy or 12 months after study enrollment (whichever is later), couples will be exited from the study. At study exit, couples will be counseled about their current fertility goals (which may have changed throughout the course of follow up, especially for couples who become pregnant and have a child during the study period) and offered contraception and referrals for ongoing services, as appropriate.\n\nQualitative interviews:\n\nTo gain a deeper understanding of how participants perceive the integrated safer conception intervention and the mHealth components that are part of the intervention, we will conduct in-depth interviews with up to 40 couples. Interview topics will include: identification of factors influencing individuals' preferences for safer conception strategies, their experience with safer conception strategies, and their intentions for continued use of these strategies should they desire pregnancy again and user satisfaction with the mHealth tools and suggestions for improvement."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Seropositivity",
+              "Pregnancy, High-Risk"
+            ],
+            "keywords": [
+              "Pre-Exposure Prophylaxis",
+              "Fertility",
+              "mHealth",
+              "Pregnancy"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITHOUT_DNA",
+              "description": "Plasma"
+            },
+            "enrollmentInfo": {
+              "count": 74,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "HIV-1 serodiscordant couples",
+                "description": "Couples where one partner is HIV-1 infected and the other is uninfected, who will receive counseling on timed condomless sex, ART and PrEP adherence. The study intervention focuses on ART use by the HIV-1 infected partner, PrEP (Truvada) use by the HIV-1 uninfected partner, and timed condomless sex during the peri-conception period.",
+                "interventionNames": [
+                  "Drug: PrEP",
+                  "Behavioral: Counseling on timed condomless sex, ART and PrEP adherence"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "PrEP",
+                "description": "An integrated, phased safer conception intervention that focuses on ART use by the HIV-1 infected partner, PrEP use by the HIV-1 uninfected partner, and timed condomless sex during the peri-conception period.",
+                "armGroupLabels": [
+                  "HIV-1 serodiscordant couples"
+                ],
+                "otherNames": [
+                  "Truvada"
+                ]
+              },
+              {
+                "type": "BEHAVIORAL",
+                "name": "Counseling on timed condomless sex, ART and PrEP adherence",
+                "description": "An integrated, phased safer conception intervention that focuses on ART use by the HIV-1 infected partner, PrEP use by the HIV-1 uninfected partner, and timed condomless sex",
+                "armGroupLabels": [
+                  "HIV-1 serodiscordant couples"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Pregnancy incidence - rate of pregnancy that occurs per 12 months",
+                "description": "Rate of pregnancy that occur without HIV-1 transmission to the uninfected partner",
+                "timeFrame": "12 months post enrollment"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "HIV-1 incidence - rate of new HIV infections that occur per 12 months",
+                "description": "Rate of new HIV-1 infections among couples",
+                "timeFrame": "12 months post enrollment"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "User feedback about mHealth tools designed to improve patient experience with safer conception",
+                "description": "Women's experiences tracking fertility signs through SMS. Couples' and provider's experiences using a clinic-based mobile application that encompasses clinical, laboratory and fertility data to improve patient-provider communication about safer conception readiness",
+                "timeFrame": "12 months post enrollment"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Couples\n\n  * Immediate fertility intention\n  * Sexually active (defined as having had vaginal intercourse at least 6 times in the previous three months)\n  * Willing to enter the study as a couple and intending to remain as a couple for the next 12 months\n\nFor HIV-1 infected members of the couple (index participants)\n\n* Able and willing to provide written informed consent\n* HIV-1 infected based on positive rapid HIV-1 tests, according to national algorithm\n* Not currently pregnant or breastfeeding\n* No use of injectable contraception for the past 3 months\n* Not currently enrolled in an HIV-1 treatment study\n* No clear indication of infertility or subfertility, as determined by medical history\n* Own a mobile phone for personal use, which operates on a telecom provider supported by the study SMS platform and is distinct from the mobile phone owned by the HIV-1 uninfected partner\n* Know how to send and receive SMS\n* Have regular access to electricity or an alternative means for charging a cell phone Literate in English, Kiswahili or Kikuyu\n\nFor HIV-1 uninfected members of the couple (partner participants)\n\n* Able and willing to provide written informed consent\n* HIV-1 uninfected based on negative HIV-1 rapid tests, both at study screening and at the enrollment visit\n* Adequate renal function, defined by normal creatinine levels and estimated creatinine clearance ≥60 mL/min\n* Not infected with hepatitis B virus, as determined by a negative hepatitis B surface antigen test\n* Not currently pregnant or breastfeeding\n* No use of injectable contraception for the past 3 months\n* Not currently enrolled in an HIV-1 prevention clinical trial\n* Enrollment of individuals with active and serious infections or active clinically significant medical problems will be at the discretion of the site investigator\n* No clear indication of infertility or subfertility, as determined by medical history\n* Own a mobile phone for personal use, which operates on a telecom provider supported by the study SMS platform and is distinct from the mobile phone owned by the HIV-1 infected partner\n* Know how to send and receive SMS\n* Have regular access to electricity or an alternative means for charging a cell phone\n* Literate in English, Kiswahili or Kikuyu\n\nFor study clinicians and counselors\n\n• Active involvement in safer conception counseling for couples and use of the tablet application during counseling sessions\n\nExclusion Criteria:\n\n* For couples\n\n  * Participated in the Partners PrEP Study or the Partners Demonstration Project For HIV-1 infected members of the couple (index participants)\n  * Currently pregnant or breastfeeding\n  * Used an injectable contraception in the past 3 months\n  * Currently enrolled in an HIV-1 treatment study\n  * Has a clear indication of infertility or sub-fertility, as determined by medical history\n\nFor HIV-1 uninfected members of the couple (partner participants):\n\n* Infected with hepatitis B virus, as determined by a positive hepatitis B surface antigen test\n* Currently pregnant or breastfeeding\n* Used an injectable contraception in the past 3 months\n* Currently enrolled in an HIV-1 prevention clinical trial\n* Has a clear indication of infertility or subfertility, as determined by medical history\n* Enrollment of individuals with active and serious infections or active clinically significant medical problems will be at the discretion of the site investigator",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "49 Years",
+            "stdAges": [
+              "ADULT"
+            ],
+            "studyPopulation": "Heterosexual HIV-1 serodiscordant couples in Thika, Kenya with immediate fertility desires, who did not participate in a previous study \"Partners PrEP Study or the Partners Demonstration Project\" at the site, and study clinicians and counselors delivering the intervention.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Renee Heffron, PhD",
+                "affiliation": "University of Washington",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University of Washington, Coordinating Center",
+                "city": "Seattle",
+                "state": "Washington",
+                "zip": "98104",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 47.60621,
+                  "lon": -122.33207
+                }
+              },
+              {
+                "facility": "Partners in Health, Research and Development",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "22595872",
+                "type": "BACKGROUND",
+                "citation": "Heffron R, Ngure K, Mugo N, Celum C, Kurth A, Curran K, Baeten JM. Willingness of Kenyan HIV-1 serodiscordant couples to use antiretroviral-based HIV-1 prevention strategies. J Acquir Immune Defic Syndr. 2012 Sep 1;61(1):116-9. doi: 10.1097/QAI.0b013e31825da73f."
+              },
+              {
+                "pmid": "24779445",
+                "type": "BACKGROUND",
+                "citation": "Ngure K, Baeten JM, Mugo N, Curran K, Vusha S, Heffron R, Celum C, Shell-Duncan B. My intention was a child but I was very afraid: fertility intentions and HIV risk perceptions among HIV-serodiscordant couples experiencing pregnancy in Kenya. AIDS Care. 2014;26(10):1283-7. doi: 10.1080/09540121.2014.911808. Epub 2014 Apr 29."
+              },
+              {
+                "pmid": "23700649",
+                "type": "BACKGROUND",
+                "citation": "Guidance on Couples HIV Testing and Counselling Including Antiretroviral Therapy for Treatment and Prevention in Serodiscordant Couples: Recommendations for a Public Health Approach. Geneva: World Health Organization; 2012 Apr. Available from http://www.ncbi.nlm.nih.gov/books/NBK138278/"
+              },
+              {
+                "pmid": "27751179",
+                "type": "BACKGROUND",
+                "citation": "Irungu EM, Heffron R, Mugo N, Ngure K, Katabira E, Bulya N, Bukusi E, Odoyo J, Asiimwe S, Tindimwebwa E, Celum C, Baeten JM; Partners Demonstration Project Team. Use of a risk scoring tool to identify higher-risk HIV-1 serodiscordant couples for an antiretroviral-based HIV-1 prevention intervention. BMC Infect Dis. 2016 Oct 17;16(1):571. doi: 10.1186/s12879-016-1899-y."
+              },
+              {
+                "pmid": "25038355",
+                "type": "BACKGROUND",
+                "citation": "Mugo NR, Hong T, Celum C, Donnell D, Bukusi EA, John-Stewart G, Wangisi J, Were E, Heffron R, Matthews LT, Morrison S, Ngure K, Baeten JM; Partners PrEP Study Team. Pregnancy incidence and outcomes among women receiving preexposure prophylaxis for HIV prevention: a randomized clinical trial. JAMA. 2014 Jul 23-30;312(4):362-71. doi: 10.1001/jama.2014.8735."
+              },
+              {
+                "pmid": "22784037",
+                "type": "BACKGROUND",
+                "citation": "Baeten JM, Donnell D, Ndase P, Mugo NR, Campbell JD, Wangisi J, Tappero JW, Bukusi EA, Cohen CR, Katabira E, Ronald A, Tumwesigye E, Were E, Fife KH, Kiarie J, Farquhar C, John-Stewart G, Kakia A, Odoyo J, Mucunguzi A, Nakku-Joloba E, Twesigye R, Ngure K, Apaka C, Tamooh H, Gabona F, Mujugira A, Panteleeff D, Thomas KK, Kidoguchi L, Krows M, Revall J, Morrison S, Haugen H, Emmanuel-Ogier M, Ondrejcek L, Coombs RW, Frenkel L, Hendrix C, Bumpus NN, Bangsberg D, Haberer JE, Stevens WS, Lingappa JR, Celum C; Partners PrEP Study Team. Antiretroviral prophylaxis for HIV prevention in heterosexual men and women. N Engl J Med. 2012 Aug 2;367(5):399-410. doi: 10.1056/NEJMoa1108524. Epub 2012 Jul 11."
+              },
+              {
+                "pmid": "21785321",
+                "type": "BACKGROUND",
+                "citation": "Mugo NR, Heffron R, Donnell D, Wald A, Were EO, Rees H, Celum C, Kiarie JN, Cohen CR, Kayintekore K, Baeten JM; Partners in Prevention HSV/HIV Transmission Study Team. Increased risk of HIV-1 transmission in pregnancy: a prospective study among African HIV-1-serodiscordant couples. AIDS. 2011 Sep 24;25(15):1887-95. doi: 10.1097/QAD.0b013e32834a9338."
+              },
+              {
+                "pmid": "27552090",
+                "type": "BACKGROUND",
+                "citation": "Baeten JM, Heffron R, Kidoguchi L, Mugo NR, Katabira E, Bukusi EA, Asiimwe S, Haberer JE, Morton J, Ngure K, Bulya N, Odoyo J, Tindimwebwa E, Hendrix C, Marzinke MA, Ware NC, Wyatt MA, Morrison S, Haugen H, Mujugira A, Donnell D, Celum C; Partners Demonstration Project Team. Integrated Delivery of Antiretroviral Treatment and Pre-exposure Prophylaxis to HIV-1-Serodiscordant Couples: A Prospective Implementation Study in Kenya and Uganda. PLoS Med. 2016 Aug 23;13(8):e1002099. doi: 10.1371/journal.pmed.1002099. eCollection 2016 Aug."
+              },
+              {
+                "pmid": "25118795",
+                "type": "BACKGROUND",
+                "citation": "Matthews LT, Heffron R, Mugo NR, Cohen CR, Hendrix CW, Celum C, Bangsberg DR, Baeten JM; Partners PrEP Study Team. High medication adherence during periconception periods among HIV-1-uninfected women participating in a clinical trial of antiretroviral pre-exposure prophylaxis. J Acquir Immune Defic Syndr. 2014 Sep 1;67(1):91-7. doi: 10.1097/QAI.0000000000000246."
+              },
+              {
+                "pmid": "26993627",
+                "type": "BACKGROUND",
+                "citation": "Heffron R, Pintye J, Matthews LT, Weber S, Mugo N. PrEP as Peri-conception HIV Prevention for Women and Men. Curr HIV/AIDS Rep. 2016 Jun;13(3):131-9. doi: 10.1007/s11904-016-0312-1."
+              },
+              {
+                "pmid": "30957420",
+                "type": "DERIVED",
+                "citation": "Heffron R, Ngure K, Velloza J, Kiptinness C, Quame-Amalgo J, Oluch L, Thuo N, Njoroge J, Momanyi R, Gakuo S, Mbugua S, Morrison S, Haugen H, Chohan B, Celum C, Baeten JM, Mugo N. Implementation of a comprehensive safer conception intervention for HIV-serodiscordant couples in Kenya: uptake, use and effectiveness. J Int AIDS Soc. 2019 Apr;22(4):e25261. doi: 10.1002/jia2.25261."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "De-identified individual participant data for all outcome measures will be made available after study completion"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D006679",
+                "term": "HIV Seropositivity"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069480",
+                "term": "Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000068698",
+                "term": "Tenofovir"
+              },
+              {
+                "id": "D063065",
+                "term": "Organophosphonates"
+              },
+              {
+                "id": "D009943",
+                "term": "Organophosphorus Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000068679",
+                "term": "Emtricitabine"
+              },
+              {
+                "id": "D003841",
+                "term": "Deoxycytidine"
+              },
+              {
+                "id": "D003562",
+                "term": "Cytidine"
+              },
+              {
+                "id": "D011741",
+                "term": "Pyrimidine Nucleosides"
+              },
+              {
+                "id": "D011743",
+                "term": "Pyrimidines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D000225",
+                "term": "Adenine"
+              },
+              {
+                "id": "D011687",
+                "term": "Purines"
+              },
+              {
+                "id": "D006574",
+                "term": "Heterocyclic Compounds, 2-Ring"
+              },
+              {
+                "id": "D000072471",
+                "term": "Heterocyclic Compounds, Fused-Ring"
+              },
+              {
+                "id": "D003853",
+                "term": "Deoxyribonucleosides"
+              },
+              {
+                "id": "D009705",
+                "term": "Nucleosides"
+              },
+              {
+                "id": "D009706",
+                "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT00194519",
+      "title": "Herpes Simplex Virus Type 2 (HSV-2) Suppression to Prevent HIV Transmission",
+      "brief_summary": "The University of Washington has received funding to conduct a proof-of-concept trial to assess the impact of suppression of genital herpes on HIV infectiousness. This study (the Partners in Prevention Study) will enroll HIV discordant heterosexual couples in which the HIV-infected partner is co-infected with herpes simplex virus type 2 (HSV-2) to test the efficacy of twice daily (bid) acyclovir (400 mg) given to the HIV-infected partner to prevent transmission to his/her HIV negative partner(s). This randomized, double-blind, placebo-controlled proof-of-concept trial will provide evidence for the efficacy of HSV-2 suppression with daily acyclovir on HIV transmission among HIV-discordant couples among whom the HIV-positive partner is also HSV-2 seropositive with CD4 \\>250. The researchers hypothesis is that, by decreasing the frequency and amount of genital HIV shedding, standard doses of daily acyclovir 400 mg bid will reduce the rate of HIV transmission by 50% in HIV-discordant couples among whom the HIV-infected partner is HSV-2 positive.\n\nUnder the study protocol version 4.1.1, 3000 HIV-discordant heterosexual couples in which the HIV-positive partner is HSV-2 positive and has a CD4 count \\>250 will be recruited; participants will be followed for up to 2 years. A 4% per year HIV incidence in the placebo arm is assumed.\n\nThe first study site began enrolling participants on 17 November 2005. As of September 2006, 14 sites in Eastern and Southern Africa had participated in recruiting the 2300 HIV-discordant couples enrolled to date.",
+      "detailed_description": "Herpes simplex virus type-2 (HSV-2) is the primary cause of genital ulcers and one of the most prevalent sexually transmitted diseases worldwide. Consistently, over 30 studies have found HSV-2 infection to be a risk factor for HIV acquisition with an overall relative risk of 2.1 in the studies that demonstrated HSV-2 preceded HIV infection. A recent study of HIV-discordant couples from Rakai, Uganda, has shown that at all levels of HIV viral load in the HIV-positive partner, HSV-2 infection in the susceptible partner increased the per-contact risk of acquisition of HIV five-fold, and GUD in the HIV-source partner increased the per-contact risk of HIV transmission five-fold. As strong as these epidemiological data are, an intervention trial is required to define the clinical and public health significance of these findings.\n\nThis trial will directly answer the extent to which HSV-2 infection increases infectiousness of HIV/HSV-2 co-infected persons and the relative reduction in HIV transmission among HSV-2 seropositive persons treated with daily suppressive antiviral therapy. Acyclovir has an acceptable safety profile for widespread STD treatment and is inexpensive, well-tolerated, and episodic and long-term suppressive therapy has not been associated with increased acyclovir resistance. Given high HSV-2 seroprevalence in HIV-infected persons (70-80%) and high HIV incidence in populations with high prevalence of HSV-2 infection worldwide, this approach could have great public health importance by providing a safe, acceptable, and cost-effective method to reduce HIV transmission among HIV-infected persons who are also HSV-2 seropositive.\n\nSites that have enrolled couples in this study include: Johannesburg (2 sites) and Cape Town, South Africa; Gaborone, Botswana; Kitwe/Ndola and Lusaka, Zambia; Nairobi, Kisumu, Eldoret and Thika, Kenya; Moshi, Tanzania; Kampala, Uganda; and Kigali, Rwanda.",
+      "evidence_sentences": [
+        "The researchers hypothesis is that, by decreasing the frequency and amount of genital HIV shedding, standard doses of daily acyclovir 400 mg bid will reduce the rate of HIV transmission by 50% in HIV-discordant couples among whom the HIV-infected partner is HSV-2 positive.",
+        "Consistently, over 30 studies have found HSV-2 infection to be a risk factor for HIV acquisition with an overall relative risk of 2.1 in the studies that demonstrated HSV-2 preceded HIV infection.",
+        "Given high HSV-2 seroprevalence in HIV-infected persons (70-80%) and high HIV incidence in populations with high prevalence of HSV-2 infection worldwide, this approach could have great public health importance by providing a safe, acceptable, and cost-effective method to reduce HIV transmission among HIV-infected persons who are also HSV-2 seropositive."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2018-10-09",
+      "query_keywords": [
+        "hiv",
+        "rate",
+        "infections",
+        "thika"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT00194519",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00194519",
+            "nctIdAliases": [
+              "NCT00197574",
+              "NCT00197600"
+            ],
+            "orgStudyIdInfo": {
+              "id": "STUDY00000867"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "Gates Foundation Grant #26469"
+              }
+            ],
+            "organization": {
+              "fullName": "University of Washington",
+              "class": "OTHER"
+            },
+            "briefTitle": "Herpes Simplex Virus Type 2 (HSV-2) Suppression to Prevent HIV Transmission",
+            "officialTitle": "Phase III Randomized Placebo-Controlled Trial of HSV-2 Suppression to Prevent HIV Transmission Among HIV-Discordant Couples"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-10",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2004-11"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2009-11",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2010-03",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2005-09-13",
+            "studyFirstSubmitQcDate": "2005-09-13",
+            "studyFirstPostDateStruct": {
+              "date": "2005-09-19",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-10-09",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-10-12",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Connie Celum",
+              "investigatorTitle": "Prof of Medicine & Global Health, Adjunct Prof of Epidemiology, School of Medicine: Global Health",
+              "investigatorAffiliation": "University of Washington"
+            },
+            "leadSponsor": {
+              "name": "University of Washington",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Bill and Melinda Gates Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true
+          },
+          "descriptionModule": {
+            "briefSummary": "The University of Washington has received funding to conduct a proof-of-concept trial to assess the impact of suppression of genital herpes on HIV infectiousness. This study (the Partners in Prevention Study) will enroll HIV discordant heterosexual couples in which the HIV-infected partner is co-infected with herpes simplex virus type 2 (HSV-2) to test the efficacy of twice daily (bid) acyclovir (400 mg) given to the HIV-infected partner to prevent transmission to his/her HIV negative partner(s). This randomized, double-blind, placebo-controlled proof-of-concept trial will provide evidence for the efficacy of HSV-2 suppression with daily acyclovir on HIV transmission among HIV-discordant couples among whom the HIV-positive partner is also HSV-2 seropositive with CD4 \\>250. The researchers hypothesis is that, by decreasing the frequency and amount of genital HIV shedding, standard doses of daily acyclovir 400 mg bid will reduce the rate of HIV transmission by 50% in HIV-discordant couples among whom the HIV-infected partner is HSV-2 positive.\n\nUnder the study protocol version 4.1.1, 3000 HIV-discordant heterosexual couples in which the HIV-positive partner is HSV-2 positive and has a CD4 count \\>250 will be recruited; participants will be followed for up to 2 years. A 4% per year HIV incidence in the placebo arm is assumed.\n\nThe first study site began enrolling participants on 17 November 2005. As of September 2006, 14 sites in Eastern and Southern Africa had participated in recruiting the 2300 HIV-discordant couples enrolled to date.",
+            "detailedDescription": "Herpes simplex virus type-2 (HSV-2) is the primary cause of genital ulcers and one of the most prevalent sexually transmitted diseases worldwide. Consistently, over 30 studies have found HSV-2 infection to be a risk factor for HIV acquisition with an overall relative risk of 2.1 in the studies that demonstrated HSV-2 preceded HIV infection. A recent study of HIV-discordant couples from Rakai, Uganda, has shown that at all levels of HIV viral load in the HIV-positive partner, HSV-2 infection in the susceptible partner increased the per-contact risk of acquisition of HIV five-fold, and GUD in the HIV-source partner increased the per-contact risk of HIV transmission five-fold. As strong as these epidemiological data are, an intervention trial is required to define the clinical and public health significance of these findings.\n\nThis trial will directly answer the extent to which HSV-2 infection increases infectiousness of HIV/HSV-2 co-infected persons and the relative reduction in HIV transmission among HSV-2 seropositive persons treated with daily suppressive antiviral therapy. Acyclovir has an acceptable safety profile for widespread STD treatment and is inexpensive, well-tolerated, and episodic and long-term suppressive therapy has not been associated with increased acyclovir resistance. Given high HSV-2 seroprevalence in HIV-infected persons (70-80%) and high HIV incidence in populations with high prevalence of HSV-2 infection worldwide, this approach could have great public health importance by providing a safe, acceptable, and cost-effective method to reduce HIV transmission among HIV-infected persons who are also HSV-2 seropositive.\n\nSites that have enrolled couples in this study include: Johannesburg (2 sites) and Cape Town, South Africa; Gaborone, Botswana; Kitwe/Ndola and Lusaka, Zambia; Nairobi, Kisumu, Eldoret and Thika, Kenya; Moshi, Tanzania; Kampala, Uganda; and Kigali, Rwanda."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Infection",
+              "Herpes Simplex, Genital",
+              "Sexually Transmitted Diseases"
+            ],
+            "keywords": [
+              "HIV infection",
+              "HIV transmission",
+              "genital herpes",
+              "sexual intercourse",
+              "sexual transmitted infection",
+              "acyclovir",
+              "HIV Seronegativity",
+              "Treatment Naive",
+              "HIV-discordant couples",
+              "HIV serodiagnosis"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 3408,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Acyclovir",
+                "type": "ACTIVE_COMPARATOR",
+                "interventionNames": [
+                  "Drug: Generic acyclovir"
+                ]
+              },
+              {
+                "label": "Placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Generic acyclovir",
+                "description": "400 mg twice-daily oral",
+                "armGroupLabels": [
+                  "Acyclovir"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo",
+                "description": "twice-daily oral",
+                "armGroupLabels": [
+                  "Placebo"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Sequence-verified HIV-transmission from index to partner participant",
+                "timeFrame": "March 2009"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Measure effect of viral load, gender and other factors on HIV transmission",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess adherence to acyclovir suppressive therapy",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effect of twice daily acyclovir on the frequency of genital ulcers",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effect of twice daily acyclovir on plasma HIV viral load",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effects of twice daily acyclovir on the sexual behaviors",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess host immunologic and virologic determinants of HIV transmission",
+                "timeFrame": "March 2009"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\nPotential index (HIV-infected) participants must meet the following criteria (by self-report, unless otherwise indicated) in order to be eligible for inclusion in the study:\n\n* Of legal age to provide independent informed consent for research per local regulations and guidelines.\n* Able and willing to provide written informed consent to be screened for and to take part in the study. (Note: Index participants who are not willing to provide genital tract specimens for HIV viral load quantitation, but are willing to undergo all other study procedures, will be considered eligible for inclusion in the study.)\n* Part of a heterosexual couple in which one partner meets the study eligibility criteria for index participants and the other partner meets the study eligibility criteria for partner participants. Couples are defined as partners who are sexually active and plan to remain in the relationship for at least one year. Each site will develop appropriate criteria for determining whether a couple is likely to remain in the relationship (i.e., married, duration of partnership, cohabitation, have children).\n* Has had vaginal intercourse with the partner participant at least three times in the last three months.\n* Plans to maintain his/her relationship with the partner participant for the next 24 months.\n* HIV-infected based on positive EIA.\n* HSV-2-seropositive based on the Focus HSV-2 EIA (performed by study staff) with an index ratio of at least 3.5 or if Focus EIA IN 1.1-3.4, confirmed by HSV-2 WB dot-blot performed at the UW.\n* CD4 cell count (performed by study staff) of at least 250 cells/mm3.\n* No history of any clinical AIDS-defining diagnoses.\n* Able and willing to provide adequate locator information for study retention purposes, as defined by local standard operating procedures.\n\nPotential partner (HIV-uninfected at enrollment) participants must meet the following criteria (by self-report, unless otherwise indicated) in order to be eligible for inclusion in the study:\n\n* Of legal age to provide independent informed consent for research per local regulations and guidelines.\n* Able and willing to provide written informed consent to be screened for and to take part in the study.\n* Part of a heterosexual couple in which one partner meets the study eligibility criteria for index participants and the other partner meets the study eligibility criteria for partner participants.\n* Has had vaginal intercourse with the study partner at least three times in the last three months.\n* Plans to maintain his/her relationship with the index participant for the next 24 months.\n* HIV-uninfected based on negative HIV EIA tests.\n* Able and willing to provide adequate locator information for study retention purposes, as defined by local standard operating procedures.\n\nExclusion Criteria:\n\nPotential index (HIV-infected) participants who meet any of the following criteria (by self-report, unless otherwise indicated) will be excluded from the study:\n\n* Current use of combination antiretroviral therapy\n* Known history of adverse reaction to acyclovir.\n* Known history of persistent genital ulcers unresponsive to episodic acyclovir therapy.\n* Known plans to re-locate or travel away from the study site for more than two consecutive months during the next 24 months.\n* Pregnant, based on participant self-report or urine testing performed by study staff. (Note: Self-reported pregnancy is adequate for exclusion from the study. A documented negative test performed by study staff is required for inclusion.)\n\nPotential partner participants who meet any of the following criteria (by self-report, unless otherwise indicated) will be excluded from the study:\n\n* Has had sexual intercourse with a partner other than the index participant in the last two months.\n* Known plans to re-locate or travel away from the study site for more than two consecutive months during the next 24 months.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Connie Celum, MD, MPH",
+                "affiliation": "University of Washington",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Jairam Lingappa, MD, PhD,",
+                "affiliation": "University of Washington",
+                "role": "STUDY_DIRECTOR"
+              },
+              {
+                "name": "Anna Wald, MD, MPH",
+                "affiliation": "University of Washington",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Botswana-Harvard Partnership",
+                "city": "Gabarone",
+                "country": "Botswana"
+              },
+              {
+                "facility": "Moi University - Indiana University",
+                "city": "Eldoret",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": 0.52036,
+                  "lon": 35.26993
+                }
+              },
+              {
+                "facility": "Kemri - Ucsf",
+                "city": "Kisumu",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -0.10221,
+                  "lon": 34.76171
+                }
+              },
+              {
+                "facility": "University of Nairobi",
+                "city": "Nairobi",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.28333,
+                  "lon": 36.81667
+                }
+              },
+              {
+                "facility": "Partners Study Thika Site",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              },
+              {
+                "facility": "Projet San Francisco-Emory University",
+                "city": "Kigali",
+                "country": "Rwanda",
+                "geoPoint": {
+                  "lat": -1.94995,
+                  "lon": 30.05885
+                }
+              },
+              {
+                "facility": "University of Cape Town",
+                "city": "Cape Town",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -33.92584,
+                  "lon": 18.42322
+                }
+              },
+              {
+                "facility": "Perinatal HIV Research Unit, University of Witswatersrand",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -26.20227,
+                  "lon": 28.04363
+                }
+              },
+              {
+                "facility": "Reproductive Health and HIV Research Unit",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -26.20227,
+                  "lon": 28.04363
+                }
+              },
+              {
+                "facility": "Kilimanjaro Christian Medical College-Harvard University",
+                "city": "Moshi",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -3.35,
+                  "lon": 37.33333
+                }
+              },
+              {
+                "facility": "Mulago Hospital - IDI",
+                "city": "Kampala",
+                "country": "Uganda",
+                "geoPoint": {
+                  "lat": 0.31628,
+                  "lon": 32.58219
+                }
+              },
+              {
+                "facility": "Zambia-Emory HIV Research Project",
+                "city": "Lusaka",
+                "country": "Zambia",
+                "geoPoint": {
+                  "lat": -15.40669,
+                  "lon": 28.28713
+                }
+              },
+              {
+                "facility": "Zambia-Emory HIV Research Project",
+                "city": "Ndola/Kitwe",
+                "country": "Zambia"
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "29108000",
+                "type": "DERIVED",
+                "citation": "Mackelprang RD, Bamshad MJ, Chong JX, Hou X, Buckingham KJ, Shively K, deBruyn G, Mugo NR, Mullins JI, McElrath MJ, Baeten JM, Celum C, Emond MJ, Lingappa JR; Partners in Prevention HSV/HIV Transmission Study and the Partners PrEP Study Teams. Whole genome sequencing of extreme phenotypes identifies variants in CD101 and UBE2V1 associated with increased risk of sexually acquired HIV-1. PLoS Pathog. 2017 Nov 6;13(11):e1006703. doi: 10.1371/journal.ppat.1006703. eCollection 2017 Nov."
+              },
+              {
+                "pmid": "23130818",
+                "type": "DERIVED",
+                "citation": "de Bruyn G, Magaret A, Baeten JM, Lingappa JR, Ndase P, Celum C, Wald A; Partners in Prevention HSV/HIV Transmission Study Team. Mortality in members of HIV-1 serodiscordant couples in Africa and implications for antiretroviral therapy initiation: results of analyses from a multicenter randomized trial. BMC Infect Dis. 2012 Oct 30;12:277. doi: 10.1186/1471-2334-12-277."
+              },
+              {
+                "pmid": "23061422",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Thomas KK, Hughes JP, Baeten JM, Wald A, Farquhar C, de Bruyn G, Fife KH, Campbell MS, Kapiga S, Mullins JI, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Partner characteristics predicting HIV-1 set point in sexually acquired HIV-1 among African seroconverters. AIDS Res Hum Retroviruses. 2013 Jan;29(1):164-71. doi: 10.1089/AID.2012.0206."
+              },
+              {
+                "pmid": "22745608",
+                "type": "DERIVED",
+                "citation": "Cohen CR, Lingappa JR, Baeten JM, Ngayo MO, Spiegel CA, Hong T, Donnell D, Celum C, Kapiga S, Delany S, Bukusi EA. Bacterial vaginosis associated with increased risk of female-to-male HIV-1 transmission: a prospective cohort analysis among African couples. PLoS Med. 2012;9(6):e1001251. doi: 10.1371/journal.pmed.1001251. Epub 2012 Jun 26."
+              },
+              {
+                "pmid": "21406077",
+                "type": "DERIVED",
+                "citation": "Mujugira A, Magaret AS, Baeten JM, Celum C, Lingappa J. Risk Factors for HSV-2 Infection among Sexual Partners of HSV-2/HIV-1 Co-Infected Persons. BMC Res Notes. 2011 Mar 15;4:64. doi: 10.1186/1756-0500-4-64."
+              },
+              {
+                "pmid": "21399681",
+                "type": "DERIVED",
+                "citation": "Campbell MS, Mullins JI, Hughes JP, Celum C, Wong KG, Raugi DN, Sorensen S, Stoddard JN, Zhao H, Deng W, Kahle E, Panteleeff D, Baeten JM, McCutchan FE, Albert J, Leitner T, Wald A, Corey L, Lingappa JR; Partners in Prevention HSV/HIV Transmission Study Team. Viral linkage in HIV-1 seroconverters and their partners in an HIV-1 prevention clinical trial. PLoS One. 2011 Mar 2;6(3):e16986. doi: 10.1371/journal.pone.0016986."
+              },
+              {
+                "pmid": "20153888",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Baeten JM, Wald A, Hughes JP, Thomas KK, Mujugira A, Mugo N, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife KH, de Bruyn G, Gray GE, McIntyre JA, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Magaret AS, Wang RS, Kidoguchi L, Barnes L, Ridzon R, Corey L, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Daily acyclovir for HIV-1 disease progression in people dually infected with HIV-1 and herpes simplex virus type 2: a randomised placebo-controlled trial. Lancet. 2010 Mar 6;375(9717):824-33. doi: 10.1016/S0140-6736(09)62038-9. Epub 2010 Feb 12."
+              },
+              {
+                "pmid": "20089951",
+                "type": "DERIVED",
+                "citation": "Celum C, Wald A, Lingappa JR, Magaret AS, Wang RS, Mugo N, Mujugira A, Baeten JM, Mullins JI, Hughes JP, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife KH, de Bruyn G, Gray GE, McIntyre JA, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Stevens W, Campbell MS, Thomas KK, Coombs RW, Morrow R, Whittington WL, McElrath MJ, Barnes L, Ridzon R, Corey L; Partners in Prevention HSV/HIV Transmission Study Team. Acyclovir and transmission of HIV-1 from persons infected with HIV-1 and HSV-2. N Engl J Med. 2010 Feb 4;362(5):427-39. doi: 10.1056/NEJMoa0904849. Epub 2010 Jan 20."
+              },
+              {
+                "pmid": "20042848",
+                "type": "DERIVED",
+                "citation": "Baeten JM, Donnell D, Kapiga SH, Ronald A, John-Stewart G, Inambao M, Manongi R, Vwalika B, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Male circumcision and risk of male-to-female HIV-1 transmission: a multinational prospective study in African HIV-1-serodiscordant couples. AIDS. 2010 Mar 13;24(5):737-44. doi: 10.1097/QAD.0b013e32833616e0."
+              },
+              {
+                "pmid": "20011596",
+                "type": "DERIVED",
+                "citation": "Guthrie BL, Kiarie JN, Morrison S, John-Stewart GC, Kinuthia J, Whittington WL, Farquhar C. Sexually transmitted infections among HIV-1-discordant couples. PLoS One. 2009 Dec 14;4(12):e8276. doi: 10.1371/journal.pone.0008276."
+              },
+              {
+                "pmid": "19404392",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Kahle E, Mugo N, Mujugira A, Magaret A, Baeten J, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife K, Debruyn G, Gray G, McIntyre J, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Coombs RW, Morrow R, Whittington W, Corey L, Wald A, Celum C; Partners HSV-2/HIV-1 Transmission Study Team. Characteristics of HIV-1 discordant couples enrolled in a trial of HSV-2 suppression to reduce HIV-1 transmission: the partners study. PLoS One. 2009;4(4):e5272. doi: 10.1371/journal.pone.0005272. Epub 2009 Apr 30."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D006558",
+                "term": "Herpes Genitalis"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D003075",
+                "term": "Coitus"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D006561",
+                "term": "Herpes Simplex"
+              },
+              {
+                "id": "D006566",
+                "term": "Herpesviridae Infections"
+              },
+              {
+                "id": "D004266",
+                "term": "DNA Virus Infections"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              },
+              {
+                "id": "D005832",
+                "term": "Genital Diseases, Male"
+              },
+              {
+                "id": "D052801",
+                "term": "Male Urogenital Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D012725",
+                "term": "Sexual Behavior"
+              },
+              {
+                "id": "D001519",
+                "term": "Behavior"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06087913",
+            "orgStudyIdInfo": {
+              "id": "MATRIX-001"
+            },
+            "organization": {
+              "fullName": "Eastern Virginia Medical School",
+              "class": "OTHER"
+            },
+            "briefTitle": "Safety and PK Multi-dose Study of TAF/EVG Vaginal Insert",
+            "officialTitle": "A Phase I Randomized, Placebo-controlled, Double-blind Study to Assess Safety, Pharmacokinetics, and Modeled Pharmacodynamics of a Vaginal Insert Containing Tenofovir Alafenamide and Elvitegravir"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-11-08",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-12-02",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-12-02",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2023-09-07",
+            "studyFirstSubmitQcDate": "2023-10-11",
+            "studyFirstPostDateStruct": {
+              "date": "2023-10-18",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-08-25",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-09-02",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Eastern Virginia Medical School",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "CONRAD",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Pittsburgh",
+                "class": "OTHER"
+              },
+              {
+                "name": "Centre for the AIDS Programme of Research in South Africa",
+                "class": "NETWORK"
+              },
+              {
+                "name": "Kenya Medical Research Institute",
+                "class": "OTHER"
+              },
+              {
+                "name": "United States Agency for International Development (USAID)",
+                "class": "FED"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MATRIX-001 will examine the safety, PK, modeled PD, and acceptability of inserts containing the combination of TAF and EVG applied vaginally, daily for 3 days, then every other day for 14 days. The inserts are ultimately intended to be the basis of an event-driven, on-demand method for prevention of HIV and HSV sexual infection.",
+            "detailedDescription": "Participants will be enrolled across three sites, in USA, Kenya, and South Africa, approximately 20 per site. Participants will be randomized (1:1) to receive either a placebo or TAF/EVG vaginal insert as well as be randomized (1:1:1) to 3 different tissue sampling time points post-treatment (24hr, 48hr and 72hr after the last dose). Participants will be asked to complete 8 study visits with clinical and behavioral evaluations, and a subset will complete an in-depth interview to assess acceptability of vaginal insert use."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Safety Issues"
+            ],
+            "keywords": [
+              "vaginal insert",
+              "HIV",
+              "pre-exposure prophylaxis (PrEP)"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE1"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "Randomized, Placebo-Controlled, Double-Blind",
+              "primaryPurpose": "OTHER",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "maskingDescription": "Double-blind",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 68,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Active",
+                "type": "EXPERIMENTAL",
+                "description": "TAF/EVG (20/16mg) vaginal insert",
+                "interventionNames": [
+                  "Drug: TAF/EVG vaginal insert"
+                ]
+              },
+              {
+                "label": "Placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Matching placebo insert",
+                "interventionNames": [
+                  "Drug: Matching Placebo vaginal insert"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "TAF/EVG vaginal insert",
+                "description": "vaginal insert applied daily for 3 days then every other day for 14 days",
+                "armGroupLabels": [
+                  "Active"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Matching Placebo vaginal insert",
+                "description": "vaginal insert applied daily for 3 days then every other day for 14 days",
+                "armGroupLabels": [
+                  "Placebo"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Number and Severity of Adverse Events",
+                "description": "Safety measured by reported AE's Grade 2 and higher",
+                "timeFrame": "Randomization through study completion, an average of 3 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Pharmacokinetics (PK) in cervicovaginal fluid (CVF)",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Pharmacokinetics (PK) in plasma",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Pharmacokinetics (PK) in cervicovaginal tissue",
+                "description": "Concentrations of TFV, TAF and EVG",
+                "timeFrame": "through completion of study, an average of 3 months"
+              },
+              {
+                "measure": "Modeled in vitro Pharmacodynamics (PD) for HIV",
+                "description": "Rate of anti-viral activity in CVF",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Modeled in vitro Pharmacodynamics (PD) for Herpes simplex virus (HSV)",
+                "description": "Rate of anti-viral activity in CVF",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Number of participants who find using the vaginal insert acceptable.",
+                "description": "Responses to key questions on satisfaction, comfort with insertion, willingness to use the vaginal insert",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              },
+              {
+                "measure": "Number of participants with changes to vaginal microbiome",
+                "description": "Evaluate mucosal factors and microbiome changes from baseline associated with mucosal function, including immune cells, pH, soluble markers, and immune cells.",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Modeled Tissue PD",
+                "description": "p24 antigen production in cervicovaginal tissue infected with HIV-1 ex vivo",
+                "timeFrame": "Enrollment through study completion, an average of 3 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Aged 18 to 50 years (inclusive) at Screening.\n2. Assigned female sex at birth.\n3. Able and willing to provide written informed consent to be screened for and enrolled in MATRIX-001 in one of the study languages (as specified in site SOP).\n4. General good health (by volunteer history) without any evidence of clinically significant systemic disease (as determined by Investigator of Record \\[IoR\\] or designee).\n5. Has had vaginal sex and has an intact uterus and cervix.\n6. Has a regular and/or predictable bleeding pattern based on the opinion of the investigator, or is oligomenorrheic or amenorrhoeic.\n7. HIV-uninfected based on testing performed at Screening and Enrollment (per protocol algorithms in Appendix II).\n8. Negative urine pregnancy test at Screening and Enrollment.\n9. Protected from pregnancy by an effective contraceptive method as confirmed by site SOP; effective methods include:\n\n   * minimum of 3 months of use of a combined hormonal contraceptive method (except vaginal rings)\n   * minimum of 6 months of use of a progestin only contraceptive method or copper IUD\n   * Sterilization of participant or partner\n   * Correct and consistent condom use (for US site only)\n   * Abstinence from penile-vaginal intercourse (for US site only)\n10. Participants over the age of 21 (inclusive) must have documentation of a Grade 0 Pap smear within the past 3 years prior to Enrollment, per the Female Genital Grading Table for Use in Microbicide Studies Addendum 1 (Dated November 2007) to the DAIDS Table for Grading Adult and Pediatric Adverse Events, Corrected Version 2.1, July 2017, or Grade 1 Pap smear at Screening with no treatment required.\n11. Normal cervicovaginal mucosa (as defined in MATRIX-001 Study Specific Procedures \\[SSP\\] manual).\n12. Willing and able to comply with protocol requirements, including abstaining from vaginal activity and product use at specified times.\n13. Per participant report, if in a relationship, must be in a mutually monogamous relationship with a partner who is not known to be HIV positive or to currently have an STI.\n\nExclusion Criteria:\n\n1. Per participant report, intends to do any of the following during the study participation period:\n\n   * Become pregnant.\n   * Breastfeed.\n   * Relocate away from the study site.\n   * Travel away from the study site for a time period that would interfere with product resupply and/or study participation.\n2. Currently breastfeeding.\n3. Positive HIV test at Screening or Enrollment.\n4. History of sensitivity/allergy to any component of the study product, topical anesthetic, cellulose based thrombogenic material, or to both silver nitrate and Monsel's solution.\n5. Positive test for Trichomonas vaginalis (TV), Neisseria gonorrhea (GC), Chlamydia trachomatis (CT), Treponema pallidum (Syphilis), or Hepatitis B surface antigen (HBsAg) at Screening or (per participant report) treated for GC, CT, TV, HBsAg or syphilis in the past 12 months.\n6. Chronic or acute vulvar, vaginal or cervical symptoms (pain, irritation, spotting/bleeding other than what would be expected from contraceptive use, discharge, etc.).\n7. Known bleeding/clotting disorder, including use of anti-coagulation.\n8. Need for continued use of any contraindicated concomitant medications (as listed in Appendix III).\n9. Participation in any other trial with use of an investigational drug/device within the last 30 days or planned participation in any other investigational trial with use of a drug/device during the study.\n10. Participants who previously received an HIV vaccine or HIV broadly neutralizing antibody (bNAb) are not eligible. Individuals may be eligible if they participated in an HIV vaccine or bNAb study but have documentation that they did not receive active product (e.g., placebo recipients).\n11. Prior use of PEP or oral PrEP (including FTC/TDF) in the past 4 weeks or any prior use of long-acting systemic PrEP (including cabotegravir or islatravir).\n12. Grade 2 or higher pelvic finding or laboratory abnormality, per the DAIDS Table for Grading Adult and Pediatric Adverse Events, Corrected Version 2.1, July 2017 and/or Addenda 1 (Female Genital Grading Tables for Use in Microbicide Studies \\[Dated November 2007\\]) or clinically significant laboratory abnormality as determined by the clinician.\n13. Use of any of the following in the past 12 months: stimulants (cocaine \\[including crack\\], methamphetamine, or non-physician prescribed pharmaceutical-grade stimulants), or inhaled nitrates, or illicit injection drug use of any kind.\n14. Has any other condition that, based on the opinion of the IoR or designee, would preclude provision of informed consent, make participation in the study unsafe, complicate interpretation of study outcome data, or otherwise interfere with achieving the study objectives.",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "50 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Leila Mansoor, BPharm, PhD",
+                "affiliation": "Centre for the AIDS Programme of Research in South Africa",
+                "role": "STUDY_CHAIR"
+              },
+              {
+                "name": "Nelly Mugo, MBChB",
+                "affiliation": "Kenya Medical Research Institute",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Eastern Virginia Medical School Clinical Research Clinic (EVMS CRC)",
+                "city": "Norfolk",
+                "state": "Virginia",
+                "zip": "23507",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 36.84681,
+                  "lon": -76.28522
+                }
+              },
+              {
+                "facility": "Kenya Medical Research Institute (KEMRI)",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              },
+              {
+                "facility": "CAPRISA eThekwini Clinical Research Site",
+                "city": "Durban",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.8579,
+                  "lon": 31.0292
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "36423375",
+                "type": "BACKGROUND",
+                "citation": "Dobard CW, Peet MM, Nishiura K, Holder A, Dinh C, Mitchell J, Khalil G, Pan Y, Singh ON, McCormick TJ, Agrahari V, Gupta P, Jonnalagadda S, Heneine W, Clark MR, Garcia-Lerma JG, Doncel GF. Single dose topical inserts containing tenofovir alafenamide fumarate and elvitegravir provide pre- and post-exposure protection against vaginal SHIV infection in macaques. EBioMedicine. 2022 Dec;86:104361. doi: 10.1016/j.ebiom.2022.104361. Epub 2022 Nov 21."
+              },
+              {
+                "pmid": "37153145",
+                "type": "BACKGROUND",
+                "citation": "Thurman AR, Ouattara LA, Yousefieh N, Anderson PL, Bushman LR, Fang X, Hanif H, Clark M, Singh O, Doncel GF. A phase I study to assess safety, pharmacokinetics, and pharmacodynamics of a vaginal insert containing tenofovir alafenamide and elvitegravir. Front Cell Infect Microbiol. 2023 Apr 19;13:1130101. doi: 10.3389/fcimb.2023.1130101. eCollection 2023."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "MTN-039 Safety and PK of TAF/EVG rectal insert",
+                "url": "https://clinicaltrials.gov/study/NCT04047420"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03030768",
+            "orgStudyIdInfo": {
+              "id": "STUDY00002068"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "R00HD076679",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/R00HD076679"
+              },
+              {
+                "id": "R21TW009908",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/R21TW009908"
+              }
+            ],
+            "organization": {
+              "fullName": "University of Washington",
+              "class": "OTHER"
+            },
+            "briefTitle": "Safer Conception Intervention for HIV-1 Serodiscordant Couples",
+            "officialTitle": "Pilot of an mHealth-enhanced, Safer Conception Intervention to Reduce HIV-1 Risk Among Kenyan HIV-1 Serodiscordant Couples",
+            "acronym": "SCIP"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-09",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2016-02"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2018-05",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2018-07",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2017-01-12",
+            "studyFirstSubmitQcDate": "2017-01-20",
+            "studyFirstPostDateStruct": {
+              "date": "2017-01-25",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-09-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-09-12",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Renee Heffron",
+              "investigatorTitle": "Assistant Professor",
+              "investigatorAffiliation": "University of Washington"
+            },
+            "leadSponsor": {
+              "name": "University of Washington",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+                "class": "NIH"
+              },
+              {
+                "name": "Fogarty International Center of the National Institute of Health",
+                "class": "NIH"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The greatest burden of the HIV-1 epidemic lies in sub-Saharan Africa, where a substantial proportion of infections occur in long-term heterosexual HIV-1 serodiscordant partnerships. Such couples face a difficult dilemma when considering their desire to have children: forego condom use, attempt to conceive and risk HIV-1 transmission or continue condom use and relinquish their childbearing desires. Based on evidence from rigorous clinical trials demonstrating the strong efficacy of individual interventions for HIV-1 prevention and formative work with HIV-1 serodiscordant couples and clinicians with expertise in HIV-1 prevention and reproductive health in the Kenyan context, this study pilots a safer conception intervention that focuses on antiretrovirals (as antiretroviral therapy \\[ART\\] taken by the HIV-1 infected partner and pre-exposure prophylaxis \\[PrEP\\] taken by the HIV-1 uninfected partner) and timed condomless sex. Additional strategies for couples include diagnosis and treatment of STIs and male circumcision.\n\nmHealth tools, including SMS and mobile applications are novel and very popular among Kenyans to ease the burden of addressing health problems. This safer conception intervention incorporates mHealth tools to improve couples' experiences tracking fertility indicators and communicating with providers about their readiness to practice safer conception. SMS surveys to collect daily information from women about their fertility signs and SMS messages are used to reinforce HIV-1 prevention, including condom use for couples during periods that do not have a high likelihood of fertility. An in-clinic mobile application is used to improve clinician-patient counseling and assessments of couple readiness to practice safer conception. To inform future engagement of mHealth tools, the investigators will prospectively evaluate clinician and patient experiences using SMS surveys and the tablet application. Couples with immediate fertility intentions will be followed longitudinally, allowing careful tracking of pregnancy and HIV-1 incidence. The study takes place in Thika, Kenya.",
+            "detailedDescription": "Overall Design This is an open-label, prospective cohort pilot study of HIV-1 serodiscordant couples with immediate fertility desires. The overall goal is to determine uptake and sustained use of safer conception strategies, strategies for HIV-1 risk reduction during periods when couples attempt to conceive a child. The study offers PrEP (daily oral TDF or FTC/TDF) to the HIV-1 uninfected member of the couple, ART to the HIV-1 infected member of the couple, teach women about tracking fertility indicators and predicting upcoming periods of peak fertility, and work with couples to establish their readiness to practice timed condomless sex. mHealth tools will be integrated to capture fertility indicators, sexual behavior, improve patient-provider communication, and remind couples about their upcoming periods with peak fertility. The investigators will conduct mixed-methods work to understand couples experiences practicing safer conception and couples and providers experiences using the mHealth tools.\n\nAIMS\n\n1. To determine uptake (and adherence, when applicable) of each component of an integrated safer conception intervention among HIV-1 serodiscordant couples, including:\n\n   1. Use of PrEP by the HIV-1 uninfected partner\n   2. Use of ART by the HIV-1 infected partner\n   3. Menstrual cycle monitoring\n   4. Patterns of condom use\n   5. STI treatment\n   6. Medical male circumcision, and\n   7. Vaginal self-insemination\n2. To determine rates of pregnancy and HIV-1 incidence among HIV-1 serodiscordant couples participating in a safer conception intervention pilot\n3. To determine which fertility indicators - including onset of menses, basal body temperature, vaginal mucus characteristics, results from luteinizing hormone tests - are most feasible for Kenyan women in HIV-1 serodiscordant partnerships to monitor via SMS\n4. To obtain user feedback about mHealth tools designed to improve patient experience with safer conception including:\n\n   1. Women's experiences tracking fertility signs through SMS and\n   2. Couples' and provider's experiences using a clinic-based tablet application that encompasses clinical, laboratory and fertility data to improve patient-provider communication about safer conception readiness\n   3. Women and men's experiences receiving SMS messages with personalized safer conception reminders\n5. To assess participant experiences with an mHealth-enhanced safer conception intervention\n\nStudy procedures:\n\nClinic visits will take place at screening and enrollment, monthly prior to pregnancy and quarterly during pregnancy, for up to 12 months or the end of pregnancy, whichever comes later. Couples will move from a preparatory period into a peri-conception period once they decide to practice timed condomless sex, based on discussions with study clinicians and counselors. They will move from peri-conception to pregnancy once pregnancy occurs or from peri-conception to study exit if pregnancy does not occur within 12 months of study enrollment. During the preparatory and peri-conception periods, women will receive daily SMS surveys.\n\nScreening:\n\nAt screening, both members of couples will undergo HIV-1 testing to verify HIV-1 serodiscordancy and women will have a pregnancy test. Demographic, behavioral and medical information will be collected, along with additional laboratory results to establish eligibility (for HIV-1 uninfected partners - serum creatinine, hepatitis B surface antigen). Couples' fertility desires will be assessed and medical history will include information about current use of contraceptives and menstrual cycle regularity.\n\nEnrollment:\n\nAt enrollment, members of couples will separately complete interviewer-administered questionnaires to assess their pre-intervention knowledge, perceptions of, and barriers to safer conception strategies and gather data on their demographic and medical characteristics, sexual behavior and any current contraception and/or antiretroviral use. Both partners will undergo diagnostic testing and treatment of genital infections, including gonorrhea, chlamydia, trichomonas, and bacterial vaginosis (BV, if there are symptoms). HIV-1 uninfected partners will be re-tested to verify their HIV-1 status and assessed for acute HIV-1 infection. Women will be tested for pregnancy. HIV-1 infected partners will have specimen collected for CD4 and plasma viral load quantification. Physical exams will be conducted for both partners. Social harm will also be assessed in a culturally appropriate manner and captured on validated case report forms. Safer conception behavioral counseling will be in addition to couples counseling for HIV-1 prevention that fosters an understanding of HIV-1 serodiscordancy and negotiation of safer sex.\n\nDaily SMS surveys:\n\nThe day after enrollment, women will begin to receive daily SMS surveys to assess fertility signs and sexual behavior.\n\nFollow up visits:\n\nParticipants will complete follow up visits to track their compliance with the intervention strategies and study procedures. Participants will be scheduled for monthly study visits during the preparatory and peri-conception periods and quarterly during pregnancy. Participants can move from the preparatory period to peri-conception based on their own desires and counseling from a clinician.\n\nExit:\n\nFollowing the end of pregnancy or 12 months after study enrollment (whichever is later), couples will be exited from the study. At study exit, couples will be counseled about their current fertility goals (which may have changed throughout the course of follow up, especially for couples who become pregnant and have a child during the study period) and offered contraception and referrals for ongoing services, as appropriate.\n\nQualitative interviews:\n\nTo gain a deeper understanding of how participants perceive the integrated safer conception intervention and the mHealth components that are part of the intervention, we will conduct in-depth interviews with up to 40 couples. Interview topics will include: identification of factors influencing individuals' preferences for safer conception strategies, their experience with safer conception strategies, and their intentions for continued use of these strategies should they desire pregnancy again and user satisfaction with the mHealth tools and suggestions for improvement."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Seropositivity",
+              "Pregnancy, High-Risk"
+            ],
+            "keywords": [
+              "Pre-Exposure Prophylaxis",
+              "Fertility",
+              "mHealth",
+              "Pregnancy"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITHOUT_DNA",
+              "description": "Plasma"
+            },
+            "enrollmentInfo": {
+              "count": 74,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "HIV-1 serodiscordant couples",
+                "description": "Couples where one partner is HIV-1 infected and the other is uninfected, who will receive counseling on timed condomless sex, ART and PrEP adherence. The study intervention focuses on ART use by the HIV-1 infected partner, PrEP (Truvada) use by the HIV-1 uninfected partner, and timed condomless sex during the peri-conception period.",
+                "interventionNames": [
+                  "Drug: PrEP",
+                  "Behavioral: Counseling on timed condomless sex, ART and PrEP adherence"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "PrEP",
+                "description": "An integrated, phased safer conception intervention that focuses on ART use by the HIV-1 infected partner, PrEP use by the HIV-1 uninfected partner, and timed condomless sex during the peri-conception period.",
+                "armGroupLabels": [
+                  "HIV-1 serodiscordant couples"
+                ],
+                "otherNames": [
+                  "Truvada"
+                ]
+              },
+              {
+                "type": "BEHAVIORAL",
+                "name": "Counseling on timed condomless sex, ART and PrEP adherence",
+                "description": "An integrated, phased safer conception intervention that focuses on ART use by the HIV-1 infected partner, PrEP use by the HIV-1 uninfected partner, and timed condomless sex",
+                "armGroupLabels": [
+                  "HIV-1 serodiscordant couples"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Pregnancy incidence - rate of pregnancy that occurs per 12 months",
+                "description": "Rate of pregnancy that occur without HIV-1 transmission to the uninfected partner",
+                "timeFrame": "12 months post enrollment"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "HIV-1 incidence - rate of new HIV infections that occur per 12 months",
+                "description": "Rate of new HIV-1 infections among couples",
+                "timeFrame": "12 months post enrollment"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "User feedback about mHealth tools designed to improve patient experience with safer conception",
+                "description": "Women's experiences tracking fertility signs through SMS. Couples' and provider's experiences using a clinic-based mobile application that encompasses clinical, laboratory and fertility data to improve patient-provider communication about safer conception readiness",
+                "timeFrame": "12 months post enrollment"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Couples\n\n  * Immediate fertility intention\n  * Sexually active (defined as having had vaginal intercourse at least 6 times in the previous three months)\n  * Willing to enter the study as a couple and intending to remain as a couple for the next 12 months\n\nFor HIV-1 infected members of the couple (index participants)\n\n* Able and willing to provide written informed consent\n* HIV-1 infected based on positive rapid HIV-1 tests, according to national algorithm\n* Not currently pregnant or breastfeeding\n* No use of injectable contraception for the past 3 months\n* Not currently enrolled in an HIV-1 treatment study\n* No clear indication of infertility or subfertility, as determined by medical history\n* Own a mobile phone for personal use, which operates on a telecom provider supported by the study SMS platform and is distinct from the mobile phone owned by the HIV-1 uninfected partner\n* Know how to send and receive SMS\n* Have regular access to electricity or an alternative means for charging a cell phone Literate in English, Kiswahili or Kikuyu\n\nFor HIV-1 uninfected members of the couple (partner participants)\n\n* Able and willing to provide written informed consent\n* HIV-1 uninfected based on negative HIV-1 rapid tests, both at study screening and at the enrollment visit\n* Adequate renal function, defined by normal creatinine levels and estimated creatinine clearance ≥60 mL/min\n* Not infected with hepatitis B virus, as determined by a negative hepatitis B surface antigen test\n* Not currently pregnant or breastfeeding\n* No use of injectable contraception for the past 3 months\n* Not currently enrolled in an HIV-1 prevention clinical trial\n* Enrollment of individuals with active and serious infections or active clinically significant medical problems will be at the discretion of the site investigator\n* No clear indication of infertility or subfertility, as determined by medical history\n* Own a mobile phone for personal use, which operates on a telecom provider supported by the study SMS platform and is distinct from the mobile phone owned by the HIV-1 infected partner\n* Know how to send and receive SMS\n* Have regular access to electricity or an alternative means for charging a cell phone\n* Literate in English, Kiswahili or Kikuyu\n\nFor study clinicians and counselors\n\n• Active involvement in safer conception counseling for couples and use of the tablet application during counseling sessions\n\nExclusion Criteria:\n\n* For couples\n\n  * Participated in the Partners PrEP Study or the Partners Demonstration Project For HIV-1 infected members of the couple (index participants)\n  * Currently pregnant or breastfeeding\n  * Used an injectable contraception in the past 3 months\n  * Currently enrolled in an HIV-1 treatment study\n  * Has a clear indication of infertility or sub-fertility, as determined by medical history\n\nFor HIV-1 uninfected members of the couple (partner participants):\n\n* Infected with hepatitis B virus, as determined by a positive hepatitis B surface antigen test\n* Currently pregnant or breastfeeding\n* Used an injectable contraception in the past 3 months\n* Currently enrolled in an HIV-1 prevention clinical trial\n* Has a clear indication of infertility or subfertility, as determined by medical history\n* Enrollment of individuals with active and serious infections or active clinically significant medical problems will be at the discretion of the site investigator",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "49 Years",
+            "stdAges": [
+              "ADULT"
+            ],
+            "studyPopulation": "Heterosexual HIV-1 serodiscordant couples in Thika, Kenya with immediate fertility desires, who did not participate in a previous study \"Partners PrEP Study or the Partners Demonstration Project\" at the site, and study clinicians and counselors delivering the intervention.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Renee Heffron, PhD",
+                "affiliation": "University of Washington",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University of Washington, Coordinating Center",
+                "city": "Seattle",
+                "state": "Washington",
+                "zip": "98104",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 47.60621,
+                  "lon": -122.33207
+                }
+              },
+              {
+                "facility": "Partners in Health, Research and Development",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "22595872",
+                "type": "BACKGROUND",
+                "citation": "Heffron R, Ngure K, Mugo N, Celum C, Kurth A, Curran K, Baeten JM. Willingness of Kenyan HIV-1 serodiscordant couples to use antiretroviral-based HIV-1 prevention strategies. J Acquir Immune Defic Syndr. 2012 Sep 1;61(1):116-9. doi: 10.1097/QAI.0b013e31825da73f."
+              },
+              {
+                "pmid": "24779445",
+                "type": "BACKGROUND",
+                "citation": "Ngure K, Baeten JM, Mugo N, Curran K, Vusha S, Heffron R, Celum C, Shell-Duncan B. My intention was a child but I was very afraid: fertility intentions and HIV risk perceptions among HIV-serodiscordant couples experiencing pregnancy in Kenya. AIDS Care. 2014;26(10):1283-7. doi: 10.1080/09540121.2014.911808. Epub 2014 Apr 29."
+              },
+              {
+                "pmid": "23700649",
+                "type": "BACKGROUND",
+                "citation": "Guidance on Couples HIV Testing and Counselling Including Antiretroviral Therapy for Treatment and Prevention in Serodiscordant Couples: Recommendations for a Public Health Approach. Geneva: World Health Organization; 2012 Apr. Available from http://www.ncbi.nlm.nih.gov/books/NBK138278/"
+              },
+              {
+                "pmid": "27751179",
+                "type": "BACKGROUND",
+                "citation": "Irungu EM, Heffron R, Mugo N, Ngure K, Katabira E, Bulya N, Bukusi E, Odoyo J, Asiimwe S, Tindimwebwa E, Celum C, Baeten JM; Partners Demonstration Project Team. Use of a risk scoring tool to identify higher-risk HIV-1 serodiscordant couples for an antiretroviral-based HIV-1 prevention intervention. BMC Infect Dis. 2016 Oct 17;16(1):571. doi: 10.1186/s12879-016-1899-y."
+              },
+              {
+                "pmid": "25038355",
+                "type": "BACKGROUND",
+                "citation": "Mugo NR, Hong T, Celum C, Donnell D, Bukusi EA, John-Stewart G, Wangisi J, Were E, Heffron R, Matthews LT, Morrison S, Ngure K, Baeten JM; Partners PrEP Study Team. Pregnancy incidence and outcomes among women receiving preexposure prophylaxis for HIV prevention: a randomized clinical trial. JAMA. 2014 Jul 23-30;312(4):362-71. doi: 10.1001/jama.2014.8735."
+              },
+              {
+                "pmid": "22784037",
+                "type": "BACKGROUND",
+                "citation": "Baeten JM, Donnell D, Ndase P, Mugo NR, Campbell JD, Wangisi J, Tappero JW, Bukusi EA, Cohen CR, Katabira E, Ronald A, Tumwesigye E, Were E, Fife KH, Kiarie J, Farquhar C, John-Stewart G, Kakia A, Odoyo J, Mucunguzi A, Nakku-Joloba E, Twesigye R, Ngure K, Apaka C, Tamooh H, Gabona F, Mujugira A, Panteleeff D, Thomas KK, Kidoguchi L, Krows M, Revall J, Morrison S, Haugen H, Emmanuel-Ogier M, Ondrejcek L, Coombs RW, Frenkel L, Hendrix C, Bumpus NN, Bangsberg D, Haberer JE, Stevens WS, Lingappa JR, Celum C; Partners PrEP Study Team. Antiretroviral prophylaxis for HIV prevention in heterosexual men and women. N Engl J Med. 2012 Aug 2;367(5):399-410. doi: 10.1056/NEJMoa1108524. Epub 2012 Jul 11."
+              },
+              {
+                "pmid": "21785321",
+                "type": "BACKGROUND",
+                "citation": "Mugo NR, Heffron R, Donnell D, Wald A, Were EO, Rees H, Celum C, Kiarie JN, Cohen CR, Kayintekore K, Baeten JM; Partners in Prevention HSV/HIV Transmission Study Team. Increased risk of HIV-1 transmission in pregnancy: a prospective study among African HIV-1-serodiscordant couples. AIDS. 2011 Sep 24;25(15):1887-95. doi: 10.1097/QAD.0b013e32834a9338."
+              },
+              {
+                "pmid": "27552090",
+                "type": "BACKGROUND",
+                "citation": "Baeten JM, Heffron R, Kidoguchi L, Mugo NR, Katabira E, Bukusi EA, Asiimwe S, Haberer JE, Morton J, Ngure K, Bulya N, Odoyo J, Tindimwebwa E, Hendrix C, Marzinke MA, Ware NC, Wyatt MA, Morrison S, Haugen H, Mujugira A, Donnell D, Celum C; Partners Demonstration Project Team. Integrated Delivery of Antiretroviral Treatment and Pre-exposure Prophylaxis to HIV-1-Serodiscordant Couples: A Prospective Implementation Study in Kenya and Uganda. PLoS Med. 2016 Aug 23;13(8):e1002099. doi: 10.1371/journal.pmed.1002099. eCollection 2016 Aug."
+              },
+              {
+                "pmid": "25118795",
+                "type": "BACKGROUND",
+                "citation": "Matthews LT, Heffron R, Mugo NR, Cohen CR, Hendrix CW, Celum C, Bangsberg DR, Baeten JM; Partners PrEP Study Team. High medication adherence during periconception periods among HIV-1-uninfected women participating in a clinical trial of antiretroviral pre-exposure prophylaxis. J Acquir Immune Defic Syndr. 2014 Sep 1;67(1):91-7. doi: 10.1097/QAI.0000000000000246."
+              },
+              {
+                "pmid": "26993627",
+                "type": "BACKGROUND",
+                "citation": "Heffron R, Pintye J, Matthews LT, Weber S, Mugo N. PrEP as Peri-conception HIV Prevention for Women and Men. Curr HIV/AIDS Rep. 2016 Jun;13(3):131-9. doi: 10.1007/s11904-016-0312-1."
+              },
+              {
+                "pmid": "30957420",
+                "type": "DERIVED",
+                "citation": "Heffron R, Ngure K, Velloza J, Kiptinness C, Quame-Amalgo J, Oluch L, Thuo N, Njoroge J, Momanyi R, Gakuo S, Mbugua S, Morrison S, Haugen H, Chohan B, Celum C, Baeten JM, Mugo N. Implementation of a comprehensive safer conception intervention for HIV-serodiscordant couples in Kenya: uptake, use and effectiveness. J Int AIDS Soc. 2019 Apr;22(4):e25261. doi: 10.1002/jia2.25261."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "De-identified individual participant data for all outcome measures will be made available after study completion"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D006679",
+                "term": "HIV Seropositivity"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069480",
+                "term": "Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000068698",
+                "term": "Tenofovir"
+              },
+              {
+                "id": "D063065",
+                "term": "Organophosphonates"
+              },
+              {
+                "id": "D009943",
+                "term": "Organophosphorus Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000068679",
+                "term": "Emtricitabine"
+              },
+              {
+                "id": "D003841",
+                "term": "Deoxycytidine"
+              },
+              {
+                "id": "D003562",
+                "term": "Cytidine"
+              },
+              {
+                "id": "D011741",
+                "term": "Pyrimidine Nucleosides"
+              },
+              {
+                "id": "D011743",
+                "term": "Pyrimidines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D000225",
+                "term": "Adenine"
+              },
+              {
+                "id": "D011687",
+                "term": "Purines"
+              },
+              {
+                "id": "D006574",
+                "term": "Heterocyclic Compounds, 2-Ring"
+              },
+              {
+                "id": "D000072471",
+                "term": "Heterocyclic Compounds, Fused-Ring"
+              },
+              {
+                "id": "D003853",
+                "term": "Deoxyribonucleosides"
+              },
+              {
+                "id": "D009705",
+                "term": "Nucleosides"
+              },
+              {
+                "id": "D009706",
+                "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+              },
+              {
+                "id": "D004338",
+                "term": "Drug Combinations"
+              },
+              {
+                "id": "D004364",
+                "term": "Pharmaceutical Preparations"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00194519",
+            "nctIdAliases": [
+              "NCT00197574",
+              "NCT00197600"
+            ],
+            "orgStudyIdInfo": {
+              "id": "STUDY00000867"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "Gates Foundation Grant #26469"
+              }
+            ],
+            "organization": {
+              "fullName": "University of Washington",
+              "class": "OTHER"
+            },
+            "briefTitle": "Herpes Simplex Virus Type 2 (HSV-2) Suppression to Prevent HIV Transmission",
+            "officialTitle": "Phase III Randomized Placebo-Controlled Trial of HSV-2 Suppression to Prevent HIV Transmission Among HIV-Discordant Couples"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-10",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2004-11"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2009-11",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2010-03",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2005-09-13",
+            "studyFirstSubmitQcDate": "2005-09-13",
+            "studyFirstPostDateStruct": {
+              "date": "2005-09-19",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-10-09",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-10-12",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Connie Celum",
+              "investigatorTitle": "Prof of Medicine & Global Health, Adjunct Prof of Epidemiology, School of Medicine: Global Health",
+              "investigatorAffiliation": "University of Washington"
+            },
+            "leadSponsor": {
+              "name": "University of Washington",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Bill and Melinda Gates Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true
+          },
+          "descriptionModule": {
+            "briefSummary": "The University of Washington has received funding to conduct a proof-of-concept trial to assess the impact of suppression of genital herpes on HIV infectiousness. This study (the Partners in Prevention Study) will enroll HIV discordant heterosexual couples in which the HIV-infected partner is co-infected with herpes simplex virus type 2 (HSV-2) to test the efficacy of twice daily (bid) acyclovir (400 mg) given to the HIV-infected partner to prevent transmission to his/her HIV negative partner(s). This randomized, double-blind, placebo-controlled proof-of-concept trial will provide evidence for the efficacy of HSV-2 suppression with daily acyclovir on HIV transmission among HIV-discordant couples among whom the HIV-positive partner is also HSV-2 seropositive with CD4 \\>250. The researchers hypothesis is that, by decreasing the frequency and amount of genital HIV shedding, standard doses of daily acyclovir 400 mg bid will reduce the rate of HIV transmission by 50% in HIV-discordant couples among whom the HIV-infected partner is HSV-2 positive.\n\nUnder the study protocol version 4.1.1, 3000 HIV-discordant heterosexual couples in which the HIV-positive partner is HSV-2 positive and has a CD4 count \\>250 will be recruited; participants will be followed for up to 2 years. A 4% per year HIV incidence in the placebo arm is assumed.\n\nThe first study site began enrolling participants on 17 November 2005. As of September 2006, 14 sites in Eastern and Southern Africa had participated in recruiting the 2300 HIV-discordant couples enrolled to date.",
+            "detailedDescription": "Herpes simplex virus type-2 (HSV-2) is the primary cause of genital ulcers and one of the most prevalent sexually transmitted diseases worldwide. Consistently, over 30 studies have found HSV-2 infection to be a risk factor for HIV acquisition with an overall relative risk of 2.1 in the studies that demonstrated HSV-2 preceded HIV infection. A recent study of HIV-discordant couples from Rakai, Uganda, has shown that at all levels of HIV viral load in the HIV-positive partner, HSV-2 infection in the susceptible partner increased the per-contact risk of acquisition of HIV five-fold, and GUD in the HIV-source partner increased the per-contact risk of HIV transmission five-fold. As strong as these epidemiological data are, an intervention trial is required to define the clinical and public health significance of these findings.\n\nThis trial will directly answer the extent to which HSV-2 infection increases infectiousness of HIV/HSV-2 co-infected persons and the relative reduction in HIV transmission among HSV-2 seropositive persons treated with daily suppressive antiviral therapy. Acyclovir has an acceptable safety profile for widespread STD treatment and is inexpensive, well-tolerated, and episodic and long-term suppressive therapy has not been associated with increased acyclovir resistance. Given high HSV-2 seroprevalence in HIV-infected persons (70-80%) and high HIV incidence in populations with high prevalence of HSV-2 infection worldwide, this approach could have great public health importance by providing a safe, acceptable, and cost-effective method to reduce HIV transmission among HIV-infected persons who are also HSV-2 seropositive.\n\nSites that have enrolled couples in this study include: Johannesburg (2 sites) and Cape Town, South Africa; Gaborone, Botswana; Kitwe/Ndola and Lusaka, Zambia; Nairobi, Kisumu, Eldoret and Thika, Kenya; Moshi, Tanzania; Kampala, Uganda; and Kigali, Rwanda."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HIV Infection",
+              "Herpes Simplex, Genital",
+              "Sexually Transmitted Diseases"
+            ],
+            "keywords": [
+              "HIV infection",
+              "HIV transmission",
+              "genital herpes",
+              "sexual intercourse",
+              "sexual transmitted infection",
+              "acyclovir",
+              "HIV Seronegativity",
+              "Treatment Naive",
+              "HIV-discordant couples",
+              "HIV serodiagnosis"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 3408,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Acyclovir",
+                "type": "ACTIVE_COMPARATOR",
+                "interventionNames": [
+                  "Drug: Generic acyclovir"
+                ]
+              },
+              {
+                "label": "Placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Generic acyclovir",
+                "description": "400 mg twice-daily oral",
+                "armGroupLabels": [
+                  "Acyclovir"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo",
+                "description": "twice-daily oral",
+                "armGroupLabels": [
+                  "Placebo"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Sequence-verified HIV-transmission from index to partner participant",
+                "timeFrame": "March 2009"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Measure effect of viral load, gender and other factors on HIV transmission",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess adherence to acyclovir suppressive therapy",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effect of twice daily acyclovir on the frequency of genital ulcers",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effect of twice daily acyclovir on plasma HIV viral load",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess effects of twice daily acyclovir on the sexual behaviors",
+                "timeFrame": "March 2009"
+              },
+              {
+                "measure": "Assess host immunologic and virologic determinants of HIV transmission",
+                "timeFrame": "March 2009"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\nPotential index (HIV-infected) participants must meet the following criteria (by self-report, unless otherwise indicated) in order to be eligible for inclusion in the study:\n\n* Of legal age to provide independent informed consent for research per local regulations and guidelines.\n* Able and willing to provide written informed consent to be screened for and to take part in the study. (Note: Index participants who are not willing to provide genital tract specimens for HIV viral load quantitation, but are willing to undergo all other study procedures, will be considered eligible for inclusion in the study.)\n* Part of a heterosexual couple in which one partner meets the study eligibility criteria for index participants and the other partner meets the study eligibility criteria for partner participants. Couples are defined as partners who are sexually active and plan to remain in the relationship for at least one year. Each site will develop appropriate criteria for determining whether a couple is likely to remain in the relationship (i.e., married, duration of partnership, cohabitation, have children).\n* Has had vaginal intercourse with the partner participant at least three times in the last three months.\n* Plans to maintain his/her relationship with the partner participant for the next 24 months.\n* HIV-infected based on positive EIA.\n* HSV-2-seropositive based on the Focus HSV-2 EIA (performed by study staff) with an index ratio of at least 3.5 or if Focus EIA IN 1.1-3.4, confirmed by HSV-2 WB dot-blot performed at the UW.\n* CD4 cell count (performed by study staff) of at least 250 cells/mm3.\n* No history of any clinical AIDS-defining diagnoses.\n* Able and willing to provide adequate locator information for study retention purposes, as defined by local standard operating procedures.\n\nPotential partner (HIV-uninfected at enrollment) participants must meet the following criteria (by self-report, unless otherwise indicated) in order to be eligible for inclusion in the study:\n\n* Of legal age to provide independent informed consent for research per local regulations and guidelines.\n* Able and willing to provide written informed consent to be screened for and to take part in the study.\n* Part of a heterosexual couple in which one partner meets the study eligibility criteria for index participants and the other partner meets the study eligibility criteria for partner participants.\n* Has had vaginal intercourse with the study partner at least three times in the last three months.\n* Plans to maintain his/her relationship with the index participant for the next 24 months.\n* HIV-uninfected based on negative HIV EIA tests.\n* Able and willing to provide adequate locator information for study retention purposes, as defined by local standard operating procedures.\n\nExclusion Criteria:\n\nPotential index (HIV-infected) participants who meet any of the following criteria (by self-report, unless otherwise indicated) will be excluded from the study:\n\n* Current use of combination antiretroviral therapy\n* Known history of adverse reaction to acyclovir.\n* Known history of persistent genital ulcers unresponsive to episodic acyclovir therapy.\n* Known plans to re-locate or travel away from the study site for more than two consecutive months during the next 24 months.\n* Pregnant, based on participant self-report or urine testing performed by study staff. (Note: Self-reported pregnancy is adequate for exclusion from the study. A documented negative test performed by study staff is required for inclusion.)\n\nPotential partner participants who meet any of the following criteria (by self-report, unless otherwise indicated) will be excluded from the study:\n\n* Has had sexual intercourse with a partner other than the index participant in the last two months.\n* Known plans to re-locate or travel away from the study site for more than two consecutive months during the next 24 months.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Connie Celum, MD, MPH",
+                "affiliation": "University of Washington",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Jairam Lingappa, MD, PhD,",
+                "affiliation": "University of Washington",
+                "role": "STUDY_DIRECTOR"
+              },
+              {
+                "name": "Anna Wald, MD, MPH",
+                "affiliation": "University of Washington",
+                "role": "STUDY_CHAIR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Botswana-Harvard Partnership",
+                "city": "Gabarone",
+                "country": "Botswana"
+              },
+              {
+                "facility": "Moi University - Indiana University",
+                "city": "Eldoret",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": 0.52036,
+                  "lon": 35.26993
+                }
+              },
+              {
+                "facility": "Kemri - Ucsf",
+                "city": "Kisumu",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -0.10221,
+                  "lon": 34.76171
+                }
+              },
+              {
+                "facility": "University of Nairobi",
+                "city": "Nairobi",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.28333,
+                  "lon": 36.81667
+                }
+              },
+              {
+                "facility": "Partners Study Thika Site",
+                "city": "Thika",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.03326,
+                  "lon": 37.06933
+                }
+              },
+              {
+                "facility": "Projet San Francisco-Emory University",
+                "city": "Kigali",
+                "country": "Rwanda",
+                "geoPoint": {
+                  "lat": -1.94995,
+                  "lon": 30.05885
+                }
+              },
+              {
+                "facility": "University of Cape Town",
+                "city": "Cape Town",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -33.92584,
+                  "lon": 18.42322
+                }
+              },
+              {
+                "facility": "Perinatal HIV Research Unit, University of Witswatersrand",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -26.20227,
+                  "lon": 28.04363
+                }
+              },
+              {
+                "facility": "Reproductive Health and HIV Research Unit",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -26.20227,
+                  "lon": 28.04363
+                }
+              },
+              {
+                "facility": "Kilimanjaro Christian Medical College-Harvard University",
+                "city": "Moshi",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -3.35,
+                  "lon": 37.33333
+                }
+              },
+              {
+                "facility": "Mulago Hospital - IDI",
+                "city": "Kampala",
+                "country": "Uganda",
+                "geoPoint": {
+                  "lat": 0.31628,
+                  "lon": 32.58219
+                }
+              },
+              {
+                "facility": "Zambia-Emory HIV Research Project",
+                "city": "Lusaka",
+                "country": "Zambia",
+                "geoPoint": {
+                  "lat": -15.40669,
+                  "lon": 28.28713
+                }
+              },
+              {
+                "facility": "Zambia-Emory HIV Research Project",
+                "city": "Ndola/Kitwe",
+                "country": "Zambia"
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "29108000",
+                "type": "DERIVED",
+                "citation": "Mackelprang RD, Bamshad MJ, Chong JX, Hou X, Buckingham KJ, Shively K, deBruyn G, Mugo NR, Mullins JI, McElrath MJ, Baeten JM, Celum C, Emond MJ, Lingappa JR; Partners in Prevention HSV/HIV Transmission Study and the Partners PrEP Study Teams. Whole genome sequencing of extreme phenotypes identifies variants in CD101 and UBE2V1 associated with increased risk of sexually acquired HIV-1. PLoS Pathog. 2017 Nov 6;13(11):e1006703. doi: 10.1371/journal.ppat.1006703. eCollection 2017 Nov."
+              },
+              {
+                "pmid": "23130818",
+                "type": "DERIVED",
+                "citation": "de Bruyn G, Magaret A, Baeten JM, Lingappa JR, Ndase P, Celum C, Wald A; Partners in Prevention HSV/HIV Transmission Study Team. Mortality in members of HIV-1 serodiscordant couples in Africa and implications for antiretroviral therapy initiation: results of analyses from a multicenter randomized trial. BMC Infect Dis. 2012 Oct 30;12:277. doi: 10.1186/1471-2334-12-277."
+              },
+              {
+                "pmid": "23061422",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Thomas KK, Hughes JP, Baeten JM, Wald A, Farquhar C, de Bruyn G, Fife KH, Campbell MS, Kapiga S, Mullins JI, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Partner characteristics predicting HIV-1 set point in sexually acquired HIV-1 among African seroconverters. AIDS Res Hum Retroviruses. 2013 Jan;29(1):164-71. doi: 10.1089/AID.2012.0206."
+              },
+              {
+                "pmid": "22745608",
+                "type": "DERIVED",
+                "citation": "Cohen CR, Lingappa JR, Baeten JM, Ngayo MO, Spiegel CA, Hong T, Donnell D, Celum C, Kapiga S, Delany S, Bukusi EA. Bacterial vaginosis associated with increased risk of female-to-male HIV-1 transmission: a prospective cohort analysis among African couples. PLoS Med. 2012;9(6):e1001251. doi: 10.1371/journal.pmed.1001251. Epub 2012 Jun 26."
+              },
+              {
+                "pmid": "21406077",
+                "type": "DERIVED",
+                "citation": "Mujugira A, Magaret AS, Baeten JM, Celum C, Lingappa J. Risk Factors for HSV-2 Infection among Sexual Partners of HSV-2/HIV-1 Co-Infected Persons. BMC Res Notes. 2011 Mar 15;4:64. doi: 10.1186/1756-0500-4-64."
+              },
+              {
+                "pmid": "21399681",
+                "type": "DERIVED",
+                "citation": "Campbell MS, Mullins JI, Hughes JP, Celum C, Wong KG, Raugi DN, Sorensen S, Stoddard JN, Zhao H, Deng W, Kahle E, Panteleeff D, Baeten JM, McCutchan FE, Albert J, Leitner T, Wald A, Corey L, Lingappa JR; Partners in Prevention HSV/HIV Transmission Study Team. Viral linkage in HIV-1 seroconverters and their partners in an HIV-1 prevention clinical trial. PLoS One. 2011 Mar 2;6(3):e16986. doi: 10.1371/journal.pone.0016986."
+              },
+              {
+                "pmid": "20153888",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Baeten JM, Wald A, Hughes JP, Thomas KK, Mujugira A, Mugo N, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife KH, de Bruyn G, Gray GE, McIntyre JA, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Magaret AS, Wang RS, Kidoguchi L, Barnes L, Ridzon R, Corey L, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Daily acyclovir for HIV-1 disease progression in people dually infected with HIV-1 and herpes simplex virus type 2: a randomised placebo-controlled trial. Lancet. 2010 Mar 6;375(9717):824-33. doi: 10.1016/S0140-6736(09)62038-9. Epub 2010 Feb 12."
+              },
+              {
+                "pmid": "20089951",
+                "type": "DERIVED",
+                "citation": "Celum C, Wald A, Lingappa JR, Magaret AS, Wang RS, Mugo N, Mujugira A, Baeten JM, Mullins JI, Hughes JP, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife KH, de Bruyn G, Gray GE, McIntyre JA, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Stevens W, Campbell MS, Thomas KK, Coombs RW, Morrow R, Whittington WL, McElrath MJ, Barnes L, Ridzon R, Corey L; Partners in Prevention HSV/HIV Transmission Study Team. Acyclovir and transmission of HIV-1 from persons infected with HIV-1 and HSV-2. N Engl J Med. 2010 Feb 4;362(5):427-39. doi: 10.1056/NEJMoa0904849. Epub 2010 Jan 20."
+              },
+              {
+                "pmid": "20042848",
+                "type": "DERIVED",
+                "citation": "Baeten JM, Donnell D, Kapiga SH, Ronald A, John-Stewart G, Inambao M, Manongi R, Vwalika B, Celum C; Partners in Prevention HSV/HIV Transmission Study Team. Male circumcision and risk of male-to-female HIV-1 transmission: a multinational prospective study in African HIV-1-serodiscordant couples. AIDS. 2010 Mar 13;24(5):737-44. doi: 10.1097/QAD.0b013e32833616e0."
+              },
+              {
+                "pmid": "20011596",
+                "type": "DERIVED",
+                "citation": "Guthrie BL, Kiarie JN, Morrison S, John-Stewart GC, Kinuthia J, Whittington WL, Farquhar C. Sexually transmitted infections among HIV-1-discordant couples. PLoS One. 2009 Dec 14;4(12):e8276. doi: 10.1371/journal.pone.0008276."
+              },
+              {
+                "pmid": "19404392",
+                "type": "DERIVED",
+                "citation": "Lingappa JR, Kahle E, Mugo N, Mujugira A, Magaret A, Baeten J, Bukusi EA, Cohen CR, Katabira E, Ronald A, Kiarie J, Farquhar C, Stewart GJ, Makhema J, Essex M, Were E, Fife K, Debruyn G, Gray G, McIntyre J, Manongi R, Kapiga S, Coetzee D, Allen S, Inambao M, Kayitenkore K, Karita E, Kanweka W, Delany S, Rees H, Vwalika B, Coombs RW, Morrow R, Whittington W, Corey L, Wald A, Celum C; Partners HSV-2/HIV-1 Transmission Study Team. Characteristics of HIV-1 discordant couples enrolled in a trial of HSV-2 suppression to reduce HIV-1 transmission: the partners study. PLoS One. 2009;4(4):e5272. doi: 10.1371/journal.pone.0005272. Epub 2009 Apr 30."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D015658",
+                "term": "HIV Infections"
+              },
+              {
+                "id": "D006558",
+                "term": "Herpes Genitalis"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D003075",
+                "term": "Coitus"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000086982",
+                "term": "Blood-Borne Infections"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D016180",
+                "term": "Lentivirus Infections"
+              },
+              {
+                "id": "D012192",
+                "term": "Retroviridae Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D007153",
+                "term": "Immunologic Deficiency Syndromes"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D006561",
+                "term": "Herpes Simplex"
+              },
+              {
+                "id": "D006566",
+                "term": "Herpesviridae Infections"
+              },
+              {
+                "id": "D004266",
+                "term": "DNA Virus Infections"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              },
+              {
+                "id": "D005832",
+                "term": "Genital Diseases, Male"
+              },
+              {
+                "id": "D052801",
+                "term": "Male Urogenital Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D012725",
+                "term": "Sexual Behavior"
+              },
+              {
+                "id": "D001519",
+                "term": "Behavior"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

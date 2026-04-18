@@ -1,0 +1,1365 @@
+{
+  "query": "malaria malaria clinical question kenya kenya turkana",
+  "selected_query": "malaria malaria clinical question kenya",
+  "attempted_queries": [
+    {
+      "query": "malaria malaria clinical question kenya kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "(malaria AND epidemiology) AND (Kenya AND Turkana) AND (prevalence OR incidence) AND (systematic review OR meta-analysis)",
+      "count": 0
+    },
+    {
+      "query": "(malaria AND burden) AND (Kenya AND Turkana) AND (epidemiological studies OR observational studies) AND (evidence synthesis OR review)",
+      "count": 0
+    },
+    {
+      "query": "(malaria AND Kenya) AND (Turkana AND disease mapping) AND (spatial analysis OR geographic information systems) AND (epidemiological studies OR observational studies)",
+      "count": 0
+    },
+    {
+      "query": "(malaria AND Turkana) AND (Kenya AND health outcomes) AND (outcome research OR health services research) AND (systematic review OR meta-analysis)",
+      "count": 0
+    },
+    {
+      "query": "malaria malaria clinical question kenya",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38583454",
+    "37068901",
+    "36803858",
+    "29566732",
+    "17559638",
+    "24958707",
+    "8235751",
+    "17565676",
+    "36943831",
+    "20530796",
+    "2100881",
+    "37604474",
+    "15984377",
+    "23418427",
+    "7956864",
+    "22175693",
+    "17581027",
+    "37391703",
+    "37612716",
+    "30926893",
+    "31285980",
+    "35725411",
+    "35300707",
+    "9337001",
+    "16167756",
+    "29643434",
+    "39245314",
+    "33884362",
+    "37662206",
+    "16638153"
+  ],
+  "records": [
+    {
+      "pmid": "38583454",
+      "title": "Feasibility, safety, and impact of the RTS,S/AS01",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The RTS,S/AS01",
+        "In this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.",
+        "By April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).",
+        "In the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.",
+        "Gavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid."
+      ],
+      "abstract": "The RTS,S/AS01\n\nIn this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.\n\nBy April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).\n\nIn the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.\n\nGavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid.",
+      "evidence_sentences": [
+        "Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi.",
+        "Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]).",
+        "Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kwaku Poku Asante",
+        "Don P Mathanga",
+        "Paul Milligan",
+        "Samuel Akech",
+        "Abraham Oduro",
+        "Victor Mwapasa",
+        "Kerryn A Moore",
+        "Titus K Kwambai",
+        "Mary J Hamel",
+        "Thomas Gyan",
+        "Nelli Westercamp",
+        "Atupele Kapito-Tembo",
+        "Patricia Njuguna",
+        "Daniel Ansong",
+        "Simon Kariuki",
+        "Tisungane Mvalo",
+        "Paul Snell",
+        "David Schellenberg",
+        "Paul Welega",
+        "Lucas Otieno",
+        "Alfred Chimala",
+        "Edwin A Afari",
+        "Philip Bejon",
+        "Kenneth Maleta",
+        "Tsiri Agbenyega",
+        "Robert W Snow",
+        "Madaliso Zulu",
+        "Jobiba Chinkhumba",
+        "Aaron M Samuels",
+        "Malaria Vaccine Programme Evaluation Partners"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38583454/"
+    },
+    {
+      "pmid": "37068901",
+      "title": "Clinical features, immunological interactions and household determinants of visceral leishmaniasis and malaria coinfections in West Pokot, Kenya: protocol for an observational study.",
+      "journal": "BMJ open",
+      "abstract_sections": [
+        "Visceral leishmaniasis (VL) and malaria are two deadly parasitic diseases that coexist in West Pokot County, Kenya. The local population is at considerable risk of coinfection with VL and malaria; however, few studies have described the clinical implications of this comorbidity. Questions remain regarding the immune responses responsible for possible predisposing or protective effects. Moreover, characterisation of environmental and household risk factors for co-acquiring VL and malaria is warranted to increase awareness and guide implementation of targeted control strategies. This protocol intends to address these knowledge gaps concerning VL-malaria coinfections.",
+        "This observational research project will have a multimethod approach, starting with a cross-sectional study at Kacheliba Sub-County Hospital in West Pokot, Kenya. Patients with laboratory confirmation of a VL and/or malaria infection will be clinically assessed and symptomatology of monoinfections and coinfections will be compared. Second, a questionnaire will be addressed to all included patients and to healthy controls in local communities. This case-control study will aim to describe household and environmental determinants associated with VL-malaria coinfection. Lastly, blood samples will be collected from a small cohort of VL and malaria monoinfected and coinfected patients during treatment of their infection(s), and from healthy controls and asymptomatic VL and malaria cases recruited in local communities. These specimens will be used for serum cytokine measurements and molecular quantitation of",
+        "Ethical approval was obtained from the Ethics and Scientific Research Committee of Amref Health Africa. The study findings will be presented at international conferences and published in open-access, peer-reviewed journals.",
+        "ISRCTN Registry (ISRCTN15023306)."
+      ],
+      "abstract": "Visceral leishmaniasis (VL) and malaria are two deadly parasitic diseases that coexist in West Pokot County, Kenya. The local population is at considerable risk of coinfection with VL and malaria; however, few studies have described the clinical implications of this comorbidity. Questions remain regarding the immune responses responsible for possible predisposing or protective effects. Moreover, characterisation of environmental and household risk factors for co-acquiring VL and malaria is warranted to increase awareness and guide implementation of targeted control strategies. This protocol intends to address these knowledge gaps concerning VL-malaria coinfections.\n\nThis observational research project will have a multimethod approach, starting with a cross-sectional study at Kacheliba Sub-County Hospital in West Pokot, Kenya. Patients with laboratory confirmation of a VL and/or malaria infection will be clinically assessed and symptomatology of monoinfections and coinfections will be compared. Second, a questionnaire will be addressed to all included patients and to healthy controls in local communities. This case-control study will aim to describe household and environmental determinants associated with VL-malaria coinfection. Lastly, blood samples will be collected from a small cohort of VL and malaria monoinfected and coinfected patients during treatment of their infection(s), and from healthy controls and asymptomatic VL and malaria cases recruited in local communities. These specimens will be used for serum cytokine measurements and molecular quantitation of\n\nEthical approval was obtained from the Ethics and Scientific Research Committee of Amref Health Africa. The study findings will be presented at international conferences and published in open-access, peer-reviewed journals.\n\nISRCTN Registry (ISRCTN15023306).",
+      "evidence_sentences": [
+        "Patients with laboratory confirmation of a VL and/or malaria infection will be clinically assessed and symptomatology of monoinfections and coinfections will be compared.",
+        "The local population is at considerable risk of coinfection with VL and malaria; however, few studies have described the clinical implications of this comorbidity.",
+        "Visceral leishmaniasis (VL) and malaria are two deadly parasitic diseases that coexist in West Pokot County, Kenya."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Norbert van Dijk",
+        "Jane Carter",
+        "Wyckliff Omondi",
+        "Petra Mens",
+        "Henk Schallig"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37068901/"
+    },
+    {
+      "pmid": "36803858",
+      "title": "Malaria in pregnancy (MiP) studies assessing the clinical performance of highly sensitive rapid diagnostic tests (HS-RDT) for Plasmodium falciparum detection.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Rapid diagnostic tests (RDTs) are effective tools to diagnose and inform the treatment of malaria in adults and children. The recent development of a highly sensitive rapid diagnostic test (HS-RDT) for Plasmodium falciparum has prompted questions over whether it could improve the diagnosis of malaria in pregnancy and pregnancy outcomes in malaria endemic areas.",
+        "This landscape review collates studies addressing the clinical performance of the HS-RDT. Thirteen studies were identified comparing the HS-RDT and conventional RDT (co-RDT) to molecular methods to detect malaria in pregnancy. Using data from five completed studies, the association of epidemiological and pregnancy-related factors on the sensitivity of HS-RDT, and comparisons with co-RDT were investigated. The studies were conducted in 4 countries over a range of transmission intensities in largely asymptomatic women.",
+        "Sensitivity of both RDTs varied widely (HS-RDT range 19.6 to 85.7%, co-RDT range 22.8 to 82.8% compared to molecular testing) yet HS-RDT detected individuals with similar parasite densities across all the studies including different geographies and transmission areas [geometric mean parasitaemia around 100 parasites per µL (p/µL)]. HS-RDTs were capable of detecting low-density parasitaemias and in one study detected around 30% of infections with parasite densities of 0-2 p/µL compared to the co-RDT in the same study which detected around 15%.",
+        "The HS-RDT has a slightly higher analytical sensitivity to detect malaria infections in pregnancy than co-RDT but this mostly translates to only fractional and not statistically significant improvement in clinical performance by gravidity, trimester, geography or transmission intensity. The analysis presented here highlights the need for larger and more studies to evaluate incremental improvements in RDTs. The HS-RDT could be used in any situation where co-RDT are currently used for P. falciparum diagnosis, if storage conditions can be adhered to."
+      ],
+      "abstract": "Rapid diagnostic tests (RDTs) are effective tools to diagnose and inform the treatment of malaria in adults and children. The recent development of a highly sensitive rapid diagnostic test (HS-RDT) for Plasmodium falciparum has prompted questions over whether it could improve the diagnosis of malaria in pregnancy and pregnancy outcomes in malaria endemic areas.\n\nThis landscape review collates studies addressing the clinical performance of the HS-RDT. Thirteen studies were identified comparing the HS-RDT and conventional RDT (co-RDT) to molecular methods to detect malaria in pregnancy. Using data from five completed studies, the association of epidemiological and pregnancy-related factors on the sensitivity of HS-RDT, and comparisons with co-RDT were investigated. The studies were conducted in 4 countries over a range of transmission intensities in largely asymptomatic women.\n\nSensitivity of both RDTs varied widely (HS-RDT range 19.6 to 85.7%, co-RDT range 22.8 to 82.8% compared to molecular testing) yet HS-RDT detected individuals with similar parasite densities across all the studies including different geographies and transmission areas [geometric mean parasitaemia around 100 parasites per µL (p/µL)]. HS-RDTs were capable of detecting low-density parasitaemias and in one study detected around 30% of infections with parasite densities of 0-2 p/µL compared to the co-RDT in the same study which detected around 15%.\n\nThe HS-RDT has a slightly higher analytical sensitivity to detect malaria infections in pregnancy than co-RDT but this mostly translates to only fractional and not statistically significant improvement in clinical performance by gravidity, trimester, geography or transmission intensity. The analysis presented here highlights the need for larger and more studies to evaluate incremental improvements in RDTs. The HS-RDT could be used in any situation where co-RDT are currently used for P. falciparum diagnosis, if storage conditions can be adhered to.",
+      "evidence_sentences": [
+        "The HS-RDT has a slightly higher analytical sensitivity to detect malaria infections in pregnancy than co-RDT but this mostly translates to only fractional and not statistically significant improvement in clinical performance by gravidity, trimester, geography or transmission intensity.",
+        "The recent development of a highly sensitive rapid diagnostic test (HS-RDT) for Plasmodium falciparum has prompted questions over whether it could improve the diagnosis of malaria in pregnancy and pregnancy outcomes in malaria endemic areas.",
+        "Thirteen studies were identified comparing the HS-RDT and conventional RDT (co-RDT) to molecular methods to detect malaria in pregnancy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Xavier C Ding",
+        "Sandra Incardona",
+        "Elisa Serra-Casas",
+        "Sarah C Charnaud",
+        "Hannah C Slater",
+        "Gonzalo J Domingo",
+        "Emily R Adams",
+        "Feiko O Ter Kuile",
+        "Aaron M Samuels",
+        "Simon Kariuki",
+        "Sabine Dittrich"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36803858/"
+    },
+    {
+      "pmid": "29566732",
+      "title": "Multiple-level stakeholder engagement in malaria clinical trials: addressing the challenges of conducting clinical research in resource-limited settings.",
+      "journal": "Trials",
+      "abstract_sections": [
+        "Multinational clinical trials are logistically complex and require close coordination between various stakeholders. They must comply with global clinical standards and are accountable to multiple regulatory and ethical bodies. In resource-limited settings, it is challenging to understand how to apply global clinical standards to international, national, and local factors in clinical trials, making multiple-level stakeholder engagement an important element in the successful conduct of these clinical trials.",
+        "During the planning and implementation of a large multinational clinical trial for intermittent preventive treatment of malaria in pregnancy in resource-limited areas of sub-Saharan Africa, we encountered numerous challenges, which required implementation of a range of engagement measures to ensure compliance with global clinical and regulatory standards. These challenges included coordination with ongoing global malaria efforts, heterogeneity in national regulatory structures, sub-optimal healthcare infrastructure, local practices and beliefs, and perspectives that view healthcare providers with undue trust or suspicion. In addition to engagement with international bodies, such as the World Health Organization, the Malaria in Pregnancy Consortium, the Steve Biko Centre for Bioethics, and the London School of Hygiene and Tropical Medicine, in order to address the challenges just described, Pfizer Inc. and Medicines for Malaria Venture (the \"Sponsoring Entities\" for these studies) and investigators liaised with national- and district-level stakeholders such as health ministers and regional/local community health workers. Community engagement measures undertaken by investigators included local meetings with community leaders to explain the research aims and answer questions and concerns voiced by the community. The investigators also engaged with family members of prospective trial participants in order to be sensitive to local practices and beliefs.",
+        "Engagement with key stakeholders at international and national levels enabled the Sponsoring Entities to address challenges by aligning the study design with the requirements of health and regulatory agencies and to understand and address healthcare infrastructure needs prior to trial initiation. Local stakeholder engagement, including community members, study participants, and family enabled the investigators to address challenges by ensuring that study design and conduct were adapted to local considerations and ensuring accurate information about the study aims was shared with the public.",
+        "ClinicalTrials.gov, ID: NCT01103063 . Registered on 7 April 2010."
+      ],
+      "abstract": "Multinational clinical trials are logistically complex and require close coordination between various stakeholders. They must comply with global clinical standards and are accountable to multiple regulatory and ethical bodies. In resource-limited settings, it is challenging to understand how to apply global clinical standards to international, national, and local factors in clinical trials, making multiple-level stakeholder engagement an important element in the successful conduct of these clinical trials.\n\nDuring the planning and implementation of a large multinational clinical trial for intermittent preventive treatment of malaria in pregnancy in resource-limited areas of sub-Saharan Africa, we encountered numerous challenges, which required implementation of a range of engagement measures to ensure compliance with global clinical and regulatory standards. These challenges included coordination with ongoing global malaria efforts, heterogeneity in national regulatory structures, sub-optimal healthcare infrastructure, local practices and beliefs, and perspectives that view healthcare providers with undue trust or suspicion. In addition to engagement with international bodies, such as the World Health Organization, the Malaria in Pregnancy Consortium, the Steve Biko Centre for Bioethics, and the London School of Hygiene and Tropical Medicine, in order to address the challenges just described, Pfizer Inc. and Medicines for Malaria Venture (the \"Sponsoring Entities\" for these studies) and investigators liaised with national- and district-level stakeholders such as health ministers and regional/local community health workers. Community engagement measures undertaken by investigators included local meetings with community leaders to explain the research aims and answer questions and concerns voiced by the community. The investigators also engaged with family members of prospective trial participants in order to be sensitive to local practices and beliefs.\n\nEngagement with key stakeholders at international and national levels enabled the Sponsoring Entities to address challenges by aligning the study design with the requirements of health and regulatory agencies and to understand and address healthcare infrastructure needs prior to trial initiation. Local stakeholder engagement, including community members, study participants, and family enabled the investigators to address challenges by ensuring that study design and conduct were adapted to local considerations and ensuring accurate information about the study aims was shared with the public.\n\nClinicalTrials.gov, ID: NCT01103063 . Registered on 7 April 2010.",
+      "evidence_sentences": [
+        "During the planning and implementation of a large multinational clinical trial for intermittent preventive treatment of malaria in pregnancy in resource-limited areas of sub-Saharan Africa, we encountered numerous challenges, which required implementation of a range of engagement measures to ensure compliance with global clinical and regulatory standards.",
+        "In resource-limited settings, it is challenging to understand how to apply global clinical standards to international, national, and local factors in clinical trials, making multiple-level stakeholder engagement an important element in the successful conduct of these clinical trials.",
+        "In addition to engagement with international bodies, such as the World Health Organization, the Malaria in Pregnancy Consortium, the Steve Biko Centre for Bioethics, and the London School of Hygiene and Tropical Medicine, in order to address the challenges just described, Pfizer Inc."
+      ],
+      "publication_types": [
+        "Letter"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "George Mtove",
+        "Joshua Kimani",
+        "William Kisinza",
+        "Geofrey Makenga",
+        "Peter Mangesho",
+        "Stephan Duparc",
+        "Miriam Nakalembe",
+        "Kamija S Phiri",
+        "Russell Orrico",
+        "Ricardo Rojo",
+        "Pol Vandenbroucke"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29566732/"
+    },
+    {
+      "pmid": "17559638",
+      "title": "Effect of meteorological factors on clinical malaria risk among children: an assessment using village-based meteorological stations and community-based parasitological survey.",
+      "journal": "BMC public health",
+      "abstract_sections": [
+        "Temperature, rainfall and humidity have been widely associated with the dynamics of malaria vector population and, therefore, with spread of the disease. However, at the local scale, there is a lack of a systematic quantification of the effect of these factors on malaria transmission. Further, most attempts to quantify this effect are based on proxy meteorological data acquired from satellites or interpolated from a different scale. This has led to controversies about the contribution of climate change to malaria transmission risk among others. Our study addresses the original question of relating meteorological factors measured at the local scale with malaria infection, using data collected at the same time and scale.",
+        "676 children (6-59 months) were selected randomly from three ecologically different sites (urban and rural). During weekly home visits between December 1, 2003, and November 30, 2004, fieldworkers tested children with fever for clinical malaria. They also collected data on possible confounders monthly. Digital meteorological stations measured ambient temperature, humidity, and rainfall in each site. Logistic regression was used to estimate the risk of clinical malaria given the previous month's meteorological conditions.",
+        "The overall incidence of clinical malaria over the study period was 1.07 episodes per child. Meteorological factors were associated with clinical malaria with mean temperature having the largest effect.",
+        "Temperature was the best predictor for clinical malaria among children under five. A systematic measurement of local temperature through ground stations and integration of such data in the routine health information system could support assessment of malaria transmission risk at the district level for well-targeted control efforts."
+      ],
+      "abstract": "Temperature, rainfall and humidity have been widely associated with the dynamics of malaria vector population and, therefore, with spread of the disease. However, at the local scale, there is a lack of a systematic quantification of the effect of these factors on malaria transmission. Further, most attempts to quantify this effect are based on proxy meteorological data acquired from satellites or interpolated from a different scale. This has led to controversies about the contribution of climate change to malaria transmission risk among others. Our study addresses the original question of relating meteorological factors measured at the local scale with malaria infection, using data collected at the same time and scale.\n\n676 children (6-59 months) were selected randomly from three ecologically different sites (urban and rural). During weekly home visits between December 1, 2003, and November 30, 2004, fieldworkers tested children with fever for clinical malaria. They also collected data on possible confounders monthly. Digital meteorological stations measured ambient temperature, humidity, and rainfall in each site. Logistic regression was used to estimate the risk of clinical malaria given the previous month's meteorological conditions.\n\nThe overall incidence of clinical malaria over the study period was 1.07 episodes per child. Meteorological factors were associated with clinical malaria with mean temperature having the largest effect.\n\nTemperature was the best predictor for clinical malaria among children under five. A systematic measurement of local temperature through ground stations and integration of such data in the routine health information system could support assessment of malaria transmission risk at the district level for well-targeted control efforts.",
+      "evidence_sentences": [
+        "Our study addresses the original question of relating meteorological factors measured at the local scale with malaria infection, using data collected at the same time and scale.",
+        "During weekly home visits between December 1, 2003, and November 30, 2004, fieldworkers tested children with fever for clinical malaria.",
+        "Logistic regression was used to estimate the risk of clinical malaria given the previous month's meteorological conditions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Yazoumé Yé",
+        "Valérie R Louis",
+        "Séraphin Simboro",
+        "Rainer Sauerborn"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17559638/"
+    },
+    {
+      "pmid": "24958707",
+      "title": "Changes in antigen-specific cytokine and chemokine responses to Plasmodium falciparum antigens in a highland area of Kenya after a prolonged absence of malaria exposure.",
+      "journal": "Infection and immunity",
+      "abstract_sections": [
+        "Individuals naturally exposed to Plasmodium falciparum lose clinical immunity after a prolonged lack of exposure. P. falciparum antigen-specific cytokine responses have been associated with protection from clinical malaria, but the longevity of P. falciparum antigen-specific cytokine responses in the absence of exposure is not well characterized. A highland area of Kenya with low and unstable malaria transmission provided an opportunity to study this question. The levels of antigen-specific cytokines and chemokines associated in previous studies with protection from clinical malaria (gamma interferon [IFN-γ], interleukin-10 [IL-10], and tumor necrosis factor alpha [TNF-α]), with increased risk of clinical malaria (IL-6), or with pathogenesis of severe disease in malaria (IL-5 and RANTES) were assessed by cytometric bead assay in April 2008, October 2008, and April 2009 in 100 children and adults. During the 1-year study period, none had an episode of clinical P. falciparum malaria. Two patterns of cytokine responses emerged, with some variation by antigen: a decrease at 6 months (IFN-γ and IL-5) or at both 6 and 12 months (IL-10 and TNF-α) or no change over time (IL-6 and RANTES). These findings document that P. falciparum antigen-specific cytokine responses associated in prior studies with protection from malaria (IFN-γ, TNF-α, and IL-10) decrease significantly in the absence of P. falciparum exposure, whereas those associated with increased risk of malaria (IL-6) do not. The study findings provide a strong rationale for future studies of antigen-specific IFN-γ, TNF-α, and IL-10 responses as biomarkers of increased population-level susceptibility to malaria after prolonged lack of P. falciparum exposure."
+      ],
+      "abstract": "Individuals naturally exposed to Plasmodium falciparum lose clinical immunity after a prolonged lack of exposure. P. falciparum antigen-specific cytokine responses have been associated with protection from clinical malaria, but the longevity of P. falciparum antigen-specific cytokine responses in the absence of exposure is not well characterized. A highland area of Kenya with low and unstable malaria transmission provided an opportunity to study this question. The levels of antigen-specific cytokines and chemokines associated in previous studies with protection from clinical malaria (gamma interferon [IFN-γ], interleukin-10 [IL-10], and tumor necrosis factor alpha [TNF-α]), with increased risk of clinical malaria (IL-6), or with pathogenesis of severe disease in malaria (IL-5 and RANTES) were assessed by cytometric bead assay in April 2008, October 2008, and April 2009 in 100 children and adults. During the 1-year study period, none had an episode of clinical P. falciparum malaria. Two patterns of cytokine responses emerged, with some variation by antigen: a decrease at 6 months (IFN-γ and IL-5) or at both 6 and 12 months (IL-10 and TNF-α) or no change over time (IL-6 and RANTES). These findings document that P. falciparum antigen-specific cytokine responses associated in prior studies with protection from malaria (IFN-γ, TNF-α, and IL-10) decrease significantly in the absence of P. falciparum exposure, whereas those associated with increased risk of malaria (IL-6) do not. The study findings provide a strong rationale for future studies of antigen-specific IFN-γ, TNF-α, and IL-10 responses as biomarkers of increased population-level susceptibility to malaria after prolonged lack of P. falciparum exposure.",
+      "evidence_sentences": [
+        "A highland area of Kenya with low and unstable malaria transmission provided an opportunity to study this question.",
+        "The levels of antigen-specific cytokines and chemokines associated in previous studies with protection from clinical malaria (gamma interferon [IFN-γ], interleukin-10 [IL-10], and tumor necrosis factor alpha [TNF-α]), with increased risk of clinical malaria (IL-6), or with pathogenesis of severe disease in malaria (IL-5 and RANTES) were assessed by cytometric bead assay in April 2008, October 2008, and April 2009 in 100 children and adults.",
+        "falciparum antigen-specific cytokine responses have been associated with protection from clinical malaria, but the longevity of P."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Lyticia A Ochola",
+        "Cyrus Ayieko",
+        "Lily Kisia",
+        "Ng'wena G Magak",
+        "Estela Shabani",
+        "Collins Ouma",
+        "Chandy C John"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24958707/"
+    },
+    {
+      "pmid": "8235751",
+      "title": "Agricultural land use patterns and malaria conditions in Kenya.",
+      "journal": "Social science & medicine (1982)",
+      "abstract_sections": [
+        "This paper studies the problem of malaria control in irrigation and non-irrigation areas in Kenya. Empirical results show that in both areas, households' level of awareness of malaria as a health problem, including its cause, was very high. However, attempts to trace the direct effects of malaria upon income or upon agricultural production were not statistically important. This does not imply that malaria has no consequence on household welfare. It is possible that the model equations were mis-specified--aggregate variables (total family size, total family income) and failure to quantify land in the production relationships may have contributed to these results. In addition, poor separation of malaria as a disease, from malaria as an infection, may have underestimated the effect of the disease on production. Thirdly, labour substitution (hiring or within-family substitution) was not measured in this early study, but was taken into account in subsequent research. Finally, labour requirements in the annual crop production schedules and the co-relation between these labour requirements and the pattern of adult morbidity were not longitudinally monitored. Cross-section data would bias the findings, particularly in those areas where the peak transmission season is short, where the crop grown does not require major labour input during this transmission season, and where acquisition of immunity would reduce the clinical impact of malaria upon adult labour. These vulnerabilities in the specification of the model and the data collected, probably affect the results obtained. Our empirical work raises a number of interesting and important questions which should be taken into account in future research."
+      ],
+      "abstract": "This paper studies the problem of malaria control in irrigation and non-irrigation areas in Kenya. Empirical results show that in both areas, households' level of awareness of malaria as a health problem, including its cause, was very high. However, attempts to trace the direct effects of malaria upon income or upon agricultural production were not statistically important. This does not imply that malaria has no consequence on household welfare. It is possible that the model equations were mis-specified--aggregate variables (total family size, total family income) and failure to quantify land in the production relationships may have contributed to these results. In addition, poor separation of malaria as a disease, from malaria as an infection, may have underestimated the effect of the disease on production. Thirdly, labour substitution (hiring or within-family substitution) was not measured in this early study, but was taken into account in subsequent research. Finally, labour requirements in the annual crop production schedules and the co-relation between these labour requirements and the pattern of adult morbidity were not longitudinally monitored. Cross-section data would bias the findings, particularly in those areas where the peak transmission season is short, where the crop grown does not require major labour input during this transmission season, and where acquisition of immunity would reduce the clinical impact of malaria upon adult labour. These vulnerabilities in the specification of the model and the data collected, probably affect the results obtained. Our empirical work raises a number of interesting and important questions which should be taken into account in future research.",
+      "evidence_sentences": [
+        "Cross-section data would bias the findings, particularly in those areas where the peak transmission season is short, where the crop grown does not require major labour input during this transmission season, and where acquisition of immunity would reduce the clinical impact of malaria upon adult labour.",
+        "This paper studies the problem of malaria control in irrigation and non-irrigation areas in Kenya.",
+        "In addition, poor separation of malaria as a disease, from malaria as an infection, may have underestimated the effect of the disease on production."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "J K Wang'ombe",
+        "G M Mwabu"
+      ],
+      "year": "1993",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/8235751/"
+    },
+    {
+      "pmid": "17565676",
+      "title": "Establishing a malaria diagnostics centre of excellence in Kisumu, Kenya.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria microscopy, while the gold standard for malaria diagnosis, has limitations. Efficacy estimates in drug and vaccine malaria trials are very sensitive to small errors in microscopy endpoints. This fact led to the establishment of a Malaria Diagnostics Centre of Excellence in Kisumu, Kenya. The primary objective was to ensure valid clinical trial and diagnostic test evaluations. Key secondary objectives were technology transfer to host countries, establishment of partnerships, and training of clinical microscopists.",
+        "A twelve-day \"long\" and a four-day \"short\" training course consisting of supervised laboratory practicals, lectures, group discussions, demonstrations, and take home assignments were developed. Well characterized slides were developed and training materials iteratively improved. Objective pre- and post-course evaluations consisted of 30 slides (19 negative, 11 positive) with a density range of 50-660 parasites/mul, a written examination (65 questions), a photographic image examination (30 images of artifacts and species specific characteristics), and a parasite counting examination.",
+        "To date, 209 microscopists have participated from 11 countries. Seventy-seven experienced microscopists participated in the \"long\" courses, including 47 research microscopists. Sensitivity improved by a mean of 14% (CI 9-19%) from 77% baseline (CI 73-81 %), while specificity improved by a mean of 17% (CI 11-23%) from 76% (CI 70-82%) baseline. Twenty-three microscopists who had been selected for a four-day refresher course showed continued improvement with a mean final sensitivity of 95% (CI 91-98%) and specificity of 97% (CI 95-100%). Only 9% of those taking the pre-test in the \"long\" course achieved a 90% sensitivity and 95% specificity, which increased to 61% of those completing the \"short\" course. All measures of performance improved substantially across each of the five organization types and in each course offered.",
+        "The data clearly illustrated that false positive and negative malaria smears are a serious problem, even with research microscopists. Training dramatically improved performance. Quality microscopy can be provided by the Centre of Excellence concept. This concept can be extended to other diagnostics of public health importance, and comprehensive disease control strategies."
+      ],
+      "abstract": "Malaria microscopy, while the gold standard for malaria diagnosis, has limitations. Efficacy estimates in drug and vaccine malaria trials are very sensitive to small errors in microscopy endpoints. This fact led to the establishment of a Malaria Diagnostics Centre of Excellence in Kisumu, Kenya. The primary objective was to ensure valid clinical trial and diagnostic test evaluations. Key secondary objectives were technology transfer to host countries, establishment of partnerships, and training of clinical microscopists.\n\nA twelve-day \"long\" and a four-day \"short\" training course consisting of supervised laboratory practicals, lectures, group discussions, demonstrations, and take home assignments were developed. Well characterized slides were developed and training materials iteratively improved. Objective pre- and post-course evaluations consisted of 30 slides (19 negative, 11 positive) with a density range of 50-660 parasites/mul, a written examination (65 questions), a photographic image examination (30 images of artifacts and species specific characteristics), and a parasite counting examination.\n\nTo date, 209 microscopists have participated from 11 countries. Seventy-seven experienced microscopists participated in the \"long\" courses, including 47 research microscopists. Sensitivity improved by a mean of 14% (CI 9-19%) from 77% baseline (CI 73-81 %), while specificity improved by a mean of 17% (CI 11-23%) from 76% (CI 70-82%) baseline. Twenty-three microscopists who had been selected for a four-day refresher course showed continued improvement with a mean final sensitivity of 95% (CI 91-98%) and specificity of 97% (CI 95-100%). Only 9% of those taking the pre-test in the \"long\" course achieved a 90% sensitivity and 95% specificity, which increased to 61% of those completing the \"short\" course. All measures of performance improved substantially across each of the five organization types and in each course offered.\n\nThe data clearly illustrated that false positive and negative malaria smears are a serious problem, even with research microscopists. Training dramatically improved performance. Quality microscopy can be provided by the Centre of Excellence concept. This concept can be extended to other diagnostics of public health importance, and comprehensive disease control strategies.",
+      "evidence_sentences": [
+        "This fact led to the establishment of a Malaria Diagnostics Centre of Excellence in Kisumu, Kenya.",
+        "The data clearly illustrated that false positive and negative malaria smears are a serious problem, even with research microscopists.",
+        "Efficacy estimates in drug and vaccine malaria trials are very sensitive to small errors in microscopy endpoints."
+      ],
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Colin Ohrt",
+        "Peter Obare",
+        "Ampon Nanakorn",
+        "Christine Adhiambo",
+        "Ken Awuondo",
+        "Wendy Prudhomme O'Meara",
+        "Shon Remich",
+        "Kurt Martin",
+        "Earnest Cook",
+        "Jean-Paul Chretien",
+        "Carmen Lucas",
+        "Joseph Osoga",
+        "Peter McEvoy",
+        "Martin Lucas Owaga",
+        "James Sande Odera",
+        "Bernhards Ogutu"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17565676/"
+    },
+    {
+      "pmid": "36943831",
+      "title": "Demand creation for HIV testing services: A systematic review and meta-analysis.",
+      "journal": "PLoS medicine",
+      "abstract_sections": [
+        "HIV testing services (HTS) are the first steps in reaching the UNAIDS 95-95-95 goals to achieve and maintain low HIV incidence. Evaluating the effectiveness of different demand creation interventions to increase uptake of efficient and effective HTS is useful to prioritize limited programmatic resources. This review was undertaken to inform World Health Organization (WHO) 2019 HIV testing guidelines and assessed the research question, \"Which demand creation strategies are effective for enhancing uptake of HTS?\" focused on populations globally.",
+        "The following electronic databases were searched through September 28, 2021: PubMed, PsycInfo, Cochrane CENTRAL, CINAHL Complete, Web of Science Core Collection, EMBASE, and Global Health Database; we searched IAS and AIDS conferences. We systematically searched for randomized controlled trials (RCTs) that compared any demand creation intervention (incentives, mobilization, counseling, tailoring, and digital interventions) to either a control or other demand creation intervention and reported HTS uptake. We pooled trials to evaluate categories of demand creation interventions using random-effects models for meta-analysis and assessed study quality with Cochrane's risk of bias 1 tool. This study was funded by the WHO and registered in Prospero with ID CRD42022296947. We screened 10,583 records and 507 conference abstracts, reviewed 952 full texts, and included 124 RCTs for data extraction. The majority of studies were from the African (N = 53) and Americas (N = 54) regions. We found that mobilization (relative risk [RR]: 2.01, 95% confidence interval [CI]: [1.30, 3.09], p < 0.05; risk difference [RD]: 0.29, 95% CI [0.16, 0.43], p < 0.05, N = 4 RCTs), couple-oriented counseling (RR: 1.98, 95% CI [1.02, 3.86], p < 0.05; RD: 0.12, 95% CI [0.03, 0.21], p < 0.05, N = 4 RCTs), peer-led interventions (RR: 1.57, 95% CI [1.15, 2.15], p < 0.05; RD: 0.18, 95% CI [0.06, 0.31], p < 0.05, N = 10 RCTs), motivation-oriented counseling (RR: 1.53, 95% CI [1.07, 2.20], p < 0.05; RD: 0.17, 95% CI [0.00, 0.34], p < 0.05, N = 4 RCTs), short message service (SMS) (RR: 1.53, 95% CI [1.09, 2.16], p < 0.05; RD: 0.11, 95% CI [0.03, 0.19], p < 0.05, N = 5 RCTs), and conditional fixed value incentives (RR: 1.52, 95% CI [1.21, 1.91], p < 0.05; RD: 0.15, 95% CI [0.07, 0.22], p < 0.05, N = 11 RCTs) all significantly and importantly (≥50% relative increase) increased HTS uptake and had medium risk of bias. Lottery-based incentives and audio-based interventions less importantly (25% to 49% increase) but not significantly increased HTS uptake (medium risk of bias). Personal invitation letters and personalized message content significantly but not importantly (<25% increase) increased HTS uptake (medium risk of bias). Reduced duration counseling had comparable performance to standard duration counseling (low risk of bias) and video-based interventions were comparable or better than in-person counseling (medium risk of bias). Heterogeneity of effect among pooled studies was high. This study was limited in that we restricted to randomized trials, which may be systematically less readily available for key populations; additionally, we compare only pooled estimates for interventions with multiple studies rather than single study estimates, and there was evidence of publication bias for several interventions.",
+        "Mobilization, couple- and motivation-oriented counseling, peer-led interventions, conditional fixed value incentives, and SMS are high-impact demand creation interventions and should be prioritized for programmatic consideration. Reduced duration counseling and video-based interventions are an efficient and effective alternative to address staffing shortages. Investment in demand creation activities should prioritize those with undiagnosed HIV or ongoing HIV exposure. Selection of demand creation interventions must consider risks and benefits, context-specific factors, feasibility and sustainability, country ownership, and universal health coverage across disease areas."
+      ],
+      "abstract": "HIV testing services (HTS) are the first steps in reaching the UNAIDS 95-95-95 goals to achieve and maintain low HIV incidence. Evaluating the effectiveness of different demand creation interventions to increase uptake of efficient and effective HTS is useful to prioritize limited programmatic resources. This review was undertaken to inform World Health Organization (WHO) 2019 HIV testing guidelines and assessed the research question, \"Which demand creation strategies are effective for enhancing uptake of HTS?\" focused on populations globally.\n\nThe following electronic databases were searched through September 28, 2021: PubMed, PsycInfo, Cochrane CENTRAL, CINAHL Complete, Web of Science Core Collection, EMBASE, and Global Health Database; we searched IAS and AIDS conferences. We systematically searched for randomized controlled trials (RCTs) that compared any demand creation intervention (incentives, mobilization, counseling, tailoring, and digital interventions) to either a control or other demand creation intervention and reported HTS uptake. We pooled trials to evaluate categories of demand creation interventions using random-effects models for meta-analysis and assessed study quality with Cochrane's risk of bias 1 tool. This study was funded by the WHO and registered in Prospero with ID CRD42022296947. We screened 10,583 records and 507 conference abstracts, reviewed 952 full texts, and included 124 RCTs for data extraction. The majority of studies were from the African (N = 53) and Americas (N = 54) regions. We found that mobilization (relative risk [RR]: 2.01, 95% confidence interval [CI]: [1.30, 3.09], p < 0.05; risk difference [RD]: 0.29, 95% CI [0.16, 0.43], p < 0.05, N = 4 RCTs), couple-oriented counseling (RR: 1.98, 95% CI [1.02, 3.86], p < 0.05; RD: 0.12, 95% CI [0.03, 0.21], p < 0.05, N = 4 RCTs), peer-led interventions (RR: 1.57, 95% CI [1.15, 2.15], p < 0.05; RD: 0.18, 95% CI [0.06, 0.31], p < 0.05, N = 10 RCTs), motivation-oriented counseling (RR: 1.53, 95% CI [1.07, 2.20], p < 0.05; RD: 0.17, 95% CI [0.00, 0.34], p < 0.05, N = 4 RCTs), short message service (SMS) (RR: 1.53, 95% CI [1.09, 2.16], p < 0.05; RD: 0.11, 95% CI [0.03, 0.19], p < 0.05, N = 5 RCTs), and conditional fixed value incentives (RR: 1.52, 95% CI [1.21, 1.91], p < 0.05; RD: 0.15, 95% CI [0.07, 0.22], p < 0.05, N = 11 RCTs) all significantly and importantly (≥50% relative increase) increased HTS uptake and had medium risk of bias. Lottery-based incentives and audio-based interventions less importantly (25% to 49% increase) but not significantly increased HTS uptake (medium risk of bias). Personal invitation letters and personalized message content significantly but not importantly (<25% increase) increased HTS uptake (medium risk of bias). Reduced duration counseling had comparable performance to standard duration counseling (low risk of bias) and video-based interventions were comparable or better than in-person counseling (medium risk of bias). Heterogeneity of effect among pooled studies was high. This study was limited in that we restricted to randomized trials, which may be systematically less readily available for key populations; additionally, we compare only pooled estimates for interventions with multiple studies rather than single study estimates, and there was evidence of publication bias for several interventions.\n\nMobilization, couple- and motivation-oriented counseling, peer-led interventions, conditional fixed value incentives, and SMS are high-impact demand creation interventions and should be prioritized for programmatic consideration. Reduced duration counseling and video-based interventions are an efficient and effective alternative to address staffing shortages. Investment in demand creation activities should prioritize those with undiagnosed HIV or ongoing HIV exposure. Selection of demand creation interventions must consider risks and benefits, context-specific factors, feasibility and sustainability, country ownership, and universal health coverage across disease areas.",
+      "evidence_sentences": [
+        "This review was undertaken to inform World Health Organization (WHO) 2019 HIV testing guidelines and assessed the research question, \"Which demand creation strategies are effective for enhancing uptake of HTS?\" focused on populations globally.",
+        "This study was limited in that we restricted to randomized trials, which may be systematically less readily available for key populations; additionally, we compare only pooled estimates for interventions with multiple studies rather than single study estimates, and there was evidence of publication bias for several interventions.",
+        "We systematically searched for randomized controlled trials (RCTs) that compared any demand creation intervention (incentives, mobilization, counseling, tailoring, and digital interventions) to either a control or other demand creation intervention and reported HTS uptake."
+      ],
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Anjuli D Wagner",
+        "Irene N Njuguna",
+        "Jillian Neary",
+        "Kendall A Lawley",
+        "Diana K N Louden",
+        "Ruchi Tiwari",
+        "Wenwen Jiang",
+        "Ngozi Kalu",
+        "Rachael M Burke",
+        "Dorothy Mangale",
+        "Chris Obermeyer",
+        "Jaclyn N Escudero",
+        "Michelle A Bulterys",
+        "Chloe Waters",
+        "Bastien Mollo",
+        "Hannah Han",
+        "Magdalena Barr-DiChiara",
+        "Rachel Baggaley",
+        "Muhammad S Jamil",
+        "Purvi Shah",
+        "Vincent J Wong",
+        "Alison L Drake",
+        "Cheryl C Johnson"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36943831/"
+    },
+    {
+      "pmid": "20530796",
+      "title": "High mortality from Plasmodium falciparum malaria in children living with sickle cell anemia on the coast of Kenya.",
+      "journal": "Blood",
+      "abstract_sections": [
+        "Although malaria is widely considered a major cause of death in young children born with sickle cell anemia (SCA) in sub-Saharan Africa, this is poorly quantified. We attempted to investigate this question through 4 large case-control analyses involving 7164 children living on the coast of Kenya. SCA was associated with an increased risk of admission to hospital both with nonmalaria diseases in general (odds ratio [OR] = 4.17; 95% confidence interval [CI], 1.95-8.92; P < .001) and with invasive bacterial diseases in particular (OR = 8.73; 95% CI, 4.51-16.89; P < .001). We found no evidence for a strongly increased risk of either uncomplicated malaria (OR = 0.43; 95% CI, 0.09-2.10; P = .30) or malaria complicated by a range of well-described clinical features of severity (OR = 0.80; 95% CI, 0.25-2.51; P = .70) overall; nevertheless, mortality was considerably higher among SCA than non-SCA children hospitalized with malaria. Our findings highlight both the central role that malaria plays in the high early mortality seen in African children with SCA and the urgent need for better quantitative data. Meanwhile, our study confirms the importance of providing all children living with SCA in malaria-endemic areas with effective prophylaxis."
+      ],
+      "abstract": "Although malaria is widely considered a major cause of death in young children born with sickle cell anemia (SCA) in sub-Saharan Africa, this is poorly quantified. We attempted to investigate this question through 4 large case-control analyses involving 7164 children living on the coast of Kenya. SCA was associated with an increased risk of admission to hospital both with nonmalaria diseases in general (odds ratio [OR] = 4.17; 95% confidence interval [CI], 1.95-8.92; P < .001) and with invasive bacterial diseases in particular (OR = 8.73; 95% CI, 4.51-16.89; P < .001). We found no evidence for a strongly increased risk of either uncomplicated malaria (OR = 0.43; 95% CI, 0.09-2.10; P = .30) or malaria complicated by a range of well-described clinical features of severity (OR = 0.80; 95% CI, 0.25-2.51; P = .70) overall; nevertheless, mortality was considerably higher among SCA than non-SCA children hospitalized with malaria. Our findings highlight both the central role that malaria plays in the high early mortality seen in African children with SCA and the urgent need for better quantitative data. Meanwhile, our study confirms the importance of providing all children living with SCA in malaria-endemic areas with effective prophylaxis.",
+      "evidence_sentences": [
+        "We found no evidence for a strongly increased risk of either uncomplicated malaria (OR = 0.43; 95% CI, 0.09-2.10; P = .30) or malaria complicated by a range of well-described clinical features of severity (OR = 0.80; 95% CI, 0.25-2.51; P = .70) overall; nevertheless, mortality was considerably higher among SCA than non-SCA children hospitalized with malaria.",
+        "We attempted to investigate this question through 4 large case-control analyses involving 7164 children living on the coast of Kenya.",
+        "SCA was associated with an increased risk of admission to hospital both with nonmalaria diseases in general (odds ratio [OR] = 4.17; 95% confidence interval [CI], 1.95-8.92; P < .001) and with invasive bacterial diseases in particular (OR = 8.73; 95% CI, 4.51-16.89; P < .001)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Charlotte F McAuley",
+        "Clare Webb",
+        "Julie Makani",
+        "Alexander Macharia",
+        "Sophie Uyoga",
+        "Daniel H Opi",
+        "Carolyne Ndila",
+        "Antony Ngatia",
+        "John Anthony G Scott",
+        "Kevin Marsh",
+        "Thomas N Williams"
+      ],
+      "year": "2010",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20530796/"
+    },
+    {
+      "pmid": "2100881",
+      "title": "The resistance of falciparum malaria in Africa to 4-aminoquinolines and antifolates.",
+      "journal": "Scandinavian journal of infectious diseases. Supplementum",
+      "abstract_sections": [
+        "Falciparum malaria cannot be eradicated from sub-Saharan Africa with present technology. The mainstay of malaria control in this situation is treatment of fever cases with chloroquine, aiming principally at reduction of mortality. The efficacy of this policy is now endangered because of the appearance and spread of chloroquine-resistance on the African continent. The present review examines laboratory and field research on the resistance of African P.falciparum to chloroquine, amodiaquine, pyrimethamine, proguanil, chlorproguanil and the combination sulfadoxine-pyrimethamine. Drug-resistance in malaria may be assessed with in vivo and in vitro technology. In vivo tests are simple, but the results are difficult to compare because of the influence of immunity. In vitro tests provide a more precise epidemiological tool, but their analysis should be undertaken with consideration of their technical limitations. For parasitological, immunological and epidemiological reasons, a one-to-one correlation between in vivo and in vivo grading of resistance is usually not found. Extended in vivo tests may be at least as sensitive as in vitro tests for detecting rare resistant parasites. On the other hand, the standardized grading of higher levels of in vivo resistance is arbitrary, and it is doubtful, whether such distinction has any clinical relevance. The 4-aminoquinolines (chloroquine and amodiaquine) presumably act by interfering with vital functions in the acid vesicles of parasites. Recent experiments indicate that resistance may be related to an increased rate of efflux of chloroquine from the parasite. It is caused by mutation, and at least three genetic levels of resistance have been identified. The blood stages of resistant plasmodia seem to have a biological advantage over sensitive ones, an observation that raises some hitherto unanswered questions. In the 1970s, a low degree of resistance to chloroquine was found in African P. falciparum in several localities. Resistance to the standard dose of chloroquine of 25 mg/kg was found in 1978 in tourists, who had sojourned in Kenya and Tanzania. Since then, chloroquine-resistance has spread centrifugally with increasing rapidity from an original focus in Northern Tanzania or Southern Kenya. The rate of increase in the proportion of resistant infections has generally been more rapid in the areas, where resistance has been introduced recently than in the original epifocus. The rate of increase is also generally more rapid in urban than in rural areas, an observation that can be ascribed to differences in drug pressure.(ABSTRACT TRUNCATED AT 400 WORDS)"
+      ],
+      "abstract": "Falciparum malaria cannot be eradicated from sub-Saharan Africa with present technology. The mainstay of malaria control in this situation is treatment of fever cases with chloroquine, aiming principally at reduction of mortality. The efficacy of this policy is now endangered because of the appearance and spread of chloroquine-resistance on the African continent. The present review examines laboratory and field research on the resistance of African P.falciparum to chloroquine, amodiaquine, pyrimethamine, proguanil, chlorproguanil and the combination sulfadoxine-pyrimethamine. Drug-resistance in malaria may be assessed with in vivo and in vitro technology. In vivo tests are simple, but the results are difficult to compare because of the influence of immunity. In vitro tests provide a more precise epidemiological tool, but their analysis should be undertaken with consideration of their technical limitations. For parasitological, immunological and epidemiological reasons, a one-to-one correlation between in vivo and in vivo grading of resistance is usually not found. Extended in vivo tests may be at least as sensitive as in vitro tests for detecting rare resistant parasites. On the other hand, the standardized grading of higher levels of in vivo resistance is arbitrary, and it is doubtful, whether such distinction has any clinical relevance. The 4-aminoquinolines (chloroquine and amodiaquine) presumably act by interfering with vital functions in the acid vesicles of parasites. Recent experiments indicate that resistance may be related to an increased rate of efflux of chloroquine from the parasite. It is caused by mutation, and at least three genetic levels of resistance have been identified. The blood stages of resistant plasmodia seem to have a biological advantage over sensitive ones, an observation that raises some hitherto unanswered questions. In the 1970s, a low degree of resistance to chloroquine was found in African P. falciparum in several localities. Resistance to the standard dose of chloroquine of 25 mg/kg was found in 1978 in tourists, who had sojourned in Kenya and Tanzania. Since then, chloroquine-resistance has spread centrifugally with increasing rapidity from an original focus in Northern Tanzania or Southern Kenya. The rate of increase in the proportion of resistant infections has generally been more rapid in the areas, where resistance has been introduced recently than in the original epifocus. The rate of increase is also generally more rapid in urban than in rural areas, an observation that can be ascribed to differences in drug pressure.(ABSTRACT TRUNCATED AT 400 WORDS)",
+      "evidence_sentences": [
+        "The mainstay of malaria control in this situation is treatment of fever cases with chloroquine, aiming principally at reduction of mortality.",
+        "Falciparum malaria cannot be eradicated from sub-Saharan Africa with present technology.",
+        "Drug-resistance in malaria may be assessed with in vivo and in vitro technology."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "A Schapira"
+      ],
+      "year": "1990",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/2100881/"
+    },
+    {
+      "pmid": "37604474",
+      "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Antimalarial medications are recommended for chemoprevention as part of malaria control programs to decrease the morbidity and mortality related to more than 200 million infections each year. We sought to evaluate patient and provider acceptability of malaria chemoprevention in a long-acting formulation. We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia. Questions explored preferences and concerns around long-acting antimalarial formulations compared with oral formulations. We recruited 202 patient respondents (Kenya, n = 102; Zambia, n = 100) and 215 provider respondents (Kenya, n = 105; Zambia, n = 110). Long-acting injection was preferred to oral pills, whereas oral pills were preferred to implant or transdermal administration by patient respondents. Of 202 patient respondents, 80% indicated that they 'definitely would try' malaria chemoprevention offered by injection instead of oral pills. Of parents or guardians, 84% of 113 responded that they 'definitely would' have their child age < 12 years and 90% of 88 'definitely would' have their child ≥12 years receive an injection for malaria prevention. Provider respondents indicated that they would be more likely to prescribe a long-acting injectable product compared with an oral product for malaria chemoprevention in adults (70%), adolescents ages 12 years and older (67%), and children <12 years (81%). Potential for prolonged adverse effects with long-acting products was the highest concern for patient respondents, while higher medication-related cost was cited as the most concerning barrier to implementation by providers. Overall, these findings indicate enthusiasm for the development of long-acting injectable antimalarials to provide individual delivery method options across age groups."
+      ],
+      "abstract": "Antimalarial medications are recommended for chemoprevention as part of malaria control programs to decrease the morbidity and mortality related to more than 200 million infections each year. We sought to evaluate patient and provider acceptability of malaria chemoprevention in a long-acting formulation. We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia. Questions explored preferences and concerns around long-acting antimalarial formulations compared with oral formulations. We recruited 202 patient respondents (Kenya, n = 102; Zambia, n = 100) and 215 provider respondents (Kenya, n = 105; Zambia, n = 110). Long-acting injection was preferred to oral pills, whereas oral pills were preferred to implant or transdermal administration by patient respondents. Of 202 patient respondents, 80% indicated that they 'definitely would try' malaria chemoprevention offered by injection instead of oral pills. Of parents or guardians, 84% of 113 responded that they 'definitely would' have their child age < 12 years and 90% of 88 'definitely would' have their child ≥12 years receive an injection for malaria prevention. Provider respondents indicated that they would be more likely to prescribe a long-acting injectable product compared with an oral product for malaria chemoprevention in adults (70%), adolescents ages 12 years and older (67%), and children <12 years (81%). Potential for prolonged adverse effects with long-acting products was the highest concern for patient respondents, while higher medication-related cost was cited as the most concerning barrier to implementation by providers. Overall, these findings indicate enthusiasm for the development of long-acting injectable antimalarials to provide individual delivery method options across age groups.",
+      "evidence_sentences": [
+        "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia.",
+        "Questions explored preferences and concerns around long-acting antimalarial formulations compared with oral formulations.",
+        "Provider respondents indicated that they would be more likely to prescribe a long-acting injectable product compared with an oral product for malaria chemoprevention in adults (70%), adolescents ages 12 years and older (67%), and children <12 years (81%)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kimberly K Scarsi",
+        "Harlan Sayles",
+        "Kelvin Kapungu",
+        "Peter Sifuna",
+        "Matthew M Ippolito",
+        "Renae Furl",
+        "Matthew J Anderson",
+        "Joelle Dountio Ofimboudem",
+        "Gershom Chongwe",
+        "Jack Hutter",
+        "Steven P Rannard",
+        "Andrew Owen",
+        "Susan Swindells"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37604474/"
+    },
+    {
+      "pmid": "15984377",
+      "title": "Malaria in travelers returning from short organized tours to holiday resorts in Mombassa, Kenya.",
+      "journal": "The Israel Medical Association journal : IMAJ",
+      "abstract_sections": [
+        "Short trips to holiday resorts in Mombassa, Kenya, have gained popularity among Israelis since the early 1990s. A cluster of cases of malaria among returned travelers raised concern that preventive measures were being neglected.",
+        "To characterize the demographic and clinical features of malaria acquired in Kenya, and to assess the adequacy of preventive measures.",
+        "Data were collected from investigation forms at the Ministry of Health. All persons who acquired malaria in Kenya during the years 1999-2001 were contacted by phone and questioned about use of chemoprophylaxis, attitudes towards malaria prevention, and disease course. Further information was extracted from hospital records.",
+        "Kenya accounted for 30 (18%) of 169 cases of malaria imported to Israel and was the leading source of malaria in the study period. Of 30 malaria cases imported from Kenya, 29 occurred after short (1-2 weeks) travel to holiday resorts in Mombassa. Average patient age was 43 +/- 12 years, which is older than average for travelers to tropical countries. Only 10% of the patients were fully compliant with malaria chemoprophylaxis. The most common reason for non-compliance was the belief that a short trip to a holiday resort carries a negligible risk of malaria. Only 3 of 13 patients (23%) who consulted their primary physician about post-travel fever were correctly diagnosed with malaria. Twenty percent of cases were severe enough to warrant admission to an intensive care unit; one case was fatal.",
+        "Measures aimed at preventing malaria and its severe sequelae among travelers should concentrate on increasing awareness of risks and compliance with malaria chemoprophylaxis."
+      ],
+      "abstract": "Short trips to holiday resorts in Mombassa, Kenya, have gained popularity among Israelis since the early 1990s. A cluster of cases of malaria among returned travelers raised concern that preventive measures were being neglected.\n\nTo characterize the demographic and clinical features of malaria acquired in Kenya, and to assess the adequacy of preventive measures.\n\nData were collected from investigation forms at the Ministry of Health. All persons who acquired malaria in Kenya during the years 1999-2001 were contacted by phone and questioned about use of chemoprophylaxis, attitudes towards malaria prevention, and disease course. Further information was extracted from hospital records.\n\nKenya accounted for 30 (18%) of 169 cases of malaria imported to Israel and was the leading source of malaria in the study period. Of 30 malaria cases imported from Kenya, 29 occurred after short (1-2 weeks) travel to holiday resorts in Mombassa. Average patient age was 43 +/- 12 years, which is older than average for travelers to tropical countries. Only 10% of the patients were fully compliant with malaria chemoprophylaxis. The most common reason for non-compliance was the belief that a short trip to a holiday resort carries a negligible risk of malaria. Only 3 of 13 patients (23%) who consulted their primary physician about post-travel fever were correctly diagnosed with malaria. Twenty percent of cases were severe enough to warrant admission to an intensive care unit; one case was fatal.\n\nMeasures aimed at preventing malaria and its severe sequelae among travelers should concentrate on increasing awareness of risks and compliance with malaria chemoprophylaxis.",
+      "evidence_sentences": [
+        "All persons who acquired malaria in Kenya during the years 1999-2001 were contacted by phone and questioned about use of chemoprophylaxis, attitudes towards malaria prevention, and disease course.",
+        "To characterize the demographic and clinical features of malaria acquired in Kenya, and to assess the adequacy of preventive measures.",
+        "Kenya accounted for 30 (18%) of 169 cases of malaria imported to Israel and was the leading source of malaria in the study period."
+      ],
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Ronen Ben-Ami",
+        "Yardena Siegman-Igra",
+        "Emilia Anis",
+        "Gerald J Brook",
+        "Silvio Pitlik",
+        "Michael Dan",
+        "Michael Giladi"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15984377/"
+    },
+    {
+      "pmid": "23418427",
+      "title": "Utility of health facility-based malaria data for malaria surveillance.",
+      "journal": "PloS one",
+      "abstract_sections": [
+        "Currently, intensive malaria control programs are being implemented in Africa to reduce the malaria burden. Clinical malaria data from hospitals are valuable for monitoring trends in malaria morbidity and for evaluating the impacts of these interventions. However, the reliability of hospital-based data for true malaria incidence is often questioned because of diagnosis accuracy issues and variation in access to healthcare facilities among sub-groups of the population. This study investigated how diagnosis and treatment practices of malaria cases in hospitals affect reliability of hospital malaria data.",
+        "The study was undertaken in health facilities in western Kenya. A total of 3,569 blood smears were analyzed after being collected from patients who were requested by clinicians to go to the hospital's laboratory for malaria testing. We applied several quality control measures for clinical malaria diagnosis. We compared our slide reading results with those from the hospital technicians. Among the 3,390 patients whose diagnoses were analyzed, only 36% had clinical malaria defined as presence of any level of parasitaemia and fever. Sensitivity and specificity of clinicians' diagnoses were 60.1% (95% CI: 61.1-67.5) and 75.0% (95% CI: 30.8-35.7), respectively. Among the 980 patients presumptively treated with an anti-malarial by the clinicians without laboratory diagnosis, only 47% had clinical malaria.",
+        "These findings revealed substantial over-prescription of anti-malarials and misdiagnosis of clinical malaria. More than half of the febrile cases were not truly clinical malaria, but were wrongly diagnosed and treated as such. Deficiency in malaria diagnosis makes health facility data unreliable for monitoring trends in malaria morbidity and for evaluating impacts of malaria interventions. Improving malaria diagnosis should be a top priority in rural African health centers."
+      ],
+      "abstract": "Currently, intensive malaria control programs are being implemented in Africa to reduce the malaria burden. Clinical malaria data from hospitals are valuable for monitoring trends in malaria morbidity and for evaluating the impacts of these interventions. However, the reliability of hospital-based data for true malaria incidence is often questioned because of diagnosis accuracy issues and variation in access to healthcare facilities among sub-groups of the population. This study investigated how diagnosis and treatment practices of malaria cases in hospitals affect reliability of hospital malaria data.\n\nThe study was undertaken in health facilities in western Kenya. A total of 3,569 blood smears were analyzed after being collected from patients who were requested by clinicians to go to the hospital's laboratory for malaria testing. We applied several quality control measures for clinical malaria diagnosis. We compared our slide reading results with those from the hospital technicians. Among the 3,390 patients whose diagnoses were analyzed, only 36% had clinical malaria defined as presence of any level of parasitaemia and fever. Sensitivity and specificity of clinicians' diagnoses were 60.1% (95% CI: 61.1-67.5) and 75.0% (95% CI: 30.8-35.7), respectively. Among the 980 patients presumptively treated with an anti-malarial by the clinicians without laboratory diagnosis, only 47% had clinical malaria.\n\nThese findings revealed substantial over-prescription of anti-malarials and misdiagnosis of clinical malaria. More than half of the febrile cases were not truly clinical malaria, but were wrongly diagnosed and treated as such. Deficiency in malaria diagnosis makes health facility data unreliable for monitoring trends in malaria morbidity and for evaluating impacts of malaria interventions. Improving malaria diagnosis should be a top priority in rural African health centers.",
+      "evidence_sentences": [
+        "However, the reliability of hospital-based data for true malaria incidence is often questioned because of diagnosis accuracy issues and variation in access to healthcare facilities among sub-groups of the population.",
+        "Clinical malaria data from hospitals are valuable for monitoring trends in malaria morbidity and for evaluating the impacts of these interventions.",
+        "Among the 3,390 patients whose diagnoses were analyzed, only 36% had clinical malaria defined as presence of any level of parasitaemia and fever."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Yaw A Afrane",
+        "Guofa Zhou",
+        "Andrew K Githeko",
+        "Guiyun Yan"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23418427/"
+    },
+    {
+      "pmid": "7956864",
+      "title": "A comparison of amodiaquine and chloroquine in the treatment therapy of falciparum malaria in Kenya.",
+      "journal": "East African medical journal",
+      "abstract_sections": [
+        "During June to August 1989, 158 symptomatic outpatients with P. falciparum malaria were randomly treated with either amodiaquine or chloroquine 25 mg/kg, divided over three days. Amodiaquine (Camoquin, Parke-Davis) was significantly more effective in terms of the rate of parasite clearance, 2.4 versus 3.1 days; parasite clearance day 7; 87% versus 41%; and clinical amelioration, 98% versus 68%. Moreover, this study demonstrates the lack of therapeutic toxicity of amodiaquine. Globally, tolerance was better with amodiaquine than with chloroquine; in particular, cutaneous side effects were less frequent with amodiaquine. There was no evidence of granulocyte or gross hepatic toxicity. These results suggest that WHO recommendations concerning amodiaquine should be questioned. In view of its low cost, demonstrated efficacy and lack of proven therapeutic toxicity, amodiaquine should be considered as a viable replacement for chloroquine in areas with high levels of clinical chloroquine failure."
+      ],
+      "abstract": "During June to August 1989, 158 symptomatic outpatients with P. falciparum malaria were randomly treated with either amodiaquine or chloroquine 25 mg/kg, divided over three days. Amodiaquine (Camoquin, Parke-Davis) was significantly more effective in terms of the rate of parasite clearance, 2.4 versus 3.1 days; parasite clearance day 7; 87% versus 41%; and clinical amelioration, 98% versus 68%. Moreover, this study demonstrates the lack of therapeutic toxicity of amodiaquine. Globally, tolerance was better with amodiaquine than with chloroquine; in particular, cutaneous side effects were less frequent with amodiaquine. There was no evidence of granulocyte or gross hepatic toxicity. These results suggest that WHO recommendations concerning amodiaquine should be questioned. In view of its low cost, demonstrated efficacy and lack of proven therapeutic toxicity, amodiaquine should be considered as a viable replacement for chloroquine in areas with high levels of clinical chloroquine failure.",
+      "evidence_sentences": [
+        "Amodiaquine (Camoquin, Parke-Davis) was significantly more effective in terms of the rate of parasite clearance, 2.4 versus 3.1 days; parasite clearance day 7; 87% versus 41%; and clinical amelioration, 98% versus 68%.",
+        "falciparum malaria were randomly treated with either amodiaquine or chloroquine 25 mg/kg, divided over three days.",
+        "In view of its low cost, demonstrated efficacy and lack of proven therapeutic toxicity, amodiaquine should be considered as a viable replacement for chloroquine in areas with high levels of clinical chloroquine failure."
+      ],
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "C G Nevill",
+        "F H Verhoeff",
+        "C G Munafu",
+        "W R ten Hove",
+        "H J van der Kaay",
+        "J B Were"
+      ],
+      "year": "1994",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7956864/"
+    },
+    {
+      "pmid": "22175693",
+      "title": "Lack of patient risk counselling and a broader provider training affect malaria control in remote Somalia Kenya border: Qualitative assessment.",
+      "journal": "Global public health",
+      "abstract_sections": [
+        "Effectiveness of providing health education solely via mass media and the providers' targeted training in malaria control needs further exploration. During pre-epidemic season, we conducted a qualitative study of 40 providers and community leaders using focus groups, comprehensive semi-structured interviews and consultation observations. Interviews were transcribed, coded and analysed for major themes. Community leaders believe that they can acquire malaria from contaminated water, animal products, air or garbage. Consequently, they under-utilise bed nets and other protective measures due to perceived continued exposure to other potential malaria sources. Practitioners do not provide individualised health counselling and risk assessment to patients during sick visits, leading to a range of misconceptions about malaria based on limited knowledge from rumours and mass media, and a strong belief in the curative power of traditional medicine. Providers overdiagnose malaria clinically and underutilise available tests due to time constraints, and the lack of training and resources to correctly diagnose other illnesses. Subsequently, misdiagnoses lead them to question the efficacy of recommended treatments. Promoting counselling during clinical encounters to address patient misconception and change risky behaviour is warranted. Wider-ranging ongoing training could enable providers to properly diagnose and manage differential diagnoses to manage malaria better."
+      ],
+      "abstract": "Effectiveness of providing health education solely via mass media and the providers' targeted training in malaria control needs further exploration. During pre-epidemic season, we conducted a qualitative study of 40 providers and community leaders using focus groups, comprehensive semi-structured interviews and consultation observations. Interviews were transcribed, coded and analysed for major themes. Community leaders believe that they can acquire malaria from contaminated water, animal products, air or garbage. Consequently, they under-utilise bed nets and other protective measures due to perceived continued exposure to other potential malaria sources. Practitioners do not provide individualised health counselling and risk assessment to patients during sick visits, leading to a range of misconceptions about malaria based on limited knowledge from rumours and mass media, and a strong belief in the curative power of traditional medicine. Providers overdiagnose malaria clinically and underutilise available tests due to time constraints, and the lack of training and resources to correctly diagnose other illnesses. Subsequently, misdiagnoses lead them to question the efficacy of recommended treatments. Promoting counselling during clinical encounters to address patient misconception and change risky behaviour is warranted. Wider-ranging ongoing training could enable providers to properly diagnose and manage differential diagnoses to manage malaria better.",
+      "evidence_sentences": [
+        "Providers overdiagnose malaria clinically and underutilise available tests due to time constraints, and the lack of training and resources to correctly diagnose other illnesses.",
+        "Practitioners do not provide individualised health counselling and risk assessment to patients during sick visits, leading to a range of misconceptions about malaria based on limited knowledge from rumours and mass media, and a strong belief in the curative power of traditional medicine.",
+        "Effectiveness of providing health education solely via mass media and the providers' targeted training in malaria control needs further exploration."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Ramin Asgary",
+        "Zoya Grigoryan",
+        "Ramesh Naderi",
+        "Richard Allan"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22175693/"
+    },
+    {
+      "pmid": "17581027",
+      "title": "Supreme worth of clinical epidemiology in Africa:bancroftian Filariasis as just one case in point.",
+      "journal": "African journal of health sciences",
+      "abstract_sections": [
+        "Clinical epidemiology is going to be the Discipline par excellence of the next century, if not the millennium. Coming as it does from one who has spent decades in clinical medicine and therapeutics, this is a bold statement. Clinical epidemiology answers the questions what? Where? How? When? Who? Why? And Which? In matters of health and disease. It is because these questions have come to be answered effectively with respect to bancroftian Filariasis that it has been included in the world's six \"potentially eradicable\" diseases. In his impressive Review Article on page (), Dr. Gyapong takes us through answers to these epidemiology questions [1]. Filariasis occurs in 38 African countries where the mere presence of a hydrocele affords \"a rapid diagnostic index\" for infection [2], while the so-called \"filarial dance sign\" is known to be present in intrascrotal lymphatics of microfilaraemic patients [3]. That the social and economic consequences of filarial morbidity are enormous on community preventive measures. People must be told that the mosquito, not juju or other \"supernatural factors: [1] is the culprit. I am old enough to remember the \"Town council Man\" in colonial Gold Coast. He would visit every house assigned to him, enforcing environmental sanitation and destroying pools of water and mosquito breeding places. If but one cocoanut shell was found in the compound with water in it,whether or not it contained a mosquito larva, the head of the household was given summons to go to court and pay a fine. Came independence and the community also became independent of the \"Town Council Man\" with the result that there are infinitely more mosquitoes now in independent Ghana than there were in the colonial Gold Coast. \"The WHO\", it is widely held, \"will do it for us\". Today, a vaccine is awaited for most things while the insects flourish. Deal with mosquito, and both malaria and Filariasis will be dealt a death blow. Fortunately, ivermectin will reduce the parasitic reservoir from which transmission occurs, and diagnosis of subclinical cases no longer has to rely on blood sampling at night or on Diethyl Carbamazine provocation tests [4], but is reliably achieved using finger prick to detect Og4C3 circulating antigens day or night [5,6]. Mosquito nets reduce nocturnal bites and hence incidence of both malaria and Filariasis. Doctors should keep long-term records and ascertain whether insecticide impregnanted nets lead to pesticide resistance or not. Spraying should never be abandoned as it had often been on the rumour that \"it does no good, and produces insecticide resistance\". These preventive measures are best supervised through decentralised programmes [1,7] and are most effectively conducted in the mother tongue of the community at the grassroots [8]. Local businessmen and market women should be encouraged to assist chiefs and community leaders in giving monthly prizes in environmental sanitation while public health experts chart the effect of such sanitation on morbidity of Filariasis and mortality from malaria. We should go back to the \"Sanitary Branch\" institutions of the colonial days[9] when clinical epidemiology did much to protect the health of the community. Central government should fund trips to Japan, Taiwan, Solomon Islands, South Korea and some parts of China [1] for African health workers to learn first hand how those communities managed to eradicate lymphatic Filariasis. Even with the current AIDS problem, I remain convinced that clinical epidemiology is the answer [10]. Vaccines have achieved much this century, but to \"wait for WHO to give us vaccines\" while we neglect ourselves and our environment is wholly irresponsible."
+      ],
+      "abstract": "Clinical epidemiology is going to be the Discipline par excellence of the next century, if not the millennium. Coming as it does from one who has spent decades in clinical medicine and therapeutics, this is a bold statement. Clinical epidemiology answers the questions what? Where? How? When? Who? Why? And Which? In matters of health and disease. It is because these questions have come to be answered effectively with respect to bancroftian Filariasis that it has been included in the world's six \"potentially eradicable\" diseases. In his impressive Review Article on page (), Dr. Gyapong takes us through answers to these epidemiology questions [1]. Filariasis occurs in 38 African countries where the mere presence of a hydrocele affords \"a rapid diagnostic index\" for infection [2], while the so-called \"filarial dance sign\" is known to be present in intrascrotal lymphatics of microfilaraemic patients [3]. That the social and economic consequences of filarial morbidity are enormous on community preventive measures. People must be told that the mosquito, not juju or other \"supernatural factors: [1] is the culprit. I am old enough to remember the \"Town council Man\" in colonial Gold Coast. He would visit every house assigned to him, enforcing environmental sanitation and destroying pools of water and mosquito breeding places. If but one cocoanut shell was found in the compound with water in it,whether or not it contained a mosquito larva, the head of the household was given summons to go to court and pay a fine. Came independence and the community also became independent of the \"Town Council Man\" with the result that there are infinitely more mosquitoes now in independent Ghana than there were in the colonial Gold Coast. \"The WHO\", it is widely held, \"will do it for us\". Today, a vaccine is awaited for most things while the insects flourish. Deal with mosquito, and both malaria and Filariasis will be dealt a death blow. Fortunately, ivermectin will reduce the parasitic reservoir from which transmission occurs, and diagnosis of subclinical cases no longer has to rely on blood sampling at night or on Diethyl Carbamazine provocation tests [4], but is reliably achieved using finger prick to detect Og4C3 circulating antigens day or night [5,6]. Mosquito nets reduce nocturnal bites and hence incidence of both malaria and Filariasis. Doctors should keep long-term records and ascertain whether insecticide impregnanted nets lead to pesticide resistance or not. Spraying should never be abandoned as it had often been on the rumour that \"it does no good, and produces insecticide resistance\". These preventive measures are best supervised through decentralised programmes [1,7] and are most effectively conducted in the mother tongue of the community at the grassroots [8]. Local businessmen and market women should be encouraged to assist chiefs and community leaders in giving monthly prizes in environmental sanitation while public health experts chart the effect of such sanitation on morbidity of Filariasis and mortality from malaria. We should go back to the \"Sanitary Branch\" institutions of the colonial days[9] when clinical epidemiology did much to protect the health of the community. Central government should fund trips to Japan, Taiwan, Solomon Islands, South Korea and some parts of China [1] for African health workers to learn first hand how those communities managed to eradicate lymphatic Filariasis. Even with the current AIDS problem, I remain convinced that clinical epidemiology is the answer [10]. Vaccines have achieved much this century, but to \"wait for WHO to give us vaccines\" while we neglect ourselves and our environment is wholly irresponsible.",
+      "evidence_sentences": [
+        "Clinical epidemiology answers the questions what?",
+        "Local businessmen and market women should be encouraged to assist chiefs and community leaders in giving monthly prizes in environmental sanitation while public health experts chart the effect of such sanitation on morbidity of Filariasis and mortality from malaria.",
+        "It is because these questions have come to be answered effectively with respect to bancroftian Filariasis that it has been included in the world's six \"potentially eradicable\" diseases."
+      ],
+      "publication_types": [
+        "Editorial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "F I Kanotey-Ahulu"
+      ],
+      "year": "1999",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17581027/"
+    },
+    {
+      "pmid": "37391703",
+      "title": "How many mosquito nets are needed to maintain universal coverage: an update.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Insecticide-treated nets (ITNs) have served as the cornerstone of malaria vector control in sub-Saharan Africa for the past two decades. Over 2.5 billion ITNs have been delivered since 2004 primarily through periodic mass distribution campaigns scheduled at approximately three-year intervals, aligning with the expected lifespan of nets. Recent work indicates that ITN retention times are less than two years in most countries, raising key questions for quantification approaches and delivery frequency for ITN distribution. This paper models several quantification approaches for five typical ITN distribution strategies, estimates the proportion of the population with access to an ITN, and presents recommended quantification approaches to meet global targets for ITN access and use.",
+        "A stock and flow model with annual timesteps was used to model ITN distribution and resulting ITN access for 2020-2035 under five scenarios in 40 countries: (1) three-year mass campaigns, (2) full-scale annual continuous distribution, (3) three-year mass campaigns plus continuous distribution in the years between campaigns, (4) three-year mass campaigns at different quantification approaches, (5) two-year mass campaigns at different quantification approaches. All scenarios included ITN distribution to pregnant women at antenatal clinics and infants at immunization visits.",
+        "The current status quo of conducting mass campaigns every three years using a population/1.8 quantifier is insufficient to achieve or maintain targets of 80% population access to ITNs in most malaria-endemic countries, given most estimated retention times are less than three years. Tailored three- or two-year mass campaigns were less efficient than annual continuous distribution strategies in nearly all settings. For countries with at least 2.5 year median ITN retention times, full scale continuous distribution provided better ITN access while needing 20-23% fewer ITNs compared to current mass campaigns.",
+        "Given variation in ITN retention times across countries, tailored quantification approaches for mass campaigns and continuous distribution strategies are warranted. Continuous distribution strategies are likely to offer more efficient ways to maintain ITN coverage, with fewer nets, where ITN retention times are at least two and a half years. National malaria programmes and their funding partners should work to increase the number of ITNs available to those vulnerable to malaria, while at the same time working to extend the useful life of these critical commodities."
+      ],
+      "abstract": "Insecticide-treated nets (ITNs) have served as the cornerstone of malaria vector control in sub-Saharan Africa for the past two decades. Over 2.5 billion ITNs have been delivered since 2004 primarily through periodic mass distribution campaigns scheduled at approximately three-year intervals, aligning with the expected lifespan of nets. Recent work indicates that ITN retention times are less than two years in most countries, raising key questions for quantification approaches and delivery frequency for ITN distribution. This paper models several quantification approaches for five typical ITN distribution strategies, estimates the proportion of the population with access to an ITN, and presents recommended quantification approaches to meet global targets for ITN access and use.\n\nA stock and flow model with annual timesteps was used to model ITN distribution and resulting ITN access for 2020-2035 under five scenarios in 40 countries: (1) three-year mass campaigns, (2) full-scale annual continuous distribution, (3) three-year mass campaigns plus continuous distribution in the years between campaigns, (4) three-year mass campaigns at different quantification approaches, (5) two-year mass campaigns at different quantification approaches. All scenarios included ITN distribution to pregnant women at antenatal clinics and infants at immunization visits.\n\nThe current status quo of conducting mass campaigns every three years using a population/1.8 quantifier is insufficient to achieve or maintain targets of 80% population access to ITNs in most malaria-endemic countries, given most estimated retention times are less than three years. Tailored three- or two-year mass campaigns were less efficient than annual continuous distribution strategies in nearly all settings. For countries with at least 2.5 year median ITN retention times, full scale continuous distribution provided better ITN access while needing 20-23% fewer ITNs compared to current mass campaigns.\n\nGiven variation in ITN retention times across countries, tailored quantification approaches for mass campaigns and continuous distribution strategies are warranted. Continuous distribution strategies are likely to offer more efficient ways to maintain ITN coverage, with fewer nets, where ITN retention times are at least two and a half years. National malaria programmes and their funding partners should work to increase the number of ITNs available to those vulnerable to malaria, while at the same time working to extend the useful life of these critical commodities.",
+      "evidence_sentences": [
+        "The current status quo of conducting mass campaigns every three years using a population/1.8 quantifier is insufficient to achieve or maintain targets of 80% population access to ITNs in most malaria-endemic countries, given most estimated retention times are less than three years.",
+        "National malaria programmes and their funding partners should work to increase the number of ITNs available to those vulnerable to malaria, while at the same time working to extend the useful life of these critical commodities.",
+        "Insecticide-treated nets (ITNs) have served as the cornerstone of malaria vector control in sub-Saharan Africa for the past two decades."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Hannah Koenker",
+        "Josh Yukich",
+        "Marcy Erskine",
+        "Robert Opoku",
+        "Eleanore Sternberg",
+        "Albert Kilian"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37391703/"
+    },
+    {
+      "pmid": "37612716",
+      "title": "Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "A workshop on implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission, was held as a hybrid meeting in Dakar, Senegal, and online, 23-25 January 2023. Delegates from Expanded Programmes on Immunization (EPI) and National Malaria Control Programmes (NMCPs) from 13 African countries, and representatives from key stakeholders participated. RTS,S is the first malaria vaccine to be recommended by the World Health Organization (WHO). The recommendation followed pilot implementation of the vaccine in Ghana, Kenya and Malawi, which showed that introduction of the vaccine was highly effective at scale, and was associated with a 30% reduction in hospital admissions with severe malaria in age groups eligible to have received the vaccine and no evidence of the safety signals that had been observed in the phase 3 trial. Clinical trials in Mali and Burkina Faso, showed that in children receiving Seasonal Malaria Chemoprevention (SMC), providing the vaccine just prior to high transmission seasons, matching the period of highest efficacy to the peak transmission season, resulted in substantial reduction in the incidence of clinical malaria and of severe malaria. While SMC has been successfully scaled-up despite the challenges of delivery, there is no established platform for seasonal vaccine delivery and no real-world experience. The objectives of this workshop were, therefore, to share experiences from countries that have introduced the RTS,S vaccine in routine child vaccination programmes, with SMC-implementing countries as they consider malaria vaccine introduction, and to explore implementation strategies in countries with seasonal transmission and where EPI coverage may be low especially in the second year of life. Practical implementation challenges, lessons learned for vaccine introduction, and research questions, towards facilitating the introduction of the RTS,S (and other malaria vaccines) in countries with seasonal malaria transmission were discussed."
+      ],
+      "abstract": "A workshop on implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission, was held as a hybrid meeting in Dakar, Senegal, and online, 23-25 January 2023. Delegates from Expanded Programmes on Immunization (EPI) and National Malaria Control Programmes (NMCPs) from 13 African countries, and representatives from key stakeholders participated. RTS,S is the first malaria vaccine to be recommended by the World Health Organization (WHO). The recommendation followed pilot implementation of the vaccine in Ghana, Kenya and Malawi, which showed that introduction of the vaccine was highly effective at scale, and was associated with a 30% reduction in hospital admissions with severe malaria in age groups eligible to have received the vaccine and no evidence of the safety signals that had been observed in the phase 3 trial. Clinical trials in Mali and Burkina Faso, showed that in children receiving Seasonal Malaria Chemoprevention (SMC), providing the vaccine just prior to high transmission seasons, matching the period of highest efficacy to the peak transmission season, resulted in substantial reduction in the incidence of clinical malaria and of severe malaria. While SMC has been successfully scaled-up despite the challenges of delivery, there is no established platform for seasonal vaccine delivery and no real-world experience. The objectives of this workshop were, therefore, to share experiences from countries that have introduced the RTS,S vaccine in routine child vaccination programmes, with SMC-implementing countries as they consider malaria vaccine introduction, and to explore implementation strategies in countries with seasonal transmission and where EPI coverage may be low especially in the second year of life. Practical implementation challenges, lessons learned for vaccine introduction, and research questions, towards facilitating the introduction of the RTS,S (and other malaria vaccines) in countries with seasonal malaria transmission were discussed.",
+      "evidence_sentences": [
+        "The recommendation followed pilot implementation of the vaccine in Ghana, Kenya and Malawi, which showed that introduction of the vaccine was highly effective at scale, and was associated with a 30% reduction in hospital admissions with severe malaria in age groups eligible to have received the vaccine and no evidence of the safety signals that had been observed in the phase 3 trial.",
+        "Clinical trials in Mali and Burkina Faso, showed that in children receiving Seasonal Malaria Chemoprevention (SMC), providing the vaccine just prior to high transmission seasons, matching the period of highest efficacy to the peak transmission season, resulted in substantial reduction in the incidence of clinical malaria and of severe malaria.",
+        "Practical implementation challenges, lessons learned for vaccine introduction, and research questions, towards facilitating the introduction of the RTS,S (and other malaria vaccines) in countries with seasonal malaria transmission were discussed."
+      ],
+      "publication_types": [
+        "Conference Proceedings"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Corinne S Merle",
+        "RTSS-SMC working group"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37612716/"
+    },
+    {
+      "pmid": "30926893",
+      "title": "The temporal dynamics and infectiousness of subpatent Plasmodium falciparum infections in relation to parasite density.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Malaria infections occurring below the limit of detection of standard diagnostics are common in all endemic settings. However, key questions remain surrounding their contribution to sustaining transmission and whether they need to be detected and targeted to achieve malaria elimination. In this study we analyse a range of malaria datasets to quantify the density, detectability, course of infection and infectiousness of subpatent infections. Asymptomatically infected individuals have lower parasite densities on average in low transmission settings compared to individuals in higher transmission settings. In cohort studies, subpatent infections are found to be predictive of future periods of patent infection and in membrane feeding studies, individuals infected with subpatent asexual parasite densities are found to be approximately a third as infectious to mosquitoes as individuals with patent (asexual parasite) infection. These results indicate that subpatent infections contribute to the infectious reservoir, may be long lasting, and require more sensitive diagnostics to detect them in lower transmission settings."
+      ],
+      "abstract": "Malaria infections occurring below the limit of detection of standard diagnostics are common in all endemic settings. However, key questions remain surrounding their contribution to sustaining transmission and whether they need to be detected and targeted to achieve malaria elimination. In this study we analyse a range of malaria datasets to quantify the density, detectability, course of infection and infectiousness of subpatent infections. Asymptomatically infected individuals have lower parasite densities on average in low transmission settings compared to individuals in higher transmission settings. In cohort studies, subpatent infections are found to be predictive of future periods of patent infection and in membrane feeding studies, individuals infected with subpatent asexual parasite densities are found to be approximately a third as infectious to mosquitoes as individuals with patent (asexual parasite) infection. These results indicate that subpatent infections contribute to the infectious reservoir, may be long lasting, and require more sensitive diagnostics to detect them in lower transmission settings.",
+      "evidence_sentences": [
+        "However, key questions remain surrounding their contribution to sustaining transmission and whether they need to be detected and targeted to achieve malaria elimination.",
+        "In this study we analyse a range of malaria datasets to quantify the density, detectability, course of infection and infectiousness of subpatent infections.",
+        "Malaria infections occurring below the limit of detection of standard diagnostics are common in all endemic settings."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Hannah C Slater",
+        "Amanda Ross",
+        "Ingrid Felger",
+        "Natalie E Hofmann",
+        "Leanne Robinson",
+        "Jackie Cook",
+        "Bronner P Gonçalves",
+        "Anders Björkman",
+        "Andre Lin Ouedraogo",
+        "Ulrika Morris",
+        "Mwinyi Msellem",
+        "Cristian Koepfli",
+        "Ivo Mueller",
+        "Fitsum Tadesse",
+        "Endalamaw Gadisa",
+        "Smita Das",
+        "Gonzalo Domingo",
+        "Melissa Kapulu",
+        "Janet Midega",
+        "Seth Owusu-Agyei",
+        "Cécile Nabet",
+        "Renaud Piarroux",
+        "Ogobara Doumbo",
+        "Safiatou Niare Doumbo",
+        "Kwadwo Koram",
+        "Naomi Lucchi",
+        "Venkatachalam Udhayakumar",
+        "Jacklin Mosha",
+        "Alfred Tiono",
+        "Daniel Chandramohan",
+        "Roly Gosling",
+        "Felista Mwingira",
+        "Robert Sauerwein",
+        "Richard Paul",
+        "Eleanor M Riley",
+        "Nicholas J White",
+        "Francois Nosten",
+        "Mallika Imwong",
+        "Teun Bousema",
+        "Chris Drakeley",
+        "Lucy C Okell"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30926893/"
+    },
+    {
+      "pmid": "31285980",
+      "title": "Efficacy of Mobile Phone Short Message Service (SMS) Reminders on Malaria Treatment Adherence and Day 3 Post-Treatment Reviews (SMS-RES-MAL) in Kenya: A Study Protocol.",
+      "journal": "Journal of clinical trials",
+      "abstract_sections": [
+        "Mobile phone short messaging services (SMS) have been investigated in health information reporting, provider performance, drug and diagnostic stock management and patient adherence to treatment for chronic diseases. However, their potential role in improving patients' adherence to malaria treatment and day 3 post treatment reviews remains unclear.",
+        "A \"proof of concept\" open label randomised controlled trial will be conducted at four sites in Western Kenya. Principal research questions are: 1) Can mobile phone SMS reminders improve patient adherence to malaria treatment? 2) Can mobile phone SMS reminders improve day 3 post treatment reviews? Eligible caregivers (n=1000 per arm) of children under five years old with uncomplicated malaria will be randomly assigned (one to one) to: a) the current standard of care (provider counselling and health education); and b) the current standard of care plus SMS reminders. Within each arm, caregivers will be further randomized to three different categories. In categories 1 and 2, 300 caregivers per arm per category will be visited at home on day 1 and 2 of follow up respectively, to measure appropriate timing and adherence of the second Artemether-Lumefantrine (AL) dose and doses 3 and 4. Further, caregivers in categories 1 and 2 will be required to come to the health facility for the day 3 post treatment reviews. Finally, in category 3, 400 caregivers per arm will be visited at home on day 3 to measure adherence for the full AL course. Each category will be visited at home only once to avoid biases in the measures of adherence as a result of home consultations. Primary outcomes will be adherence to the full AL course (category 3), as well as, the proportion of patients reporting back for day 3 post treatment reviews (categories 1 and 2). The primary analysis will be intention-to-treat. Costs of the intervention will be measured over the period of the intervention, and a cost-effectiveness ratio will be estimated.",
+        "If successful, evidence from this trial could improve malaria treatment adherence and offer pragmatic approaches for antimalarial drug resistance surveillance and risk mitigation in Africa.",
+        "ISRCTN39512726."
+      ],
+      "abstract": "Mobile phone short messaging services (SMS) have been investigated in health information reporting, provider performance, drug and diagnostic stock management and patient adherence to treatment for chronic diseases. However, their potential role in improving patients' adherence to malaria treatment and day 3 post treatment reviews remains unclear.\n\nA \"proof of concept\" open label randomised controlled trial will be conducted at four sites in Western Kenya. Principal research questions are: 1) Can mobile phone SMS reminders improve patient adherence to malaria treatment? 2) Can mobile phone SMS reminders improve day 3 post treatment reviews? Eligible caregivers (n=1000 per arm) of children under five years old with uncomplicated malaria will be randomly assigned (one to one) to: a) the current standard of care (provider counselling and health education); and b) the current standard of care plus SMS reminders. Within each arm, caregivers will be further randomized to three different categories. In categories 1 and 2, 300 caregivers per arm per category will be visited at home on day 1 and 2 of follow up respectively, to measure appropriate timing and adherence of the second Artemether-Lumefantrine (AL) dose and doses 3 and 4. Further, caregivers in categories 1 and 2 will be required to come to the health facility for the day 3 post treatment reviews. Finally, in category 3, 400 caregivers per arm will be visited at home on day 3 to measure adherence for the full AL course. Each category will be visited at home only once to avoid biases in the measures of adherence as a result of home consultations. Primary outcomes will be adherence to the full AL course (category 3), as well as, the proportion of patients reporting back for day 3 post treatment reviews (categories 1 and 2). The primary analysis will be intention-to-treat. Costs of the intervention will be measured over the period of the intervention, and a cost-effectiveness ratio will be estimated.\n\nIf successful, evidence from this trial could improve malaria treatment adherence and offer pragmatic approaches for antimalarial drug resistance surveillance and risk mitigation in Africa.\n\nISRCTN39512726.",
+      "evidence_sentences": [
+        "Principal research questions are: 1) Can mobile phone SMS reminders improve patient adherence to malaria treatment?",
+        "Eligible caregivers (n=1000 per arm) of children under five years old with uncomplicated malaria will be randomly assigned (one to one) to: a) the current standard of care (provider counselling and health education); and b) the current standard of care plus SMS reminders.",
+        "If successful, evidence from this trial could improve malaria treatment adherence and offer pragmatic approaches for antimalarial drug resistance surveillance and risk mitigation in Africa."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Ambrose O Talisuna",
+        "Dejan Zurovac",
+        "Sophie Githinji",
+        "Amos Oburu",
+        "Josephine Malinga",
+        "Andrew Nyandigisi",
+        "Caroline Oh Jones",
+        "Robert W Snow"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31285980/"
+    },
+    {
+      "pmid": "35725411",
+      "title": "Need for optimized dosages in the design of comparative clinical trials of anti-malarial drugs.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "We read with interest the publication on malaria treatment by Obonyo et al. (Malaria J 21:30, 2022). This commentary questions the methodology, especially the chosen time points of treatment outcome measures."
+      ],
+      "abstract": "We read with interest the publication on malaria treatment by Obonyo et al. (Malaria J 21:30, 2022). This commentary questions the methodology, especially the chosen time points of treatment outcome measures.",
+      "evidence_sentences": [
+        "This commentary questions the methodology, especially the chosen time points of treatment outcome measures.",
+        "We read with interest the publication on malaria treatment by Obonyo et al."
+      ],
+      "publication_types": [
+        "Letter"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Sanjeev Krishna",
+        "Peter G Kremsner"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35725411/"
+    },
+    {
+      "pmid": "35300707",
+      "title": "Sub-national tailoring of malaria interventions in Mainland Tanzania: simulation of the impact of strata-specific intervention combinations using modelling.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "To accelerate progress against malaria in high burden countries, a strategic reorientation of resources at the sub-national level is needed. This paper describes how mathematical modelling was used in mainland Tanzania to support the strategic revision that followed the mid-term review of the 2015-2020 national malaria strategic plan (NMSP) and the epidemiological risk stratification at the council level in 2018.",
+        "Intervention mixes, selected by the National Malaria Control Programme, were simulated for each malaria risk strata per council. Intervention mixes included combinations of insecticide-treated bed nets (ITN), indoor residual spraying, larval source management, and intermittent preventive therapies for school children (IPTsc). Effective case management was either based on estimates from the malaria indicator survey in 2016 or set to a hypothetical target of 85%. A previously calibrated mathematical model in OpenMalaria was used to compare intervention impact predictions for prevalence and incidence between 2016 and 2020, or 2022.",
+        "For each malaria risk stratum four to ten intervention mixes were explored. In the low-risk and urban strata, the scenario without a ITN mass campaign in 2019, predicted high increase in prevalence by 2020 and 2022, while in the very-low strata the target prevalence of less than 1% was maintained at low pre-intervention transmission intensity and high case management. In the moderate and high strata, IPTsc in addition to existing vector control was predicted to reduce the incidence by an additional 15% and prevalence by 22%. In the high-risk strata, all interventions together reached a maximum reduction of 76%, with around 70% of that reduction attributable to high case management and ITNs. Overall, the simulated revised NMSP was predicted to achieve a slightly lower prevalence in 2020 compared to the 2015-2020 NMSP (5.3% vs 6.3%).",
+        "Modelling supported the choice of intervention per malaria risk strata by providing impact comparisons of various alternative intervention mixes to address specific questions relevant to the country. The use of a council-calibrated model, that reproduces local malaria trends, represents a useful tool for compiling available evidence into a single analytical platform, that complement other evidence, to aid national programmes with decision-making processes."
+      ],
+      "abstract": "To accelerate progress against malaria in high burden countries, a strategic reorientation of resources at the sub-national level is needed. This paper describes how mathematical modelling was used in mainland Tanzania to support the strategic revision that followed the mid-term review of the 2015-2020 national malaria strategic plan (NMSP) and the epidemiological risk stratification at the council level in 2018.\n\nIntervention mixes, selected by the National Malaria Control Programme, were simulated for each malaria risk strata per council. Intervention mixes included combinations of insecticide-treated bed nets (ITN), indoor residual spraying, larval source management, and intermittent preventive therapies for school children (IPTsc). Effective case management was either based on estimates from the malaria indicator survey in 2016 or set to a hypothetical target of 85%. A previously calibrated mathematical model in OpenMalaria was used to compare intervention impact predictions for prevalence and incidence between 2016 and 2020, or 2022.\n\nFor each malaria risk stratum four to ten intervention mixes were explored. In the low-risk and urban strata, the scenario without a ITN mass campaign in 2019, predicted high increase in prevalence by 2020 and 2022, while in the very-low strata the target prevalence of less than 1% was maintained at low pre-intervention transmission intensity and high case management. In the moderate and high strata, IPTsc in addition to existing vector control was predicted to reduce the incidence by an additional 15% and prevalence by 22%. In the high-risk strata, all interventions together reached a maximum reduction of 76%, with around 70% of that reduction attributable to high case management and ITNs. Overall, the simulated revised NMSP was predicted to achieve a slightly lower prevalence in 2020 compared to the 2015-2020 NMSP (5.3% vs 6.3%).\n\nModelling supported the choice of intervention per malaria risk strata by providing impact comparisons of various alternative intervention mixes to address specific questions relevant to the country. The use of a council-calibrated model, that reproduces local malaria trends, represents a useful tool for compiling available evidence into a single analytical platform, that complement other evidence, to aid national programmes with decision-making processes.",
+      "evidence_sentences": [
+        "Modelling supported the choice of intervention per malaria risk strata by providing impact comparisons of various alternative intervention mixes to address specific questions relevant to the country.",
+        "This paper describes how mathematical modelling was used in mainland Tanzania to support the strategic revision that followed the mid-term review of the 2015-2020 national malaria strategic plan (NMSP) and the epidemiological risk stratification at the council level in 2018.",
+        "The use of a council-calibrated model, that reproduces local malaria trends, represents a useful tool for compiling available evidence into a single analytical platform, that complement other evidence, to aid national programmes with decision-making processes."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Manuela Runge",
+        "Sumaiyya G Thawer",
+        "Fabrizio Molteni",
+        "Frank Chacky",
+        "Sigsbert Mkude",
+        "Renata Mandike",
+        "Robert W Snow",
+        "Christian Lengeler",
+        "Ally Mohamed",
+        "Emilie Pothin"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35300707/"
+    },
+    {
+      "pmid": "9337001",
+      "title": "Chloroquine versus pyrimethamine/sulphadoxine in the treatment of uncomplicated P. falciparum malaria in northern Kenya.",
+      "journal": "East African medical journal",
+      "abstract_sections": [
+        "The response of P. Falciparum to chloroquine (CQ) and pyrimethamine-sulphadoxine (PSD) in vivo was investigated in 173 indigenous uncomplicated malaria patients at Sololo Hospital, Moyale district in northern Kenya. All the patients were symptomatic and parasitaemic. They were divided in two age groups (children < 10 years, adults > 10 years). They were randomly assigned to receive either CQ or PSD standard treatment and then followed up at 7 and 14 days. In the child group, out of 91 patients enrolled, 65 (71.4%) completed the seven-day study; among these 38 (17 females and 21 males with mean age of 41.9 months) were treated with CQ and 27 (11 females and 16 males with mean age 39.1 months) with PSD. Parasites were significantly (p < 0.001) more resistant to CQ (18/38, 47.4%) than PSD (0/27, 0%). In the adult group, out of 82 patients enrolled, 54 (65.9%) completed the 7-day-study, and among these 27 (10 females and 17 males with mean age of 22.5 years) were treated with CQ and 27 (11 females and 16 males with mean age of 23.2 years) with PSD. Parasites were significantly (p = 0.01) more resistant to CQ (7/20, 25.9%) than PSD (0/27, 0%). Overall, considering the 119 patients who completed the follow-up, the resistance of P. falciparum was significantly higher (p < 0.001) to CQ (25/65, 38.5%) than to PSD (0/54, 0%). Out of the 94 patients with negative slide at day 7, fifty seven came at the control of the day 14 (30 children and 27 adults). Among them, 22 were in CQ group and five were found positive (22.7%), while the 35 patients in PSD group all tested negative (p = 0.006). The resistance to CQ in the children group was 25% (p = 0.05) and 20% in the adult group (p = 0.13). We conclude that the significant parasitological resistance to CQ in the area under study questions the continued use of CQ as first line antimalarial treatment. On the contrary, PSD can still be considered a very effective drug against P. falciparum in northern Kenya."
+      ],
+      "abstract": "The response of P. Falciparum to chloroquine (CQ) and pyrimethamine-sulphadoxine (PSD) in vivo was investigated in 173 indigenous uncomplicated malaria patients at Sololo Hospital, Moyale district in northern Kenya. All the patients were symptomatic and parasitaemic. They were divided in two age groups (children < 10 years, adults > 10 years). They were randomly assigned to receive either CQ or PSD standard treatment and then followed up at 7 and 14 days. In the child group, out of 91 patients enrolled, 65 (71.4%) completed the seven-day study; among these 38 (17 females and 21 males with mean age of 41.9 months) were treated with CQ and 27 (11 females and 16 males with mean age 39.1 months) with PSD. Parasites were significantly (p < 0.001) more resistant to CQ (18/38, 47.4%) than PSD (0/27, 0%). In the adult group, out of 82 patients enrolled, 54 (65.9%) completed the 7-day-study, and among these 27 (10 females and 17 males with mean age of 22.5 years) were treated with CQ and 27 (11 females and 16 males with mean age of 23.2 years) with PSD. Parasites were significantly (p = 0.01) more resistant to CQ (7/20, 25.9%) than PSD (0/27, 0%). Overall, considering the 119 patients who completed the follow-up, the resistance of P. falciparum was significantly higher (p < 0.001) to CQ (25/65, 38.5%) than to PSD (0/54, 0%). Out of the 94 patients with negative slide at day 7, fifty seven came at the control of the day 14 (30 children and 27 adults). Among them, 22 were in CQ group and five were found positive (22.7%), while the 35 patients in PSD group all tested negative (p = 0.006). The resistance to CQ in the children group was 25% (p = 0.05) and 20% in the adult group (p = 0.13). We conclude that the significant parasitological resistance to CQ in the area under study questions the continued use of CQ as first line antimalarial treatment. On the contrary, PSD can still be considered a very effective drug against P. falciparum in northern Kenya.",
+      "evidence_sentences": [
+        "Falciparum to chloroquine (CQ) and pyrimethamine-sulphadoxine (PSD) in vivo was investigated in 173 indigenous uncomplicated malaria patients at Sololo Hospital, Moyale district in northern Kenya.",
+        "We conclude that the significant parasitological resistance to CQ in the area under study questions the continued use of CQ as first line antimalarial treatment.",
+        "In the adult group, out of 82 patients enrolled, 54 (65.9%) completed the 7-day-study, and among these 27 (10 females and 17 males with mean age of 22.5 years) were treated with CQ and 27 (11 females and 16 males with mean age of 23.2 years) with PSD."
+      ],
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "F Falaschi",
+        "L Ansaloni"
+      ],
+      "year": "1997",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/9337001/"
+    },
+    {
+      "pmid": "16167756",
+      "title": "Sickle cell disease in Uganda: a time for action.",
+      "journal": "East African medical journal",
+      "abstract_sections": [
+        "To draw attention to the extent of homozygous sickle cell (SS) disease as a public health problem in Uganda where a mean 20% frequency of the sickle cell trait implies that 25,000 babies with SS disease are born each year. To highlight the dangers of applying interventions developed in non-malarial areas to regions where malaria may change the natural history and outcome of sickle cell disease.",
+        "The published literature from Africa and from the US and Caribbean in populations of African ancestry.",
+        "The world literature especially, that derived from the US, Caribbean, and equatorial Africa.",
+        "In non-malarial areas, simple interventions applied early in life have significantly improved survival and the quality of life. Two well documented interventions are pneumococcal prophylaxis and the early parental diagnosis of acute splenic sequestration. The available literature from Africa suggests that neither of these may be appropriate in malarial areas.",
+        "Manifestations of SS disease differ in malarial areas and it is questionable whether interventions developed in non-malarial areas apply. There is an urgent need to document the causes of death so that locally appropriate interventions may be developed to improve survival. Equally urgent is the need to define the pattern of clinical problems so that models of care may be evolved for use in malarial areas. Without this knowledge, health care planners will not have the information necessary to develop strategies and limited resources may be inappropriately deployed."
+      ],
+      "abstract": "To draw attention to the extent of homozygous sickle cell (SS) disease as a public health problem in Uganda where a mean 20% frequency of the sickle cell trait implies that 25,000 babies with SS disease are born each year. To highlight the dangers of applying interventions developed in non-malarial areas to regions where malaria may change the natural history and outcome of sickle cell disease.\n\nThe published literature from Africa and from the US and Caribbean in populations of African ancestry.\n\nThe world literature especially, that derived from the US, Caribbean, and equatorial Africa.\n\nIn non-malarial areas, simple interventions applied early in life have significantly improved survival and the quality of life. Two well documented interventions are pneumococcal prophylaxis and the early parental diagnosis of acute splenic sequestration. The available literature from Africa suggests that neither of these may be appropriate in malarial areas.\n\nManifestations of SS disease differ in malarial areas and it is questionable whether interventions developed in non-malarial areas apply. There is an urgent need to document the causes of death so that locally appropriate interventions may be developed to improve survival. Equally urgent is the need to define the pattern of clinical problems so that models of care may be evolved for use in malarial areas. Without this knowledge, health care planners will not have the information necessary to develop strategies and limited resources may be inappropriately deployed.",
+      "evidence_sentences": [
+        "Manifestations of SS disease differ in malarial areas and it is questionable whether interventions developed in non-malarial areas apply.",
+        "Equally urgent is the need to define the pattern of clinical problems so that models of care may be evolved for use in malarial areas.",
+        "To highlight the dangers of applying interventions developed in non-malarial areas to regions where malaria may change the natural history and outcome of sickle cell disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "G R Serjeant",
+        "C M Ndugwa"
+      ],
+      "year": "2003",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16167756/"
+    },
+    {
+      "pmid": "29643434",
+      "title": "Genetic homogeneity of goat malaria parasites in Asia and Africa suggests their expansion with domestic goat host.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "Plasmodium was first identified in a goat in Angola in 1923, and only recently characterized by DNA isolation from a goat blood sample in Zambia. Goats were first domesticated in the Fertile Crescent approximately 10,000 years ago, and are now globally distributed. It is not known if the Plasmodium identified in African goats originated from parasites circulating in the local ungulates, or if it co-evolved in the goat before its domestication. To address this question, we performed PCR-based surveillance using a total of 1,299 goat blood samples collected from Sudan and Kenya in Africa, Iran in west Asia, and Myanmar and Thailand in southeast Asia. Plasmodium DNA was detected from all locations, suggesting that the parasite is not limited to Africa, but widely distributed. Whole mitochondrial DNA sequences revealed that there was only one nucleotide substitution between Zambian/Kenyan samples and others, supporting the existence of a goat-specific Plasmodium species, presumably Plasmodium caprae, rather than infection of goats by local ungulate malaria parasites. We also present the first photographic images of P. caprae, from one Kenyan goat sample."
+      ],
+      "abstract": "Plasmodium was first identified in a goat in Angola in 1923, and only recently characterized by DNA isolation from a goat blood sample in Zambia. Goats were first domesticated in the Fertile Crescent approximately 10,000 years ago, and are now globally distributed. It is not known if the Plasmodium identified in African goats originated from parasites circulating in the local ungulates, or if it co-evolved in the goat before its domestication. To address this question, we performed PCR-based surveillance using a total of 1,299 goat blood samples collected from Sudan and Kenya in Africa, Iran in west Asia, and Myanmar and Thailand in southeast Asia. Plasmodium DNA was detected from all locations, suggesting that the parasite is not limited to Africa, but widely distributed. Whole mitochondrial DNA sequences revealed that there was only one nucleotide substitution between Zambian/Kenyan samples and others, supporting the existence of a goat-specific Plasmodium species, presumably Plasmodium caprae, rather than infection of goats by local ungulate malaria parasites. We also present the first photographic images of P. caprae, from one Kenyan goat sample.",
+      "evidence_sentences": [
+        "Whole mitochondrial DNA sequences revealed that there was only one nucleotide substitution between Zambian/Kenyan samples and others, supporting the existence of a goat-specific Plasmodium species, presumably Plasmodium caprae, rather than infection of goats by local ungulate malaria parasites.",
+        "To address this question, we performed PCR-based surveillance using a total of 1,299 goat blood samples collected from Sudan and Kenya in Africa, Iran in west Asia, and Myanmar and Thailand in southeast Asia.",
+        "caprae, from one Kenyan goat sample."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Morakot Kaewthamasorn",
+        "Mika Takeda",
+        "Tawee Saiwichai",
+        "Jesse N Gitaka",
+        "Sonthaya Tiawsirisup",
+        "Yuhei Imasato",
+        "Ehab Mossaad",
+        "Ali Sarani",
+        "Winai Kaewlamun",
+        "Manun Channumsin",
+        "Suchart Chaiworakul",
+        "Wichit Katepongpun",
+        "Surapong Teeveerapunya",
+        "Jarus Panthong",
+        "Dominic K Mureithi",
+        "Saw Bawm",
+        "Lat Lat Htun",
+        "Mar Mar Win",
+        "Ahmed Ali Ismail",
+        "Abdalla Mohamed Ibrahim",
+        "Keisuke Suganuma",
+        "Hassan Hakimi",
+        "Ryo Nakao",
+        "Ken Katakura",
+        "Masahito Asada",
+        "Osamu Kaneko"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29643434/"
+    },
+    {
+      "pmid": "39245314",
+      "title": "Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control compared with albendazole and no treatment: An open-label randomized controlled trial.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "When malaria vectors consume ivermectin in a blood meal, their survival probability decreases, potentially reducing malaria transmission during mass drug administrations. However, questions remain regarding the optimal dosing. This study aimed to compare the mosquitocidal effect and pharmacokinetics of two-dose regimens of ivermectin for malaria vector control.",
+        "We conducted an open-label randomized control trial in Kenya, staggered in blocks with sequential intervention groups and parallel controls. Participants were randomly assigned (2:1:1:1) using computer random-sequence generation, unstratified, with one block of six pharmacokinetics-only participants (single-dose ivermectin) and six blocks of four participants (3:1 intervention vs control), to receive single-dose ivermectin (400 mcg/kg, n = 12), three daily doses (3-day regimen 300 mcg/kg, n = 6), albendazole (400 mg, n = 6), or no treatment (negative control, n = 6). Our primary outcome was Anopheles gambiae survival (time-to-event [days]) after blood feeding up to 10 days after drug administration. We also evaluated pharmacokinetics (peak plasma and capillary blood concentration, areas under the plasma and capillary blood concentration-time curve from time of last administration to time of last observation, time to reach peak plasma and capillary blood concentration, terminal elimination half-life) up to 7 days after treatment.",
+        "A total of 36 healthy volunteers aged 21-32 years were recruited into the study and followed up to completion, with two participants not attending the visit on day 28. All drug regimens were well-tolerated. Both regimens showed significant mosquitocidal effect in the first 7 days. At 10 days after treatment, the single dose presented superior longevity of effect (adjusted hazard ratio = 3.91; 95% confidence interval = 1.93-7.93; P <0.001) compared with the triple dose (adjusted hazard ratio = 1.79; 95% confidence interval = 0.88-3.62; P = 0.0.11). Albendazole had, overall, no mosquitocidal effect.",
+        "It is unclear why a single dose led to increased bio-efficacy compared with a triple dose. We recommend trials investigating ivermectin mass drug administrations for malaria control to consider single-dose ivermectin. A single-dose regimen is also expected to present additional operational advantages compared with a 3-day regimen, leading to improved programmatic suitability."
+      ],
+      "abstract": "When malaria vectors consume ivermectin in a blood meal, their survival probability decreases, potentially reducing malaria transmission during mass drug administrations. However, questions remain regarding the optimal dosing. This study aimed to compare the mosquitocidal effect and pharmacokinetics of two-dose regimens of ivermectin for malaria vector control.\n\nWe conducted an open-label randomized control trial in Kenya, staggered in blocks with sequential intervention groups and parallel controls. Participants were randomly assigned (2:1:1:1) using computer random-sequence generation, unstratified, with one block of six pharmacokinetics-only participants (single-dose ivermectin) and six blocks of four participants (3:1 intervention vs control), to receive single-dose ivermectin (400 mcg/kg, n = 12), three daily doses (3-day regimen 300 mcg/kg, n = 6), albendazole (400 mg, n = 6), or no treatment (negative control, n = 6). Our primary outcome was Anopheles gambiae survival (time-to-event [days]) after blood feeding up to 10 days after drug administration. We also evaluated pharmacokinetics (peak plasma and capillary blood concentration, areas under the plasma and capillary blood concentration-time curve from time of last administration to time of last observation, time to reach peak plasma and capillary blood concentration, terminal elimination half-life) up to 7 days after treatment.\n\nA total of 36 healthy volunteers aged 21-32 years were recruited into the study and followed up to completion, with two participants not attending the visit on day 28. All drug regimens were well-tolerated. Both regimens showed significant mosquitocidal effect in the first 7 days. At 10 days after treatment, the single dose presented superior longevity of effect (adjusted hazard ratio = 3.91; 95% confidence interval = 1.93-7.93; P <0.001) compared with the triple dose (adjusted hazard ratio = 1.79; 95% confidence interval = 0.88-3.62; P = 0.0.11). Albendazole had, overall, no mosquitocidal effect.\n\nIt is unclear why a single dose led to increased bio-efficacy compared with a triple dose. We recommend trials investigating ivermectin mass drug administrations for malaria control to consider single-dose ivermectin. A single-dose regimen is also expected to present additional operational advantages compared with a 3-day regimen, leading to improved programmatic suitability.",
+      "evidence_sentences": [
+        "When malaria vectors consume ivermectin in a blood meal, their survival probability decreases, potentially reducing malaria transmission during mass drug administrations.",
+        "We conducted an open-label randomized control trial in Kenya, staggered in blocks with sequential intervention groups and parallel controls.",
+        "This study aimed to compare the mosquitocidal effect and pharmacokinetics of two-dose regimens of ivermectin for malaria vector control."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Yvonne Kamau",
+        "Mercy Tuwei",
+        "Caroline Wanjiku",
+        "Kelly Ominde",
+        "Mwanajuma Ngama",
+        "Jonathan Karisa",
+        "Lawrence Babu",
+        "Martha Muturi",
+        "Mwaganyuma Mwatasa",
+        "Jane Adetifa",
+        "Charlotte Kern",
+        "Urs Duthaler",
+        "Felix Hammann",
+        "Regina Rabinovich",
+        "Carlos Chaccour",
+        "Marta Ferreira Maia"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39245314/"
+    },
+    {
+      "pmid": "33884362",
+      "title": "Proceedings of an expert workshop on community agreement for gene drive research in Africa - Co-organised by KEMRI, PAMCA and Target Malaria.",
+      "journal": "Gates open research",
+      "abstract_sections": [
+        "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa. While many literature sources and guidance point to the inadequacy of individual informed consent for any genetically modified mosquito release, including gene drive ones, (outside of epidemiological studies that might require blood samples) and at the need for a community-level decision, researchers often find themselves with no specific guidance on how that decision should be made, expressed and by whom. Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices. This paper shares the outcomes of that workshop and highlights the remaining topics for discussion before a comprehensive model can be designed."
+      ],
+      "abstract": "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa. While many literature sources and guidance point to the inadequacy of individual informed consent for any genetically modified mosquito release, including gene drive ones, (outside of epidemiological studies that might require blood samples) and at the need for a community-level decision, researchers often find themselves with no specific guidance on how that decision should be made, expressed and by whom. Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices. This paper shares the outcomes of that workshop and highlights the remaining topics for discussion before a comprehensive model can be designed.",
+      "evidence_sentences": [
+        "Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices.",
+        "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa.",
+        "This paper shares the outcomes of that workshop and highlights the remaining topics for discussion before a comprehensive model can be designed."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Delphine Thizy",
+        "Lea Pare Toe",
+        "Charles Mbogo",
+        "Damaris Matoke-Muhia",
+        "Vincent Pius Alibu",
+        "S Kathleen Barnhill-Dilling",
+        "Tracey Chantler",
+        "Gershom Chongwe",
+        "Jason Delborne",
+        "Lydia Kapiriri",
+        "Esther Nassonko Kavuma",
+        "Sethlomo Koloi-Keaikitse",
+        "Ana Kormos",
+        "Katherine Littler",
+        "Dickson Lwetoijera",
+        "Roberta Vargas de Moraes",
+        "Noni Mumba",
+        "Lilian Mutengu",
+        "Sylvia Mwichuli",
+        "Silvia Elizabeth Nabukenya",
+        "Janet Nakigudde",
+        "Paul Ndebele",
+        "Carolyne Ngara",
+        "Eric Ochomo",
+        "Simon Odiwuor Ondiek",
+        "Stephany Rivera",
+        "Aaron J Roberts",
+        "Benjamin Robinson",
+        "Rodrick Sambakunsi",
+        "Abha Saxena",
+        "Naima Sykes",
+        "Brian B Tarimo",
+        "Nicki Tiffin",
+        "Karen H Tountas"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33884362/"
+    },
+    {
+      "pmid": "37662206",
+      "title": "Analytic optimization of",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "abstract_sections": [
+        "Molecular epidemiologic studies of malaria parasites commonly employ amplicon deep sequencing (AmpSeq) of marker genes derived from dried blood spots (DBS) to answer public health questions related to topics such as transmission and drug resistance. As these methods are increasingly employed to inform direct public health action, it is important to rigorously evaluate the risk of false positive and false negative haplotypes derived from clinically-relevant sample types. We performed a control experiment evaluating haplotype recovery from AmpSeq of 5 marker genes ("
+      ],
+      "abstract": "Molecular epidemiologic studies of malaria parasites commonly employ amplicon deep sequencing (AmpSeq) of marker genes derived from dried blood spots (DBS) to answer public health questions related to topics such as transmission and drug resistance. As these methods are increasingly employed to inform direct public health action, it is important to rigorously evaluate the risk of false positive and false negative haplotypes derived from clinically-relevant sample types. We performed a control experiment evaluating haplotype recovery from AmpSeq of 5 marker genes (",
+      "evidence_sentences": [
+        "Molecular epidemiologic studies of malaria parasites commonly employ amplicon deep sequencing (AmpSeq) of marker genes derived from dried blood spots (DBS) to answer public health questions related to topics such as transmission and drug resistance.",
+        "As these methods are increasingly employed to inform direct public health action, it is important to rigorously evaluate the risk of false positive and false negative haplotypes derived from clinically-relevant sample types."
+      ],
+      "publication_types": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Zena Lapp",
+        "Elizabeth Freedman",
+        "Kathie Huang",
+        "Christine F Markwalter",
+        "Andrew A Obala",
+        "Wendy Prudhomme-O'Meara",
+        "Steve M Taylor"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37662206/"
+    },
+    {
+      "pmid": "16638153",
+      "title": "Invasion of Africa by a single pfcrt allele of South East Asian type.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Because of its dramatic public health impact, Plasmodium falciparum resistance to chloroquine (CQ) has been documented early on. Chloroquine-resistance (CQR) emerged in the late 1950's independently in South East Asia and South America and progressively spread over all malaria areas. CQR was reported in East Africa in the 1970's, and has since invaded the African continent. Many questions remain about the actual selection and spreading process of CQR parasites, and about the evolution of the ancestral mutant gene(s) during spreading.",
+        "Eleven clinical isolates of P. falciparum from Cambodia and 238 from Africa (Senegal, Ivory Coast, Bukina Faso, Mali, Guinea, Togo, Benin, Niger, Congo, Madagascar, Comoros Islands, Tanzania, Kenya, Mozambique, Cameroun, Gabon) were collected during active case detection surveys carried out between 1996 and 2001. Parasite DNA was extracted from frozen blood aliquots and amplification of the gene pfcrt exon 2 (codon 72-76), exon 4 and intron 4 (codon 220 and microsatellite marker) were performed. All fragments were sequenced.",
+        "124 isolates with a sensitive (c76/c220:CVMNK/A) haplotype and 125 isolates with a resistant c76/c220:CVIET/S haplotype were found. The microsatellite showed 17 different types in the isolates carrying the c76/c220:CVMNK/A haplotype while all 125 isolates with a CVIET/S haplotype but two had a single microsatellite type, namely (TAAA)3(TA)15, whatever the location or time of collection.",
+        "Those results are consistent with the migration of a single ancestral pfcrt CQR allele from Asia to Africa. This is related to the importance of PFCRT in the fitness of P. falciparum point out this protein as a potential target for developments of new antimalarial drugs."
+      ],
+      "abstract": "Because of its dramatic public health impact, Plasmodium falciparum resistance to chloroquine (CQ) has been documented early on. Chloroquine-resistance (CQR) emerged in the late 1950's independently in South East Asia and South America and progressively spread over all malaria areas. CQR was reported in East Africa in the 1970's, and has since invaded the African continent. Many questions remain about the actual selection and spreading process of CQR parasites, and about the evolution of the ancestral mutant gene(s) during spreading.\n\nEleven clinical isolates of P. falciparum from Cambodia and 238 from Africa (Senegal, Ivory Coast, Bukina Faso, Mali, Guinea, Togo, Benin, Niger, Congo, Madagascar, Comoros Islands, Tanzania, Kenya, Mozambique, Cameroun, Gabon) were collected during active case detection surveys carried out between 1996 and 2001. Parasite DNA was extracted from frozen blood aliquots and amplification of the gene pfcrt exon 2 (codon 72-76), exon 4 and intron 4 (codon 220 and microsatellite marker) were performed. All fragments were sequenced.\n\n124 isolates with a sensitive (c76/c220:CVMNK/A) haplotype and 125 isolates with a resistant c76/c220:CVIET/S haplotype were found. The microsatellite showed 17 different types in the isolates carrying the c76/c220:CVMNK/A haplotype while all 125 isolates with a CVIET/S haplotype but two had a single microsatellite type, namely (TAAA)3(TA)15, whatever the location or time of collection.\n\nThose results are consistent with the migration of a single ancestral pfcrt CQR allele from Asia to Africa. This is related to the importance of PFCRT in the fitness of P. falciparum point out this protein as a potential target for developments of new antimalarial drugs.",
+      "evidence_sentences": [
+        "Chloroquine-resistance (CQR) emerged in the late 1950's independently in South East Asia and South America and progressively spread over all malaria areas.",
+        "falciparum point out this protein as a potential target for developments of new antimalarial drugs.",
+        "falciparum from Cambodia and 238 from Africa (Senegal, Ivory Coast, Bukina Faso, Mali, Guinea, Togo, Benin, Niger, Congo, Madagascar, Comoros Islands, Tanzania, Kenya, Mozambique, Cameroun, Gabon) were collected during active case detection surveys carried out between 1996 and 2001."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Frédéric Ariey",
+        "Thierry Fandeur",
+        "Remy Durand",
+        "Milijaona Randrianarivelojosia",
+        "Ronan Jambou",
+        "Eric Legrand",
+        "Marie Thérèse Ekala",
+        "Christiane Bouchier",
+        "Sandrine Cojean",
+        "Jean Bernard Duchemin",
+        "Vincent Robert",
+        "Jacques Le Bras",
+        "Odile Mercereau-Puijalon"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16638153/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "42",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38583454",
+        "37068901",
+        "36803858",
+        "29566732",
+        "17559638",
+        "24958707",
+        "8235751",
+        "17565676",
+        "36943831",
+        "20530796",
+        "2100881",
+        "37604474",
+        "15984377",
+        "23418427",
+        "7956864",
+        "22175693",
+        "17581027",
+        "37391703",
+        "37612716",
+        "30926893",
+        "31285980",
+        "35725411",
+        "35300707",
+        "9337001",
+        "16167756",
+        "29643434",
+        "39245314",
+        "33884362",
+        "37662206",
+        "16638153"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "clinical",
+          "to": "\"ambulatory care facilities\"[MeSH Terms] OR (\"ambulatory\"[All Fields] AND \"care\"[All Fields] AND \"facilities\"[All Fields]) OR \"ambulatory care facilities\"[All Fields] OR \"clinic\"[All Fields] OR \"clinic's\"[All Fields] OR \"clinical\"[All Fields] OR \"clinically\"[All Fields] OR \"clinicals\"[All Fields] OR \"clinics\"[All Fields]"
+        },
+        {
+          "from": "question",
+          "to": "\"question\"[All Fields] OR \"question's\"[All Fields] OR \"questionable\"[All Fields] OR \"questionables\"[All Fields] OR \"questionably\"[All Fields] OR \"questioned\"[All Fields] OR \"questioner\"[All Fields] OR \"questioners\"[All Fields] OR \"questioning\"[All Fields] OR \"questionings\"[All Fields] OR \"questions\"[All Fields]"
+        },
+        {
+          "from": "kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"ambulatory care facilities\"[MeSH Terms] OR (\"ambulatory\"[All Fields] AND \"care\"[All Fields] AND \"facilities\"[All Fields]) OR \"ambulatory care facilities\"[All Fields] OR \"clinic\"[All Fields] OR \"clinic s\"[All Fields] OR \"clinical\"[All Fields] OR \"clinically\"[All Fields] OR \"clinicals\"[All Fields] OR \"clinics\"[All Fields]) AND (\"question\"[All Fields] OR \"question s\"[All Fields] OR \"questionable\"[All Fields] OR \"questionables\"[All Fields] OR \"questionably\"[All Fields] OR \"questioned\"[All Fields] OR \"questioner\"[All Fields] OR \"questioners\"[All Fields] OR \"questioning\"[All Fields] OR \"questionings\"[All Fields] OR \"questions\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields])"
+    }
+  }
+}

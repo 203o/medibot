@@ -1,0 +1,74 @@
+{
+  "run_id": "ee8f905ae6cc471ab9da4a7444e7238b",
+  "stored_at": "2026-04-17T19:12:53+00:00",
+  "query": "cancer latest treatment therapy management canada",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management canada",
+    "cancer epidemiology canada",
+    "lung cancer treatment outcomes meta-analysis",
+    "systematic review canada cancer therapy",
+    "current cancer management strategies canada",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management canada",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology canada",
+    "lung cancer treatment outcomes meta-analysis",
+    "systematic review canada cancer therapy",
+    "current cancer management strategies canada"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 68,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology canada",
+      "lung cancer treatment outcomes meta-analysis",
+      "systematic review canada cancer therapy",
+      "current cancer management strategies canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ee8f905ae6cc471ab9da4a7444e7238b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ee8f905ae6cc471ab9da4a7444e7238b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ee8f905ae6cc471ab9da4a7444e7238b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ee8f905ae6cc471ab9da4a7444e7238b\\combined.records.json"
+  }
+}

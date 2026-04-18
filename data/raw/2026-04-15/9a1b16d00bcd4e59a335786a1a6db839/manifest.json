@@ -1,0 +1,32 @@
+{
+  "run_id": "9a1b16d00bcd4e59a335786a1a6db839",
+  "stored_at": "2026-04-15T20:32:06+00:00",
+  "query": "malaria hydration kenya turkana",
+  "query_fallbacks": [
+    "malaria hydration kenya turkana",
+    "malaria hydration",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "hydration",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 4,
+    "semantic_hits": 5,
+    "indexed_chunks": 6
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\9a1b16d00bcd4e59a335786a1a6db839\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\9a1b16d00bcd4e59a335786a1a6db839\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\9a1b16d00bcd4e59a335786a1a6db839\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\9a1b16d00bcd4e59a335786a1a6db839\\combined.records.json"
+  }
+}

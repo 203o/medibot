@@ -1,0 +1,57 @@
+{
+  "run_id": "59ad7eb7c0c04c5bb1981476db8af2ad",
+  "stored_at": "2026-04-16T14:08:10+00:00",
+  "query": "hiv clinical question africa",
+  "query_fallbacks": [
+    "hiv clinical question africa",
+    "hiv clinical question",
+    "hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv clinical question africa",
+    "hiv clinical question",
+    "hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "hiv",
+    "clinical",
+    "question",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 66,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\59ad7eb7c0c04c5bb1981476db8af2ad\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\59ad7eb7c0c04c5bb1981476db8af2ad\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\59ad7eb7c0c04c5bb1981476db8af2ad\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\59ad7eb7c0c04c5bb1981476db8af2ad\\combined.records.json"
+  }
+}

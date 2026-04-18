@@ -1,0 +1,70 @@
+{
+  "run_id": "7389d7b1289844a0a0ba094c7bab6112",
+  "stored_at": "2026-04-16T11:02:51+00:00",
+  "query": "hiv infections kenya",
+  "query_fallbacks": [
+    "hiv infections kenya",
+    "HIV prevalence Kenya",
+    "Epidemiology of HIV in Kenya",
+    "Kenya HIV incidence",
+    "HIV burden Kenya",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv kenya",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv infections kenya",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv kenya",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV prevalence Kenya",
+    "Epidemiology of HIV in Kenya",
+    "Kenya HIV incidence",
+    "HIV burden Kenya"
+  ],
+  "keywords": [
+    "hiv",
+    "infections",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 113
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV prevalence Kenya",
+      "Epidemiology of HIV in Kenya",
+      "Kenya HIV incidence",
+      "HIV burden Kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\7389d7b1289844a0a0ba094c7bab6112\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\7389d7b1289844a0a0ba094c7bab6112\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\7389d7b1289844a0a0ba094c7bab6112\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\7389d7b1289844a0a0ba094c7bab6112\\combined.records.json"
+  }
+}

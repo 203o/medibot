@@ -1,0 +1,2388 @@
+{
+  "query": "lung cancer latest treatment therapy management kenya",
+  "selected_query": "epidemiology of lung cancer in kenya",
+  "attempted_queries": [
+    {
+      "query": "lung cancer latest treatment therapy management kenya",
+      "location_filter": "kenya",
+      "count": 0
+    },
+    {
+      "query": "lung cancer latest treatment therapy management kenya",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "lung cancer treatment options in kenya",
+      "location_filter": "kenya",
+      "count": 0
+    },
+    {
+      "query": "lung cancer treatment options in kenya",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "epidemiology of lung cancer in kenya",
+      "location_filter": "kenya",
+      "count": 1
+    }
+  ],
+  "location": "kenya",
+  "records": [
+    {
+      "nct_id": "NCT01661101",
+      "title": "Management of Myocardial Injury After Noncardiac Surgery Trial",
+      "brief_summary": "Patients who have myocardial injury after noncardiac surgery are at a higher risk of dying than those who do not. One in 10 patients with myocardial injury will die within 30 days of surgery. This risk of death exists up to one year after myocardial injury. There are currently no treatments or guidelines available for heart injury after surgery, but there is evidence that taking a blood-thinner can prevent some of the deaths, both in the short and long-term. The purpose of this trial is to test the effect of two drugs (dabigatran and omeprazole) that may prevent mortality, major cardiovascular complications and major upper gastrointestinal bleeding in patients who have had myocardial injury after noncardiac surgery.",
+      "detailed_description": "Myocardial injury is the most common major vascular complication after noncardiac surgery. Worldwide approximately 10 million adults annually suffer a perioperative myocardial injury. This figure for perioperative myocardial injury represents 15-20% of all cases of myocardial infarction in all settings. Myocardial injury after noncardiac surgery carries a poor prognosis and is an independent predictor of 30-day and 1-year mortality.\n\nMyocardial injury after noncardiac surgery (MINS) differs from non-operative myocardial infarction in two ways; it has a poorer prognosis (patients suffering MINS are 2 times more likely to die within 30 days compared to non-operative myocardial infarction in the emergency room) and paradoxically its treatment is less intensive. This difference in the intensity of treatment is likely influenced by several factors including: (1) a majority of patients suffering MINS do not experience ischemic symptoms, potentially influencing physicians' perception of the severity of the event; (2) there is debate as to the pathophysiology of MINS (although emerging evidence does suggest that coronary arterial thrombosis is an important mechanism of MINS); and (3) no randomized controlled trial (RCT) has evaluated an intervention to manage MINS, and hence physicians are uncertain about the risk-benefit ratio of potential interventions (e.g., interventions that are effective in the management of non-operative myocardial infarction). From a human and economic perspective, it is a tragedy that some patients undergoing noncardiac surgery for important reasons (e.g., to obtain a cure of their cancer or to become mobile after a new prosthetic joint) fail to obtain these benefits, because they suffer MINS that ultimately takes their life. There is an urgent need for clinical trials to identify effective therapies to improve the outcomes of patients suffering MINS.\n\nThere exists promising laboratory, autopsy, imaging, operative, and non-operative data suggesting that patients suffering MINS will benefit from anticoagulant therapy. Dabigatran (a direct thrombin inhibitor) warrants evaluation in the management of MINS. The major limitation of anticoagulation therapy is bleeding, and gastrointestinal bleeding represents a substantial proportion of these complications. Gastrointestinal bleeding is important in its own right, but also because it leads to cessation of anticoagulant therapy which may lead to breakthrough myocardial infarction. Omeprazole (a proton pump inhibitor) is efficacious in preventing upper gastrointestinal bleeding in patients with coronary artery disease who are taking dual antiplatelet therapy, and may benefit patients receiving anticoagulation therapy after suffering MINS.\n\nWe will undertake a large international RCT to determine the impact of dabigatran in patients who have suffered MINS. We will use a partial factorial design (for patients not taking a proton pump inhibitor) to determine the impact of omeprazole in this setting. We call this RCT the Management of myocardial injury After NoncArdiac surGEry (MANAGE) Trial.",
+      "evidence_sentences": [
+        "This difference in the intensity of treatment is likely influenced by several factors including: (1) a majority of patients suffering MINS do not experience ischemic symptoms, potentially influencing physicians' perception of the severity of the event; (2) there is debate as to the pathophysiology of MINS (although emerging evidence does suggest that coronary arterial thrombosis is an important mechanism of MINS); and (3) no randomized controlled trial (RCT) has evaluated an intervention to manage MINS, and hence physicians are uncertain about the risk-benefit ratio of potential interventions (e.g., interventions that are effective in the management of non-operative myocardial infarction).",
+        "Myocardial injury after noncardiac surgery (MINS) differs from non-operative myocardial infarction in two ways; it has a poorer prognosis (patients suffering MINS are 2 times more likely to die within 30 days compared to non-operative myocardial infarction in the emergency room) and paradoxically its treatment is less intensive.",
+        "There are currently no treatments or guidelines available for heart injury after surgery, but there is evidence that taking a blood-thinner can prevent some of the deaths, both in the short and long-term."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2018-03-22",
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer",
+        "kenya"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT01661101",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT01661101",
+            "orgStudyIdInfo": {
+              "id": "1160.143"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2011-006056-37",
+                "type": "EUDRACT_NUMBER"
+              }
+            ],
+            "organization": {
+              "fullName": "Population Health Research Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Management of Myocardial Injury After Noncardiac Surgery Trial",
+            "officialTitle": "A Large, International, Randomized, Placebo-controlled Trial to Assess the Impact of Dabigatran (a Direct Thrombin Inhibitor) and Omeprazole (a Proton-pump Inhibitor) in Patients Suffering Myocardial Injury After Noncardiac Surgery",
+            "acronym": "MANAGE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-03",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2013-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2018-03-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2018-03-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2012-08-07",
+            "studyFirstSubmitQcDate": "2012-08-07",
+            "studyFirstPostDateStruct": {
+              "date": "2012-08-09",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-03-22",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-03-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "P.J. Devereaux",
+              "investigatorTitle": "Professor, Medicine (Cardiology) and Clinical Epidemiology and Biostatistics, McMaster University",
+              "investigatorAffiliation": "Population Health Research Institute"
+            },
+            "leadSponsor": {
+              "name": "Population Health Research Institute",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Patients who have myocardial injury after noncardiac surgery are at a higher risk of dying than those who do not. One in 10 patients with myocardial injury will die within 30 days of surgery. This risk of death exists up to one year after myocardial injury. There are currently no treatments or guidelines available for heart injury after surgery, but there is evidence that taking a blood-thinner can prevent some of the deaths, both in the short and long-term. The purpose of this trial is to test the effect of two drugs (dabigatran and omeprazole) that may prevent mortality, major cardiovascular complications and major upper gastrointestinal bleeding in patients who have had myocardial injury after noncardiac surgery.",
+            "detailedDescription": "Myocardial injury is the most common major vascular complication after noncardiac surgery. Worldwide approximately 10 million adults annually suffer a perioperative myocardial injury. This figure for perioperative myocardial injury represents 15-20% of all cases of myocardial infarction in all settings. Myocardial injury after noncardiac surgery carries a poor prognosis and is an independent predictor of 30-day and 1-year mortality.\n\nMyocardial injury after noncardiac surgery (MINS) differs from non-operative myocardial infarction in two ways; it has a poorer prognosis (patients suffering MINS are 2 times more likely to die within 30 days compared to non-operative myocardial infarction in the emergency room) and paradoxically its treatment is less intensive. This difference in the intensity of treatment is likely influenced by several factors including: (1) a majority of patients suffering MINS do not experience ischemic symptoms, potentially influencing physicians' perception of the severity of the event; (2) there is debate as to the pathophysiology of MINS (although emerging evidence does suggest that coronary arterial thrombosis is an important mechanism of MINS); and (3) no randomized controlled trial (RCT) has evaluated an intervention to manage MINS, and hence physicians are uncertain about the risk-benefit ratio of potential interventions (e.g., interventions that are effective in the management of non-operative myocardial infarction). From a human and economic perspective, it is a tragedy that some patients undergoing noncardiac surgery for important reasons (e.g., to obtain a cure of their cancer or to become mobile after a new prosthetic joint) fail to obtain these benefits, because they suffer MINS that ultimately takes their life. There is an urgent need for clinical trials to identify effective therapies to improve the outcomes of patients suffering MINS.\n\nThere exists promising laboratory, autopsy, imaging, operative, and non-operative data suggesting that patients suffering MINS will benefit from anticoagulant therapy. Dabigatran (a direct thrombin inhibitor) warrants evaluation in the management of MINS. The major limitation of anticoagulation therapy is bleeding, and gastrointestinal bleeding represents a substantial proportion of these complications. Gastrointestinal bleeding is important in its own right, but also because it leads to cessation of anticoagulant therapy which may lead to breakthrough myocardial infarction. Omeprazole (a proton pump inhibitor) is efficacious in preventing upper gastrointestinal bleeding in patients with coronary artery disease who are taking dual antiplatelet therapy, and may benefit patients receiving anticoagulation therapy after suffering MINS.\n\nWe will undertake a large international RCT to determine the impact of dabigatran in patients who have suffered MINS. We will use a partial factorial design (for patients not taking a proton pump inhibitor) to determine the impact of omeprazole in this setting. We call this RCT the Management of myocardial injury After NoncArdiac surGEry (MANAGE) Trial."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Myocardial Injury After Noncardiac Surgery (MINS)"
+            ],
+            "keywords": [
+              "Perioperative myocardial infarction",
+              "Myocardial injury",
+              "noncardiac surgery"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "FACTORIAL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1754,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Dabigatran",
+                "type": "EXPERIMENTAL",
+                "description": "Dabigatran 110 mg capsule taken twice daily",
+                "interventionNames": [
+                  "Drug: Dabigatran"
+                ]
+              },
+              {
+                "label": "Omeprazole",
+                "type": "EXPERIMENTAL",
+                "description": "Omeprazole 20 mg capsule taken once daily",
+                "interventionNames": [
+                  "Drug: Omeprazole"
+                ]
+              },
+              {
+                "label": "Placebo (dabigatran)",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Dabigatran placebo taken twice daily",
+                "interventionNames": [
+                  "Drug: Placebo (for Dabigatran)"
+                ]
+              },
+              {
+                "label": "Placebo (omeprazole)",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Omeprazole placebo taken once daily",
+                "interventionNames": [
+                  "Drug: Placebo (for Omeprazole)"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Dabigatran",
+                "description": "Dabigatran 110 mg taken twice daily",
+                "armGroupLabels": [
+                  "Dabigatran"
+                ],
+                "otherNames": [
+                  "Pradaxa"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo (for Dabigatran)",
+                "description": "Dabigatran placebo taken twice daily",
+                "armGroupLabels": [
+                  "Placebo (dabigatran)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Omeprazole",
+                "description": "Omeprazole 20 mg capsule taken once daily",
+                "armGroupLabels": [
+                  "Omeprazole"
+                ],
+                "otherNames": [
+                  "Prilosec",
+                  "Zegerid"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo (for Omeprazole)",
+                "description": "Omeprazole placebo taken once daily",
+                "armGroupLabels": [
+                  "Placebo (omeprazole)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Major vascular complication (for Dabigatran)",
+                "description": "A composite of the number of patients suffering vascular mortality, nonfatal myocardial infarction, nonfatal non-hemorrhagic stroke, nonfatal peripheral arterial thrombosis, nonfatal amputation, and nonfatal symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis).",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Major upper gastrointestinal complication (for Omeprazole)",
+                "description": "A composite of the number of patients suffering overt gastroduodenal bleeding, overt upper gastrointestinal bleeding of unknown origin, or upper gastrointestinal perforation.",
+                "timeFrame": "Average of 1 year follow-up"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Individual secondary outcomes for Dabigatran",
+                "description": "The number of patients suffering all-cause mortality, vascular mortality, myocardial infarction, non-hemorrhagic stroke, cardiac revascularization procedure, symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis), amputation, peripheral arterial thrombosis, and rehospitalization for vascular reasons.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Upper gastrointestinal complication for Omeprazole",
+                "description": "A composite of the number of patients suffering overt gastroduodenal bleeding, overt upper gastrointestinal bleeding of unknown origin, symptomatic gastroduodenal ulcer, gastrointestinal pain with underlying multiple gastroduodenal erosions, or upper gastrointestinal perforation.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Major vascular complication for Omeprazole",
+                "description": "A composite of the number of patients suffering vascular mortality, nonfatal myocardial infarction, nonfatal non-hemorrhagic stroke, nonfatal peripheral arterial thrombosis, nonfatal amputation, and nonfatal symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis).",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Individual secondary outcomes for Omeprazole",
+                "description": "The number of patients suffering overt gastroduodenal bleeding, overt esophageal bleeding, overt upper gastrointestinal bleeding of unknown origin, symptomatic gastroduodenal ulcer, gastrointestinal pain with underlying multiple gastroduodenal erosions, upper gastrointestinal perforation, bleeding of assumed occult gastrointestinal origin with a documented drop in hemoglobin of ≥ 3.0 g/dL, dyspepsia, and mortality.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Safety outcomes for Dabigatran",
+                "description": "1. A composite of the number of patients suffering life-threatening bleeding, major bleeding, and critical organ bleeding (i.e., intracranial, intraocular, intraspinal, pericardial, retroperitoneal).\n2. The number of patients suffering life-threatening bleeding, major bleeding, critical organ bleeding, intracranial bleeding, minor bleeding, hemorrhagic stroke, significant lower gastrointestinal bleeding, non-significant lower gastrointestinal bleeding, fracture, and dyspepsia.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Safety outcomes for Omeprazole",
+                "description": "The number of patients suffering Clostridium difficile-associated diarrhea, diarrhea, community-acquired pneumonia, and fractures.",
+                "timeFrame": "Average of 1 year follow-up"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\nPatients are eligible if they:\n\n1. have undergone noncardiac surgery;\n2. are ≥45 years of age;\n3. have suffered MINS based upon fulfilling one of the following criteria: A. Elevated troponin or CK-MB measurement with one or more of the following defining features i. ischemic signs or symptoms (i.e., chest, arm, neck, or jaw discomfort; shortness of breath, pulmonary edema); ii. development of pathologic Q waves present in any two contiguous leads that are ≥30 milliseconds; iii. electrocardiogram (ECG) changes indicative of ischemia (i.e., ST segment elevation \\[≥2 mm in leads V1, V2, or V3 OR ≥1 mm in the other leads\\], ST segment depression \\[≥1 mm\\], OR symmetric inversion of T waves ≥1 mm) in at least two contiguous leads; iv. new LBBB; or v. new or presumed new cardiac wall motion abnormality on echocardiography or new or presumed new fixed defect on radionuclide imaging B. Elevated troponin measurement after surgery with no alternative explanation (e.g., pulmonary embolism, sepsis) to myocardial injury; AND\n4. provide written informed consent to participate within 35 days of suffering their MINS.\n\nExclusion Criteria:\n\nPatients meeting any of the following criteria will be excluded:\n\n1. hypersensitivity or known allergy to dabigatran;\n2. history of intracranial, intraocular, or spinal bleeding;\n3. hemorrhagic disorder or bleeding diathesis;\n4. known hepatic impairment or liver disease expected to have an impact on survival;\n5. condition that requires therapeutic dose anticoagulation (e.g., prosthetic heart valve, venous thromboembolism, atrial fibrillation);\n6. currently using or plan to initiate rifampicin, cyclosporine, itraconazole, tacrolimus, ketoconazole, or dronedarone;\n7. women who are pregnant, breastfeeding, or of childbearing potential who refuse to use a medically acceptable form of contraception throughout the study;\n8. investigator considers the patient unreliable regarding requirement for study follow-up or study drug compliance; OR\n9. previously enrolled in the MANAGE Trial.\n\nAlso excluded will be patients in whom any of the following criteria persist beyond 35 days of their suffering MINS:\n\n1. the attending surgeon believes it is not safe to initiate therapeutic dose anticoagulation therapy;\n2. the attending physician believes ASA, intermittent pneumatic compression, or elastic stockings are not sufficient for venous thromboembolism (VTE) prophylaxis and that the patient requires a prophylactic-dose anticoagulant;\n3. the patient has an indwelling epidural or spinal catheter that cannot be removed, or the first dose of dabigatran will occur within 4 hours of epidural catheter removal; OR\n4. estimated glomerular filtration rate (eGFR) \\<35 ml/min as estimated by calculated creatinine clearance.\n5. it is expected that the patient will undergo cardiac catheterization for MINS.\n\nExclusion Criteria Specific to Patients in the Omeprazole Factorial Component of the Trial:\n\nPatients meeting any of the following criteria:\n\n1. hypersensitivity or known allergy to omeprazole;\n2. requirement for a proton pump inhibitor, an H2-receptor antagonist, sucralfate, atazanavir, clopidogrel, or misoprostol;\n3. esophageal or gastric variceal disease; OR\n4. patient declines participation in the omeprazole arm of MANAGE.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "45 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "P.J. Devereaux, MD, PhD",
+                "affiliation": "Population Health Research Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Kansas University Medical Center",
+                "city": "Kansas City",
+                "state": "Kansas",
+                "zip": "66160",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.11417,
+                  "lon": -94.62746
+                }
+              },
+              {
+                "facility": "VA Western New York Healthcare System",
+                "city": "Buffalo",
+                "state": "New York",
+                "zip": "14215",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 42.88645,
+                  "lon": -78.87837
+                }
+              },
+              {
+                "facility": "University of Rochester Medical Center",
+                "city": "Rochester",
+                "state": "New York",
+                "zip": "14642",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 43.15478,
+                  "lon": -77.61556
+                }
+              },
+              {
+                "facility": "Wake Forest School of Medicine",
+                "city": "Winston-Salem",
+                "state": "North Carolina",
+                "zip": "27157",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 36.09986,
+                  "lon": -80.24422
+                }
+              },
+              {
+                "facility": "Oregon Health and Science University",
+                "city": "Portland",
+                "state": "Oregon",
+                "zip": "97239",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 45.52345,
+                  "lon": -122.67621
+                }
+              },
+              {
+                "facility": "Drexel University College of Medicine",
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19102",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.95238,
+                  "lon": -75.16362
+                }
+              },
+              {
+                "facility": "VA North Texas Health Care System Dallas VA Medical Center",
+                "city": "Dallas",
+                "state": "Texas",
+                "zip": "75216",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 32.78306,
+                  "lon": -96.80667
+                }
+              },
+              {
+                "facility": "Instituto Cardiovascular de Buenos Aires",
+                "city": "Caba",
+                "state": "Buenos Aires",
+                "zip": "1428",
+                "country": "Argentina"
+              },
+              {
+                "facility": "Clinica Parra - Centro de Investigaciones",
+                "city": "Rafaela",
+                "state": "Santa Fe Province",
+                "zip": "S2300MMA",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -31.25285,
+                  "lon": -61.49078
+                }
+              },
+              {
+                "facility": "Sanatorio San Martin",
+                "city": "Venado Tuerto",
+                "state": "Santa Fe Province",
+                "zip": "2600",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -33.74585,
+                  "lon": -61.96711
+                }
+              },
+              {
+                "facility": "Favaloro Foundation",
+                "city": "Buenos Aires",
+                "zip": "C1093AAS",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -34.61315,
+                  "lon": -58.37723
+                }
+              },
+              {
+                "facility": "Hospital San Roque",
+                "city": "Córdoba",
+                "zip": "5000",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -31.40648,
+                  "lon": -64.18853
+                }
+              },
+              {
+                "facility": "Westmead Hospital",
+                "city": "Westmead",
+                "zip": "2145",
+                "country": "Australia",
+                "geoPoint": {
+                  "lat": -33.80383,
+                  "lon": 150.98768
+                }
+              },
+              {
+                "facility": "Hospital Maternidade",
+                "city": "Poços de Caldas",
+                "state": "Minas Gerais",
+                "zip": "50761160",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -21.78778,
+                  "lon": -46.56139
+                }
+              },
+              {
+                "facility": "Sociendade Hospitalar Angelina Caron",
+                "city": "Campina Grande do Sul",
+                "state": "Paraná",
+                "zip": "83430",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -25.30556,
+                  "lon": -49.05528
+                }
+              },
+              {
+                "facility": "Hospital Lifecenter",
+                "city": "Belo Horizonte",
+                "zip": "30110-921",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -19.92083,
+                  "lon": -43.93778
+                }
+              },
+              {
+                "facility": "Hospital e Maternidade Celso Pierro - PUCCAMP",
+                "city": "Campinas",
+                "zip": "13060-904",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -22.90556,
+                  "lon": -47.06083
+                }
+              },
+              {
+                "facility": "Hospital Barra D'Or",
+                "city": "Rio de Janeiro",
+                "zip": "22775-002",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -22.90642,
+                  "lon": -43.18223
+                }
+              },
+              {
+                "facility": "Hospital de Base",
+                "city": "São José do Rio Preto",
+                "zip": "15090-000",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -20.81972,
+                  "lon": -49.37944
+                }
+              },
+              {
+                "facility": "University of Alberta Hospital",
+                "city": "Edmonton",
+                "state": "Alberta",
+                "zip": "T6G 2P4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 53.55014,
+                  "lon": -113.46871
+                }
+              },
+              {
+                "facility": "Grey Nuns Hospital",
+                "city": "Edmonton",
+                "state": "Alberta",
+                "zip": "T6R 3G8",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 53.55014,
+                  "lon": -113.46871
+                }
+              },
+              {
+                "facility": "Health Sciences Centre Winnipeg",
+                "city": "Winnipeg",
+                "state": "Manitoba",
+                "zip": "R3A1R9",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 49.8844,
+                  "lon": -97.14704
+                }
+              },
+              {
+                "facility": "Hamilton General Hospital",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8L 2X2",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "St. Joseph's Healthcare Hamilton",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8N 4A6",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "Juravinski Hospital and Cancer Centre",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8V 4X2",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "Queens University - Kingston General Hospital",
+                "city": "Kingston",
+                "state": "Ontario",
+                "zip": "K7K2V7",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 44.22976,
+                  "lon": -76.48098
+                }
+              },
+              {
+                "facility": "University Hospital, London Health Sciences Centre",
+                "city": "London",
+                "state": "Ontario",
+                "zip": "N6A 5A5",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 42.98339,
+                  "lon": -81.23304
+                }
+              },
+              {
+                "facility": "Victoria Hospital, London Health Sciences Centre",
+                "city": "London",
+                "state": "Ontario",
+                "zip": "N6O 5R1",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 42.98339,
+                  "lon": -81.23304
+                }
+              },
+              {
+                "facility": "Centre Hospitalier Universitaire de Montreal - St. Luc Hospital",
+                "city": "Montreal",
+                "state": "Quebec",
+                "zip": "H2X3J4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 45.50884,
+                  "lon": -73.58781
+                }
+              },
+              {
+                "facility": "Montreal General Hospital - McGill University Health Centre",
+                "city": "Montreal",
+                "state": "Quebec",
+                "zip": "H3G1A4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 45.50884,
+                  "lon": -73.58781
+                }
+              },
+              {
+                "facility": "Clinica Foscal",
+                "city": "Floridablanca",
+                "state": "Santander Department",
+                "country": "Colombia",
+                "geoPoint": {
+                  "lat": 7.06222,
+                  "lon": -73.08644
+                }
+              },
+              {
+                "facility": "Fundacion Cardioinfantil - Instituto de Cardiologia",
+                "city": "Bogotá",
+                "country": "Colombia",
+                "geoPoint": {
+                  "lat": 4.60971,
+                  "lon": -74.08175
+                }
+              },
+              {
+                "facility": "Liberec Regional Hospital",
+                "city": "Liberec",
+                "country": "Czechia",
+                "geoPoint": {
+                  "lat": 50.76711,
+                  "lon": 15.05619
+                }
+              },
+              {
+                "facility": "University Hospital Motol",
+                "city": "Motol",
+                "zip": "150 06",
+                "country": "Czechia",
+                "geoPoint": {
+                  "lat": 50.06987,
+                  "lon": 14.32831
+                }
+              },
+              {
+                "facility": "Bispebjerg Hospital, University of Copenhagen",
+                "city": "Copenhagen",
+                "zip": "2400",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              },
+              {
+                "facility": "Copenhagen University Hospital, Rigshospitalet",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              },
+              {
+                "facility": "Herlev Hospital",
+                "city": "Herlev",
+                "zip": "2730",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.72366,
+                  "lon": 12.43998
+                }
+              },
+              {
+                "facility": "Nordsjaellands Hospital",
+                "city": "Hillerød",
+                "zip": "3400",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.92791,
+                  "lon": 12.30081
+                }
+              },
+              {
+                "facility": "Koege-Roskilde Hospital",
+                "city": "Køge",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.45802,
+                  "lon": 12.18214
+                }
+              },
+              {
+                "facility": "Vejle Hospital",
+                "city": "Vejle",
+                "zip": "7100",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.70927,
+                  "lon": 9.5357
+                }
+              },
+              {
+                "facility": "Hospice Civils de Lyon",
+                "city": "Pierre-Bénite",
+                "state": "Lyon",
+                "zip": "69495",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 45.70359,
+                  "lon": 4.82424
+                }
+              },
+              {
+                "facility": "Hospitalier Pitie Salpetriere",
+                "city": "Paris",
+                "zip": "75013",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "Klinikum der J. W. Goethe-Universität Frankfurt",
+                "city": "Frankfurt am Main",
+                "state": "Hesse",
+                "zip": "60596",
+                "country": "Germany",
+                "geoPoint": {
+                  "lat": 50.11552,
+                  "lon": 8.68417
+                }
+              },
+              {
+                "facility": "Universitätsklinikum Bonn",
+                "city": "Bonn",
+                "zip": "53105",
+                "country": "Germany",
+                "geoPoint": {
+                  "lat": 50.73438,
+                  "lon": 7.09549
+                }
+              },
+              {
+                "facility": "Sidhu Hospital",
+                "city": "Dorāha",
+                "state": "Distt- Ludhiana",
+                "zip": "141421",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 30.79953,
+                  "lon": 76.02355
+                }
+              },
+              {
+                "facility": "Surat Institute of Digestive Sciences",
+                "city": "Surat",
+                "state": "Gujarat",
+                "zip": "395002",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 21.19594,
+                  "lon": 72.83023
+                }
+              },
+              {
+                "facility": "Amrita Institute of Medical Sciences and Research Institute",
+                "city": "Kochi",
+                "state": "Kerala",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 9.93988,
+                  "lon": 76.26022
+                }
+              },
+              {
+                "facility": "M.S. Ramaiah Medical College & Hospitals",
+                "city": "Bangalore",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.97194,
+                  "lon": 77.59369
+                }
+              },
+              {
+                "facility": "Narayana Hrudayalaya",
+                "city": "Bengaluru",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.97194,
+                  "lon": 77.59369
+                }
+              },
+              {
+                "facility": "M.V. Hospital & Research Centre",
+                "city": "Lucknow",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 26.83928,
+                  "lon": 80.92313
+                }
+              },
+              {
+                "facility": "Christian Medical College",
+                "city": "Ludhiana",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 30.91204,
+                  "lon": 75.85379
+                }
+              },
+              {
+                "facility": "Rahate Surgical Hospital",
+                "city": "Nagpur",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 21.14631,
+                  "lon": 79.08491
+                }
+              },
+              {
+                "facility": "Ramana Maharishi Rangammal Hospital",
+                "city": "Tiruvannamalai",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.22662,
+                  "lon": 79.07461
+                }
+              },
+              {
+                "facility": "Sant'Antonio Hospital",
+                "city": "San Daniele del Friuli",
+                "state": "Udine",
+                "zip": "33038",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 46.15714,
+                  "lon": 13.00726
+                }
+              },
+              {
+                "facility": "Azienda Ospedaliera Niguarda Ca'Granda",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "IRCCS Istituto Ortopedico Galeazzi Milan",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "IRCCS San Raffaele Scientific Institute",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "Ospedale San Gerardo",
+                "city": "Monza",
+                "zip": "20900",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 45.58005,
+                  "lon": 9.27246
+                }
+              },
+              {
+                "facility": "Aga Khan University Hospital - Nairobi",
+                "city": "Nairobi",
+                "zip": "00508",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.28333,
+                  "lon": 36.81667
+                }
+              },
+              {
+                "facility": "Hospital Nacional Cayetano Heredia",
+                "city": "Lima",
+                "country": "Peru",
+                "geoPoint": {
+                  "lat": -12.04318,
+                  "lon": -77.02824
+                }
+              },
+              {
+                "facility": "De La Salle University Medical Center",
+                "city": "Dasmariñas",
+                "zip": "4114",
+                "country": "Philippines",
+                "geoPoint": {
+                  "lat": 14.32944,
+                  "lon": 120.93667
+                }
+              },
+              {
+                "facility": "Philippines General Hospital",
+                "city": "Manila",
+                "zip": "1000",
+                "country": "Philippines",
+                "geoPoint": {
+                  "lat": 14.6042,
+                  "lon": 120.9822
+                }
+              },
+              {
+                "facility": "SPZOZ Szpital Powiatowy w Bochni",
+                "city": "Bochnia",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.96905,
+                  "lon": 20.43028
+                }
+              },
+              {
+                "facility": "Spzoz w Brzesku",
+                "city": "Brzesko",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.96911,
+                  "lon": 20.60606
+                }
+              },
+              {
+                "facility": "Malopolskie Centrum Medyczne",
+                "city": "Krakow",
+                "zip": "30-510",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "OrtoMed sp. Z.o.o.",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Samodzielny Publiczny Zakład Opieki",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Szpital św. Anny w Miechowie",
+                "city": "Miechów",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.35648,
+                  "lon": 20.02788
+                }
+              },
+              {
+                "facility": "Spzoz w Myslenicach",
+                "city": "Myślenice",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.83383,
+                  "lon": 19.9383
+                }
+              },
+              {
+                "facility": "Specjalistyczny Szpital im. E. Szczeklika",
+                "city": "Tarnów",
+                "zip": "33-100",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.01381,
+                  "lon": 20.98698
+                }
+              },
+              {
+                "facility": "Zakład Opieki Zdrowotnej im. Jana Pawła II",
+                "city": "Włoszczowa",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.85256,
+                  "lon": 19.96593
+                }
+              },
+              {
+                "facility": "University of Kwazulu-Natal",
+                "city": "KwaKhangela",
+                "state": "KwaZulu-Natal",
+                "zip": "4013",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.87931,
+                  "lon": 30.99535
+                }
+              },
+              {
+                "facility": "Grey's Hospital",
+                "city": "Pietermaritzburg",
+                "state": "KwaZulu-Natal",
+                "zip": "3200",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.61679,
+                  "lon": 30.39278
+                }
+              },
+              {
+                "facility": "University of the Free State",
+                "city": "Bloemfontein",
+                "zip": "9300",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.12107,
+                  "lon": 26.214
+                }
+              },
+              {
+                "facility": "University of Cape Town",
+                "city": "Cape Town",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -33.92584,
+                  "lon": 18.42322
+                }
+              },
+              {
+                "facility": "Bellvitge University Hospital",
+                "city": "Barcelona",
+                "zip": "08907",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital de la Santa Creu I Sant Pau",
+                "city": "Barcelona",
+                "zip": "8025",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital Universatario Valle Hebron",
+                "city": "Barcelona",
+                "zip": "8035",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital Universitario Ramon y Cajal",
+                "city": "Madrid",
+                "zip": "28034",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 40.4165,
+                  "lon": -3.70256
+                }
+              },
+              {
+                "facility": "Belfast Health and Social Care Trust, Royal Victoria Hospital",
+                "city": "Belfast",
+                "state": "North Ireland",
+                "zip": "BT12 6BA",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 54.59682,
+                  "lon": -5.92541
+                }
+              },
+              {
+                "facility": "Russell Halls Hospital, Dudley Group NHS",
+                "city": "Dudley",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 52.5,
+                  "lon": -2.08333
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "29398173",
+                "type": "BACKGROUND",
+                "citation": "Duceppe E, Yusuf S, Tandon V, Rodseth R, Biccard BM, Xavier D, Szczeklik W, Meyhoff CS, Franzosi MG, Vincent J, Srinathan SK, Parlow J, Magloire P, Neary J, Rao M, Chaudhry NK, Mayosi B, de Nadal M, Popova E, Villar JC, Botto F, Berwanger O, Guyatt G, Eikelboom JW, Sessler DI, Kearon C, Pettit S, Connolly SJ, Sharma M, Bangdiwala SI, Devereaux PJ. Design of a Randomized Placebo-Controlled Trial to Assess Dabigatran and Omeprazole in Patients with Myocardial Injury after Noncardiac Surgery (MANAGE). Can J Cardiol. 2018 Mar;34(3):295-302. doi: 10.1016/j.cjca.2018.01.020. Epub 2018 Feb 2."
+              },
+              {
+                "pmid": "34308517",
+                "type": "DERIVED",
+                "citation": "Lamy A, Tong W, Mian R, Vincent J, Szczeklik W, Biccard BM, Duceppe E, Franzosi MG, Srinathan SK, Meyhoff CS, Parlow J, Xavier D, Devereaux PJ. The Cost Implications of Dabigatran in Patients with Myocardial Injury After Non-Cardiac Surgery. Am J Cardiovasc Drugs. 2022 Jan;22(1):83-91. doi: 10.1007/s40256-021-00489-3. Epub 2021 Jul 26."
+              },
+              {
+                "pmid": "29900874",
+                "type": "DERIVED",
+                "citation": "Devereaux PJ, Duceppe E, Guyatt G, Tandon V, Rodseth R, Biccard BM, Xavier D, Szczeklik W, Meyhoff CS, Vincent J, Franzosi MG, Srinathan SK, Erb J, Magloire P, Neary J, Rao M, Rahate PV, Chaudhry NK, Mayosi B, de Nadal M, Iglesias PP, Berwanger O, Villar JC, Botto F, Eikelboom JW, Sessler DI, Kearon C, Pettit S, Sharma M, Connolly SJ, Bangdiwala SI, Rao-Melacini P, Hoeft A, Yusuf S; MANAGE Investigators. Dabigatran in patients with myocardial injury after non-cardiac surgery (MANAGE): an international, randomised, placebo-controlled trial. Lancet. 2018 Jun 9;391(10137):2325-2334. doi: 10.1016/S0140-6736(18)30832-8."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16",
+            "removedCountries": [
+              "Austria",
+              "Israel",
+              "Nigeria"
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069604",
+                "term": "Dabigatran"
+              },
+              {
+                "id": "D009853",
+                "term": "Omeprazole"
+              },
+              {
+                "id": "C494109",
+                "term": "omeprazole, sodium bicarbonate drug combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D011725",
+                "term": "Pyridines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D001562",
+                "term": "Benzimidazoles"
+              },
+              {
+                "id": "D006574",
+                "term": "Heterocyclic Compounds, 2-Ring"
+              },
+              {
+                "id": "D000072471",
+                "term": "Heterocyclic Compounds, Fused-Ring"
+              },
+              {
+                "id": "D053799",
+                "term": "2-Pyridinylmethylsulfinylbenzimidazoles"
+              },
+              {
+                "id": "D013454",
+                "term": "Sulfoxides"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT01661101",
+            "orgStudyIdInfo": {
+              "id": "1160.143"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2011-006056-37",
+                "type": "EUDRACT_NUMBER"
+              }
+            ],
+            "organization": {
+              "fullName": "Population Health Research Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Management of Myocardial Injury After Noncardiac Surgery Trial",
+            "officialTitle": "A Large, International, Randomized, Placebo-controlled Trial to Assess the Impact of Dabigatran (a Direct Thrombin Inhibitor) and Omeprazole (a Proton-pump Inhibitor) in Patients Suffering Myocardial Injury After Noncardiac Surgery",
+            "acronym": "MANAGE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2018-03",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2013-01",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2018-03-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2018-03-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2012-08-07",
+            "studyFirstSubmitQcDate": "2012-08-07",
+            "studyFirstPostDateStruct": {
+              "date": "2012-08-09",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2018-03-22",
+            "lastUpdatePostDateStruct": {
+              "date": "2018-03-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "P.J. Devereaux",
+              "investigatorTitle": "Professor, Medicine (Cardiology) and Clinical Epidemiology and Biostatistics, McMaster University",
+              "investigatorAffiliation": "Population Health Research Institute"
+            },
+            "leadSponsor": {
+              "name": "Population Health Research Institute",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Patients who have myocardial injury after noncardiac surgery are at a higher risk of dying than those who do not. One in 10 patients with myocardial injury will die within 30 days of surgery. This risk of death exists up to one year after myocardial injury. There are currently no treatments or guidelines available for heart injury after surgery, but there is evidence that taking a blood-thinner can prevent some of the deaths, both in the short and long-term. The purpose of this trial is to test the effect of two drugs (dabigatran and omeprazole) that may prevent mortality, major cardiovascular complications and major upper gastrointestinal bleeding in patients who have had myocardial injury after noncardiac surgery.",
+            "detailedDescription": "Myocardial injury is the most common major vascular complication after noncardiac surgery. Worldwide approximately 10 million adults annually suffer a perioperative myocardial injury. This figure for perioperative myocardial injury represents 15-20% of all cases of myocardial infarction in all settings. Myocardial injury after noncardiac surgery carries a poor prognosis and is an independent predictor of 30-day and 1-year mortality.\n\nMyocardial injury after noncardiac surgery (MINS) differs from non-operative myocardial infarction in two ways; it has a poorer prognosis (patients suffering MINS are 2 times more likely to die within 30 days compared to non-operative myocardial infarction in the emergency room) and paradoxically its treatment is less intensive. This difference in the intensity of treatment is likely influenced by several factors including: (1) a majority of patients suffering MINS do not experience ischemic symptoms, potentially influencing physicians' perception of the severity of the event; (2) there is debate as to the pathophysiology of MINS (although emerging evidence does suggest that coronary arterial thrombosis is an important mechanism of MINS); and (3) no randomized controlled trial (RCT) has evaluated an intervention to manage MINS, and hence physicians are uncertain about the risk-benefit ratio of potential interventions (e.g., interventions that are effective in the management of non-operative myocardial infarction). From a human and economic perspective, it is a tragedy that some patients undergoing noncardiac surgery for important reasons (e.g., to obtain a cure of their cancer or to become mobile after a new prosthetic joint) fail to obtain these benefits, because they suffer MINS that ultimately takes their life. There is an urgent need for clinical trials to identify effective therapies to improve the outcomes of patients suffering MINS.\n\nThere exists promising laboratory, autopsy, imaging, operative, and non-operative data suggesting that patients suffering MINS will benefit from anticoagulant therapy. Dabigatran (a direct thrombin inhibitor) warrants evaluation in the management of MINS. The major limitation of anticoagulation therapy is bleeding, and gastrointestinal bleeding represents a substantial proportion of these complications. Gastrointestinal bleeding is important in its own right, but also because it leads to cessation of anticoagulant therapy which may lead to breakthrough myocardial infarction. Omeprazole (a proton pump inhibitor) is efficacious in preventing upper gastrointestinal bleeding in patients with coronary artery disease who are taking dual antiplatelet therapy, and may benefit patients receiving anticoagulation therapy after suffering MINS.\n\nWe will undertake a large international RCT to determine the impact of dabigatran in patients who have suffered MINS. We will use a partial factorial design (for patients not taking a proton pump inhibitor) to determine the impact of omeprazole in this setting. We call this RCT the Management of myocardial injury After NoncArdiac surGEry (MANAGE) Trial."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Myocardial Injury After Noncardiac Surgery (MINS)"
+            ],
+            "keywords": [
+              "Perioperative myocardial infarction",
+              "Myocardial injury",
+              "noncardiac surgery"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE3"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "FACTORIAL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1754,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Dabigatran",
+                "type": "EXPERIMENTAL",
+                "description": "Dabigatran 110 mg capsule taken twice daily",
+                "interventionNames": [
+                  "Drug: Dabigatran"
+                ]
+              },
+              {
+                "label": "Omeprazole",
+                "type": "EXPERIMENTAL",
+                "description": "Omeprazole 20 mg capsule taken once daily",
+                "interventionNames": [
+                  "Drug: Omeprazole"
+                ]
+              },
+              {
+                "label": "Placebo (dabigatran)",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Dabigatran placebo taken twice daily",
+                "interventionNames": [
+                  "Drug: Placebo (for Dabigatran)"
+                ]
+              },
+              {
+                "label": "Placebo (omeprazole)",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Omeprazole placebo taken once daily",
+                "interventionNames": [
+                  "Drug: Placebo (for Omeprazole)"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Dabigatran",
+                "description": "Dabigatran 110 mg taken twice daily",
+                "armGroupLabels": [
+                  "Dabigatran"
+                ],
+                "otherNames": [
+                  "Pradaxa"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo (for Dabigatran)",
+                "description": "Dabigatran placebo taken twice daily",
+                "armGroupLabels": [
+                  "Placebo (dabigatran)"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Omeprazole",
+                "description": "Omeprazole 20 mg capsule taken once daily",
+                "armGroupLabels": [
+                  "Omeprazole"
+                ],
+                "otherNames": [
+                  "Prilosec",
+                  "Zegerid"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo (for Omeprazole)",
+                "description": "Omeprazole placebo taken once daily",
+                "armGroupLabels": [
+                  "Placebo (omeprazole)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Major vascular complication (for Dabigatran)",
+                "description": "A composite of the number of patients suffering vascular mortality, nonfatal myocardial infarction, nonfatal non-hemorrhagic stroke, nonfatal peripheral arterial thrombosis, nonfatal amputation, and nonfatal symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis).",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Major upper gastrointestinal complication (for Omeprazole)",
+                "description": "A composite of the number of patients suffering overt gastroduodenal bleeding, overt upper gastrointestinal bleeding of unknown origin, or upper gastrointestinal perforation.",
+                "timeFrame": "Average of 1 year follow-up"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Individual secondary outcomes for Dabigatran",
+                "description": "The number of patients suffering all-cause mortality, vascular mortality, myocardial infarction, non-hemorrhagic stroke, cardiac revascularization procedure, symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis), amputation, peripheral arterial thrombosis, and rehospitalization for vascular reasons.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Upper gastrointestinal complication for Omeprazole",
+                "description": "A composite of the number of patients suffering overt gastroduodenal bleeding, overt upper gastrointestinal bleeding of unknown origin, symptomatic gastroduodenal ulcer, gastrointestinal pain with underlying multiple gastroduodenal erosions, or upper gastrointestinal perforation.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Major vascular complication for Omeprazole",
+                "description": "A composite of the number of patients suffering vascular mortality, nonfatal myocardial infarction, nonfatal non-hemorrhagic stroke, nonfatal peripheral arterial thrombosis, nonfatal amputation, and nonfatal symptomatic venous thromboembolism (i.e., symptomatic pulmonary embolism or symptomatic proximal deep venous thrombosis).",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Individual secondary outcomes for Omeprazole",
+                "description": "The number of patients suffering overt gastroduodenal bleeding, overt esophageal bleeding, overt upper gastrointestinal bleeding of unknown origin, symptomatic gastroduodenal ulcer, gastrointestinal pain with underlying multiple gastroduodenal erosions, upper gastrointestinal perforation, bleeding of assumed occult gastrointestinal origin with a documented drop in hemoglobin of ≥ 3.0 g/dL, dyspepsia, and mortality.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Safety outcomes for Dabigatran",
+                "description": "1. A composite of the number of patients suffering life-threatening bleeding, major bleeding, and critical organ bleeding (i.e., intracranial, intraocular, intraspinal, pericardial, retroperitoneal).\n2. The number of patients suffering life-threatening bleeding, major bleeding, critical organ bleeding, intracranial bleeding, minor bleeding, hemorrhagic stroke, significant lower gastrointestinal bleeding, non-significant lower gastrointestinal bleeding, fracture, and dyspepsia.",
+                "timeFrame": "Average of 1 year follow-up"
+              },
+              {
+                "measure": "Safety outcomes for Omeprazole",
+                "description": "The number of patients suffering Clostridium difficile-associated diarrhea, diarrhea, community-acquired pneumonia, and fractures.",
+                "timeFrame": "Average of 1 year follow-up"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\nPatients are eligible if they:\n\n1. have undergone noncardiac surgery;\n2. are ≥45 years of age;\n3. have suffered MINS based upon fulfilling one of the following criteria: A. Elevated troponin or CK-MB measurement with one or more of the following defining features i. ischemic signs or symptoms (i.e., chest, arm, neck, or jaw discomfort; shortness of breath, pulmonary edema); ii. development of pathologic Q waves present in any two contiguous leads that are ≥30 milliseconds; iii. electrocardiogram (ECG) changes indicative of ischemia (i.e., ST segment elevation \\[≥2 mm in leads V1, V2, or V3 OR ≥1 mm in the other leads\\], ST segment depression \\[≥1 mm\\], OR symmetric inversion of T waves ≥1 mm) in at least two contiguous leads; iv. new LBBB; or v. new or presumed new cardiac wall motion abnormality on echocardiography or new or presumed new fixed defect on radionuclide imaging B. Elevated troponin measurement after surgery with no alternative explanation (e.g., pulmonary embolism, sepsis) to myocardial injury; AND\n4. provide written informed consent to participate within 35 days of suffering their MINS.\n\nExclusion Criteria:\n\nPatients meeting any of the following criteria will be excluded:\n\n1. hypersensitivity or known allergy to dabigatran;\n2. history of intracranial, intraocular, or spinal bleeding;\n3. hemorrhagic disorder or bleeding diathesis;\n4. known hepatic impairment or liver disease expected to have an impact on survival;\n5. condition that requires therapeutic dose anticoagulation (e.g., prosthetic heart valve, venous thromboembolism, atrial fibrillation);\n6. currently using or plan to initiate rifampicin, cyclosporine, itraconazole, tacrolimus, ketoconazole, or dronedarone;\n7. women who are pregnant, breastfeeding, or of childbearing potential who refuse to use a medically acceptable form of contraception throughout the study;\n8. investigator considers the patient unreliable regarding requirement for study follow-up or study drug compliance; OR\n9. previously enrolled in the MANAGE Trial.\n\nAlso excluded will be patients in whom any of the following criteria persist beyond 35 days of their suffering MINS:\n\n1. the attending surgeon believes it is not safe to initiate therapeutic dose anticoagulation therapy;\n2. the attending physician believes ASA, intermittent pneumatic compression, or elastic stockings are not sufficient for venous thromboembolism (VTE) prophylaxis and that the patient requires a prophylactic-dose anticoagulant;\n3. the patient has an indwelling epidural or spinal catheter that cannot be removed, or the first dose of dabigatran will occur within 4 hours of epidural catheter removal; OR\n4. estimated glomerular filtration rate (eGFR) \\<35 ml/min as estimated by calculated creatinine clearance.\n5. it is expected that the patient will undergo cardiac catheterization for MINS.\n\nExclusion Criteria Specific to Patients in the Omeprazole Factorial Component of the Trial:\n\nPatients meeting any of the following criteria:\n\n1. hypersensitivity or known allergy to omeprazole;\n2. requirement for a proton pump inhibitor, an H2-receptor antagonist, sucralfate, atazanavir, clopidogrel, or misoprostol;\n3. esophageal or gastric variceal disease; OR\n4. patient declines participation in the omeprazole arm of MANAGE.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "45 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "P.J. Devereaux, MD, PhD",
+                "affiliation": "Population Health Research Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Kansas University Medical Center",
+                "city": "Kansas City",
+                "state": "Kansas",
+                "zip": "66160",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.11417,
+                  "lon": -94.62746
+                }
+              },
+              {
+                "facility": "VA Western New York Healthcare System",
+                "city": "Buffalo",
+                "state": "New York",
+                "zip": "14215",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 42.88645,
+                  "lon": -78.87837
+                }
+              },
+              {
+                "facility": "University of Rochester Medical Center",
+                "city": "Rochester",
+                "state": "New York",
+                "zip": "14642",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 43.15478,
+                  "lon": -77.61556
+                }
+              },
+              {
+                "facility": "Wake Forest School of Medicine",
+                "city": "Winston-Salem",
+                "state": "North Carolina",
+                "zip": "27157",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 36.09986,
+                  "lon": -80.24422
+                }
+              },
+              {
+                "facility": "Oregon Health and Science University",
+                "city": "Portland",
+                "state": "Oregon",
+                "zip": "97239",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 45.52345,
+                  "lon": -122.67621
+                }
+              },
+              {
+                "facility": "Drexel University College of Medicine",
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19102",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.95238,
+                  "lon": -75.16362
+                }
+              },
+              {
+                "facility": "VA North Texas Health Care System Dallas VA Medical Center",
+                "city": "Dallas",
+                "state": "Texas",
+                "zip": "75216",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 32.78306,
+                  "lon": -96.80667
+                }
+              },
+              {
+                "facility": "Instituto Cardiovascular de Buenos Aires",
+                "city": "Caba",
+                "state": "Buenos Aires",
+                "zip": "1428",
+                "country": "Argentina"
+              },
+              {
+                "facility": "Clinica Parra - Centro de Investigaciones",
+                "city": "Rafaela",
+                "state": "Santa Fe Province",
+                "zip": "S2300MMA",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -31.25285,
+                  "lon": -61.49078
+                }
+              },
+              {
+                "facility": "Sanatorio San Martin",
+                "city": "Venado Tuerto",
+                "state": "Santa Fe Province",
+                "zip": "2600",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -33.74585,
+                  "lon": -61.96711
+                }
+              },
+              {
+                "facility": "Favaloro Foundation",
+                "city": "Buenos Aires",
+                "zip": "C1093AAS",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -34.61315,
+                  "lon": -58.37723
+                }
+              },
+              {
+                "facility": "Hospital San Roque",
+                "city": "Córdoba",
+                "zip": "5000",
+                "country": "Argentina",
+                "geoPoint": {
+                  "lat": -31.40648,
+                  "lon": -64.18853
+                }
+              },
+              {
+                "facility": "Westmead Hospital",
+                "city": "Westmead",
+                "zip": "2145",
+                "country": "Australia",
+                "geoPoint": {
+                  "lat": -33.80383,
+                  "lon": 150.98768
+                }
+              },
+              {
+                "facility": "Hospital Maternidade",
+                "city": "Poços de Caldas",
+                "state": "Minas Gerais",
+                "zip": "50761160",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -21.78778,
+                  "lon": -46.56139
+                }
+              },
+              {
+                "facility": "Sociendade Hospitalar Angelina Caron",
+                "city": "Campina Grande do Sul",
+                "state": "Paraná",
+                "zip": "83430",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -25.30556,
+                  "lon": -49.05528
+                }
+              },
+              {
+                "facility": "Hospital Lifecenter",
+                "city": "Belo Horizonte",
+                "zip": "30110-921",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -19.92083,
+                  "lon": -43.93778
+                }
+              },
+              {
+                "facility": "Hospital e Maternidade Celso Pierro - PUCCAMP",
+                "city": "Campinas",
+                "zip": "13060-904",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -22.90556,
+                  "lon": -47.06083
+                }
+              },
+              {
+                "facility": "Hospital Barra D'Or",
+                "city": "Rio de Janeiro",
+                "zip": "22775-002",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -22.90642,
+                  "lon": -43.18223
+                }
+              },
+              {
+                "facility": "Hospital de Base",
+                "city": "São José do Rio Preto",
+                "zip": "15090-000",
+                "country": "Brazil",
+                "geoPoint": {
+                  "lat": -20.81972,
+                  "lon": -49.37944
+                }
+              },
+              {
+                "facility": "University of Alberta Hospital",
+                "city": "Edmonton",
+                "state": "Alberta",
+                "zip": "T6G 2P4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 53.55014,
+                  "lon": -113.46871
+                }
+              },
+              {
+                "facility": "Grey Nuns Hospital",
+                "city": "Edmonton",
+                "state": "Alberta",
+                "zip": "T6R 3G8",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 53.55014,
+                  "lon": -113.46871
+                }
+              },
+              {
+                "facility": "Health Sciences Centre Winnipeg",
+                "city": "Winnipeg",
+                "state": "Manitoba",
+                "zip": "R3A1R9",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 49.8844,
+                  "lon": -97.14704
+                }
+              },
+              {
+                "facility": "Hamilton General Hospital",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8L 2X2",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "St. Joseph's Healthcare Hamilton",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8N 4A6",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "Juravinski Hospital and Cancer Centre",
+                "city": "Hamilton",
+                "state": "Ontario",
+                "zip": "L8V 4X2",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 43.25011,
+                  "lon": -79.84963
+                }
+              },
+              {
+                "facility": "Queens University - Kingston General Hospital",
+                "city": "Kingston",
+                "state": "Ontario",
+                "zip": "K7K2V7",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 44.22976,
+                  "lon": -76.48098
+                }
+              },
+              {
+                "facility": "University Hospital, London Health Sciences Centre",
+                "city": "London",
+                "state": "Ontario",
+                "zip": "N6A 5A5",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 42.98339,
+                  "lon": -81.23304
+                }
+              },
+              {
+                "facility": "Victoria Hospital, London Health Sciences Centre",
+                "city": "London",
+                "state": "Ontario",
+                "zip": "N6O 5R1",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 42.98339,
+                  "lon": -81.23304
+                }
+              },
+              {
+                "facility": "Centre Hospitalier Universitaire de Montreal - St. Luc Hospital",
+                "city": "Montreal",
+                "state": "Quebec",
+                "zip": "H2X3J4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 45.50884,
+                  "lon": -73.58781
+                }
+              },
+              {
+                "facility": "Montreal General Hospital - McGill University Health Centre",
+                "city": "Montreal",
+                "state": "Quebec",
+                "zip": "H3G1A4",
+                "country": "Canada",
+                "geoPoint": {
+                  "lat": 45.50884,
+                  "lon": -73.58781
+                }
+              },
+              {
+                "facility": "Clinica Foscal",
+                "city": "Floridablanca",
+                "state": "Santander Department",
+                "country": "Colombia",
+                "geoPoint": {
+                  "lat": 7.06222,
+                  "lon": -73.08644
+                }
+              },
+              {
+                "facility": "Fundacion Cardioinfantil - Instituto de Cardiologia",
+                "city": "Bogotá",
+                "country": "Colombia",
+                "geoPoint": {
+                  "lat": 4.60971,
+                  "lon": -74.08175
+                }
+              },
+              {
+                "facility": "Liberec Regional Hospital",
+                "city": "Liberec",
+                "country": "Czechia",
+                "geoPoint": {
+                  "lat": 50.76711,
+                  "lon": 15.05619
+                }
+              },
+              {
+                "facility": "University Hospital Motol",
+                "city": "Motol",
+                "zip": "150 06",
+                "country": "Czechia",
+                "geoPoint": {
+                  "lat": 50.06987,
+                  "lon": 14.32831
+                }
+              },
+              {
+                "facility": "Bispebjerg Hospital, University of Copenhagen",
+                "city": "Copenhagen",
+                "zip": "2400",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              },
+              {
+                "facility": "Copenhagen University Hospital, Rigshospitalet",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              },
+              {
+                "facility": "Herlev Hospital",
+                "city": "Herlev",
+                "zip": "2730",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.72366,
+                  "lon": 12.43998
+                }
+              },
+              {
+                "facility": "Nordsjaellands Hospital",
+                "city": "Hillerød",
+                "zip": "3400",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.92791,
+                  "lon": 12.30081
+                }
+              },
+              {
+                "facility": "Koege-Roskilde Hospital",
+                "city": "Køge",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.45802,
+                  "lon": 12.18214
+                }
+              },
+              {
+                "facility": "Vejle Hospital",
+                "city": "Vejle",
+                "zip": "7100",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.70927,
+                  "lon": 9.5357
+                }
+              },
+              {
+                "facility": "Hospice Civils de Lyon",
+                "city": "Pierre-Bénite",
+                "state": "Lyon",
+                "zip": "69495",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 45.70359,
+                  "lon": 4.82424
+                }
+              },
+              {
+                "facility": "Hospitalier Pitie Salpetriere",
+                "city": "Paris",
+                "zip": "75013",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "Klinikum der J. W. Goethe-Universität Frankfurt",
+                "city": "Frankfurt am Main",
+                "state": "Hesse",
+                "zip": "60596",
+                "country": "Germany",
+                "geoPoint": {
+                  "lat": 50.11552,
+                  "lon": 8.68417
+                }
+              },
+              {
+                "facility": "Universitätsklinikum Bonn",
+                "city": "Bonn",
+                "zip": "53105",
+                "country": "Germany",
+                "geoPoint": {
+                  "lat": 50.73438,
+                  "lon": 7.09549
+                }
+              },
+              {
+                "facility": "Sidhu Hospital",
+                "city": "Dorāha",
+                "state": "Distt- Ludhiana",
+                "zip": "141421",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 30.79953,
+                  "lon": 76.02355
+                }
+              },
+              {
+                "facility": "Surat Institute of Digestive Sciences",
+                "city": "Surat",
+                "state": "Gujarat",
+                "zip": "395002",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 21.19594,
+                  "lon": 72.83023
+                }
+              },
+              {
+                "facility": "Amrita Institute of Medical Sciences and Research Institute",
+                "city": "Kochi",
+                "state": "Kerala",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 9.93988,
+                  "lon": 76.26022
+                }
+              },
+              {
+                "facility": "M.S. Ramaiah Medical College & Hospitals",
+                "city": "Bangalore",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.97194,
+                  "lon": 77.59369
+                }
+              },
+              {
+                "facility": "Narayana Hrudayalaya",
+                "city": "Bengaluru",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.97194,
+                  "lon": 77.59369
+                }
+              },
+              {
+                "facility": "M.V. Hospital & Research Centre",
+                "city": "Lucknow",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 26.83928,
+                  "lon": 80.92313
+                }
+              },
+              {
+                "facility": "Christian Medical College",
+                "city": "Ludhiana",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 30.91204,
+                  "lon": 75.85379
+                }
+              },
+              {
+                "facility": "Rahate Surgical Hospital",
+                "city": "Nagpur",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 21.14631,
+                  "lon": 79.08491
+                }
+              },
+              {
+                "facility": "Ramana Maharishi Rangammal Hospital",
+                "city": "Tiruvannamalai",
+                "country": "India",
+                "geoPoint": {
+                  "lat": 12.22662,
+                  "lon": 79.07461
+                }
+              },
+              {
+                "facility": "Sant'Antonio Hospital",
+                "city": "San Daniele del Friuli",
+                "state": "Udine",
+                "zip": "33038",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 46.15714,
+                  "lon": 13.00726
+                }
+              },
+              {
+                "facility": "Azienda Ospedaliera Niguarda Ca'Granda",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "IRCCS Istituto Ortopedico Galeazzi Milan",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "IRCCS San Raffaele Scientific Institute",
+                "city": "Milan",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 42.78235,
+                  "lon": 12.59836
+                }
+              },
+              {
+                "facility": "Ospedale San Gerardo",
+                "city": "Monza",
+                "zip": "20900",
+                "country": "Italy",
+                "geoPoint": {
+                  "lat": 45.58005,
+                  "lon": 9.27246
+                }
+              },
+              {
+                "facility": "Aga Khan University Hospital - Nairobi",
+                "city": "Nairobi",
+                "zip": "00508",
+                "country": "Kenya",
+                "geoPoint": {
+                  "lat": -1.28333,
+                  "lon": 36.81667
+                }
+              },
+              {
+                "facility": "Hospital Nacional Cayetano Heredia",
+                "city": "Lima",
+                "country": "Peru",
+                "geoPoint": {
+                  "lat": -12.04318,
+                  "lon": -77.02824
+                }
+              },
+              {
+                "facility": "De La Salle University Medical Center",
+                "city": "Dasmariñas",
+                "zip": "4114",
+                "country": "Philippines",
+                "geoPoint": {
+                  "lat": 14.32944,
+                  "lon": 120.93667
+                }
+              },
+              {
+                "facility": "Philippines General Hospital",
+                "city": "Manila",
+                "zip": "1000",
+                "country": "Philippines",
+                "geoPoint": {
+                  "lat": 14.6042,
+                  "lon": 120.9822
+                }
+              },
+              {
+                "facility": "SPZOZ Szpital Powiatowy w Bochni",
+                "city": "Bochnia",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.96905,
+                  "lon": 20.43028
+                }
+              },
+              {
+                "facility": "Spzoz w Brzesku",
+                "city": "Brzesko",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.96911,
+                  "lon": 20.60606
+                }
+              },
+              {
+                "facility": "Malopolskie Centrum Medyczne",
+                "city": "Krakow",
+                "zip": "30-510",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "OrtoMed sp. Z.o.o.",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Samodzielny Publiczny Zakład Opieki",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie",
+                "city": "Krakow",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.06143,
+                  "lon": 19.93658
+                }
+              },
+              {
+                "facility": "Szpital św. Anny w Miechowie",
+                "city": "Miechów",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.35648,
+                  "lon": 20.02788
+                }
+              },
+              {
+                "facility": "Spzoz w Myslenicach",
+                "city": "Myślenice",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 49.83383,
+                  "lon": 19.9383
+                }
+              },
+              {
+                "facility": "Specjalistyczny Szpital im. E. Szczeklika",
+                "city": "Tarnów",
+                "zip": "33-100",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.01381,
+                  "lon": 20.98698
+                }
+              },
+              {
+                "facility": "Zakład Opieki Zdrowotnej im. Jana Pawła II",
+                "city": "Włoszczowa",
+                "country": "Poland",
+                "geoPoint": {
+                  "lat": 50.85256,
+                  "lon": 19.96593
+                }
+              },
+              {
+                "facility": "University of Kwazulu-Natal",
+                "city": "KwaKhangela",
+                "state": "KwaZulu-Natal",
+                "zip": "4013",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.87931,
+                  "lon": 30.99535
+                }
+              },
+              {
+                "facility": "Grey's Hospital",
+                "city": "Pietermaritzburg",
+                "state": "KwaZulu-Natal",
+                "zip": "3200",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.61679,
+                  "lon": 30.39278
+                }
+              },
+              {
+                "facility": "University of the Free State",
+                "city": "Bloemfontein",
+                "zip": "9300",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -29.12107,
+                  "lon": 26.214
+                }
+              },
+              {
+                "facility": "University of Cape Town",
+                "city": "Cape Town",
+                "country": "South Africa",
+                "geoPoint": {
+                  "lat": -33.92584,
+                  "lon": 18.42322
+                }
+              },
+              {
+                "facility": "Bellvitge University Hospital",
+                "city": "Barcelona",
+                "zip": "08907",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital de la Santa Creu I Sant Pau",
+                "city": "Barcelona",
+                "zip": "8025",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital Universatario Valle Hebron",
+                "city": "Barcelona",
+                "zip": "8035",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 41.38879,
+                  "lon": 2.15899
+                }
+              },
+              {
+                "facility": "Hospital Universitario Ramon y Cajal",
+                "city": "Madrid",
+                "zip": "28034",
+                "country": "Spain",
+                "geoPoint": {
+                  "lat": 40.4165,
+                  "lon": -3.70256
+                }
+              },
+              {
+                "facility": "Belfast Health and Social Care Trust, Royal Victoria Hospital",
+                "city": "Belfast",
+                "state": "North Ireland",
+                "zip": "BT12 6BA",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 54.59682,
+                  "lon": -5.92541
+                }
+              },
+              {
+                "facility": "Russell Halls Hospital, Dudley Group NHS",
+                "city": "Dudley",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 52.5,
+                  "lon": -2.08333
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "29398173",
+                "type": "BACKGROUND",
+                "citation": "Duceppe E, Yusuf S, Tandon V, Rodseth R, Biccard BM, Xavier D, Szczeklik W, Meyhoff CS, Franzosi MG, Vincent J, Srinathan SK, Parlow J, Magloire P, Neary J, Rao M, Chaudhry NK, Mayosi B, de Nadal M, Popova E, Villar JC, Botto F, Berwanger O, Guyatt G, Eikelboom JW, Sessler DI, Kearon C, Pettit S, Connolly SJ, Sharma M, Bangdiwala SI, Devereaux PJ. Design of a Randomized Placebo-Controlled Trial to Assess Dabigatran and Omeprazole in Patients with Myocardial Injury after Noncardiac Surgery (MANAGE). Can J Cardiol. 2018 Mar;34(3):295-302. doi: 10.1016/j.cjca.2018.01.020. Epub 2018 Feb 2."
+              },
+              {
+                "pmid": "34308517",
+                "type": "DERIVED",
+                "citation": "Lamy A, Tong W, Mian R, Vincent J, Szczeklik W, Biccard BM, Duceppe E, Franzosi MG, Srinathan SK, Meyhoff CS, Parlow J, Xavier D, Devereaux PJ. The Cost Implications of Dabigatran in Patients with Myocardial Injury After Non-Cardiac Surgery. Am J Cardiovasc Drugs. 2022 Jan;22(1):83-91. doi: 10.1007/s40256-021-00489-3. Epub 2021 Jul 26."
+              },
+              {
+                "pmid": "29900874",
+                "type": "DERIVED",
+                "citation": "Devereaux PJ, Duceppe E, Guyatt G, Tandon V, Rodseth R, Biccard BM, Xavier D, Szczeklik W, Meyhoff CS, Vincent J, Franzosi MG, Srinathan SK, Erb J, Magloire P, Neary J, Rao M, Rahate PV, Chaudhry NK, Mayosi B, de Nadal M, Iglesias PP, Berwanger O, Villar JC, Botto F, Eikelboom JW, Sessler DI, Kearon C, Pettit S, Sharma M, Connolly SJ, Bangdiwala SI, Rao-Melacini P, Hoeft A, Yusuf S; MANAGE Investigators. Dabigatran in patients with myocardial injury after non-cardiac surgery (MANAGE): an international, randomised, placebo-controlled trial. Lancet. 2018 Jun 9;391(10137):2325-2334. doi: 10.1016/S0140-6736(18)30832-8."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16",
+            "removedCountries": [
+              "Austria",
+              "Israel",
+              "Nigeria"
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000069604",
+                "term": "Dabigatran"
+              },
+              {
+                "id": "D009853",
+                "term": "Omeprazole"
+              },
+              {
+                "id": "C494109",
+                "term": "omeprazole, sodium bicarbonate drug combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D011725",
+                "term": "Pyridines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D001562",
+                "term": "Benzimidazoles"
+              },
+              {
+                "id": "D006574",
+                "term": "Heterocyclic Compounds, 2-Ring"
+              },
+              {
+                "id": "D000072471",
+                "term": "Heterocyclic Compounds, Fused-Ring"
+              },
+              {
+                "id": "D053799",
+                "term": "2-Pyridinylmethylsulfinylbenzimidazoles"
+              },
+              {
+                "id": "D013454",
+                "term": "Sulfoxides"
+              },
+              {
+                "id": "D013457",
+                "term": "Sulfur Compounds"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

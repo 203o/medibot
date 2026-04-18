@@ -1,0 +1,1150 @@
+{
+  "query": "cancer latest treatment therapy management united states of america",
+  "selected_query": "cancer latest treatment therapy management united states of america",
+  "attempted_queries": [
+    {
+      "query": "cancer latest treatment therapy management united states of america",
+      "location_filter": "united states of america",
+      "count": 0
+    },
+    {
+      "query": "cancer latest treatment therapy management united states of america",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "united states of america",
+  "records": [
+    {
+      "nct_id": "NCT06472973",
+      "title": "ADDICTOlogical Intervention in LIVEr Transplantation Recipients",
+      "brief_summary": "Transplantation for end-stage-liver disease (ESLD) in the context of Alcohol-Associated Liver Disease (AALD) has been increasing and represents the main indication for Liver Transplantation (LT) in the world. Alcohol Use Disorder (AUD) is considered a brain chronic disease and requires a transdisciplinary approach that includes medical treatment and behavioral interventions.\n\nIn the context of LT, alcohol relapse occurs in 26 % up to 50% of LT recipients. Among Liver transplant recipients for AALD, severe alcoholic relapse (defined as more than 3 alcoholic drinks per day for women and 4/day for men) after LT leads to impaired longterm survival due to recurrent alcoholic cirrhosis (RAC), cardiovascular events and de novo cancer.\n\nSeveral strategies have been developed to prevent alcohol relapse. After LT, integrating an addiction team into the LT program has been advocated by the latest guidelines in Europe and the United States, in order to bring the management of alcohol-use disorder (AUD) in transplantation units, through the association of psychosocial and pharmacological interventions previously reported in AALD. However, those guidelines were based on descriptive studies, and the effect of this management needs to be confirmed through a randomized, controlled, multicenter study, involving centers that still do not include an addiction team in their LT programs.\n\nThis study will therefore assess prospectively and comparatively the impact of an addiction intervention after LT on return to alcohol use rates. We hypothesize that standardized targeted addiction monitoring of Liver Transplant recipients decreases the rates of alcohol relapse two years post-liver transplantation.",
+      "detailed_description": "Liver transplantation (LT) is the only curative option for end-stage liver disease and unresectable hepatocellular carcinoma (HCC) without extrahepatic spread. Alcohol Associated Liver Disease (AALD) has become the most common indication for liver transplantation (LT) in many Western countries.In France, AALD accounts for at least 40% of all LT, between decompensated cirrhosis and HCC, which represents more than 500 patients each year.\n\nOne, five and 10-year graft rate and patient survival rate after LT for AALD are at least comparable to those of other indications. Nevertheless, long-term survival rates are hampered by frequent and/or excessive relapse in alcohol consumption. Relapse increases the risk of recurrent alcohol-associated cirrhosis but also of de novo alcohol-induced solid malignancies, mainly cancers of the upper aero digestive tract. Graft and patient survival rates, especially long-term, are thus hindered by the occurrence of excessive relapse.\n\nRelapse rates vary immensely between studies and there is a lack of standardization in the definition of its severity, mainly because it is impossible to define the boundaries/thresholds for \"safe consumption\". However, there is consensus that harm appears for alcohol intake exceeding three portions per day for males and two for females, for at least 100 days with a sense of loss of control. This pattern of relapse, often described as \"severe\" can be found between 10 and 26% of patients. Most efforts aiming to reduce post-LT relapse rates focus on improving patient selection. Risk-factors of alcohol relapse often found in literature include short duration of pre-LT sobriety (\\<6 months), diagnosis of alcohol dependence, family history of alcohol-use disorder, psychiatric comorbidities including other substance abuse, prior alcohol rehabilitation and female gender. Scores such as HRAR (High Risk Alcoholism Relapse) have also attempted to stratify relapse risk based on pre-LT risk factors. Unfortunately, these criteria are not sensitive enough and most patients who finally benefit from the intervention are in the low to medium risk groups.\n\nIt is therefore a priority to utilize also resources in the post-LT setting to decrease alcohol relapse since it is a frequent and relatively difficult to predict event, with a high impact on outcomes after LT. We hypothesize that post-transplant addiction specialist interventions in liver transplant patients with AALD as primary, secondary or tertiary indication will result in decreased regular and/or severe alcohol relapse rate two years post-LT. By extension, this could result in higher graft and patient survival rates, especially in long term.\n\nMore recently, our group has performed a retrospective analysis of three centers with different addiction follow-up practices suggesting a benefit on severe relapse rates of addiction specialist intervention after LT for AALD. However, the main limit of this work is the retrospective design with different follow-up periods and duration. We designed a multicenter superiority randomized controlled trial with 2 parallel arms:\n\n* Interventional arm where participants are offered targeted addictology follow-up and participate in addiction consultations\n* Control arm where participants have classical follow-up by the transplant specialists of the LT center during the post-transplant follow-up period\n\nThe randomization will be elaborated using 1:1 ratio and minimization method. It will be stratified on centers and alcohol consumption history.\n\nAccording to a French cohort study of patients with liver transplantation for alcohol-related disorders, 25% of them relapsed at 2 years.To account for mortality censoring during follow-up, we will apply a 5% increase of the sample size to reach 720 participants (360 in each arm). The comparison of the primary endpoint between arms will be carried out using intention to treat principle. The time to relapse will be expressed using Kaplan-Meier curves in each arm, and compared using a log-rank test. The effect size will be estimated using Cox proportional.",
+      "evidence_sentences": [
+        "After LT, integrating an addiction team into the LT program has been advocated by the latest guidelines in Europe and the United States, in order to bring the management of alcohol-use disorder (AUD) in transplantation units, through the association of psychosocial and pharmacological interventions previously reported in AALD.",
+        "However, those guidelines were based on descriptive studies, and the effect of this management needs to be confirmed through a randomized, controlled, multicenter study, involving centers that still do not include an addiction team in their LT programs.",
+        "Alcohol Use Disorder (AUD) is considered a brain chronic disease and requires a transdisciplinary approach that includes medical treatment and behavioral interventions."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "RECRUITING",
+      "last_update": "2025-11-26",
+      "query_keywords": [
+        "cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "united",
+        "states",
+        "america"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06472973",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06472973",
+            "orgStudyIdInfo": {
+              "id": "RECHMPL23_0399"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2023-A02801-44",
+                "type": "REGISTRY",
+                "domain": "ID RCB"
+              }
+            ],
+            "organization": {
+              "fullName": "University Hospital, Montpellier",
+              "class": "OTHER"
+            },
+            "briefTitle": "ADDICTOlogical Intervention in LIVEr Transplantation Recipients",
+            "officialTitle": "ADDICTOlogical Intervention in LIVEr Transplantation Recipients",
+            "acronym": "AddictoLIVE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2024-11-21",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2028-11-21",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2030-11-21",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2024-06-18",
+            "studyFirstSubmitQcDate": "2024-06-18",
+            "studyFirstPostDateStruct": {
+              "date": "2024-06-25",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-26",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-12-03",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Hospital, Montpellier",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Transplantation for end-stage-liver disease (ESLD) in the context of Alcohol-Associated Liver Disease (AALD) has been increasing and represents the main indication for Liver Transplantation (LT) in the world. Alcohol Use Disorder (AUD) is considered a brain chronic disease and requires a transdisciplinary approach that includes medical treatment and behavioral interventions.\n\nIn the context of LT, alcohol relapse occurs in 26 % up to 50% of LT recipients. Among Liver transplant recipients for AALD, severe alcoholic relapse (defined as more than 3 alcoholic drinks per day for women and 4/day for men) after LT leads to impaired longterm survival due to recurrent alcoholic cirrhosis (RAC), cardiovascular events and de novo cancer.\n\nSeveral strategies have been developed to prevent alcohol relapse. After LT, integrating an addiction team into the LT program has been advocated by the latest guidelines in Europe and the United States, in order to bring the management of alcohol-use disorder (AUD) in transplantation units, through the association of psychosocial and pharmacological interventions previously reported in AALD. However, those guidelines were based on descriptive studies, and the effect of this management needs to be confirmed through a randomized, controlled, multicenter study, involving centers that still do not include an addiction team in their LT programs.\n\nThis study will therefore assess prospectively and comparatively the impact of an addiction intervention after LT on return to alcohol use rates. We hypothesize that standardized targeted addiction monitoring of Liver Transplant recipients decreases the rates of alcohol relapse two years post-liver transplantation.",
+            "detailedDescription": "Liver transplantation (LT) is the only curative option for end-stage liver disease and unresectable hepatocellular carcinoma (HCC) without extrahepatic spread. Alcohol Associated Liver Disease (AALD) has become the most common indication for liver transplantation (LT) in many Western countries.In France, AALD accounts for at least 40% of all LT, between decompensated cirrhosis and HCC, which represents more than 500 patients each year.\n\nOne, five and 10-year graft rate and patient survival rate after LT for AALD are at least comparable to those of other indications. Nevertheless, long-term survival rates are hampered by frequent and/or excessive relapse in alcohol consumption. Relapse increases the risk of recurrent alcohol-associated cirrhosis but also of de novo alcohol-induced solid malignancies, mainly cancers of the upper aero digestive tract. Graft and patient survival rates, especially long-term, are thus hindered by the occurrence of excessive relapse.\n\nRelapse rates vary immensely between studies and there is a lack of standardization in the definition of its severity, mainly because it is impossible to define the boundaries/thresholds for \"safe consumption\". However, there is consensus that harm appears for alcohol intake exceeding three portions per day for males and two for females, for at least 100 days with a sense of loss of control. This pattern of relapse, often described as \"severe\" can be found between 10 and 26% of patients. Most efforts aiming to reduce post-LT relapse rates focus on improving patient selection. Risk-factors of alcohol relapse often found in literature include short duration of pre-LT sobriety (\\<6 months), diagnosis of alcohol dependence, family history of alcohol-use disorder, psychiatric comorbidities including other substance abuse, prior alcohol rehabilitation and female gender. Scores such as HRAR (High Risk Alcoholism Relapse) have also attempted to stratify relapse risk based on pre-LT risk factors. Unfortunately, these criteria are not sensitive enough and most patients who finally benefit from the intervention are in the low to medium risk groups.\n\nIt is therefore a priority to utilize also resources in the post-LT setting to decrease alcohol relapse since it is a frequent and relatively difficult to predict event, with a high impact on outcomes after LT. We hypothesize that post-transplant addiction specialist interventions in liver transplant patients with AALD as primary, secondary or tertiary indication will result in decreased regular and/or severe alcohol relapse rate two years post-LT. By extension, this could result in higher graft and patient survival rates, especially in long term.\n\nMore recently, our group has performed a retrospective analysis of three centers with different addiction follow-up practices suggesting a benefit on severe relapse rates of addiction specialist intervention after LT for AALD. However, the main limit of this work is the retrospective design with different follow-up periods and duration. We designed a multicenter superiority randomized controlled trial with 2 parallel arms:\n\n* Interventional arm where participants are offered targeted addictology follow-up and participate in addiction consultations\n* Control arm where participants have classical follow-up by the transplant specialists of the LT center during the post-transplant follow-up period\n\nThe randomization will be elaborated using 1:1 ratio and minimization method. It will be stratified on centers and alcohol consumption history.\n\nAccording to a French cohort study of patients with liver transplantation for alcohol-related disorders, 25% of them relapsed at 2 years.To account for mortality censoring during follow-up, we will apply a 5% increase of the sample size to reach 720 participants (360 in each arm). The comparison of the primary endpoint between arms will be carried out using intention to treat principle. The time to relapse will be expressed using Kaplan-Meier curves in each arm, and compared using a log-rank test. The effect size will be estimated using Cox proportional."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Alcohol Associated Liver Disease",
+              "Liver Transplantation"
+            ],
+            "keywords": [
+              "Liver transplantation",
+              "Addiction follow-up",
+              "Alcohol relapse",
+              "Survival"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 720,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Interventional group",
+                "type": "EXPERIMENTAL",
+                "description": "Patients randomized into the interventional arm will participate in an addiction consultation during their hospital stay following LT. The participant's addiction treatment will be based on the number of risk factors identified.",
+                "interventionNames": [
+                  "Other: Post-transplant addiction intervention"
+                ]
+              },
+              {
+                "label": "Control group",
+                "type": "NO_INTERVENTION",
+                "description": "Participants randomized into the control arm will benefit from routine LT follow-up organized by the doctors and/or surgeons of the LT center during the post-transplant follow-up period. Usually, the patients have monthly outpatient visit with their physician during the first year after LT, then bi-monthly during the second year. At present, each center has a very different way of supporting transplant recipients, there is no systematic follow-up by an addictologist. Routine care at each center will be identified before the study set up. The different centers refer patients only after return to alcohol use is perceived in routine consultation or identified through biological alcohol markers. In this case, \"the alcohol relapse\" event will be noted and patients will be transferred to the addictologic center."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Post-transplant addiction intervention",
+                "description": "The first addiction consultation will be conducted using the BRENDA method which allows the addiction specialist to carry out a psychosocial assessment, to entrust the results of this assessment to the participant, to answer their questions and to evaluate their reactions. Risk factors for alcohol relapse will be collected: social determinants, male gender, psychiatric comorbidities, duration of alcohol abstinence before LT(≥ or \\< 6 months) and young age (\\< 40 years). If the addiction specialist notes the presence of at least 3 risk factors for alcohol relapse, targeted addiction follow-up will be proposed to the participant including outpatient consultations with motivational interview at least every 4 weeks +/- pharmacological treatment of alcohol use disorder.In case of alcohol relapse or a period of high vulnerability to relapse, specific hospitalizations can be scheduled. If the participant has \\<3 risk factors, an addictology consultation every 6 months at most will be proposed.",
+                "armGroupLabels": [
+                  "Interventional group"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Time to return to alcohol use",
+                "description": "Time to return to alcohol use is defined by the time between discharge from Liver Transplantation (LT) hospitalization and alcohol relapse,it includes either:\n\n* Severe relapse: alcohol intake of at least 4 units per day for men and 3 per day for women for at least 100 days;\n* Regular relapse: no more than 21 units a week for men, 14 units a week for women, at least 10 times a month; Alcohol consumption will be collected using the alcohol timeline follow back (TLFB), the assessor will be blinded to the participant's arm allocation.\n\nTLFB is a calandar used to asses the participant's alcohol intake, it evaluates their daily drinking and provides a report of their drinking pattern over a given time period.\n\nThe first TLFB assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Return to alcohol use of the slip type",
+                "description": "Alcohol use will be measured using the TLFB,the assessor will be blinded to the participant's arm allocation.\n\nSlip type is defined by a unique excessive alcohol consumption (more than 4 alcohol drinks on a single occasion).\n\nThe first TLFB assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Tobacco use",
+                "description": "Tobacco use will be measured by relative reduction in the number of cigarettes smoked per day compared with baseline, and by smoking abstinence at 24 months after discharge from LT hospitalization, for at least one month. Tobacco use will be self reported by the participant during interviews with an assessor who is blinded to their arm allocation.\n\nTobacco use assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Other psychoactive substances use",
+                "description": "Psychoactive substances use (opiates, abuse drugs, psychostimulants or psychedelics ) will be self reported by the participant during interviews with an assessor who is blinded to their arm allocation.\n\nPsychoactive substances use assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Addiction therapies",
+                "description": "Addiction therapies (behavioral, motivational therapy and medication) implemented in the intervention arm will be described.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Major significant clinical events",
+                "description": "Major significant clinical events includes death, cardiovascular events (myocardial infarction, pulmonary embolism, stroke), De Novo cancer and graft rejection.\n\nThe occurrence of major significant clinical events will be collected during the participation period, time-to-event is defined as the time from LT until event or loss to follow-up or end of the study or death.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Biochemical liver tests",
+                "description": "Biochemical liver tests ( Alanine transaminase ALT, Aspartate transaminase AST, gamma-glutamyl transferase GGT, alkaline phosphatase and bilirubin) evolution will be assessed.\n\nBiochemical liver tests will be measured as X upper limit normal ULN, 3 months after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Alcohol consumption biomarker ethanol/Peth)",
+                "description": "Alcohol use biomarker (Phosphatidylethanol/Peth) kinetics, tested 3 times a year, will be compared to self-reported alcohol consumption.\n\nBlood phosphatidylethanol concentration is determined by liquid chromatography coupled to a tandem mass spectrometer.",
+                "timeFrame": "At 1 month, 11 or 13 months and at 24 months after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Liver fibrosis",
+                "description": "Liver fibrosis will be assessed using liver stiffness measurement by pulse elastometry (Fibroscan) and expressed in kilopascal (kPa).",
+                "timeFrame": "2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Evolution of cognitive disorders",
+                "description": "Cognitive disorders will be measured using the Montreal Cognitive Assessment (MoCA) test which is a screening tool used to determine if there is any impairment in the participant's cognitive function, including their ability to understand, reason, and remember.\n\nThe MoCA score ranges from 0 to 30:\n\n* 27-30: is considered normal\n* 18-26: indicates the presence of mild cognitive impairment\n* 10-17: indicates the presence of moderate cognitive impairment\n* \\< 10: indicates the presence of severe cognitive impairment\n\nMoCA test will be carried out at inclusion, 3 months after discharge from LT hospitalization then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Mortality and alcohol-associated mortality rate",
+                "description": "The occurrence of death (overall mortality and alcohol-associated mortality) will be collected during the participation period.\n\nTime-to-death is defined as the time from LT until death.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18 years or above\n* Hospitalized for LT for AALD as primary, secondary or tertiary indication\n* Discharged from intensive care unit to hepatology or surgery wards\n\nExclusion Criteria:\n\n* Severe alcohol-associated hepatitis as primary indication for liver transplantation\n* Impossibility of patient follow up over the next 2 years\n* General criteria:\n\n  * Refusal or absence of informed consent,\n  * Non-affiliation to the French national health insurance,\n  * Persons placed under legal protection, guardianship or curatorship",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Hélène DONNADIEU, MD, PhD",
+                "role": "CONTACT",
+                "phone": "0467337020",
+                "phoneExt": "+33",
+                "email": "h-donnadieu@chu-montpellier.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Hélène DONNADIEU, MD, PhD",
+                "affiliation": "University Hospital, Montpellier",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Besançon University Hospital",
+                "status": "RECRUITING",
+                "city": "Besançon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Claire VANLEMMENS",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Julie GIUSTINIANI",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.24878,
+                  "lon": 6.01815
+                }
+              },
+              {
+                "facility": "Bordeaux University Hospital",
+                "status": "RECRUITING",
+                "city": "Bordeaux",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Faiza CHERMAK",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 44.84124,
+                  "lon": -0.58046
+                }
+              },
+              {
+                "facility": "Clermont Ferrand University Hospital",
+                "status": "RECRUITING",
+                "city": "Clermont-Ferrand",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Armand ABERGEL",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 45.77969,
+                  "lon": 3.08682
+                }
+              },
+              {
+                "facility": "Dijon University Hospital",
+                "status": "RECRUITING",
+                "city": "Dijon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Marianne LATOURNERIE",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.31344,
+                  "lon": 5.01391
+                }
+              },
+              {
+                "facility": "Lille University Hospital",
+                "status": "RECRUITING",
+                "city": "Lille",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Sebastien DHARANCY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 50.63391,
+                  "lon": 3.05512
+                }
+              },
+              {
+                "facility": "Lyon University Hospital",
+                "status": "RECRUITING",
+                "city": "Lyon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Teresa ANTONINI",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Olivier LEJEUNE",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 45.74906,
+                  "lon": 4.84789
+                }
+              },
+              {
+                "facility": "Marseille University Hospital",
+                "status": "NOT_YET_RECRUITING",
+                "city": "Marseille",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Sophie CHOPINET",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Christophe LANCON",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.29695,
+                  "lon": 5.38107
+                }
+              },
+              {
+                "facility": "Montpellier University Hospital",
+                "status": "RECRUITING",
+                "city": "Montpellier",
+                "zip": "34000",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Hélène DONNADIEU",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Georges Philippe PAGEAUX",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Jose URSIC-BEDOYA",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Stephanie FAURE",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Lucy MEUNIER",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.61093,
+                  "lon": 3.87635
+                }
+              },
+              {
+                "facility": "Nice University Hospital",
+                "status": "RECRUITING",
+                "city": "Nice",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Rodolphe ANTY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Régine TRUCHI",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.70313,
+                  "lon": 7.26608
+                }
+              },
+              {
+                "facility": "APHP Mondor",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Christophe DUVOUX",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Vincent LEROY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "APHP Paul Brousse",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Audrey COILLY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Lisa BLECHA",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "APHP Salpetrière",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Filomena CONTI",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "An Hung NGUYEN",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "Rennes University Hospital",
+                "status": "RECRUITING",
+                "city": "Rennes",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Pauline HOUSSEL",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Caroline LE LAN",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Romain MOIRAND",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.11109,
+                  "lon": -1.67431
+                }
+              },
+              {
+                "facility": "Strasbourg University Hospital",
+                "status": "RECRUITING",
+                "city": "Strasbourg",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Camille BESCH",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Anais LANG",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.58392,
+                  "lon": 7.74553
+                }
+              },
+              {
+                "facility": "Toulouse University Hospital",
+                "status": "RECRUITING",
+                "city": "Toulouse",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Nassim KAMAR",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.60426,
+                  "lon": 1.44367
+                }
+              },
+              {
+                "facility": "Tours University Hospital",
+                "status": "RECRUITING",
+                "city": "Tours",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Laure ELKRIEF",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Helene BARRAUD",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.39484,
+                  "lon": 0.70398
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06472973",
+            "orgStudyIdInfo": {
+              "id": "RECHMPL23_0399"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2023-A02801-44",
+                "type": "REGISTRY",
+                "domain": "ID RCB"
+              }
+            ],
+            "organization": {
+              "fullName": "University Hospital, Montpellier",
+              "class": "OTHER"
+            },
+            "briefTitle": "ADDICTOlogical Intervention in LIVEr Transplantation Recipients",
+            "officialTitle": "ADDICTOlogical Intervention in LIVEr Transplantation Recipients",
+            "acronym": "AddictoLIVE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2024-11-21",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2028-11-21",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2030-11-21",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2024-06-18",
+            "studyFirstSubmitQcDate": "2024-06-18",
+            "studyFirstPostDateStruct": {
+              "date": "2024-06-25",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-26",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-12-03",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Hospital, Montpellier",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Transplantation for end-stage-liver disease (ESLD) in the context of Alcohol-Associated Liver Disease (AALD) has been increasing and represents the main indication for Liver Transplantation (LT) in the world. Alcohol Use Disorder (AUD) is considered a brain chronic disease and requires a transdisciplinary approach that includes medical treatment and behavioral interventions.\n\nIn the context of LT, alcohol relapse occurs in 26 % up to 50% of LT recipients. Among Liver transplant recipients for AALD, severe alcoholic relapse (defined as more than 3 alcoholic drinks per day for women and 4/day for men) after LT leads to impaired longterm survival due to recurrent alcoholic cirrhosis (RAC), cardiovascular events and de novo cancer.\n\nSeveral strategies have been developed to prevent alcohol relapse. After LT, integrating an addiction team into the LT program has been advocated by the latest guidelines in Europe and the United States, in order to bring the management of alcohol-use disorder (AUD) in transplantation units, through the association of psychosocial and pharmacological interventions previously reported in AALD. However, those guidelines were based on descriptive studies, and the effect of this management needs to be confirmed through a randomized, controlled, multicenter study, involving centers that still do not include an addiction team in their LT programs.\n\nThis study will therefore assess prospectively and comparatively the impact of an addiction intervention after LT on return to alcohol use rates. We hypothesize that standardized targeted addiction monitoring of Liver Transplant recipients decreases the rates of alcohol relapse two years post-liver transplantation.",
+            "detailedDescription": "Liver transplantation (LT) is the only curative option for end-stage liver disease and unresectable hepatocellular carcinoma (HCC) without extrahepatic spread. Alcohol Associated Liver Disease (AALD) has become the most common indication for liver transplantation (LT) in many Western countries.In France, AALD accounts for at least 40% of all LT, between decompensated cirrhosis and HCC, which represents more than 500 patients each year.\n\nOne, five and 10-year graft rate and patient survival rate after LT for AALD are at least comparable to those of other indications. Nevertheless, long-term survival rates are hampered by frequent and/or excessive relapse in alcohol consumption. Relapse increases the risk of recurrent alcohol-associated cirrhosis but also of de novo alcohol-induced solid malignancies, mainly cancers of the upper aero digestive tract. Graft and patient survival rates, especially long-term, are thus hindered by the occurrence of excessive relapse.\n\nRelapse rates vary immensely between studies and there is a lack of standardization in the definition of its severity, mainly because it is impossible to define the boundaries/thresholds for \"safe consumption\". However, there is consensus that harm appears for alcohol intake exceeding three portions per day for males and two for females, for at least 100 days with a sense of loss of control. This pattern of relapse, often described as \"severe\" can be found between 10 and 26% of patients. Most efforts aiming to reduce post-LT relapse rates focus on improving patient selection. Risk-factors of alcohol relapse often found in literature include short duration of pre-LT sobriety (\\<6 months), diagnosis of alcohol dependence, family history of alcohol-use disorder, psychiatric comorbidities including other substance abuse, prior alcohol rehabilitation and female gender. Scores such as HRAR (High Risk Alcoholism Relapse) have also attempted to stratify relapse risk based on pre-LT risk factors. Unfortunately, these criteria are not sensitive enough and most patients who finally benefit from the intervention are in the low to medium risk groups.\n\nIt is therefore a priority to utilize also resources in the post-LT setting to decrease alcohol relapse since it is a frequent and relatively difficult to predict event, with a high impact on outcomes after LT. We hypothesize that post-transplant addiction specialist interventions in liver transplant patients with AALD as primary, secondary or tertiary indication will result in decreased regular and/or severe alcohol relapse rate two years post-LT. By extension, this could result in higher graft and patient survival rates, especially in long term.\n\nMore recently, our group has performed a retrospective analysis of three centers with different addiction follow-up practices suggesting a benefit on severe relapse rates of addiction specialist intervention after LT for AALD. However, the main limit of this work is the retrospective design with different follow-up periods and duration. We designed a multicenter superiority randomized controlled trial with 2 parallel arms:\n\n* Interventional arm where participants are offered targeted addictology follow-up and participate in addiction consultations\n* Control arm where participants have classical follow-up by the transplant specialists of the LT center during the post-transplant follow-up period\n\nThe randomization will be elaborated using 1:1 ratio and minimization method. It will be stratified on centers and alcohol consumption history.\n\nAccording to a French cohort study of patients with liver transplantation for alcohol-related disorders, 25% of them relapsed at 2 years.To account for mortality censoring during follow-up, we will apply a 5% increase of the sample size to reach 720 participants (360 in each arm). The comparison of the primary endpoint between arms will be carried out using intention to treat principle. The time to relapse will be expressed using Kaplan-Meier curves in each arm, and compared using a log-rank test. The effect size will be estimated using Cox proportional."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Alcohol Associated Liver Disease",
+              "Liver Transplantation"
+            ],
+            "keywords": [
+              "Liver transplantation",
+              "Addiction follow-up",
+              "Alcohol relapse",
+              "Survival"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 720,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Interventional group",
+                "type": "EXPERIMENTAL",
+                "description": "Patients randomized into the interventional arm will participate in an addiction consultation during their hospital stay following LT. The participant's addiction treatment will be based on the number of risk factors identified.",
+                "interventionNames": [
+                  "Other: Post-transplant addiction intervention"
+                ]
+              },
+              {
+                "label": "Control group",
+                "type": "NO_INTERVENTION",
+                "description": "Participants randomized into the control arm will benefit from routine LT follow-up organized by the doctors and/or surgeons of the LT center during the post-transplant follow-up period. Usually, the patients have monthly outpatient visit with their physician during the first year after LT, then bi-monthly during the second year. At present, each center has a very different way of supporting transplant recipients, there is no systematic follow-up by an addictologist. Routine care at each center will be identified before the study set up. The different centers refer patients only after return to alcohol use is perceived in routine consultation or identified through biological alcohol markers. In this case, \"the alcohol relapse\" event will be noted and patients will be transferred to the addictologic center."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Post-transplant addiction intervention",
+                "description": "The first addiction consultation will be conducted using the BRENDA method which allows the addiction specialist to carry out a psychosocial assessment, to entrust the results of this assessment to the participant, to answer their questions and to evaluate their reactions. Risk factors for alcohol relapse will be collected: social determinants, male gender, psychiatric comorbidities, duration of alcohol abstinence before LT(≥ or \\< 6 months) and young age (\\< 40 years). If the addiction specialist notes the presence of at least 3 risk factors for alcohol relapse, targeted addiction follow-up will be proposed to the participant including outpatient consultations with motivational interview at least every 4 weeks +/- pharmacological treatment of alcohol use disorder.In case of alcohol relapse or a period of high vulnerability to relapse, specific hospitalizations can be scheduled. If the participant has \\<3 risk factors, an addictology consultation every 6 months at most will be proposed.",
+                "armGroupLabels": [
+                  "Interventional group"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Time to return to alcohol use",
+                "description": "Time to return to alcohol use is defined by the time between discharge from Liver Transplantation (LT) hospitalization and alcohol relapse,it includes either:\n\n* Severe relapse: alcohol intake of at least 4 units per day for men and 3 per day for women for at least 100 days;\n* Regular relapse: no more than 21 units a week for men, 14 units a week for women, at least 10 times a month; Alcohol consumption will be collected using the alcohol timeline follow back (TLFB), the assessor will be blinded to the participant's arm allocation.\n\nTLFB is a calandar used to asses the participant's alcohol intake, it evaluates their daily drinking and provides a report of their drinking pattern over a given time period.\n\nThe first TLFB assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Return to alcohol use of the slip type",
+                "description": "Alcohol use will be measured using the TLFB,the assessor will be blinded to the participant's arm allocation.\n\nSlip type is defined by a unique excessive alcohol consumption (more than 4 alcohol drinks on a single occasion).\n\nThe first TLFB assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Tobacco use",
+                "description": "Tobacco use will be measured by relative reduction in the number of cigarettes smoked per day compared with baseline, and by smoking abstinence at 24 months after discharge from LT hospitalization, for at least one month. Tobacco use will be self reported by the participant during interviews with an assessor who is blinded to their arm allocation.\n\nTobacco use assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Other psychoactive substances use",
+                "description": "Psychoactive substances use (opiates, abuse drugs, psychostimulants or psychedelics ) will be self reported by the participant during interviews with an assessor who is blinded to their arm allocation.\n\nPsychoactive substances use assessment will be carried out one month after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Addiction therapies",
+                "description": "Addiction therapies (behavioral, motivational therapy and medication) implemented in the intervention arm will be described.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Major significant clinical events",
+                "description": "Major significant clinical events includes death, cardiovascular events (myocardial infarction, pulmonary embolism, stroke), De Novo cancer and graft rejection.\n\nThe occurrence of major significant clinical events will be collected during the participation period, time-to-event is defined as the time from LT until event or loss to follow-up or end of the study or death.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Biochemical liver tests",
+                "description": "Biochemical liver tests ( Alanine transaminase ALT, Aspartate transaminase AST, gamma-glutamyl transferase GGT, alkaline phosphatase and bilirubin) evolution will be assessed.\n\nBiochemical liver tests will be measured as X upper limit normal ULN, 3 months after discharge from LT hospitalization, then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Alcohol consumption biomarker ethanol/Peth)",
+                "description": "Alcohol use biomarker (Phosphatidylethanol/Peth) kinetics, tested 3 times a year, will be compared to self-reported alcohol consumption.\n\nBlood phosphatidylethanol concentration is determined by liquid chromatography coupled to a tandem mass spectrometer.",
+                "timeFrame": "At 1 month, 11 or 13 months and at 24 months after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Liver fibrosis",
+                "description": "Liver fibrosis will be assessed using liver stiffness measurement by pulse elastometry (Fibroscan) and expressed in kilopascal (kPa).",
+                "timeFrame": "2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Evolution of cognitive disorders",
+                "description": "Cognitive disorders will be measured using the Montreal Cognitive Assessment (MoCA) test which is a screening tool used to determine if there is any impairment in the participant's cognitive function, including their ability to understand, reason, and remember.\n\nThe MoCA score ranges from 0 to 30:\n\n* 27-30: is considered normal\n* 18-26: indicates the presence of mild cognitive impairment\n* 10-17: indicates the presence of moderate cognitive impairment\n* \\< 10: indicates the presence of severe cognitive impairment\n\nMoCA test will be carried out at inclusion, 3 months after discharge from LT hospitalization then every 2 months up to 2 years after discharge from LT hospitalization.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              },
+              {
+                "measure": "Mortality and alcohol-associated mortality rate",
+                "description": "The occurrence of death (overall mortality and alcohol-associated mortality) will be collected during the participation period.\n\nTime-to-death is defined as the time from LT until death.",
+                "timeFrame": "During 2 years after discharge from Liver transplantation hospitalization"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18 years or above\n* Hospitalized for LT for AALD as primary, secondary or tertiary indication\n* Discharged from intensive care unit to hepatology or surgery wards\n\nExclusion Criteria:\n\n* Severe alcohol-associated hepatitis as primary indication for liver transplantation\n* Impossibility of patient follow up over the next 2 years\n* General criteria:\n\n  * Refusal or absence of informed consent,\n  * Non-affiliation to the French national health insurance,\n  * Persons placed under legal protection, guardianship or curatorship",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Hélène DONNADIEU, MD, PhD",
+                "role": "CONTACT",
+                "phone": "0467337020",
+                "phoneExt": "+33",
+                "email": "h-donnadieu@chu-montpellier.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Hélène DONNADIEU, MD, PhD",
+                "affiliation": "University Hospital, Montpellier",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Besançon University Hospital",
+                "status": "RECRUITING",
+                "city": "Besançon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Claire VANLEMMENS",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Julie GIUSTINIANI",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.24878,
+                  "lon": 6.01815
+                }
+              },
+              {
+                "facility": "Bordeaux University Hospital",
+                "status": "RECRUITING",
+                "city": "Bordeaux",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Faiza CHERMAK",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 44.84124,
+                  "lon": -0.58046
+                }
+              },
+              {
+                "facility": "Clermont Ferrand University Hospital",
+                "status": "RECRUITING",
+                "city": "Clermont-Ferrand",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Armand ABERGEL",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 45.77969,
+                  "lon": 3.08682
+                }
+              },
+              {
+                "facility": "Dijon University Hospital",
+                "status": "RECRUITING",
+                "city": "Dijon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Marianne LATOURNERIE",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.31344,
+                  "lon": 5.01391
+                }
+              },
+              {
+                "facility": "Lille University Hospital",
+                "status": "RECRUITING",
+                "city": "Lille",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Sebastien DHARANCY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 50.63391,
+                  "lon": 3.05512
+                }
+              },
+              {
+                "facility": "Lyon University Hospital",
+                "status": "RECRUITING",
+                "city": "Lyon",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Teresa ANTONINI",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Olivier LEJEUNE",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 45.74906,
+                  "lon": 4.84789
+                }
+              },
+              {
+                "facility": "Marseille University Hospital",
+                "status": "NOT_YET_RECRUITING",
+                "city": "Marseille",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Sophie CHOPINET",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Christophe LANCON",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.29695,
+                  "lon": 5.38107
+                }
+              },
+              {
+                "facility": "Montpellier University Hospital",
+                "status": "RECRUITING",
+                "city": "Montpellier",
+                "zip": "34000",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Hélène DONNADIEU",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Georges Philippe PAGEAUX",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Jose URSIC-BEDOYA",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Stephanie FAURE",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Lucy MEUNIER",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.61093,
+                  "lon": 3.87635
+                }
+              },
+              {
+                "facility": "Nice University Hospital",
+                "status": "RECRUITING",
+                "city": "Nice",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Rodolphe ANTY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Régine TRUCHI",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.70313,
+                  "lon": 7.26608
+                }
+              },
+              {
+                "facility": "APHP Mondor",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Christophe DUVOUX",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Vincent LEROY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "APHP Paul Brousse",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Audrey COILLY",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Lisa BLECHA",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "APHP Salpetrière",
+                "status": "RECRUITING",
+                "city": "Paris",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Filomena CONTI",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "An Hung NGUYEN",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.85341,
+                  "lon": 2.3488
+                }
+              },
+              {
+                "facility": "Rennes University Hospital",
+                "status": "RECRUITING",
+                "city": "Rennes",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Pauline HOUSSEL",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Caroline LE LAN",
+                    "role": "SUB_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Romain MOIRAND",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.11109,
+                  "lon": -1.67431
+                }
+              },
+              {
+                "facility": "Strasbourg University Hospital",
+                "status": "RECRUITING",
+                "city": "Strasbourg",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Camille BESCH",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Anais LANG",
+                    "role": "SUB_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.58392,
+                  "lon": 7.74553
+                }
+              },
+              {
+                "facility": "Toulouse University Hospital",
+                "status": "RECRUITING",
+                "city": "Toulouse",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Nassim KAMAR",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.60426,
+                  "lon": 1.44367
+                }
+              },
+              {
+                "facility": "Tours University Hospital",
+                "status": "RECRUITING",
+                "city": "Tours",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Laure ELKRIEF",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  },
+                  {
+                    "name": "Helene BARRAUD",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 47.39484,
+                  "lon": 0.70398
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

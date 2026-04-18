@@ -1,0 +1,74 @@
+{
+  "run_id": "746f3fdb48a14ca8bc2c19d2aa4cb34b",
+  "stored_at": "2026-04-16T17:16:58+00:00",
+  "query": "malaria malaria clinical question children kenya turkana",
+  "query_fallbacks": [
+    "malaria malaria clinical question children kenya turkana",
+    "malaria epidemiology in children Kenya Turkana region",
+    "malaria disease burden among Kenyan children in Turkana",
+    "malaria clinical outcomes in pediatric population of Kenya Turkana",
+    "malaria health disparities in Turkana County Kenya",
+    "malaria malaria clinical question children",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria clinical question children kenya turkana",
+    "malaria malaria clinical question children",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology in children Kenya Turkana region",
+    "malaria disease burden among Kenyan children in Turkana",
+    "malaria clinical outcomes in pediatric population of Kenya Turkana",
+    "malaria health disparities in Turkana County Kenya"
+  ],
+  "keywords": [
+    "malaria",
+    "clinical",
+    "question",
+    "children",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 4,
+    "clinicaltrials": 13,
+    "openalex": 30,
+    "semantic_hits": 68,
+    "indexed_chunks": 64
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology in children Kenya Turkana region",
+      "malaria disease burden among Kenyan children in Turkana",
+      "malaria clinical outcomes in pediatric population of Kenya Turkana",
+      "malaria health disparities in Turkana County Kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\746f3fdb48a14ca8bc2c19d2aa4cb34b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\746f3fdb48a14ca8bc2c19d2aa4cb34b\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\746f3fdb48a14ca8bc2c19d2aa4cb34b\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\746f3fdb48a14ca8bc2c19d2aa4cb34b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\746f3fdb48a14ca8bc2c19d2aa4cb34b\\combined.records.json"
+  }
+}

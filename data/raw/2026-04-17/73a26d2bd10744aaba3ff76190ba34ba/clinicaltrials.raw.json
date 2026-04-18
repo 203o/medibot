@@ -1,0 +1,561 @@
+{
+  "query": "malaria outcomes smoking tobacco",
+  "selected_query": "malaria epidemiology tobacco smoking",
+  "attempted_queries": [
+    {
+      "query": "malaria outcomes smoking tobacco",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "malaria epidemiology tobacco smoking",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "",
+  "records": [
+    {
+      "nct_id": "NCT04002466",
+      "title": "Anemia Etiology Evaluation in Ethiopia",
+      "brief_summary": "The AnemEE study is a population-based anemia etiology survey in six regions of Ethiopia. The primary aim of the study is to evaluate the relative contribution of risk factors for anemia among children, women of reproductive age, and adult men. The study data are intended to inform evidence-based decision-making on anemia control interventions.",
+      "detailed_description": "The AnemEE study is a population-based cross-sectional survey of children (6-59 months), adult women of reproductive age (15-49 years) and adult males (15-49 years) in six regions of Ethiopia (Afar, Amhara, Tigray, Oromia, Southern Nations, Nationalities and Peoples' Region and Addis Ababa). The study will enroll approximately 5,100 participants and will be conducted in two survey rounds; one survey round in the Belg season and one survey round in the Meher season. All participants will have hemoglobin assessed and will have standardized questionnaires administered to assess sociodemographic, diet, morbidity, and other health/nutrition factors. All participants will also have assessments of anthropometric measures, malaria, and soil transmitted helminth infection. A subset of participants will also have serum ferritin, CRP, AGP, vitamin B12, and folate concentrations assessed. The study data will be used to determine the relative contributions of risk factors for anemia.",
+      "evidence_sentences": [
+        "All participants will also have assessments of anthropometric measures, malaria, and soil transmitted helminth infection.",
+        "The AnemEE study is a population-based cross-sectional survey of children (6-59 months), adult women of reproductive age (15-49 years) and adult males (15-49 years) in six regions of Ethiopia (Afar, Amhara, Tigray, Oromia, Southern Nations, Nationalities and Peoples' Region and Addis Ababa).",
+        "The study will enroll approximately 5,100 participants and will be conducted in two survey rounds; one survey round in the Belg season and one survey round in the Meher season."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "COMPLETED",
+      "last_update": "2020-07-27",
+      "query_keywords": [
+        "malaria",
+        "outcomes",
+        "smoking",
+        "tobacco"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT04002466",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04002466",
+            "orgStudyIdInfo": {
+              "id": "OPP1179606"
+            },
+            "organization": {
+              "fullName": "Harvard School of Public Health (HSPH)",
+              "class": "OTHER"
+            },
+            "briefTitle": "Anemia Etiology Evaluation in Ethiopia",
+            "officialTitle": "Evaluation of Dietary Iron Intake, Anemia, and Iron Status Among Men, Women, and Children in Ethiopia",
+            "acronym": "AnemEE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2020-07",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2019-01-27",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2019-08-15",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2019-08-15",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2019-06-21",
+            "studyFirstSubmitQcDate": "2019-06-27",
+            "studyFirstPostDateStruct": {
+              "date": "2019-06-28",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2020-07-27",
+            "lastUpdatePostDateStruct": {
+              "date": "2020-07-28",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Wafaie Fawzi",
+              "investigatorTitle": "Professor of Nutrition, Epidemiology, and Global Health",
+              "investigatorAffiliation": "Harvard School of Public Health (HSPH)"
+            },
+            "leadSponsor": {
+              "name": "Harvard School of Public Health (HSPH)",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Addis Continental Institute of Public Health",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The AnemEE study is a population-based anemia etiology survey in six regions of Ethiopia. The primary aim of the study is to evaluate the relative contribution of risk factors for anemia among children, women of reproductive age, and adult men. The study data are intended to inform evidence-based decision-making on anemia control interventions.",
+            "detailedDescription": "The AnemEE study is a population-based cross-sectional survey of children (6-59 months), adult women of reproductive age (15-49 years) and adult males (15-49 years) in six regions of Ethiopia (Afar, Amhara, Tigray, Oromia, Southern Nations, Nationalities and Peoples' Region and Addis Ababa). The study will enroll approximately 5,100 participants and will be conducted in two survey rounds; one survey round in the Belg season and one survey round in the Meher season. All participants will have hemoglobin assessed and will have standardized questionnaires administered to assess sociodemographic, diet, morbidity, and other health/nutrition factors. All participants will also have assessments of anthropometric measures, malaria, and soil transmitted helminth infection. A subset of participants will also have serum ferritin, CRP, AGP, vitamin B12, and folate concentrations assessed. The study data will be used to determine the relative contributions of risk factors for anemia."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Anemia"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "CROSS_SECTIONAL"
+            },
+            "enrollmentInfo": {
+              "count": 5114,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Children (6-59 months)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              },
+              {
+                "label": "Women of Reproductive Age (15-49 years)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              },
+              {
+                "label": "Adult Men (15-49 years)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Risk factors for anemia",
+                "description": "Diet, iron, vitamin B12, folate, inflammation, soil transmitted helminth infection, malaria, other morbidities and other health/nutrition/sociodemographic factors",
+                "armGroupLabels": [
+                  "Adult Men (15-49 years)",
+                  "Children (6-59 months)",
+                  "Women of Reproductive Age (15-49 years)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Anemia",
+                "description": "Hemoglobin concentration by sex and age (\\<11 g/dL for children; Hb \\<12 g/dL for non-pregnant adult women, \\<13 g/dL for adult men). Hemoglobin concentrations will be adjusted for altitude and smoking status.",
+                "timeFrame": "One day"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women of reproductive age\n\n   * Female living in a selected household that has a woman 15-49 years of age\n   * Aged 15-49 years\n2. Adult Men\n\n   * Male living in a selected household that has a woman 15-49 years of age\n   * Aged 15-49 years\n3. Children\n\n   * Male or female child living in a selected household that has a woman 15-49 years of age\n   * Aged 6-59 months\n\nExclusion Criteria:\n\n* Does not provide informed consent",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "6 Months",
+            "maximumAge": "48 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ],
+            "studyPopulation": "Children (6-59 months); Women of reproductive age (15-49 years); Adult men (15-49 years)",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Wafaie W Fawzi, MBBS, DrPH",
+                "affiliation": "Harvard School of Public Health (HSPH)",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Addis Continental Institute of Public Health",
+                "city": "Addis Ababa",
+                "country": "Ethiopia",
+                "geoPoint": {
+                  "lat": 9.02497,
+                  "lon": 38.74689
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "31651278",
+                "type": "DERIVED",
+                "citation": "Tadesse AW, Hemler EC, Andersen C, Passarelli S, Worku A, Sudfeld CR, Berhane Y, Fawzi WW. Anemia prevalence and etiology among women, men, and children in Ethiopia: a study protocol for a national population-based survey. BMC Public Health. 2019 Oct 24;19(1):1369. doi: 10.1186/s12889-019-7647-7."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000740",
+                "term": "Anemia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D006402",
+                "term": "Hematologic Diseases"
+              },
+              {
+                "id": "D006425",
+                "term": "Hemic and Lymphatic Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D012307",
+                "term": "Risk Factors"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012306",
+                "term": "Risk"
+              },
+              {
+                "id": "D011336",
+                "term": "Probability"
+              },
+              {
+                "id": "D013223",
+                "term": "Statistics as Topic"
+              },
+              {
+                "id": "D004812",
+                "term": "Epidemiologic Methods"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D015984",
+                "term": "Causality"
+              },
+              {
+                "id": "D015981",
+                "term": "Epidemiologic Factors"
+              },
+              {
+                "id": "D011787",
+                "term": "Quality of Health Care"
+              },
+              {
+                "id": "D017530",
+                "term": "Health Care Quality, Access, and Evaluation"
+              },
+              {
+                "id": "D017531",
+                "term": "Health Care Evaluation Mechanisms"
+              },
+              {
+                "id": "D011634",
+                "term": "Public Health"
+              },
+              {
+                "id": "D004778",
+                "term": "Environment and Public Health"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04002466",
+            "orgStudyIdInfo": {
+              "id": "OPP1179606"
+            },
+            "organization": {
+              "fullName": "Harvard School of Public Health (HSPH)",
+              "class": "OTHER"
+            },
+            "briefTitle": "Anemia Etiology Evaluation in Ethiopia",
+            "officialTitle": "Evaluation of Dietary Iron Intake, Anemia, and Iron Status Among Men, Women, and Children in Ethiopia",
+            "acronym": "AnemEE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2020-07",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2019-01-27",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2019-08-15",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2019-08-15",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2019-06-21",
+            "studyFirstSubmitQcDate": "2019-06-27",
+            "studyFirstPostDateStruct": {
+              "date": "2019-06-28",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2020-07-27",
+            "lastUpdatePostDateStruct": {
+              "date": "2020-07-28",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Wafaie Fawzi",
+              "investigatorTitle": "Professor of Nutrition, Epidemiology, and Global Health",
+              "investigatorAffiliation": "Harvard School of Public Health (HSPH)"
+            },
+            "leadSponsor": {
+              "name": "Harvard School of Public Health (HSPH)",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Addis Continental Institute of Public Health",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The AnemEE study is a population-based anemia etiology survey in six regions of Ethiopia. The primary aim of the study is to evaluate the relative contribution of risk factors for anemia among children, women of reproductive age, and adult men. The study data are intended to inform evidence-based decision-making on anemia control interventions.",
+            "detailedDescription": "The AnemEE study is a population-based cross-sectional survey of children (6-59 months), adult women of reproductive age (15-49 years) and adult males (15-49 years) in six regions of Ethiopia (Afar, Amhara, Tigray, Oromia, Southern Nations, Nationalities and Peoples' Region and Addis Ababa). The study will enroll approximately 5,100 participants and will be conducted in two survey rounds; one survey round in the Belg season and one survey round in the Meher season. All participants will have hemoglobin assessed and will have standardized questionnaires administered to assess sociodemographic, diet, morbidity, and other health/nutrition factors. All participants will also have assessments of anthropometric measures, malaria, and soil transmitted helminth infection. A subset of participants will also have serum ferritin, CRP, AGP, vitamin B12, and folate concentrations assessed. The study data will be used to determine the relative contributions of risk factors for anemia."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Anemia"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "CROSS_SECTIONAL"
+            },
+            "enrollmentInfo": {
+              "count": 5114,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Children (6-59 months)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              },
+              {
+                "label": "Women of Reproductive Age (15-49 years)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              },
+              {
+                "label": "Adult Men (15-49 years)",
+                "interventionNames": [
+                  "Other: Risk factors for anemia"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Risk factors for anemia",
+                "description": "Diet, iron, vitamin B12, folate, inflammation, soil transmitted helminth infection, malaria, other morbidities and other health/nutrition/sociodemographic factors",
+                "armGroupLabels": [
+                  "Adult Men (15-49 years)",
+                  "Children (6-59 months)",
+                  "Women of Reproductive Age (15-49 years)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Anemia",
+                "description": "Hemoglobin concentration by sex and age (\\<11 g/dL for children; Hb \\<12 g/dL for non-pregnant adult women, \\<13 g/dL for adult men). Hemoglobin concentrations will be adjusted for altitude and smoking status.",
+                "timeFrame": "One day"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women of reproductive age\n\n   * Female living in a selected household that has a woman 15-49 years of age\n   * Aged 15-49 years\n2. Adult Men\n\n   * Male living in a selected household that has a woman 15-49 years of age\n   * Aged 15-49 years\n3. Children\n\n   * Male or female child living in a selected household that has a woman 15-49 years of age\n   * Aged 6-59 months\n\nExclusion Criteria:\n\n* Does not provide informed consent",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "6 Months",
+            "maximumAge": "48 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ],
+            "studyPopulation": "Children (6-59 months); Women of reproductive age (15-49 years); Adult men (15-49 years)",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Wafaie W Fawzi, MBBS, DrPH",
+                "affiliation": "Harvard School of Public Health (HSPH)",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Addis Continental Institute of Public Health",
+                "city": "Addis Ababa",
+                "country": "Ethiopia",
+                "geoPoint": {
+                  "lat": 9.02497,
+                  "lon": 38.74689
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "31651278",
+                "type": "DERIVED",
+                "citation": "Tadesse AW, Hemler EC, Andersen C, Passarelli S, Worku A, Sudfeld CR, Berhane Y, Fawzi WW. Anemia prevalence and etiology among women, men, and children in Ethiopia: a study protocol for a national population-based survey. BMC Public Health. 2019 Oct 24;19(1):1369. doi: 10.1186/s12889-019-7647-7."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000740",
+                "term": "Anemia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D006402",
+                "term": "Hematologic Diseases"
+              },
+              {
+                "id": "D006425",
+                "term": "Hemic and Lymphatic Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D012307",
+                "term": "Risk Factors"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012306",
+                "term": "Risk"
+              },
+              {
+                "id": "D011336",
+                "term": "Probability"
+              },
+              {
+                "id": "D013223",
+                "term": "Statistics as Topic"
+              },
+              {
+                "id": "D004812",
+                "term": "Epidemiologic Methods"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D015984",
+                "term": "Causality"
+              },
+              {
+                "id": "D015981",
+                "term": "Epidemiologic Factors"
+              },
+              {
+                "id": "D011787",
+                "term": "Quality of Health Care"
+              },
+              {
+                "id": "D017530",
+                "term": "Health Care Quality, Access, and Evaluation"
+              },
+              {
+                "id": "D017531",
+                "term": "Health Care Evaluation Mechanisms"
+              },
+              {
+                "id": "D011634",
+                "term": "Public Health"
+              },
+              {
+                "id": "D004778",
+                "term": "Environment and Public Health"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

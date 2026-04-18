@@ -1,0 +1,59 @@
+{
+  "run_id": "82ed08a1a0a840c589ad2ad0936fe734",
+  "stored_at": "2026-04-17T23:31:17+00:00",
+  "query": "cancer prostate cancer treatment therapy USA",
+  "query_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer prostate cancer treatment therapy USA",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "cancer",
+    "prostate",
+    "treatment",
+    "therapy",
+    "management",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 26,
+    "indexed_chunks": 118
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\82ed08a1a0a840c589ad2ad0936fe734\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\82ed08a1a0a840c589ad2ad0936fe734\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\82ed08a1a0a840c589ad2ad0936fe734\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\82ed08a1a0a840c589ad2ad0936fe734\\combined.records.json"
+  }
+}

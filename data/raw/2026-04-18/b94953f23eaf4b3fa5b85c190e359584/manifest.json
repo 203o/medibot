@@ -1,0 +1,68 @@
+{
+  "run_id": "b94953f23eaf4b3fa5b85c190e359584",
+  "stored_at": "2026-04-18T10:29:35+00:00",
+  "query": "malaria hiv prevalence south africa",
+  "query_fallbacks": [
+    "malaria hiv prevalence south africa",
+    "malaria hiv co-infection epidemiology south africa",
+    "south africa malaria hiv co-infection prevalence studies",
+    "epidemiology of hiv among malaria patients south africa",
+    "malaria hiv co-infection burden south africa",
+    "malaria hiv prevalence south treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria hiv prevalence south africa",
+    "malaria hiv prevalence south treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria hiv co-infection epidemiology south africa",
+    "south africa malaria hiv co-infection prevalence studies",
+    "epidemiology of hiv among malaria patients south africa",
+    "malaria hiv co-infection burden south africa"
+  ],
+  "keywords": [
+    "malaria",
+    "hiv",
+    "prevalence",
+    "south",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 30,
+    "indexed_chunks": 63
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria hiv co-infection epidemiology south africa",
+      "south africa malaria hiv co-infection prevalence studies",
+      "epidemiology of hiv among malaria patients south africa",
+      "malaria hiv co-infection burden south africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b94953f23eaf4b3fa5b85c190e359584\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b94953f23eaf4b3fa5b85c190e359584\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b94953f23eaf4b3fa5b85c190e359584\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b94953f23eaf4b3fa5b85c190e359584\\combined.records.json"
+  }
+}

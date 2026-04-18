@@ -1,0 +1,1035 @@
+{
+  "query": "hiv studie showing caouses increase africa",
+  "selected_query": "Epidemiological studies on HIV prevalence among African children",
+  "attempted_queries": [
+    {
+      "query": "hiv studie showing caouses increase africa",
+      "location_filter": "africa",
+      "count": 0
+    },
+    {
+      "query": "hiv studie showing caouses increase africa",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "Epidemiological studies on HIV prevalence among African children",
+      "location_filter": "africa",
+      "count": 0
+    },
+    {
+      "query": "Epidemiological studies on HIV prevalence among African children",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "africa",
+  "records": [
+    {
+      "nct_id": "NCT06129253",
+      "title": "Global Burden Estimation of Human Papillomavirus (GLOBE-HPV)",
+      "brief_summary": "This study is a multi-country and multi-site project to estimate the point-prevalence of high-risk (HR) HPV genotype infections among representative samples of girls and women aged 9-50 years, and among specific sub-populations to estimate the incidence of persistent HPV infection among sexually active young women. The data to fulfill the objectives will be collected through a series of Cross-Sectional Surveys (CSS) and Longitudinal Studies (LS) in all 8 countries 3 South Asian countries including Bangladesh, Pakistan, Nepal and 5 sub-Saharan African countries including Sierra Leone, Tanzania, Ghana, Zambia and DR Congo. Qualitative sub-studies (QS) will be conducted in selected countries and populations following the CSS to further understand and unpack risk factors for HPV infection as well as to explore how gender-related dynamics including perceptions of gender norms and stigma, influence HPV burden and/or create barriers that shape girls/women access to and uptake of HPV prevention, screening, and treatment services. Specific study protocols and corresponding ethical applications for the qualitative sub-studies will be developed separately.",
+      "detailed_description": "The study will incorporate a harmonized protocol among the 8 countries to estimate point-prevalence of high-risk HPV (HR HPV) in low socio-economic populations and, among specific sub-populations, the incidence of persistent HPV infection. Due to differences in study settings, study population, targeted age-group, and eligibility criteria, country-specific protocols will be developed to complement the multi-country master protocol. In the master protocol, general principles on study design and methodology will be described, while the country-specific protocol will elaborate in more detail on methodology in each country related to subject identification, the enrolment process, and laboratory analysis. A standardized survey questionnaire, with some minor country-specific adaptations, and laboratory assays will be implemented throughout the participating countries in order to generate comparable data.\n\nTwo separate approaches will be implemented to estimate prevalence and incidence respectively in each participating country. First, cross-sectional surveys (CSS) will be conducted in both urban and rural areas of selected countries in order to estimate the point prevalence of HPV infection in sub-Saharan Africa and South Asia. The CSS will enrol girls and women aged 9-50 years, with equal sample size from four age-strata: 9-14, 15-20, 21- 30, 31-50. For specific populations, age-strata will be modified to include 12-35 years olds considering the target population characteristics and local context. Multi-stage cluster random sampling or another applicable sampling strategy will be applied to ensure representativeness. Urine samples will be collected for HPV testing, along with data on demographics, socioeconomic status, sexual and reproductive history, attitudes towards and awareness and uptake of cervical cancer screening and HPV vaccination, and potential risk factors for HPV infection and cervical cancer. Additional data will be collected on knowledge of HPV, and attitudes, uptake and use of vaccines, using standardized questionnaires and case report forms.\n\nSecond, Longitudinal studies (LS) will estimate the incidence of persistent HPV infection in sexually active girls and young women in geographically defined communities and special populations. Depending on the country setting, the LS will enroll sexually active girls and women who are aged between 15-35 years and follow them up to 24 months. Participants will be tested every 6 months for 24 months to determine incident persistent HR HPV infection. In selected countries, urine and self-collected vaginal swabs (SCVS) will be collected at the first visit to determine the comparability of HPV genotyping results from both sample types. For all the other visits, only SCVS will be collected. Data on demographics, socioeconomic status, sexual and reproductive history, cervical screening, HPV vaccination, and other potential risk factors will be collected using standardized questionnaires.\n\nFurthermore, the qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site. Qualitative study methods will vary depending on the site and CSS findings, but will include both individual in- depth interviews (IDIs) (up to \\~ 30 individuals per site), key informant interviews as well as multiple focus group discussions (FGDs) with \\~6-8 participants/group. Detailed qualitative study methodology will be developed separately as another study protocol and adapted according to the procedures for each site.",
+      "evidence_sentences": [
+        "The data to fulfill the objectives will be collected through a series of Cross-Sectional Surveys (CSS) and Longitudinal Studies (LS) in all 8 countries 3 South Asian countries including Bangladesh, Pakistan, Nepal and 5 sub-Saharan African countries including Sierra Leone, Tanzania, Ghana, Zambia and DR Congo.",
+        "Qualitative sub-studies (QS) will be conducted in selected countries and populations following the CSS to further understand and unpack risk factors for HPV infection as well as to explore how gender-related dynamics including perceptions of gender norms and stigma, influence HPV burden and/or create barriers that shape girls/women access to and uptake of HPV prevention, screening, and treatment services.",
+        "Furthermore, the qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "RECRUITING",
+      "last_update": "2025-07-15",
+      "query_keywords": [
+        "hiv",
+        "studie",
+        "showing",
+        "caouses",
+        "increase",
+        "africa",
+        "among",
+        "chilren"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06129253",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06129253",
+            "orgStudyIdInfo": {
+              "id": "GLOBE-HPV-01"
+            },
+            "organization": {
+              "fullName": "International Vaccine Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Global Burden Estimation of Human Papillomavirus (GLOBE-HPV)",
+            "officialTitle": "Global Burden Estimation of Human Papillomavirus (GLOBE-HPV)",
+            "acronym": "HPV"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-07",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-11-23",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2027-12",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2027-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-10-17",
+            "studyFirstSubmitQcDate": "2023-11-10",
+            "studyFirstPostDateStruct": {
+              "date": "2023-11-13",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-07-15",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-07-16",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "International Vaccine Institute",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "London School of Hygiene and Tropical Medicine",
+                "class": "OTHER"
+              },
+              {
+                "name": "Karolinska Institutet",
+                "class": "OTHER"
+              },
+              {
+                "name": "Centers for Disease Control and Prevention",
+                "class": "FED"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study is a multi-country and multi-site project to estimate the point-prevalence of high-risk (HR) HPV genotype infections among representative samples of girls and women aged 9-50 years, and among specific sub-populations to estimate the incidence of persistent HPV infection among sexually active young women. The data to fulfill the objectives will be collected through a series of Cross-Sectional Surveys (CSS) and Longitudinal Studies (LS) in all 8 countries 3 South Asian countries including Bangladesh, Pakistan, Nepal and 5 sub-Saharan African countries including Sierra Leone, Tanzania, Ghana, Zambia and DR Congo. Qualitative sub-studies (QS) will be conducted in selected countries and populations following the CSS to further understand and unpack risk factors for HPV infection as well as to explore how gender-related dynamics including perceptions of gender norms and stigma, influence HPV burden and/or create barriers that shape girls/women access to and uptake of HPV prevention, screening, and treatment services. Specific study protocols and corresponding ethical applications for the qualitative sub-studies will be developed separately.",
+            "detailedDescription": "The study will incorporate a harmonized protocol among the 8 countries to estimate point-prevalence of high-risk HPV (HR HPV) in low socio-economic populations and, among specific sub-populations, the incidence of persistent HPV infection. Due to differences in study settings, study population, targeted age-group, and eligibility criteria, country-specific protocols will be developed to complement the multi-country master protocol. In the master protocol, general principles on study design and methodology will be described, while the country-specific protocol will elaborate in more detail on methodology in each country related to subject identification, the enrolment process, and laboratory analysis. A standardized survey questionnaire, with some minor country-specific adaptations, and laboratory assays will be implemented throughout the participating countries in order to generate comparable data.\n\nTwo separate approaches will be implemented to estimate prevalence and incidence respectively in each participating country. First, cross-sectional surveys (CSS) will be conducted in both urban and rural areas of selected countries in order to estimate the point prevalence of HPV infection in sub-Saharan Africa and South Asia. The CSS will enrol girls and women aged 9-50 years, with equal sample size from four age-strata: 9-14, 15-20, 21- 30, 31-50. For specific populations, age-strata will be modified to include 12-35 years olds considering the target population characteristics and local context. Multi-stage cluster random sampling or another applicable sampling strategy will be applied to ensure representativeness. Urine samples will be collected for HPV testing, along with data on demographics, socioeconomic status, sexual and reproductive history, attitudes towards and awareness and uptake of cervical cancer screening and HPV vaccination, and potential risk factors for HPV infection and cervical cancer. Additional data will be collected on knowledge of HPV, and attitudes, uptake and use of vaccines, using standardized questionnaires and case report forms.\n\nSecond, Longitudinal studies (LS) will estimate the incidence of persistent HPV infection in sexually active girls and young women in geographically defined communities and special populations. Depending on the country setting, the LS will enroll sexually active girls and women who are aged between 15-35 years and follow them up to 24 months. Participants will be tested every 6 months for 24 months to determine incident persistent HR HPV infection. In selected countries, urine and self-collected vaginal swabs (SCVS) will be collected at the first visit to determine the comparability of HPV genotyping results from both sample types. For all the other visits, only SCVS will be collected. Data on demographics, socioeconomic status, sexual and reproductive history, cervical screening, HPV vaccination, and other potential risk factors will be collected using standardized questionnaires.\n\nFurthermore, the qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site. Qualitative study methods will vary depending on the site and CSS findings, but will include both individual in- depth interviews (IDIs) (up to \\~ 30 individuals per site), key informant interviews as well as multiple focus group discussions (FGDs) with \\~6-8 participants/group. Detailed qualitative study methodology will be developed separately as another study protocol and adapted according to the procedures for each site."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HPV Infection"
+            ],
+            "keywords": [
+              "HPV Positivity",
+              "HPV Infection",
+              "High Risk (HR) HPV",
+              "Cervical Cancer"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "OTHER"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITH_DNA",
+              "description": "1. Urine Sample When urine is collected as a sample in either CSS or LS, first flow urine samples will be collected.\n2. Self-collected Vaginal Swab SCVS will be collected by the participant under the supervision of a trained nurse or other health care worker.\n3. Blood Sample If funding permits, a blood sample may be collected from participants in LS once during the follow-up period. If blood sample collection was not feasible during a visit, two additional attempts may be made to collect blood samples from LS participants during the subsequent follow-up visits."
+            },
+            "enrollmentInfo": {
+              "count": 29750,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Cross-Sectional Survey",
+                "description": "There are total 14 CSS groups among 8 participating countries: Bangladesh has 3 groups for CSS (urban CSS, rural CSS, displaced population CSS); Pakistan has 3 groups for CSS (urban CSS, rural CSS, commercial sex worker population CSS); Nepal has 1 nationally representative CSS; Sierra Leon has 1 rural CSS; Tanzania has 2 groups for CSS (pastoralists CSS, displaced population CSS); Ghana has 1 urban CSS; Zambia has 1 group for urban \\& rural representative CSS; DR Congo has 2 groups for CSS (population representative sample for urban and rural CSS, displaced population CSS)",
+                "interventionNames": [
+                  "Other: Urine Sample Collection"
+                ]
+              },
+              {
+                "label": "Longitudinal Study",
+                "description": "There are total 11 LS groups: Bangladesh has 2 LS groups (married women up to 25 years-old \\& 26-35 years old); Sierra Leone has 2 LS groups (Young girls subject to child marriage/early pregnancy \\& general population); Tanzania has 2 LS groups (fishing, mining/tuck stop community \\& general population) Other 5 countries have 1 LS group in each country.",
+                "interventionNames": [
+                  "Other: Urine Sample Collection",
+                  "Other: Self-collected Vaginal Swab",
+                  "Other: Blood Samples"
+                ]
+              },
+              {
+                "label": "Qualitative Study",
+                "description": "The qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site. Qualitative study methods will vary depending on the site and CSS findings, but will include both individual in- depth interviews (IDIs) (up to \\~ 30 individuals per site), key informant interviews as well as multiple focus group discussions (FGDs) with \\~6-8 participants/group. Detailed qualitative study methodology will be developed separately as another study protocol and adapted according to the procedures for each site."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Urine Sample Collection",
+                "description": "When urine is collected as a sample in either CSS or LS, first flow urine samples will be collected",
+                "armGroupLabels": [
+                  "Cross-Sectional Survey",
+                  "Longitudinal Study"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Self-collected Vaginal Swab",
+                "description": "Self-collected Vaginal Swab will be collected by the participant under the supervision of a trained nurse or other health care worker.",
+                "armGroupLabels": [
+                  "Longitudinal Study"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Blood Samples",
+                "description": "If funding permits, a blood sample may be collected from participants in LS once during the follow-up period. If blood sample collection was not feasible during a visit, two additional attempts may be made to collect blood samples from LS participants during the subsequent follow-up visits.",
+                "armGroupLabels": [
+                  "Longitudinal Study"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "To estimate the prevalence (single time point detection) of HPV 16 and/or 18 infection among a representative sample of girls and women aged 9-50y in a range of settings.",
+                "description": "HPV 16 and 18 are the most common types associated with an increased risk of cervical, anal, and other types of cancer. The incidence of HPV infection rises quickly after sexual debut and HPV infection is most common among young adults up to the age of 30, with incidence generally declining after that. The proposed age range of 9-50 years old for the CSS has been divided into four age-strata, 9-14, 15-20, 21-30, 31-50 years old, in order to understand the HPV prevalence among the age group targeted for primary series of HPV vaccine (9-14 years old), the age group targeted for multi-age cohort catch-up campaign (15-20 years old) and to gather prevalence data on older females.",
+                "timeFrame": "Q4 2023 to Q4 2024"
+              },
+              {
+                "measure": "To estimate the incidence of ≥6-month persistent HPV 16 and/or 18 infection (defined as two sequential type-specific positives with an interval of 6 months) in selected populations over 2 years.",
+                "description": "The age range for the LS will target the age group that is anticipated to have the highest incidence (e.g. newly sexually active girls and women) or to meet the specific research needs. The progression of HPV infection can lead to the development of premalignant lesions in the epithelial lining, ranging from low-grade (CIN 1) to high-grade (CIN 2 and 3). Persistent infection with high-risk HPV genotypes can result in premalignant and malignant lesions which typically take over 10-20 years to develop. An endpoint of 6-month persistent HPV infection has been commonly used in both epidemiological studies of HPV infection and clinical trials of HPV vaccines.",
+                "timeFrame": "Q4 2023 to Q4 2026"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "To estimate the prevalence of high risk (HR) HPV infection among a representative sample of girls and women aged 9-50 years in a range of settings, and to evaluate potential risk factors for HPV infection.",
+                "description": "This study aims to provide standard data among girls and women ages 9-50 in 8 countries, 3 in South Asia, and 5 in Sub-Saharan Africa, on the burden of HPV in a representative population sample of lower socio-economic status, as well as in particular vulnerable sub-populations of girls and women depending on the country.",
+                "timeFrame": "Q4 2023 to Q4 2024"
+              },
+              {
+                "measure": "To estimate the incidence of ≥6-month persistent HR HPV infection in selected populations over 2 years.",
+                "description": "Countries have been selected such that there will be representation from countries with high, medium, or low HIV incidence, high and low cervical cancer incidence, those with or without HPV screening and treatment programs, and countries that are in various stages of prophylactic HPV vaccine rollout.",
+                "timeFrame": "Q4 2023 to Q4 2026"
+              },
+              {
+                "measure": "Descriptive statistics of the knowledge, attitudes, and beliefs regarding HPV vaccination, cervical cancer screening and treatment.",
+                "description": "For each CSS and LS, study data will be summarized using descriptive statistics (mean, standard deviation, median, minimum, and maximum) for continuous variables, and counts and percentages for categorical variables. The denominator for each percentage will be the number of participants who were eligible for each CSS/LS unless otherwise specified.",
+                "timeFrame": "Q1 2024 to Q4 2025"
+              },
+              {
+                "measure": "Descriptive statistics of the perceptions of gender norms and stigma, and gender-related dynamics that may influence HPV burden and/or create barriers that influence girls/women's access to and uptake of HPV prevention, screening, and treatment services",
+                "description": "For each CSS and LS, study data will be summarized using descriptive statistics (mean, standard deviation, median, minimum, and maximum) for continuous variables, and counts and percentages for categorical variables. The denominator for each percentage will be the number of participants who were eligible for each CSS/LS unless otherwise specified.",
+                "timeFrame": "Q1 2024 to Q4 2025"
+              },
+              {
+                "measure": "Sensitivity, specificity, Accuracy, ROC, Cohen's kappa coefficient of HPV genotyping results obtained from urine and self-collected vaginal swabs (SCVS).",
+                "description": "In LS, participants will be tested every 6 months for 24 months to determine incident persistent HR HPV infection. In selected countries, urine and self-collected vaginal swabs (SCVS) will be collected at the first visit to determine the comparability of HPV genotyping results from both sample types. For all the other visits, only SCVS will be collected.",
+                "timeFrame": "Q1 2024 to Q4 2024"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. 9 to 50 years old (for urban and rural CSSs) at the time of enrollment.\n2. Resident in the selected community for at least the past 3 months (with the exception of pastoralists, refugees, and commercial sex workers).\n3. Able to understand the purpose of the study and study procedures.\n4. If aged 18 years or older or legally considered an emancipated minor, able and willing to provide consent to participate in the study including sample collection.\n5. If aged \\<18 years (and not considered an emancipated minor), supported in their participation by a parent or guardian who is able and willing to provide consent, and\n6. If aged \\<18 years (and not considered an emancipated minor), able and willing to provide assent to participate in the study.\n\nExclusion Criteria:\n\n1. Decline consent to participate any activity of the study.\n2. A medical condition or other reason, not directly related to HPV infection or HPV-related diseases, in the opinion of the investigator, precludes enrolment in the study.",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "9 Years",
+            "maximumAge": "50 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ],
+            "studyPopulation": "The study will enroll girls and women aged 9-50 years old, with equal distribution across the following age strata: 9-14, 15-20, 21-30, and 31-50 years.",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Julia Lynch",
+                "role": "CONTACT",
+                "phone": "+8228811149",
+                "email": "julia.lynch@ivi.int"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Alexandra Hill",
+                "affiliation": "Associate Research Scientist",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Deborah Watson-Jones",
+                "affiliation": "Professor of Clinical Epidemiology & International Health",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Diarrhoeal Disease Research, Bangladesh (icddr,b)",
+                "status": "COMPLETED",
+                "city": "Dhaka",
+                "zip": "1212",
+                "country": "Bangladesh",
+                "geoPoint": {
+                  "lat": 23.7104,
+                  "lon": 90.40744
+                }
+              },
+              {
+                "facility": "Institut National pour la Recherche Biomedicale (INRB)",
+                "status": "RECRUITING",
+                "city": "Kinshasa",
+                "country": "Democratic Republic of the Congo",
+                "contacts": [
+                  {
+                    "name": "Hugo Kavunga",
+                    "role": "CONTACT",
+                    "phone": "+243823875153",
+                    "email": "hugokavunga@gmail.com"
+                  },
+                  {
+                    "name": "Hugo Kavunga",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": -4.32758,
+                  "lon": 15.31357
+                }
+              },
+              {
+                "facility": "University of Health and Allied Sciences (UHAS)",
+                "status": "COMPLETED",
+                "city": "Ho",
+                "state": "Volta Region",
+                "country": "Ghana",
+                "geoPoint": {
+                  "lat": 6.60084,
+                  "lon": 0.4713
+                }
+              },
+              {
+                "facility": "Dhulikhel Hospital Kathmandu University Hospital (DHKUH)",
+                "status": "COMPLETED",
+                "city": "Dhulikhel",
+                "zip": "45200",
+                "country": "Nepal",
+                "geoPoint": {
+                  "lat": 27.6221,
+                  "lon": 85.54281
+                }
+              },
+              {
+                "facility": "Aga Khan University (AKU)",
+                "status": "COMPLETED",
+                "city": "Karachi",
+                "zip": "74800",
+                "country": "Pakistan",
+                "geoPoint": {
+                  "lat": 24.8608,
+                  "lon": 67.0104
+                }
+              },
+              {
+                "facility": "College of Medicine and Allied Health Sciences (COMAHS)",
+                "status": "COMPLETED",
+                "city": "Freetown",
+                "country": "Sierra Leone",
+                "geoPoint": {
+                  "lat": 8.48714,
+                  "lon": -13.2356
+                }
+              },
+              {
+                "facility": "Mwanza Intervention Trial Unit (MITU)",
+                "status": "COMPLETED",
+                "city": "Mwanza",
+                "zip": "11936",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.51667,
+                  "lon": 32.9
+                }
+              },
+              {
+                "facility": "ZAMBART",
+                "status": "COMPLETED",
+                "city": "Lusaka",
+                "country": "Zambia",
+                "geoPoint": {
+                  "lat": -15.40669,
+                  "lon": 28.28713
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Along with the protocol, metadata, data dictionary, and participant-level data will be shared. Additionally, statistical analysis plan and analytical codes used for creating the analysis results for each publication will also be shared if applicable. The final participant-level dataset will encompass demographics, primary and secondary outcomes as well as all survey data. The study datasets will initially be stored and organized in a study database using the REDCap, specifically designed for the GLOBE-HPV study. Additionally, all datasets will be stored in an open access repository, ViVli.org.\n\nData will be deidentified in accordance with the Safe Harbor method. Following the guidelines, the following variables will be replaced or removed from the data sets prior to data sharing.\n\nStudy ID will be replaced with Dummy ID\n\nAll elements of dates will be removed from data sets\n\nAll information about geographic subdivisions smaller than a state/province will be removed from data sets",
+            "infoTypes": [
+              "ICF"
+            ],
+            "timeFrame": "Within 6 months of completion of the project, the complete dataset and associated code will be made available in an open access platform.",
+            "accessCriteria": "Access to this study data will be controlled by a managed access process whereby access is provided only after approval of the Data Use Agreement (DUA). Long-term access is freely provided to researchers.",
+            "url": "http://vivli.org/"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D030361",
+                "term": "Papillomavirus Infections"
+              },
+              {
+                "id": "D002583",
+                "term": "Uterine Cervical Neoplasms"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D004266",
+                "term": "DNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D014412",
+                "term": "Tumor Virus Infections"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D014594",
+                "term": "Uterine Neoplasms"
+              },
+              {
+                "id": "D005833",
+                "term": "Genital Neoplasms, Female"
+              },
+              {
+                "id": "D014565",
+                "term": "Urogenital Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D002577",
+                "term": "Uterine Cervical Diseases"
+              },
+              {
+                "id": "D014591",
+                "term": "Uterine Diseases"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001800",
+                "term": "Blood Specimen Collection"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D013048",
+                "term": "Specimen Handling"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D011677",
+                "term": "Punctures"
+              },
+              {
+                "id": "D013514",
+                "term": "Surgical Procedures, Operative"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06129253",
+            "orgStudyIdInfo": {
+              "id": "GLOBE-HPV-01"
+            },
+            "organization": {
+              "fullName": "International Vaccine Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Global Burden Estimation of Human Papillomavirus (GLOBE-HPV)",
+            "officialTitle": "Global Burden Estimation of Human Papillomavirus (GLOBE-HPV)",
+            "acronym": "HPV"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-07",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2023-11-23",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2027-12",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2027-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-10-17",
+            "studyFirstSubmitQcDate": "2023-11-10",
+            "studyFirstPostDateStruct": {
+              "date": "2023-11-13",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-07-15",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-07-16",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "International Vaccine Institute",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "London School of Hygiene and Tropical Medicine",
+                "class": "OTHER"
+              },
+              {
+                "name": "Karolinska Institutet",
+                "class": "OTHER"
+              },
+              {
+                "name": "Centers for Disease Control and Prevention",
+                "class": "FED"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This study is a multi-country and multi-site project to estimate the point-prevalence of high-risk (HR) HPV genotype infections among representative samples of girls and women aged 9-50 years, and among specific sub-populations to estimate the incidence of persistent HPV infection among sexually active young women. The data to fulfill the objectives will be collected through a series of Cross-Sectional Surveys (CSS) and Longitudinal Studies (LS) in all 8 countries 3 South Asian countries including Bangladesh, Pakistan, Nepal and 5 sub-Saharan African countries including Sierra Leone, Tanzania, Ghana, Zambia and DR Congo. Qualitative sub-studies (QS) will be conducted in selected countries and populations following the CSS to further understand and unpack risk factors for HPV infection as well as to explore how gender-related dynamics including perceptions of gender norms and stigma, influence HPV burden and/or create barriers that shape girls/women access to and uptake of HPV prevention, screening, and treatment services. Specific study protocols and corresponding ethical applications for the qualitative sub-studies will be developed separately.",
+            "detailedDescription": "The study will incorporate a harmonized protocol among the 8 countries to estimate point-prevalence of high-risk HPV (HR HPV) in low socio-economic populations and, among specific sub-populations, the incidence of persistent HPV infection. Due to differences in study settings, study population, targeted age-group, and eligibility criteria, country-specific protocols will be developed to complement the multi-country master protocol. In the master protocol, general principles on study design and methodology will be described, while the country-specific protocol will elaborate in more detail on methodology in each country related to subject identification, the enrolment process, and laboratory analysis. A standardized survey questionnaire, with some minor country-specific adaptations, and laboratory assays will be implemented throughout the participating countries in order to generate comparable data.\n\nTwo separate approaches will be implemented to estimate prevalence and incidence respectively in each participating country. First, cross-sectional surveys (CSS) will be conducted in both urban and rural areas of selected countries in order to estimate the point prevalence of HPV infection in sub-Saharan Africa and South Asia. The CSS will enrol girls and women aged 9-50 years, with equal sample size from four age-strata: 9-14, 15-20, 21- 30, 31-50. For specific populations, age-strata will be modified to include 12-35 years olds considering the target population characteristics and local context. Multi-stage cluster random sampling or another applicable sampling strategy will be applied to ensure representativeness. Urine samples will be collected for HPV testing, along with data on demographics, socioeconomic status, sexual and reproductive history, attitudes towards and awareness and uptake of cervical cancer screening and HPV vaccination, and potential risk factors for HPV infection and cervical cancer. Additional data will be collected on knowledge of HPV, and attitudes, uptake and use of vaccines, using standardized questionnaires and case report forms.\n\nSecond, Longitudinal studies (LS) will estimate the incidence of persistent HPV infection in sexually active girls and young women in geographically defined communities and special populations. Depending on the country setting, the LS will enroll sexually active girls and women who are aged between 15-35 years and follow them up to 24 months. Participants will be tested every 6 months for 24 months to determine incident persistent HR HPV infection. In selected countries, urine and self-collected vaginal swabs (SCVS) will be collected at the first visit to determine the comparability of HPV genotyping results from both sample types. For all the other visits, only SCVS will be collected. Data on demographics, socioeconomic status, sexual and reproductive history, cervical screening, HPV vaccination, and other potential risk factors will be collected using standardized questionnaires.\n\nFurthermore, the qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site. Qualitative study methods will vary depending on the site and CSS findings, but will include both individual in- depth interviews (IDIs) (up to \\~ 30 individuals per site), key informant interviews as well as multiple focus group discussions (FGDs) with \\~6-8 participants/group. Detailed qualitative study methodology will be developed separately as another study protocol and adapted according to the procedures for each site."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "HPV Infection"
+            ],
+            "keywords": [
+              "HPV Positivity",
+              "HPV Infection",
+              "High Risk (HR) HPV",
+              "Cervical Cancer"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "OTHER"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITH_DNA",
+              "description": "1. Urine Sample When urine is collected as a sample in either CSS or LS, first flow urine samples will be collected.\n2. Self-collected Vaginal Swab SCVS will be collected by the participant under the supervision of a trained nurse or other health care worker.\n3. Blood Sample If funding permits, a blood sample may be collected from participants in LS once during the follow-up period. If blood sample collection was not feasible during a visit, two additional attempts may be made to collect blood samples from LS participants during the subsequent follow-up visits."
+            },
+            "enrollmentInfo": {
+              "count": 29750,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Cross-Sectional Survey",
+                "description": "There are total 14 CSS groups among 8 participating countries: Bangladesh has 3 groups for CSS (urban CSS, rural CSS, displaced population CSS); Pakistan has 3 groups for CSS (urban CSS, rural CSS, commercial sex worker population CSS); Nepal has 1 nationally representative CSS; Sierra Leon has 1 rural CSS; Tanzania has 2 groups for CSS (pastoralists CSS, displaced population CSS); Ghana has 1 urban CSS; Zambia has 1 group for urban \\& rural representative CSS; DR Congo has 2 groups for CSS (population representative sample for urban and rural CSS, displaced population CSS)",
+                "interventionNames": [
+                  "Other: Urine Sample Collection"
+                ]
+              },
+              {
+                "label": "Longitudinal Study",
+                "description": "There are total 11 LS groups: Bangladesh has 2 LS groups (married women up to 25 years-old \\& 26-35 years old); Sierra Leone has 2 LS groups (Young girls subject to child marriage/early pregnancy \\& general population); Tanzania has 2 LS groups (fishing, mining/tuck stop community \\& general population) Other 5 countries have 1 LS group in each country.",
+                "interventionNames": [
+                  "Other: Urine Sample Collection",
+                  "Other: Self-collected Vaginal Swab",
+                  "Other: Blood Samples"
+                ]
+              },
+              {
+                "label": "Qualitative Study",
+                "description": "The qualitative sub-studies in five selected countries (Bangladesh, Nepal, Pakistan, Sierra Leone, DR Congo) will follow and draw on findings from the CSS, focusing on girls and women of different age strata as well as community members (including boys and men) and key informants in the health care system in each study site. Qualitative study methods will vary depending on the site and CSS findings, but will include both individual in- depth interviews (IDIs) (up to \\~ 30 individuals per site), key informant interviews as well as multiple focus group discussions (FGDs) with \\~6-8 participants/group. Detailed qualitative study methodology will be developed separately as another study protocol and adapted according to the procedures for each site."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Urine Sample Collection",
+                "description": "When urine is collected as a sample in either CSS or LS, first flow urine samples will be collected",
+                "armGroupLabels": [
+                  "Cross-Sectional Survey",
+                  "Longitudinal Study"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Self-collected Vaginal Swab",
+                "description": "Self-collected Vaginal Swab will be collected by the participant under the supervision of a trained nurse or other health care worker.",
+                "armGroupLabels": [
+                  "Longitudinal Study"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Blood Samples",
+                "description": "If funding permits, a blood sample may be collected from participants in LS once during the follow-up period. If blood sample collection was not feasible during a visit, two additional attempts may be made to collect blood samples from LS participants during the subsequent follow-up visits.",
+                "armGroupLabels": [
+                  "Longitudinal Study"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "To estimate the prevalence (single time point detection) of HPV 16 and/or 18 infection among a representative sample of girls and women aged 9-50y in a range of settings.",
+                "description": "HPV 16 and 18 are the most common types associated with an increased risk of cervical, anal, and other types of cancer. The incidence of HPV infection rises quickly after sexual debut and HPV infection is most common among young adults up to the age of 30, with incidence generally declining after that. The proposed age range of 9-50 years old for the CSS has been divided into four age-strata, 9-14, 15-20, 21-30, 31-50 years old, in order to understand the HPV prevalence among the age group targeted for primary series of HPV vaccine (9-14 years old), the age group targeted for multi-age cohort catch-up campaign (15-20 years old) and to gather prevalence data on older females.",
+                "timeFrame": "Q4 2023 to Q4 2024"
+              },
+              {
+                "measure": "To estimate the incidence of ≥6-month persistent HPV 16 and/or 18 infection (defined as two sequential type-specific positives with an interval of 6 months) in selected populations over 2 years.",
+                "description": "The age range for the LS will target the age group that is anticipated to have the highest incidence (e.g. newly sexually active girls and women) or to meet the specific research needs. The progression of HPV infection can lead to the development of premalignant lesions in the epithelial lining, ranging from low-grade (CIN 1) to high-grade (CIN 2 and 3). Persistent infection with high-risk HPV genotypes can result in premalignant and malignant lesions which typically take over 10-20 years to develop. An endpoint of 6-month persistent HPV infection has been commonly used in both epidemiological studies of HPV infection and clinical trials of HPV vaccines.",
+                "timeFrame": "Q4 2023 to Q4 2026"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "To estimate the prevalence of high risk (HR) HPV infection among a representative sample of girls and women aged 9-50 years in a range of settings, and to evaluate potential risk factors for HPV infection.",
+                "description": "This study aims to provide standard data among girls and women ages 9-50 in 8 countries, 3 in South Asia, and 5 in Sub-Saharan Africa, on the burden of HPV in a representative population sample of lower socio-economic status, as well as in particular vulnerable sub-populations of girls and women depending on the country.",
+                "timeFrame": "Q4 2023 to Q4 2024"
+              },
+              {
+                "measure": "To estimate the incidence of ≥6-month persistent HR HPV infection in selected populations over 2 years.",
+                "description": "Countries have been selected such that there will be representation from countries with high, medium, or low HIV incidence, high and low cervical cancer incidence, those with or without HPV screening and treatment programs, and countries that are in various stages of prophylactic HPV vaccine rollout.",
+                "timeFrame": "Q4 2023 to Q4 2026"
+              },
+              {
+                "measure": "Descriptive statistics of the knowledge, attitudes, and beliefs regarding HPV vaccination, cervical cancer screening and treatment.",
+                "description": "For each CSS and LS, study data will be summarized using descriptive statistics (mean, standard deviation, median, minimum, and maximum) for continuous variables, and counts and percentages for categorical variables. The denominator for each percentage will be the number of participants who were eligible for each CSS/LS unless otherwise specified.",
+                "timeFrame": "Q1 2024 to Q4 2025"
+              },
+              {
+                "measure": "Descriptive statistics of the perceptions of gender norms and stigma, and gender-related dynamics that may influence HPV burden and/or create barriers that influence girls/women's access to and uptake of HPV prevention, screening, and treatment services",
+                "description": "For each CSS and LS, study data will be summarized using descriptive statistics (mean, standard deviation, median, minimum, and maximum) for continuous variables, and counts and percentages for categorical variables. The denominator for each percentage will be the number of participants who were eligible for each CSS/LS unless otherwise specified.",
+                "timeFrame": "Q1 2024 to Q4 2025"
+              },
+              {
+                "measure": "Sensitivity, specificity, Accuracy, ROC, Cohen's kappa coefficient of HPV genotyping results obtained from urine and self-collected vaginal swabs (SCVS).",
+                "description": "In LS, participants will be tested every 6 months for 24 months to determine incident persistent HR HPV infection. In selected countries, urine and self-collected vaginal swabs (SCVS) will be collected at the first visit to determine the comparability of HPV genotyping results from both sample types. For all the other visits, only SCVS will be collected.",
+                "timeFrame": "Q1 2024 to Q4 2024"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. 9 to 50 years old (for urban and rural CSSs) at the time of enrollment.\n2. Resident in the selected community for at least the past 3 months (with the exception of pastoralists, refugees, and commercial sex workers).\n3. Able to understand the purpose of the study and study procedures.\n4. If aged 18 years or older or legally considered an emancipated minor, able and willing to provide consent to participate in the study including sample collection.\n5. If aged \\<18 years (and not considered an emancipated minor), supported in their participation by a parent or guardian who is able and willing to provide consent, and\n6. If aged \\<18 years (and not considered an emancipated minor), able and willing to provide assent to participate in the study.\n\nExclusion Criteria:\n\n1. Decline consent to participate any activity of the study.\n2. A medical condition or other reason, not directly related to HPV infection or HPV-related diseases, in the opinion of the investigator, precludes enrolment in the study.",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "9 Years",
+            "maximumAge": "50 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ],
+            "studyPopulation": "The study will enroll girls and women aged 9-50 years old, with equal distribution across the following age strata: 9-14, 15-20, 21-30, and 31-50 years.",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Julia Lynch",
+                "role": "CONTACT",
+                "phone": "+8228811149",
+                "email": "julia.lynch@ivi.int"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Alexandra Hill",
+                "affiliation": "Associate Research Scientist",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Deborah Watson-Jones",
+                "affiliation": "Professor of Clinical Epidemiology & International Health",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Diarrhoeal Disease Research, Bangladesh (icddr,b)",
+                "status": "COMPLETED",
+                "city": "Dhaka",
+                "zip": "1212",
+                "country": "Bangladesh",
+                "geoPoint": {
+                  "lat": 23.7104,
+                  "lon": 90.40744
+                }
+              },
+              {
+                "facility": "Institut National pour la Recherche Biomedicale (INRB)",
+                "status": "RECRUITING",
+                "city": "Kinshasa",
+                "country": "Democratic Republic of the Congo",
+                "contacts": [
+                  {
+                    "name": "Hugo Kavunga",
+                    "role": "CONTACT",
+                    "phone": "+243823875153",
+                    "email": "hugokavunga@gmail.com"
+                  },
+                  {
+                    "name": "Hugo Kavunga",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": -4.32758,
+                  "lon": 15.31357
+                }
+              },
+              {
+                "facility": "University of Health and Allied Sciences (UHAS)",
+                "status": "COMPLETED",
+                "city": "Ho",
+                "state": "Volta Region",
+                "country": "Ghana",
+                "geoPoint": {
+                  "lat": 6.60084,
+                  "lon": 0.4713
+                }
+              },
+              {
+                "facility": "Dhulikhel Hospital Kathmandu University Hospital (DHKUH)",
+                "status": "COMPLETED",
+                "city": "Dhulikhel",
+                "zip": "45200",
+                "country": "Nepal",
+                "geoPoint": {
+                  "lat": 27.6221,
+                  "lon": 85.54281
+                }
+              },
+              {
+                "facility": "Aga Khan University (AKU)",
+                "status": "COMPLETED",
+                "city": "Karachi",
+                "zip": "74800",
+                "country": "Pakistan",
+                "geoPoint": {
+                  "lat": 24.8608,
+                  "lon": 67.0104
+                }
+              },
+              {
+                "facility": "College of Medicine and Allied Health Sciences (COMAHS)",
+                "status": "COMPLETED",
+                "city": "Freetown",
+                "country": "Sierra Leone",
+                "geoPoint": {
+                  "lat": 8.48714,
+                  "lon": -13.2356
+                }
+              },
+              {
+                "facility": "Mwanza Intervention Trial Unit (MITU)",
+                "status": "COMPLETED",
+                "city": "Mwanza",
+                "zip": "11936",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.51667,
+                  "lon": 32.9
+                }
+              },
+              {
+                "facility": "ZAMBART",
+                "status": "COMPLETED",
+                "city": "Lusaka",
+                "country": "Zambia",
+                "geoPoint": {
+                  "lat": -15.40669,
+                  "lon": 28.28713
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Along with the protocol, metadata, data dictionary, and participant-level data will be shared. Additionally, statistical analysis plan and analytical codes used for creating the analysis results for each publication will also be shared if applicable. The final participant-level dataset will encompass demographics, primary and secondary outcomes as well as all survey data. The study datasets will initially be stored and organized in a study database using the REDCap, specifically designed for the GLOBE-HPV study. Additionally, all datasets will be stored in an open access repository, ViVli.org.\n\nData will be deidentified in accordance with the Safe Harbor method. Following the guidelines, the following variables will be replaced or removed from the data sets prior to data sharing.\n\nStudy ID will be replaced with Dummy ID\n\nAll elements of dates will be removed from data sets\n\nAll information about geographic subdivisions smaller than a state/province will be removed from data sets",
+            "infoTypes": [
+              "ICF"
+            ],
+            "timeFrame": "Within 6 months of completion of the project, the complete dataset and associated code will be made available in an open access platform.",
+            "accessCriteria": "Access to this study data will be controlled by a managed access process whereby access is provided only after approval of the Data Use Agreement (DUA). Long-term access is freely provided to researchers.",
+            "url": "http://vivli.org/"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D030361",
+                "term": "Papillomavirus Infections"
+              },
+              {
+                "id": "D002583",
+                "term": "Uterine Cervical Neoplasms"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D015229",
+                "term": "Sexually Transmitted Diseases, Viral"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D004266",
+                "term": "DNA Virus Infections"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D014412",
+                "term": "Tumor Virus Infections"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D014594",
+                "term": "Uterine Neoplasms"
+              },
+              {
+                "id": "D005833",
+                "term": "Genital Neoplasms, Female"
+              },
+              {
+                "id": "D014565",
+                "term": "Urogenital Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D002577",
+                "term": "Uterine Cervical Diseases"
+              },
+              {
+                "id": "D014591",
+                "term": "Uterine Diseases"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001800",
+                "term": "Blood Specimen Collection"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D013048",
+                "term": "Specimen Handling"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D011677",
+                "term": "Punctures"
+              },
+              {
+                "id": "D013514",
+                "term": "Surgical Procedures, Operative"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

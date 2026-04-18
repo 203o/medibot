@@ -1,0 +1,1335 @@
+{
+  "query": "cancer prostate cancer treatment therapy canada",
+  "selected_query": "cancer prostate cancer treatment therapy canada",
+  "attempted_queries": [
+    {
+      "query": "cancer prostate cancer treatment therapy canada",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38261043",
+    "40907514",
+    "39306478",
+    "40397306",
+    "39643549",
+    "40126447",
+    "40759791",
+    "29297495",
+    "38814624",
+    "25512465",
+    "38132369",
+    "28142149",
+    "31540791",
+    "31412013",
+    "35469527",
+    "41216639",
+    "38392072",
+    "35662659",
+    "1778180",
+    "20842187",
+    "24710055",
+    "25061087",
+    "30642810",
+    "30573316",
+    "26313417",
+    "36397730",
+    "31698174",
+    "35877260",
+    "24336537",
+    "16060176"
+  ],
+  "records": [
+    {
+      "pmid": "38261043",
+      "title": "Functional Outcomes After Localized Prostate Cancer Treatment.",
+      "journal": "JAMA",
+      "abstract_sections": [
+        "Adverse outcomes associated with treatments for localized prostate cancer remain unclear.",
+        "To compare rates of adverse functional outcomes between specific treatments for localized prostate cancer.",
+        "An observational cohort study using data from 5 US Surveillance, Epidemiology, and End Results Program registries. Participants were treated for localized prostate cancer between 2011 and 2012. At baseline, 1877 had favorable-prognosis prostate cancer (defined as cT1-cT2bN0M0, prostate-specific antigen level <20 ng/mL, and grade group 1-2) and 568 had unfavorable-prognosis prostate cancer (defined as cT2cN0M0, prostate-specific antigen level of 20-50 ng/mL, or grade group 3-5). Follow-up data were collected by questionnaire through February 1, 2022.",
+        "Radical prostatectomy (n = 1043), external beam radiotherapy (n = 359), brachytherapy (n = 96), or active surveillance (n = 379) for favorable-prognosis disease and radical prostatectomy (n = 362) or external beam radiotherapy with androgen deprivation therapy (n = 206) for unfavorable-prognosis disease.",
+        "Outcomes were patient-reported sexual, urinary, bowel, and hormone function measured using the 26-item Expanded Prostate Cancer Index Composite (range, 0-100; 100 = best). Associations of specific therapies with each outcome were estimated and compared at 10 years after treatment, adjusting for corresponding baseline scores, and patient and tumor characteristics. Minimum clinically important differences were 10 to 12 for sexual function, 6 to 9 for urinary incontinence, 5 to 7 for urinary irritation, and 4 to 6 for bowel and hormone function.",
+        "A total of 2445 patients with localized prostate cancer (median age, 64 years; 14% Black, 8% Hispanic) were included and followed up for a median of 9.5 years. Among 1877 patients with favorable prognosis, radical prostatectomy was associated with worse urinary incontinence (adjusted mean difference, -12.1 [95% CI, -16.2 to -8.0]), but not worse sexual function (adjusted mean difference, -7.2 [95% CI, -12.3 to -2.0]), compared with active surveillance. Among 568 patients with unfavorable prognosis, radical prostatectomy was associated with worse urinary incontinence (adjusted mean difference, -26.6 [95% CI, -35.0 to -18.2]), but not worse sexual function (adjusted mean difference, -1.4 [95% CI, -11.1 to 8.3), compared with external beam radiotherapy with androgen deprivation therapy. Among patients with unfavorable prognosis, external beam radiotherapy with androgen deprivation therapy was associated with worse bowel (adjusted mean difference, -4.9 [95% CI, -9.2 to -0.7]) and hormone (adjusted mean difference, -4.9 [95% CI, -9.5 to -0.3]) function compared with radical prostatectomy.",
+        "Among patients treated for localized prostate cancer, radical prostatectomy was associated with worse urinary incontinence but not worse sexual function at 10-year follow-up compared with radiotherapy or surveillance among people with more favorable prognosis and compared with radiotherapy for those with unfavorable prognosis. Among men with unfavorable-prognosis disease, external beam radiotherapy with androgen deprivation therapy was associated with worse bowel and hormone function at 10-year follow-up compared with radical prostatectomy."
+      ],
+      "abstract": "Adverse outcomes associated with treatments for localized prostate cancer remain unclear.\n\nTo compare rates of adverse functional outcomes between specific treatments for localized prostate cancer.\n\nAn observational cohort study using data from 5 US Surveillance, Epidemiology, and End Results Program registries. Participants were treated for localized prostate cancer between 2011 and 2012. At baseline, 1877 had favorable-prognosis prostate cancer (defined as cT1-cT2bN0M0, prostate-specific antigen level <20 ng/mL, and grade group 1-2) and 568 had unfavorable-prognosis prostate cancer (defined as cT2cN0M0, prostate-specific antigen level of 20-50 ng/mL, or grade group 3-5). Follow-up data were collected by questionnaire through February 1, 2022.\n\nRadical prostatectomy (n = 1043), external beam radiotherapy (n = 359), brachytherapy (n = 96), or active surveillance (n = 379) for favorable-prognosis disease and radical prostatectomy (n = 362) or external beam radiotherapy with androgen deprivation therapy (n = 206) for unfavorable-prognosis disease.\n\nOutcomes were patient-reported sexual, urinary, bowel, and hormone function measured using the 26-item Expanded Prostate Cancer Index Composite (range, 0-100; 100 = best). Associations of specific therapies with each outcome were estimated and compared at 10 years after treatment, adjusting for corresponding baseline scores, and patient and tumor characteristics. Minimum clinically important differences were 10 to 12 for sexual function, 6 to 9 for urinary incontinence, 5 to 7 for urinary irritation, and 4 to 6 for bowel and hormone function.\n\nA total of 2445 patients with localized prostate cancer (median age, 64 years; 14% Black, 8% Hispanic) were included and followed up for a median of 9.5 years. Among 1877 patients with favorable prognosis, radical prostatectomy was associated with worse urinary incontinence (adjusted mean difference, -12.1 [95% CI, -16.2 to -8.0]), but not worse sexual function (adjusted mean difference, -7.2 [95% CI, -12.3 to -2.0]), compared with active surveillance. Among 568 patients with unfavorable prognosis, radical prostatectomy was associated with worse urinary incontinence (adjusted mean difference, -26.6 [95% CI, -35.0 to -18.2]), but not worse sexual function (adjusted mean difference, -1.4 [95% CI, -11.1 to 8.3), compared with external beam radiotherapy with androgen deprivation therapy. Among patients with unfavorable prognosis, external beam radiotherapy with androgen deprivation therapy was associated with worse bowel (adjusted mean difference, -4.9 [95% CI, -9.2 to -0.7]) and hormone (adjusted mean difference, -4.9 [95% CI, -9.5 to -0.3]) function compared with radical prostatectomy.\n\nAmong patients treated for localized prostate cancer, radical prostatectomy was associated with worse urinary incontinence but not worse sexual function at 10-year follow-up compared with radiotherapy or surveillance among people with more favorable prognosis and compared with radiotherapy for those with unfavorable prognosis. Among men with unfavorable-prognosis disease, external beam radiotherapy with androgen deprivation therapy was associated with worse bowel and hormone function at 10-year follow-up compared with radical prostatectomy.",
+      "evidence_sentences": [
+        "To compare rates of adverse functional outcomes between specific treatments for localized prostate cancer.",
+        "Adverse outcomes associated with treatments for localized prostate cancer remain unclear.",
+        "Among patients treated for localized prostate cancer, radical prostatectomy was associated with worse urinary incontinence but not worse sexual function at 10-year follow-up compared with radiotherapy or surveillance among people with more favorable prognosis and compared with radiotherapy for those with unfavorable prognosis."
+      ],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Bashir Al Hussein Al Awamlh",
+        "Christopher J D Wallis",
+        "David F Penson",
+        "Li-Ching Huang",
+        "Zhiguo Zhao",
+        "Ralph Conwill",
+        "Ruchika Talwar",
+        "Alicia K Morgans",
+        "Michael Goodman",
+        "Ann S Hamilton",
+        "Xiao-Cheng Wu",
+        "Lisa E Paddock",
+        "Antoinette Stroup",
+        "Brock B O'Neil",
+        "Tatsuki Koyama",
+        "Karen E Hoffman",
+        "Daniel A Barocas"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38261043/"
+    },
+    {
+      "pmid": "40907514",
+      "title": "Metastases-directed therapy in addition to standard systemic therapy in oligometastatic castration-resistant prostate cancer in Canada (GROUQ-PCS 9): a multicentre, open-label, randomised, phase 2 trial.",
+      "journal": "The Lancet. Oncology",
+      "abstract_sections": [
+        "The role of metastasis-directed therapy (MDT) in castration-resistant prostate cancer (CRPC) remains unclear. Prostate Cancer Study 9 (PCS-9) aimed to evaluate the benefits of stereotactic body radiotherapy (SBRT) in addition to standard systemic therapy in patients with oligometastatic CRPC.",
+        "This open-label, randomised, phase 2 trial was conducted across 13 Canadian academic and community oncology centres. Male patients aged 18 years or older, with an Eastern Cooperative Oncology Group performance status of 0-2, and histologically confirmed oligometastatic CRPC (≤5 metastases), who had progressed on androgen deprivation therapy (ADT), were randomly assigned (1:1) to ADT-enzalutamide (ENZA; 160 mg once daily) or ADT-ENZA-SBRT to all oligometastatic sites. Randomisation was completed by sequentially numbered, sealed opaque envelopes, and stratified by the location of the metastasis. The primary endpoint was radiographic progression-free survival. Analysis was performed on an intention-to-treat basis. This study is registered with ClinicalTrials.gov, NCT02685397, and was halted and completed at the phase 2 stage.",
+        "Between Oct 18, 2016, and July 31, 2023, 102 male patients were randomly assigned to ADT-ENZA (n=49) or ADT-ENZA-SBRT (n=53); after excluding one patient per treatment group due to early withdrawal and insufficient data, 48 patients in the ADT-ENZA group and 52 patients in the ADT-ENZA-SBRT group were included in the final analysis. Most patients were White (80 [80%]) and median age was 73·0 years (IQR 67·0-79·5). At a median follow-up of 4·8 years (IQR 3·4-5·0), ADT-ENZA-SBRT significantly improved radiographic progression-free survival compared with ADT-ENZA alone (median radiographic progression-free survival, 4·6 years [95% CI 3·7-not reached] vs 2·3 years [1·4-3·7]; hazard ratio 0·48 [95% CI 0·27-0·86]; p=0·014). The most common grade 3 treatment related adverse event was impotence (eight [57%] of 14 patients in the ADT-ENZA group and nine [75%] of 12 patients in the ADT-ENZA-SBRT group). There were no grade 4 toxicities and no treatment-related deaths.",
+        "These results demonstrate that SBRT, when combined with ADT-ENZA, prolongs disease control in oligometastatic CRPC by doubling median radiographic progression-free survival, with similar toxicity profiles between the groups. These findings support integrating SBRT into the treatment paradigm for oligometastatic CRPC.",
+        "Jewish General Hospital (Astellas Canada)."
+      ],
+      "abstract": "The role of metastasis-directed therapy (MDT) in castration-resistant prostate cancer (CRPC) remains unclear. Prostate Cancer Study 9 (PCS-9) aimed to evaluate the benefits of stereotactic body radiotherapy (SBRT) in addition to standard systemic therapy in patients with oligometastatic CRPC.\n\nThis open-label, randomised, phase 2 trial was conducted across 13 Canadian academic and community oncology centres. Male patients aged 18 years or older, with an Eastern Cooperative Oncology Group performance status of 0-2, and histologically confirmed oligometastatic CRPC (≤5 metastases), who had progressed on androgen deprivation therapy (ADT), were randomly assigned (1:1) to ADT-enzalutamide (ENZA; 160 mg once daily) or ADT-ENZA-SBRT to all oligometastatic sites. Randomisation was completed by sequentially numbered, sealed opaque envelopes, and stratified by the location of the metastasis. The primary endpoint was radiographic progression-free survival. Analysis was performed on an intention-to-treat basis. This study is registered with ClinicalTrials.gov, NCT02685397, and was halted and completed at the phase 2 stage.\n\nBetween Oct 18, 2016, and July 31, 2023, 102 male patients were randomly assigned to ADT-ENZA (n=49) or ADT-ENZA-SBRT (n=53); after excluding one patient per treatment group due to early withdrawal and insufficient data, 48 patients in the ADT-ENZA group and 52 patients in the ADT-ENZA-SBRT group were included in the final analysis. Most patients were White (80 [80%]) and median age was 73·0 years (IQR 67·0-79·5). At a median follow-up of 4·8 years (IQR 3·4-5·0), ADT-ENZA-SBRT significantly improved radiographic progression-free survival compared with ADT-ENZA alone (median radiographic progression-free survival, 4·6 years [95% CI 3·7-not reached] vs 2·3 years [1·4-3·7]; hazard ratio 0·48 [95% CI 0·27-0·86]; p=0·014). The most common grade 3 treatment related adverse event was impotence (eight [57%] of 14 patients in the ADT-ENZA group and nine [75%] of 12 patients in the ADT-ENZA-SBRT group). There were no grade 4 toxicities and no treatment-related deaths.\n\nThese results demonstrate that SBRT, when combined with ADT-ENZA, prolongs disease control in oligometastatic CRPC by doubling median radiographic progression-free survival, with similar toxicity profiles between the groups. These findings support integrating SBRT into the treatment paradigm for oligometastatic CRPC.\n\nJewish General Hospital (Astellas Canada).",
+      "evidence_sentences": [
+        "Prostate Cancer Study 9 (PCS-9) aimed to evaluate the benefits of stereotactic body radiotherapy (SBRT) in addition to standard systemic therapy in patients with oligometastatic CRPC.",
+        "The role of metastasis-directed therapy (MDT) in castration-resistant prostate cancer (CRPC) remains unclear.",
+        "Between Oct 18, 2016, and July 31, 2023, 102 male patients were randomly assigned to ADT-ENZA (n=49) or ADT-ENZA-SBRT (n=53); after excluding one patient per treatment group due to early withdrawal and insufficient data, 48 patients in the ADT-ENZA group and 52 patients in the ADT-ENZA-SBRT group were included in the final analysis."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Tamim Niazi",
+        "Fred Saad",
+        "Steven Tisseverasinghe",
+        "Rashmi Koul",
+        "Isabelle Thibault",
+        "Peter W M Chung",
+        "George Wakil",
+        "Michael Lock",
+        "Guila Delouya",
+        "Boris Bahoric",
+        "Andrew Feifer",
+        "Venkata Ramana Agnihotram",
+        "Theodoros Tsakiridis",
+        "Fabio L Cury",
+        "Rafika Dahmane",
+        "Nikhilesh Gajanan Patil",
+        "Scott Tyldesley"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40907514/"
+    },
+    {
+      "pmid": "39306478",
+      "title": "Intensification Approaches and Treatment Sequencing in Metastatic Castration-resistant Prostate Cancer: A Systematic Review.",
+      "journal": "European urology",
+      "abstract_sections": [
+        "Recently, research on treatment intensification has gathered momentum, and three novel therapy combinations were approved for metastatic castration-resistant prostate cancer (mCRPC). This systematic review summarizes the current and emerging evidence around intensified strategies for mCRPC and provides guidance for an ideal therapeutic sequencing.",
+        "Preferred Reporting Items for Systematic Review and Meta-analysis Protocols (PRISMA-P) guidelines were followed to perform this review. PubMed, EMBASE, Web of Science, Cochrane Library, ClinicalTrials.gov, and major international societies' online proceedings were searched comprehensively until May 15, 2024, for terms related to treatment intensification and sequencing for mCRPC.",
+        "Overall, 28 clinical trials and 24 ongoing studies of intensification treatments were included in this review. Algorithms of optimal sequencing of approved treatments for mCRPC were outlined according to the use of androgen receptor pathway inhibitors (ARPIs) with or without docetaxel for earlier disease states. In first line, poly(ADP-ribose) polymerase inhibitor + ARPI combinations improve radiographical progression-free survival (rPFS), particularly for those with BRCA1/2 alterations. The AKT inhibitor combination of ipatasertib + abiraterone extends rPFS in those with PTEN loss or PIK3CA/AKT1/PTEN alterations. In those with two or more risk factors for early progression on enzalutamide, radionuclide 177-Lu-PSMA-617 + enzalutamide prolongs progression-free survival. Ongoing research of intensified approaches for mCRPC, and available and potential predictive and prognostic biomarkers are discussed.",
+        "Recent approvals and ongoing investigations of single agents and intensification approaches will keep transforming the mCRPC treatment landscape. Improvement of patient profiling applying recognized genomic, molecular, and clinical predictive and prognostic indicators is fundamental to optimize sequential use of available therapies."
+      ],
+      "abstract": "Recently, research on treatment intensification has gathered momentum, and three novel therapy combinations were approved for metastatic castration-resistant prostate cancer (mCRPC). This systematic review summarizes the current and emerging evidence around intensified strategies for mCRPC and provides guidance for an ideal therapeutic sequencing.\n\nPreferred Reporting Items for Systematic Review and Meta-analysis Protocols (PRISMA-P) guidelines were followed to perform this review. PubMed, EMBASE, Web of Science, Cochrane Library, ClinicalTrials.gov, and major international societies' online proceedings were searched comprehensively until May 15, 2024, for terms related to treatment intensification and sequencing for mCRPC.\n\nOverall, 28 clinical trials and 24 ongoing studies of intensification treatments were included in this review. Algorithms of optimal sequencing of approved treatments for mCRPC were outlined according to the use of androgen receptor pathway inhibitors (ARPIs) with or without docetaxel for earlier disease states. In first line, poly(ADP-ribose) polymerase inhibitor + ARPI combinations improve radiographical progression-free survival (rPFS), particularly for those with BRCA1/2 alterations. The AKT inhibitor combination of ipatasertib + abiraterone extends rPFS in those with PTEN loss or PIK3CA/AKT1/PTEN alterations. In those with two or more risk factors for early progression on enzalutamide, radionuclide 177-Lu-PSMA-617 + enzalutamide prolongs progression-free survival. Ongoing research of intensified approaches for mCRPC, and available and potential predictive and prognostic biomarkers are discussed.\n\nRecent approvals and ongoing investigations of single agents and intensification approaches will keep transforming the mCRPC treatment landscape. Improvement of patient profiling applying recognized genomic, molecular, and clinical predictive and prognostic indicators is fundamental to optimize sequential use of available therapies.",
+      "evidence_sentences": [
+        "Recently, research on treatment intensification has gathered momentum, and three novel therapy combinations were approved for metastatic castration-resistant prostate cancer (mCRPC).",
+        "PubMed, EMBASE, Web of Science, Cochrane Library, ClinicalTrials.gov, and major international societies' online proceedings were searched comprehensively until May 15, 2024, for terms related to treatment intensification and sequencing for mCRPC.",
+        "Algorithms of optimal sequencing of approved treatments for mCRPC were outlined according to the use of androgen receptor pathway inhibitors (ARPIs) with or without docetaxel for earlier disease states."
+      ],
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Edoardo Francini",
+        "Neeraj Agarwal",
+        "Elena Castro",
+        "Heather H Cheng",
+        "Kim N Chi",
+        "Noel Clarke",
+        "Joaquin Mateo",
+        "Dana Rathkopf",
+        "Fred Saad",
+        "Bertrand Tombal"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39306478/"
+    },
+    {
+      "pmid": "40397306",
+      "title": "Olaparib Monotherapy or in Combination with Abiraterone for the Treatment of Patients with Metastatic Castration-Resistant Prostate Cancer (mCRPC) and a BRCA Mutation.",
+      "journal": "Targeted oncology",
+      "abstract_sections": [
+        "Treatment strategies to improve outcomes in patients with metastatic castration-resistant prostate cancer (mCRPC) are evolving. Of particular interest are therapies that target DNA damage responses in tumor cells by inhibiting poly(ADP-ribose) polymerase (PARP) activity. Several PARP inhibitors have recently received regulatory approval for the treatment of patients with mCRPC, of which olaparib was the first for prostate cancer. Olaparib received approval as a monotherapy following the PROfound study (NCT02987543) and in combination with abiraterone following the PROpel study (NCT03732820) for mCRPC. Both PROfound (homologous recombination repair mutation biomarker-selected) and PROpel (biomarker unselected) patients demonstrated statistically significant longer radiographic progression-free survival (rPFS) with olaparib versus their respective control arms in the intention-to-treat population. In both studies, the greatest clinical benefit with olaparib was seen in patients with BRCA1 and/or BRCA2 mutations (BRCAm): PROfound rPFS hazard ratio (HR) 0.22 (95% confidence interval [CI] 0.15-0.32); PROpel rPFS HR 0.23 (95% CI 0.12-0.43). Clinical benefit was also observed in terms of overall survival: PROfound HR 0.63 (95% CI 0.42-0.95); PROpel HR 0.29 (95% CI 0.14-0.56). We provide a comprehensive overview of the utility of olaparib for patients with mCRPC harboring a BRCAm. Key clinical and safety data in BRCAm subgroup populations are discussed, predominantly based on findings from PROfound and PROpel, as well as investigator-initiated studies, to help inform treatment decision-making in this patient population. We also discuss the importance of genetic testing to identify patients who may optimally benefit from treatment with olaparib, either as a monotherapy or in combination with abiraterone."
+      ],
+      "abstract": "Treatment strategies to improve outcomes in patients with metastatic castration-resistant prostate cancer (mCRPC) are evolving. Of particular interest are therapies that target DNA damage responses in tumor cells by inhibiting poly(ADP-ribose) polymerase (PARP) activity. Several PARP inhibitors have recently received regulatory approval for the treatment of patients with mCRPC, of which olaparib was the first for prostate cancer. Olaparib received approval as a monotherapy following the PROfound study (NCT02987543) and in combination with abiraterone following the PROpel study (NCT03732820) for mCRPC. Both PROfound (homologous recombination repair mutation biomarker-selected) and PROpel (biomarker unselected) patients demonstrated statistically significant longer radiographic progression-free survival (rPFS) with olaparib versus their respective control arms in the intention-to-treat population. In both studies, the greatest clinical benefit with olaparib was seen in patients with BRCA1 and/or BRCA2 mutations (BRCAm): PROfound rPFS hazard ratio (HR) 0.22 (95% confidence interval [CI] 0.15-0.32); PROpel rPFS HR 0.23 (95% CI 0.12-0.43). Clinical benefit was also observed in terms of overall survival: PROfound HR 0.63 (95% CI 0.42-0.95); PROpel HR 0.29 (95% CI 0.14-0.56). We provide a comprehensive overview of the utility of olaparib for patients with mCRPC harboring a BRCAm. Key clinical and safety data in BRCAm subgroup populations are discussed, predominantly based on findings from PROfound and PROpel, as well as investigator-initiated studies, to help inform treatment decision-making in this patient population. We also discuss the importance of genetic testing to identify patients who may optimally benefit from treatment with olaparib, either as a monotherapy or in combination with abiraterone.",
+      "evidence_sentences": [
+        "Several PARP inhibitors have recently received regulatory approval for the treatment of patients with mCRPC, of which olaparib was the first for prostate cancer.",
+        "Treatment strategies to improve outcomes in patients with metastatic castration-resistant prostate cancer (mCRPC) are evolving.",
+        "We also discuss the importance of genetic testing to identify patients who may optimally benefit from treatment with olaparib, either as a monotherapy or in combination with abiraterone."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Fred Saad",
+        "Andrew J Armstrong",
+        "Neal Shore",
+        "Daniel J George",
+        "Mototsugu Oya",
+        "Mikio Sugimoto",
+        "Rana R McKay",
+        "Maha Hussain",
+        "Noel W Clarke"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40397306/"
+    },
+    {
+      "pmid": "39643549",
+      "title": "Triplet or Doublet Therapy in Metastatic Hormone-sensitive Prostate Cancer Patients: An Updated Network Meta-analysis Including ARANOTE Data.",
+      "journal": "European urology focus",
+      "abstract_sections": [
+        "The treatment landscape for metastatic hormone-sensitive prostate cancer (mHSPC) has been extended by another phase 3 randomized control trial (ARANOTE) demonstrating favorable outcomes of a doublet therapy combining the androgen receptor pathway inhibitor (ARPI) darolutamide with androgen deprivation therapy (ADT) over ADT monotherapy. Owing to differences in trial designs, patient enrollment, and most notably different control treatment regimens, we hereby present an updated network meta-analysis (NMA) embedding the doublet therapy with darolutamide within the current treatment regimens. In NMA-derived ranking, darolutamide and ADT showed similar oncological efficacy to the already known doublet therapies for progression-free survival (p = 0.49). These findings were consistent when solely doublet treatments, including apalutamide, enzalutamide, or darolutamide, were stratified according to disease volume. Overall survival (OS) data in ARANOTE are very immature, with up to date no significant differences in OS between the doublet regimen and the control group (hazard ratio: 0.81; 95% confidence interval: 0.59-1.12). The combination of darolutamide and ADT is likely-with the requirement of additional follow-up-to become another standard of care regimen for mHSPC following approval in the future. PATIENT SUMMARY: The phase 3 ARANOTE trial has shown the combination of darolutamide and androgen deprivation therapy (ADT) to have favorable outcomes for metastatic hormone-sensitive prostate cancer (mHSPC) over ADT monotherapy. This combination therapy was as effective as the already known doublet therapies for progression free-survival, and had a very favorable safety and toxicity profile. Following approval, the combination of darolutamide and ADT may become another standard of care regimen for mHSPC."
+      ],
+      "abstract": "The treatment landscape for metastatic hormone-sensitive prostate cancer (mHSPC) has been extended by another phase 3 randomized control trial (ARANOTE) demonstrating favorable outcomes of a doublet therapy combining the androgen receptor pathway inhibitor (ARPI) darolutamide with androgen deprivation therapy (ADT) over ADT monotherapy. Owing to differences in trial designs, patient enrollment, and most notably different control treatment regimens, we hereby present an updated network meta-analysis (NMA) embedding the doublet therapy with darolutamide within the current treatment regimens. In NMA-derived ranking, darolutamide and ADT showed similar oncological efficacy to the already known doublet therapies for progression-free survival (p = 0.49). These findings were consistent when solely doublet treatments, including apalutamide, enzalutamide, or darolutamide, were stratified according to disease volume. Overall survival (OS) data in ARANOTE are very immature, with up to date no significant differences in OS between the doublet regimen and the control group (hazard ratio: 0.81; 95% confidence interval: 0.59-1.12). The combination of darolutamide and ADT is likely-with the requirement of additional follow-up-to become another standard of care regimen for mHSPC following approval in the future. PATIENT SUMMARY: The phase 3 ARANOTE trial has shown the combination of darolutamide and androgen deprivation therapy (ADT) to have favorable outcomes for metastatic hormone-sensitive prostate cancer (mHSPC) over ADT monotherapy. This combination therapy was as effective as the already known doublet therapies for progression free-survival, and had a very favorable safety and toxicity profile. Following approval, the combination of darolutamide and ADT may become another standard of care regimen for mHSPC.",
+      "evidence_sentences": [
+        "The treatment landscape for metastatic hormone-sensitive prostate cancer (mHSPC) has been extended by another phase 3 randomized control trial (ARANOTE) demonstrating favorable outcomes of a doublet therapy combining the androgen receptor pathway inhibitor (ARPI) darolutamide with androgen deprivation therapy (ADT) over ADT monotherapy.",
+        "PATIENT SUMMARY: The phase 3 ARANOTE trial has shown the combination of darolutamide and androgen deprivation therapy (ADT) to have favorable outcomes for metastatic hormone-sensitive prostate cancer (mHSPC) over ADT monotherapy.",
+        "Owing to differences in trial designs, patient enrollment, and most notably different control treatment regimens, we hereby present an updated network meta-analysis (NMA) embedding the doublet therapy with darolutamide within the current treatment regimens."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Benedikt Hoeh",
+        "Mike Wenzel",
+        "Zhe Tian",
+        "Pierre I Karakiewicz",
+        "Fred Saad",
+        "Thomas Steuber",
+        "Markus Graefen",
+        "Derya Tilki",
+        "Roman Herout",
+        "Christian Thomas",
+        "Felix K-H Chun",
+        "Philipp Mandel"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39643549/"
+    },
+    {
+      "pmid": "40126447",
+      "title": "Treatment intensification in metastatic castration-sensitive prostate cancer: a real-world study in Alberta, Canada.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [
+        "To assess the current status of and factors associated with treatment intensification (TI) (with androgen receptor pathway inhibitors [ARPIs] and/or docetaxel) for metastatic castration-sensitive prostate cancer (mCSPC) in Canada.",
+        "Retrospective analysis of data for 431 patients with mCSPC from the Alberta Prostate Cancer Research Initiative database (July 2014-March 2022). The primary objective was to assess the patient proportion receiving TI, time to TI, and associated factors. The secondary and exploratory objectives were evaluating TI patterns and factors associated with choice of therapy, respectively.",
+        "Overall, 42% of patients received TI; most (65%) within 3 months post-index. TI was likely to occur within 3 months post-index in de novo mCSPC, but occurred later for recurrent mCSPC. Patients with recurrent mCSPC (HR [95% CI]: 0.52 [0.38-0.72]) and those aged ≥ 75 years (0.57 [0.36-0.93]) were less likely to receive TI. Patients with multiple metastatic sites and bone metastasis had a 2-3-fold higher likelihood of receiving TI. An ARPI was predominantly used (75%) for TI (median duration: 16.0 months).",
+        "TI rates for mCSPC are suboptimal in Canada especially for older patients and those with recurrent mCSPC. TI prioritization in such groups may improve patient outcomes."
+      ],
+      "abstract": "To assess the current status of and factors associated with treatment intensification (TI) (with androgen receptor pathway inhibitors [ARPIs] and/or docetaxel) for metastatic castration-sensitive prostate cancer (mCSPC) in Canada.\n\nRetrospective analysis of data for 431 patients with mCSPC from the Alberta Prostate Cancer Research Initiative database (July 2014-March 2022). The primary objective was to assess the patient proportion receiving TI, time to TI, and associated factors. The secondary and exploratory objectives were evaluating TI patterns and factors associated with choice of therapy, respectively.\n\nOverall, 42% of patients received TI; most (65%) within 3 months post-index. TI was likely to occur within 3 months post-index in de novo mCSPC, but occurred later for recurrent mCSPC. Patients with recurrent mCSPC (HR [95% CI]: 0.52 [0.38-0.72]) and those aged ≥ 75 years (0.57 [0.36-0.93]) were less likely to receive TI. Patients with multiple metastatic sites and bone metastasis had a 2-3-fold higher likelihood of receiving TI. An ARPI was predominantly used (75%) for TI (median duration: 16.0 months).\n\nTI rates for mCSPC are suboptimal in Canada especially for older patients and those with recurrent mCSPC. TI prioritization in such groups may improve patient outcomes.",
+      "evidence_sentences": [
+        "To assess the current status of and factors associated with treatment intensification (TI) (with androgen receptor pathway inhibitors [ARPIs] and/or docetaxel) for metastatic castration-sensitive prostate cancer (mCSPC) in Canada.",
+        "Retrospective analysis of data for 431 patients with mCSPC from the Alberta Prostate Cancer Research Initiative database (July 2014-March 2022).",
+        "The secondary and exploratory objectives were evaluating TI patterns and factors associated with choice of therapy, respectively."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Steven M Yip",
+        "Winson Y Cheung",
+        "Armen Aprikian",
+        "Matthias Stoelzel",
+        "Kelvin Wong",
+        "Alessandra Pranzo",
+        "Thomas McLean",
+        "Dylan E O'Sullivan",
+        "Andrew Chilelli"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40126447/"
+    },
+    {
+      "pmid": "40759791",
+      "title": "New frontiers in prostate cancer treatment from systemic therapy to targeted therapy.",
+      "journal": "EMBO molecular medicine",
+      "abstract_sections": [
+        "Significant advances in prostate cancer (PCa) treatment have occurred through the integration of molecular biomarkers and imaging with targeted therapies. While androgen receptor pathway inhibition (ARPI) remains the cornerstone of PCa therapy, the current therapeutic landscape has expanded to include a broader range of targeted agents, alongside emerging approaches that leverage disease-specific vulnerabilities. Molecular profiling has enabled the exploration of diverse therapeutic modalities, including epigenetic regulators, immune-modulating agents, metabolic pathways, kinases, and cell surface proteins. Despite this progress, further research is needed to address tumour heterogeneity and treatment-resistant phenotypes. As ARPI use moves earlier in the disease course and novel agents are incorporated into standard care, prolonging disease control may also reshape emergent resistant phenotypes and disease progression trajectories. This evolving context underscores the need to revisit agents that may now show efficacy in new therapeutic settings or when paired with complementary strategies. Here, we review the current treatment framework in PCa and highlight novel approaches and targets poised to transform clinical care."
+      ],
+      "abstract": "Significant advances in prostate cancer (PCa) treatment have occurred through the integration of molecular biomarkers and imaging with targeted therapies. While androgen receptor pathway inhibition (ARPI) remains the cornerstone of PCa therapy, the current therapeutic landscape has expanded to include a broader range of targeted agents, alongside emerging approaches that leverage disease-specific vulnerabilities. Molecular profiling has enabled the exploration of diverse therapeutic modalities, including epigenetic regulators, immune-modulating agents, metabolic pathways, kinases, and cell surface proteins. Despite this progress, further research is needed to address tumour heterogeneity and treatment-resistant phenotypes. As ARPI use moves earlier in the disease course and novel agents are incorporated into standard care, prolonging disease control may also reshape emergent resistant phenotypes and disease progression trajectories. This evolving context underscores the need to revisit agents that may now show efficacy in new therapeutic settings or when paired with complementary strategies. Here, we review the current treatment framework in PCa and highlight novel approaches and targets poised to transform clinical care.",
+      "evidence_sentences": [
+        "Significant advances in prostate cancer (PCa) treatment have occurred through the integration of molecular biomarkers and imaging with targeted therapies.",
+        "Here, we review the current treatment framework in PCa and highlight novel approaches and targets poised to transform clinical care.",
+        "Despite this progress, further research is needed to address tumour heterogeneity and treatment-resistant phenotypes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Shaghayegh Nouruzi",
+        "Maxim Kobelev",
+        "Nakisa Tabrizian",
+        "Martin Gleave",
+        "Amina Zoubeidi"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40759791/"
+    },
+    {
+      "pmid": "29297495",
+      "title": "Treatment effects in prostate cancer.",
+      "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+      "abstract_sections": [
+        "Nonsurgical treatments for prostate cancer include androgen-deprivation therapy (ADT), radiation therapy (RT), ablative therapies, chemotherapy, and newly emerging immunotherapies. These approaches can be used alone or in combination depending on the clinical scenario. ADT is typically reserved for high-risk locally or systemically advanced disease that is not amenable to curative surgery. Radiation therapy can be used instead of surgery as primary therapy with curative intent for low-intermediate-risk disease as well as for control of locally advanced disease not suitable for surgery. Ablative therapies can be used as primary therapy for low-intermediate-risk disease or as salvage therapy for clinically localized disease where RT has failed. Chemotherapy and immune-based therapies are currently used for androgen-independent disease, although the indications for these approaches may well change as new data from clinical trials accrue. Pathologists should be able to recognize tissue changes associated with these treatments to provide information that will optimize patient management. This is particularly true in situations where clinical history of recent or remote nonsurgical treatment is not provided with the specimen. In the absence of this information, pathologists encountering the features described herein are encouraged to review patient records or communicate directly with clinical colleagues to determine how a given patient was treated and when."
+      ],
+      "abstract": "Nonsurgical treatments for prostate cancer include androgen-deprivation therapy (ADT), radiation therapy (RT), ablative therapies, chemotherapy, and newly emerging immunotherapies. These approaches can be used alone or in combination depending on the clinical scenario. ADT is typically reserved for high-risk locally or systemically advanced disease that is not amenable to curative surgery. Radiation therapy can be used instead of surgery as primary therapy with curative intent for low-intermediate-risk disease as well as for control of locally advanced disease not suitable for surgery. Ablative therapies can be used as primary therapy for low-intermediate-risk disease or as salvage therapy for clinically localized disease where RT has failed. Chemotherapy and immune-based therapies are currently used for androgen-independent disease, although the indications for these approaches may well change as new data from clinical trials accrue. Pathologists should be able to recognize tissue changes associated with these treatments to provide information that will optimize patient management. This is particularly true in situations where clinical history of recent or remote nonsurgical treatment is not provided with the specimen. In the absence of this information, pathologists encountering the features described herein are encouraged to review patient records or communicate directly with clinical colleagues to determine how a given patient was treated and when.",
+      "evidence_sentences": [
+        "Nonsurgical treatments for prostate cancer include androgen-deprivation therapy (ADT), radiation therapy (RT), ablative therapies, chemotherapy, and newly emerging immunotherapies.",
+        "Pathologists should be able to recognize tissue changes associated with these treatments to provide information that will optimize patient management.",
+        "Chemotherapy and immune-based therapies are currently used for androgen-independent disease, although the indications for these approaches may well change as new data from clinical trials accrue."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Andrew J Evans"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29297495/"
+    },
+    {
+      "pmid": "38814624",
+      "title": "Long-Term Outcomes in Patients Using Protocol-Directed Active Surveillance for Prostate Cancer.",
+      "journal": "JAMA",
+      "abstract_sections": [
+        "Outcomes from protocol-directed active surveillance for favorable-risk prostate cancers are needed to support decision-making.",
+        "To characterize the long-term oncological outcomes of patients receiving active surveillance in a multicenter, protocol-directed cohort.",
+        "The Canary Prostate Active Surveillance Study (PASS) is a prospective cohort study initiated in 2008. A cohort of 2155 men with favorable-risk prostate cancer and no prior treatment were enrolled at 10 North American centers through August 2022.",
+        "Active surveillance for prostate cancer.",
+        "Cumulative incidence of biopsy grade reclassification, treatment, metastasis, prostate cancer mortality, overall mortality, and recurrence after treatment in patients treated after the first or subsequent surveillance biopsies.",
+        "Among 2155 patients with localized prostate cancer, the median follow-up was 7.2 years, median age was 63 years, 83% were White, 7% were Black, 90% were diagnosed with grade group 1 cancer, and median prostate-specific antigen (PSA) was 5.2 ng/mL. Ten years after diagnosis, the incidence of biopsy grade reclassification and treatment were 43% (95% CI, 40%-45%) and 49% (95% CI, 47%-52%), respectively. There were 425 and 396 patients treated after confirmatory or subsequent surveillance biopsies (median of 1.5 and 4.6 years after diagnosis, respectively) and the 5-year rates of recurrence were 11% (95% CI, 7%-15%) and 8% (95% CI, 5%-11%), respectively. Progression to metastatic cancer occurred in 21 participants and there were 3 prostate cancer-related deaths. The estimated rates of metastasis or prostate cancer-specific mortality at 10 years after diagnosis were 1.4% (95% CI, 0.7%-2%) and 0.1% (95% CI, 0%-0.4%), respectively; overall mortality in the same time period was 5.1% (95% CI, 3.8%-6.4%).",
+        "In this study, 10 years after diagnosis, 49% of men remained free of progression or treatment, less than 2% developed metastatic disease, and less than 1% died of their disease. Later progression and treatment during surveillance were not associated with worse outcomes. These results demonstrate active surveillance as an effective management strategy for patients diagnosed with favorable-risk prostate cancer."
+      ],
+      "abstract": "Outcomes from protocol-directed active surveillance for favorable-risk prostate cancers are needed to support decision-making.\n\nTo characterize the long-term oncological outcomes of patients receiving active surveillance in a multicenter, protocol-directed cohort.\n\nThe Canary Prostate Active Surveillance Study (PASS) is a prospective cohort study initiated in 2008. A cohort of 2155 men with favorable-risk prostate cancer and no prior treatment were enrolled at 10 North American centers through August 2022.\n\nActive surveillance for prostate cancer.\n\nCumulative incidence of biopsy grade reclassification, treatment, metastasis, prostate cancer mortality, overall mortality, and recurrence after treatment in patients treated after the first or subsequent surveillance biopsies.\n\nAmong 2155 patients with localized prostate cancer, the median follow-up was 7.2 years, median age was 63 years, 83% were White, 7% were Black, 90% were diagnosed with grade group 1 cancer, and median prostate-specific antigen (PSA) was 5.2 ng/mL. Ten years after diagnosis, the incidence of biopsy grade reclassification and treatment were 43% (95% CI, 40%-45%) and 49% (95% CI, 47%-52%), respectively. There were 425 and 396 patients treated after confirmatory or subsequent surveillance biopsies (median of 1.5 and 4.6 years after diagnosis, respectively) and the 5-year rates of recurrence were 11% (95% CI, 7%-15%) and 8% (95% CI, 5%-11%), respectively. Progression to metastatic cancer occurred in 21 participants and there were 3 prostate cancer-related deaths. The estimated rates of metastasis or prostate cancer-specific mortality at 10 years after diagnosis were 1.4% (95% CI, 0.7%-2%) and 0.1% (95% CI, 0%-0.4%), respectively; overall mortality in the same time period was 5.1% (95% CI, 3.8%-6.4%).\n\nIn this study, 10 years after diagnosis, 49% of men remained free of progression or treatment, less than 2% developed metastatic disease, and less than 1% died of their disease. Later progression and treatment during surveillance were not associated with worse outcomes. These results demonstrate active surveillance as an effective management strategy for patients diagnosed with favorable-risk prostate cancer.",
+      "evidence_sentences": [
+        "Cumulative incidence of biopsy grade reclassification, treatment, metastasis, prostate cancer mortality, overall mortality, and recurrence after treatment in patients treated after the first or subsequent surveillance biopsies.",
+        "A cohort of 2155 men with favorable-risk prostate cancer and no prior treatment were enrolled at 10 North American centers through August 2022.",
+        "These results demonstrate active surveillance as an effective management strategy for patients diagnosed with favorable-risk prostate cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Lisa F Newcomb",
+        "Jeannette M Schenk",
+        "Yingye Zheng",
+        "Menghan Liu",
+        "Kehao Zhu",
+        "James D Brooks",
+        "Peter R Carroll",
+        "Atreya Dash",
+        "Claire M de la Calle",
+        "William J Ellis",
+        "Christopher P Filson",
+        "Martin E Gleave",
+        "Michael A Liss",
+        "Frances Martin",
+        "Jesse K McKenney",
+        "Todd M Morgan",
+        "Maria S Tretiakova",
+        "Andrew A Wagner",
+        "Peter S Nelson",
+        "Daniel W Lin"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38814624/"
+    },
+    {
+      "pmid": "25512465",
+      "title": "Long-term follow-up of a large active surveillance cohort of patients with prostate cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "Active surveillance is increasingly accepted as a treatment option for favorable-risk prostate cancer. Long-term follow-up has been lacking. In this study, we report the long-term outcome of a large active surveillance protocol in men with favorable-risk prostate cancer.",
+        "In a prospective single-arm cohort study carried out at a single academic health sciences center, 993 men with favorable- or intermediate-risk prostate cancer were managed with an initial expectant approach. Intervention was offered for a prostate-specific antigen (PSA) doubling time of less than 3 years, Gleason score progression, or unequivocal clinical progression. Main outcome measures were overall and disease-specific survival, rate of treatment, and PSA failure rate in the treated patients.",
+        "Among the 819 survivors, the median follow-up time from the first biopsy is 6.4 years (range, 0.2 to 19.8 years). One hundred forty-nine (15%) of 993 patients died, and 844 patients are alive (censored rate, 85.0%). There were 15 deaths (1.5%) from prostate cancer. The 10- and 15-year actuarial cause-specific survival rates were 98.1% and 94.3%, respectively. An additional 13 patients (1.3%) developed metastatic disease and are alive with confirmed metastases (n = 9) or have died of other causes (n = 4). At 5, 10, and 15 years, 75.7%, 63.5%, and 55.0% of patients remained untreated and on surveillance. The cumulative hazard ratio for nonprostate-to-prostate cancer mortality was 9.2:1.",
+        "Active surveillance for favorable-risk prostate cancer is feasible and seems safe in the 15-year time frame. In our cohort, 2.8% of patients have developed metastatic disease, and 1.5% have died of prostate cancer. This mortality rate is consistent with expected mortality in favorable-risk patients managed with initial definitive intervention."
+      ],
+      "abstract": "Active surveillance is increasingly accepted as a treatment option for favorable-risk prostate cancer. Long-term follow-up has been lacking. In this study, we report the long-term outcome of a large active surveillance protocol in men with favorable-risk prostate cancer.\n\nIn a prospective single-arm cohort study carried out at a single academic health sciences center, 993 men with favorable- or intermediate-risk prostate cancer were managed with an initial expectant approach. Intervention was offered for a prostate-specific antigen (PSA) doubling time of less than 3 years, Gleason score progression, or unequivocal clinical progression. Main outcome measures were overall and disease-specific survival, rate of treatment, and PSA failure rate in the treated patients.\n\nAmong the 819 survivors, the median follow-up time from the first biopsy is 6.4 years (range, 0.2 to 19.8 years). One hundred forty-nine (15%) of 993 patients died, and 844 patients are alive (censored rate, 85.0%). There were 15 deaths (1.5%) from prostate cancer. The 10- and 15-year actuarial cause-specific survival rates were 98.1% and 94.3%, respectively. An additional 13 patients (1.3%) developed metastatic disease and are alive with confirmed metastases (n = 9) or have died of other causes (n = 4). At 5, 10, and 15 years, 75.7%, 63.5%, and 55.0% of patients remained untreated and on surveillance. The cumulative hazard ratio for nonprostate-to-prostate cancer mortality was 9.2:1.\n\nActive surveillance for favorable-risk prostate cancer is feasible and seems safe in the 15-year time frame. In our cohort, 2.8% of patients have developed metastatic disease, and 1.5% have died of prostate cancer. This mortality rate is consistent with expected mortality in favorable-risk patients managed with initial definitive intervention.",
+      "evidence_sentences": [
+        "Active surveillance is increasingly accepted as a treatment option for favorable-risk prostate cancer.",
+        "In a prospective single-arm cohort study carried out at a single academic health sciences center, 993 men with favorable- or intermediate-risk prostate cancer were managed with an initial expectant approach.",
+        "In this study, we report the long-term outcome of a large active surveillance protocol in men with favorable-risk prostate cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Laurence Klotz",
+        "Danny Vesprini",
+        "Perakaa Sethukavalan",
+        "Vibhuti Jethava",
+        "Liying Zhang",
+        "Suneil Jain",
+        "Toshihiro Yamamoto",
+        "Alexandre Mamedov",
+        "Andrew Loblaw"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25512465/"
+    },
+    {
+      "pmid": "38132369",
+      "title": "Exploring Men's Experiences with Follow-Up Care following Primary Treatment for Prostate Cancer in Atlantic Canada: A Qualitative Study.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "Prostate cancer is a common and life-altering condition among Canadian men, yet little is known about how follow-up care is provided to those who have completed treatment. Despite improving survival rates, survivors experience ongoing needs and are often not provided with support to manage them. This study sought to investigate the post-treatment experiences and needs of prostate cancer survivors and to determine if and how these needs are being met. Using a qualitative description design, prostate cancer survivors who had completed treatment took part in semi-structured interviews. The interviews were recorded and analyzed thematically. The participants experienced varying levels of satisfaction with their follow-up care. While primary care providers played significant roles, continuity of care and specialist involvement varied. Most participants felt unprepared to manage the long-term effects of their cancer due to a lack of information and resources from their healthcare providers. Instead, participants turned to their peers for support. Ongoing physical and psychosocial needs went unmet and had significant impacts on their daily lives. Participants felt that support for these issues should be automatically integrated into their follow-up care. In summary, this study revealed the importance of integrated, patient-centered follow-up care for prostate cancer in Atlantic Canada."
+      ],
+      "abstract": "Prostate cancer is a common and life-altering condition among Canadian men, yet little is known about how follow-up care is provided to those who have completed treatment. Despite improving survival rates, survivors experience ongoing needs and are often not provided with support to manage them. This study sought to investigate the post-treatment experiences and needs of prostate cancer survivors and to determine if and how these needs are being met. Using a qualitative description design, prostate cancer survivors who had completed treatment took part in semi-structured interviews. The interviews were recorded and analyzed thematically. The participants experienced varying levels of satisfaction with their follow-up care. While primary care providers played significant roles, continuity of care and specialist involvement varied. Most participants felt unprepared to manage the long-term effects of their cancer due to a lack of information and resources from their healthcare providers. Instead, participants turned to their peers for support. Ongoing physical and psychosocial needs went unmet and had significant impacts on their daily lives. Participants felt that support for these issues should be automatically integrated into their follow-up care. In summary, this study revealed the importance of integrated, patient-centered follow-up care for prostate cancer in Atlantic Canada.",
+      "evidence_sentences": [
+        "Prostate cancer is a common and life-altering condition among Canadian men, yet little is known about how follow-up care is provided to those who have completed treatment.",
+        "This study sought to investigate the post-treatment experiences and needs of prostate cancer survivors and to determine if and how these needs are being met.",
+        "Using a qualitative description design, prostate cancer survivors who had completed treatment took part in semi-structured interviews."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Robin Urquhart",
+        "Sarah Scruton",
+        "Samantha Radford",
+        "Cynthia Kendell",
+        "Elias Hirsch"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38132369/"
+    },
+    {
+      "pmid": "28142149",
+      "title": "Cancer Stem Cells in Prostate Cancer: Implications for Targeted Therapy.",
+      "journal": "Urologia internationalis",
+      "abstract_sections": [
+        "Prostate cancer (PCa) is the most frequently diagnosed cancer in men and the second most common cause of cancer-related mortality among men in the developed world. Conventional anti-PCa therapies include surgery, radiation, hormonal ablation, and chemotherapy. Despite increasing efforts, these therapies are not effective for patients with advanced and/or metastatic disease. In most cases, cancer therapies fail due to an incomplete depletion of tumor cells, resulting in tumor relapse. The cancer stem cell (CSC) hypothesis is an emerging model that explains many of the molecular characteristics of oncological disease as well as the tendency of cancers to relapse, metastasize, and develop resistance to conventional therapies. CSCs are a reservoir of cancer cells that exhibit properties of self-renewal and the ability to reestablish the heterogeneous tumor cell population. The existence of PCa stem cells offers a theoretical explanation for many uncertainties regarding PCa and also for treatment resistance and disease progression once clinical cure is achieved. Therapies targeting CSCs might therefore lead to more effective cancer treatments, divergent from a traditional anti-proliferative approach, based on tumor bulk reduction accompanied by CSC-specific inhibition. Here, we focus on reviewing the historical perspective as well as concepts regarding stem cells and CSCs in PCa. In addition, we will report possible strategies and new clinical approaches that address the CSC-based concept of tumorigenesis in PCa."
+      ],
+      "abstract": "Prostate cancer (PCa) is the most frequently diagnosed cancer in men and the second most common cause of cancer-related mortality among men in the developed world. Conventional anti-PCa therapies include surgery, radiation, hormonal ablation, and chemotherapy. Despite increasing efforts, these therapies are not effective for patients with advanced and/or metastatic disease. In most cases, cancer therapies fail due to an incomplete depletion of tumor cells, resulting in tumor relapse. The cancer stem cell (CSC) hypothesis is an emerging model that explains many of the molecular characteristics of oncological disease as well as the tendency of cancers to relapse, metastasize, and develop resistance to conventional therapies. CSCs are a reservoir of cancer cells that exhibit properties of self-renewal and the ability to reestablish the heterogeneous tumor cell population. The existence of PCa stem cells offers a theoretical explanation for many uncertainties regarding PCa and also for treatment resistance and disease progression once clinical cure is achieved. Therapies targeting CSCs might therefore lead to more effective cancer treatments, divergent from a traditional anti-proliferative approach, based on tumor bulk reduction accompanied by CSC-specific inhibition. Here, we focus on reviewing the historical perspective as well as concepts regarding stem cells and CSCs in PCa. In addition, we will report possible strategies and new clinical approaches that address the CSC-based concept of tumorigenesis in PCa.",
+      "evidence_sentences": [
+        "Therapies targeting CSCs might therefore lead to more effective cancer treatments, divergent from a traditional anti-proliferative approach, based on tumor bulk reduction accompanied by CSC-specific inhibition.",
+        "Prostate cancer (PCa) is the most frequently diagnosed cancer in men and the second most common cause of cancer-related mortality among men in the developed world.",
+        "The existence of PCa stem cells offers a theoretical explanation for many uncertainties regarding PCa and also for treatment resistance and disease progression once clinical cure is achieved."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Ricardo Leão",
+        "Célia Domingos",
+        "Arnaldo Figueiredo",
+        "Robert Hamilton",
+        "Uri Tabori",
+        "Pedro Castelo-Branco"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28142149/"
+    },
+    {
+      "pmid": "31540791",
+      "title": "Intensity-modulated fractionated radiotherapy versus stereotactic body radiotherapy for prostate cancer (PACE-B): acute toxicity findings from an international, randomised, open-label, phase 3, non-inferiority trial.",
+      "journal": "The Lancet. Oncology",
+      "abstract_sections": [
+        "Localised prostate cancer is commonly treated with external-beam radiotherapy. Moderate hypofractionation has been shown to be non-inferior to conventional fractionation. Ultra-hypofractionated stereotactic body radiotherapy would allow shorter treatment courses but could increase acute toxicity compared with conventionally fractionated or moderately hypofractionated radiotherapy. We report the acute toxicity findings from a randomised trial of standard-of-care conventionally fractionated or moderately hypofractionated radiotherapy versus five-fraction stereotactic body radiotherapy for low-risk to intermediate-risk localised prostate cancer.",
+        "PACE is an international, phase 3, open-label, randomised, non-inferiority trial. In PACE-B, eligible men aged 18 years and older, with WHO performance status 0-2, low-risk or intermediate-risk prostate adenocarcinoma (Gleason 4 + 3 excluded), and scheduled to receive radiotherapy were recruited from 37 centres in three countries (UK, Ireland, and Canada). Participants were randomly allocated (1:1) by computerised central randomisation with permuted blocks (size four and six), stratified by centre and risk group, to conventionally fractionated or moderately hypofractionated radiotherapy (78 Gy in 39 fractions over 7·8 weeks or 62 Gy in 20 fractions over 4 weeks, respectively) or stereotactic body radiotherapy (36·25 Gy in five fractions over 1-2 weeks). Neither participants nor investigators were masked to allocation. Androgen deprivation was not permitted. The primary endpoint of PACE-B is freedom from biochemical or clinical failure. The coprimary outcomes for this acute toxicity substudy were worst grade 2 or more severe Radiation Therapy Oncology Group (RTOG) gastrointestinal or genitourinary toxic effects score up to 12 weeks after radiotherapy. Analysis was per protocol. This study is registered with ClinicalTrials.gov, NCT01584258. PACE-B recruitment is complete and follow-up is ongoing.",
+        "Between Aug 7, 2012, and Jan 4, 2018, we randomly assigned 874 men to conventionally fractionated or moderately hypofractionated radiotherapy (n=441) or stereotactic body radiotherapy (n=433). 432 (98%) of 441 patients allocated to conventionally fractionated or moderately hypofractionated radiotherapy and 415 (96%) of 433 patients allocated to stereotactic body radiotherapy received at least one fraction of allocated treatment. Worst acute RTOG gastrointestinal toxic effect proportions were as follows: grade 2 or more severe toxic events in 53 (12%) of 432 patients in the conventionally fractionated or moderately hypofractionated radiotherapy group versus 43 (10%) of 415 patients in the stereotactic body radiotherapy group (difference -1·9 percentage points, 95% CI -6·2 to 2·4; p=0·38). Worst acute RTOG genitourinary toxicity proportions were as follows: grade 2 or worse toxicity in 118 (27%) of 432 patients in the conventionally fractionated or moderately hypofractionated radiotherapy group versus 96 (23%) of 415 patients in the stereotactic body radiotherapy group (difference -4·2 percentage points, 95% CI -10·0 to 1·7; p=0·16). No treatment-related deaths occurred.",
+        "Previous evidence (from the HYPO-RT-PC trial) suggested higher patient-reported toxicity with ultrahypofractionation. By contrast, our results suggest that substantially shortening treatment courses with stereotactic body radiotherapy does not increase either gastrointestinal or genitourinary acute toxicity.",
+        "Accuray and National Institute of Health Research."
+      ],
+      "abstract": "Localised prostate cancer is commonly treated with external-beam radiotherapy. Moderate hypofractionation has been shown to be non-inferior to conventional fractionation. Ultra-hypofractionated stereotactic body radiotherapy would allow shorter treatment courses but could increase acute toxicity compared with conventionally fractionated or moderately hypofractionated radiotherapy. We report the acute toxicity findings from a randomised trial of standard-of-care conventionally fractionated or moderately hypofractionated radiotherapy versus five-fraction stereotactic body radiotherapy for low-risk to intermediate-risk localised prostate cancer.\n\nPACE is an international, phase 3, open-label, randomised, non-inferiority trial. In PACE-B, eligible men aged 18 years and older, with WHO performance status 0-2, low-risk or intermediate-risk prostate adenocarcinoma (Gleason 4 + 3 excluded), and scheduled to receive radiotherapy were recruited from 37 centres in three countries (UK, Ireland, and Canada). Participants were randomly allocated (1:1) by computerised central randomisation with permuted blocks (size four and six), stratified by centre and risk group, to conventionally fractionated or moderately hypofractionated radiotherapy (78 Gy in 39 fractions over 7·8 weeks or 62 Gy in 20 fractions over 4 weeks, respectively) or stereotactic body radiotherapy (36·25 Gy in five fractions over 1-2 weeks). Neither participants nor investigators were masked to allocation. Androgen deprivation was not permitted. The primary endpoint of PACE-B is freedom from biochemical or clinical failure. The coprimary outcomes for this acute toxicity substudy were worst grade 2 or more severe Radiation Therapy Oncology Group (RTOG) gastrointestinal or genitourinary toxic effects score up to 12 weeks after radiotherapy. Analysis was per protocol. This study is registered with ClinicalTrials.gov, NCT01584258. PACE-B recruitment is complete and follow-up is ongoing.\n\nBetween Aug 7, 2012, and Jan 4, 2018, we randomly assigned 874 men to conventionally fractionated or moderately hypofractionated radiotherapy (n=441) or stereotactic body radiotherapy (n=433). 432 (98%) of 441 patients allocated to conventionally fractionated or moderately hypofractionated radiotherapy and 415 (96%) of 433 patients allocated to stereotactic body radiotherapy received at least one fraction of allocated treatment. Worst acute RTOG gastrointestinal toxic effect proportions were as follows: grade 2 or more severe toxic events in 53 (12%) of 432 patients in the conventionally fractionated or moderately hypofractionated radiotherapy group versus 43 (10%) of 415 patients in the stereotactic body radiotherapy group (difference -1·9 percentage points, 95% CI -6·2 to 2·4; p=0·38). Worst acute RTOG genitourinary toxicity proportions were as follows: grade 2 or worse toxicity in 118 (27%) of 432 patients in the conventionally fractionated or moderately hypofractionated radiotherapy group versus 96 (23%) of 415 patients in the stereotactic body radiotherapy group (difference -4·2 percentage points, 95% CI -10·0 to 1·7; p=0·16). No treatment-related deaths occurred.\n\nPrevious evidence (from the HYPO-RT-PC trial) suggested higher patient-reported toxicity with ultrahypofractionation. By contrast, our results suggest that substantially shortening treatment courses with stereotactic body radiotherapy does not increase either gastrointestinal or genitourinary acute toxicity.\n\nAccuray and National Institute of Health Research.",
+      "evidence_sentences": [
+        "We report the acute toxicity findings from a randomised trial of standard-of-care conventionally fractionated or moderately hypofractionated radiotherapy versus five-fraction stereotactic body radiotherapy for low-risk to intermediate-risk localised prostate cancer.",
+        "In PACE-B, eligible men aged 18 years and older, with WHO performance status 0-2, low-risk or intermediate-risk prostate adenocarcinoma (Gleason 4 + 3 excluded), and scheduled to receive radiotherapy were recruited from 37 centres in three countries (UK, Ireland, and Canada).",
+        "Localised prostate cancer is commonly treated with external-beam radiotherapy."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Douglas H Brand",
+        "Alison C Tree",
+        "Peter Ostler",
+        "Hans van der Voet",
+        "Andrew Loblaw",
+        "William Chu",
+        "Daniel Ford",
+        "Shaun Tolan",
+        "Suneil Jain",
+        "Alexander Martin",
+        "John Staffurth",
+        "Philip Camilleri",
+        "Kiran Kancherla",
+        "John Frew",
+        "Andrew Chan",
+        "Ian S Dayes",
+        "Daniel Henderson",
+        "Stephanie Brown",
+        "Clare Cruickshank",
+        "Stephanie Burnett",
+        "Aileen Duffton",
+        "Clare Griffin",
+        "Victoria Hinder",
+        "Kirsty Morrison",
+        "Olivia Naismith",
+        "Emma Hall",
+        "Nicholas van As",
+        "PACE Trial Investigators"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31540791/"
+    },
+    {
+      "pmid": "31412013",
+      "title": "Salvage Local Treatments After Focal Therapy for Prostate Cancer.",
+      "journal": "European urology oncology",
+      "abstract_sections": [
+        "Whether focal therapy (FT) for prostate cancer (PC) jeopardizes outcomes from salvage treatments is a matter of debate still to be resolved.",
+        "To review the literature on oncological and functional outcomes and complications for available treatment options for recurrent or residual PC after primary FT.",
+        "We performed a nonsystematic search of PubMed for articles assessing relevant outcomes for salvage local treatment after FT failure using a manual search. When no evidence could be extracted for the FT domain, records dealing with recurrence after whole-gland ablation were considered.",
+        "Four retrospective series assessed salvage treatments after FT failure evaluating cases of radical prostatectomy (RP) and repeat ablation (sample size from 12 to 22 patients). The quality of the studies was low, with a high risk of bias. Other options are radiation therapy (RT) and whole-gland or focal repeat ablations, although these have only been described after whole-gland ablation. With some exceptions, including sexual function for RP, overall complications and oncological and functional outcomes do seem to be acceptable and are not much worse than those in the primary setting. Important limitations include the low level of the evidence and the absence of standardized criteria for FT, salvage treatment, and FT failure.",
+        "Current evidence shows acceptable outcomes for post-FT salvage options, although this is based on retrospective data. While it seems that FT has a minimal impact on salvage treatment results, prospective controlled studies are needed to confirm these preliminary data.",
+        "We performed a literature search to determine the treatment options available for prostate cancer after failure of focal therapy and their outcomes. Options include radical prostatectomy, repeat whole-gland ablation, focal ablation, and radiotherapy. Overall cancer control, impacts on urinary and sexual function, and complications seem slightly worse but not markedly different compared to primary treatments, but high-quality studies are awaited to confirm these findings."
+      ],
+      "abstract": "Whether focal therapy (FT) for prostate cancer (PC) jeopardizes outcomes from salvage treatments is a matter of debate still to be resolved.\n\nTo review the literature on oncological and functional outcomes and complications for available treatment options for recurrent or residual PC after primary FT.\n\nWe performed a nonsystematic search of PubMed for articles assessing relevant outcomes for salvage local treatment after FT failure using a manual search. When no evidence could be extracted for the FT domain, records dealing with recurrence after whole-gland ablation were considered.\n\nFour retrospective series assessed salvage treatments after FT failure evaluating cases of radical prostatectomy (RP) and repeat ablation (sample size from 12 to 22 patients). The quality of the studies was low, with a high risk of bias. Other options are radiation therapy (RT) and whole-gland or focal repeat ablations, although these have only been described after whole-gland ablation. With some exceptions, including sexual function for RP, overall complications and oncological and functional outcomes do seem to be acceptable and are not much worse than those in the primary setting. Important limitations include the low level of the evidence and the absence of standardized criteria for FT, salvage treatment, and FT failure.\n\nCurrent evidence shows acceptable outcomes for post-FT salvage options, although this is based on retrospective data. While it seems that FT has a minimal impact on salvage treatment results, prospective controlled studies are needed to confirm these preliminary data.\n\nWe performed a literature search to determine the treatment options available for prostate cancer after failure of focal therapy and their outcomes. Options include radical prostatectomy, repeat whole-gland ablation, focal ablation, and radiotherapy. Overall cancer control, impacts on urinary and sexual function, and complications seem slightly worse but not markedly different compared to primary treatments, but high-quality studies are awaited to confirm these findings.",
+      "evidence_sentences": [
+        "We performed a literature search to determine the treatment options available for prostate cancer after failure of focal therapy and their outcomes.",
+        "Whether focal therapy (FT) for prostate cancer (PC) jeopardizes outcomes from salvage treatments is a matter of debate still to be resolved.",
+        "Overall cancer control, impacts on urinary and sexual function, and complications seem slightly worse but not markedly different compared to primary treatments, but high-quality studies are awaited to confirm these findings."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Giancarlo Marra",
+        "Massimo Valerio",
+        "Mark Emberton",
+        "Axel Heidenreich",
+        "Juanita M Crook",
+        "Alberto Bossi",
+        "Louis L Pisters"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31412013/"
+    },
+    {
+      "pmid": "35469527",
+      "title": "Cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy alone for the treatment of metastatic castration-sensitive prostate cancer in Canada.",
+      "journal": "Journal of medical economics",
+      "abstract_sections": [
+        "There are no direct comparisons of the relative cost-effectiveness of second-generation anti-androgens (enzalutamide and apalutamide) used in managing metastatic castration-sensitive prostate cancer (mCSPC) in Canada. This study compared the cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy (ADT) alone (standard of care) in patients with mCSPC from the Canadian public payer perspective using a Markov model with a 15-year time horizon.",
+        "Efficacy data for enzalutamide and ADT alone were informed by the ARCHES and ENZAMET clinical trials, while a Bayesian network meta-analysis enabled comparison with apalutamide and ADT alone.",
+        "Over the 15-year period, enzalutamide achieved the highest number of life-years (LY, 7.6) and quality-adjusted life-years (QALY, 5.62) compared with apalutamide (LY, 6.1; QALY, 4.59) and ADTs (LY, 4.9; QALY, 3.61). Enzalutamide incurred the most costs ($349,345) compared with apalutamide ($294,349) and ADT ($162,550). Sequential analysis showed that enzalutamide lies on the cost-effectiveness frontier with ADT alone (incremental cost-effectiveness ratio: $92,868/QALY), with apalutamide extendedly dominated through enzalutamide and ADT alone.",
+        "Limitations include the heterogeneity of the studies included in the network meta-analysis and the validations for the treatment sequencing assumptions in the modeling.",
+        "Enzalutamide was the most effective treatment option for mCSPC in the Canadian market, with the greatest LYs and QALYs, and incurred the most costs."
+      ],
+      "abstract": "There are no direct comparisons of the relative cost-effectiveness of second-generation anti-androgens (enzalutamide and apalutamide) used in managing metastatic castration-sensitive prostate cancer (mCSPC) in Canada. This study compared the cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy (ADT) alone (standard of care) in patients with mCSPC from the Canadian public payer perspective using a Markov model with a 15-year time horizon.\n\nEfficacy data for enzalutamide and ADT alone were informed by the ARCHES and ENZAMET clinical trials, while a Bayesian network meta-analysis enabled comparison with apalutamide and ADT alone.\n\nOver the 15-year period, enzalutamide achieved the highest number of life-years (LY, 7.6) and quality-adjusted life-years (QALY, 5.62) compared with apalutamide (LY, 6.1; QALY, 4.59) and ADTs (LY, 4.9; QALY, 3.61). Enzalutamide incurred the most costs ($349,345) compared with apalutamide ($294,349) and ADT ($162,550). Sequential analysis showed that enzalutamide lies on the cost-effectiveness frontier with ADT alone (incremental cost-effectiveness ratio: $92,868/QALY), with apalutamide extendedly dominated through enzalutamide and ADT alone.\n\nLimitations include the heterogeneity of the studies included in the network meta-analysis and the validations for the treatment sequencing assumptions in the modeling.\n\nEnzalutamide was the most effective treatment option for mCSPC in the Canadian market, with the greatest LYs and QALYs, and incurred the most costs.",
+      "evidence_sentences": [
+        "There are no direct comparisons of the relative cost-effectiveness of second-generation anti-androgens (enzalutamide and apalutamide) used in managing metastatic castration-sensitive prostate cancer (mCSPC) in Canada.",
+        "This study compared the cost-effectiveness of enzalutamide versus apalutamide versus androgen deprivation therapy (ADT) alone (standard of care) in patients with mCSPC from the Canadian public payer perspective using a Markov model with a 15-year time horizon.",
+        "Limitations include the heterogeneity of the studies included in the network meta-analysis and the validations for the treatment sequencing assumptions in the modeling."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Fred Saad",
+        "Andrew Chilelli",
+        "Benny Hui",
+        "Sergey Muratov",
+        "Arijit Ganguli",
+        "Scott North",
+        "Bobby Shayegan"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35469527/"
+    },
+    {
+      "pmid": "41216639",
+      "title": "Darolutamide plus androgen-deprivation therapy in high-risk biochemical recurrence of prostate cancer (ARASTEP).",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [
+        "Patients with prostate cancer treated with radiotherapy (RT) or radical prostatectomy (RP) as primary therapy may develop biochemical recurrence (BCR), which requires effective treatment to delay disease progression. The ARASTEP study (NCT05794906) aims to determine whether the addition of darolutamide to androgen-deprivation therapy (ADT) improves radiologic progression-free survival (rPFS) using prostate-specific membrane antigen positron emission tomography/computed tomography (PSMA PET/CT) compared with placebo plus ADT in patients with high-risk BCR.Approximately 970 patients from 243 sites globally will receive either darolutamide 600 mg or placebo twice daily, both with ADT, for 24 months or until disease progression, unacceptable toxicity, or withdrawal of consent. Eligible patients will have been treated by primary RT or RP ± adjuvant RT (ART) or salvage RT (SRT), and present with high-risk BCR (prostate-specific antigen [PSA] doubling time <12 months and PSA ≥0.2 ng/mL after RP [± ART/SRT] or PSA ≥2 ng/mL above nadir after primary RT only), ≥1 PSMA PET/CT-positive lesion (negative on conventional imaging), serum testosterone >150 ng/dL, and Eastern Cooperative Oncology Group performance status 0/1. The primary endpoint is rPFS using PSMA PET/CT, with secondary endpoints including metastasis-free survival, time to castration-resistant prostate cancer, overall survival, quality of life, and safety.CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT05794906."
+      ],
+      "abstract": "Patients with prostate cancer treated with radiotherapy (RT) or radical prostatectomy (RP) as primary therapy may develop biochemical recurrence (BCR), which requires effective treatment to delay disease progression. The ARASTEP study (NCT05794906) aims to determine whether the addition of darolutamide to androgen-deprivation therapy (ADT) improves radiologic progression-free survival (rPFS) using prostate-specific membrane antigen positron emission tomography/computed tomography (PSMA PET/CT) compared with placebo plus ADT in patients with high-risk BCR.Approximately 970 patients from 243 sites globally will receive either darolutamide 600 mg or placebo twice daily, both with ADT, for 24 months or until disease progression, unacceptable toxicity, or withdrawal of consent. Eligible patients will have been treated by primary RT or RP ± adjuvant RT (ART) or salvage RT (SRT), and present with high-risk BCR (prostate-specific antigen [PSA] doubling time <12 months and PSA ≥0.2 ng/mL after RP [± ART/SRT] or PSA ≥2 ng/mL above nadir after primary RT only), ≥1 PSMA PET/CT-positive lesion (negative on conventional imaging), serum testosterone >150 ng/dL, and Eastern Cooperative Oncology Group performance status 0/1. The primary endpoint is rPFS using PSMA PET/CT, with secondary endpoints including metastasis-free survival, time to castration-resistant prostate cancer, overall survival, quality of life, and safety.CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT05794906.",
+      "evidence_sentences": [
+        "Patients with prostate cancer treated with radiotherapy (RT) or radical prostatectomy (RP) as primary therapy may develop biochemical recurrence (BCR), which requires effective treatment to delay disease progression.",
+        "The ARASTEP study (NCT05794906) aims to determine whether the addition of darolutamide to androgen-deprivation therapy (ADT) improves radiologic progression-free survival (rPFS) using prostate-specific membrane antigen positron emission tomography/computed tomography (PSMA PET/CT) compared with placebo plus ADT in patients with high-risk BCR.Approximately 970 patients from 243 sites globally will receive either darolutamide 600 mg or placebo twice daily, both with ADT, for 24 months or until disease progression, unacceptable toxicity, or withdrawal of consent.",
+        "The primary endpoint is rPFS using PSMA PET/CT, with secondary endpoints including metastasis-free survival, time to castration-resistant prostate cancer, overall survival, quality of life, and safety.CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT05794906."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Alicia K Morgans",
+        "Alex Chehrazi-Raffle",
+        "Tamim Niazi",
+        "Neal D Shore",
+        "Ashley E Ross",
+        "Andreas Røder",
+        "Andrea Juliana Gomes",
+        "Stephane Supiot",
+        "Philippe Barthélémy",
+        "Koji Hatano",
+        "Carmen Belen Congregado Ruiz",
+        "Soichiro Yoshida",
+        "Bernardo Herrera-Imbroda",
+        "Matthieu Gratton",
+        "Jürgen E Gschwend",
+        "Thomas A Hope",
+        "Heikki Joensuu",
+        "Iris Kuss",
+        "Marie-Aude Le Berre",
+        "Miryana Dimova-Dobreva",
+        "Karim Fizazi"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41216639/"
+    },
+    {
+      "pmid": "38392072",
+      "title": "Contemporary Systemic Therapy Intensification for Prostate Cancer: A Review for General Practitioners in Oncology.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "Prostate cancer accounts for a significant proportion of cancer diagnoses in Canadian men. Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes. Novel strategies use hormonal agents, chemotherapy, homologous recombination repair inhibitors, and radioligand therapy or combination strategies in addition to androgen deprivation therapy. In this review, we summarize the available data addressing key therapeutic areas along the disease continuum and focus on practical aspects for general practitioners in oncology managing patients with metastatic prostate cancer."
+      ],
+      "abstract": "Prostate cancer accounts for a significant proportion of cancer diagnoses in Canadian men. Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes. Novel strategies use hormonal agents, chemotherapy, homologous recombination repair inhibitors, and radioligand therapy or combination strategies in addition to androgen deprivation therapy. In this review, we summarize the available data addressing key therapeutic areas along the disease continuum and focus on practical aspects for general practitioners in oncology managing patients with metastatic prostate cancer.",
+      "evidence_sentences": [
+        "Over the past decade, the therapeutic landscape for the management of metastatic prostate cancer has undergone rapid changes.",
+        "In this review, we summarize the available data addressing key therapeutic areas along the disease continuum and focus on practical aspects for general practitioners in oncology managing patients with metastatic prostate cancer.",
+        "Prostate cancer accounts for a significant proportion of cancer diagnoses in Canadian men."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Anupam Batra",
+        "Daniel Glick",
+        "Mario Valdes"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38392072/"
+    },
+    {
+      "pmid": "35662659",
+      "title": "External beam radiation therapy treatment factors prognostic of biochemical failure free survival: A multi-institutional retrospective study for prostate cancer.",
+      "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+      "abstract_sections": [
+        "The goal of this work is to identify specific treatment planning and delivery features that are prognostic of biochemical failure-free survival (BFFS) for prostate cancer patients treated with external beam radiotherapy (EBRT).",
+        "This study reviewed patients diagnosed with localized prostate adenocarcinoma between 2005 and 2016, and treated with EBRT on a Varian linear accelerator at one of the four cancer centers in Alberta, Canada. BFFS was calculated using the Kaplan-Meier estimator. Patient demographics, tumor characteristics, and EBRT treatment planning and delivery factors, were collected for each patient. The patient cohort was split into a training dataset with patients from two centers and a validation dataset with patients from another two centers. A random survival forest was used to identify features associated with BFFS.",
+        "This study included 2827 patients with a median follow-up of 6.4 years. The BFFS for this cohort collectively was 84.9% at 5 years and 69.3% at 10 years. 2519 patients from two centers were used for model training and 308 patients from two different centers were used for model validation. The prognostic features were Gleason score, prostate-specific antigen (PSA) at diagnosis, clinical T stage, CTV D99, pelvic irradiation, IGRT frequency, and PTV V98. Variables including bladder volume, dose calculation algorithm, PTV D99, age at diagnosis, hip prosthesis, number of malignancies, fiducial marker usage, PTV volume, RT modality, PTV HI, rectal volume, hormone treatment, PTV D1cc, equivalent PTV margin, IGRT type, and EQD2_1.5 were unlikely to be prognostic. A random survival forest using only the seven prognostic variables was built. The Harrell's concordance index for the model was 0.65 for the whole training dataset, 0.62 for out-of-bag samples of the training dataset, and 0.62 for the validation dataset.",
+        "EBRT features prognostic of BFFS were identified and a random survival forest was developed for predicting prostate cancer patients' BFFS after EBRT."
+      ],
+      "abstract": "The goal of this work is to identify specific treatment planning and delivery features that are prognostic of biochemical failure-free survival (BFFS) for prostate cancer patients treated with external beam radiotherapy (EBRT).\n\nThis study reviewed patients diagnosed with localized prostate adenocarcinoma between 2005 and 2016, and treated with EBRT on a Varian linear accelerator at one of the four cancer centers in Alberta, Canada. BFFS was calculated using the Kaplan-Meier estimator. Patient demographics, tumor characteristics, and EBRT treatment planning and delivery factors, were collected for each patient. The patient cohort was split into a training dataset with patients from two centers and a validation dataset with patients from another two centers. A random survival forest was used to identify features associated with BFFS.\n\nThis study included 2827 patients with a median follow-up of 6.4 years. The BFFS for this cohort collectively was 84.9% at 5 years and 69.3% at 10 years. 2519 patients from two centers were used for model training and 308 patients from two different centers were used for model validation. The prognostic features were Gleason score, prostate-specific antigen (PSA) at diagnosis, clinical T stage, CTV D99, pelvic irradiation, IGRT frequency, and PTV V98. Variables including bladder volume, dose calculation algorithm, PTV D99, age at diagnosis, hip prosthesis, number of malignancies, fiducial marker usage, PTV volume, RT modality, PTV HI, rectal volume, hormone treatment, PTV D1cc, equivalent PTV margin, IGRT type, and EQD2_1.5 were unlikely to be prognostic. A random survival forest using only the seven prognostic variables was built. The Harrell's concordance index for the model was 0.65 for the whole training dataset, 0.62 for out-of-bag samples of the training dataset, and 0.62 for the validation dataset.\n\nEBRT features prognostic of BFFS were identified and a random survival forest was developed for predicting prostate cancer patients' BFFS after EBRT.",
+      "evidence_sentences": [
+        "The goal of this work is to identify specific treatment planning and delivery features that are prognostic of biochemical failure-free survival (BFFS) for prostate cancer patients treated with external beam radiotherapy (EBRT).",
+        "This study reviewed patients diagnosed with localized prostate adenocarcinoma between 2005 and 2016, and treated with EBRT on a Varian linear accelerator at one of the four cancer centers in Alberta, Canada.",
+        "EBRT features prognostic of BFFS were identified and a random survival forest was developed for predicting prostate cancer patients' BFFS after EBRT."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Lingyue Sun",
+        "Harvey Quon",
+        "Vicki Tran",
+        "Charles Kirkby",
+        "Wendy Smith"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35662659/"
+    },
+    {
+      "pmid": "1778180",
+      "title": "Endocrine therapy for prostate cancer.",
+      "journal": "Endocrinology and metabolism clinics of North America",
+      "abstract_sections": [
+        "Prostate cancer is the most frequent cancer in men. A discovery of major importance in the endocrinology of prostate cancer is that the testes contribute only 60% of total androgens in adult men; the remaining 40% are synthesized in peripheral tissues, including the normal and cancerous prostate, from inactive androgen precursors of adrenal origin. Using a combination therapy that includes a pure blocker of the androgen receptor or antiandrogen and castration (medical with luteinizing hormone-releasing hormone agonist or surgical by orchiectomy), the duration of response and survival have been demonstrated to be prolonged for the first time in advanced prostate cancer."
+      ],
+      "abstract": "Prostate cancer is the most frequent cancer in men. A discovery of major importance in the endocrinology of prostate cancer is that the testes contribute only 60% of total androgens in adult men; the remaining 40% are synthesized in peripheral tissues, including the normal and cancerous prostate, from inactive androgen precursors of adrenal origin. Using a combination therapy that includes a pure blocker of the androgen receptor or antiandrogen and castration (medical with luteinizing hormone-releasing hormone agonist or surgical by orchiectomy), the duration of response and survival have been demonstrated to be prolonged for the first time in advanced prostate cancer.",
+      "evidence_sentences": [
+        "Using a combination therapy that includes a pure blocker of the androgen receptor or antiandrogen and castration (medical with luteinizing hormone-releasing hormone agonist or surgical by orchiectomy), the duration of response and survival have been demonstrated to be prolonged for the first time in advanced prostate cancer.",
+        "A discovery of major importance in the endocrinology of prostate cancer is that the testes contribute only 60% of total androgens in adult men; the remaining 40% are synthesized in peripheral tissues, including the normal and cancerous prostate, from inactive androgen precursors of adrenal origin.",
+        "Prostate cancer is the most frequent cancer in men."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "F Labrie"
+      ],
+      "year": "1991",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/1778180/"
+    },
+    {
+      "pmid": "20842187",
+      "title": "Focal therapy in prostate cancer: modalities, findings and future considerations.",
+      "journal": "Nature reviews. Urology",
+      "abstract_sections": [
+        "Focal therapy is emerging as an alternative to active surveillance for the management of low-risk prostate cancer in carefully selected patients. The aim of focal therapy is long-term cancer control without the associated morbidity that plagues all radical therapies. Different energy modalities have been used to focally ablate cancer tissue, and available techniques include cryotherapy, laser ablation, high-intensity focused ultrasound and photodynamic therapy. The majority of evidence for focal therapy has come from case series and small phase I trials, and larger cohort studies with longer follow-up are only now being commenced. More data from large trials on the safety and efficacy of focal therapy are therefore required before this approach can be recommended in men with prostate cancer; in particular, studies must confirm that no viable cells remain in the region of ablation. Focal therapy might eventually prove to be a 'middle ground' between active surveillance and radical treatment, combining minimal morbidity with cancer control and the potential for re-treatment."
+      ],
+      "abstract": "Focal therapy is emerging as an alternative to active surveillance for the management of low-risk prostate cancer in carefully selected patients. The aim of focal therapy is long-term cancer control without the associated morbidity that plagues all radical therapies. Different energy modalities have been used to focally ablate cancer tissue, and available techniques include cryotherapy, laser ablation, high-intensity focused ultrasound and photodynamic therapy. The majority of evidence for focal therapy has come from case series and small phase I trials, and larger cohort studies with longer follow-up are only now being commenced. More data from large trials on the safety and efficacy of focal therapy are therefore required before this approach can be recommended in men with prostate cancer; in particular, studies must confirm that no viable cells remain in the region of ablation. Focal therapy might eventually prove to be a 'middle ground' between active surveillance and radical treatment, combining minimal morbidity with cancer control and the potential for re-treatment.",
+      "evidence_sentences": [
+        "Focal therapy is emerging as an alternative to active surveillance for the management of low-risk prostate cancer in carefully selected patients.",
+        "More data from large trials on the safety and efficacy of focal therapy are therefore required before this approach can be recommended in men with prostate cancer; in particular, studies must confirm that no viable cells remain in the region of ablation.",
+        "Focal therapy might eventually prove to be a 'middle ground' between active surveillance and radical treatment, combining minimal morbidity with cancer control and the potential for re-treatment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Uri Lindner",
+        "John Trachtenberg",
+        "Nathan Lawrentschuk"
+      ],
+      "year": "2010",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20842187/"
+    },
+    {
+      "pmid": "24710055",
+      "title": "Management of low risk prostate cancer: active surveillance and focal therapy.",
+      "journal": "Current opinion in urology",
+      "abstract_sections": [
+        "To summarize the current understanding of the natural history and molecular biology of low-risk prostate cancer, and review the indications for surveillance and focal therapy.",
+        "Low-risk prostate cancer, diagnosed in 40-50% of newly diagnosed men in a screened population, represents overdiagnosis in most cases. Gleason pattern 3 cells typically lack the molecular machinery and the genetic abnormalities, which characterize true cancers, with two important caveats. Thirty percent of patients diagnosed with low-risk prostate based on a systematic biopsy cancer harbor higher-grade cancer that is unrepresented on the biopsy. Secondly, a very small minority harbor prehistologic molecular alterations that result in progression to more aggressive disease. Favorable-risk prostate cancer is better viewed as one of multiple risk factors for the presence of higher-grade prostate cancer, and should be managed with close follow-up. Radical intervention should be reserved for clear evidence of more aggressive disease. Focal therapy should be offered to men with higher-risk disease either at baseline, as an alternative to whole gland radiation or surgery or when active surveillance 'fails' (the patient transitions from low risk to higher risk). The two strategies should be seen as complimentary elements of care that can be applied in a risk-stratified manner - taking account of patient preference - from the outset or in sequence",
+        "Active surveillance is appropriate for most men with low-risk prostate cancer, and focal therapy may complement active surveillance for those men wishing to continue a tissue-preserving strategy."
+      ],
+      "abstract": "To summarize the current understanding of the natural history and molecular biology of low-risk prostate cancer, and review the indications for surveillance and focal therapy.\n\nLow-risk prostate cancer, diagnosed in 40-50% of newly diagnosed men in a screened population, represents overdiagnosis in most cases. Gleason pattern 3 cells typically lack the molecular machinery and the genetic abnormalities, which characterize true cancers, with two important caveats. Thirty percent of patients diagnosed with low-risk prostate based on a systematic biopsy cancer harbor higher-grade cancer that is unrepresented on the biopsy. Secondly, a very small minority harbor prehistologic molecular alterations that result in progression to more aggressive disease. Favorable-risk prostate cancer is better viewed as one of multiple risk factors for the presence of higher-grade prostate cancer, and should be managed with close follow-up. Radical intervention should be reserved for clear evidence of more aggressive disease. Focal therapy should be offered to men with higher-risk disease either at baseline, as an alternative to whole gland radiation or surgery or when active surveillance 'fails' (the patient transitions from low risk to higher risk). The two strategies should be seen as complimentary elements of care that can be applied in a risk-stratified manner - taking account of patient preference - from the outset or in sequence\n\nActive surveillance is appropriate for most men with low-risk prostate cancer, and focal therapy may complement active surveillance for those men wishing to continue a tissue-preserving strategy.",
+      "evidence_sentences": [
+        "To summarize the current understanding of the natural history and molecular biology of low-risk prostate cancer, and review the indications for surveillance and focal therapy.",
+        "The two strategies should be seen as complimentary elements of care that can be applied in a risk-stratified manner - taking account of patient preference - from the outset or in sequence Active surveillance is appropriate for most men with low-risk prostate cancer, and focal therapy may complement active surveillance for those men wishing to continue a tissue-preserving strategy.",
+        "Favorable-risk prostate cancer is better viewed as one of multiple risk factors for the presence of higher-grade prostate cancer, and should be managed with close follow-up."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Laurence Klotz",
+        "Mark Emberton"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24710055/"
+    },
+    {
+      "pmid": "25061087",
+      "title": "Prostate cancer support groups: Canada-based specialists' perspectives.",
+      "journal": "American journal of men's health",
+      "abstract_sections": [
+        "To understand prostate cancer (PCa) specialists' views about prostate cancer support groups (PCSGs), a volunteer sample of Canada-based PCa specialists (n = 150), including urologists (n = 100), radiation oncologists (n = 40), and medical oncologists (n = 10) were surveyed. The 56-item questionnaire used in this study included six sets of attitudinal items to measure prostate cancer specialists' beliefs about positive and negative influences of PCSGs, reasons for attending PCSGs, the attributes of effective PCSGs, and the value of face-to-face and web-based PCSGs. In addition, an open-ended question was included to invite additional input from participants. Results showed that PCSGs were positively valued, particularly for information sharing, education and psychosocial support. Inclusivity, privacy, and accessibility were identified as potential barriers, and recommendations were made for better marketing PCSGs to increase engagement. Findings suggest prostate cancer specialists highly valued the role and potential benefits of face-to-face PCSGs. Information provision and an educational role were perceived as key benefits. Some concerns were expressed about the ability of web-based PCSGs to effectively engage and educate men who experience prostate cancer."
+      ],
+      "abstract": "To understand prostate cancer (PCa) specialists' views about prostate cancer support groups (PCSGs), a volunteer sample of Canada-based PCa specialists (n = 150), including urologists (n = 100), radiation oncologists (n = 40), and medical oncologists (n = 10) were surveyed. The 56-item questionnaire used in this study included six sets of attitudinal items to measure prostate cancer specialists' beliefs about positive and negative influences of PCSGs, reasons for attending PCSGs, the attributes of effective PCSGs, and the value of face-to-face and web-based PCSGs. In addition, an open-ended question was included to invite additional input from participants. Results showed that PCSGs were positively valued, particularly for information sharing, education and psychosocial support. Inclusivity, privacy, and accessibility were identified as potential barriers, and recommendations were made for better marketing PCSGs to increase engagement. Findings suggest prostate cancer specialists highly valued the role and potential benefits of face-to-face PCSGs. Information provision and an educational role were perceived as key benefits. Some concerns were expressed about the ability of web-based PCSGs to effectively engage and educate men who experience prostate cancer.",
+      "evidence_sentences": [
+        "To understand prostate cancer (PCa) specialists' views about prostate cancer support groups (PCSGs), a volunteer sample of Canada-based PCa specialists (n = 150), including urologists (n = 100), radiation oncologists (n = 40), and medical oncologists (n = 10) were surveyed.",
+        "The 56-item questionnaire used in this study included six sets of attitudinal items to measure prostate cancer specialists' beliefs about positive and negative influences of PCSGs, reasons for attending PCSGs, the attributes of effective PCSGs, and the value of face-to-face and web-based PCSGs.",
+        "Some concerns were expressed about the ability of web-based PCSGs to effectively engage and educate men who experience prostate cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "John L Oliffe",
+        "Suzanne Chambers",
+        "Bernie Garrett",
+        "Joan L Bottorff",
+        "Michael McKenzie",
+        "Christina S Han",
+        "John S Ogrodniczuk"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25061087/"
+    },
+    {
+      "pmid": "30642810",
+      "title": "What Is Oligometastatic Prostate Cancer?",
+      "journal": "European urology focus",
+      "abstract_sections": [
+        "Advanced prostate cancer patients can present with both widely metastatic or oligometastatic disease. Accumulating clinical evidence suggests that patients with oligometastatic disease have improved clinical responses from metastasis-directed therapy. This suggests that tumours that give rise to the oligometastatic state are distinct biologically and genetically from those that induce widely metastatic lesions. Detailed genomic analysis of the oligometastatic state will identify the molecular events that distinguish localised from metastatic disease, defining the molecular signatures of curability. The GAP6 consortium is well poised to address this question. PATIENT SUMMARY: In this report, we have reviewed the evidence that prostate cancer patients with only a small number of distant tumour deposits have cancers that are driven by genetic and biological changes, which are distinct from those tumours that readily spread to many distant sites. So far, the evidence is not clear cut; however, in-depth studies to answer this question are underway."
+      ],
+      "abstract": "Advanced prostate cancer patients can present with both widely metastatic or oligometastatic disease. Accumulating clinical evidence suggests that patients with oligometastatic disease have improved clinical responses from metastasis-directed therapy. This suggests that tumours that give rise to the oligometastatic state are distinct biologically and genetically from those that induce widely metastatic lesions. Detailed genomic analysis of the oligometastatic state will identify the molecular events that distinguish localised from metastatic disease, defining the molecular signatures of curability. The GAP6 consortium is well poised to address this question. PATIENT SUMMARY: In this report, we have reviewed the evidence that prostate cancer patients with only a small number of distant tumour deposits have cancers that are driven by genetic and biological changes, which are distinct from those tumours that readily spread to many distant sites. So far, the evidence is not clear cut; however, in-depth studies to answer this question are underway.",
+      "evidence_sentences": [
+        "PATIENT SUMMARY: In this report, we have reviewed the evidence that prostate cancer patients with only a small number of distant tumour deposits have cancers that are driven by genetic and biological changes, which are distinct from those tumours that readily spread to many distant sites.",
+        "Advanced prostate cancer patients can present with both widely metastatic or oligometastatic disease.",
+        "Accumulating clinical evidence suggests that patients with oligometastatic disease have improved clinical responses from metastasis-directed therapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Michael Fraser",
+        "Bridget Koontz",
+        "Urban Emmenegger",
+        "Gert De Meerleer",
+        "Vincent Khoo",
+        "Felix Feng",
+        "Niall M Corcoran",
+        "Christopher M Hovens",
+        "Phuoc T Tran",
+        "Piet Ost",
+        "Paul C Boutros",
+        "GAP6 Consortium"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30642810/"
+    },
+    {
+      "pmid": "30573316",
+      "title": "Pelvic Complications After Prostate Cancer Radiation Therapy and Their Management: An International Collaborative Narrative Review.",
+      "journal": "European urology",
+      "abstract_sections": [
+        "Radiotherapy used for treating localized prostate cancer is effective at prolonging cancer-specific and overall survival. Still, acute and late pelvic toxicities are a concern, with gastrointestinal (GI) and genitourinary (GU) sequelae being most common as well as other pelvic complications.",
+        "To present a critical review of the literature regarding the incidence and risk factors of pelvic toxicity following primary radiotherapy for prostate cancer and to provide a narrative review regarding its management.",
+        "A collaborative narrative review of the literature from 2010 to present was conducted.",
+        "Regardless of the modality used, the incidence of acute high-grade pelvic toxicity is low following conventionally fractionated external beam radiotherapy (EBRT). After moderate hypofractionation, the crude cumulative incidences for late grade 3 or higher (G3+) GI and GU complications are as high as 6% and 7%, respectively. After extreme hypofractionation, the 5-yr incidences of G2+ GU and GI toxicities are 3-9% and 0-4%, respectively. Following brachytherapy monotherapy, crude rates of late G3+ GU toxicity range from 6% to 8%, while late GI toxicity is rare. With combination therapy (EBRT and brachytherapy), the cumulative incidence of late GU toxicity is high, between 18% and 31%; however, the prevalence is lower at 4-14%. Whole pelvic radiotherapy remains a controversial treatment option as there is increased G3+ GI toxicity compared with prostate-only treatment, with no overall survival benefit. Proton beam therapy appears to have similar toxicity to photon therapies currently in use. With respect to specific complications, urinary obstruction and urethral stricture are the most common severe urinary toxicities. Rectal and urinary bleeding can be recurrent long-term toxicities. The risk of hip fracture is also increased following prostate radiotherapy. The literature is mixed on the risk of in-field secondary pelvic malignancies following prostate radiotherapy. Urinary and GI fistulas are rare complications. Management of these toxicities may require invasive treatment and reconstructive surgery for refractory and severe symptoms.",
+        "There has been progress in the delivery of radiotherapy, enabling the administration of higher doses with minimal tradeoff in terms of slightly increased or equal toxicity. There is a need to focus future improvements in radiotherapy on sparing critical structures to reduce GU and GI morbidities. While complications such as fistulae, bone toxicity, and secondary malignancy are rare, there is a need for higher-quality studies assessing these outcomes and their management.",
+        "In this report, we review the literature regarding pelvic complications following modern primary prostate cancer radiotherapy and their management. Modern radiotherapy technologies have enabled the administration of higher doses with minimal increases in toxicity. Overall, high-grade long-term toxicity following prostate radiotherapy is uncommon. Management of late high-grade pelvic toxicities can be challenging, with patients often requiring invasive therapies for refractory cases."
+      ],
+      "abstract": "Radiotherapy used for treating localized prostate cancer is effective at prolonging cancer-specific and overall survival. Still, acute and late pelvic toxicities are a concern, with gastrointestinal (GI) and genitourinary (GU) sequelae being most common as well as other pelvic complications.\n\nTo present a critical review of the literature regarding the incidence and risk factors of pelvic toxicity following primary radiotherapy for prostate cancer and to provide a narrative review regarding its management.\n\nA collaborative narrative review of the literature from 2010 to present was conducted.\n\nRegardless of the modality used, the incidence of acute high-grade pelvic toxicity is low following conventionally fractionated external beam radiotherapy (EBRT). After moderate hypofractionation, the crude cumulative incidences for late grade 3 or higher (G3+) GI and GU complications are as high as 6% and 7%, respectively. After extreme hypofractionation, the 5-yr incidences of G2+ GU and GI toxicities are 3-9% and 0-4%, respectively. Following brachytherapy monotherapy, crude rates of late G3+ GU toxicity range from 6% to 8%, while late GI toxicity is rare. With combination therapy (EBRT and brachytherapy), the cumulative incidence of late GU toxicity is high, between 18% and 31%; however, the prevalence is lower at 4-14%. Whole pelvic radiotherapy remains a controversial treatment option as there is increased G3+ GI toxicity compared with prostate-only treatment, with no overall survival benefit. Proton beam therapy appears to have similar toxicity to photon therapies currently in use. With respect to specific complications, urinary obstruction and urethral stricture are the most common severe urinary toxicities. Rectal and urinary bleeding can be recurrent long-term toxicities. The risk of hip fracture is also increased following prostate radiotherapy. The literature is mixed on the risk of in-field secondary pelvic malignancies following prostate radiotherapy. Urinary and GI fistulas are rare complications. Management of these toxicities may require invasive treatment and reconstructive surgery for refractory and severe symptoms.\n\nThere has been progress in the delivery of radiotherapy, enabling the administration of higher doses with minimal tradeoff in terms of slightly increased or equal toxicity. There is a need to focus future improvements in radiotherapy on sparing critical structures to reduce GU and GI morbidities. While complications such as fistulae, bone toxicity, and secondary malignancy are rare, there is a need for higher-quality studies assessing these outcomes and their management.\n\nIn this report, we review the literature regarding pelvic complications following modern primary prostate cancer radiotherapy and their management. Modern radiotherapy technologies have enabled the administration of higher doses with minimal increases in toxicity. Overall, high-grade long-term toxicity following prostate radiotherapy is uncommon. Management of late high-grade pelvic toxicities can be challenging, with patients often requiring invasive therapies for refractory cases.",
+      "evidence_sentences": [
+        "To present a critical review of the literature regarding the incidence and risk factors of pelvic toxicity following primary radiotherapy for prostate cancer and to provide a narrative review regarding its management.",
+        "In this report, we review the literature regarding pelvic complications following modern primary prostate cancer radiotherapy and their management.",
+        "Whole pelvic radiotherapy remains a controversial treatment option as there is increased G3+ GI toxicity compared with prostate-only treatment, with no overall survival benefit."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Rano Matta",
+        "Christopher R Chapple",
+        "Margit Fisch",
+        "Axel Heidenreich",
+        "Sender Herschorn",
+        "Ronald T Kodama",
+        "Bridget F Koontz",
+        "Declan G Murphy",
+        "Paul L Nguyen",
+        "Robert K Nam"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30573316/"
+    },
+    {
+      "pmid": "26313417",
+      "title": "The role of clusterin in prostate cancer: treatment resistance and potential as a therapeutic target.",
+      "journal": "Expert review of anticancer therapy",
+      "abstract_sections": [
+        "Resistance to cancer treatment can arise through multiple mechanisms and negatively impacts on progression rates and survival times. New therapies targeting pathways underlying resistance would improve treatment outcomes and be of particular value in the treatment of prostate cancer, many of whom develop tumors refractory to radiation, hormonal therapy and chemotherapy regimens. The improved understanding of metastatic castration resistant prostate cancer progression mechanisms has broadened the therapeutic window by unveiling multiple molecular targets. Several approaches are being investigated to overcome resistance in prostate cancer, including the use of novel taxanes and tubulin inhibitors, and the inhibition of cell survival pathways. This review focuses on clusterin, a small heat-shock-like protein that is overexpressed in many types of solid tumors; we summarize the preclinical and clinical evidence supporting the rationale for targeting clusterin as a means to resensitize prostate tumors to radiation and chemotherapy agents."
+      ],
+      "abstract": "Resistance to cancer treatment can arise through multiple mechanisms and negatively impacts on progression rates and survival times. New therapies targeting pathways underlying resistance would improve treatment outcomes and be of particular value in the treatment of prostate cancer, many of whom develop tumors refractory to radiation, hormonal therapy and chemotherapy regimens. The improved understanding of metastatic castration resistant prostate cancer progression mechanisms has broadened the therapeutic window by unveiling multiple molecular targets. Several approaches are being investigated to overcome resistance in prostate cancer, including the use of novel taxanes and tubulin inhibitors, and the inhibition of cell survival pathways. This review focuses on clusterin, a small heat-shock-like protein that is overexpressed in many types of solid tumors; we summarize the preclinical and clinical evidence supporting the rationale for targeting clusterin as a means to resensitize prostate tumors to radiation and chemotherapy agents.",
+      "evidence_sentences": [
+        "New therapies targeting pathways underlying resistance would improve treatment outcomes and be of particular value in the treatment of prostate cancer, many of whom develop tumors refractory to radiation, hormonal therapy and chemotherapy regimens.",
+        "This review focuses on clusterin, a small heat-shock-like protein that is overexpressed in many types of solid tumors; we summarize the preclinical and clinical evidence supporting the rationale for targeting clusterin as a means to resensitize prostate tumors to radiation and chemotherapy agents.",
+        "Resistance to cancer treatment can arise through multiple mechanisms and negatively impacts on progression rates and survival times."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Lateef A Muhammad",
+        "Fred Saad"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26313417/"
+    },
+    {
+      "pmid": "36397730",
+      "title": "A population-based study of factors associated with systemic treatment in advanced prostate cancer decedents.",
+      "journal": "Cancer medicine",
+      "abstract_sections": [
+        "Life-prolonging therapies (LPTs) are rapidly evolving for the treatment of advanced prostate cancer, although factors associated with real-world uptake are not well characterized.",
+        "In this cohort of prostate-cancer decedents, we analyzed factors associated with LPT access. Population-level databases from Ontario, Canada identified patients 65 years or older with prostate cancer receiving androgen deprivation therapy and who died of prostate cancer between 2013 and 2017. Univariate and multivariable analyses assessed the association between baseline characteristics and receipt of LPT in the 2 years prior to death.",
+        "Of 3575 patients who died of prostate cancer, 40.4% (n = 1443) received LPT, which comprised abiraterone (66.3%), docetaxel (50.3%), enzalutamide (17.2%), radium-223 (10.0%), and/or cabazitaxel (3.5%). Use of LPT increased by year of death (2013: 22.7%, 2014: 31.8%, 2015: 41.8%, 2016: 49.1%, and 2017: 57.9%, p < 0.0001), driven by uptake of all agents except docetaxel. Adjusted odds of use were higher for patients seen at Regional Cancer Centers (OR: 1.8, 95% CI: 1.5-2.1) and who received prior prostate-directed therapy (OR: 1.3, 95% CI: 1.0-1.5), but lower with advanced age (≥85: OR: 0.54, 95% CI:0.39-0.75), increased chronic conditions (≥6: OR: 0.62, 95% CI: 0.43-0.92), and long-term care residency (OR: 0.38, 95% CI: 0.17-0.89). Income, stage at presentation, and distance to the cancer center were not associated with LPT uptake.",
+        "In this cohort of prostate cancer-decedents, real-world uptake of novel prostate cancer therapies occurred at substantially higher rates for patients receiving care at Regional Cancer Centers, reinforcing the potential benefits for treatment access for patients referred to specialist centers."
+      ],
+      "abstract": "Life-prolonging therapies (LPTs) are rapidly evolving for the treatment of advanced prostate cancer, although factors associated with real-world uptake are not well characterized.\n\nIn this cohort of prostate-cancer decedents, we analyzed factors associated with LPT access. Population-level databases from Ontario, Canada identified patients 65 years or older with prostate cancer receiving androgen deprivation therapy and who died of prostate cancer between 2013 and 2017. Univariate and multivariable analyses assessed the association between baseline characteristics and receipt of LPT in the 2 years prior to death.\n\nOf 3575 patients who died of prostate cancer, 40.4% (n = 1443) received LPT, which comprised abiraterone (66.3%), docetaxel (50.3%), enzalutamide (17.2%), radium-223 (10.0%), and/or cabazitaxel (3.5%). Use of LPT increased by year of death (2013: 22.7%, 2014: 31.8%, 2015: 41.8%, 2016: 49.1%, and 2017: 57.9%, p < 0.0001), driven by uptake of all agents except docetaxel. Adjusted odds of use were higher for patients seen at Regional Cancer Centers (OR: 1.8, 95% CI: 1.5-2.1) and who received prior prostate-directed therapy (OR: 1.3, 95% CI: 1.0-1.5), but lower with advanced age (≥85: OR: 0.54, 95% CI:0.39-0.75), increased chronic conditions (≥6: OR: 0.62, 95% CI: 0.43-0.92), and long-term care residency (OR: 0.38, 95% CI: 0.17-0.89). Income, stage at presentation, and distance to the cancer center were not associated with LPT uptake.\n\nIn this cohort of prostate cancer-decedents, real-world uptake of novel prostate cancer therapies occurred at substantially higher rates for patients receiving care at Regional Cancer Centers, reinforcing the potential benefits for treatment access for patients referred to specialist centers.",
+      "evidence_sentences": [
+        "Population-level databases from Ontario, Canada identified patients 65 years or older with prostate cancer receiving androgen deprivation therapy and who died of prostate cancer between 2013 and 2017.",
+        "In this cohort of prostate cancer-decedents, real-world uptake of novel prostate cancer therapies occurred at substantially higher rates for patients receiving care at Regional Cancer Centers, reinforcing the potential benefits for treatment access for patients referred to specialist centers.",
+        "Life-prolonging therapies (LPTs) are rapidly evolving for the treatment of advanced prostate cancer, although factors associated with real-world uptake are not well characterized."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Jennifer Leigh",
+        "Danial Qureshi",
+        "Ewa Sucha",
+        "Roshanak Mahdavi",
+        "Igal Kushnir",
+        "Luke T Lavallée",
+        "Dominick Bosse",
+        "Colleen Webber",
+        "Peter Tanuseputro",
+        "Michael Ong"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36397730/"
+    },
+    {
+      "pmid": "31698174",
+      "title": "Androgen receptor plasticity and its implications for prostate cancer therapy.",
+      "journal": "Cancer treatment reviews",
+      "abstract_sections": [
+        "Acquired resistance to a drug treatment is a common problem across many cancers including prostate cancer (PCa) - one of the major factors for male mortality. The androgen receptor (AR) continues to be the main therapeutic PCa target and despite the success of modern targeted therapies such as enzalutamide, resistance to these drugs eventually develops. The AR has found many ways to adapt to treatments including overexpression and production of functional, constitutively active splice variants. However, of particular importance are point mutations in the ligand binding domain of the protein that convert anti-androgens into potent AR agonists. This mechanism appears to be especially prevalent with the AR in spite of some distant similarities to other hormone nuclear receptors. Despite the AR being one of the most studied and attended targets in cancer, those gain-of-function mutations in the receptor remain a significant challenge for the development of PCa therapies. This drives the need to fully characterize such mutations and to consistently screen PCa patients for their occurrence to prevent adverse reactions to anti-androgen drugs. Novel treatments should also be developed to overcome this resistance mechanism and more attention should be given to the possibility of similar occurrences in other cancers."
+      ],
+      "abstract": "Acquired resistance to a drug treatment is a common problem across many cancers including prostate cancer (PCa) - one of the major factors for male mortality. The androgen receptor (AR) continues to be the main therapeutic PCa target and despite the success of modern targeted therapies such as enzalutamide, resistance to these drugs eventually develops. The AR has found many ways to adapt to treatments including overexpression and production of functional, constitutively active splice variants. However, of particular importance are point mutations in the ligand binding domain of the protein that convert anti-androgens into potent AR agonists. This mechanism appears to be especially prevalent with the AR in spite of some distant similarities to other hormone nuclear receptors. Despite the AR being one of the most studied and attended targets in cancer, those gain-of-function mutations in the receptor remain a significant challenge for the development of PCa therapies. This drives the need to fully characterize such mutations and to consistently screen PCa patients for their occurrence to prevent adverse reactions to anti-androgen drugs. Novel treatments should also be developed to overcome this resistance mechanism and more attention should be given to the possibility of similar occurrences in other cancers.",
+      "evidence_sentences": [
+        "Acquired resistance to a drug treatment is a common problem across many cancers including prostate cancer (PCa) - one of the major factors for male mortality.",
+        "Novel treatments should also be developed to overcome this resistance mechanism and more attention should be given to the possibility of similar occurrences in other cancers.",
+        "The AR has found many ways to adapt to treatments including overexpression and production of functional, constitutively active splice variants."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Oliver Snow",
+        "Nada Lallous",
+        "Kriti Singh",
+        "Nathan Lack",
+        "Paul Rennie",
+        "Artem Cherkasov"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31698174/"
+    },
+    {
+      "pmid": "35877260",
+      "title": "Emerging Biomarker-Guided Therapies in Prostate Cancer.",
+      "journal": "Current oncology (Toronto, Ont.)",
+      "abstract_sections": [
+        "Prostate cancer remains one of the leading causes of cancer death in men worldwide. In the past decade, several new treatments for advanced prostate cancer have been approved. With a wide variety of available drugs, including cytotoxic agents, androgen receptor axis-targeted therapies, and alpha-emitting radiation therapy, identifying their optimal sequencing remains a challenge. Progress in the understanding of the biology of prostate cancer has provided an opportunity for a more refined and personalized treatment selection process. With the advancement of molecular sequencing techniques, genomic precision through the identification of potential treatment targets and predictive biomarkers has been rapidly evolving. In this review, we discussed biomarker-driven treatments for advanced prostate cancer. First, we presented predictive biomarkers for established, global standard treatments for advanced diseases, such as chemotherapy and androgen receptor axis-targeted agents. We also discussed targeted agents with recent approval for special populations, such as poly ADP ribose polymerase (PARP) inhibitors in patients with metastatic castrate-resistant prostate cancer with homologous recombination repair-deficient tumors, pembrolizumab in patients with high levels of microsatellite instability or high tumor mutational burden, and prostate-specific membrane antigen (PSMA) directed radioligand theragnostic treatment for PSMA expressing tumors. Additionally, we discussed evolving treatments, such as cancer vaccines, chimeric antigen receptor T-cells (CAR-T), Bispecific T-cell engagers (BiTEs), other targeted agents such as AKT inhibitors, and various combination treatments. In summary, advances in molecular genetics have begun to propel personalized medicine forward in the management of advanced prostate cancer, allowing for a more precise, biomarker-driven treatment selection with the goal of improving overall efficacy."
+      ],
+      "abstract": "Prostate cancer remains one of the leading causes of cancer death in men worldwide. In the past decade, several new treatments for advanced prostate cancer have been approved. With a wide variety of available drugs, including cytotoxic agents, androgen receptor axis-targeted therapies, and alpha-emitting radiation therapy, identifying their optimal sequencing remains a challenge. Progress in the understanding of the biology of prostate cancer has provided an opportunity for a more refined and personalized treatment selection process. With the advancement of molecular sequencing techniques, genomic precision through the identification of potential treatment targets and predictive biomarkers has been rapidly evolving. In this review, we discussed biomarker-driven treatments for advanced prostate cancer. First, we presented predictive biomarkers for established, global standard treatments for advanced diseases, such as chemotherapy and androgen receptor axis-targeted agents. We also discussed targeted agents with recent approval for special populations, such as poly ADP ribose polymerase (PARP) inhibitors in patients with metastatic castrate-resistant prostate cancer with homologous recombination repair-deficient tumors, pembrolizumab in patients with high levels of microsatellite instability or high tumor mutational burden, and prostate-specific membrane antigen (PSMA) directed radioligand theragnostic treatment for PSMA expressing tumors. Additionally, we discussed evolving treatments, such as cancer vaccines, chimeric antigen receptor T-cells (CAR-T), Bispecific T-cell engagers (BiTEs), other targeted agents such as AKT inhibitors, and various combination treatments. In summary, advances in molecular genetics have begun to propel personalized medicine forward in the management of advanced prostate cancer, allowing for a more precise, biomarker-driven treatment selection with the goal of improving overall efficacy.",
+      "evidence_sentences": [
+        "In summary, advances in molecular genetics have begun to propel personalized medicine forward in the management of advanced prostate cancer, allowing for a more precise, biomarker-driven treatment selection with the goal of improving overall efficacy.",
+        "We also discussed targeted agents with recent approval for special populations, such as poly ADP ribose polymerase (PARP) inhibitors in patients with metastatic castrate-resistant prostate cancer with homologous recombination repair-deficient tumors, pembrolizumab in patients with high levels of microsatellite instability or high tumor mutational burden, and prostate-specific membrane antigen (PSMA) directed radioligand theragnostic treatment for PSMA expressing tumors.",
+        "Progress in the understanding of the biology of prostate cancer has provided an opportunity for a more refined and personalized treatment selection process."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Jasna E Deluce",
+        "Luisa Cardenas",
+        "Aly-Khan Lalani",
+        "Saman Maleki Vareki",
+        "Ricardo Fernandes"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35877260/"
+    },
+    {
+      "pmid": "24336537",
+      "title": "Treatment options for localized prostate cancer.",
+      "journal": "Canadian family physician Medecin de famille canadien",
+      "abstract_sections": [
+        "To describe treatment options for clinically localized prostate cancer: radical prostatectomy, prostate brachytherapy, external beam radiation, and active surveillance.",
+        "Prostate-specific antigen (PSA) outcomes presented are from non-randomized, cohort, and other comparisons trials (level II evidence). We describe PSA outcomes from Canadian centres when they are available. One small randomized controlled trial (level I evidence) in localized prostate cancer is available to compare radical prostatectomy with brachytherapy.",
+        "Treatment choice in prostate cancer is based on initial PSA level, clinical stage of disease, and Gleason score, together with baseline urinary function, comorbidities, and patient age. In this article, we describe patients' eligibility for and the common side effects of all treatment options. Prostate brachytherapy and active surveillance have evolved as new standard treatments of localized prostate cancer. We give a brief overview of the brachytherapy procedure, side effects, and PSA outcomes across Canada, as well as active surveillance guidelines.",
+        "Prostate cancer treatment requires a multidisciplinary approach, with input from both urology and radiation oncology. Input from family physicians is often as important in helping guide patients through the treatment decision process."
+      ],
+      "abstract": "To describe treatment options for clinically localized prostate cancer: radical prostatectomy, prostate brachytherapy, external beam radiation, and active surveillance.\n\nProstate-specific antigen (PSA) outcomes presented are from non-randomized, cohort, and other comparisons trials (level II evidence). We describe PSA outcomes from Canadian centres when they are available. One small randomized controlled trial (level I evidence) in localized prostate cancer is available to compare radical prostatectomy with brachytherapy.\n\nTreatment choice in prostate cancer is based on initial PSA level, clinical stage of disease, and Gleason score, together with baseline urinary function, comorbidities, and patient age. In this article, we describe patients' eligibility for and the common side effects of all treatment options. Prostate brachytherapy and active surveillance have evolved as new standard treatments of localized prostate cancer. We give a brief overview of the brachytherapy procedure, side effects, and PSA outcomes across Canada, as well as active surveillance guidelines.\n\nProstate cancer treatment requires a multidisciplinary approach, with input from both urology and radiation oncology. Input from family physicians is often as important in helping guide patients through the treatment decision process.",
+      "evidence_sentences": [
+        "To describe treatment options for clinically localized prostate cancer: radical prostatectomy, prostate brachytherapy, external beam radiation, and active surveillance.",
+        "Prostate brachytherapy and active surveillance have evolved as new standard treatments of localized prostate cancer.",
+        "Treatment choice in prostate cancer is based on initial PSA level, clinical stage of disease, and Gleason score, together with baseline urinary function, comorbidities, and patient age."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Mira Keyes",
+        "Juanita Crook",
+        "Gerard Morton",
+        "Eric Vigneault",
+        "Nawaid Usmani",
+        "W James Morris"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24336537/"
+    },
+    {
+      "pmid": "16060176",
+      "title": "What happened? Sexual consequences of prostate cancer and its treatment.",
+      "journal": "Canadian family physician Medecin de famille canadien",
+      "abstract_sections": [
+        "To describe the sexual consequences of prostate cancer and its treatments (prostatectomy, external beam radiation, brachytherapy, androgen deprivation therapy) and to suggest treatments for sexual side effects of these therapies.",
+        "Most studies of the sexual consequences of prostate cancer treatments and studies of therapy for these side effects provide level II evidence.",
+        "Diagnosis of prostate cancer in itself can cause sexual dysfunction. All forms of treatment for this cancer cause serious sexual problems for men. Treatments for the erectile dysfunction that results have varying success rates. Prostatectomy has been shown to cause erectile dysfunction in 30% to 98% of men, depending on whether both, one, or neither nerve bundles was spared. Radiation therapy results in erectile dysfunction in more than 70% of those treated; brachytherapy produces the least amount of sexual deficit. Hormone ablation therapy has serious consequences: more than 80% of men report loss of erections at 1 year after therapy in addition to profound loss of libido.",
+        "Family physicians are ideally placed to provide anticipatory guidance to men with prostate cancer on the sexual consequences of both the cancer and its treatments. Family physicians can also assist men and their partners in managing these sexual side effects."
+      ],
+      "abstract": "To describe the sexual consequences of prostate cancer and its treatments (prostatectomy, external beam radiation, brachytherapy, androgen deprivation therapy) and to suggest treatments for sexual side effects of these therapies.\n\nMost studies of the sexual consequences of prostate cancer treatments and studies of therapy for these side effects provide level II evidence.\n\nDiagnosis of prostate cancer in itself can cause sexual dysfunction. All forms of treatment for this cancer cause serious sexual problems for men. Treatments for the erectile dysfunction that results have varying success rates. Prostatectomy has been shown to cause erectile dysfunction in 30% to 98% of men, depending on whether both, one, or neither nerve bundles was spared. Radiation therapy results in erectile dysfunction in more than 70% of those treated; brachytherapy produces the least amount of sexual deficit. Hormone ablation therapy has serious consequences: more than 80% of men report loss of erections at 1 year after therapy in addition to profound loss of libido.\n\nFamily physicians are ideally placed to provide anticipatory guidance to men with prostate cancer on the sexual consequences of both the cancer and its treatments. Family physicians can also assist men and their partners in managing these sexual side effects.",
+      "evidence_sentences": [
+        "To describe the sexual consequences of prostate cancer and its treatments (prostatectomy, external beam radiation, brachytherapy, androgen deprivation therapy) and to suggest treatments for sexual side effects of these therapies.",
+        "Most studies of the sexual consequences of prostate cancer treatments and studies of therapy for these side effects provide level II evidence.",
+        "Family physicians are ideally placed to provide anticipatory guidance to men with prostate cancer on the sexual consequences of both the cancer and its treatments."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "cancer",
+        "prostate",
+        "treatment",
+        "therapy",
+        "management",
+        "canada"
+      ],
+      "authors": [
+        "Anne Katz"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16060176/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "7965",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38261043",
+        "40907514",
+        "39306478",
+        "40397306",
+        "39643549",
+        "40126447",
+        "40759791",
+        "29297495",
+        "38814624",
+        "25512465",
+        "38132369",
+        "28142149",
+        "31540791",
+        "31412013",
+        "35469527",
+        "41216639",
+        "38392072",
+        "35662659",
+        "1778180",
+        "20842187",
+        "24710055",
+        "25061087",
+        "30642810",
+        "30573316",
+        "26313417",
+        "36397730",
+        "31698174",
+        "35877260",
+        "24336537",
+        "16060176"
+      ],
+      "translationset": [
+        {
+          "from": "cancer",
+          "to": "\"cancer's\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]"
+        },
+        {
+          "from": "prostate cancer",
+          "to": "\"prostatic neoplasms\"[MeSH Terms] OR (\"prostatic\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"prostatic neoplasms\"[All Fields] OR (\"prostate\"[All Fields] AND \"cancer\"[All Fields]) OR \"prostate cancer\"[All Fields]"
+        },
+        {
+          "from": "treatment",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment's\"[All Fields]"
+        },
+        {
+          "from": "therapy",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"therapy's\"[All Fields] OR \"therapys\"[All Fields]"
+        },
+        {
+          "from": "canada",
+          "to": "\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada's\"[All Fields] OR \"canadas\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]) AND (\"prostatic neoplasms\"[MeSH Terms] OR (\"prostatic\"[All Fields] AND \"neoplasms\"[All Fields]) OR \"prostatic neoplasms\"[All Fields] OR (\"prostate\"[All Fields] AND \"cancer\"[All Fields]) OR \"prostate cancer\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"therapy s\"[All Fields] OR \"therapys\"[All Fields]) AND (\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada s\"[All Fields] OR \"canadas\"[All Fields])"
+    }
+  }
+}

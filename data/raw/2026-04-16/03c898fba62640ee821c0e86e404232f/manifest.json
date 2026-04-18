@@ -1,0 +1,41 @@
+{
+  "run_id": "03c898fba62640ee821c0e86e404232f",
+  "stored_at": "2026-04-16T10:34:54+00:00",
+  "query": "hiv infections kenya kisumu",
+  "query_fallbacks": [
+    "hiv infections kenya kisumu",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv kenya kisumu",
+    "hiv"
+  ],
+  "keywords": [
+    "hiv",
+    "infections",
+    "kenya",
+    "kisumu"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 60,
+    "clinicaltrials": 60,
+    "openalex": 0,
+    "semantic_hits": 69,
+    "indexed_chunks": 348
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03c898fba62640ee821c0e86e404232f\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03c898fba62640ee821c0e86e404232f\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03c898fba62640ee821c0e86e404232f\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\03c898fba62640ee821c0e86e404232f\\combined.records.json"
+  }
+}

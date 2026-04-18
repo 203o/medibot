@@ -1,0 +1,77 @@
+{
+  "run_id": "8e7e2676067f4dc5979e88ef25a37105",
+  "stored_at": "2026-04-17T18:57:12+00:00",
+  "query": "cancer check there evidence that canada",
+  "query_fallbacks": [
+    "cancer check there evidence that canada",
+    "(cancer AND epidemiology AND Canada)",
+    "(lung cancer AND wildlife AND Canada)",
+    "(cancer AND animal studies AND Canada)",
+    "(cancer AND ecological studies AND Canada)",
+    "cancer check there evidence that",
+    "cancer check there evidence treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer check there evidence that canada",
+    "cancer check there evidence that",
+    "cancer check there evidence treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(cancer AND epidemiology AND Canada)",
+    "(lung cancer AND wildlife AND Canada)",
+    "(cancer AND animal studies AND Canada)",
+    "(cancer AND ecological studies AND Canada)"
+  ],
+  "keywords": [
+    "cancer",
+    "check",
+    "there",
+    "evidence",
+    "that",
+    "lung",
+    "affects",
+    "wild",
+    "animals",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 57,
+    "indexed_chunks": 84
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(cancer AND epidemiology AND Canada)",
+      "(lung cancer AND wildlife AND Canada)",
+      "(cancer AND animal studies AND Canada)",
+      "(cancer AND ecological studies AND Canada)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\8e7e2676067f4dc5979e88ef25a37105\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\8e7e2676067f4dc5979e88ef25a37105\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\8e7e2676067f4dc5979e88ef25a37105\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\8e7e2676067f4dc5979e88ef25a37105\\combined.records.json"
+  }
+}

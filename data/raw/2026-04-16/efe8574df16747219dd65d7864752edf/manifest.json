@@ -1,0 +1,76 @@
+{
+  "run_id": "efe8574df16747219dd65d7864752edf",
+  "stored_at": "2026-04-16T23:47:26+00:00",
+  "query": "lung cancer lung cancer treatment therapy canada",
+  "query_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer epidemiology in canada",
+    "evidence-based treatment outcomes for lung cancer in canada",
+    "lung cancer incidence and mortality rates in canadian women",
+    "systematic review of lung cancer interventions in canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology in canada",
+    "evidence-based treatment outcomes for lung cancer in canada",
+    "lung cancer incidence and mortality rates in canadian women",
+    "systematic review of lung cancer interventions in canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "women",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 58,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology in canada",
+      "evidence-based treatment outcomes for lung cancer in canada",
+      "lung cancer incidence and mortality rates in canadian women",
+      "systematic review of lung cancer interventions in canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\efe8574df16747219dd65d7864752edf\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\efe8574df16747219dd65d7864752edf\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\efe8574df16747219dd65d7864752edf\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\efe8574df16747219dd65d7864752edf\\combined.records.json"
+  }
+}

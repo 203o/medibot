@@ -1,0 +1,76 @@
+{
+  "run_id": "e323b16297bf45ae8818312e8b03e82c",
+  "stored_at": "2026-04-16T20:15:54+00:00",
+  "query": "cancer cancer treatment therapy management united states of america",
+  "query_fallbacks": [
+    "cancer cancer treatment therapy management united states of america",
+    "cancer epidemiology united states",
+    "cancer treatment outcomes children",
+    "cancer therapy management USA",
+    "cancer incidence rates America",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer treatment therapy management united states of america",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology united states",
+    "cancer treatment outcomes children",
+    "cancer therapy management USA",
+    "cancer incidence rates America"
+  ],
+  "keywords": [
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "children",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 61,
+    "indexed_chunks": 156
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology united states",
+      "cancer treatment outcomes children",
+      "cancer therapy management USA",
+      "cancer incidence rates America"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e323b16297bf45ae8818312e8b03e82c\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e323b16297bf45ae8818312e8b03e82c\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e323b16297bf45ae8818312e8b03e82c\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e323b16297bf45ae8818312e8b03e82c\\combined.records.json"
+  }
+}

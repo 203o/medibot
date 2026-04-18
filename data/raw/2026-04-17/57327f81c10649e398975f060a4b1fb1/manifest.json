@@ -1,0 +1,72 @@
+{
+  "run_id": "57327f81c10649e398975f060a4b1fb1",
+  "stored_at": "2026-04-17T22:58:14+00:00",
+  "query": "cancer cancer deaths leading cause USA",
+  "query_fallbacks": [
+    "cancer cancer deaths leading cause USA",
+    "Cancer mortality leading cause of death in the USA",
+    "Epidemiology of cancer deaths in the United States",
+    "Cancer mortality rates USA leading cause",
+    "Leading cause of cancer deaths in the US population",
+    "cancer cancer deaths leading cause",
+    "cancer cancer deaths leading treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer deaths leading cause USA",
+    "cancer cancer deaths leading cause",
+    "cancer cancer deaths leading treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "Cancer mortality leading cause of death in the USA",
+    "Epidemiology of cancer deaths in the United States",
+    "Cancer mortality rates USA leading cause",
+    "Leading cause of cancer deaths in the US population"
+  ],
+  "keywords": [
+    "cancer",
+    "deaths",
+    "leading",
+    "cause",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 36,
+    "indexed_chunks": 130
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Cancer mortality leading cause of death in the USA",
+      "Epidemiology of cancer deaths in the United States",
+      "Cancer mortality rates USA leading cause",
+      "Leading cause of cancer deaths in the US population"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\57327f81c10649e398975f060a4b1fb1\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\57327f81c10649e398975f060a4b1fb1\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\57327f81c10649e398975f060a4b1fb1\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\57327f81c10649e398975f060a4b1fb1\\combined.records.json"
+  }
+}

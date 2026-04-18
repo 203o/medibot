@@ -1,0 +1,960 @@
+{
+  "enabled": true,
+  "indexed_chunks": 12,
+  "matches": [
+    {
+      "id": "pubmed:2102366:0",
+      "score": 0.913628876209259,
+      "metadata": {
+        "id": "pubmed:2102366:0",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "This article reviews lung cancer mortality and smoking prevalence in Canada."
+      }
+    },
+    {
+      "id": "pubmed:38319507:2",
+      "score": 0.8636908531188965,
+      "metadata": {
+        "id": "pubmed:38319507:2",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces."
+      }
+    },
+    {
+      "id": "pubmed:13967780:0",
+      "score": 0.8489612936973572,
+      "metadata": {
+        "id": "pubmed:13967780:0",
+        "doc_id": "13967780",
+        "source": "pubmed",
+        "title": "Lung cancer mortality trends in Canada, 1931-1960.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13967780/",
+        "text": "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented."
+      }
+    },
+    {
+      "id": "pubmed:32218661:0",
+      "score": 0.820043683052063,
+      "metadata": {
+        "id": "pubmed:32218661:0",
+        "doc_id": "32218661",
+        "source": "pubmed",
+        "title": "Therapeutic landscape of metastatic non-small-cell lung cancer in Canada in 2020.",
+        "study_type": "Historical Article, Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32218661/",
+        "text": "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality."
+      }
+    },
+    {
+      "id": "pubmed:14079129:0",
+      "score": 0.8174182772636414,
+      "metadata": {
+        "id": "pubmed:14079129:0",
+        "doc_id": "14079129",
+        "source": "pubmed",
+        "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+        "text": "It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04610606:0",
+      "score": 0.8117767572402954,
+      "metadata": {
+        "id": "clinicaltrials:NCT04610606:0",
+        "doc_id": "NCT04610606",
+        "source": "clinicaltrials",
+        "title": "Pilot Prehabilitation Intervention in Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT04610606",
+        "text": "Lung cancer is the second most prevalent cancer in Canada and the leading cause of cancer-related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:39243029:1",
+      "score": 0.7879741787910461,
+      "metadata": {
+        "id": "pubmed:39243029:1",
+        "doc_id": "39243029",
+        "source": "pubmed",
+        "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+        "text": "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      }
+    },
+    {
+      "id": "pubmed:2102366:1",
+      "score": 0.7855110168457031,
+      "metadata": {
+        "id": "pubmed:2102366:1",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      }
+    },
+    {
+      "id": "pubmed:34070989:1",
+      "score": 0.7854443788528442,
+      "metadata": {
+        "id": "pubmed:34070989:1",
+        "doc_id": "34070989",
+        "source": "pubmed",
+        "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+        "text": "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      }
+    },
+    {
+      "id": "pubmed:14727643:0",
+      "score": 0.782749354839325,
+      "metadata": {
+        "id": "pubmed:14727643:0",
+        "doc_id": "14727643",
+        "source": "pubmed",
+        "title": "\"The great debate\" 1: Smoking, lung cancer, and cancer epidemiology.",
+        "study_type": "Historical Article, Journal Article",
+        "year": "2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14727643/",
+        "text": "During the first decades of the 20th century the lung cancer death rate increased sharply in developed countries, including Canada."
+      }
+    },
+    {
+      "id": "pubmed:35323350:2",
+      "score": 0.7777543663978577,
+      "metadata": {
+        "id": "pubmed:35323350:2",
+        "doc_id": "35323350",
+        "source": "pubmed",
+        "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+        "text": "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones."
+      }
+    },
+    {
+      "id": "pubmed:26086335:0",
+      "score": 0.7583959102630615,
+      "metadata": {
+        "id": "pubmed:26086335:0",
+        "doc_id": "26086335",
+        "source": "pubmed",
+        "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+        "text": "This study examines incidence rates of lung cancer and histologic subtypes by educational attainment, income and occupation in a broadly representative sample of Canadians aged 25 or older."
+      }
+    },
+    {
+      "id": "pubmed:7577481:2",
+      "score": 0.7542985677719116,
+      "metadata": {
+        "id": "pubmed:7577481:2",
+        "doc_id": "7577481",
+        "source": "pubmed",
+        "title": "Diagnostic and therapeutic approaches to lung cancer in Canada and their costs.",
+        "study_type": "Journal Article",
+        "year": "1995",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7577481/",
+        "text": "This report provides an estimate of the Canadian costs of managing lung cancer by stage and treatment modality."
+      }
+    },
+    {
+      "id": "pubmed:29705772:1",
+      "score": 0.7523744106292725,
+      "metadata": {
+        "id": "pubmed:29705772:1",
+        "doc_id": "29705772",
+        "source": "pubmed",
+        "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+        "text": "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011."
+      }
+    },
+    {
+      "id": "pubmed:38319507:1",
+      "score": 0.7505174279212952,
+      "metadata": {
+        "id": "pubmed:38319507:1",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02916745:0",
+      "score": 0.7502864003181458,
+      "metadata": {
+        "id": "clinicaltrials:NCT02916745:0",
+        "doc_id": "NCT02916745",
+        "source": "clinicaltrials",
+        "title": "Feasibility Study of Using Navigational Bronchoscopy to Perform PDT-Photofrin® in Unresectable Peripheral Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02916745",
+        "text": "Lung cancer accounts for almost one-third of cancer deaths."
+      }
+    },
+    {
+      "id": "pubmed:37277094:2",
+      "score": 0.7483789920806885,
+      "metadata": {
+        "id": "pubmed:37277094:2",
+        "doc_id": "37277094",
+        "source": "pubmed",
+        "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37277094/",
+        "text": "The number of estimated attributable lung cancer deaths has increased by nearly 30% since 2007 as smoking has decreased and air pollution has increased."
+      }
+    },
+    {
+      "id": "pubmed:3567810:0",
+      "score": 0.7458591461181641,
+      "metadata": {
+        "id": "pubmed:3567810:0",
+        "doc_id": "3567810",
+        "source": "pubmed",
+        "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+        "study_type": "Journal Article",
+        "year": "1987",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+        "text": "On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women."
+      }
+    },
+    {
+      "id": "pubmed:38319507:0",
+      "score": 0.7457490563392639,
+      "metadata": {
+        "id": "pubmed:38319507:0",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada."
+      }
+    },
+    {
+      "id": "pubmed:28601785:2",
+      "score": 0.7376705408096313,
+      "metadata": {
+        "id": "pubmed:28601785:2",
+        "doc_id": "28601785",
+        "source": "pubmed",
+        "title": "Pollution and regional variations of lung cancer mortality in the United States.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28601785/",
+        "text": "Among 362 counties (11.6%) categorized as clustered, the age-adjusted lung cancer mortality rate was 99.70 deaths per 100,000 persons (95%CI: 99.1-100.3)."
+      }
+    },
+    {
+      "id": "pubmed:3567810:1",
+      "score": 0.7352913618087769,
+      "metadata": {
+        "id": "pubmed:3567810:1",
+        "doc_id": "3567810",
+        "source": "pubmed",
+        "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+        "study_type": "Journal Article",
+        "year": "1987",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+        "text": "The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure."
+      }
+    },
+    {
+      "id": "pubmed:38454087:2",
+      "score": 0.7296247482299805,
+      "metadata": {
+        "id": "pubmed:38454087:2",
+        "doc_id": "38454087",
+        "source": "pubmed",
+        "title": "Progress in site-specific cancer mortality in Canada over the last 70 years.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38454087/",
+        "text": "There has been a significant reduction in cancer mortality in Canada since site-specific cancer mortality rates peaked decades ago for many cancers."
+      }
+    },
+    {
+      "id": "pubmed:34753715:1",
+      "score": 0.7247735857963562,
+      "metadata": {
+        "id": "pubmed:34753715:1",
+        "doc_id": "34753715",
+        "source": "pubmed",
+        "title": "Advances in systemic therapy for non-small cell lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34753715/",
+        "text": "Lung cancer remains a leading cause of cancer related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:40133478:1",
+      "score": 0.7237566709518433,
+      "metadata": {
+        "id": "pubmed:40133478:1",
+        "doc_id": "40133478",
+        "source": "pubmed",
+        "title": "Update 2025: Management of Non‑Small-Cell Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40133478/",
+        "text": "Lung cancer remains the leading cause of cancer-related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:11511609:0",
+      "score": 0.7212465405464172,
+      "metadata": {
+        "id": "pubmed:11511609:0",
+        "doc_id": "11511609",
+        "source": "pubmed",
+        "title": "Socioeconomic status and lung cancer risk in Canada.",
+        "study_type": "Journal Article",
+        "year": "2001",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11511609/",
+        "text": "This study examines SES and lung cancer risk in Canada."
+      }
+    },
+    {
+      "id": "pubmed:3242824:0",
+      "score": 0.7150062322616577,
+      "metadata": {
+        "id": "pubmed:3242824:0",
+        "doc_id": "3242824",
+        "source": "pubmed",
+        "title": "Lung cancer mortality trends in Canada from 1931 to 1982.",
+        "study_type": "Journal Article",
+        "year": "1988",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3242824/",
+        "text": "The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population."
+      }
+    },
+    {
+      "id": "pubmed:14079129:2",
+      "score": 0.7128993272781372,
+      "metadata": {
+        "id": "pubmed:14079129:2",
+        "doc_id": "14079129",
+        "source": "pubmed",
+        "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+        "text": "In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years."
+      }
+    },
+    {
+      "id": "pubmed:38454087:1",
+      "score": 0.7121714353561401,
+      "metadata": {
+        "id": "pubmed:38454087:1",
+        "doc_id": "38454087",
+        "source": "pubmed",
+        "title": "Progress in site-specific cancer mortality in Canada over the last 70 years.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38454087/",
+        "text": "In Canada, the absolute number of cancer deaths has been steadily increasing, however, age-standardized cancer mortality rates peaked decades ago for most cancers."
+      }
+    },
+    {
+      "id": "pubmed:31162856:2",
+      "score": 0.7036325931549072,
+      "metadata": {
+        "id": "pubmed:31162856:2",
+        "doc_id": "31162856",
+        "source": "pubmed",
+        "title": "Lung cancer mortality reduction by LDCT screening-Results from the randomized German LUSI trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31162856/",
+        "text": "Data on lung cancer incidence and mortality and vital status were collected from hospitals or office-based physicians, cancer registries, population registers and health offices."
+      }
+    },
+    {
+      "id": "pubmed:17620772:1",
+      "score": 0.7021611332893372,
+      "metadata": {
+        "id": "pubmed:17620772:1",
+        "doc_id": "17620772",
+        "source": "pubmed",
+        "title": "Lung cancer adjuvant therapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+        "text": "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      }
+    },
+    {
+      "id": "pubmed:7577481:0",
+      "score": 0.7016910910606384,
+      "metadata": {
+        "id": "pubmed:7577481:0",
+        "doc_id": "7577481",
+        "source": "pubmed",
+        "title": "Diagnostic and therapeutic approaches to lung cancer in Canada and their costs.",
+        "study_type": "Journal Article",
+        "year": "1995",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7577481/",
+        "text": "This paper presents a detailed description of the methodology used to determine the direct health care costs associated with 'standard' diagnostic and therapeutic approaches for lung cancer in Canada in 1988."
+      }
+    },
+    {
+      "id": "pubmed:15110450:1",
+      "score": 0.6973432898521423,
+      "metadata": {
+        "id": "pubmed:15110450:1",
+        "doc_id": "15110450",
+        "source": "pubmed",
+        "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+        "text": "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature."
+      }
+    },
+    {
+      "id": "pubmed:36681276:0",
+      "score": 0.6971952319145203,
+      "metadata": {
+        "id": "pubmed:36681276:0",
+        "doc_id": "36681276",
+        "source": "pubmed",
+        "title": "Long-term projections of cancer incidence and mortality in Canada: The OncoSim All Cancers Model.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36681276/",
+        "text": "Due mainly to an aging population and population growth in Canada, we estimate that cancer incidence, mortality and cancer management costs will increase considerably between 2020 and 2040."
+      }
+    },
+    {
+      "id": "pubmed:23982909:2",
+      "score": 0.6971213817596436,
+      "metadata": {
+        "id": "pubmed:23982909:2",
+        "doc_id": "23982909",
+        "source": "pubmed",
+        "title": "Lung cancer risk from radon in Ontario, Canada: how many lung cancers can we prevent?",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23982909/",
+        "text": "It is estimated that 13.6 % (95 % CI 11.0, 16.7) of lung cancer deaths in Ontario are attributable to radon, corresponding to 847 (95 % CI 686, 1,039) lung cancer deaths each year, approximately 84 % of these in ever-smokers."
+      }
+    },
+    {
+      "id": "pubmed:23470172:1",
+      "score": 0.6965768337249756,
+      "metadata": {
+        "id": "pubmed:23470172:1",
+        "doc_id": "23470172",
+        "source": "pubmed",
+        "title": "Cancer incidence, mortality and survival trends in Canada, 1970-2007.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23470172/",
+        "text": "Mortality rates were characterized by significant declines for all cancers combined and for most cancers examined except for melanoma and female lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:14079129:1",
+      "score": 0.6915916800498962,
+      "metadata": {
+        "id": "pubmed:14079129:1",
+        "doc_id": "14079129",
+        "source": "pubmed",
+        "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+        "study_type": "Journal Article",
+        "year": "1963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+        "text": "Because of the low overall survival in treated and untreated cases at one year, mortality figures provide a rough index of morbidity from this disease.Male lung cancer death rates rose steadily from 3.0 to 24.6, and female rates from 1.6 to 4.0 per 100,000 population between 1931 and 1961."
+      }
+    },
+    {
+      "id": "pubmed:41570439:0",
+      "score": 0.6909807920455933,
+      "metadata": {
+        "id": "pubmed:41570439:0",
+        "doc_id": "41570439",
+        "source": "pubmed",
+        "title": "Cardiovascular disease as a contributing cause of cancer mortality: A population-based analysis of United States death certificate data (1999-2020).",
+        "study_type": "Journal Article, Review",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570439/",
+        "text": "For lung cancer, mortality rates were substantially higher when CVD was present, with rate ratios ranging from 1.70 to 2.43; however, this association is likely attributable to profound unmeasured confounding by shared risk factors such as smoking."
+      }
+    },
+    {
+      "id": "pubmed:36290875:0",
+      "score": 0.6858733892440796,
+      "metadata": {
+        "id": "pubmed:36290875:0",
+        "doc_id": "36290875",
+        "source": "pubmed",
+        "title": "Access to Cancer Drugs in Canada.",
+        "study_type": "Editorial",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+        "text": "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      }
+    },
+    {
+      "id": "pubmed:26584618:1",
+      "score": 0.6833304166793823,
+      "metadata": {
+        "id": "pubmed:26584618:1",
+        "doc_id": "26584618",
+        "source": "pubmed",
+        "title": "Evaluation of different radon guideline values based on characterization of ecological risk and visualization of lung cancer mortality trends in British Columbia, Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26584618/",
+        "text": "We compared high vulnerability areas, their estimated populations, and differences in lung cancer mortality trends stratified by smoking prevalence and sex."
+      }
+    },
+    {
+      "id": "pubmed:8696718:0",
+      "score": 0.678839921951294,
+      "metadata": {
+        "id": "pubmed:8696718:0",
+        "doc_id": "8696718",
+        "source": "pubmed",
+        "title": "The economics of lung cancer management in Canada.",
+        "study_type": "Journal Article",
+        "year": "1996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8696718/",
+        "text": "For all 15 624 cases of lung cancer diagnosed in Canada in 1988, it was estimated that the total cost of providing treatment and follow-up, and managing relapse over 5 years was $Cdn 328 million."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "2102366",
+      "title": "Lung cancer and smoking prevalence in Canada.",
+      "study_type": "Journal Article, Review",
+      "year": "1990",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+      "semantic_score": 0.913628876209259,
+      "matched_sentences": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada.",
+        "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38319507",
+      "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+      "semantic_score": 0.8636908531188965,
+      "matched_sentences": [
+        "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces.",
+        "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends.",
+        "However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "13967780",
+      "title": "Lung cancer mortality trends in Canada, 1931-1960.",
+      "study_type": "Journal Article",
+      "year": "1963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13967780/",
+      "semantic_score": 0.8489612936973572,
+      "matched_sentences": [
+        "Trends in mortality due to lung cancer in Canada since 1931 were reviewed and data for 1960 presented."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32218661",
+      "title": "Therapeutic landscape of metastatic non-small-cell lung cancer in Canada in 2020.",
+      "study_type": "Historical Article, Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32218661/",
+      "semantic_score": 0.820043683052063,
+      "matched_sentences": [
+        "Lung cancer is the most commonly diagnosed cancer in Canada and remains associated with high mortality."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "14079129",
+      "title": "THE MAGNITUDE OF THE LUNG CANCER PROBLEM IN CANADA.",
+      "study_type": "Journal Article",
+      "year": "1963",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14079129/",
+      "semantic_score": 0.8174182772636414,
+      "matched_sentences": [
+        "It accounted for approximately 1 in 5 of all cancer deaths in males and 1 in 26 in females.Lung cancer mortality in Canada has not increased to the same extent as in certain other countries, but to counter the rising trend, changes in the smoking habits of the population are required as well as community and industrial control of atmospheric carcinogens.",
+        "In males, the greatest increase occurred in the 70-74 year age group (eighteen-fold) and in females in the 80-84 year age group (seven-fold).Lung cancer caused 2774 deaths in Canada in 1961, and was the leading cause of cancer deaths for males in all age groups from 40 to 79 years.",
+        "Because of the low overall survival in treated and untreated cases at one year, mortality figures provide a rough index of morbidity from this disease.Male lung cancer death rates rose steadily from 3.0 to 24.6, and female rates from 1.6 to 4.0 per 100,000 population between 1931 and 1961."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04610606",
+      "title": "Pilot Prehabilitation Intervention in Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT04610606",
+      "semantic_score": 0.8117767572402954,
+      "matched_sentences": [
+        "Lung cancer is the second most prevalent cancer in Canada and the leading cause of cancer-related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39243029",
+      "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+      "semantic_score": 0.7879741787910461,
+      "matched_sentences": [
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34070989",
+      "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+      "semantic_score": 0.7854443788528442,
+      "matched_sentences": [
+        "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "14727643",
+      "title": "\"The great debate\" 1: Smoking, lung cancer, and cancer epidemiology.",
+      "study_type": "Historical Article, Journal Article",
+      "year": "2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14727643/",
+      "semantic_score": 0.782749354839325,
+      "matched_sentences": [
+        "During the first decades of the 20th century the lung cancer death rate increased sharply in developed countries, including Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35323350",
+      "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+      "semantic_score": 0.7777543663978577,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26086335",
+      "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+      "semantic_score": 0.7583959102630615,
+      "matched_sentences": [
+        "This study examines incidence rates of lung cancer and histologic subtypes by educational attainment, income and occupation in a broadly representative sample of Canadians aged 25 or older."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "7577481",
+      "title": "Diagnostic and therapeutic approaches to lung cancer in Canada and their costs.",
+      "study_type": "Journal Article",
+      "year": "1995",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7577481/",
+      "semantic_score": 0.7542985677719116,
+      "matched_sentences": [
+        "This report provides an estimate of the Canadian costs of managing lung cancer by stage and treatment modality.",
+        "This paper presents a detailed description of the methodology used to determine the direct health care costs associated with 'standard' diagnostic and therapeutic approaches for lung cancer in Canada in 1988."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29705772",
+      "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+      "semantic_score": 0.7523744106292725,
+      "matched_sentences": [
+        "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02916745",
+      "title": "Feasibility Study of Using Navigational Bronchoscopy to Perform PDT-Photofrin® in Unresectable Peripheral Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02916745",
+      "semantic_score": 0.7502864003181458,
+      "matched_sentences": [
+        "Lung cancer accounts for almost one-third of cancer deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37277094",
+      "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37277094/",
+      "semantic_score": 0.7483789920806885,
+      "matched_sentences": [
+        "The number of estimated attributable lung cancer deaths has increased by nearly 30% since 2007 as smoking has decreased and air pollution has increased."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "3567810",
+      "title": "Deaths in Canada from lung cancer due to involuntary smoking.",
+      "study_type": "Journal Article",
+      "year": "1987",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3567810/",
+      "semantic_score": 0.7458591461181641,
+      "matched_sentences": [
+        "On the basis of these data we estimate that 50 to 60 of the deaths from lung cancer in Canada in 1985 among people who had never smoked were caused by spousal smoking; about 90% occurred in women.",
+        "The total number of deaths from lung cancer attributable to exposure to tobacco smoke from spouses and other sources (mainly the workplace) was derived by applying estimated age- and sex-specific rates of death from lung cancer attributable to such exposure to the population of Canadians who have never smoked; about 330 deaths from lung cancer annually are attributable to such exposure."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28601785",
+      "title": "Pollution and regional variations of lung cancer mortality in the United States.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28601785/",
+      "semantic_score": 0.7376705408096313,
+      "matched_sentences": [
+        "Among 362 counties (11.6%) categorized as clustered, the age-adjusted lung cancer mortality rate was 99.70 deaths per 100,000 persons (95%CI: 99.1-100.3)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38454087",
+      "title": "Progress in site-specific cancer mortality in Canada over the last 70 years.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38454087/",
+      "semantic_score": 0.7296247482299805,
+      "matched_sentences": [
+        "There has been a significant reduction in cancer mortality in Canada since site-specific cancer mortality rates peaked decades ago for many cancers.",
+        "In Canada, the absolute number of cancer deaths has been steadily increasing, however, age-standardized cancer mortality rates peaked decades ago for most cancers."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34753715",
+      "title": "Advances in systemic therapy for non-small cell lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34753715/",
+      "semantic_score": 0.7247735857963562,
+      "matched_sentences": [
+        "Lung cancer remains a leading cause of cancer related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40133478",
+      "title": "Update 2025: Management of Non‑Small-Cell Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40133478/",
+      "semantic_score": 0.7237566709518433,
+      "matched_sentences": [
+        "Lung cancer remains the leading cause of cancer-related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11511609",
+      "title": "Socioeconomic status and lung cancer risk in Canada.",
+      "study_type": "Journal Article",
+      "year": "2001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11511609/",
+      "semantic_score": 0.7212465405464172,
+      "matched_sentences": [
+        "This study examines SES and lung cancer risk in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "3242824",
+      "title": "Lung cancer mortality trends in Canada from 1931 to 1982.",
+      "study_type": "Journal Article",
+      "year": "1988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3242824/",
+      "semantic_score": 0.7150062322616577,
+      "matched_sentences": [
+        "The mortality trends for lung cancer in both men and women appear to be consistent with the tobacco consumption in the population."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31162856",
+      "title": "Lung cancer mortality reduction by LDCT screening-Results from the randomized German LUSI trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, Non-U.S. Gov't",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31162856/",
+      "semantic_score": 0.7036325931549072,
+      "matched_sentences": [
+        "Data on lung cancer incidence and mortality and vital status were collected from hospitals or office-based physicians, cancer registries, population registers and health offices."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17620772",
+      "title": "Lung cancer adjuvant therapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+      "semantic_score": 0.7021611332893372,
+      "matched_sentences": [
+        "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15110450",
+      "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+      "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+      "semantic_score": 0.6973432898521423,
+      "matched_sentences": [
+        "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36681276",
+      "title": "Long-term projections of cancer incidence and mortality in Canada: The OncoSim All Cancers Model.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36681276/",
+      "semantic_score": 0.6971952319145203,
+      "matched_sentences": [
+        "Due mainly to an aging population and population growth in Canada, we estimate that cancer incidence, mortality and cancer management costs will increase considerably between 2020 and 2040."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23982909",
+      "title": "Lung cancer risk from radon in Ontario, Canada: how many lung cancers can we prevent?",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23982909/",
+      "semantic_score": 0.6971213817596436,
+      "matched_sentences": [
+        "It is estimated that 13.6 % (95 % CI 11.0, 16.7) of lung cancer deaths in Ontario are attributable to radon, corresponding to 847 (95 % CI 686, 1,039) lung cancer deaths each year, approximately 84 % of these in ever-smokers."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23470172",
+      "title": "Cancer incidence, mortality and survival trends in Canada, 1970-2007.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23470172/",
+      "semantic_score": 0.6965768337249756,
+      "matched_sentences": [
+        "Mortality rates were characterized by significant declines for all cancers combined and for most cancers examined except for melanoma and female lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41570439",
+      "title": "Cardiovascular disease as a contributing cause of cancer mortality: A population-based analysis of United States death certificate data (1999-2020).",
+      "study_type": "Journal Article, Review",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570439/",
+      "semantic_score": 0.6909807920455933,
+      "matched_sentences": [
+        "For lung cancer, mortality rates were substantially higher when CVD was present, with rate ratios ranging from 1.70 to 2.43; however, this association is likely attributable to profound unmeasured confounding by shared risk factors such as smoking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36290875",
+      "title": "Access to Cancer Drugs in Canada.",
+      "study_type": "Editorial",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+      "semantic_score": 0.6858733892440796,
+      "matched_sentences": [
+        "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26584618",
+      "title": "Evaluation of different radon guideline values based on characterization of ecological risk and visualization of lung cancer mortality trends in British Columbia, Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26584618/",
+      "semantic_score": 0.6833304166793823,
+      "matched_sentences": [
+        "We compared high vulnerability areas, their estimated populations, and differences in lung cancer mortality trends stratified by smoking prevalence and sex."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "8696718",
+      "title": "The economics of lung cancer management in Canada.",
+      "study_type": "Journal Article",
+      "year": "1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8696718/",
+      "semantic_score": 0.678839921951294,
+      "matched_sentences": [
+        "For all 15 624 cases of lung cancer diagnosed in Canada in 1988, it was estimated that the total cost of providing treatment and follow-up, and managing relapse over 5 years was $Cdn 328 million."
+      ]
+    }
+  ]
+}

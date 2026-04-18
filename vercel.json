@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://YOUR_RENDER_BACKEND.onrender.com/api/$1" },
+    { "source": "/", "destination": "/medicalbot.html" }
+  ]
+}

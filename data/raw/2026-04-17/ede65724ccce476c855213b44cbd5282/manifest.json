@@ -1,0 +1,78 @@
+{
+  "run_id": "ede65724ccce476c855213b44cbd5282",
+  "stored_at": "2026-04-17T13:03:30+00:00",
+  "query": "lung cancer lung cancer treatment therapy canada",
+  "query_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer epidemiology in children aged 10-18 in Canada",
+    "systematic review of lung cancer treatment outcomes in Canadian pediatric patients",
+    "lung cancer incidence and mortality trends in Canadian children aged 10-18",
+    "evidence-based guidelines for lung cancer treatment in pediatric patients in Canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology in children aged 10-18 in Canada",
+    "systematic review of lung cancer treatment outcomes in Canadian pediatric patients",
+    "lung cancer incidence and mortality trends in Canadian children aged 10-18",
+    "evidence-based guidelines for lung cancer treatment in pediatric patients in Canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "guidance",
+    "children",
+    "age",
+    "above",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 61,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology in children aged 10-18 in Canada",
+      "systematic review of lung cancer treatment outcomes in Canadian pediatric patients",
+      "lung cancer incidence and mortality trends in Canadian children aged 10-18",
+      "evidence-based guidelines for lung cancer treatment in pediatric patients in Canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ede65724ccce476c855213b44cbd5282\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ede65724ccce476c855213b44cbd5282\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ede65724ccce476c855213b44cbd5282\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\ede65724ccce476c855213b44cbd5282\\combined.records.json"
+  }
+}

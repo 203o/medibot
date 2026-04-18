@@ -1,0 +1,116 @@
+{
+  "enabled": true,
+  "indexed_chunks": 27,
+  "matches": [
+    {
+      "id": "pubmed:36228911:0",
+      "score": 0.8020116090774536,
+      "metadata": {
+        "id": "pubmed:36228911:0",
+        "doc_id": "36228911",
+        "source": "pubmed",
+        "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+        "text": "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      }
+    },
+    {
+      "id": "pubmed:36228915:1",
+      "score": 0.7774925231933594,
+      "metadata": {
+        "id": "pubmed:36228915:1",
+        "doc_id": "36228915",
+        "source": "pubmed",
+        "title": "Understanding the Intransigence of Malaria in Malawi.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+        "text": "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:1",
+      "score": 0.7454633712768555,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:1",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:0",
+      "score": 0.7203487753868103,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:0",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:2",
+      "score": 0.6964874267578125,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:2",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+      "semantic_score": 0.8020116090774536,
+      "matched_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228915",
+      "title": "Understanding the Intransigence of Malaria in Malawi.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+      "semantic_score": 0.7774925231933594,
+      "matched_sentences": [
+        "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.7454633712768555,
+      "matched_sentences": [
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy.",
+        "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi.",
+        "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "run_id": "d2b7b43a3aac45cab2ee097f11962bec",
+  "stored_at": "2026-04-18T10:19:25+00:00",
+  "query": "hiv hiv infections rate kenya kenya",
+  "query_fallbacks": [
+    "hiv hiv infections rate kenya kenya",
+    "hiv hiv infections rate kenya",
+    "hiv hiv infections rate treatment",
+    "hiv kenya",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv hiv infections rate kenya kenya",
+    "hiv hiv infections rate kenya",
+    "hiv hiv infections rate treatment",
+    "hiv kenya",
+    "hiv"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "hiv",
+    "infections",
+    "rate",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 36,
+    "indexed_chunks": 131
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\d2b7b43a3aac45cab2ee097f11962bec\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\d2b7b43a3aac45cab2ee097f11962bec\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\d2b7b43a3aac45cab2ee097f11962bec\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\d2b7b43a3aac45cab2ee097f11962bec\\combined.records.json"
+  }
+}

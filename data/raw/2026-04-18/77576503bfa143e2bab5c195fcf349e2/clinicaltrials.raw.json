@@ -1,0 +1,2880 @@
+{
+  "query": "parkinson's disease parkinson disease children usa USA",
+  "selected_query": "parkinson's disease parkinson disease children usa USA",
+  "attempted_queries": [
+    {
+      "query": "parkinson's disease parkinson disease children usa USA",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson's disease parkinson disease children usa USA",
+      "location_filter": "",
+      "count": 5
+    }
+  ],
+  "location": "USA",
+  "records": [
+    {
+      "nct_id": "NCT06829342",
+      "title": "Stochastic Resonance Stimulation Effect on Gait Stability in Parkinson Disease",
+      "brief_summary": "The present study explored the use of a technique called stochastic resonance (SR) stimulation that may help individuals with Parkinson Disease maintain balance while walking on challenging surfaces. Impaired balance represents one of the disease symptoms, putting people at risk for falls, partly due to impaired processing of sensory information. SR uses light electrical signals to improve the way the body detects sensations. We wanted to test if SR could help people with Parkinson disease stay steadier while walking. Each participant's optimal SR intensity was determined before they walked on a treadmill in a virtual environment that created visual disturbances to challenge their balance. We measured how much their body swayed, how they placed their feet, and how their ankles moved during the walking tasks.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "The present study explored the use of a technique called stochastic resonance (SR) stimulation that may help individuals with Parkinson Disease maintain balance while walking on challenging surfaces.",
+        "We wanted to test if SR could help people with Parkinson disease stay steadier while walking.",
+        "Impaired balance represents one of the disease symptoms, putting people at risk for falls, partly due to impaired processing of sensory information."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-02-10",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06829342",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06829342",
+            "orgStudyIdInfo": {
+              "id": "1759595-5"
+            },
+            "organization": {
+              "fullName": "University of Delaware",
+              "class": "OTHER"
+            },
+            "briefTitle": "Stochastic Resonance Stimulation Effect on Gait Stability in Parkinson Disease",
+            "officialTitle": "The Role of Sensory Deficits in the Neural Control of Balance During Walking in Parkinson's Disease"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-02",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-05-19",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2022-12-13",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2022-12-13",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2025-02-03",
+            "studyFirstSubmitQcDate": "2025-02-10",
+            "studyFirstPostDateStruct": {
+              "date": "2025-02-17",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-02-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-02-17",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University of Delaware",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Parkinson's Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The present study explored the use of a technique called stochastic resonance (SR) stimulation that may help individuals with Parkinson Disease maintain balance while walking on challenging surfaces. Impaired balance represents one of the disease symptoms, putting people at risk for falls, partly due to impaired processing of sensory information. SR uses light electrical signals to improve the way the body detects sensations. We wanted to test if SR could help people with Parkinson disease stay steadier while walking. Each participant's optimal SR intensity was determined before they walked on a treadmill in a virtual environment that created visual disturbances to challenge their balance. We measured how much their body swayed, how they placed their feet, and how their ankles moved during the walking tasks."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Parkinson Disease"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "primaryPurpose": "BASIC_SCIENCE",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "PARTICIPANT"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 21,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Stochastic Resonance (SR)",
+                "type": "EXPERIMENTAL",
+                "description": "During this condition, participants will walk on the treadmill while receiving SR stimulation at their individual optimal intensity (SR) with and without visual perturbations.",
+                "interventionNames": [
+                  "Device: Stochastic Resonance (SR)"
+                ]
+              },
+              {
+                "label": "No Stochastic Resonance (no-SR)",
+                "type": "NO_INTERVENTION",
+                "description": "During this condition, participants will walk on the treadmill while receiving no SR stimulation (no-SR) with and without visual perturbations."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Stochastic Resonance (SR)",
+                "description": "The system consists of six linear isolated stimulators (STMISOLA, Biopac Systems, Inc., Goleta, USA). The SR signal (Gaussian White Noise, zero mean) will be generated through a 16 bit PCI 6733 National Instruments multifunction data acquisition card by a custom LabView program. The stimulation sites include the ankle, lateral soleus, peroneus longus, and tibialis anterior muscles and the hip.",
+                "armGroupLabels": [
+                  "Stochastic Resonance (SR)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Change in the Center of Mass (CoM) excursion",
+                "description": "For the visual perturbation trials, we will use CoM excursion as the primary outcome measure since it has been used in prior studies in children and adults using visual perturbation protocols. This is determined by comparing the average CoM during perturbed steps to non-perturbed steps for each participant, integrated across the first eight steps initiated by the heel strike that triggered the stimulus. We will measure CoM using kinetics and kinematic computed through a motion capture system(Qualysis).\n\nFor the unperturbed trials, we will use margin of stability (MoS) as the primary outcome measure. MOS refers to the distance between extrapolated center of mass, which includes center of mass position and velocity, and the base of support. It has been previously used to measure balance in children with cerebral palsy and Parkinson Disease.",
+                "timeFrame": "Through study completion, an average of 1 year."
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Parkinson Disease\n* Hoehn and Yahr (H\\&Y) stage ≤ III\n* Can walk independently for at least 2 minutes without an assistive device or orthosis\n* Ability to communicate discomfort during testing\n* Can follow multi-step commands\n* Scored at least 24/30 on the Montreal Cognitive assessment (MoCA)\n\nExclusion Criteria:\n\n* Any head, neck, or face injury in the six months prior to the study (e.g., concussion, eye injury)\n* History of vestibular or ocular dysfunction\n* Currently taking any medications affecting balance (i.e. antibiotics)\n* Injuries to lower extremities affecting balance in the past six months\n* Pregnancy\n* Any neurological disorders other than Parkinson's disease (e.g., seizure disorders, closed head injuries with loss of consciousness greater than 15 minutes, CNS neoplasm, history of stroke)\n* Unstable cardiac or pulmonary disease\n* Clinically obese (BMI 30 or above)\n* Any metal implant in the feet or legs that is close to the stimulating electrodes\n* A known allergy to medical-grade adhesives\n* Any other comorbidity affecting the ability to safely walk without assistance for at least 2 minutes\n* Exhibited severe dyskinesia\n* Did not respond to L-DOPA or other dopaminergic treatment\n* Exhibited cardiovascular-autonomic or multiple-system symptoms indicative of a \"Parkinsonism-plus\" presentation",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "40 Years",
+            "maximumAge": "85 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "John J Jeka, PhD",
+                "affiliation": "University of Delaware",
+                "role": "STUDY_DIRECTOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University of Delaware",
+                "city": "Newark",
+                "state": "Delaware",
+                "zip": "19713",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.68372,
+                  "lon": -75.74966
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010300",
+                "term": "Parkinson Disease"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D020734",
+                "term": "Parkinsonian Disorders"
+              },
+              {
+                "id": "D001480",
+                "term": "Basal Ganglia Diseases"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D009069",
+                "term": "Movement Disorders"
+              },
+              {
+                "id": "D000080874",
+                "term": "Synucleinopathies"
+              },
+              {
+                "id": "D019636",
+                "term": "Neurodegenerative Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT03274037",
+      "title": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+      "brief_summary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+      "detailed_description": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain",
+      "evidence_sentences": [
+        "For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+        "Neurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues.",
+        "MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "UNKNOWN",
+      "last_update": "2017-09-07",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT03274037",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03274037",
+            "orgStudyIdInfo": {
+              "id": "IDRCB: 2013-A00289-36"
+            },
+            "organization": {
+              "fullName": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            },
+            "briefTitle": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+            "officialTitle": "The Relevance of Cerebral MRI Elastography in the Mechanical Characterization of Glial Tumors",
+            "acronym": "g-BrainMRE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2017-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-07-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2017-09-04",
+            "studyFirstSubmitQcDate": "2017-09-05",
+            "studyFirstPostDateStruct": {
+              "date": "2017-09-06",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2017-09-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2017-09-08",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+            "detailedDescription": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Elasticity Imaging Techniques"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 48,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Examination of cerebral MRI elastography",
+                "type": "EXPERIMENTAL",
+                "description": "The mechanical waves will be induced by pressure waves guided to the mouth of the elongated subject in the MRI",
+                "interventionNames": [
+                  "Diagnostic Test: Device for mechanical excitation by pressure waves"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Device for mechanical excitation by pressure waves",
+                "description": "The IRM elastography technique, proven and patented in 2010 by the IR4M (Orsay, France), consists in characterizing by IRM induced waves in the human body in order to determine the mechanical properties Of the target organ.\n\nThe mechanical waves will be induced by pressure waves guided at the mouth of the subject elongated in the MRI and consisting of a function generator at a frequency between 5 Hz and 500 Hz, linear amplifier , An electromechanical transducer, a waveguide whose length is adapted to the chosen excitation frequency, an antibacterial filter and a disposable mouthpiece\n\nThe MRI imager Achieva 1.5 T MRI (Philips Healthcare, Best, the Netherlands) and the SIGNA Architect GEM 3.0T (GE medical systems, LLC, USA) system will be used to measure brain tissue displacement fields.",
+                "armGroupLabels": [
+                  "Examination of cerebral MRI elastography"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "normal values of cerebral MRI elastography in healthy volunteers",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Values of shear modulus of elasticity in the brain region explored",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              },
+              {
+                "measure": "Values of shear viscosity modulus according to the explored region of the brain",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria for healthy subjects will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* No known and diagnosed neurological pathologies such as stroke, cerebral surgery, central nervous system tumor, inflammatory disease (such as multiple sclerosis), neurodegenerative disease (such as Alzheimer's, Parkinson's or Creutzfeldt-Jakobes's ), depression\n* Informed consent\n\nInclusion criteria for patients will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* Glial tumor greater than 3 mm diagnosed by standard MRI\n* Informed and informed consent\n\nExclusion Criteriafor both patients and healthy subjects will be:\n\n* Inability to perform an MRI examination : claustrophobia, presence of ferromagnetic metallic foreign bodies, wearing a pace-maker, metallic cardiac prosthetic valve, cochlear implants, vascular clips, insulin pump, pregnancy, breastfeeding..\n\n  * Non-affiliation to a social security scheme (beneficiary or beneficiary)\n  * Intercurrent disorder likely to disrupt test results\n  * Patient under anticoagulant:",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "65 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "role": "CONTACT",
+                "phone": "01 45 21 33 88",
+                "email": "denis.ducreux@bct.aphp.fr"
+              },
+              {
+                "name": "Xavier MD MAITRE, PhD",
+                "role": "CONTACT",
+                "phone": "01 69 15 41 34",
+                "email": "xavier.maitre@u-psud.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "affiliation": "Assistance publique des hopitaux de paris",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Denis DUCREUX",
+                "status": "RECRUITING",
+                "city": "Le Kremlin-Bicêtre",
+                "state": "France",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Denis MD DUCREUX, PhD",
+                    "role": "CONTACT",
+                    "phone": "01 45 21 33 88",
+                    "email": "denis.ducreux@bct.aphp.fr"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.81471,
+                  "lon": 2.36073
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT02825602",
+      "title": "Vietnam Era Health Retrospective Observational Study",
+      "brief_summary": "The Vietnam Era Health Retrospective Observational Study (VE-HEROeS) is a national study on the health and well-being of Vietnam Veterans, including Blue Water Navy Veterans, as well as Veterans who served elsewhere during the Vietnam Era (1961-1975), and similarly aged U.S. residents who never served in the military. The investigators will invite approximately 43,000 Vietnam and Vietnam Era Veterans, and approximately 11,000 members of the general U.S. population to participate in VE-HEROeS. These individuals are scientifically selected to participate; the study is not able to accept volunteers.\n\nAll participants in VE-HEROeS will be asked to fill out a questionnaire on their military service, general health, age-related conditions, health care use, and the health experiences of their children and grandchildren. A smaller group will be asked to provide the investigators with access to some of their medical records. Topics of special focus for the study include cognition, hepatitis C infection, and neurologic conditions.",
+      "detailed_description": "It has been more than 40 years since the Vietnam War ended and there is little recent systematic knowledge of how Veterans of the Vietnam Era (1961-1975) have fared with regard to their overall health, lifestyle factors, and aging. This epidemiologic study, called the Vietnam Era Health Retrospective Observational Study (VE-HEROeS) will provide information about the health and well-being of Veterans of the Vietnam Era to Veterans and their families who have questions about the long-term health effects of service during the Vietnam War, to clinicians who care for Veterans and lack sufficient evidence to explain health conditions, and to the VA healthcare system in order to improve VA healthcare and anticipate future healthcare needs. The main objective of this study is to determine if the overall health of Veterans of the Vietnam War and Vietnam Era, with a special focus on neurologic conditions and hepatitis C infection, is different from that of their counterparts who did not serve in the military. Exploratory aims of the study are to determine if the investigators can obtain a sample of Blue Water Navy Vietnam Veterans (who served exclusively in deep coastal waters off of North or South Vietnam) and use the survey to describe their current health, and to determine the prevalence of Veterans who attribute health conditions of their descendants to their own military service, especially conditions potentially transmitted epigenetically. The study design is a survey, with hepatitis C and neurologic conditions validated by medical record review. The questionnaire includes both validated scales and new items about physical and mental health, exposures, and lifestyle. There are two versions of the questionnaire: one for Veterans of the Vietnam Era and one for those selected from the U.S. general population who have never served in the military. The questionnaires are as similar as possible, with the exception of questions about military service, exposures, or experiences that are either removed or modified in the non-Veteran questionnaire because they do not apply to this population.",
+      "evidence_sentences": [
+        "The main objective of this study is to determine if the overall health of Veterans of the Vietnam War and Vietnam Era, with a special focus on neurologic conditions and hepatitis C infection, is different from that of their counterparts who did not serve in the military.",
+        "The questionnaires are as similar as possible, with the exception of questions about military service, exposures, or experiences that are either removed or modified in the non-Veteran questionnaire because they do not apply to this population.",
+        "All participants in VE-HEROeS will be asked to fill out a questionnaire on their military service, general health, age-related conditions, health care use, and the health experiences of their children and grandchildren."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "UNKNOWN",
+      "last_update": "2019-04-23",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT02825602",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02825602",
+            "orgStudyIdInfo": {
+              "id": "15-12"
+            },
+            "organization": {
+              "fullName": "Veteran Affairs Office of Patient Care Services",
+              "class": "FED"
+            },
+            "briefTitle": "Vietnam Era Health Retrospective Observational Study",
+            "officialTitle": "Vietnam Era Health Retrospective Observational Study",
+            "acronym": "VE-HEROeS"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2019-04",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2016-07"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2017-03-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2019-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2016-06-13",
+            "studyFirstSubmitQcDate": "2016-07-01",
+            "studyFirstPostDateStruct": {
+              "date": "2016-07-07",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2019-04-23",
+            "lastUpdatePostDateStruct": {
+              "date": "2019-04-24",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Victoria J. Davey PhD, MPH",
+              "investigatorTitle": "Senior Investigator, Epidemiology Program",
+              "investigatorAffiliation": "Veteran Affairs Office of Patient Care Services"
+            },
+            "leadSponsor": {
+              "name": "Veteran Affairs Office of Patient Care Services",
+              "class": "FED"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The Vietnam Era Health Retrospective Observational Study (VE-HEROeS) is a national study on the health and well-being of Vietnam Veterans, including Blue Water Navy Veterans, as well as Veterans who served elsewhere during the Vietnam Era (1961-1975), and similarly aged U.S. residents who never served in the military. The investigators will invite approximately 43,000 Vietnam and Vietnam Era Veterans, and approximately 11,000 members of the general U.S. population to participate in VE-HEROeS. These individuals are scientifically selected to participate; the study is not able to accept volunteers.\n\nAll participants in VE-HEROeS will be asked to fill out a questionnaire on their military service, general health, age-related conditions, health care use, and the health experiences of their children and grandchildren. A smaller group will be asked to provide the investigators with access to some of their medical records. Topics of special focus for the study include cognition, hepatitis C infection, and neurologic conditions.",
+            "detailedDescription": "It has been more than 40 years since the Vietnam War ended and there is little recent systematic knowledge of how Veterans of the Vietnam Era (1961-1975) have fared with regard to their overall health, lifestyle factors, and aging. This epidemiologic study, called the Vietnam Era Health Retrospective Observational Study (VE-HEROeS) will provide information about the health and well-being of Veterans of the Vietnam Era to Veterans and their families who have questions about the long-term health effects of service during the Vietnam War, to clinicians who care for Veterans and lack sufficient evidence to explain health conditions, and to the VA healthcare system in order to improve VA healthcare and anticipate future healthcare needs. The main objective of this study is to determine if the overall health of Veterans of the Vietnam War and Vietnam Era, with a special focus on neurologic conditions and hepatitis C infection, is different from that of their counterparts who did not serve in the military. Exploratory aims of the study are to determine if the investigators can obtain a sample of Blue Water Navy Vietnam Veterans (who served exclusively in deep coastal waters off of North or South Vietnam) and use the survey to describe their current health, and to determine the prevalence of Veterans who attribute health conditions of their descendants to their own military service, especially conditions potentially transmitted epigenetically. The study design is a survey, with hepatitis C and neurologic conditions validated by medical record review. The questionnaire includes both validated scales and new items about physical and mental health, exposures, and lifestyle. There are two versions of the questionnaire: one for Veterans of the Vietnam Era and one for those selected from the U.S. general population who have never served in the military. The questionnaires are as similar as possible, with the exception of questions about military service, exposures, or experiences that are either removed or modified in the non-Veteran questionnaire because they do not apply to this population."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Aging",
+              "Combat Disorders"
+            ],
+            "keywords": [
+              "Vietnam veteran",
+              "aging",
+              "health",
+              "War Injury",
+              "Conventional Warfare",
+              "Toxic Effect",
+              "Chemical"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "CROSS_SECTIONAL"
+            },
+            "enrollmentInfo": {
+              "count": 24306,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Vietnam War Theater Veterans",
+                "description": "Vietnam War Theater Veterans are defined for this protocol as those who served in the U.S. Armed Forces on the ground, in the air, or on the inland waters of Vietnam, Cambodia, and/or Laos between February 28, 1961 and May 7, 1975, inclusive. The investigators based this definition on legal dates of service set forth in 38 Code of Federal Regulations (CFR) 3.2 - Periods of war, but broadened the definition of sites of military service that constituted war zones based on written historical accounts and input from Vietnam Veterans."
+              },
+              {
+                "label": "Blue Water Navy Vietnam Veterans",
+                "description": "Blue Water Navy Veterans are defined as Veterans who served aboard deep-water naval vessels in waters offshore North or South Vietnam between February 28, 1961 and May 7, 1975 and who never served ashore or on inland waterways of Vietnam."
+              },
+              {
+                "label": "Vietnam era Veterans",
+                "description": "Vietnam era Veterans served in locations around the world OTHER than on the ground, in the air, or on the inland waters of Vietnam, Cambodia, and/or Laos or aboard deep-water naval vessels in waters offshore North or South Vietnam between February 28, 1961 and May 7, 1975."
+              },
+              {
+                "label": "Non-military U.S. public",
+                "description": "Non-military U.S. public are individuals who were born before 1958, never served in the U.S. military, and are age- and gender-matched (by the study investigators) to Vietnam War Theater Veterans."
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Overall Health",
+                "description": "Overall health will be measured by the mean physical component summary score (PCS) and the mean mental component score (MCS) of the Short Form 8 (SF-8) compared across the four groups. Mean scores on the 8 health concepts measured by the SF-8 (physical functioning, role limitations due to physical functioning, bodily pain, general health, energy/fatigue, social functioning, role limitations due to emotional problems, and psychological distress/well being) will also be compared. Adjustments may be made for age, gender, and prevalent co-morbidities.",
+                "timeFrame": "Past 4 weeks"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Conditions of concern",
+                "description": "The investigators will compare post-war prevalence of conditions that have been linked to Vietnam War service in other scientific studies of multiple designs: neurologic conditions ( Parkinson's disease, dementia, stroke, brain injury), Hepatitis C; hypertension, ischemic heart disease, Type II diabetes, peripheral neuropathy, various cancers, cirrhosis, alcohol and drug dependency.",
+                "timeFrame": "Health history assessed at the time of survey (Day 1)"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Self-identification of Blue Water Navy Vietnam Veterans",
+                "description": "The investigators will ask Blue Water Navy Veterans to define themselves by their response to a survey question, as no roster of these Veterans exists.",
+                "timeFrame": "Navy service exclusively in the deep offshore waters of Vietnam between February 28, 1961 and May 7, 1975."
+              },
+              {
+                "measure": "Health of offspring",
+                "description": "We ask survey respondents to report 9 conditions of their children and grandchildren that may be transmitted epigenetically",
+                "timeFrame": "Health history assessed at the time of survey (Day 1)"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* invited to participate through investigators' random sample selection process\n* able to provide informed consent\n* have a postal address in the U.S. or its territories\n\nExclusion Criteria:\n\n* individuals who are incarcerated\n* individuals who are unable to complete the survey even with assistance because of cognitive or physical limitations.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "58 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Veterans: We will obtain a stratified random sample of 45,067 Veterans from the Department of Veterans Affairs' United States Veterans Eligibility Trends \\& Statistics (USVETS) database which we believe to be the most complete database of U.S. military Veterans in existence. Stratification will be on period of service within the Vietnam era: 1961-1964 or 1965-1975. We will remove decedents and those without a current US postal address from the sample.\n\nU.S. public: The U.S. public general population comparison sample will be an age- and gender-matched sample of living non-Veteran members of the U.S. public born before 1958.",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Victoria J Davey, PhD, MPH",
+                "affiliation": "US Department of Veterans Affairs",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "U.S. Department of Veterans Affairs/Epidemiology Program",
+                "city": "Washington D.C.",
+                "state": "District of Columbia",
+                "zip": "20420",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 38.89511,
+                  "lon": -77.03637
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "2833631",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. II. Physical Health. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2708-14."
+              },
+              {
+                "pmid": "2833630",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. I. Psychosocial characteristics. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2701-7."
+              },
+              {
+                "pmid": "2833632",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. III. Reproductive outcomes and child health. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2715-9."
+              },
+              {
+                "type": "BACKGROUND",
+                "citation": "Kulka RA, Schlenger WE, Fairbank JA, Hough RL, Jordan BK, Marmar CR, et al. Trauma and the Vietnam War Generation. New York: Brunner/Mazel Publishers; 1990"
+              },
+              {
+                "pmid": "25144022",
+                "type": "BACKGROUND",
+                "citation": "Institute of Medicine (US) Committee to Review the Health Effects in Vietnam Veterans of Exposure to Herbicides. Veterans and Agent Orange: Health Effects of Herbicides Used in Vietnam. Washington (DC): National Academies Press (US); 1994. Available from http://www.ncbi.nlm.nih.gov/books/NBK236356/"
+              },
+              {
+                "pmid": "15619249",
+                "type": "BACKGROUND",
+                "citation": "Dominitz JA, Boyko EJ, Koepsell TD, Heagerty PJ, Maynard C, Sporleder JL, Stenhouse A, Kling MA, Hrushesky W, Zeilman C, Sontag S, Shah N, Ona F, Anand B, Subik M, Imperiale TF, Nakhle S, Ho SB, Bini EJ, Lockhart B, Ahmad J, Sasaki A, van der Linden B, Toro D, Martinez-Souss J, Huilgol V, Eisen S, Young KA. Elevated prevalence of hepatitis C infection in users of United States veterans medical centers. Hepatology. 2005 Jan;41(1):88-96. doi: 10.1002/hep.20502."
+              },
+              {
+                "pmid": "21625624",
+                "type": "BACKGROUND",
+                "citation": "Raymont V, Salazar AM, Krueger F, Grafman J. \"Studying injured minds\" - the Vietnam head injury study and 40 years of brain injury research. Front Neurol. 2011 Mar 28;2:15. doi: 10.3389/fneur.2011.00015. eCollection 2011."
+              },
+              {
+                "pmid": "7964667",
+                "type": "BACKGROUND",
+                "citation": "Bullman TA, Kang HK. Posttraumatic stress disorder and the risk of traumatic deaths among Vietnam veterans. J Nerv Ment Dis. 1994 Nov;182(11):604-10. doi: 10.1097/00005053-199411000-00002."
+              },
+              {
+                "pmid": "26201054",
+                "type": "BACKGROUND",
+                "citation": "Marmar CR, Schlenger W, Henn-Haase C, Qian M, Purchia E, Li M, Corry N, Williams CS, Ho CL, Horesh D, Karstoft KI, Shalev A, Kulka RA. Course of Posttraumatic Stress Disorder 40 Years After the Vietnam War: Findings From the National Vietnam Veterans Longitudinal Study. JAMA Psychiatry. 2015 Sep;72(9):875-81. doi: 10.1001/jamapsychiatry.2015.0803."
+              },
+              {
+                "pmid": "23049995",
+                "type": "BACKGROUND",
+                "citation": "Manikkam M, Tracey R, Guerrero-Bosagna C, Skinner MK. Dioxin (TCDD) induces epigenetic transgenerational inheritance of adult onset disease and sperm epimutations. PLoS One. 2012;7(9):e46249. doi: 10.1371/journal.pone.0046249. Epub 2012 Sep 26."
+              },
+              {
+                "pmid": "2244766",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. III. Hodgkin's disease, nasal cancer, nasopharyngeal cancer, and primary liver cancer. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2495-505. doi: 10.1001/archinte.150.12.2495."
+              },
+              {
+                "pmid": "2244764",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. I. Non-Hodgkin's lymphoma. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2473-83."
+              },
+              {
+                "pmid": "2244765",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. II. Soft-tissue and other sarcomas. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2485-92."
+              },
+              {
+                "pmid": "24488510",
+                "type": "BACKGROUND",
+                "citation": "Kang HK, Cypel Y, Kilbourne AM, Magruder KM, Serpi T, Collins JF, Frayne SM, Furey J, Huang GD, Kimerling R, Reinhard MJ, Schumacher K, Spiro A 3rd. HealthViEWS: mortality study of female US Vietnam era veterans, 1965-2010. Am J Epidemiol. 2014 Mar 15;179(6):721-30. doi: 10.1093/aje/kwt319. Epub 2014 Jan 30."
+              },
+              {
+                "pmid": "24983057",
+                "type": "BACKGROUND",
+                "citation": "Institute of Medicine (US) Committee on Blue Water Navy Vietnam Veterans and Agent Orange Exposure. Blue Water Navy Vietnam Veterans and Agent Orange Exposure. Washington (DC): National Academies Press (US); 2011. Available from http://www.ncbi.nlm.nih.gov/books/NBK209599/"
+              },
+              {
+                "pmid": "34138613",
+                "type": "DERIVED",
+                "citation": "Blosnich JR, Hilgeman MM, Cypel YS, Akhtar FZ, Fried D, Ishii EK, Schneiderman A, Davey VJ. Potentially traumatic events and health among lesbian, gay, bisexual and heterosexual Vietnam veterans: Results from the Vietnam Era Health Retrospective Observational study. Psychol Trauma. 2022 May;14(4):568-577. doi: 10.1037/tra0001025. Epub 2021 Jun 17."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Aggregate data will be available to investigators in accordance with VA access policy."
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D003130",
+                "term": "Combat Disorders"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D040921",
+                "term": "Stress Disorders, Traumatic"
+              },
+              {
+                "id": "D000068099",
+                "term": "Trauma and Stressor Related Disorders"
+              },
+              {
+                "id": "D001523",
+                "term": "Mental Disorders"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT06176001",
+      "title": "Group-based Psychoeducation for Relatives of Patients With Bipolar Disorder, a Randomized Controlled Trial",
+      "brief_summary": "Relatives of patients with bipolar disorder (BD) often experience emotional burden with stress, and depressive symptoms that again increases the likelihood of destabilization and relapses in the patient. The effects of group-based psychoeducation have not been investigated in large-scale real-world settings. The investigators are currently conducting a large-scale real-world randomized controlled parallel group trial (RCT) to test whether group-based psychoeducation for relatives to patients with BD improves mood instability and other critical outcomes in relatives and the corresponding patients with BD.\n\nThe trial is designed as a two-arm, parallel group randomized trial with a balanced randomization 1:1 to either group-based psychoeducation or a waiting list for approximately 4 months and subsequent group-based psychoeducation. the investigators plan to include 200 relatives. The group sizes for psychoeducation is between 20-40 relatives.The primary outcome measure is mood instability calculated based on daily smartphone-based mood self-assessment. Other relevant outcomes are measured, including patients' reported outcomes, assessing self-assessed burden, self-efficacy, and knowledge about BD.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "The investigators are currently conducting a large-scale real-world randomized controlled parallel group trial (RCT) to test whether group-based psychoeducation for relatives to patients with BD improves mood instability and other critical outcomes in relatives and the corresponding patients with BD.",
+        "The trial is designed as a two-arm, parallel group randomized trial with a balanced randomization 1:1 to either group-based psychoeducation or a waiting list for approximately 4 months and subsequent group-based psychoeducation.",
+        "The group sizes for psychoeducation is between 20-40 relatives.The primary outcome measure is mood instability calculated based on daily smartphone-based mood self-assessment."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-09-24",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06176001",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06176001",
+            "orgStudyIdInfo": {
+              "id": "P-2021-809"
+            },
+            "organization": {
+              "fullName": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital",
+              "class": "OTHER"
+            },
+            "briefTitle": "Group-based Psychoeducation for Relatives of Patients With Bipolar Disorder, a Randomized Controlled Trial",
+            "officialTitle": "Group-based Psychoeducation for Relatives of Patients With Bipolar Disorder - a Large Scale Real-world Randomized Controlled Parallel Group Trial",
+            "acronym": "R-Bipolar"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-06",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-04-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-06-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-06-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2023-11-29",
+            "studyFirstSubmitQcDate": "2023-12-08",
+            "studyFirstPostDateStruct": {
+              "date": "2023-12-19",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-09-24",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-09-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Lars Vedel Kessing",
+              "investigatorTitle": "professor",
+              "investigatorAffiliation": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital"
+            },
+            "leadSponsor": {
+              "name": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Relatives of patients with bipolar disorder (BD) often experience emotional burden with stress, and depressive symptoms that again increases the likelihood of destabilization and relapses in the patient. The effects of group-based psychoeducation have not been investigated in large-scale real-world settings. The investigators are currently conducting a large-scale real-world randomized controlled parallel group trial (RCT) to test whether group-based psychoeducation for relatives to patients with BD improves mood instability and other critical outcomes in relatives and the corresponding patients with BD.\n\nThe trial is designed as a two-arm, parallel group randomized trial with a balanced randomization 1:1 to either group-based psychoeducation or a waiting list for approximately 4 months and subsequent group-based psychoeducation. the investigators plan to include 200 relatives. The group sizes for psychoeducation is between 20-40 relatives.The primary outcome measure is mood instability calculated based on daily smartphone-based mood self-assessment. Other relevant outcomes are measured, including patients' reported outcomes, assessing self-assessed burden, self-efficacy, and knowledge about BD."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Bipolar Disorder"
+            ],
+            "keywords": [
+              "Relatives",
+              "Caregivers",
+              "Family",
+              "Psychoeducation",
+              "Randomized controlled trial"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "SUPPORTIVE_CARE",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 206,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Psychoeducation",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Participants randomized to this arm are offered group-based psychoeducation shortly thereafter.",
+                "interventionNames": [
+                  "Other: psychoeducation in groups"
+                ]
+              },
+              {
+                "label": "Waiting list",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Participants randomized to this arm are placed on a waiting list for approximately 4 months and then offered group-based psychoeducation thereafter.",
+                "interventionNames": [
+                  "Other: psychoeducation in groups"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "psychoeducation in groups",
+                "description": "Group-based psychoeducation for relatives. Group size: 20-40 relatives. Duration of intervention: six sessions, each two hours long with a 15 minutes break, over a period of 6-10 weeks. The sessions are held by experienced clinicians from the Copenhagen Affective Disorder Clinic, one chief physician and one nurse. Each session focuses on a specific topic, which the clinicians present and discuss using a presentation viewer. The sessions are interactive, and the participants are encouraged to ask questions during the presentations. During each session the participants will have some discussions in smaller groups to reflect on a topics and issues raised during the session.",
+                "armGroupLabels": [
+                  "Psychoeducation",
+                  "Waiting list"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Change in mood instability in the relatives",
+                "description": "Mood instability is calculated from daily self-reported mood registration in the app Monsenso. Participating relatives score their daily mood on a 9-point scale from 0-8 where 8 is 'in a brilliant mood' and 0 is 'really sad'\n\nThe participant rate daily in the Monsenso app during the time the participate in the study (4-8 months depending on which group they are randomly allocated to).\n\nFor each participant, a mood instability measure will be estimated for each day and aggregated by applying the root mean square successive difference (rMSSD) method.",
+                "timeFrame": "daily in 4-8 months."
+              },
+              {
+                "measure": "Change in mood instability in the corresponding patients",
+                "description": "Mood instability is calculated from daily self-reported mood registration via the app Monsenso. The patients score their daily mood on a scale from -3 to +3, where -3 is the worst and +3 is the best mood. Patients' data from the Monsenso app is collected from a parallel RCT, in the time frame in which the relatives are in the study.",
+                "timeFrame": "daily in 4-8 months."
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Self-reported daily registrations in the Monsenso app on the following topics: daily activity level, sleep, mixed moods, anxiety, irritability, cognition, stress, alchohol consumption, patient support and level of burden from being a caregiver,",
+                "description": "Each topic is covered by a single, simple question in the Monsenso app:\n\n* Daily activity level: 'how active have you been?' (7-point scale from very little to very much)\n* Sleep: How many hours did you sleep (scale from 0 to 12+hours)\n* mixed moods: have you experienced mixed good and bad mood? (yes/no)\n* Anxiety: Have you felt anxiety? (5-point scale from 'not at all' to 'to a high degree')\n* Irritability:Have you felt irritable? (5-point scale, same as above)\n* Cognition: Have you experienced cognitive difficulties? (5-point scale, same as above)\n* Stress: Have you been stressed? (5-point scale, same as above)\n* Alcohol: how many drinks have you had? (scale from 0 til 10+ drinks)\n* Patient support: Have you helped or supported the patient? (5-point scale, same as above)\n* Caregiver burden: To which degree have you experienced the patient's mental health problems as a burden to you? (5-point scale, same as above)",
+                "timeFrame": "daily 4-8 months."
+              },
+              {
+                "measure": "Self-rated caregiver burden",
+                "description": "Burden Assessment Scale\n\n19 questions covering subjects as economic and practical burden, stigma, worries, conflicts etc, participants answer on a scale from \\[1: not at all\\] to \\[4: to a high degree\\] or \\[not relevant\\]\n\nReinhard SC, Gubman GD, Horwitz AV, Minsky S. Burden assessment scale for families of the seriously mentally ill. Eval Program Plann. 1. juli 1994;17(3):261-9.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated expressed emotions",
+                "description": "Perceived Criticism Measure\n\nThe questionnaire consists of four questions covering criticism in a relationship, answered on a scale from 0 to 10, where 10 is the highest and most negative.\n\nHooley JM, Parker HA. Measuring expressed emotion: An evaluation of the shortcuts. J Fam Psychol. september 2006;20(3):386-96.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated quality of life",
+                "description": "Carer Quality of Life\n\n7 multiple-answer questions and one Visual Analog Scale to evaluate quality of life in the light of being an informal caregiver.\n\nBrouwer WBF, van Exel NJA, van Gorp B, Redekop WK. The CarerQol instrument: A new instrument to measure care-related quality of life of informal caregivers for use in economic evaluations. Qual Life Res. 1. august 2006;15(6):1005-21.\n\nHoefman RJ, van Exel NJA, Looren de Jong S, Redekop WK, Brouwer WBF. A new test of the construct validity of the CarerQol instrument: measuring the impact of informal care giving. Qual Life Res. 2011;20(6):875-87.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated carer self-efficacy",
+                "description": "Carer-Self-Efficacy\n\n12 questions about self-efficacy as a caregiver for a person with Bipolar disorder. The questionnaire was originally developed for persons with bipolar disorder (Smith) and later Hubbard et al made a version for caregivers.\n\nSmith LM, Erceg-Hurn DM, McEvoy PM, Lim L. Self-efficacy in bipolar disorder: Development and validation of a self-report scale. J Affect Disord. 1. februar 2020;262:108-17.\n\nHubbard AA, McEvoy PM, Smith L, Kane RT. Brief group psychoeducation for caregivers of individuals with bipolar disorder: A randomized controlled trial. J Affect Disord. august 2016;200:31-6.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Knowledge about bipolar",
+                "description": "25 questions testing the factual knowledge about bipolar disorder.\n\n\"The Bipolar disorders knowledge scale\", Trevor A. Stump and Marty L. Eng. Journal of Affective disorders, 2018-10-01, Volume 238, Pages 645-650.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated health related quality of life",
+                "description": "Short Form-12 (54,55) 12 questions on health-related quality of life.\n\nChristensen LN, Ehlers L, Larsen FB, Jensen MB. Validation of the 12 Item Short form Health Survey in a Sample from Region Central Jutland. Soc Indic Res. 1. november 2013;114(2):513-21.\n\nAmir M, Lewin-Epstein N, Becker G, Buskila D. Psychometric properties of the SF-12 (Hebrew version) in a primary care population in Israel. Med Care. oktober 2002;40(10):918-28.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated mental health",
+                "description": "The Brief Symptom Inventory (BSI: Derogatis, 1992), a 53-item self-report inventory of psychopathology and psychological distress, the BSI psychometric profile produces the same nine primary symptom dimensions produced by the SCL-90-R.\n\nDerogatis LR, Melisaratos N. The Brief Symptom Inventory: an introductory report. Psychol Med. august 1983;13(3):595-605.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated stress",
+                "description": "Perceived Stress Scale\n\n10 questions covering stress symptoms in the last month.\n\nCohen S. Perceived stress in a probability sample of the United States. I: The social psychology of health. Thousand Oaks, CA, US: Sage Publications, Inc; 1988. s. 31-67. (The Claremont Symposium on Applied Social Psychology).",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated bipolar symptoms",
+                "description": "Mood Disorder Questionnaire\n\nHirschfeld RMA, Williams JBW, Spitzer RL, Calabrese JR, Flynn L, Keck PE, m.fl. Development and Validation of a Screening Instrument for Bipolar Spectrum Disorder: The Mood Disorder Questionnaire. Am J Psychiatry. november 2000;157(11):1873-5.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated depressive symptoms",
+                "description": "Major Depression Inventory\n\nBech P, Timmerby N, Martiny K, Lunde M, Soendergaard S. Psychometric evaluation of the Major Depression Inventory (MDI) as depression severity scale using the LEAD (Longitudinal Expert Assessment of All Data) as index of validity. BMC Psychiatry. 5. august 2015;15:190.\n\nBech P, Wermuth L. Applicability and validity of the Major Depression Inventory in patients with Parkinson's disease. Nord J Psychiatry. (52):305-10.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated Childhood trauma",
+                "description": "Childhood Trauma Questionnaire (CTQ)\n\nBernstein DP, Fink L, Handelsman L, Foote J, Lovejoy M, Wenzel K, m.fl. Initial reliability and validity of a new retrospective measure of child abuse and neglect. Am J Psychiatry. august 1994;151(8):1132-6.",
+                "timeFrame": "Only at inclusion"
+              },
+              {
+                "measure": "Clinically observer rated Depressive symptoms",
+                "description": "Depressive symptoms assessed by the Hamilton Depression Rating Scale-6 items (min. value = 0; max. value = 22, with higher values reflecting more depressive symptoms)\n\nHamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry. februar 1960;23(1):56-62.",
+                "timeFrame": "At inclusion, at 3-4 months and for the control-group also at 7-8 months."
+              },
+              {
+                "measure": "Clinically observer rated Manic symptoms",
+                "description": "Manic symptoms assessed by the Young Mania Rating Scale (min. value = 0; max. value = 60, with higher values reflecting more manic symptoms)\n\nYoung RC, Biggs JT, Ziegler VE, Meyer DA. A rating scale for mania: reliability, validity and sensitivity. Br J Psychiatry J Ment Sci. november 1978;133:429-35.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Clinically observer rated General functioning",
+                "description": "General functioning assessed by the Functional Assessment Short Test, a 24-item interviewer-administered interview concerning autonomy, occupational functioning, cognitive functioning, financial issues, interpersonal relationships and leisure time (min. value = 0; max. value = 72, with higher values reflecting poorer function)\n\nRosa AR, Sánchez-Moreno J, Martínez-Aran A, Salamero M, Torrent C, Reinares M, m.fl. Validity and reliability of the Functioning Assessment Short Test (FAST) in bipolar disorder. Clin Pract Epidemiol Ment Health CP EMH. 7. juni 2007;3:5.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Change in automatically smarthone-generated data",
+                "description": "Automatically smartphone-generated data on physical - and social activity is generated in the Monsenso app using the phone's sensor-data.\n\nphysical activity: location and physical activity (step count and movement) social activity: battery level, light level and screen mode.\n\nThese automatically generated data has been shown to be informative in prior study:\n\nFaurholt-Jepsen M, Frost M, Vinberg M, Christensen EM, Bardram JE, Kessing LV. Smartphone data as objective measures of bipolar disorder symptoms. Psychiatry Res. 30. juni 2014;217(1-2):124-7.",
+                "timeFrame": "4-8 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Relatives of patients with Bipolar Disorder who are affiliated with the Copenhagen Affective Disorder Clinic.\n\nExclusion Criteria:\n\n* Insufficient Danish language.\n* Age below 18 years.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Lars V Kessing, professor",
+                "affiliation": "Copenhagen Psychiatric Center",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Copenhagen Affective Disorder Clinic",
+                "city": "Copenhagen",
+                "zip": "2000",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40890647",
+                "type": "DERIVED",
+                "citation": "Stokholm JR, Waldemar AK, Kessing LV. Becoming diplomats with boundaries - a thematic analysis of relatives' experiences with group-based psychoeducation about bipolar disorder. BMC Psychiatry. 2025 Sep 1;25(1):843. doi: 10.1186/s12888-025-07219-y."
+              },
+              {
+                "pmid": "38783322",
+                "type": "DERIVED",
+                "citation": "Stokholm JR, Vinberg M, Faurholt-Jepsen M, Kessing LV. Study protocol: group-based psychoeducation for relatives of patients with bipolar disorder-a large scale real-world randomized controlled parallel group trial, the R-bipolar RCT. Trials. 2024 May 23;25(1):342. doi: 10.1186/s13063-024-08172-z."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001714",
+                "term": "Bipolar Disorder"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000068105",
+                "term": "Bipolar and Related Disorders"
+              },
+              {
+                "id": "D019964",
+                "term": "Mood Disorders"
+              },
+              {
+                "id": "D001523",
+                "term": "Mental Disorders"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D044382",
+                "term": "Population Groups"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003710",
+                "term": "Demography"
+              },
+              {
+                "id": "D011154",
+                "term": "Population Characteristics"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT05152771",
+      "title": "Role of Ketogenic Diet in SSPE",
+      "brief_summary": "SSPE is a progressive neurodegenerative disorder occurring after measles infection and is potentially life-threatening.Measles infection remains endemic in Pakistan especially in the lower socioeconomic population where the vaccine coverage is low. The ketogenic diet has been used in a large number of diseases especially intractable epilepsies in children and also in certain neurodegenerative disorders like Parkinson's and Alzheimer's in adults. Some of the case reports from India and the USA have reported the beneficial results of ketogenic diet(KD) not only in the control of myoclonic jerks of SSPE but also in stopping and reversing the progress of the disease. There is a definite need to conduct a multi-center trial of KD to establish its effectiveness in SSPE.\n\nAt the Aga khan university, the investigators have an experienced team who have been using KD for the last 9 years for intractable epilepsy. At AKU the investigators currently have 4 patients on board for the past 4 months, with diagnosed SSPE on Low Glycemic Index Diet and showing some improvement in their seizure and motor control. Based on these reports, for a poor measles control country like Pakistan, there is a need to work further in order to establish evidence for KD therapy as a treatment for SSPE. The findings of the proposed study will serve as a hope for the improvement of quality of life of patients suffering from SSPE which is a devastating disease with almost 100% mortality .",
+      "detailed_description": "Methodology This will be a bi-center trial. The national institute of child health (NICH) will be a partner in this study along with Aga Khan University Hospital, Karachi. This study will be a nutritional research study looking at the role of the Ketogenic diet in improving seizures and overall disability in children with SSPE. LGIT will be the form of KD used for these patients.\n\nAll families with children who have been newly diagnosed with confirmed SSPE will be approached to start the low glycemic index diet,(liberalized kind of KD). They will be counseled on the disease and the diet regimen. all possible side effects and management will be discussed. The duration of follow-up will be for one year and there will be no potential cost incurred by the patient.\n\nPatients will also be followed up by the physiotherapist at the physiotherapy department at AKU ( @ no cost)who will be supporting their motor rehabilitation. Investigations which include blood work and echo and ultrasound and EEGs will be done at regular intervals Sampling technique A consecutive sampling of all children who are diagnosed with SSPE will be used. A total of 26 children \\>2-\\<15 years will be enrolled over a period of two years.",
+      "evidence_sentences": [
+        "The ketogenic diet has been used in a large number of diseases especially intractable epilepsies in children and also in certain neurodegenerative disorders like Parkinson's and Alzheimer's in adults.",
+        "Some of the case reports from India and the USA have reported the beneficial results of ketogenic diet(KD) not only in the control of myoclonic jerks of SSPE but also in stopping and reversing the progress of the disease.",
+        "The findings of the proposed study will serve as a hope for the improvement of quality of life of patients suffering from SSPE which is a devastating disease with almost 100% mortality ."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "UNKNOWN",
+      "last_update": "2023-07-22",
+      "query_keywords": [
+        "parkinson's disease",
+        "parkinson",
+        "disease",
+        "children",
+        "usa",
+        "main",
+        "cause"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT05152771",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05152771",
+            "orgStudyIdInfo": {
+              "id": "2021-6491-19410."
+            },
+            "organization": {
+              "fullName": "Aga Khan University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Role of Ketogenic Diet in SSPE",
+            "officialTitle": "Post Measles Subacute Sclerosing Panencephalitis (SSPE)and the Role of Ketogenic Diet, A Prospective Cohort Study"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2023-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2024-01",
+              "type": "ESTIMATED"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-12",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2025-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2021-11-03",
+            "studyFirstSubmitQcDate": "2021-11-29",
+            "studyFirstPostDateStruct": {
+              "date": "2021-12-10",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2023-07-22",
+            "lastUpdatePostDateStruct": {
+              "date": "2023-07-25",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Dr Shahnaz Ibrahim",
+              "investigatorTitle": "PROFESSOR",
+              "investigatorAffiliation": "Aga Khan University"
+            },
+            "leadSponsor": {
+              "name": "Aga Khan University",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "National Institute of Child Health, Karachi, Pakistan",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "SSPE is a progressive neurodegenerative disorder occurring after measles infection and is potentially life-threatening.Measles infection remains endemic in Pakistan especially in the lower socioeconomic population where the vaccine coverage is low. The ketogenic diet has been used in a large number of diseases especially intractable epilepsies in children and also in certain neurodegenerative disorders like Parkinson's and Alzheimer's in adults. Some of the case reports from India and the USA have reported the beneficial results of ketogenic diet(KD) not only in the control of myoclonic jerks of SSPE but also in stopping and reversing the progress of the disease. There is a definite need to conduct a multi-center trial of KD to establish its effectiveness in SSPE.\n\nAt the Aga khan university, the investigators have an experienced team who have been using KD for the last 9 years for intractable epilepsy. At AKU the investigators currently have 4 patients on board for the past 4 months, with diagnosed SSPE on Low Glycemic Index Diet and showing some improvement in their seizure and motor control. Based on these reports, for a poor measles control country like Pakistan, there is a need to work further in order to establish evidence for KD therapy as a treatment for SSPE. The findings of the proposed study will serve as a hope for the improvement of quality of life of patients suffering from SSPE which is a devastating disease with almost 100% mortality .",
+            "detailedDescription": "Methodology This will be a bi-center trial. The national institute of child health (NICH) will be a partner in this study along with Aga Khan University Hospital, Karachi. This study will be a nutritional research study looking at the role of the Ketogenic diet in improving seizures and overall disability in children with SSPE. LGIT will be the form of KD used for these patients.\n\nAll families with children who have been newly diagnosed with confirmed SSPE will be approached to start the low glycemic index diet,(liberalized kind of KD). They will be counseled on the disease and the diet regimen. all possible side effects and management will be discussed. The duration of follow-up will be for one year and there will be no potential cost incurred by the patient.\n\nPatients will also be followed up by the physiotherapist at the physiotherapy department at AKU ( @ no cost)who will be supporting their motor rehabilitation. Investigations which include blood work and echo and ultrasound and EEGs will be done at regular intervals Sampling technique A consecutive sampling of all children who are diagnosed with SSPE will be used. A total of 26 children \\>2-\\<15 years will be enrolled over a period of two years."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "SSPE"
+            ],
+            "keywords": [
+              "Ketogenic Diet",
+              "Progressive Neurological Disorder",
+              "Intractable Epilepsy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 26,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Ketogenic Diet",
+                "type": "OTHER",
+                "description": "This will be a prospective cohort study. All families with children who have been newly diagnosed with confirmed SSPE (based on Dyken's Criteria) will be approached to start the low glycemic index diet (liberalized kind of KD). A thorough dietary history will be taken from the parents/caregivers, and they will be counseled by a trained dietitian on the diet, all pros and cons, and the format. After the verbal agreement, formal consent will be taken from the parent/ caregiver for initiation of the diet.",
+                "interventionNames": [
+                  "Other: KETOGENIC DIET"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "KETOGENIC DIET",
+                "description": "This will be a prospective cohort study. All families with children who have been newly diagnosed with confirmed SSPE (based on Dyken's Criteria) will be approached to start the low glycemic index diet (liberalized kind of KD). A thorough dietary history will be taken from the parents/caregivers, and they will be counseled by a trained dietitian on the diet, all pros and cons, and the format. After the verbal agreement, formal consent will be taken from the parent/ caregiver for initiation of the diet.\n\nThese patients are usually already admitted in the hospital for initial diagnosis and management. Therefore the initiation of the diet will be in the hospital during their admission if the parents/ caregivers agrees. A minimum of 2-3 days would be required to train the parents/caregivers.",
+                "armGroupLabels": [
+                  "Ketogenic Diet"
+                ],
+                "otherNames": [
+                  "LOW GLYCEMIC INDEX DIET"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Seizure control",
+                "description": "frequency and severity will be measured through a seizure record diary, daily number of seziures will be averaged over a month and monthly record will be evaluated as percentage increase or decrease in 3 months intervals",
+                "timeFrame": "for a period of 6 months ."
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "cognitive Change ,",
+                "description": "checked by using Pedicat with 4 domains. Daily activities, Mobility and Social/Cognitive domains.The three functional skill domains are rated on a 4 point scale:\n\n1. Unable\n2. Hard\n3. A little hard\n4. Easy\n\n0.I don't know\n\nResponsibility:This domain has its own 5 point scale:\n\n1. Adult/caregiver has full responsibility;\n2. Adult/caregiver has most responsibility and child takes a little responsibility\n3. Adult/caregiver and child share responsibility about equally\n4. Child has most responsibility with a little direction, supervision or guidance from an adult/caregiver\n5. Child takes full responsibility without any direction, supervision or guidance from an adult/caregiver Two types of score will calculate: normative scores and scaled scores. The normative score is based on the child's chronological age. Scaled score provides a way to look at current functional skills and progress in skills over times (compare the child towards itself).",
+                "timeFrame": "base line, after 6 months of study then after and one year of study."
+              },
+              {
+                "measure": "behavioral Change",
+                "description": "this will be checked by using modified Ashworth scales.MODIFIED ASHWORTH The modified Ashworth scale is a muscle tone assessment scale used to assess the resistance experienced during passive range of motion, which does not require any instrumentation and is quick to perform.\n\nscoring 0 No increase in tone 1 slight increase in tone giving a catch when slight increase in muscle tone, manifested by the limb was moved in flexion or extension.\n\n1+ slight increase in muscle tone, manifested by a catch followed by minimal resistance throughout (ROM ) 2 more marked increase in tone but more marked increased in muscle tone through most limb easily flexed 3 considerable increase in tone, passive movement difficult 4 limb rigid in flexion or extension",
+                "timeFrame": "base line, after 6 months of study then after and one year of study"
+              },
+              {
+                "measure": "motor developmental Change",
+                "description": "this will be checked by , Modified Rankin and GMFM Modified Rankin Scale Score Description 0 No symptoms at all\n\n1. No significant disability despite symptoms\n2. Slight disability\n3. Moderate disability\n4. Moderately severe disability\n5. Severe disability\n6. Dead GMFM There is a scoring system with each item scored as 0, 1, 2, 3, or \"not tested\". A scoring key of 0 - does not initiate, 1 - initiates, 2 - partially completes, and 3 - completed, is used; however parameters such as distance, time, support provided, accuracy, counts, and tasks will determine specific item scores. Items that a child refuses to attempt despite reason they may be able to perform at least partially or items not administered are scored as 'not tested'.\n\nThe scoring system of the GMFM is a four-point scale that consists of 66 items divided into five dimensions of gross motor function:(a) lying and rolling, (b) sitting, (c) crawling and kneeling, (d) standing, and (e) walking, running and jumping.",
+                "timeFrame": "base line, after 6 months of study then after and one year of study"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:• All patients with a recent diagnosis of SSPE based on Dyken's criteria. Children aged ≥2 - ≤15 years.\n\n• Having at least one member of the family residing with the patient who can read and understand directions in Urdu and /or Sindhi.\n\nExclusion Criteria:\n\n* • Parents not agreeing to start the diet.\n\n  * Age less than 2 years or over 15 years.\n  * Patients who are already being given immune modulators.\n  * Any other associated co-morbidity.\n  * Patients having difficulty in swallowing and parents not allowing a nasogastric tube.\n  * Totally uneducated family with no one who can read or write and understand directions in Urdu and/ or Sindhi.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "2 Years",
+            "maximumAge": "15 Years",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Shahnaz H Ibrahim, MBBS;FCPS",
+                "role": "CONTACT",
+                "phone": "+923002119347",
+                "email": "shahnaz.ibrahim@aku.edu"
+              },
+              {
+                "name": "Hira Farooq, NUTRITION",
+                "role": "CONTACT",
+                "phone": "+923152566548",
+                "email": "hira.farooq@aku.edu"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Shahnaz H Ibrahim, MBBS ;FCPS",
+                "affiliation": "AKU",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "25149833",
+                "type": "RESULT",
+                "citation": "Rafique A, Amjad N, Chand P, Zaidi SS, Rana MS, Ahmed K, Ibrahim S. Subacute sclerosing panencephalitis: clinical and demographic characteristics. J Coll Physicians Surg Pak. 2014 Aug;24(8):557-60."
+              },
+              {
+                "pmid": "25232151",
+                "type": "RESULT",
+                "citation": "Ibrahim SH, Amjad N, Saleem AF, Chand P, Rafique A, Humayun KN. The upsurge of SSPE--a reflection of national measles immunization status in Pakistan. J Trop Pediatr. 2014 Dec;60(6):449-53. doi: 10.1093/tropej/fmu050. Epub 2014 Sep 16."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "Jafri SK, Kumar R, Ibrahim SH. Subacute sclerosing panencephalitis - current perspectives. Pediatric Health Med Ther. 2018;9:67-71",
+                "url": "http://doi.org/10.2147/PHMT.S126293"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D013344",
+                "term": "Subacute Sclerosing Panencephalitis"
+              },
+              {
+                "id": "D000069279",
+                "term": "Drug Resistant Epilepsy"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D018792",
+                "term": "Encephalitis, Viral"
+              },
+              {
+                "id": "D020805",
+                "term": "Central Nervous System Viral Diseases"
+              },
+              {
+                "id": "D002494",
+                "term": "Central Nervous System Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000069544",
+                "term": "Infectious Encephalitis"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D008457",
+                "term": "Measles"
+              },
+              {
+                "id": "D018185",
+                "term": "Morbillivirus Infections"
+              },
+              {
+                "id": "D018184",
+                "term": "Paramyxoviridae Infections"
+              },
+              {
+                "id": "D018701",
+                "term": "Mononegavirales Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D012897",
+                "term": "Slow Virus Diseases"
+              },
+              {
+                "id": "D004660",
+                "term": "Encephalitis"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D000090862",
+                "term": "Neuroinflammatory Diseases"
+              },
+              {
+                "id": "D004827",
+                "term": "Epilepsy"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D055423",
+                "term": "Diet, Ketogenic"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D050528",
+                "term": "Diet, Carbohydrate-Restricted"
+              },
+              {
+                "id": "D004035",
+                "term": "Diet Therapy"
+              },
+              {
+                "id": "D044623",
+                "term": "Nutrition Therapy"
+              },
+              {
+                "id": "D013812",
+                "term": "Therapeutics"
+              },
+              {
+                "id": "D004032",
+                "term": "Diet"
+              },
+              {
+                "id": "D009747",
+                "term": "Nutritional Physiological Phenomena"
+              },
+              {
+                "id": "D000066888",
+                "term": "Diet, Food, and Nutrition"
+              },
+              {
+                "id": "D010829",
+                "term": "Physiological Phenomena"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06829342",
+            "orgStudyIdInfo": {
+              "id": "1759595-5"
+            },
+            "organization": {
+              "fullName": "University of Delaware",
+              "class": "OTHER"
+            },
+            "briefTitle": "Stochastic Resonance Stimulation Effect on Gait Stability in Parkinson Disease",
+            "officialTitle": "The Role of Sensory Deficits in the Neural Control of Balance During Walking in Parkinson's Disease"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-02",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-05-19",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2022-12-13",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2022-12-13",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2025-02-03",
+            "studyFirstSubmitQcDate": "2025-02-10",
+            "studyFirstPostDateStruct": {
+              "date": "2025-02-17",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-02-10",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-02-17",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University of Delaware",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Parkinson's Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The present study explored the use of a technique called stochastic resonance (SR) stimulation that may help individuals with Parkinson Disease maintain balance while walking on challenging surfaces. Impaired balance represents one of the disease symptoms, putting people at risk for falls, partly due to impaired processing of sensory information. SR uses light electrical signals to improve the way the body detects sensations. We wanted to test if SR could help people with Parkinson disease stay steadier while walking. Each participant's optimal SR intensity was determined before they walked on a treadmill in a virtual environment that created visual disturbances to challenge their balance. We measured how much their body swayed, how they placed their feet, and how their ankles moved during the walking tasks."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Parkinson Disease"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "primaryPurpose": "BASIC_SCIENCE",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "PARTICIPANT"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 21,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Stochastic Resonance (SR)",
+                "type": "EXPERIMENTAL",
+                "description": "During this condition, participants will walk on the treadmill while receiving SR stimulation at their individual optimal intensity (SR) with and without visual perturbations.",
+                "interventionNames": [
+                  "Device: Stochastic Resonance (SR)"
+                ]
+              },
+              {
+                "label": "No Stochastic Resonance (no-SR)",
+                "type": "NO_INTERVENTION",
+                "description": "During this condition, participants will walk on the treadmill while receiving no SR stimulation (no-SR) with and without visual perturbations."
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Stochastic Resonance (SR)",
+                "description": "The system consists of six linear isolated stimulators (STMISOLA, Biopac Systems, Inc., Goleta, USA). The SR signal (Gaussian White Noise, zero mean) will be generated through a 16 bit PCI 6733 National Instruments multifunction data acquisition card by a custom LabView program. The stimulation sites include the ankle, lateral soleus, peroneus longus, and tibialis anterior muscles and the hip.",
+                "armGroupLabels": [
+                  "Stochastic Resonance (SR)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Change in the Center of Mass (CoM) excursion",
+                "description": "For the visual perturbation trials, we will use CoM excursion as the primary outcome measure since it has been used in prior studies in children and adults using visual perturbation protocols. This is determined by comparing the average CoM during perturbed steps to non-perturbed steps for each participant, integrated across the first eight steps initiated by the heel strike that triggered the stimulus. We will measure CoM using kinetics and kinematic computed through a motion capture system(Qualysis).\n\nFor the unperturbed trials, we will use margin of stability (MoS) as the primary outcome measure. MOS refers to the distance between extrapolated center of mass, which includes center of mass position and velocity, and the base of support. It has been previously used to measure balance in children with cerebral palsy and Parkinson Disease.",
+                "timeFrame": "Through study completion, an average of 1 year."
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Parkinson Disease\n* Hoehn and Yahr (H\\&Y) stage ≤ III\n* Can walk independently for at least 2 minutes without an assistive device or orthosis\n* Ability to communicate discomfort during testing\n* Can follow multi-step commands\n* Scored at least 24/30 on the Montreal Cognitive assessment (MoCA)\n\nExclusion Criteria:\n\n* Any head, neck, or face injury in the six months prior to the study (e.g., concussion, eye injury)\n* History of vestibular or ocular dysfunction\n* Currently taking any medications affecting balance (i.e. antibiotics)\n* Injuries to lower extremities affecting balance in the past six months\n* Pregnancy\n* Any neurological disorders other than Parkinson's disease (e.g., seizure disorders, closed head injuries with loss of consciousness greater than 15 minutes, CNS neoplasm, history of stroke)\n* Unstable cardiac or pulmonary disease\n* Clinically obese (BMI 30 or above)\n* Any metal implant in the feet or legs that is close to the stimulating electrodes\n* A known allergy to medical-grade adhesives\n* Any other comorbidity affecting the ability to safely walk without assistance for at least 2 minutes\n* Exhibited severe dyskinesia\n* Did not respond to L-DOPA or other dopaminergic treatment\n* Exhibited cardiovascular-autonomic or multiple-system symptoms indicative of a \"Parkinsonism-plus\" presentation",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "40 Years",
+            "maximumAge": "85 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "John J Jeka, PhD",
+                "affiliation": "University of Delaware",
+                "role": "STUDY_DIRECTOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University of Delaware",
+                "city": "Newark",
+                "state": "Delaware",
+                "zip": "19713",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.68372,
+                  "lon": -75.74966
+                }
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010300",
+                "term": "Parkinson Disease"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D020734",
+                "term": "Parkinsonian Disorders"
+              },
+              {
+                "id": "D001480",
+                "term": "Basal Ganglia Diseases"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D009069",
+                "term": "Movement Disorders"
+              },
+              {
+                "id": "D000080874",
+                "term": "Synucleinopathies"
+              },
+              {
+                "id": "D019636",
+                "term": "Neurodegenerative Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03274037",
+            "orgStudyIdInfo": {
+              "id": "IDRCB: 2013-A00289-36"
+            },
+            "organization": {
+              "fullName": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            },
+            "briefTitle": "Evaluation of Cerebral Elastography by Magnetic Resonance: Comparison of Healthy Subjects and Patients With Glial Tumor",
+            "officialTitle": "The Relevance of Cerebral MRI Elastography in the Mechanical Characterization of Glial Tumors",
+            "acronym": "g-BrainMRE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2017-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-07-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2020-07-07",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2017-09-04",
+            "studyFirstSubmitQcDate": "2017-09-05",
+            "studyFirstPostDateStruct": {
+              "date": "2017-09-06",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2017-09-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2017-09-08",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Assistance Publique - Hôpitaux de Paris",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "MRI elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties, like palpation. These depend on the structure of the tissues, their biological conditions and possible conditions. This non-invasive technique allows exploration of deep organs such as the brain that the doctor's hand can not reach. MRI elastography may prove to be an essential tool for study, diagnosis, staging and therapeutic monitoring of brain diseases.\n\nNeurodegenerative diseases (Alzheimer's, Parkinson's, Creutzfeldt-Jakobes) and cancers largely modify the mechanical properties of the affected tissues. For a first evaluation of the technique, we are interested in glial tumors representing half of the intracranial tumors in adults (incidence: 5 cases per 100 000 inhabitants), the second cancer in children and the third cause of death in l Young adult.",
+            "detailedDescription": "Initiated in 1996, magnetic resonance elastography detects the movement of tissues in the human body and monitors their response to mechanical stress in order to reveal their mechanical properties. These depend on the structure of the tissues, their biological conditions and the possible affections affecting them,. This technique, with recognized safety, allows us to replace the doctor's usual palpation of peripheral organs, such as the liver, or the breast, and to consider the exploration of deeper organs such as the heart or the brain ,. At the Bicêtre Inter-Establishment Center, under the direction of Ralph Sinkus of the Beaujon Hospital, the elastography of breast7 (for the exploration of tumors) and of the heart9 is already being studied . At the Hôpital de Beaujon, elastography was developed to study tumors, fibrosis and cirrhosis of the liver5. Through a vibrating bar, Mayo Clinic11, in the United States, then, in an oscillating cradle, Charity12, Germany, induced waves in the human brain and early measurements of the brain's elastography showed a Significant difference in the modulus of elasticity and viscosity of the white matter and the gray matter. The dependence of these modules on age and gender was discussed.\n\nThe elasticity measured by MRI of tumors of 38 to 75 mm in diameter could also be correlated with the tissue consistency of the samples obtained during a surgical reduction. Finally, in a patient with a temporal glioma, the mean modulus of elasticity in the tumor region was measured by elastography close to 30% greater than in the corresponding region of the healthy hemisphere.\n\nBut the difficulty of introducing a mechanical wave into the brain through the cranial chamber and the surrounding cerebro-spinal fluid limits the scope of the advanced results, which are essentially qualitative at the moment. The median amplitude of the displacements measured in the brain during these studies is only 7.33 μm at 40 Hz and drops to 2.70 μm at 120 Hz while it is more than 21 μm in the Liver and breast at 75 and 90 Hz respectively4. Recently, the IR4M has developed an original excitation device that allows to circumvent this limit. Displacements of cerebral tissues of several tens of micrometers have been reported by MRI and the inversion of the problem leading to the viscoelastic modules could be carried out on the whole of the human brain"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Elasticity Imaging Techniques"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 48,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Examination of cerebral MRI elastography",
+                "type": "EXPERIMENTAL",
+                "description": "The mechanical waves will be induced by pressure waves guided to the mouth of the elongated subject in the MRI",
+                "interventionNames": [
+                  "Diagnostic Test: Device for mechanical excitation by pressure waves"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DIAGNOSTIC_TEST",
+                "name": "Device for mechanical excitation by pressure waves",
+                "description": "The IRM elastography technique, proven and patented in 2010 by the IR4M (Orsay, France), consists in characterizing by IRM induced waves in the human body in order to determine the mechanical properties Of the target organ.\n\nThe mechanical waves will be induced by pressure waves guided at the mouth of the subject elongated in the MRI and consisting of a function generator at a frequency between 5 Hz and 500 Hz, linear amplifier , An electromechanical transducer, a waveguide whose length is adapted to the chosen excitation frequency, an antibacterial filter and a disposable mouthpiece\n\nThe MRI imager Achieva 1.5 T MRI (Philips Healthcare, Best, the Netherlands) and the SIGNA Architect GEM 3.0T (GE medical systems, LLC, USA) system will be used to measure brain tissue displacement fields.",
+                "armGroupLabels": [
+                  "Examination of cerebral MRI elastography"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "normal values of cerebral MRI elastography in healthy volunteers",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Values of shear modulus of elasticity in the brain region explored",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              },
+              {
+                "measure": "Values of shear viscosity modulus according to the explored region of the brain",
+                "description": "Mechanical excitation by pressure waves",
+                "timeFrame": "1 month"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria for healthy subjects will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* No known and diagnosed neurological pathologies such as stroke, cerebral surgery, central nervous system tumor, inflammatory disease (such as multiple sclerosis), neurodegenerative disease (such as Alzheimer's, Parkinson's or Creutzfeldt-Jakobes's ), depression\n* Informed consent\n\nInclusion criteria for patients will be:\n\n* Age between 18 and 65 years\n* Ability to hold in an MRI device without moving\n* Glial tumor greater than 3 mm diagnosed by standard MRI\n* Informed and informed consent\n\nExclusion Criteriafor both patients and healthy subjects will be:\n\n* Inability to perform an MRI examination : claustrophobia, presence of ferromagnetic metallic foreign bodies, wearing a pace-maker, metallic cardiac prosthetic valve, cochlear implants, vascular clips, insulin pump, pregnancy, breastfeeding..\n\n  * Non-affiliation to a social security scheme (beneficiary or beneficiary)\n  * Intercurrent disorder likely to disrupt test results\n  * Patient under anticoagulant:",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "65 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "role": "CONTACT",
+                "phone": "01 45 21 33 88",
+                "email": "denis.ducreux@bct.aphp.fr"
+              },
+              {
+                "name": "Xavier MD MAITRE, PhD",
+                "role": "CONTACT",
+                "phone": "01 69 15 41 34",
+                "email": "xavier.maitre@u-psud.fr"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Denis MD DUCREUX, PhD",
+                "affiliation": "Assistance publique des hopitaux de paris",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Denis DUCREUX",
+                "status": "RECRUITING",
+                "city": "Le Kremlin-Bicêtre",
+                "state": "France",
+                "country": "France",
+                "contacts": [
+                  {
+                    "name": "Denis MD DUCREUX, PhD",
+                    "role": "CONTACT",
+                    "phone": "01 45 21 33 88",
+                    "email": "denis.ducreux@bct.aphp.fr"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 48.81471,
+                  "lon": 2.36073
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02825602",
+            "orgStudyIdInfo": {
+              "id": "15-12"
+            },
+            "organization": {
+              "fullName": "Veteran Affairs Office of Patient Care Services",
+              "class": "FED"
+            },
+            "briefTitle": "Vietnam Era Health Retrospective Observational Study",
+            "officialTitle": "Vietnam Era Health Retrospective Observational Study",
+            "acronym": "VE-HEROeS"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2019-04",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "ACTIVE_NOT_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2016-07"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2017-03-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2019-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2016-06-13",
+            "studyFirstSubmitQcDate": "2016-07-01",
+            "studyFirstPostDateStruct": {
+              "date": "2016-07-07",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2019-04-23",
+            "lastUpdatePostDateStruct": {
+              "date": "2019-04-24",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Victoria J. Davey PhD, MPH",
+              "investigatorTitle": "Senior Investigator, Epidemiology Program",
+              "investigatorAffiliation": "Veteran Affairs Office of Patient Care Services"
+            },
+            "leadSponsor": {
+              "name": "Veteran Affairs Office of Patient Care Services",
+              "class": "FED"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The Vietnam Era Health Retrospective Observational Study (VE-HEROeS) is a national study on the health and well-being of Vietnam Veterans, including Blue Water Navy Veterans, as well as Veterans who served elsewhere during the Vietnam Era (1961-1975), and similarly aged U.S. residents who never served in the military. The investigators will invite approximately 43,000 Vietnam and Vietnam Era Veterans, and approximately 11,000 members of the general U.S. population to participate in VE-HEROeS. These individuals are scientifically selected to participate; the study is not able to accept volunteers.\n\nAll participants in VE-HEROeS will be asked to fill out a questionnaire on their military service, general health, age-related conditions, health care use, and the health experiences of their children and grandchildren. A smaller group will be asked to provide the investigators with access to some of their medical records. Topics of special focus for the study include cognition, hepatitis C infection, and neurologic conditions.",
+            "detailedDescription": "It has been more than 40 years since the Vietnam War ended and there is little recent systematic knowledge of how Veterans of the Vietnam Era (1961-1975) have fared with regard to their overall health, lifestyle factors, and aging. This epidemiologic study, called the Vietnam Era Health Retrospective Observational Study (VE-HEROeS) will provide information about the health and well-being of Veterans of the Vietnam Era to Veterans and their families who have questions about the long-term health effects of service during the Vietnam War, to clinicians who care for Veterans and lack sufficient evidence to explain health conditions, and to the VA healthcare system in order to improve VA healthcare and anticipate future healthcare needs. The main objective of this study is to determine if the overall health of Veterans of the Vietnam War and Vietnam Era, with a special focus on neurologic conditions and hepatitis C infection, is different from that of their counterparts who did not serve in the military. Exploratory aims of the study are to determine if the investigators can obtain a sample of Blue Water Navy Vietnam Veterans (who served exclusively in deep coastal waters off of North or South Vietnam) and use the survey to describe their current health, and to determine the prevalence of Veterans who attribute health conditions of their descendants to their own military service, especially conditions potentially transmitted epigenetically. The study design is a survey, with hepatitis C and neurologic conditions validated by medical record review. The questionnaire includes both validated scales and new items about physical and mental health, exposures, and lifestyle. There are two versions of the questionnaire: one for Veterans of the Vietnam Era and one for those selected from the U.S. general population who have never served in the military. The questionnaires are as similar as possible, with the exception of questions about military service, exposures, or experiences that are either removed or modified in the non-Veteran questionnaire because they do not apply to this population."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Aging",
+              "Combat Disorders"
+            ],
+            "keywords": [
+              "Vietnam veteran",
+              "aging",
+              "health",
+              "War Injury",
+              "Conventional Warfare",
+              "Toxic Effect",
+              "Chemical"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "OTHER",
+              "timePerspective": "CROSS_SECTIONAL"
+            },
+            "enrollmentInfo": {
+              "count": 24306,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Vietnam War Theater Veterans",
+                "description": "Vietnam War Theater Veterans are defined for this protocol as those who served in the U.S. Armed Forces on the ground, in the air, or on the inland waters of Vietnam, Cambodia, and/or Laos between February 28, 1961 and May 7, 1975, inclusive. The investigators based this definition on legal dates of service set forth in 38 Code of Federal Regulations (CFR) 3.2 - Periods of war, but broadened the definition of sites of military service that constituted war zones based on written historical accounts and input from Vietnam Veterans."
+              },
+              {
+                "label": "Blue Water Navy Vietnam Veterans",
+                "description": "Blue Water Navy Veterans are defined as Veterans who served aboard deep-water naval vessels in waters offshore North or South Vietnam between February 28, 1961 and May 7, 1975 and who never served ashore or on inland waterways of Vietnam."
+              },
+              {
+                "label": "Vietnam era Veterans",
+                "description": "Vietnam era Veterans served in locations around the world OTHER than on the ground, in the air, or on the inland waters of Vietnam, Cambodia, and/or Laos or aboard deep-water naval vessels in waters offshore North or South Vietnam between February 28, 1961 and May 7, 1975."
+              },
+              {
+                "label": "Non-military U.S. public",
+                "description": "Non-military U.S. public are individuals who were born before 1958, never served in the U.S. military, and are age- and gender-matched (by the study investigators) to Vietnam War Theater Veterans."
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Overall Health",
+                "description": "Overall health will be measured by the mean physical component summary score (PCS) and the mean mental component score (MCS) of the Short Form 8 (SF-8) compared across the four groups. Mean scores on the 8 health concepts measured by the SF-8 (physical functioning, role limitations due to physical functioning, bodily pain, general health, energy/fatigue, social functioning, role limitations due to emotional problems, and psychological distress/well being) will also be compared. Adjustments may be made for age, gender, and prevalent co-morbidities.",
+                "timeFrame": "Past 4 weeks"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Conditions of concern",
+                "description": "The investigators will compare post-war prevalence of conditions that have been linked to Vietnam War service in other scientific studies of multiple designs: neurologic conditions ( Parkinson's disease, dementia, stroke, brain injury), Hepatitis C; hypertension, ischemic heart disease, Type II diabetes, peripheral neuropathy, various cancers, cirrhosis, alcohol and drug dependency.",
+                "timeFrame": "Health history assessed at the time of survey (Day 1)"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Self-identification of Blue Water Navy Vietnam Veterans",
+                "description": "The investigators will ask Blue Water Navy Veterans to define themselves by their response to a survey question, as no roster of these Veterans exists.",
+                "timeFrame": "Navy service exclusively in the deep offshore waters of Vietnam between February 28, 1961 and May 7, 1975."
+              },
+              {
+                "measure": "Health of offspring",
+                "description": "We ask survey respondents to report 9 conditions of their children and grandchildren that may be transmitted epigenetically",
+                "timeFrame": "Health history assessed at the time of survey (Day 1)"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* invited to participate through investigators' random sample selection process\n* able to provide informed consent\n* have a postal address in the U.S. or its territories\n\nExclusion Criteria:\n\n* individuals who are incarcerated\n* individuals who are unable to complete the survey even with assistance because of cognitive or physical limitations.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "58 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Veterans: We will obtain a stratified random sample of 45,067 Veterans from the Department of Veterans Affairs' United States Veterans Eligibility Trends \\& Statistics (USVETS) database which we believe to be the most complete database of U.S. military Veterans in existence. Stratification will be on period of service within the Vietnam era: 1961-1964 or 1965-1975. We will remove decedents and those without a current US postal address from the sample.\n\nU.S. public: The U.S. public general population comparison sample will be an age- and gender-matched sample of living non-Veteran members of the U.S. public born before 1958.",
+            "samplingMethod": "PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Victoria J Davey, PhD, MPH",
+                "affiliation": "US Department of Veterans Affairs",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "U.S. Department of Veterans Affairs/Epidemiology Program",
+                "city": "Washington D.C.",
+                "state": "District of Columbia",
+                "zip": "20420",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 38.89511,
+                  "lon": -77.03637
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "2833631",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. II. Physical Health. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2708-14."
+              },
+              {
+                "pmid": "2833630",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. I. Psychosocial characteristics. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2701-7."
+              },
+              {
+                "pmid": "2833632",
+                "type": "BACKGROUND",
+                "citation": "Health status of Vietnam veterans. III. Reproductive outcomes and child health. The Centers for Disease Control Vietnam Experience Study. JAMA. 1988 May 13;259(18):2715-9."
+              },
+              {
+                "type": "BACKGROUND",
+                "citation": "Kulka RA, Schlenger WE, Fairbank JA, Hough RL, Jordan BK, Marmar CR, et al. Trauma and the Vietnam War Generation. New York: Brunner/Mazel Publishers; 1990"
+              },
+              {
+                "pmid": "25144022",
+                "type": "BACKGROUND",
+                "citation": "Institute of Medicine (US) Committee to Review the Health Effects in Vietnam Veterans of Exposure to Herbicides. Veterans and Agent Orange: Health Effects of Herbicides Used in Vietnam. Washington (DC): National Academies Press (US); 1994. Available from http://www.ncbi.nlm.nih.gov/books/NBK236356/"
+              },
+              {
+                "pmid": "15619249",
+                "type": "BACKGROUND",
+                "citation": "Dominitz JA, Boyko EJ, Koepsell TD, Heagerty PJ, Maynard C, Sporleder JL, Stenhouse A, Kling MA, Hrushesky W, Zeilman C, Sontag S, Shah N, Ona F, Anand B, Subik M, Imperiale TF, Nakhle S, Ho SB, Bini EJ, Lockhart B, Ahmad J, Sasaki A, van der Linden B, Toro D, Martinez-Souss J, Huilgol V, Eisen S, Young KA. Elevated prevalence of hepatitis C infection in users of United States veterans medical centers. Hepatology. 2005 Jan;41(1):88-96. doi: 10.1002/hep.20502."
+              },
+              {
+                "pmid": "21625624",
+                "type": "BACKGROUND",
+                "citation": "Raymont V, Salazar AM, Krueger F, Grafman J. \"Studying injured minds\" - the Vietnam head injury study and 40 years of brain injury research. Front Neurol. 2011 Mar 28;2:15. doi: 10.3389/fneur.2011.00015. eCollection 2011."
+              },
+              {
+                "pmid": "7964667",
+                "type": "BACKGROUND",
+                "citation": "Bullman TA, Kang HK. Posttraumatic stress disorder and the risk of traumatic deaths among Vietnam veterans. J Nerv Ment Dis. 1994 Nov;182(11):604-10. doi: 10.1097/00005053-199411000-00002."
+              },
+              {
+                "pmid": "26201054",
+                "type": "BACKGROUND",
+                "citation": "Marmar CR, Schlenger W, Henn-Haase C, Qian M, Purchia E, Li M, Corry N, Williams CS, Ho CL, Horesh D, Karstoft KI, Shalev A, Kulka RA. Course of Posttraumatic Stress Disorder 40 Years After the Vietnam War: Findings From the National Vietnam Veterans Longitudinal Study. JAMA Psychiatry. 2015 Sep;72(9):875-81. doi: 10.1001/jamapsychiatry.2015.0803."
+              },
+              {
+                "pmid": "23049995",
+                "type": "BACKGROUND",
+                "citation": "Manikkam M, Tracey R, Guerrero-Bosagna C, Skinner MK. Dioxin (TCDD) induces epigenetic transgenerational inheritance of adult onset disease and sperm epimutations. PLoS One. 2012;7(9):e46249. doi: 10.1371/journal.pone.0046249. Epub 2012 Sep 26."
+              },
+              {
+                "pmid": "2244766",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. III. Hodgkin's disease, nasal cancer, nasopharyngeal cancer, and primary liver cancer. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2495-505. doi: 10.1001/archinte.150.12.2495."
+              },
+              {
+                "pmid": "2244764",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. I. Non-Hodgkin's lymphoma. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2473-83."
+              },
+              {
+                "pmid": "2244765",
+                "type": "BACKGROUND",
+                "citation": "The association of selected cancers with service in the US military in Vietnam. II. Soft-tissue and other sarcomas. The Selected Cancers Cooperative Study Group. Arch Intern Med. 1990 Dec;150(12):2485-92."
+              },
+              {
+                "pmid": "24488510",
+                "type": "BACKGROUND",
+                "citation": "Kang HK, Cypel Y, Kilbourne AM, Magruder KM, Serpi T, Collins JF, Frayne SM, Furey J, Huang GD, Kimerling R, Reinhard MJ, Schumacher K, Spiro A 3rd. HealthViEWS: mortality study of female US Vietnam era veterans, 1965-2010. Am J Epidemiol. 2014 Mar 15;179(6):721-30. doi: 10.1093/aje/kwt319. Epub 2014 Jan 30."
+              },
+              {
+                "pmid": "24983057",
+                "type": "BACKGROUND",
+                "citation": "Institute of Medicine (US) Committee on Blue Water Navy Vietnam Veterans and Agent Orange Exposure. Blue Water Navy Vietnam Veterans and Agent Orange Exposure. Washington (DC): National Academies Press (US); 2011. Available from http://www.ncbi.nlm.nih.gov/books/NBK209599/"
+              },
+              {
+                "pmid": "34138613",
+                "type": "DERIVED",
+                "citation": "Blosnich JR, Hilgeman MM, Cypel YS, Akhtar FZ, Fried D, Ishii EK, Schneiderman A, Davey VJ. Potentially traumatic events and health among lesbian, gay, bisexual and heterosexual Vietnam veterans: Results from the Vietnam Era Health Retrospective Observational study. Psychol Trauma. 2022 May;14(4):568-577. doi: 10.1037/tra0001025. Epub 2021 Jun 17."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Aggregate data will be available to investigators in accordance with VA access policy."
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D003130",
+                "term": "Combat Disorders"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D040921",
+                "term": "Stress Disorders, Traumatic"
+              },
+              {
+                "id": "D000068099",
+                "term": "Trauma and Stressor Related Disorders"
+              },
+              {
+                "id": "D001523",
+                "term": "Mental Disorders"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06176001",
+            "orgStudyIdInfo": {
+              "id": "P-2021-809"
+            },
+            "organization": {
+              "fullName": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital",
+              "class": "OTHER"
+            },
+            "briefTitle": "Group-based Psychoeducation for Relatives of Patients With Bipolar Disorder, a Randomized Controlled Trial",
+            "officialTitle": "Group-based Psychoeducation for Relatives of Patients With Bipolar Disorder - a Large Scale Real-world Randomized Controlled Parallel Group Trial",
+            "acronym": "R-Bipolar"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-06",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-04-07",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2024-06-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2024-06-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2023-11-29",
+            "studyFirstSubmitQcDate": "2023-12-08",
+            "studyFirstPostDateStruct": {
+              "date": "2023-12-19",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-09-24",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-09-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Lars Vedel Kessing",
+              "investigatorTitle": "professor",
+              "investigatorAffiliation": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital"
+            },
+            "leadSponsor": {
+              "name": "Mental Health Centre Copenhagen, Bispebjerg and Frederiksberg Hospital",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Relatives of patients with bipolar disorder (BD) often experience emotional burden with stress, and depressive symptoms that again increases the likelihood of destabilization and relapses in the patient. The effects of group-based psychoeducation have not been investigated in large-scale real-world settings. The investigators are currently conducting a large-scale real-world randomized controlled parallel group trial (RCT) to test whether group-based psychoeducation for relatives to patients with BD improves mood instability and other critical outcomes in relatives and the corresponding patients with BD.\n\nThe trial is designed as a two-arm, parallel group randomized trial with a balanced randomization 1:1 to either group-based psychoeducation or a waiting list for approximately 4 months and subsequent group-based psychoeducation. the investigators plan to include 200 relatives. The group sizes for psychoeducation is between 20-40 relatives.The primary outcome measure is mood instability calculated based on daily smartphone-based mood self-assessment. Other relevant outcomes are measured, including patients' reported outcomes, assessing self-assessed burden, self-efficacy, and knowledge about BD."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Bipolar Disorder"
+            ],
+            "keywords": [
+              "Relatives",
+              "Caregivers",
+              "Family",
+              "Psychoeducation",
+              "Randomized controlled trial"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "SUPPORTIVE_CARE",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 206,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Psychoeducation",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Participants randomized to this arm are offered group-based psychoeducation shortly thereafter.",
+                "interventionNames": [
+                  "Other: psychoeducation in groups"
+                ]
+              },
+              {
+                "label": "Waiting list",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Participants randomized to this arm are placed on a waiting list for approximately 4 months and then offered group-based psychoeducation thereafter.",
+                "interventionNames": [
+                  "Other: psychoeducation in groups"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "psychoeducation in groups",
+                "description": "Group-based psychoeducation for relatives. Group size: 20-40 relatives. Duration of intervention: six sessions, each two hours long with a 15 minutes break, over a period of 6-10 weeks. The sessions are held by experienced clinicians from the Copenhagen Affective Disorder Clinic, one chief physician and one nurse. Each session focuses on a specific topic, which the clinicians present and discuss using a presentation viewer. The sessions are interactive, and the participants are encouraged to ask questions during the presentations. During each session the participants will have some discussions in smaller groups to reflect on a topics and issues raised during the session.",
+                "armGroupLabels": [
+                  "Psychoeducation",
+                  "Waiting list"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Change in mood instability in the relatives",
+                "description": "Mood instability is calculated from daily self-reported mood registration in the app Monsenso. Participating relatives score their daily mood on a 9-point scale from 0-8 where 8 is 'in a brilliant mood' and 0 is 'really sad'\n\nThe participant rate daily in the Monsenso app during the time the participate in the study (4-8 months depending on which group they are randomly allocated to).\n\nFor each participant, a mood instability measure will be estimated for each day and aggregated by applying the root mean square successive difference (rMSSD) method.",
+                "timeFrame": "daily in 4-8 months."
+              },
+              {
+                "measure": "Change in mood instability in the corresponding patients",
+                "description": "Mood instability is calculated from daily self-reported mood registration via the app Monsenso. The patients score their daily mood on a scale from -3 to +3, where -3 is the worst and +3 is the best mood. Patients' data from the Monsenso app is collected from a parallel RCT, in the time frame in which the relatives are in the study.",
+                "timeFrame": "daily in 4-8 months."
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Self-reported daily registrations in the Monsenso app on the following topics: daily activity level, sleep, mixed moods, anxiety, irritability, cognition, stress, alchohol consumption, patient support and level of burden from being a caregiver,",
+                "description": "Each topic is covered by a single, simple question in the Monsenso app:\n\n* Daily activity level: 'how active have you been?' (7-point scale from very little to very much)\n* Sleep: How many hours did you sleep (scale from 0 to 12+hours)\n* mixed moods: have you experienced mixed good and bad mood? (yes/no)\n* Anxiety: Have you felt anxiety? (5-point scale from 'not at all' to 'to a high degree')\n* Irritability:Have you felt irritable? (5-point scale, same as above)\n* Cognition: Have you experienced cognitive difficulties? (5-point scale, same as above)\n* Stress: Have you been stressed? (5-point scale, same as above)\n* Alcohol: how many drinks have you had? (scale from 0 til 10+ drinks)\n* Patient support: Have you helped or supported the patient? (5-point scale, same as above)\n* Caregiver burden: To which degree have you experienced the patient's mental health problems as a burden to you? (5-point scale, same as above)",
+                "timeFrame": "daily 4-8 months."
+              },
+              {
+                "measure": "Self-rated caregiver burden",
+                "description": "Burden Assessment Scale\n\n19 questions covering subjects as economic and practical burden, stigma, worries, conflicts etc, participants answer on a scale from \\[1: not at all\\] to \\[4: to a high degree\\] or \\[not relevant\\]\n\nReinhard SC, Gubman GD, Horwitz AV, Minsky S. Burden assessment scale for families of the seriously mentally ill. Eval Program Plann. 1. juli 1994;17(3):261-9.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated expressed emotions",
+                "description": "Perceived Criticism Measure\n\nThe questionnaire consists of four questions covering criticism in a relationship, answered on a scale from 0 to 10, where 10 is the highest and most negative.\n\nHooley JM, Parker HA. Measuring expressed emotion: An evaluation of the shortcuts. J Fam Psychol. september 2006;20(3):386-96.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated quality of life",
+                "description": "Carer Quality of Life\n\n7 multiple-answer questions and one Visual Analog Scale to evaluate quality of life in the light of being an informal caregiver.\n\nBrouwer WBF, van Exel NJA, van Gorp B, Redekop WK. The CarerQol instrument: A new instrument to measure care-related quality of life of informal caregivers for use in economic evaluations. Qual Life Res. 1. august 2006;15(6):1005-21.\n\nHoefman RJ, van Exel NJA, Looren de Jong S, Redekop WK, Brouwer WBF. A new test of the construct validity of the CarerQol instrument: measuring the impact of informal care giving. Qual Life Res. 2011;20(6):875-87.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated carer self-efficacy",
+                "description": "Carer-Self-Efficacy\n\n12 questions about self-efficacy as a caregiver for a person with Bipolar disorder. The questionnaire was originally developed for persons with bipolar disorder (Smith) and later Hubbard et al made a version for caregivers.\n\nSmith LM, Erceg-Hurn DM, McEvoy PM, Lim L. Self-efficacy in bipolar disorder: Development and validation of a self-report scale. J Affect Disord. 1. februar 2020;262:108-17.\n\nHubbard AA, McEvoy PM, Smith L, Kane RT. Brief group psychoeducation for caregivers of individuals with bipolar disorder: A randomized controlled trial. J Affect Disord. august 2016;200:31-6.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Knowledge about bipolar",
+                "description": "25 questions testing the factual knowledge about bipolar disorder.\n\n\"The Bipolar disorders knowledge scale\", Trevor A. Stump and Marty L. Eng. Journal of Affective disorders, 2018-10-01, Volume 238, Pages 645-650.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated health related quality of life",
+                "description": "Short Form-12 (54,55) 12 questions on health-related quality of life.\n\nChristensen LN, Ehlers L, Larsen FB, Jensen MB. Validation of the 12 Item Short form Health Survey in a Sample from Region Central Jutland. Soc Indic Res. 1. november 2013;114(2):513-21.\n\nAmir M, Lewin-Epstein N, Becker G, Buskila D. Psychometric properties of the SF-12 (Hebrew version) in a primary care population in Israel. Med Care. oktober 2002;40(10):918-28.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated mental health",
+                "description": "The Brief Symptom Inventory (BSI: Derogatis, 1992), a 53-item self-report inventory of psychopathology and psychological distress, the BSI psychometric profile produces the same nine primary symptom dimensions produced by the SCL-90-R.\n\nDerogatis LR, Melisaratos N. The Brief Symptom Inventory: an introductory report. Psychol Med. august 1983;13(3):595-605.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated stress",
+                "description": "Perceived Stress Scale\n\n10 questions covering stress symptoms in the last month.\n\nCohen S. Perceived stress in a probability sample of the United States. I: The social psychology of health. Thousand Oaks, CA, US: Sage Publications, Inc; 1988. s. 31-67. (The Claremont Symposium on Applied Social Psychology).",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated bipolar symptoms",
+                "description": "Mood Disorder Questionnaire\n\nHirschfeld RMA, Williams JBW, Spitzer RL, Calabrese JR, Flynn L, Keck PE, m.fl. Development and Validation of a Screening Instrument for Bipolar Spectrum Disorder: The Mood Disorder Questionnaire. Am J Psychiatry. november 2000;157(11):1873-5.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated depressive symptoms",
+                "description": "Major Depression Inventory\n\nBech P, Timmerby N, Martiny K, Lunde M, Soendergaard S. Psychometric evaluation of the Major Depression Inventory (MDI) as depression severity scale using the LEAD (Longitudinal Expert Assessment of All Data) as index of validity. BMC Psychiatry. 5. august 2015;15:190.\n\nBech P, Wermuth L. Applicability and validity of the Major Depression Inventory in patients with Parkinson's disease. Nord J Psychiatry. (52):305-10.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Self-rated Childhood trauma",
+                "description": "Childhood Trauma Questionnaire (CTQ)\n\nBernstein DP, Fink L, Handelsman L, Foote J, Lovejoy M, Wenzel K, m.fl. Initial reliability and validity of a new retrospective measure of child abuse and neglect. Am J Psychiatry. august 1994;151(8):1132-6.",
+                "timeFrame": "Only at inclusion"
+              },
+              {
+                "measure": "Clinically observer rated Depressive symptoms",
+                "description": "Depressive symptoms assessed by the Hamilton Depression Rating Scale-6 items (min. value = 0; max. value = 22, with higher values reflecting more depressive symptoms)\n\nHamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry. februar 1960;23(1):56-62.",
+                "timeFrame": "At inclusion, at 3-4 months and for the control-group also at 7-8 months."
+              },
+              {
+                "measure": "Clinically observer rated Manic symptoms",
+                "description": "Manic symptoms assessed by the Young Mania Rating Scale (min. value = 0; max. value = 60, with higher values reflecting more manic symptoms)\n\nYoung RC, Biggs JT, Ziegler VE, Meyer DA. A rating scale for mania: reliability, validity and sensitivity. Br J Psychiatry J Ment Sci. november 1978;133:429-35.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              },
+              {
+                "measure": "Clinically observer rated General functioning",
+                "description": "General functioning assessed by the Functional Assessment Short Test, a 24-item interviewer-administered interview concerning autonomy, occupational functioning, cognitive functioning, financial issues, interpersonal relationships and leisure time (min. value = 0; max. value = 72, with higher values reflecting poorer function)\n\nRosa AR, Sánchez-Moreno J, Martínez-Aran A, Salamero M, Torrent C, Reinares M, m.fl. Validity and reliability of the Functioning Assessment Short Test (FAST) in bipolar disorder. Clin Pract Epidemiol Ment Health CP EMH. 7. juni 2007;3:5.",
+                "timeFrame": "at inclusion, at follow-up around 4 months, and if in control group at around 7-8 months"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Change in automatically smarthone-generated data",
+                "description": "Automatically smartphone-generated data on physical - and social activity is generated in the Monsenso app using the phone's sensor-data.\n\nphysical activity: location and physical activity (step count and movement) social activity: battery level, light level and screen mode.\n\nThese automatically generated data has been shown to be informative in prior study:\n\nFaurholt-Jepsen M, Frost M, Vinberg M, Christensen EM, Bardram JE, Kessing LV. Smartphone data as objective measures of bipolar disorder symptoms. Psychiatry Res. 30. juni 2014;217(1-2):124-7.",
+                "timeFrame": "4-8 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Relatives of patients with Bipolar Disorder who are affiliated with the Copenhagen Affective Disorder Clinic.\n\nExclusion Criteria:\n\n* Insufficient Danish language.\n* Age below 18 years.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Lars V Kessing, professor",
+                "affiliation": "Copenhagen Psychiatric Center",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Copenhagen Affective Disorder Clinic",
+                "city": "Copenhagen",
+                "zip": "2000",
+                "country": "Denmark",
+                "geoPoint": {
+                  "lat": 55.67594,
+                  "lon": 12.56553
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40890647",
+                "type": "DERIVED",
+                "citation": "Stokholm JR, Waldemar AK, Kessing LV. Becoming diplomats with boundaries - a thematic analysis of relatives' experiences with group-based psychoeducation about bipolar disorder. BMC Psychiatry. 2025 Sep 1;25(1):843. doi: 10.1186/s12888-025-07219-y."
+              },
+              {
+                "pmid": "38783322",
+                "type": "DERIVED",
+                "citation": "Stokholm JR, Vinberg M, Faurholt-Jepsen M, Kessing LV. Study protocol: group-based psychoeducation for relatives of patients with bipolar disorder-a large scale real-world randomized controlled parallel group trial, the R-bipolar RCT. Trials. 2024 May 23;25(1):342. doi: 10.1186/s13063-024-08172-z."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001714",
+                "term": "Bipolar Disorder"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000068105",
+                "term": "Bipolar and Related Disorders"
+              },
+              {
+                "id": "D019964",
+                "term": "Mood Disorders"
+              },
+              {
+                "id": "D001523",
+                "term": "Mental Disorders"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D044382",
+                "term": "Population Groups"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003710",
+                "term": "Demography"
+              },
+              {
+                "id": "D011154",
+                "term": "Population Characteristics"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05152771",
+            "orgStudyIdInfo": {
+              "id": "2021-6491-19410."
+            },
+            "organization": {
+              "fullName": "Aga Khan University",
+              "class": "OTHER"
+            },
+            "briefTitle": "Role of Ketogenic Diet in SSPE",
+            "officialTitle": "Post Measles Subacute Sclerosing Panencephalitis (SSPE)and the Role of Ketogenic Diet, A Prospective Cohort Study"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2023-07",
+            "overallStatus": "UNKNOWN",
+            "lastKnownStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2024-01",
+              "type": "ESTIMATED"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-12",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2025-12",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2021-11-03",
+            "studyFirstSubmitQcDate": "2021-11-29",
+            "studyFirstPostDateStruct": {
+              "date": "2021-12-10",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2023-07-22",
+            "lastUpdatePostDateStruct": {
+              "date": "2023-07-25",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Dr Shahnaz Ibrahim",
+              "investigatorTitle": "PROFESSOR",
+              "investigatorAffiliation": "Aga Khan University"
+            },
+            "leadSponsor": {
+              "name": "Aga Khan University",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "National Institute of Child Health, Karachi, Pakistan",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "SSPE is a progressive neurodegenerative disorder occurring after measles infection and is potentially life-threatening.Measles infection remains endemic in Pakistan especially in the lower socioeconomic population where the vaccine coverage is low. The ketogenic diet has been used in a large number of diseases especially intractable epilepsies in children and also in certain neurodegenerative disorders like Parkinson's and Alzheimer's in adults. Some of the case reports from India and the USA have reported the beneficial results of ketogenic diet(KD) not only in the control of myoclonic jerks of SSPE but also in stopping and reversing the progress of the disease. There is a definite need to conduct a multi-center trial of KD to establish its effectiveness in SSPE.\n\nAt the Aga khan university, the investigators have an experienced team who have been using KD for the last 9 years for intractable epilepsy. At AKU the investigators currently have 4 patients on board for the past 4 months, with diagnosed SSPE on Low Glycemic Index Diet and showing some improvement in their seizure and motor control. Based on these reports, for a poor measles control country like Pakistan, there is a need to work further in order to establish evidence for KD therapy as a treatment for SSPE. The findings of the proposed study will serve as a hope for the improvement of quality of life of patients suffering from SSPE which is a devastating disease with almost 100% mortality .",
+            "detailedDescription": "Methodology This will be a bi-center trial. The national institute of child health (NICH) will be a partner in this study along with Aga Khan University Hospital, Karachi. This study will be a nutritional research study looking at the role of the Ketogenic diet in improving seizures and overall disability in children with SSPE. LGIT will be the form of KD used for these patients.\n\nAll families with children who have been newly diagnosed with confirmed SSPE will be approached to start the low glycemic index diet,(liberalized kind of KD). They will be counseled on the disease and the diet regimen. all possible side effects and management will be discussed. The duration of follow-up will be for one year and there will be no potential cost incurred by the patient.\n\nPatients will also be followed up by the physiotherapist at the physiotherapy department at AKU ( @ no cost)who will be supporting their motor rehabilitation. Investigations which include blood work and echo and ultrasound and EEGs will be done at regular intervals Sampling technique A consecutive sampling of all children who are diagnosed with SSPE will be used. A total of 26 children \\>2-\\<15 years will be enrolled over a period of two years."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "SSPE"
+            ],
+            "keywords": [
+              "Ketogenic Diet",
+              "Progressive Neurological Disorder",
+              "Intractable Epilepsy"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "NA",
+              "interventionModel": "SINGLE_GROUP",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 26,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Ketogenic Diet",
+                "type": "OTHER",
+                "description": "This will be a prospective cohort study. All families with children who have been newly diagnosed with confirmed SSPE (based on Dyken's Criteria) will be approached to start the low glycemic index diet (liberalized kind of KD). A thorough dietary history will be taken from the parents/caregivers, and they will be counseled by a trained dietitian on the diet, all pros and cons, and the format. After the verbal agreement, formal consent will be taken from the parent/ caregiver for initiation of the diet.",
+                "interventionNames": [
+                  "Other: KETOGENIC DIET"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "KETOGENIC DIET",
+                "description": "This will be a prospective cohort study. All families with children who have been newly diagnosed with confirmed SSPE (based on Dyken's Criteria) will be approached to start the low glycemic index diet (liberalized kind of KD). A thorough dietary history will be taken from the parents/caregivers, and they will be counseled by a trained dietitian on the diet, all pros and cons, and the format. After the verbal agreement, formal consent will be taken from the parent/ caregiver for initiation of the diet.\n\nThese patients are usually already admitted in the hospital for initial diagnosis and management. Therefore the initiation of the diet will be in the hospital during their admission if the parents/ caregivers agrees. A minimum of 2-3 days would be required to train the parents/caregivers.",
+                "armGroupLabels": [
+                  "Ketogenic Diet"
+                ],
+                "otherNames": [
+                  "LOW GLYCEMIC INDEX DIET"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Seizure control",
+                "description": "frequency and severity will be measured through a seizure record diary, daily number of seziures will be averaged over a month and monthly record will be evaluated as percentage increase or decrease in 3 months intervals",
+                "timeFrame": "for a period of 6 months ."
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "cognitive Change ,",
+                "description": "checked by using Pedicat with 4 domains. Daily activities, Mobility and Social/Cognitive domains.The three functional skill domains are rated on a 4 point scale:\n\n1. Unable\n2. Hard\n3. A little hard\n4. Easy\n\n0.I don't know\n\nResponsibility:This domain has its own 5 point scale:\n\n1. Adult/caregiver has full responsibility;\n2. Adult/caregiver has most responsibility and child takes a little responsibility\n3. Adult/caregiver and child share responsibility about equally\n4. Child has most responsibility with a little direction, supervision or guidance from an adult/caregiver\n5. Child takes full responsibility without any direction, supervision or guidance from an adult/caregiver Two types of score will calculate: normative scores and scaled scores. The normative score is based on the child's chronological age. Scaled score provides a way to look at current functional skills and progress in skills over times (compare the child towards itself).",
+                "timeFrame": "base line, after 6 months of study then after and one year of study."
+              },
+              {
+                "measure": "behavioral Change",
+                "description": "this will be checked by using modified Ashworth scales.MODIFIED ASHWORTH The modified Ashworth scale is a muscle tone assessment scale used to assess the resistance experienced during passive range of motion, which does not require any instrumentation and is quick to perform.\n\nscoring 0 No increase in tone 1 slight increase in tone giving a catch when slight increase in muscle tone, manifested by the limb was moved in flexion or extension.\n\n1+ slight increase in muscle tone, manifested by a catch followed by minimal resistance throughout (ROM ) 2 more marked increase in tone but more marked increased in muscle tone through most limb easily flexed 3 considerable increase in tone, passive movement difficult 4 limb rigid in flexion or extension",
+                "timeFrame": "base line, after 6 months of study then after and one year of study"
+              },
+              {
+                "measure": "motor developmental Change",
+                "description": "this will be checked by , Modified Rankin and GMFM Modified Rankin Scale Score Description 0 No symptoms at all\n\n1. No significant disability despite symptoms\n2. Slight disability\n3. Moderate disability\n4. Moderately severe disability\n5. Severe disability\n6. Dead GMFM There is a scoring system with each item scored as 0, 1, 2, 3, or \"not tested\". A scoring key of 0 - does not initiate, 1 - initiates, 2 - partially completes, and 3 - completed, is used; however parameters such as distance, time, support provided, accuracy, counts, and tasks will determine specific item scores. Items that a child refuses to attempt despite reason they may be able to perform at least partially or items not administered are scored as 'not tested'.\n\nThe scoring system of the GMFM is a four-point scale that consists of 66 items divided into five dimensions of gross motor function:(a) lying and rolling, (b) sitting, (c) crawling and kneeling, (d) standing, and (e) walking, running and jumping.",
+                "timeFrame": "base line, after 6 months of study then after and one year of study"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:• All patients with a recent diagnosis of SSPE based on Dyken's criteria. Children aged ≥2 - ≤15 years.\n\n• Having at least one member of the family residing with the patient who can read and understand directions in Urdu and /or Sindhi.\n\nExclusion Criteria:\n\n* • Parents not agreeing to start the diet.\n\n  * Age less than 2 years or over 15 years.\n  * Patients who are already being given immune modulators.\n  * Any other associated co-morbidity.\n  * Patients having difficulty in swallowing and parents not allowing a nasogastric tube.\n  * Totally uneducated family with no one who can read or write and understand directions in Urdu and/ or Sindhi.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "2 Years",
+            "maximumAge": "15 Years",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Shahnaz H Ibrahim, MBBS;FCPS",
+                "role": "CONTACT",
+                "phone": "+923002119347",
+                "email": "shahnaz.ibrahim@aku.edu"
+              },
+              {
+                "name": "Hira Farooq, NUTRITION",
+                "role": "CONTACT",
+                "phone": "+923152566548",
+                "email": "hira.farooq@aku.edu"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Shahnaz H Ibrahim, MBBS ;FCPS",
+                "affiliation": "AKU",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "25149833",
+                "type": "RESULT",
+                "citation": "Rafique A, Amjad N, Chand P, Zaidi SS, Rana MS, Ahmed K, Ibrahim S. Subacute sclerosing panencephalitis: clinical and demographic characteristics. J Coll Physicians Surg Pak. 2014 Aug;24(8):557-60."
+              },
+              {
+                "pmid": "25232151",
+                "type": "RESULT",
+                "citation": "Ibrahim SH, Amjad N, Saleem AF, Chand P, Rafique A, Humayun KN. The upsurge of SSPE--a reflection of national measles immunization status in Pakistan. J Trop Pediatr. 2014 Dec;60(6):449-53. doi: 10.1093/tropej/fmu050. Epub 2014 Sep 16."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "Jafri SK, Kumar R, Ibrahim SH. Subacute sclerosing panencephalitis - current perspectives. Pediatric Health Med Ther. 2018;9:67-71",
+                "url": "http://doi.org/10.2147/PHMT.S126293"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D013344",
+                "term": "Subacute Sclerosing Panencephalitis"
+              },
+              {
+                "id": "D000069279",
+                "term": "Drug Resistant Epilepsy"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D018792",
+                "term": "Encephalitis, Viral"
+              },
+              {
+                "id": "D020805",
+                "term": "Central Nervous System Viral Diseases"
+              },
+              {
+                "id": "D002494",
+                "term": "Central Nervous System Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000069544",
+                "term": "Infectious Encephalitis"
+              },
+              {
+                "id": "D014777",
+                "term": "Virus Diseases"
+              },
+              {
+                "id": "D008457",
+                "term": "Measles"
+              },
+              {
+                "id": "D018185",
+                "term": "Morbillivirus Infections"
+              },
+              {
+                "id": "D018184",
+                "term": "Paramyxoviridae Infections"
+              },
+              {
+                "id": "D018701",
+                "term": "Mononegavirales Infections"
+              },
+              {
+                "id": "D012327",
+                "term": "RNA Virus Infections"
+              },
+              {
+                "id": "D012897",
+                "term": "Slow Virus Diseases"
+              },
+              {
+                "id": "D004660",
+                "term": "Encephalitis"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D000090862",
+                "term": "Neuroinflammatory Diseases"
+              },
+              {
+                "id": "D004827",
+                "term": "Epilepsy"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D055423",
+                "term": "Diet, Ketogenic"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D050528",
+                "term": "Diet, Carbohydrate-Restricted"
+              },
+              {
+                "id": "D004035",
+                "term": "Diet Therapy"
+              },
+              {
+                "id": "D044623",
+                "term": "Nutrition Therapy"
+              },
+              {
+                "id": "D013812",
+                "term": "Therapeutics"
+              },
+              {
+                "id": "D004032",
+                "term": "Diet"
+              },
+              {
+                "id": "D009747",
+                "term": "Nutritional Physiological Phenomena"
+              },
+              {
+                "id": "D000066888",
+                "term": "Diet, Food, and Nutrition"
+              },
+              {
+                "id": "D010829",
+                "term": "Physiological Phenomena"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

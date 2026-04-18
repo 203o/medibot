@@ -1,0 +1,75 @@
+{
+  "run_id": "57a1e4fd1ad7464f9fdf66dac2e253db",
+  "stored_at": "2026-04-16T22:13:51+00:00",
+  "query": "cancer cancer treatment therapy management USA",
+  "query_fallbacks": [
+    "cancer cancer treatment therapy management USA",
+    "cancer treatment outcomes in pediatric patients aged 10 and above in the USA",
+    "epidemiology of cancer treatment in children aged 10 and over in the USA",
+    "systematic review of cancer management in children aged 10 and above in the USA",
+    "evidence-based guidelines for cancer treatment in pediatric patients aged 10 and above in the USA",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer treatment therapy management USA",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer treatment outcomes in pediatric patients aged 10 and above in the USA",
+    "epidemiology of cancer treatment in children aged 10 and over in the USA",
+    "systematic review of cancer management in children aged 10 and above in the USA",
+    "evidence-based guidelines for cancer treatment in pediatric patients aged 10 and above in the USA"
+  ],
+  "keywords": [
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "children",
+    "age",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 66,
+    "indexed_chunks": 136
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer treatment outcomes in pediatric patients aged 10 and above in the USA",
+      "epidemiology of cancer treatment in children aged 10 and over in the USA",
+      "systematic review of cancer management in children aged 10 and above in the USA",
+      "evidence-based guidelines for cancer treatment in pediatric patients aged 10 and above in the USA"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\57a1e4fd1ad7464f9fdf66dac2e253db\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\57a1e4fd1ad7464f9fdf66dac2e253db\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\57a1e4fd1ad7464f9fdf66dac2e253db\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\57a1e4fd1ad7464f9fdf66dac2e253db\\combined.records.json"
+  }
+}

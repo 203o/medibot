@@ -1,0 +1,1559 @@
+{
+  "query": "non-small cell lung cancer (nsclc) non small cell lung",
+  "selected_query": "non-small cell lung cancer (nsclc) non small cell lung",
+  "attempted_queries": [
+    {
+      "query": "non-small cell lung cancer (nsclc) non small cell lung",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "33953163",
+    "30560866",
+    "39663393",
+    "31692261",
+    "36807642",
+    "30774636",
+    "33514641",
+    "32001676",
+    "35254206",
+    "36966280",
+    "35545892",
+    "32487779",
+    "24578213",
+    "26391246",
+    "40037874",
+    "37186036",
+    "40948207",
+    "33883577",
+    "36528259",
+    "36802454",
+    "33760169",
+    "29288351",
+    "30638934",
+    "41271981",
+    "36218388",
+    "32705247",
+    "32924985",
+    "32561533",
+    "31147570",
+    "30535441"
+  ],
+  "records": [
+    {
+      "pmid": "33953163",
+      "title": "Single-cell profiling of tumor heterogeneity and the microenvironment in advanced non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Lung cancer is a highly heterogeneous disease. Cancer cells and cells within the tumor microenvironment together determine disease progression, as well as response to or escape from treatment. To map the cell type-specific transcriptome landscape of cancer cells and their tumor microenvironment in advanced non-small cell lung cancer (NSCLC), we analyze 42 tissue biopsy samples from stage III/IV NSCLC patients by single cell RNA sequencing and present the large scale, single cell resolution profiles of advanced NSCLCs. In addition to cell types described in previous single cell studies of early stage lung cancer, we are able to identify rare cell types in tumors such as follicular dendritic cells and T helper 17 cells. Tumors from different patients display large heterogeneity in cellular composition, chromosomal structure, developmental trajectory, intercellular signaling network and phenotype dominance. Our study also reveals a correlation of tumor heterogeneity with tumor associated neutrophils, which might help to shed light on their function in NSCLC."
+      ],
+      "abstract": "Lung cancer is a highly heterogeneous disease. Cancer cells and cells within the tumor microenvironment together determine disease progression, as well as response to or escape from treatment. To map the cell type-specific transcriptome landscape of cancer cells and their tumor microenvironment in advanced non-small cell lung cancer (NSCLC), we analyze 42 tissue biopsy samples from stage III/IV NSCLC patients by single cell RNA sequencing and present the large scale, single cell resolution profiles of advanced NSCLCs. In addition to cell types described in previous single cell studies of early stage lung cancer, we are able to identify rare cell types in tumors such as follicular dendritic cells and T helper 17 cells. Tumors from different patients display large heterogeneity in cellular composition, chromosomal structure, developmental trajectory, intercellular signaling network and phenotype dominance. Our study also reveals a correlation of tumor heterogeneity with tumor associated neutrophils, which might help to shed light on their function in NSCLC.",
+      "evidence_sentences": [
+        "To map the cell type-specific transcriptome landscape of cancer cells and their tumor microenvironment in advanced non-small cell lung cancer (NSCLC), we analyze 42 tissue biopsy samples from stage III/IV NSCLC patients by single cell RNA sequencing and present the large scale, single cell resolution profiles of advanced NSCLCs.",
+        "In addition to cell types described in previous single cell studies of early stage lung cancer, we are able to identify rare cell types in tumors such as follicular dendritic cells and T helper 17 cells.",
+        "Cancer cells and cells within the tumor microenvironment together determine disease progression, as well as response to or escape from treatment."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Fengying Wu",
+        "Jue Fan",
+        "Yayi He",
+        "Anwen Xiong",
+        "Jia Yu",
+        "Yixin Li",
+        "Yan Zhang",
+        "Wencheng Zhao",
+        "Fei Zhou",
+        "Wei Li",
+        "Jie Zhang",
+        "Xiaosheng Zhang",
+        "Meng Qiao",
+        "Guanghui Gao",
+        "Shanhao Chen",
+        "Xiaoxia Chen",
+        "Xuefei Li",
+        "Likun Hou",
+        "Chunyan Wu",
+        "Chunxia Su",
+        "Shengxiang Ren",
+        "Margarete Odenthal",
+        "Reinhard Buettner",
+        "Nan Fang",
+        "Caicun Zhou"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33953163/"
+    },
+    {
+      "pmid": "30560866",
+      "title": "Local mutational diversity drives intratumoral immune heterogeneity in non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC). This revealed that the immune microenvironment has high spatial heterogeneity such that intratumoral regional variation is as large as inter-personal variation. While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance. Together, these findings caution against that immunological signatures can be predicted solely from TMB or microenvironmental analysis from a single locus biopsy."
+      ],
+      "abstract": "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC). This revealed that the immune microenvironment has high spatial heterogeneity such that intratumoral regional variation is as large as inter-personal variation. While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance. Together, these findings caution against that immunological signatures can be predicted solely from TMB or microenvironmental analysis from a single locus biopsy.",
+      "evidence_sentences": [
+        "Combining whole exome sequencing, transcriptome profiling, and T cell repertoire analysis, we investigate the spatial features of surgically-removed biopsies from multiple loci in tumor masses of 15 patients with non-small cell lung cancer (NSCLC).",
+        "While the local total mutational burden (TMB) is associated with local T-cell clonal expansion, local anti-tumor cytotoxicity does not directly correlate with neoantigen abundance."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Qingzhu Jia",
+        "Wei Wu",
+        "Yuqi Wang",
+        "Peter B Alexander",
+        "Chengdu Sun",
+        "Zhihua Gong",
+        "Jia-Nan Cheng",
+        "Huaibo Sun",
+        "Yanfang Guan",
+        "Xuefeng Xia",
+        "Ling Yang",
+        "Xin Yi",
+        "Yisong Y Wan",
+        "Haidong Wang",
+        "Ji He",
+        "P Andrew Futreal",
+        "Qi-Jing Li",
+        "Bo Zhu"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30560866/"
+    },
+    {
+      "pmid": "39663393",
+      "title": "Senescent lung fibroblasts in idiopathic pulmonary fibrosis facilitate non-small cell lung cancer progression by secreting exosomal MMP1.",
+      "journal": "Oncogene",
+      "abstract_sections": [
+        "Lung cancer is a fatal complication of idiopathic pulmonary fibrosis (IPF) with a poor prognosis. Current treatments are insufficient in improving the prognosis of lung cancer patients with comorbid idiopathic pulmonary fibrosis (IPF-LC). Senescent fibroblasts, as stromal cells in the tumor microenvironment, influence tumor progression via exosomes. With evidence that fibroblast senescence is an important mechanism of IPF, we investigated the impact of senescent IPF lung fibroblast (diseased human lung fibroblasts, DHLF)-derived exosomes on non-small cell lung cancer (NSCLC). We found DHLF expressed significant senescence markers, and promoted NSCLC proliferation, invasion, and epithelial-mesenchymal transition. Specifically, senescent DHLF showed strong secretion of exosomes, and these exosomes enhanced the proliferation and colony-forming ability of cancer cells. Proteomic analysis showed DHLF-derived exosomes exhibited upregulated senescence-associated secretory phenotype (SASP) factors, notably MMP1, which activates the surface receptor PAR1. Knocking down MMP1 or using PAR1 inhibitors reduced the tumor-promoting effects of DHLF-derived exosomes in vivo and in vitro. Mechanistically, MMP1 acted by activating the PI3K-AKT-mTOR pathway. In conclusion, our results suggest that exosomal MMP1 derived from senescent IPF fibroblasts promotes NSCLC proliferation and colony formation by targeting PAR1 and activating the PI3K-AKT-mTOR pathway. These findings provide a novel therapeutic approach for patients with IPF-LC."
+      ],
+      "abstract": "Lung cancer is a fatal complication of idiopathic pulmonary fibrosis (IPF) with a poor prognosis. Current treatments are insufficient in improving the prognosis of lung cancer patients with comorbid idiopathic pulmonary fibrosis (IPF-LC). Senescent fibroblasts, as stromal cells in the tumor microenvironment, influence tumor progression via exosomes. With evidence that fibroblast senescence is an important mechanism of IPF, we investigated the impact of senescent IPF lung fibroblast (diseased human lung fibroblasts, DHLF)-derived exosomes on non-small cell lung cancer (NSCLC). We found DHLF expressed significant senescence markers, and promoted NSCLC proliferation, invasion, and epithelial-mesenchymal transition. Specifically, senescent DHLF showed strong secretion of exosomes, and these exosomes enhanced the proliferation and colony-forming ability of cancer cells. Proteomic analysis showed DHLF-derived exosomes exhibited upregulated senescence-associated secretory phenotype (SASP) factors, notably MMP1, which activates the surface receptor PAR1. Knocking down MMP1 or using PAR1 inhibitors reduced the tumor-promoting effects of DHLF-derived exosomes in vivo and in vitro. Mechanistically, MMP1 acted by activating the PI3K-AKT-mTOR pathway. In conclusion, our results suggest that exosomal MMP1 derived from senescent IPF fibroblasts promotes NSCLC proliferation and colony formation by targeting PAR1 and activating the PI3K-AKT-mTOR pathway. These findings provide a novel therapeutic approach for patients with IPF-LC.",
+      "evidence_sentences": [
+        "With evidence that fibroblast senescence is an important mechanism of IPF, we investigated the impact of senescent IPF lung fibroblast (diseased human lung fibroblasts, DHLF)-derived exosomes on non-small cell lung cancer (NSCLC).",
+        "Current treatments are insufficient in improving the prognosis of lung cancer patients with comorbid idiopathic pulmonary fibrosis (IPF-LC).",
+        "Specifically, senescent DHLF showed strong secretion of exosomes, and these exosomes enhanced the proliferation and colony-forming ability of cancer cells."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Yuqiong Lei",
+        "Cheng Zhong",
+        "Jingyuan Zhang",
+        "Qi Zheng",
+        "Yongle Xu",
+        "Zhoubin Li",
+        "Chenwen Huang",
+        "Tao Ren"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39663393/"
+    },
+    {
+      "pmid": "31692261",
+      "title": "Huaier extract suppresses non-small cell lung cancer progression through activating NLRP3-dependent pyroptosis.",
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "abstract_sections": [
+        "Recent studies have reported the anticancer activity of huaier extract in various human malignancies. However, little is known about the effect of huaier extract in non-small cell lung cancer (NSCLC) and its underlying mechanism. The current study aimed to investigate whether huaier extract affects the progression of NSCLC. mRNA and proteins expression of pyroptotic-related genes (NLRP3, caspase-1, IL-1β, and IL-18) in NSCLC tissues and cells were, respectively, detected by qRT-PCR and western blot. The effects of huaier extract on NSCLC cell viability and cytotoxicity were evaluated by CCK-8 assay, colony formation assay, and LDH detection kit. Besides, we established a xenograft model to assess the antitumor effect of huaier extract on tumor growth in vivo. Our results showed that the expression of pyroptotic-related genes was downregulated in NSCLC tissues and cell lines. Huaier extract pretreatment inhibited cell viability and the percentage of colony formation of H520 and H358 cells, and upregulated the expression of pyroptotic-related genes. Mechanistically, huaier extract exhibited antitumor effect in NSCLC via inducing NLRP3-dependent pyroptosis in vitro and in vivo. In conclusion, our finding confirmed that huaier extract played an antitumor role in NSCLC progression through promoting pyroptotic cell death, which provided a new potential strategy for NSCLC clinical treatment."
+      ],
+      "abstract": "Recent studies have reported the anticancer activity of huaier extract in various human malignancies. However, little is known about the effect of huaier extract in non-small cell lung cancer (NSCLC) and its underlying mechanism. The current study aimed to investigate whether huaier extract affects the progression of NSCLC. mRNA and proteins expression of pyroptotic-related genes (NLRP3, caspase-1, IL-1β, and IL-18) in NSCLC tissues and cells were, respectively, detected by qRT-PCR and western blot. The effects of huaier extract on NSCLC cell viability and cytotoxicity were evaluated by CCK-8 assay, colony formation assay, and LDH detection kit. Besides, we established a xenograft model to assess the antitumor effect of huaier extract on tumor growth in vivo. Our results showed that the expression of pyroptotic-related genes was downregulated in NSCLC tissues and cell lines. Huaier extract pretreatment inhibited cell viability and the percentage of colony formation of H520 and H358 cells, and upregulated the expression of pyroptotic-related genes. Mechanistically, huaier extract exhibited antitumor effect in NSCLC via inducing NLRP3-dependent pyroptosis in vitro and in vivo. In conclusion, our finding confirmed that huaier extract played an antitumor role in NSCLC progression through promoting pyroptotic cell death, which provided a new potential strategy for NSCLC clinical treatment.",
+      "evidence_sentences": [
+        "However, little is known about the effect of huaier extract in non-small cell lung cancer (NSCLC) and its underlying mechanism.",
+        "In conclusion, our finding confirmed that huaier extract played an antitumor role in NSCLC progression through promoting pyroptotic cell death, which provided a new potential strategy for NSCLC clinical treatment.",
+        "Huaier extract pretreatment inhibited cell viability and the percentage of colony formation of H520 and H358 cells, and upregulated the expression of pyroptotic-related genes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Retracted Publication"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Jun Xie",
+        "Bing Zhuan",
+        "Haixia Wang",
+        "Yan Wang",
+        "Xi Wang",
+        "Qun Yuan",
+        "Zhao Yang"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31692261/"
+    },
+    {
+      "pmid": "36807642",
+      "title": "Influenza-trained mucosal-resident alveolar macrophages confer long-term antitumor immunity in the lungs.",
+      "journal": "Nature immunology",
+      "abstract_sections": [
+        "Respiratory viral infections reprogram pulmonary macrophages with altered anti-infectious functions. However, the potential function of virus-trained macrophages in antitumor immunity in the lung, a preferential target of both primary and metastatic malignancies, is not well understood. Using mouse models of influenza and lung metastatic tumors, we show here that influenza trains respiratory mucosal-resident alveolar macrophages (AMs) to exert long-lasting and tissue-specific antitumor immunity. Trained AMs infiltrate tumor lesions and have enhanced phagocytic and tumor cell cytotoxic functions, which are associated with epigenetic, transcriptional and metabolic resistance to tumor-induced immune suppression. Generation of antitumor trained immunity in AMs is dependent on interferon-γ and natural killer cells. Notably, human AMs with trained immunity traits in non-small cell lung cancer tissue are associated with a favorable immune microenvironment. These data reveal a function for trained resident macrophages in pulmonary mucosal antitumor immune surveillance. Induction of trained immunity in tissue-resident macrophages might thereby be a potential antitumor strategy."
+      ],
+      "abstract": "Respiratory viral infections reprogram pulmonary macrophages with altered anti-infectious functions. However, the potential function of virus-trained macrophages in antitumor immunity in the lung, a preferential target of both primary and metastatic malignancies, is not well understood. Using mouse models of influenza and lung metastatic tumors, we show here that influenza trains respiratory mucosal-resident alveolar macrophages (AMs) to exert long-lasting and tissue-specific antitumor immunity. Trained AMs infiltrate tumor lesions and have enhanced phagocytic and tumor cell cytotoxic functions, which are associated with epigenetic, transcriptional and metabolic resistance to tumor-induced immune suppression. Generation of antitumor trained immunity in AMs is dependent on interferon-γ and natural killer cells. Notably, human AMs with trained immunity traits in non-small cell lung cancer tissue are associated with a favorable immune microenvironment. These data reveal a function for trained resident macrophages in pulmonary mucosal antitumor immune surveillance. Induction of trained immunity in tissue-resident macrophages might thereby be a potential antitumor strategy.",
+      "evidence_sentences": [
+        "Notably, human AMs with trained immunity traits in non-small cell lung cancer tissue are associated with a favorable immune microenvironment.",
+        "Trained AMs infiltrate tumor lesions and have enhanced phagocytic and tumor cell cytotoxic functions, which are associated with epigenetic, transcriptional and metabolic resistance to tumor-induced immune suppression.",
+        "Using mouse models of influenza and lung metastatic tumors, we show here that influenza trains respiratory mucosal-resident alveolar macrophages (AMs) to exert long-lasting and tissue-specific antitumor immunity."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Tao Wang",
+        "Jinjing Zhang",
+        "Yanling Wang",
+        "Ying Li",
+        "Lu Wang",
+        "Yangle Yu",
+        "Yushi Yao"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36807642/"
+    },
+    {
+      "pmid": "30774636",
+      "title": "Immune Cell Composition in Human Non-small Cell Lung Cancer.",
+      "journal": "Frontiers in immunology",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) is the leading cause of cancer-related death in the world. Immunological analysis of the tumor microenvironment (immunoscore) shows great promise for improved prognosis and prediction of response to immunotherapy. However, the exact immune cell composition in NSCLC remains unclear. Here, we used flow cytometry to characterize the immune infiltrate in NSCLC tumors, non-cancerous lung tissue, regional lymph node, and blood. The cellular identity of >95% of all CD45"
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) is the leading cause of cancer-related death in the world. Immunological analysis of the tumor microenvironment (immunoscore) shows great promise for improved prognosis and prediction of response to immunotherapy. However, the exact immune cell composition in NSCLC remains unclear. Here, we used flow cytometry to characterize the immune infiltrate in NSCLC tumors, non-cancerous lung tissue, regional lymph node, and blood. The cellular identity of >95% of all CD45",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) is the leading cause of cancer-related death in the world.",
+        "Here, we used flow cytometry to characterize the immune infiltrate in NSCLC tumors, non-cancerous lung tissue, regional lymph node, and blood.",
+        "However, the exact immune cell composition in NSCLC remains unclear."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Branislava Stankovic",
+        "Heidi Anine Korsmo Bjørhovde",
+        "Renate Skarshaug",
+        "Henrik Aamodt",
+        "Astri Frafjord",
+        "Elisabeth Müller",
+        "Clara Hammarström",
+        "Kahsai Beraki",
+        "Espen S Bækkevold",
+        "Per Reidar Woldbæk",
+        "Åslaug Helland",
+        "Odd Terje Brustugun",
+        "Inger Øynebråten",
+        "Alexandre Corthay"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30774636/"
+    },
+    {
+      "pmid": "33514641",
+      "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8",
+      "journal": "Science immunology",
+      "abstract_sections": [
+        "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8"
+      ],
+      "abstract": "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8",
+      "evidence_sentences": [
+        "Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Paul Gueguen",
+        "Christina Metoikidou",
+        "Thomas Dupic",
+        "Myriam Lawand",
+        "Christel Goudot",
+        "Sylvain Baulande",
+        "Sonia Lameiras",
+        "Olivier Lantz",
+        "Nicolas Girard",
+        "Agathe Seguin-Givelet",
+        "Marine Lefevre",
+        "Thierry Mora",
+        "Aleksandra M Walczak",
+        "Joshua J Waterfall",
+        "Sebastian Amigorena"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33514641/"
+    },
+    {
+      "pmid": "32001676",
+      "title": "Comprehensive T cell repertoire characterization of non-small cell lung cancer.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC). This requires a better understanding of the T cells in the lungs of patients with NSCLC. Here, we report T cell repertoire analysis in a cohort of 236 early-stage NSCLC patients. T cell repertoire attributes are associated with clinicopathologic features, mutational and immune landscape. A considerable proportion of the most prevalent T cells in tumors are also prevalent in the uninvolved tumor-adjacent lungs and appear specific to shared background mutations or viral infections. Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival. These findings indicate that a concise understanding of antigens and T cells in NSCLC is needed to improve therapeutic efficacy and reduce toxicity with immunotherapy, particularly adoptive T cell therapy."
+      ],
+      "abstract": "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC). This requires a better understanding of the T cells in the lungs of patients with NSCLC. Here, we report T cell repertoire analysis in a cohort of 236 early-stage NSCLC patients. T cell repertoire attributes are associated with clinicopathologic features, mutational and immune landscape. A considerable proportion of the most prevalent T cells in tumors are also prevalent in the uninvolved tumor-adjacent lungs and appear specific to shared background mutations or viral infections. Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival. These findings indicate that a concise understanding of antigens and T cells in NSCLC is needed to improve therapeutic efficacy and reduce toxicity with immunotherapy, particularly adoptive T cell therapy.",
+      "evidence_sentences": [
+        "Immunotherapy targeting T cells is increasingly utilized to treat solid tumors including non-small cell lung cancer (NSCLC).",
+        "A considerable proportion of the most prevalent T cells in tumors are also prevalent in the uninvolved tumor-adjacent lungs and appear specific to shared background mutations or viral infections.",
+        "Patients with higher T cell repertoire homology between the tumor and uninvolved tumor-adjacent lung, suggesting a less tumor-focused T cell response, exhibit inferior survival."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Alexandre Reuben",
+        "Jiexin Zhang",
+        "Shin-Heng Chiou",
+        "Rachel M Gittelman",
+        "Jun Li",
+        "Won-Chul Lee",
+        "Junya Fujimoto",
+        "Carmen Behrens",
+        "Xiaoke Liu",
+        "Feng Wang",
+        "Kelly Quek",
+        "Chunlin Wang",
+        "Farrah Kheradmand",
+        "Runzhe Chen",
+        "Chi-Wan Chow",
+        "Heather Lin",
+        "Chantale Bernatchez",
+        "Ali Jalali",
+        "Xin Hu",
+        "Chang-Jiun Wu",
+        "Agda Karina Eterovic",
+        "Edwin Roger Parra",
+        "Erik Yusko",
+        "Ryan Emerson",
+        "Sharon Benzeno",
+        "Marissa Vignali",
+        "Xifeng Wu",
+        "Yuanqing Ye",
+        "Latasha D Little",
+        "Curtis Gumbs",
+        "Xizeng Mao",
+        "Xingzhi Song",
+        "Samantha Tippen",
+        "Rebecca L Thornton",
+        "Tina Cascone",
+        "Alexandra Snyder",
+        "Jennifer A Wargo",
+        "Roy Herbst",
+        "Stephen Swisher",
+        "Humam Kadara",
+        "Cesar Moran",
+        "Neda Kalhor",
+        "Jianhua Zhang",
+        "Paul Scheet",
+        "Ara A Vaporciyan",
+        "Boris Sepesi",
+        "Don L Gibbons",
+        "Harlan Robins",
+        "Patrick Hwu",
+        "John V Heymach",
+        "Padmanee Sharma",
+        "James P Allison",
+        "Veera Baladandayuthapani",
+        "Jack J Lee",
+        "Mark M Davis",
+        "Ignacio I Wistuba",
+        "P Andrew Futreal",
+        "Jianjun Zhang"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32001676/"
+    },
+    {
+      "pmid": "35254206",
+      "title": "Alterations of lung microbiota in patients with non-small cell lung cancer.",
+      "journal": "Bioengineered",
+      "abstract_sections": [
+        "The role of lung microbiota in non-small cell lung cancer remains unclear. We investigated the characteristics and functional roles of lung microbiota in non-small cell lung cancer. Bronchoalveolar lavage fluid samples were obtained from patients with non-small cell lung cancer (n = 46) and with benign lung disease (n = 29). The differences in composition and gene expression in the microbiota between the samples were analyzed using 16s rRNA sequencing. The oncogenic genus ("
+      ],
+      "abstract": "The role of lung microbiota in non-small cell lung cancer remains unclear. We investigated the characteristics and functional roles of lung microbiota in non-small cell lung cancer. Bronchoalveolar lavage fluid samples were obtained from patients with non-small cell lung cancer (n = 46) and with benign lung disease (n = 29). The differences in composition and gene expression in the microbiota between the samples were analyzed using 16s rRNA sequencing. The oncogenic genus (",
+      "evidence_sentences": [
+        "Bronchoalveolar lavage fluid samples were obtained from patients with non-small cell lung cancer (n = 46) and with benign lung disease (n = 29).",
+        "We investigated the characteristics and functional roles of lung microbiota in non-small cell lung cancer.",
+        "The role of lung microbiota in non-small cell lung cancer remains unclear."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Wen Zeng",
+        "ChengZhu Zhao",
+        "Mengge Yu",
+        "Hailong Chen",
+        "Yiyun Pan",
+        "Yuhuan Wang",
+        "Hejing Bao",
+        "Hao Ma",
+        "Shudong Ma"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35254206/"
+    },
+    {
+      "pmid": "36966280",
+      "title": "Exploration of lung mycobiome in the patients with non-small-cell lung cancer.",
+      "journal": "BMC microbiology",
+      "abstract_sections": [
+        "As the Human Microbiome Project (HMP) progresses, the relationship between microbes and human health has been receiving increasing attention. A growing number of reports support the correlation between cancer and microbes. However, most studies have focused on bacteria, rather than fungal communities. In this study, we studied the alteration in lung mycobiome in patients with non-small-cell lung cancer (NSCLC) using metagenomic sequencing and qPCR. The higher fungal diversity and more complex network were observed in the patients with NSCLC. In addition, Alternaria arborescens was found as the most relevant fungus to NSCLC, and the enrichment of it in cancerous tissue was also detected. This study proposes that the changes in fungal communities may be closely related to lung cancer, and provides insights into further exploration the relationship between lung cancer and fungi."
+      ],
+      "abstract": "As the Human Microbiome Project (HMP) progresses, the relationship between microbes and human health has been receiving increasing attention. A growing number of reports support the correlation between cancer and microbes. However, most studies have focused on bacteria, rather than fungal communities. In this study, we studied the alteration in lung mycobiome in patients with non-small-cell lung cancer (NSCLC) using metagenomic sequencing and qPCR. The higher fungal diversity and more complex network were observed in the patients with NSCLC. In addition, Alternaria arborescens was found as the most relevant fungus to NSCLC, and the enrichment of it in cancerous tissue was also detected. This study proposes that the changes in fungal communities may be closely related to lung cancer, and provides insights into further exploration the relationship between lung cancer and fungi.",
+      "evidence_sentences": [
+        "In this study, we studied the alteration in lung mycobiome in patients with non-small-cell lung cancer (NSCLC) using metagenomic sequencing and qPCR.",
+        "This study proposes that the changes in fungal communities may be closely related to lung cancer, and provides insights into further exploration the relationship between lung cancer and fungi.",
+        "In addition, Alternaria arborescens was found as the most relevant fungus to NSCLC, and the enrichment of it in cancerous tissue was also detected."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Yiming Zhao",
+        "Junqi Yi",
+        "Juanjuan Xiang",
+        "Wei Jia",
+        "Anqi Chen",
+        "Liyu Chen",
+        "Leliang Zheng",
+        "Wen Zhou",
+        "Minghua Wu",
+        "Zheng Yu",
+        "Jingqun Tang"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36966280/"
+    },
+    {
+      "pmid": "35545892",
+      "title": "Spirometry at diagnosis and overall survival in non-small cell lung cancer patients.",
+      "journal": "Cancer medicine",
+      "abstract_sections": [
+        "Pulmonary function can predict all-cause mortality, and chronic obstructive pulmonary disease (COPD) is associated with worse overall survival (OS) in non-small cell lung cancer (NSCLC) patients. Though pre-operative lung function is predictive of in-hospital mortality following lung cancer surgery, its predictive utility for long-term survival is unclear. The prognostic role of commonly used spirometry tests in survival of lung cancer also remains uncertain. This study evaluates the role of spirometry at lung cancer diagnosis in predicting OS of NSCLC patients. This was a retrospective study using data from the Boston Lung Cancer Study on newly diagnosed NSCLC patients with spirometry tests performed before cancer therapy (n = 2805). Spirometric test values, after being categorized using quartiles, were analyzed for association with OS using univariate and risk-adjusted multiple regression models. Further, we analyzed OS by the status of COPD determined by spirometry, and, among those with COPD, by its stage defined by the Global Initiative for Chronic Obstructive Lung Disease criteria. Both univariate and multiple regression models demonstrated that lower quartiles of actual and percent predicted forced expiratory volume in 1 second and forced vital capacity at lung cancer diagnosis were significantly associated with worse OS. Spirometry-determined COPD, and more advanced stage of COPD at lung cancer diagnosis were associated with worse lung cancer OS. The findings provide evidence that a good pulmonary function at diagnosis may help improve OS in NSCLC patients."
+      ],
+      "abstract": "Pulmonary function can predict all-cause mortality, and chronic obstructive pulmonary disease (COPD) is associated with worse overall survival (OS) in non-small cell lung cancer (NSCLC) patients. Though pre-operative lung function is predictive of in-hospital mortality following lung cancer surgery, its predictive utility for long-term survival is unclear. The prognostic role of commonly used spirometry tests in survival of lung cancer also remains uncertain. This study evaluates the role of spirometry at lung cancer diagnosis in predicting OS of NSCLC patients. This was a retrospective study using data from the Boston Lung Cancer Study on newly diagnosed NSCLC patients with spirometry tests performed before cancer therapy (n = 2805). Spirometric test values, after being categorized using quartiles, were analyzed for association with OS using univariate and risk-adjusted multiple regression models. Further, we analyzed OS by the status of COPD determined by spirometry, and, among those with COPD, by its stage defined by the Global Initiative for Chronic Obstructive Lung Disease criteria. Both univariate and multiple regression models demonstrated that lower quartiles of actual and percent predicted forced expiratory volume in 1 second and forced vital capacity at lung cancer diagnosis were significantly associated with worse OS. Spirometry-determined COPD, and more advanced stage of COPD at lung cancer diagnosis were associated with worse lung cancer OS. The findings provide evidence that a good pulmonary function at diagnosis may help improve OS in NSCLC patients.",
+      "evidence_sentences": [
+        "Pulmonary function can predict all-cause mortality, and chronic obstructive pulmonary disease (COPD) is associated with worse overall survival (OS) in non-small cell lung cancer (NSCLC) patients.",
+        "Spirometry-determined COPD, and more advanced stage of COPD at lung cancer diagnosis were associated with worse lung cancer OS.",
+        "This was a retrospective study using data from the Boston Lung Cancer Study on newly diagnosed NSCLC patients with spirometry tests performed before cancer therapy (n = 2805)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Ting Zhai",
+        "Yi Li",
+        "Robert Brown",
+        "Michael Lanuti",
+        "Justin F Gainor",
+        "David C Christiani"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35545892/"
+    },
+    {
+      "pmid": "32487779",
+      "title": "CARM1 promotes non-small cell lung cancer progression through upregulating CCNE2 expression.",
+      "journal": "Aging",
+      "abstract_sections": [
+        "The underlying molecular mechanisms of tumorigenesis and progression of non-small cell lung cancer (NSCLC) are not yet fully elucidated. In the present study,"
+      ],
+      "abstract": "The underlying molecular mechanisms of tumorigenesis and progression of non-small cell lung cancer (NSCLC) are not yet fully elucidated. In the present study,",
+      "evidence_sentences": [
+        "The underlying molecular mechanisms of tumorigenesis and progression of non-small cell lung cancer (NSCLC) are not yet fully elucidated."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Deqin Wu",
+        "Jing He",
+        "Wei Zhang",
+        "Kai Wang",
+        "Shidai Jin",
+        "Jun Li",
+        "Wen Gao"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32487779/"
+    },
+    {
+      "pmid": "24578213",
+      "title": "Targeting angiogenesis in squamous non-small cell lung cancer.",
+      "journal": "Drugs",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases. The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma. However, improvements in the survival of patients with squamous NSCLC have remained elusive, presenting an urgent need for understanding and investigating therapeutically relevant molecular targets, specifically in squamous NSCLC. Although anti-VEGF therapy has been studied in squamous NSCLC, progress has been slow, in part due to issues related to pulmonary hemorrhage. In addition to these safety concerns, several phase III trials that initially included patients with squamous NSCLC failed to demonstrate improved overall survival (primary endpoint) with the addition of antiangiogenic therapy to chemotherapy compared with chemotherapy alone. Angiogenesis is an established hallmark of tumor progression and metastasis, and the role of VEGF signaling in angiogenesis is well established. However, some studies suggest that, while inhibiting VEGF signaling may be beneficial, prolonged exposure to VEGF/VEGF receptor (VEGFR) inhibitors may allow tumor cells to utilize alternative angiogenic mechanisms and become resistant. As a result, agents that target multiple angiogenic pathways simultaneously are also under evaluation. This review focuses on current and investigational antiangiogenic targets in squamous NSCLC, including VEGF/VEGFRs, fibroblast growth factor receptors, platelet-derived growth factor receptors, and angiopoietin. Additionally, clinical trials investigating VEGF- and multi-targeted antiangiogenic therapies are discussed."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases. The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma. However, improvements in the survival of patients with squamous NSCLC have remained elusive, presenting an urgent need for understanding and investigating therapeutically relevant molecular targets, specifically in squamous NSCLC. Although anti-VEGF therapy has been studied in squamous NSCLC, progress has been slow, in part due to issues related to pulmonary hemorrhage. In addition to these safety concerns, several phase III trials that initially included patients with squamous NSCLC failed to demonstrate improved overall survival (primary endpoint) with the addition of antiangiogenic therapy to chemotherapy compared with chemotherapy alone. Angiogenesis is an established hallmark of tumor progression and metastasis, and the role of VEGF signaling in angiogenesis is well established. However, some studies suggest that, while inhibiting VEGF signaling may be beneficial, prolonged exposure to VEGF/VEGF receptor (VEGFR) inhibitors may allow tumor cells to utilize alternative angiogenic mechanisms and become resistant. As a result, agents that target multiple angiogenic pathways simultaneously are also under evaluation. This review focuses on current and investigational antiangiogenic targets in squamous NSCLC, including VEGF/VEGFRs, fibroblast growth factor receptors, platelet-derived growth factor receptors, and angiopoietin. Additionally, clinical trials investigating VEGF- and multi-targeted antiangiogenic therapies are discussed.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) is the most common type of lung cancer, and can be further classified as nonsquamous carcinoma (including adenocarcinoma, which accounts for 40 % of NSCLCs) and squamous NSCLC, which makes up 30 % of NSCLC cases.",
+        "However, some studies suggest that, while inhibiting VEGF signaling may be beneficial, prolonged exposure to VEGF/VEGF receptor (VEGFR) inhibitors may allow tumor cells to utilize alternative angiogenic mechanisms and become resistant.",
+        "The emergence of inhibitors of epidermal growth factor receptors, anaplastic lymphoma kinase, and vascular endothelial growth factors (VEGF) in the last decade has resulted in steady improvement in clinical outcomes for patients with advanced lung adenocarcinoma."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Bilal Piperdi",
+        "Amartej Merla",
+        "Roman Perez-Soler"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24578213/"
+    },
+    {
+      "pmid": "26391246",
+      "title": "[Non-small cell lung cancer. New biomarkers for diagnostics and therapy].",
+      "journal": "Der Pathologe",
+      "abstract_sections": [
+        "Although advances in targeted therapies have recently been achieved, lung cancer remains a major health burden worldwide. It is therefore pivotal to investigate the biology of lung cancers in order to design new therapeutic strategies. To address this a multi-antibody assay has been developed for the classification of non-small cell lung cancer (NSCLC). Using this assay the pathologist is able to reliably subtype NSCLC into adenocarcinoma, squamous cell carcinoma, large cell neuroendocrine carcinoma (LCNEC) and NSCLC not otherwise specified (NOS) large cell carcinoma, as required by the new World Health Organization (WHO) classification of 2015, on a single glass slide. In our cohort this classification algorithm showed significant differences in overall survival of the therapeutically important subgroups, which reflects the accuracy of the assay. To investigate the biology of NSCLC subtypes further, several proteins involved in carbohydrate metabolism were analyzed. In a hierarchical cluster analysis it could be shown that adenocarcinoma and squamous cell carcinoma harbor different metabolic shifts and, furthermore, that two distinct groups of squamous cell carcinoma seem to exist, a hypoxia and a transporter type. These results could be verified by analysis of mRNA data obtained from the TCGA database. As a close association between tumor metabolism and anti-tumor immune response has been reported, the lymphocytic infiltrates were characterized with respect to T-cells and their location within the tumor. Besides a negative correlation of lymphocyte density and expression of lactate dehydrogenase, it could be shown that depending on the location and type a high lymphocyte density indicates a significantly better overall survival of NSCLC patients. Investigating the expression of PD-L1 in NSCLC cells, a significant correlation with lymphocyte density was detected. In conclusion, the multi-antibody assay is a new and economically attractive tool for a reliable subclassification of NSCLC. This subtyping results in a better biological stratification of NSCLC and is the basis not only for palliative treatment options but also for further investigations on NSCLC biology. It was discovered that metabolic changes during malignant transformation are different in adenocarcinoma and squamous cell carcinoma. The latter group can be further divided into a hypoxia and a transporter type. Anti-tumor immune responses are influenced by the metabolic shift in NSCLC and lymphocyte density with respect to the location within the tumor is of prognostic significance in NSCLC. Therefore, the results contribute to a better biological understanding of NSCLC and may lead to new treatment options by targeting metabolic enzymes or triggering anti-tumor responses."
+      ],
+      "abstract": "Although advances in targeted therapies have recently been achieved, lung cancer remains a major health burden worldwide. It is therefore pivotal to investigate the biology of lung cancers in order to design new therapeutic strategies. To address this a multi-antibody assay has been developed for the classification of non-small cell lung cancer (NSCLC). Using this assay the pathologist is able to reliably subtype NSCLC into adenocarcinoma, squamous cell carcinoma, large cell neuroendocrine carcinoma (LCNEC) and NSCLC not otherwise specified (NOS) large cell carcinoma, as required by the new World Health Organization (WHO) classification of 2015, on a single glass slide. In our cohort this classification algorithm showed significant differences in overall survival of the therapeutically important subgroups, which reflects the accuracy of the assay. To investigate the biology of NSCLC subtypes further, several proteins involved in carbohydrate metabolism were analyzed. In a hierarchical cluster analysis it could be shown that adenocarcinoma and squamous cell carcinoma harbor different metabolic shifts and, furthermore, that two distinct groups of squamous cell carcinoma seem to exist, a hypoxia and a transporter type. These results could be verified by analysis of mRNA data obtained from the TCGA database. As a close association between tumor metabolism and anti-tumor immune response has been reported, the lymphocytic infiltrates were characterized with respect to T-cells and their location within the tumor. Besides a negative correlation of lymphocyte density and expression of lactate dehydrogenase, it could be shown that depending on the location and type a high lymphocyte density indicates a significantly better overall survival of NSCLC patients. Investigating the expression of PD-L1 in NSCLC cells, a significant correlation with lymphocyte density was detected. In conclusion, the multi-antibody assay is a new and economically attractive tool for a reliable subclassification of NSCLC. This subtyping results in a better biological stratification of NSCLC and is the basis not only for palliative treatment options but also for further investigations on NSCLC biology. It was discovered that metabolic changes during malignant transformation are different in adenocarcinoma and squamous cell carcinoma. The latter group can be further divided into a hypoxia and a transporter type. Anti-tumor immune responses are influenced by the metabolic shift in NSCLC and lymphocyte density with respect to the location within the tumor is of prognostic significance in NSCLC. Therefore, the results contribute to a better biological understanding of NSCLC and may lead to new treatment options by targeting metabolic enzymes or triggering anti-tumor responses.",
+      "evidence_sentences": [
+        "To address this a multi-antibody assay has been developed for the classification of non-small cell lung cancer (NSCLC).",
+        "Although advances in targeted therapies have recently been achieved, lung cancer remains a major health burden worldwide.",
+        "It is therefore pivotal to investigate the biology of lung cancers in order to design new therapeutic strategies."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "G Kayser"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26391246/"
+    },
+    {
+      "pmid": "40037874",
+      "title": "Peripheral CD4",
+      "journal": "Anticancer research",
+      "abstract_sections": [
+        "Previous investigations showed that non-small cell lung cancer (NSCLC) patients with a high percentage of a peripheral CD4",
+        "We analyzed the T cell profiles and functions in peripheral blood and non-tumor lung tissues surgically resected from patients with NSCLC.",
+        "In patients with NSCLC with a high percentage of the peripheral CD4",
+        "Patients with NSCLC with a high percentage of the peripheral CD4"
+      ],
+      "abstract": "Previous investigations showed that non-small cell lung cancer (NSCLC) patients with a high percentage of a peripheral CD4\n\nWe analyzed the T cell profiles and functions in peripheral blood and non-tumor lung tissues surgically resected from patients with NSCLC.\n\nIn patients with NSCLC with a high percentage of the peripheral CD4\n\nPatients with NSCLC with a high percentage of the peripheral CD4",
+      "evidence_sentences": [
+        "Previous investigations showed that non-small cell lung cancer (NSCLC) patients with a high percentage of a peripheral CD4 We analyzed the T cell profiles and functions in peripheral blood and non-tumor lung tissues surgically resected from patients with NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Mari Tone",
+        "Tomomi Isono",
+        "Yoko Yamamoto",
+        "Yoshito Takeda",
+        "Yasushi Shintani",
+        "Atsushi Kumanogoh",
+        "Hisashi Wada",
+        "Kota Iwahori"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40037874/"
+    },
+    {
+      "pmid": "37186036",
+      "title": "EPN3 plays oncogenic role in non-small cell lung cancer by activating the JAK1/2-STAT3 pathway.",
+      "journal": "Environmental toxicology",
+      "abstract_sections": [
+        "The effect of Epsin 3 (EPN3) on non-small cell lung cancer (NSCLC) has not yet been clearly elucidated. This study identified the exact function of EPN3 on NSCLC progression. EPN3 expression in NSCLC patients were analyzed based on the Cancer Genome Atlas database. Kaplan-Meier analysis was implemented to research the effect of EPN3 on patients' survival. EPN3 expression in clinical tissues of 62 NSCLC cases was monitored by real-time quantitative reverse transcription polymerase chain reaction, immunohistochemistry and Western blot. A549 and H1299 cells were transfected with EPN3 shRNA and treated by RO8191 (20 μM). Proliferation was researched by cell counting kit-8 and 5-ethnyl-2 deoxyuridine assays. Apoptosis was monitored by flow cytometry. Migration and invasion was assessed by Transwell experiment. EPN3 effect on A549 cell in vivo growth was researched using nude mice. RO8191 (200 μg) was intratumoral injected into mice. Immunohistochemistry and Western blot was implemented to monitor protein expression in cells and xenograft tumor tissues. EPN3 was abnormally up-regulated in NSCLC patients and cells, indicating a lower overall survival. Loss of EPN3 weakened proliferation, migration and invasion, induced apoptosis, and repressed epithelial-mesenchymal transition in NSCLC cells. Loss of EPN3 inactivated the JAK1/2-STAT3 pathway in NSCLC cells. RO8191 treatment reversed the inhibition of EPN3 knockdown on the malignant phenotype of NSCLC cells. RO8191 intratumoral injection reversed the suppression of EPN3 silencing on NSCLC cell in vivo growth. EPN3 acted as an oncogene in NSCLC via activating the JAK1/2-STAT3 pathway. EPN3 may be a promising target for NSCLC treatment."
+      ],
+      "abstract": "The effect of Epsin 3 (EPN3) on non-small cell lung cancer (NSCLC) has not yet been clearly elucidated. This study identified the exact function of EPN3 on NSCLC progression. EPN3 expression in NSCLC patients were analyzed based on the Cancer Genome Atlas database. Kaplan-Meier analysis was implemented to research the effect of EPN3 on patients' survival. EPN3 expression in clinical tissues of 62 NSCLC cases was monitored by real-time quantitative reverse transcription polymerase chain reaction, immunohistochemistry and Western blot. A549 and H1299 cells were transfected with EPN3 shRNA and treated by RO8191 (20 μM). Proliferation was researched by cell counting kit-8 and 5-ethnyl-2 deoxyuridine assays. Apoptosis was monitored by flow cytometry. Migration and invasion was assessed by Transwell experiment. EPN3 effect on A549 cell in vivo growth was researched using nude mice. RO8191 (200 μg) was intratumoral injected into mice. Immunohistochemistry and Western blot was implemented to monitor protein expression in cells and xenograft tumor tissues. EPN3 was abnormally up-regulated in NSCLC patients and cells, indicating a lower overall survival. Loss of EPN3 weakened proliferation, migration and invasion, induced apoptosis, and repressed epithelial-mesenchymal transition in NSCLC cells. Loss of EPN3 inactivated the JAK1/2-STAT3 pathway in NSCLC cells. RO8191 treatment reversed the inhibition of EPN3 knockdown on the malignant phenotype of NSCLC cells. RO8191 intratumoral injection reversed the suppression of EPN3 silencing on NSCLC cell in vivo growth. EPN3 acted as an oncogene in NSCLC via activating the JAK1/2-STAT3 pathway. EPN3 may be a promising target for NSCLC treatment.",
+      "evidence_sentences": [
+        "The effect of Epsin 3 (EPN3) on non-small cell lung cancer (NSCLC) has not yet been clearly elucidated.",
+        "RO8191 treatment reversed the inhibition of EPN3 knockdown on the malignant phenotype of NSCLC cells.",
+        "EPN3 effect on A549 cell in vivo growth was researched using nude mice."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Jiguang Meng",
+        "Chunyang Zhang",
+        "Nengyang Zhu",
+        "Caiyun Zhang",
+        "Meng Liu",
+        "Zhihai Han",
+        "Yongqun Li"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37186036/"
+    },
+    {
+      "pmid": "40948207",
+      "title": "Lung Tissue-Targeting STING mRNA-LNPs Inhibits Tumor Progression and Induces Systemic Anti-Tumor Immunity in Non-Small Cell Lung Cancer.",
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "abstract_sections": [
+        "The STING pathway holds immunotherapeutic promise but faces challenges in tumor-specific delivery and systemic toxicity. A lung-targeting peptide (APWHLSAQYSRT)-modified lipid nanoparticle (LNP) system (LT-STING-LNPs) is developed to deliver STING mRNA for non-small cell lung cancer (NSCLC) treatment. These spherical, stable LNPs exhibited high mRNA encapsulation efficiency. In vitro, LT-STING-LNPs induced potent STING overexpression in lung cells, inhibiting NSCLC cell proliferation, migration, and invasion. In vivo, LNPs demonstrated superior lung tropism, enabling targeted STING activation in pulmonary tissue without systemic distribution. In murine lung metastasis models, treatment drastically reduced metastatic burden, suppressed tumor proliferation (Ki-67), and inhibited epithelial-mesenchymal transition (Vimentin). Notably, the platform shows excellent safety with no organ toxicity. LT-STING-LNPs synergized robustly with anti-PD1 therapy, achieving near-complete metastasis inhibition. Mechanistically, this is driven by STING-TBK1-IRF3 signaling activation, inflammatory cytokine (IFN-α, IL-1β, CXCL10) production, and immune microenvironment remodeling, including increased CD8+ T cell and M1 macrophage infiltration. This targeted, safe, and highly effective immunotherapy strategy represents a promising advancement for NSCLC, leveraging synergistic STING pathway activation and immune checkpoint blockade."
+      ],
+      "abstract": "The STING pathway holds immunotherapeutic promise but faces challenges in tumor-specific delivery and systemic toxicity. A lung-targeting peptide (APWHLSAQYSRT)-modified lipid nanoparticle (LNP) system (LT-STING-LNPs) is developed to deliver STING mRNA for non-small cell lung cancer (NSCLC) treatment. These spherical, stable LNPs exhibited high mRNA encapsulation efficiency. In vitro, LT-STING-LNPs induced potent STING overexpression in lung cells, inhibiting NSCLC cell proliferation, migration, and invasion. In vivo, LNPs demonstrated superior lung tropism, enabling targeted STING activation in pulmonary tissue without systemic distribution. In murine lung metastasis models, treatment drastically reduced metastatic burden, suppressed tumor proliferation (Ki-67), and inhibited epithelial-mesenchymal transition (Vimentin). Notably, the platform shows excellent safety with no organ toxicity. LT-STING-LNPs synergized robustly with anti-PD1 therapy, achieving near-complete metastasis inhibition. Mechanistically, this is driven by STING-TBK1-IRF3 signaling activation, inflammatory cytokine (IFN-α, IL-1β, CXCL10) production, and immune microenvironment remodeling, including increased CD8+ T cell and M1 macrophage infiltration. This targeted, safe, and highly effective immunotherapy strategy represents a promising advancement for NSCLC, leveraging synergistic STING pathway activation and immune checkpoint blockade.",
+      "evidence_sentences": [
+        "A lung-targeting peptide (APWHLSAQYSRT)-modified lipid nanoparticle (LNP) system (LT-STING-LNPs) is developed to deliver STING mRNA for non-small cell lung cancer (NSCLC) treatment.",
+        "In vitro, LT-STING-LNPs induced potent STING overexpression in lung cells, inhibiting NSCLC cell proliferation, migration, and invasion.",
+        "In murine lung metastasis models, treatment drastically reduced metastatic burden, suppressed tumor proliferation (Ki-67), and inhibited epithelial-mesenchymal transition (Vimentin)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Wenhua Tang",
+        "Xiaoli Xu",
+        "Hang Hou",
+        "Chu Zhang",
+        "Wei Wei",
+        "Gui Chen",
+        "Liwen Zhang",
+        "Rui Chen",
+        "Yueping Shen",
+        "Mei Ji",
+        "Xin Yang"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40948207/"
+    },
+    {
+      "pmid": "33883577",
+      "title": "ALKBH4 promotes tumourigenesis with a poor prognosis in non-small-cell lung cancer.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "The human AlkB homolog family (ALKBH) of proteins play a critical role in some types of cancer. However, the expression and function of the lysine demethylase ALKBH4 in cancer are poorly understood. Here, we examined the expression and function of ALKBH4 in non-small-cell lung cancer (NSCLC) and found that ALKBH4 was highly expressed in NSCLC, as compared to that in adjacent normal lung tissues. ALKBH4 knockdown significantly induced the downregulation of NSCLC cell proliferation via cell cycle arrest at the G"
+      ],
+      "abstract": "The human AlkB homolog family (ALKBH) of proteins play a critical role in some types of cancer. However, the expression and function of the lysine demethylase ALKBH4 in cancer are poorly understood. Here, we examined the expression and function of ALKBH4 in non-small-cell lung cancer (NSCLC) and found that ALKBH4 was highly expressed in NSCLC, as compared to that in adjacent normal lung tissues. ALKBH4 knockdown significantly induced the downregulation of NSCLC cell proliferation via cell cycle arrest at the G",
+      "evidence_sentences": [
+        "Here, we examined the expression and function of ALKBH4 in non-small-cell lung cancer (NSCLC) and found that ALKBH4 was highly expressed in NSCLC, as compared to that in adjacent normal lung tissues.",
+        "ALKBH4 knockdown significantly induced the downregulation of NSCLC cell proliferation via cell cycle arrest at the G",
+        "However, the expression and function of the lysine demethylase ALKBH4 in cancer are poorly understood."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Kentaro Jingushi",
+        "Masaya Aoki",
+        "Kazuhiro Ueda",
+        "Takahiro Kogaki",
+        "Masaya Tanimoto",
+        "Yuya Monoe",
+        "Masayuki Ando",
+        "Takuya Matsumoto",
+        "Kentaro Minami",
+        "Yuko Ueda",
+        "Kaori Kitae",
+        "Hiroaki Hase",
+        "Toshiyuki Nagata",
+        "Aya Harada-Takeda",
+        "Masatatsu Yamamoto",
+        "Kohichi Kawahara",
+        "Kazuhiro Tabata",
+        "Tatsuhiko Furukawa",
+        "Masami Sato",
+        "Kazutake Tsujikawa"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33883577/"
+    },
+    {
+      "pmid": "36528259",
+      "title": "The role of FOXP3 in non-small cell lung cancer and its therapeutic potentials.",
+      "journal": "Pharmacology & therapeutics",
+      "abstract_sections": [
+        "Although in the last few decades we have witnessed the rapid development of treatments for non-small cell lung cancer (NSCLC), it still remains the leading cause of cancer-related death. Increasing efforts have been devoted to exploring potential biomarkers and molecular targets for NSCLC. Foxp3, a transcription factor that was discovered as a master regulator of regulatory T cells (Tregs), has been found to express abnormally in tumoral cells including lung cancer cells. In recent years, increasing evidence have surfaced, revealing the carcinogenic effect of FOXP3 in lung cancer. In this review, we analyzed and summarized the function of FOXP3, its regulation and therapeutic potentials in NSCLC, with a hope to facilitate the development of novel treatments for NSCLC."
+      ],
+      "abstract": "Although in the last few decades we have witnessed the rapid development of treatments for non-small cell lung cancer (NSCLC), it still remains the leading cause of cancer-related death. Increasing efforts have been devoted to exploring potential biomarkers and molecular targets for NSCLC. Foxp3, a transcription factor that was discovered as a master regulator of regulatory T cells (Tregs), has been found to express abnormally in tumoral cells including lung cancer cells. In recent years, increasing evidence have surfaced, revealing the carcinogenic effect of FOXP3 in lung cancer. In this review, we analyzed and summarized the function of FOXP3, its regulation and therapeutic potentials in NSCLC, with a hope to facilitate the development of novel treatments for NSCLC.",
+      "evidence_sentences": [
+        "Although in the last few decades we have witnessed the rapid development of treatments for non-small cell lung cancer (NSCLC), it still remains the leading cause of cancer-related death.",
+        "Foxp3, a transcription factor that was discovered as a master regulator of regulatory T cells (Tregs), has been found to express abnormally in tumoral cells including lung cancer cells.",
+        "In recent years, increasing evidence have surfaced, revealing the carcinogenic effect of FOXP3 in lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Jia Peng",
+        "Shucai Yang",
+        "Calvin S H Ng",
+        "George G Chen"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36528259/"
+    },
+    {
+      "pmid": "36802454",
+      "title": "ERCC6 plays a promoting role in the progression of non-small cell lung cancer.",
+      "journal": "Biochemistry and cell biology = Biochimie et biologie cellulaire",
+      "abstract_sections": [
+        "Although excision repair cross-complementing group 6 (ERCC6) has been reported to be associated with lung cancer risk, the specific roles of ERCC6 in non-small cell lung cancer (NSCLC) progression are inadequately studied. Thus, this study aimed to examine the potential functions of ERCC6 in NSCLC. The expression of ERCC6 in NSCLC was analyzed by immunohistochemical staining and quantitative PCR. Celigo cell count, colony formation, flow cytometry, wound-healing, and transwell assays were used to evaluate the effects of ERCC6 knockdown on the proliferation, apoptosis, and migration of NSCLC cells. The effect of ERCC6 knockdown on tumor-forming ability of NSCLC cells was estimated by establishing xenograft model. ERCC6 was highly expressed in NSCLC tumor tissues and cell lines, and high ERCC6 expression was significantly associated with poor overall survival. Additionally, ERCC6 knockdown significantly suppressed cell proliferation, colony formation and migration, while accelerated cell apoptosis of NSCLC cells in vitro. Moreover, ERCC6 knockdown inhibited tumor growth in vivo. Further studies verified that ERCC6 knockdown attenuated the expression levels of Bcl-w, CCND1, and c-Myc. Altogether, these data unveil a major role of ERCC6 in the progression of NSCLC, and ERCC6 is expected to become a novel therapeutic target for NSCLC treatment."
+      ],
+      "abstract": "Although excision repair cross-complementing group 6 (ERCC6) has been reported to be associated with lung cancer risk, the specific roles of ERCC6 in non-small cell lung cancer (NSCLC) progression are inadequately studied. Thus, this study aimed to examine the potential functions of ERCC6 in NSCLC. The expression of ERCC6 in NSCLC was analyzed by immunohistochemical staining and quantitative PCR. Celigo cell count, colony formation, flow cytometry, wound-healing, and transwell assays were used to evaluate the effects of ERCC6 knockdown on the proliferation, apoptosis, and migration of NSCLC cells. The effect of ERCC6 knockdown on tumor-forming ability of NSCLC cells was estimated by establishing xenograft model. ERCC6 was highly expressed in NSCLC tumor tissues and cell lines, and high ERCC6 expression was significantly associated with poor overall survival. Additionally, ERCC6 knockdown significantly suppressed cell proliferation, colony formation and migration, while accelerated cell apoptosis of NSCLC cells in vitro. Moreover, ERCC6 knockdown inhibited tumor growth in vivo. Further studies verified that ERCC6 knockdown attenuated the expression levels of Bcl-w, CCND1, and c-Myc. Altogether, these data unveil a major role of ERCC6 in the progression of NSCLC, and ERCC6 is expected to become a novel therapeutic target for NSCLC treatment.",
+      "evidence_sentences": [
+        "Although excision repair cross-complementing group 6 (ERCC6) has been reported to be associated with lung cancer risk, the specific roles of ERCC6 in non-small cell lung cancer (NSCLC) progression are inadequately studied.",
+        "Celigo cell count, colony formation, flow cytometry, wound-healing, and transwell assays were used to evaluate the effects of ERCC6 knockdown on the proliferation, apoptosis, and migration of NSCLC cells.",
+        "The effect of ERCC6 knockdown on tumor-forming ability of NSCLC cells was estimated by establishing xenograft model."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Hui Luo",
+        "Zhehao Xiao",
+        "Cheng Huang",
+        "Wei Wu",
+        "Qingbin Xie"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36802454/"
+    },
+    {
+      "pmid": "33760169",
+      "title": "miR‑454‑3p inhibits non‑small cell lung cancer cell proliferation and metastasis by targeting TGFB2.",
+      "journal": "Oncology reports",
+      "abstract_sections": [
+        "Accumulating studies have suggested that microRNAs (miRs) play a significant role in lung cancer development and progression, especially in non‑small cell lung cancer (NSCLC). The present study aimed to investigate the associations between miR‑454‑3p and NSCLC progression. qPCR assay was applied to examine the expression of miR‑454‑3p and transforming growth factor‑β2 (TGFB2) in tissues and cell lines. CCK‑8 and EdU assays were used to detect cell proliferation. Wound‑healing and Transwell assays were conducted to assess cell migration and invasion. Western blotting assay was performed to explore the protein levels of epithelial‑mesenchymal transition (EMT) markers. The interaction between miR‑454‑3p and TGFB2 was investigated with a luciferase reporter assay. miR‑454‑3p was downregulated in NSCLC tissues and NSCLC cell lines. miR‑454‑3p overexpression led to the suppression of proliferation, migration, and invasion in A549 and NCI‑H1650 cells. In addition, the overexpression of miR‑454‑3p in A549 and NCI‑H1650 cells significantly inhibited EMT. TGFB2 was revealed to be a direct target of miR‑454‑3p by using TargetScan database and luciferase reporter assay. TGFB2 was observed to be upregulated in NSCLC tissues and cell lines. Further mechanistic studies revealed that the inhibitory effects of miR‑454‑3p on NSCLC were reversed upon overexpression of TGFB2. These findings provided strong evidence that miR‑454‑3p suppressed NSCLC cell proliferation and metastasis by targeting TGFB2. The study suggests that targeting miR‑454‑3p could be a promising strategy for treating NSCLC."
+      ],
+      "abstract": "Accumulating studies have suggested that microRNAs (miRs) play a significant role in lung cancer development and progression, especially in non‑small cell lung cancer (NSCLC). The present study aimed to investigate the associations between miR‑454‑3p and NSCLC progression. qPCR assay was applied to examine the expression of miR‑454‑3p and transforming growth factor‑β2 (TGFB2) in tissues and cell lines. CCK‑8 and EdU assays were used to detect cell proliferation. Wound‑healing and Transwell assays were conducted to assess cell migration and invasion. Western blotting assay was performed to explore the protein levels of epithelial‑mesenchymal transition (EMT) markers. The interaction between miR‑454‑3p and TGFB2 was investigated with a luciferase reporter assay. miR‑454‑3p was downregulated in NSCLC tissues and NSCLC cell lines. miR‑454‑3p overexpression led to the suppression of proliferation, migration, and invasion in A549 and NCI‑H1650 cells. In addition, the overexpression of miR‑454‑3p in A549 and NCI‑H1650 cells significantly inhibited EMT. TGFB2 was revealed to be a direct target of miR‑454‑3p by using TargetScan database and luciferase reporter assay. TGFB2 was observed to be upregulated in NSCLC tissues and cell lines. Further mechanistic studies revealed that the inhibitory effects of miR‑454‑3p on NSCLC were reversed upon overexpression of TGFB2. These findings provided strong evidence that miR‑454‑3p suppressed NSCLC cell proliferation and metastasis by targeting TGFB2. The study suggests that targeting miR‑454‑3p could be a promising strategy for treating NSCLC.",
+      "evidence_sentences": [
+        "Accumulating studies have suggested that microRNAs (miRs) play a significant role in lung cancer development and progression, especially in non‑small cell lung cancer (NSCLC).",
+        "qPCR assay was applied to examine the expression of miR‑454‑3p and transforming growth factor‑β2 (TGFB2) in tissues and cell lines.",
+        "These findings provided strong evidence that miR‑454‑3p suppressed NSCLC cell proliferation and metastasis by targeting TGFB2."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Hongliang Liao",
+        "Yaqin Liang",
+        "Lin Kang",
+        "Yun Xiao",
+        "Tao Yu",
+        "Renping Wan"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33760169/"
+    },
+    {
+      "pmid": "29288351",
+      "title": "RNPC1 inhibits non-small cell lung cancer progression via regulating miR-181a/CASC2 axis.",
+      "journal": "Biotechnology letters",
+      "abstract_sections": [
+        "To study the roles and mechanisms of RNA binding protein RNPC1 in non-small cell lung cancer progression.",
+        "RNPC1 and long non-coding RNA CASC2 expression levels were significantly downregulated in lung cancer tissues compared with normal adjacent tissues, and their expression levels were positively correlated. Functionally, overexpression of RNPC1 or CASC2 inhibited non-small cell lung cancer cells proliferation, migration and invasion, and promoted cells apoptosis. Mechanistically, RNPC1 was found to harbor binding sites on CASC2 and directly bound to CASC2, and increased CASC2 mRNA stability and expression. Notably, the promotive effects of RNPC1 on CASC2 expression were attenuated by miR-181a overexpression. Moreover, CASC2 3'UTR with mutated miR-181a binding sites did not respond to RNPC1 alteration. Finally, the inhibitory effects of RNPC1 overexpression were attenuated or even reversed by CASC2 knockdown or miR-181a overexpression.",
+        "RNA bind protein RNPC1 could inhibit non-small cell lung cancer progression by competitively binding to CASC2 with miR-181a."
+      ],
+      "abstract": "To study the roles and mechanisms of RNA binding protein RNPC1 in non-small cell lung cancer progression.\n\nRNPC1 and long non-coding RNA CASC2 expression levels were significantly downregulated in lung cancer tissues compared with normal adjacent tissues, and their expression levels were positively correlated. Functionally, overexpression of RNPC1 or CASC2 inhibited non-small cell lung cancer cells proliferation, migration and invasion, and promoted cells apoptosis. Mechanistically, RNPC1 was found to harbor binding sites on CASC2 and directly bound to CASC2, and increased CASC2 mRNA stability and expression. Notably, the promotive effects of RNPC1 on CASC2 expression were attenuated by miR-181a overexpression. Moreover, CASC2 3'UTR with mutated miR-181a binding sites did not respond to RNPC1 alteration. Finally, the inhibitory effects of RNPC1 overexpression were attenuated or even reversed by CASC2 knockdown or miR-181a overexpression.\n\nRNA bind protein RNPC1 could inhibit non-small cell lung cancer progression by competitively binding to CASC2 with miR-181a.",
+      "evidence_sentences": [
+        "To study the roles and mechanisms of RNA binding protein RNPC1 in non-small cell lung cancer progression.",
+        "Functionally, overexpression of RNPC1 or CASC2 inhibited non-small cell lung cancer cells proliferation, migration and invasion, and promoted cells apoptosis.",
+        "RNA bind protein RNPC1 could inhibit non-small cell lung cancer progression by competitively binding to CASC2 with miR-181a."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Limin Yang",
+        "Yu Zhang",
+        "Chunhua Ling",
+        "Wei Heng"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29288351/"
+    },
+    {
+      "pmid": "30638934",
+      "title": "Nuclear TAZ activity distinctly associates with subtypes of non-small cell lung cancer.",
+      "journal": "Biochemical and biophysical research communications",
+      "abstract_sections": [
+        "The transcription co-factor TAZ plays critical roles in the regulation of human carcinogenesis. However, the pathological role for TAZ in lung cancer has remained incompletely understood. TAZ expression was examined by immunohistochemistry for 163 NSCLC tissues. TAZ expression was also examined by western blotting for 20 frozen paired NSCLC and adjacent normal lung tissues. We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival. Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD. The nuclear localization of TAZ correlates worse clinical outcomes in LUSC, but not LUAD, further suggesting a prognostic value for activated TAZ in LUSC. A meta-analysis of the public datasets from TCGA, Broad institute, and Oncomine shows that the TAZ gene (WWTR1) copy numbers are significantly increased in LUSC and correlate with the increase of TAZ mRNA expression, suggesting that TAZ is overexpressed in LUSC at least partly through gene amplifications. Collectively, our results suggest that TAZ expression distinctly associates with subtypes of NSCLC and may be useful for developing novel therapeutics treating LUSC."
+      ],
+      "abstract": "The transcription co-factor TAZ plays critical roles in the regulation of human carcinogenesis. However, the pathological role for TAZ in lung cancer has remained incompletely understood. TAZ expression was examined by immunohistochemistry for 163 NSCLC tissues. TAZ expression was also examined by western blotting for 20 frozen paired NSCLC and adjacent normal lung tissues. We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival. Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD. The nuclear localization of TAZ correlates worse clinical outcomes in LUSC, but not LUAD, further suggesting a prognostic value for activated TAZ in LUSC. A meta-analysis of the public datasets from TCGA, Broad institute, and Oncomine shows that the TAZ gene (WWTR1) copy numbers are significantly increased in LUSC and correlate with the increase of TAZ mRNA expression, suggesting that TAZ is overexpressed in LUSC at least partly through gene amplifications. Collectively, our results suggest that TAZ expression distinctly associates with subtypes of NSCLC and may be useful for developing novel therapeutics treating LUSC.",
+      "evidence_sentences": [
+        "We report that TAZ is overexpressed in non-small cell lung cancer (NSCLC) tissues and correlates with shorter patient survival.",
+        "Intriguingly, we find that TAZ is overexpressed primarily in lung squamous cell carcinomas (LUSC) but not lung adenocarcinomas (LUAD) compared to normal lung tissues, and that the expression levels of TAZ are significantly higher in LUSC than LUAD.",
+        "However, the pathological role for TAZ in lung cancer has remained incompletely understood."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Yuanyuan Wang",
+        "Yang Han",
+        "Zhongliang Guo",
+        "Yanan Yang",
+        "Tao Ren"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30638934/"
+    },
+    {
+      "pmid": "41271981",
+      "title": "Lung tissue T cells are activated in chronic obstructive pulmonary disease with non-small cell lung cancer patients.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "Chronic obstructive pulmonary disease (COPD) is characterized by chronic inflammation of the respiratory tract and is associated with an increased risk of lung cancer. Non-small cell lung cancer (NSCLC) patients with COPD have been shown to exhibit favorable responses to anti-PD-1/PD-L1 therapy. In the present study, we investigated T cell profiles and functions in the lung tissues of NSCLC patients with or without COPD to provide the rationale for immunotherapy of NSCLC patients with COPD. Abundant PD-1"
+      ],
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is characterized by chronic inflammation of the respiratory tract and is associated with an increased risk of lung cancer. Non-small cell lung cancer (NSCLC) patients with COPD have been shown to exhibit favorable responses to anti-PD-1/PD-L1 therapy. In the present study, we investigated T cell profiles and functions in the lung tissues of NSCLC patients with or without COPD to provide the rationale for immunotherapy of NSCLC patients with COPD. Abundant PD-1",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) patients with COPD have been shown to exhibit favorable responses to anti-PD-1/PD-L1 therapy.",
+        "In the present study, we investigated T cell profiles and functions in the lung tissues of NSCLC patients with or without COPD to provide the rationale for immunotherapy of NSCLC patients with COPD.",
+        "Chronic obstructive pulmonary disease (COPD) is characterized by chronic inflammation of the respiratory tract and is associated with an increased risk of lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Mari Tone",
+        "Tomomi Isono",
+        "Yoko Yamamoto",
+        "Yoshito Takeda",
+        "Yasushi Shintani",
+        "Atsushi Kumanogoh",
+        "Hisashi Wada",
+        "Kota Iwahori"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41271981/"
+    },
+    {
+      "pmid": "36218388",
+      "title": "The Interleukin-33/ST2 Axis Enhances Lung-Resident CD14+ Monocyte Function in Patients with Non-Small Cell Lung Cancer.",
+      "journal": "Immunological investigations",
+      "abstract_sections": [
+        "Interleukin-33 (IL-33) binds to its cognate receptor suppression of tumorigenicity 2 (ST2), leading to critical modulatory roles in immune responses during inflammation and cancers. The aim of this study was to investigate the role of IL-33/ST2 signaling in monocyte function in non-small cell lung cancer (NSCLC). Sixty-two NSCLC patients and nineteen controls were enrolled. IL-33 levels and ST2 expression were measured in peripheral blood and bronchoalveolar lavage fluid (BALF) by ELISA and flow cytometry. HLA-DR expression by CD14+ monocytes, granzyme B and proinflammatory cytokine secretion were also investigated in lipopolysaccharide-stimulated cells. CD14+ monocytes purified from BALF in the tumor site were stimulated with IL-33"
+      ],
+      "abstract": "Interleukin-33 (IL-33) binds to its cognate receptor suppression of tumorigenicity 2 (ST2), leading to critical modulatory roles in immune responses during inflammation and cancers. The aim of this study was to investigate the role of IL-33/ST2 signaling in monocyte function in non-small cell lung cancer (NSCLC). Sixty-two NSCLC patients and nineteen controls were enrolled. IL-33 levels and ST2 expression were measured in peripheral blood and bronchoalveolar lavage fluid (BALF) by ELISA and flow cytometry. HLA-DR expression by CD14+ monocytes, granzyme B and proinflammatory cytokine secretion were also investigated in lipopolysaccharide-stimulated cells. CD14+ monocytes purified from BALF in the tumor site were stimulated with IL-33",
+      "evidence_sentences": [
+        "The aim of this study was to investigate the role of IL-33/ST2 signaling in monocyte function in non-small cell lung cancer (NSCLC).",
+        "Interleukin-33 (IL-33) binds to its cognate receptor suppression of tumorigenicity 2 (ST2), leading to critical modulatory roles in immune responses during inflammation and cancers.",
+        "HLA-DR expression by CD14+ monocytes, granzyme B and proinflammatory cytokine secretion were also investigated in lipopolysaccharide-stimulated cells."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Lv Wang",
+        "Xingke Mei",
+        "Xiaogang Liu",
+        "Lu Guo",
+        "Bo Yang",
+        "Ren'an Chen"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36218388/"
+    },
+    {
+      "pmid": "32705247",
+      "title": "Sirtuin 7 promotes non‑small cell lung cancer progression by facilitating G1/S phase and epithelial‑mesenchymal transition and activating AKT and ERK1/2 signaling.",
+      "journal": "Oncology reports",
+      "abstract_sections": [
+        "Increasing evidence has indicated the roles of sirtuin 7 (SIRT7) in numerous human cancers. However, the effects and the clinical significance of SIRT7 in human lung cancer is largely unknown. The present research demonstrated that SIRT7 was increased in human lung cancer tumor tissues. SIRT7 upregulation was associated with clinicopathological characteristics of lung cancer malignancy including positive lymph node metastasis, high pathologic stage and large tumor size. SIRT7 was also upregulated in human non‑small cell lung cancer (NSCLC) cell lines. Furthermore SIRT7‑overexpressed A549 (A549‑SIRT7) and SIRT7‑knocked down H292 (H292‑shSIRT7) human NSCLC cell lines were established. Using these NSCLC cells and xenograft mouse models, it was revealed that SIRT7 overexpression markedly promoted growth and G1 to S cell cycle phase transition as well as migration, invasion and distant lung metastasis in A549 NSCLC cells, whereas SIRT7 knockdown suppressed these processes in H292 NSCLC cells. Mechanistically, in A549 NSCLC cells, SIRT7 overexpression significantly activated not only protein kinase B (AKT) signaling but also extracellular signal‑regulated kinase 1/2 (ERK1/2) signaling. SIRT7 overexpression also significantly downregulated cyclin‑dependent kinase (CDK) inhibitors including p21 and p27 as well as upregulated cyclins including cyclin D1 and cyclin E1, and CDKs including CDK2 and CDK4. Notably, the epithelial‑mesenchymal transition (EMT) process of A549 NSCLC cells was facilitated by SIRT7 overexpression, as evidenced by E‑cadherin epithelial marker downregulation and mesenchymal markers (N‑cadherin, vimentin, Snail and Slug) upregulation. In addition, SIRT7 knockdown in H292 NSCLC cells exhibited the opposite regulatory effects. Moreover, inhibition of AKT signaling abated the promoting effects of SIRT7 in NSCLC cell proliferation and EMT progression. The present data indicated that SIRT7 accelerated human NSCLC cell growth and metastasis possibly by promotion of G1 to S‑phase transition and EMT through modulation of the expression of G1‑phase checkpoint molecules and EMT markers as well as activation of AKT and ERK1/2 signaling. SIRT7 could be an innovative potential target for human NSCLC therapy."
+      ],
+      "abstract": "Increasing evidence has indicated the roles of sirtuin 7 (SIRT7) in numerous human cancers. However, the effects and the clinical significance of SIRT7 in human lung cancer is largely unknown. The present research demonstrated that SIRT7 was increased in human lung cancer tumor tissues. SIRT7 upregulation was associated with clinicopathological characteristics of lung cancer malignancy including positive lymph node metastasis, high pathologic stage and large tumor size. SIRT7 was also upregulated in human non‑small cell lung cancer (NSCLC) cell lines. Furthermore SIRT7‑overexpressed A549 (A549‑SIRT7) and SIRT7‑knocked down H292 (H292‑shSIRT7) human NSCLC cell lines were established. Using these NSCLC cells and xenograft mouse models, it was revealed that SIRT7 overexpression markedly promoted growth and G1 to S cell cycle phase transition as well as migration, invasion and distant lung metastasis in A549 NSCLC cells, whereas SIRT7 knockdown suppressed these processes in H292 NSCLC cells. Mechanistically, in A549 NSCLC cells, SIRT7 overexpression significantly activated not only protein kinase B (AKT) signaling but also extracellular signal‑regulated kinase 1/2 (ERK1/2) signaling. SIRT7 overexpression also significantly downregulated cyclin‑dependent kinase (CDK) inhibitors including p21 and p27 as well as upregulated cyclins including cyclin D1 and cyclin E1, and CDKs including CDK2 and CDK4. Notably, the epithelial‑mesenchymal transition (EMT) process of A549 NSCLC cells was facilitated by SIRT7 overexpression, as evidenced by E‑cadherin epithelial marker downregulation and mesenchymal markers (N‑cadherin, vimentin, Snail and Slug) upregulation. In addition, SIRT7 knockdown in H292 NSCLC cells exhibited the opposite regulatory effects. Moreover, inhibition of AKT signaling abated the promoting effects of SIRT7 in NSCLC cell proliferation and EMT progression. The present data indicated that SIRT7 accelerated human NSCLC cell growth and metastasis possibly by promotion of G1 to S‑phase transition and EMT through modulation of the expression of G1‑phase checkpoint molecules and EMT markers as well as activation of AKT and ERK1/2 signaling. SIRT7 could be an innovative potential target for human NSCLC therapy.",
+      "evidence_sentences": [
+        "SIRT7 was also upregulated in human non‑small cell lung cancer (NSCLC) cell lines.",
+        "SIRT7 upregulation was associated with clinicopathological characteristics of lung cancer malignancy including positive lymph node metastasis, high pathologic stage and large tumor size.",
+        "However, the effects and the clinical significance of SIRT7 in human lung cancer is largely unknown."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Yingying Zhao",
+        "Xia Ye",
+        "Ruifang Chen",
+        "Qian Gao",
+        "Daguo Zhao",
+        "Chunhua Ling",
+        "Yulan Qian",
+        "Chun Xu",
+        "Min Tao",
+        "Yufeng Xie"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32705247/"
+    },
+    {
+      "pmid": "32924985",
+      "title": "FOXD3-AS1 suppresses the progression of non-small cell lung cancer by regulating miR-150/SRCIN1axis.",
+      "journal": "Cancer biomarkers : section A of Disease markers",
+      "abstract_sections": [
+        "Long non-coding RNA (lncNRA) forkhead box D3 antisense RNA 1 (FOXD3-AS1) has been proved to promote or suppress the occurrence and development of multiple types of human tumors. However, the function and mechanism of FOXD3-AS1 in non-small cell lung cancer (NSCLC) are scarcely understood.",
+        "qRT-PCR was used for detecting FOXD3-AS1, miR-150 and SRC kinase signaling inhibitor 1 (SRCIN1) mRNA expression in NSCLC tissues, and the relationship between pathological characteristics of NSCLC patients and FOXD3-AS1 expression level was analyzed. With human NSCLC cell lines H1299 and A549 as cell models, CCK-8 and BrdU assays were employed for detecting cancer cell proliferation, and Transwell assay was employed for detecting cell invasion ability. Dual luciferase reporter gene assay and RNA immunoprecipitation (RIP) assay were used for the verification of the targeting relationshipe between FOXD3-AS1 and miR-150, and Western blot was employed for detecting SRCIN1 protein expression.",
+        "FOXD3-AS1 expression was significantly reduced in NSCLC tissues and cell lines, and low expression of FOXD3-AS1 was closely related to positive lymph node metastasis and relatively high tumor grade. FOXD3-AS1 over-expression inhibited the proliferation and invasion of H1299 cell lines, while its knockdown promoted the proliferation and invasion of A549 cells. Additionally, it was confirmed that FOXD3-AS1 suppressed the expression of miR-150 by targeting it, and up-regulated the expression of SRCIN1.",
+        "FOXD3-AS1 indirectly enhances the expression of SRCIN1 by targeting miR-150, thereby inhibiting NSCLC progression."
+      ],
+      "abstract": "Long non-coding RNA (lncNRA) forkhead box D3 antisense RNA 1 (FOXD3-AS1) has been proved to promote or suppress the occurrence and development of multiple types of human tumors. However, the function and mechanism of FOXD3-AS1 in non-small cell lung cancer (NSCLC) are scarcely understood.\n\nqRT-PCR was used for detecting FOXD3-AS1, miR-150 and SRC kinase signaling inhibitor 1 (SRCIN1) mRNA expression in NSCLC tissues, and the relationship between pathological characteristics of NSCLC patients and FOXD3-AS1 expression level was analyzed. With human NSCLC cell lines H1299 and A549 as cell models, CCK-8 and BrdU assays were employed for detecting cancer cell proliferation, and Transwell assay was employed for detecting cell invasion ability. Dual luciferase reporter gene assay and RNA immunoprecipitation (RIP) assay were used for the verification of the targeting relationshipe between FOXD3-AS1 and miR-150, and Western blot was employed for detecting SRCIN1 protein expression.\n\nFOXD3-AS1 expression was significantly reduced in NSCLC tissues and cell lines, and low expression of FOXD3-AS1 was closely related to positive lymph node metastasis and relatively high tumor grade. FOXD3-AS1 over-expression inhibited the proliferation and invasion of H1299 cell lines, while its knockdown promoted the proliferation and invasion of A549 cells. Additionally, it was confirmed that FOXD3-AS1 suppressed the expression of miR-150 by targeting it, and up-regulated the expression of SRCIN1.\n\nFOXD3-AS1 indirectly enhances the expression of SRCIN1 by targeting miR-150, thereby inhibiting NSCLC progression.",
+      "evidence_sentences": [
+        "However, the function and mechanism of FOXD3-AS1 in non-small cell lung cancer (NSCLC) are scarcely understood.",
+        "With human NSCLC cell lines H1299 and A549 as cell models, CCK-8 and BrdU assays were employed for detecting cancer cell proliferation, and Transwell assay was employed for detecting cell invasion ability.",
+        "FOXD3-AS1 expression was significantly reduced in NSCLC tissues and cell lines, and low expression of FOXD3-AS1 was closely related to positive lymph node metastasis and relatively high tumor grade."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Tao Ji",
+        "Yanan Zhang",
+        "Zheng Wang",
+        "Zuoxu Hou",
+        "Xuhui Gao",
+        "Xiaoming Zhang"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32924985/"
+    },
+    {
+      "pmid": "32561533",
+      "title": "Circulating Proteoglycan Endocan Mediates EGFR-Driven Progression of Non-Small Cell Lung Cancer.",
+      "journal": "Cancer research",
+      "abstract_sections": [
+        "Although new generations of EGFR-tyrosine kinase inhibitors (EGFR-TKI) have been developed for the treatment of patients with non-small cell lung cancer (NSCLC) with EGFR-mutant tumors, TKI resistance often returns as a result of additional EGFR mutations. In addition to seeking for next-generation EGFR-TKI, developing novel EGFR-targeting strategies may hold the key to overcome the vicious cycle of TKI resistance. Endocan is known as a receptor tyrosine kinase ligand enhancer in tumorigenesis, but the impact of endocan on EGFR-driven NSCLC progression remains unknown. In this study, higher endocan levels were found in lung tumors compared with cancer-free tissues and correlated with poor prognosis in patients with NSCLC harboring mutant EGFR; circulating endocan levels were also significantly higher in patients with mutant EGFR. Endocan facilitated EGFR signaling via direct binding and enhancing of the EGF-EGFR interaction and supported the growth of tumors driven by mutated EGFR. Activated EGFR in turn upregulated expression of endocan via JAK/STAT3 and ERK/ELK cascades, thus forming a positive regulatory loop of endocan-EGFR signaling. On the basis of the binding region between endocan and EGFR, we designed therapeutic peptides and demonstrated promising therapeutic effects in xenografts harboring EGFR mutations including TKI-resistant T790M. Together, our findings highlight the novel interaction between endocan and EGFR and new opportunities to effectively target endocan-EGFR regulatory axis in patients with TKI-resistant NSCLC. SIGNIFICANCE: Endocan is a novel and critical regulator of EGF/EGFR signaling and serves as an alternative target of EGFR-TKI resistance in NSCLC."
+      ],
+      "abstract": "Although new generations of EGFR-tyrosine kinase inhibitors (EGFR-TKI) have been developed for the treatment of patients with non-small cell lung cancer (NSCLC) with EGFR-mutant tumors, TKI resistance often returns as a result of additional EGFR mutations. In addition to seeking for next-generation EGFR-TKI, developing novel EGFR-targeting strategies may hold the key to overcome the vicious cycle of TKI resistance. Endocan is known as a receptor tyrosine kinase ligand enhancer in tumorigenesis, but the impact of endocan on EGFR-driven NSCLC progression remains unknown. In this study, higher endocan levels were found in lung tumors compared with cancer-free tissues and correlated with poor prognosis in patients with NSCLC harboring mutant EGFR; circulating endocan levels were also significantly higher in patients with mutant EGFR. Endocan facilitated EGFR signaling via direct binding and enhancing of the EGF-EGFR interaction and supported the growth of tumors driven by mutated EGFR. Activated EGFR in turn upregulated expression of endocan via JAK/STAT3 and ERK/ELK cascades, thus forming a positive regulatory loop of endocan-EGFR signaling. On the basis of the binding region between endocan and EGFR, we designed therapeutic peptides and demonstrated promising therapeutic effects in xenografts harboring EGFR mutations including TKI-resistant T790M. Together, our findings highlight the novel interaction between endocan and EGFR and new opportunities to effectively target endocan-EGFR regulatory axis in patients with TKI-resistant NSCLC. SIGNIFICANCE: Endocan is a novel and critical regulator of EGF/EGFR signaling and serves as an alternative target of EGFR-TKI resistance in NSCLC.",
+      "evidence_sentences": [
+        "Although new generations of EGFR-tyrosine kinase inhibitors (EGFR-TKI) have been developed for the treatment of patients with non-small cell lung cancer (NSCLC) with EGFR-mutant tumors, TKI resistance often returns as a result of additional EGFR mutations.",
+        "In this study, higher endocan levels were found in lung tumors compared with cancer-free tissues and correlated with poor prognosis in patients with NSCLC harboring mutant EGFR; circulating endocan levels were also significantly higher in patients with mutant EGFR.",
+        "On the basis of the binding region between endocan and EGFR, we designed therapeutic peptides and demonstrated promising therapeutic effects in xenografts harboring EGFR mutations including TKI-resistant T790M."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Yi-Chieh Yang",
+        "Ke-Fan Pan",
+        "Wei-Jiunn Lee",
+        "Jer-Hwa Chang",
+        "Peng Tan",
+        "Chia-Chi Gu",
+        "Wei-Min Chang",
+        "Shun-Fa Yang",
+        "Michael Hsiao",
+        "Kuo-Tai Hua",
+        "Ming-Hsien Chien"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32561533/"
+    },
+    {
+      "pmid": "31147570",
+      "title": "Doxycycline inhibits electric field-induced migration of non-small cell lung cancer (NSCLC) cells.",
+      "journal": "Scientific reports",
+      "abstract_sections": [
+        "Adenocarcinoma, large cell carcinoma and squamous cell carcinoma are the most commonly diagnosed subtypes of non-small cell lung cancers (NSCLC). Numerous lung cancer cell types have exhibited electrotaxis under direct current electric fields (dcEF). Physiological electric fields (EF) play key roles in cancer cell migration. In this study, we investigated electrotaxis of NSCLC cells, including human large cell lung carcinoma NCI-H460 and human lung squamous cell carcinoma NCI-H520 cells. Non-cancerous MRC-5 lung fibroblasts were included as a control. After dcEF stimulation, NCI-H460 and NCI-H520 cells, which both exhibit epithelial-like morphology, migrated towards the cathode, while MRC-5 cells, which have fibroblast-like morphology, migrated towards the anode. The effect of doxycycline, a common antibiotic, on electrotaxis of MRC-5, NCI-H460 and NCI-H520 cells was examined. Doxycycline enhanced the tested cells' motility but inhibited electrotaxis in the NSCLC cells without inhibiting non-cancerous MRC-5 cells. Based on our finding, further in-vivo studies could be devised to investigate the metastasis inhibition effect of doxycycline in an organism level."
+      ],
+      "abstract": "Adenocarcinoma, large cell carcinoma and squamous cell carcinoma are the most commonly diagnosed subtypes of non-small cell lung cancers (NSCLC). Numerous lung cancer cell types have exhibited electrotaxis under direct current electric fields (dcEF). Physiological electric fields (EF) play key roles in cancer cell migration. In this study, we investigated electrotaxis of NSCLC cells, including human large cell lung carcinoma NCI-H460 and human lung squamous cell carcinoma NCI-H520 cells. Non-cancerous MRC-5 lung fibroblasts were included as a control. After dcEF stimulation, NCI-H460 and NCI-H520 cells, which both exhibit epithelial-like morphology, migrated towards the cathode, while MRC-5 cells, which have fibroblast-like morphology, migrated towards the anode. The effect of doxycycline, a common antibiotic, on electrotaxis of MRC-5, NCI-H460 and NCI-H520 cells was examined. Doxycycline enhanced the tested cells' motility but inhibited electrotaxis in the NSCLC cells without inhibiting non-cancerous MRC-5 cells. Based on our finding, further in-vivo studies could be devised to investigate the metastasis inhibition effect of doxycycline in an organism level.",
+      "evidence_sentences": [
+        "Adenocarcinoma, large cell carcinoma and squamous cell carcinoma are the most commonly diagnosed subtypes of non-small cell lung cancers (NSCLC).",
+        "Doxycycline enhanced the tested cells' motility but inhibited electrotaxis in the NSCLC cells without inhibiting non-cancerous MRC-5 cells.",
+        "Numerous lung cancer cell types have exhibited electrotaxis under direct current electric fields (dcEF)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Hui-Fang Chang",
+        "Hung-Tien Cheng",
+        "Huai-Yi Chen",
+        "Wing Kiu Yeung",
+        "Ji-Yen Cheng"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31147570/"
+    },
+    {
+      "pmid": "30535441",
+      "title": "lincRNA‑p21 inhibits the progression of non‑small cell lung cancer via targeting miR‑17‑5p.",
+      "journal": "Oncology reports",
+      "abstract_sections": [
+        "Non‑small‑cell lung cancer (NSCLC) is well established as one of the major subtypes of human lung cancer. NSCLC is characterized by a high incidence rate and poor patient prognosis. Previous studies have identified that long intergenic non-coding RNA (lincRNA) serves a key role in the development of tumor and malignant metastasis. However, the majority of the underlying mechanisms for lincRNA deregulation in various diseases, including cancer and diabetes, have not been completely elucidated. In the present study, the deregulation of lincRNA‑p21 in NSCLC tumor tissues in comparison to adjacent healthy tissues was examined using reverse transcription‑quantitative polymerase chain reaction. Furthermore, the effect of lincRNA‑p21 overexpression and knockdown on different NSCLC cell lines was further investigated in vitro. The association between lincRNA‑p21 expression and microRNA (miR)‑17‑5p level in NSCLC tumor cells was also investigated to clarify the underlying mechanism. The influence of miR‑17‑5p on different NSCLC cell lines A549 and PC9 were also examined in vitro using miR‑17‑5p mimics and inhibitors. Bioinformatics and luciferase assays were conducted to verify the direct binding sites on lincRNA‑p21 for miR‑17‑5p. The results demonstrated that there was a significant low‑expression of lincRNA‑p21 in NSCLC tumor tissues, and lincRNA‑p21 effectively inhibited the progression of lung cancer cells by suppressing cell proliferation and migration and promoting cell apoptosis. An evident negative association between lincRNA‑p21 and miR‑17‑5p expression was observed, and the inhibitory effect of overexpressed lincRNA‑p21 on lung cancer cells was counteracted by miR‑17‑5p. Bioinformatics and luciferase reporter analysis results confirmed that miR‑17‑5p is a direct target for lincRNA‑p21. The present study provides evidence for lincRNA‑p21 to inhibit the progression of NSCLC via direct targeting of a miR‑17‑5p associated signaling pathway."
+      ],
+      "abstract": "Non‑small‑cell lung cancer (NSCLC) is well established as one of the major subtypes of human lung cancer. NSCLC is characterized by a high incidence rate and poor patient prognosis. Previous studies have identified that long intergenic non-coding RNA (lincRNA) serves a key role in the development of tumor and malignant metastasis. However, the majority of the underlying mechanisms for lincRNA deregulation in various diseases, including cancer and diabetes, have not been completely elucidated. In the present study, the deregulation of lincRNA‑p21 in NSCLC tumor tissues in comparison to adjacent healthy tissues was examined using reverse transcription‑quantitative polymerase chain reaction. Furthermore, the effect of lincRNA‑p21 overexpression and knockdown on different NSCLC cell lines was further investigated in vitro. The association between lincRNA‑p21 expression and microRNA (miR)‑17‑5p level in NSCLC tumor cells was also investigated to clarify the underlying mechanism. The influence of miR‑17‑5p on different NSCLC cell lines A549 and PC9 were also examined in vitro using miR‑17‑5p mimics and inhibitors. Bioinformatics and luciferase assays were conducted to verify the direct binding sites on lincRNA‑p21 for miR‑17‑5p. The results demonstrated that there was a significant low‑expression of lincRNA‑p21 in NSCLC tumor tissues, and lincRNA‑p21 effectively inhibited the progression of lung cancer cells by suppressing cell proliferation and migration and promoting cell apoptosis. An evident negative association between lincRNA‑p21 and miR‑17‑5p expression was observed, and the inhibitory effect of overexpressed lincRNA‑p21 on lung cancer cells was counteracted by miR‑17‑5p. Bioinformatics and luciferase reporter analysis results confirmed that miR‑17‑5p is a direct target for lincRNA‑p21. The present study provides evidence for lincRNA‑p21 to inhibit the progression of NSCLC via direct targeting of a miR‑17‑5p associated signaling pathway.",
+      "evidence_sentences": [
+        "Non‑small‑cell lung cancer (NSCLC) is well established as one of the major subtypes of human lung cancer.",
+        "An evident negative association between lincRNA‑p21 and miR‑17‑5p expression was observed, and the inhibitory effect of overexpressed lincRNA‑p21 on lung cancer cells was counteracted by miR‑17‑5p.",
+        "The results demonstrated that there was a significant low‑expression of lincRNA‑p21 in NSCLC tumor tissues, and lincRNA‑p21 effectively inhibited the progression of lung cancer cells by suppressing cell proliferation and migration and promoting cell apoptosis."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab"
+      ],
+      "authors": [
+        "Xiang Ao",
+        "Ming Jiang",
+        "Jie Zhou",
+        "Hongling Liang",
+        "Haoming Xia",
+        "Gang Chen"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30535441/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "109367",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "33953163",
+        "30560866",
+        "39663393",
+        "31692261",
+        "36807642",
+        "30774636",
+        "33514641",
+        "32001676",
+        "35254206",
+        "36966280",
+        "35545892",
+        "32487779",
+        "24578213",
+        "26391246",
+        "40037874",
+        "37186036",
+        "40948207",
+        "33883577",
+        "36528259",
+        "36802454",
+        "33760169",
+        "29288351",
+        "30638934",
+        "41271981",
+        "36218388",
+        "32705247",
+        "32924985",
+        "32561533",
+        "31147570",
+        "30535441"
+      ],
+      "translationset": [
+        {
+          "from": "non-small cell lung cancer",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]"
+        },
+        {
+          "from": "nsclc",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc's\"[All Fields] OR \"nsclcs\"[All Fields]"
+        },
+        {
+          "from": "small",
+          "to": "\"Small\"[Journal:__jid101235338] OR \"small\"[All Fields]"
+        },
+        {
+          "from": "cell",
+          "to": "\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]"
+        },
+        {
+          "from": "lung",
+          "to": "\"lung\"[MeSH Terms] OR \"lung\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]) AND (\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc s\"[All Fields] OR \"nsclcs\"[All Fields]) AND \"non\"[All Fields] AND (\"small\"[Journal] OR \"small\"[All Fields]) AND (\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]) AND (\"lung\"[MeSH Terms] OR \"lung\"[All Fields])"
+    }
+  }
+}

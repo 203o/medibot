@@ -1,0 +1,72 @@
+{
+  "run_id": "318e0e131a44409fa457f6c50a0e8efc",
+  "stored_at": "2026-04-17T22:10:38+00:00",
+  "query": "malaria malaria leading cause death kenya",
+  "query_fallbacks": [
+    "malaria malaria leading cause death kenya",
+    "malaria epidemiology kenya",
+    "leading cause mortality kenya",
+    "malaria mortality trends kenya",
+    "burden disease kenya",
+    "malaria malaria leading cause death",
+    "malaria malaria leading cause treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria leading cause death kenya",
+    "malaria malaria leading cause death",
+    "malaria malaria leading cause treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology kenya",
+    "leading cause mortality kenya",
+    "malaria mortality trends kenya",
+    "burden disease kenya"
+  ],
+  "keywords": [
+    "malaria",
+    "leading",
+    "cause",
+    "death",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 12,
+    "openalex": 0,
+    "semantic_hits": 40,
+    "indexed_chunks": 87
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology kenya",
+      "leading cause mortality kenya",
+      "malaria mortality trends kenya",
+      "burden disease kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\318e0e131a44409fa457f6c50a0e8efc\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\318e0e131a44409fa457f6c50a0e8efc\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\318e0e131a44409fa457f6c50a0e8efc\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\318e0e131a44409fa457f6c50a0e8efc\\combined.records.json"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "query": "parkinson's does research say about systematic review clinical trial United States of America",
+  "selected_query": "parkinson's does research say about systematic review clinical trial",
+  "attempted_queries": [
+    {
+      "query": "parkinson's does research say about systematic review clinical trial United States of America",
+      "count": 0
+    },
+    {
+      "query": "parkinson's does research say about systematic review clinical trial",
+      "count": 1
+    }
+  ],
+  "id_list": [
+    "37920833"
+  ],
+  "records": [
+    {
+      "pmid": "37920833",
+      "title": "Examination of betahistine bioavailability in combination with the monoamine oxidase B inhibitor, selegiline, in humans-a non-randomized, single-sequence, two-period titration, open label single-center phase 1 study (PK-BeST).",
+      "journal": "Frontiers in neurology",
+      "abstract_sections": [
+        "Betahistine was registered in Europe in the 1970s and approved in more than 80 countries as a first-line treatment for Menière's disease. It has been administered to more than 150 million patients. However, according to a Cochrane systematic review of betahistine and recent meta-analyses, there is insufficient evidence to say whether betahistine has any effect in the currently approved dosages of up to 48 mg/d. A combination with the monoamine oxidase B (MAO-B) inhibitor, selegiline, may increase the bioavailability of betahistine to levels similar to the well-established combination of L-DOPA with carbidopa or benserazide in the treatment of Parkinson's disease. We investigated the effect of selegiline on betahistine pharmacokinetics and the safety of the combination in humans.",
+        "In an investigator-initiated prospective, non-randomized, single-sequence, two-period titration, open label single-center phase 1 study, 15 healthy volunteers received three single oral dosages of betahistine (24, 48, and 96 mg in this sequence with at least 2 days' washout period) without and with selegiline (5 mg/d with a loading period of 7 days). Betahistine serum concentrations were measured over a period of 240 min at eight time points (area under the curve, AUC0-240 min). This trial is registered with EudraCT (2019-002610-39) and ClinicalTrials.gov.",
+        "In all three single betahistine dosages, selegiline increased the betahistine bioavailability about 80- to 100-fold. For instance, the mean (±SD) of the area under curve for betahistine 48 mg alone was 0.64 (+/-0.47) h",
+        "This phase 1 trial shows that the MAO-B inhibitor selegiline increases betahistine bioavailability by a factor of about 80 to 100. No safety concerns were detected. Whether the increased bioavailability has an impact on the preventive treatment of Menière's disease, acute vestibular syndrome, or post-BPPV residual dizziness has to be evaluated in placebo-controlled trials.",
+        "https://clinicaltrials.gov/study/NCT05938517?intr=betahistine%20and%20selegiline&rank=1, identifier: NCT05938517."
+      ],
+      "abstract": "Betahistine was registered in Europe in the 1970s and approved in more than 80 countries as a first-line treatment for Menière's disease. It has been administered to more than 150 million patients. However, according to a Cochrane systematic review of betahistine and recent meta-analyses, there is insufficient evidence to say whether betahistine has any effect in the currently approved dosages of up to 48 mg/d. A combination with the monoamine oxidase B (MAO-B) inhibitor, selegiline, may increase the bioavailability of betahistine to levels similar to the well-established combination of L-DOPA with carbidopa or benserazide in the treatment of Parkinson's disease. We investigated the effect of selegiline on betahistine pharmacokinetics and the safety of the combination in humans.\n\nIn an investigator-initiated prospective, non-randomized, single-sequence, two-period titration, open label single-center phase 1 study, 15 healthy volunteers received three single oral dosages of betahistine (24, 48, and 96 mg in this sequence with at least 2 days' washout period) without and with selegiline (5 mg/d with a loading period of 7 days). Betahistine serum concentrations were measured over a period of 240 min at eight time points (area under the curve, AUC0-240 min). This trial is registered with EudraCT (2019-002610-39) and ClinicalTrials.gov.\n\nIn all three single betahistine dosages, selegiline increased the betahistine bioavailability about 80- to 100-fold. For instance, the mean (±SD) of the area under curve for betahistine 48 mg alone was 0.64 (+/-0.47) h\n\nThis phase 1 trial shows that the MAO-B inhibitor selegiline increases betahistine bioavailability by a factor of about 80 to 100. No safety concerns were detected. Whether the increased bioavailability has an impact on the preventive treatment of Menière's disease, acute vestibular syndrome, or post-BPPV residual dizziness has to be evaluated in placebo-controlled trials.\n\nhttps://clinicaltrials.gov/study/NCT05938517?intr=betahistine%20and%20selegiline&rank=1, identifier: NCT05938517.",
+      "evidence_sentences": [
+        "A combination with the monoamine oxidase B (MAO-B) inhibitor, selegiline, may increase the bioavailability of betahistine to levels similar to the well-established combination of L-DOPA with carbidopa or benserazide in the treatment of Parkinson's disease.",
+        "For instance, the mean (±SD) of the area under curve for betahistine 48 mg alone was 0.64 (+/-0.47) h This phase 1 trial shows that the MAO-B inhibitor selegiline increases betahistine bioavailability by a factor of about 80 to 100.",
+        "However, according to a Cochrane systematic review of betahistine and recent meta-analyses, there is insufficient evidence to say whether betahistine has any effect in the currently approved dosages of up to 48 mg/d."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "parkinson's",
+        "does",
+        "research",
+        "say",
+        "about",
+        "deep",
+        "brain",
+        "stimulation",
+        "parkinson",
+        "disease",
+        "united",
+        "states",
+        "america"
+      ],
+      "authors": [
+        "Michael Strupp",
+        "Grant C Churchill",
+        "Ivonne Naumann",
+        "Ulrich Mansmann",
+        "Amani Al Tawil",
+        "Anastasia Golentsova",
+        "Nicolina Goldschagg"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37920833/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "1",
+      "retmax": "1",
+      "retstart": "0",
+      "idlist": [
+        "37920833"
+      ],
+      "translationset": [
+        {
+          "from": "parkinson's",
+          "to": "\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson's\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons's\"[All Fields]"
+        },
+        {
+          "from": "research",
+          "to": "\"research personnel\"[MeSH Terms] OR (\"research\"[All Fields] AND \"personnel\"[All Fields]) OR \"research personnel\"[All Fields] OR \"researcher\"[All Fields] OR \"researchers\"[All Fields] OR \"research\"[MeSH Terms] OR \"research\"[All Fields] OR \"research's\"[All Fields] OR \"researchable\"[All Fields] OR \"researche\"[All Fields] OR \"researched\"[All Fields] OR \"researcher's\"[All Fields] OR \"researches\"[All Fields] OR \"researching\"[All Fields] OR \"researchs\"[All Fields]"
+        },
+        {
+          "from": "systematic review",
+          "to": "\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]"
+        },
+        {
+          "from": "clinical trial",
+          "to": "\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields]) AND (\"research personnel\"[MeSH Terms] OR (\"research\"[All Fields] AND \"personnel\"[All Fields]) OR \"research personnel\"[All Fields] OR \"researcher\"[All Fields] OR \"researchers\"[All Fields] OR \"research\"[MeSH Terms] OR \"research\"[All Fields] OR \"research s\"[All Fields] OR \"researchable\"[All Fields] OR \"researche\"[All Fields] OR \"researched\"[All Fields] OR \"researcher s\"[All Fields] OR \"researches\"[All Fields] OR \"researching\"[All Fields] OR \"researchs\"[All Fields]) AND \"say\"[All Fields] AND (\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]) AND (\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields])",
+      "warninglist": {
+        "phrasesignored": [
+          "does",
+          "about"
+        ],
+        "quotedphrasesnotfound": [],
+        "outputmessages": []
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "run_id": "eff4d7e3d06e49cab50be37e499a8ba2",
+  "stored_at": "2026-04-17T22:52:16+00:00",
+  "query": "malaria cancer deaths canada canada",
+  "query_fallbacks": [
+    "malaria cancer deaths canada canada",
+    "malaria mortality trends canada",
+    "malaria cancer incidence canada",
+    "malaria cancer mortality rates canada",
+    "epidemiology of malaria in canada",
+    "malaria cancer deaths canada",
+    "malaria cancer deaths canada treatment",
+    "malaria canada",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria cancer deaths canada canada",
+    "malaria cancer deaths canada",
+    "malaria cancer deaths canada treatment",
+    "malaria canada",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria mortality trends canada",
+    "malaria cancer incidence canada",
+    "malaria cancer mortality rates canada",
+    "epidemiology of malaria in canada"
+  ],
+  "keywords": [
+    "malaria",
+    "cancer",
+    "deaths",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 37,
+    "indexed_chunks": 63
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria mortality trends canada",
+      "malaria cancer incidence canada",
+      "malaria cancer mortality rates canada",
+      "epidemiology of malaria in canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\eff4d7e3d06e49cab50be37e499a8ba2\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\eff4d7e3d06e49cab50be37e499a8ba2\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\eff4d7e3d06e49cab50be37e499a8ba2\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\eff4d7e3d06e49cab50be37e499a8ba2\\combined.records.json"
+  }
+}

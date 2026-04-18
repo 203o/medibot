@@ -1,0 +1,938 @@
+{
+  "enabled": true,
+  "indexed_chunks": 82,
+  "matches": [
+    {
+      "id": "clinicaltrials:NCT00164710:0",
+      "score": 0.8332971930503845,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164710:0",
+        "doc_id": "NCT00164710",
+        "source": "clinicaltrials",
+        "title": "Assessing the Efficacy of Four Drug Combinations as the Next First-line Therapy for Uncomplicated Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164710",
+        "text": "The results of this study will provide some of the information necessary to guide the Malawi National Malaria Control Program in selecting its next first antimalarial treatment for uncomplicated malaria."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01326754:2",
+      "score": 0.8199756741523743,
+      "metadata": {
+        "id": "clinicaltrials:NCT01326754:2",
+        "doc_id": "NCT01326754",
+        "source": "clinicaltrials",
+        "title": "Efficacy of Artemether-lumefantrine, Artesunate-amodiaquine and Dihydroartemisinin-piperaquine for the Treatment of Uncomplicated Plasmodium Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT01326754",
+        "text": "This promising new antimalarial might have a role as a first-line or second-line antimalarial for the treatment of uncomplicated malaria, but there are no efficacy and safety data from Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164710:2",
+      "score": 0.8109651803970337,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164710:2",
+        "doc_id": "NCT00164710",
+        "source": "clinicaltrials",
+        "title": "Assessing the Efficacy of Four Drug Combinations as the Next First-line Therapy for Uncomplicated Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164710",
+        "text": "This study was developed and conducted in collaboration with the National Malaria Control Programme of Malawi to assess the efficacy of four antimalarial drug combinations to provide evidence to assist the Malawian Ministry of Health in identifying and implementing as policy the next first-line antimalarial for uncomplicated malaria in Malawi."
+      }
+    },
+    {
+      "id": "pubmed:36228911:0",
+      "score": 0.7782735824584961,
+      "metadata": {
+        "id": "pubmed:36228911:0",
+        "doc_id": "36228911",
+        "source": "pubmed",
+        "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+        "text": "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:0",
+      "score": 0.7658910751342773,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:0",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02637128:0",
+      "score": 0.7652804851531982,
+      "metadata": {
+        "id": "clinicaltrials:NCT02637128:0",
+        "doc_id": "NCT02637128",
+        "source": "clinicaltrials",
+        "title": "In Vivo Efficacy of Artemether-Lumefantrine and Artesunate-Amodiaquine for Uncomplicated P. Falciparum Malaria",
+        "study_type": "INTERVENTIONAL",
+        "year": "2015",
+        "url": "https://clinicaltrials.gov/study/NCT02637128",
+        "text": "Objective: Determine the efficacy of artemether-lumefantrine and co-formulated artesunate-amodiaquine for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga, Nkhotakota, and Karonga District Hospitals- Malawi Methods: A randomized drug efficacy trial will be conducted in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:1",
+      "score": 0.7651827931404114,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:1",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04327440:2",
+      "score": 0.762553870677948,
+      "metadata": {
+        "id": "clinicaltrials:NCT04327440:2",
+        "doc_id": "NCT04327440",
+        "source": "clinicaltrials",
+        "title": "RTSS Vaccine and PBO Net Impact on Malaria Infection and Transmission in Malawi",
+        "study_type": "OBSERVATIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT04327440",
+        "text": "Introduction: The decline in malaria incidence has stalled globally and incidence is increasing in some high transmission settings of sub-Saharan Africa, including Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03300648:0",
+      "score": 0.7581865191459656,
+      "metadata": {
+        "id": "clinicaltrials:NCT03300648:0",
+        "doc_id": "NCT03300648",
+        "source": "clinicaltrials",
+        "title": "Treating Brain Swelling in Pediatric Cerebral Malaria",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT03300648",
+        "text": "This study evaluates the effectiveness of two interventions in Malawian children with cerebral malaria at high risk of death."
+      }
+    },
+    {
+      "id": "pubmed:32189611:1",
+      "score": 0.7578462958335876,
+      "metadata": {
+        "id": "pubmed:32189611:1",
+        "doc_id": "32189611",
+        "source": "pubmed",
+        "title": "Gaps between Knowledge and Malaria Treatment Practices after Intensive Anti-Malaria Campaigns in Western Kenya: 2004-2016.",
+        "study_type": "Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32189611/",
+        "text": "In Kenya, free malaria treatment has been implemented since 2006."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02721420:0",
+      "score": 0.7529454231262207,
+      "metadata": {
+        "id": "clinicaltrials:NCT02721420:0",
+        "doc_id": "NCT02721420",
+        "source": "clinicaltrials",
+        "title": "Delivery of Malaria Chemoprevention in the Post-discharge Management of Children With Severe Anaemia in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2018",
+        "url": "https://clinicaltrials.gov/study/NCT02721420",
+        "text": "In Malawi, 3 months of post-discharge malaria chemoprevention (PMC) with monthly 3-day treatment courses of artemether-lumefantrine (AL) in children with severe malarial anaemia prevented 31% of deaths and readmissions."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02671175:2",
+      "score": 0.7527520656585693,
+      "metadata": {
+        "id": "clinicaltrials:NCT02671175:2",
+        "doc_id": "NCT02671175",
+        "source": "clinicaltrials",
+        "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02671175",
+        "text": "In Malawi, 3 months of post-discharge malaria chemoprevention with monthly 3-day treatment courses of artemether-lumefantrine (AL) in children with severe malarial anemia prevented 31% of deaths and readmissions."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4395073970:0",
+      "score": 0.743675708770752,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4395073970:0",
+        "doc_id": "https://openalex.org/W4395073970",
+        "source": "openalex",
+        "title": "Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges",
+        "study_type": "review",
+        "year": "2024",
+        "url": "https://doi.org/10.1007/s44197-024-00228-2",
+        "text": "African countries have made certain progress in malaria control and elimination, including rapid diagnosis of malaria, promotion of mosquito nets and insecticides, intermittent prophylactic treatment in high-risk groups, artemisinin based combination therapies, and the development of vaccines."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00125489:2",
+      "score": 0.7421922087669373,
+      "metadata": {
+        "id": "clinicaltrials:NCT00125489:2",
+        "doc_id": "NCT00125489",
+        "source": "clinicaltrials",
+        "title": "CQSP in Malawi: Chloroquine and Sulfadoxine-pyrimethamine Efficacy for the Treatment of Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2010",
+        "url": "https://clinicaltrials.gov/study/NCT00125489",
+        "text": "The primary study objective is to assess the efficacy of chloroquine compared with standard SP therapy, in treating malaria in Malawi, where chloroquine has not been used for over 10 years and to compare it to the efficacy of standard therapy with SP."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:2",
+      "score": 0.7412139177322388,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:2",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02637128:1",
+      "score": 0.7399578094482422,
+      "metadata": {
+        "id": "clinicaltrials:NCT02637128:1",
+        "doc_id": "NCT02637128",
+        "source": "clinicaltrials",
+        "title": "In Vivo Efficacy of Artemether-Lumefantrine and Artesunate-Amodiaquine for Uncomplicated P. Falciparum Malaria",
+        "study_type": "INTERVENTIONAL",
+        "year": "2015",
+        "url": "https://clinicaltrials.gov/study/NCT02637128",
+        "text": "This study was designed to determine the efficacy of both artemether-lumefantrine and artesunate-amodiaquine (but not to compare the efficacies of the two drugs) for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga, Nkhotakota, and Karonga District Hospitals- Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01326754:0",
+      "score": 0.738855242729187,
+      "metadata": {
+        "id": "clinicaltrials:NCT01326754:0",
+        "doc_id": "NCT01326754",
+        "source": "clinicaltrials",
+        "title": "Efficacy of Artemether-lumefantrine, Artesunate-amodiaquine and Dihydroartemisinin-piperaquine for the Treatment of Uncomplicated Plasmodium Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT01326754",
+        "text": "Objective: Efficacy and safety of the dispersible formulation of artemether-lumefantrine, co-formulated artesunate-amodiaquine and co-formulated dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga District Hospital- Malawi Methods: An antimalarial drug efficacy trial will be conducted in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164710:1",
+      "score": 0.7367729544639587,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164710:1",
+        "doc_id": "NCT00164710",
+        "source": "clinicaltrials",
+        "title": "Assessing the Efficacy of Four Drug Combinations as the Next First-line Therapy for Uncomplicated Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164710",
+        "text": "Sulfadoxine-pyrimethamine (SP) is the current first-line treatment for uncomplicated malaria in Malawi."
+      }
+    },
+    {
+      "id": "pubmed:19123926:0",
+      "score": 0.7351170778274536,
+      "metadata": {
+        "id": "pubmed:19123926:0",
+        "doc_id": "19123926",
+        "source": "pubmed",
+        "title": "Pattern of drug utilization for treatment of uncomplicated malaria in urban Ghana following national treatment policy change to artemisinin-combination therapy.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19123926/",
+        "text": "Change of first-line treatment of uncomplicated malaria to artemisinin-combination therapy (ACT) is widespread in Africa."
+      }
+    },
+    {
+      "id": "pubmed:40789905:0",
+      "score": 0.7330131530761719,
+      "metadata": {
+        "id": "pubmed:40789905:0",
+        "doc_id": "40789905",
+        "source": "pubmed",
+        "title": "Fractional-order model of malaria incorporating treatment and prevention strategies.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40789905/",
+        "text": "The results showed that improving treatment strategies and implementing preventive measures, such as mosquito control and timely medication, significantly reduced malaria cases."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00379821:2",
+      "score": 0.7293373346328735,
+      "metadata": {
+        "id": "clinicaltrials:NCT00379821:2",
+        "doc_id": "NCT00379821",
+        "source": "clinicaltrials",
+        "title": "Chloroquine Alone or in Combination for Malaria in Children in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00379821",
+        "text": "Combination therapy is becoming the mainstay of malaria treatment."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06601712:0",
+      "score": 0.7265678644180298,
+      "metadata": {
+        "id": "clinicaltrials:NCT06601712:0",
+        "doc_id": "NCT06601712",
+        "source": "clinicaltrials",
+        "title": "Post-discharge Malaria Chemoprevention Implementation Trial in Benin",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06601712",
+        "text": "Intermittent preventive therapy for malaria with monthly artemether-lumefantrine for the post-discharge management of severe anaemia in children aged 4-59 months in southern Malawi: a multicentre, randomised, placebo-controlled trial."
+      }
+    },
+    {
+      "id": "pubmed:27538947:0",
+      "score": 0.7258530855178833,
+      "metadata": {
+        "id": "pubmed:27538947:0",
+        "doc_id": "27538947",
+        "source": "pubmed",
+        "title": "Adherence to malaria diagnosis and treatment guidelines among healthcare workers in Ogun State, Nigeria.",
+        "study_type": "Journal Article",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27538947/",
+        "text": "Despite the introduction of national malaria treatment guidelines and scale-up of malaria control interventions in Nigeria, anecdotal evidence shows some deviations from the guidelines in malaria case management."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01326754:1",
+      "score": 0.7228491306304932,
+      "metadata": {
+        "id": "clinicaltrials:NCT01326754:1",
+        "doc_id": "NCT01326754",
+        "source": "clinicaltrials",
+        "title": "Efficacy of Artemether-lumefantrine, Artesunate-amodiaquine and Dihydroartemisinin-piperaquine for the Treatment of Uncomplicated Plasmodium Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT01326754",
+        "text": "In addition, the efficacy, safety and tolerability of co-formulated artesunate-amodiaquine, the current secondline treatment for uncomplicated malaria, has never been assessed in Malawi and should be evaluated."
+      }
+    },
+    {
+      "id": "pubmed:27254098:1",
+      "score": 0.7222492694854736,
+      "metadata": {
+        "id": "pubmed:27254098:1",
+        "doc_id": "27254098",
+        "source": "pubmed",
+        "title": "Single dose treatment of malaria - current status and perspectives.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27254098/",
+        "text": "Currently, artemisinin-based combination therapies are the treatment of choice for uncomplicated malaria exhibiting high efficacy in clinical trial settings in sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "pubmed:24079636:0",
+      "score": 0.7211305499076843,
+      "metadata": {
+        "id": "pubmed:24079636:0",
+        "doc_id": "24079636",
+        "source": "pubmed",
+        "title": "Case management of malaria: treatment and chemoprophylaxis.",
+        "study_type": "Journal Article",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24079636/",
+        "text": "Malaria case management encompasses prompt and effective treatment to minimise morbidity and mortality, reduce transmission and prevent the emergence and spread of antimalarial drug resistance."
+      }
+    },
+    {
+      "id": "pubmed:24079636:2",
+      "score": 0.7197584509849548,
+      "metadata": {
+        "id": "pubmed:24079636:2",
+        "doc_id": "24079636",
+        "source": "pubmed",
+        "title": "Case management of malaria: treatment and chemoprophylaxis.",
+        "study_type": "Journal Article",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24079636/",
+        "text": "Malaria case management is a vital component of programmatic strategies for malaria control and elimination."
+      }
+    },
+    {
+      "id": "pubmed:37821868:0",
+      "score": 0.7189065217971802,
+      "metadata": {
+        "id": "pubmed:37821868:0",
+        "doc_id": "37821868",
+        "source": "pubmed",
+        "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+        "text": "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00125489:0",
+      "score": 0.7153449654579163,
+      "metadata": {
+        "id": "clinicaltrials:NCT00125489:0",
+        "doc_id": "NCT00125489",
+        "source": "clinicaltrials",
+        "title": "CQSP in Malawi: Chloroquine and Sulfadoxine-pyrimethamine Efficacy for the Treatment of Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2010",
+        "url": "https://clinicaltrials.gov/study/NCT00125489",
+        "text": "In preparation for a longer study of the malaria treatment medication chloroquine alone and in combination with other drugs, a shorter pre-study will be done to compare the anti-malarial effectiveness of chloroquine versus sulfadoxine-pyrimethamine (SP), the standard treatment in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04695197:2",
+      "score": 0.7121722102165222,
+      "metadata": {
+        "id": "clinicaltrials:NCT04695197:2",
+        "doc_id": "NCT04695197",
+        "source": "clinicaltrials",
+        "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04695197",
+        "text": "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      }
+    },
+    {
+      "id": "pubmed:24079636:1",
+      "score": 0.7117824554443359,
+      "metadata": {
+        "id": "pubmed:24079636:1",
+        "doc_id": "24079636",
+        "source": "pubmed",
+        "title": "Case management of malaria: treatment and chemoprophylaxis.",
+        "study_type": "Journal Article",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24079636/",
+        "text": "In this article, the focus is on malaria case management, addressing treatment, monitoring for parasite drug resistance, and the impact of drug resistance on treatment policies; it concludes with chemoprophylaxis and treatment strategies for malaria elimination in South Africa."
+      }
+    },
+    {
+      "id": "pubmed:22564504:0",
+      "score": 0.7117795944213867,
+      "metadata": {
+        "id": "pubmed:22564504:0",
+        "doc_id": "22564504",
+        "source": "pubmed",
+        "title": "Malaria case management in Papua New Guinea prior to the introduction of a revised treatment protocol.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22564504/",
+        "text": "This study aimed to document malaria case management practices in Papua New Guinea prior to the introduction of a revised national malaria treatment protocol."
+      }
+    },
+    {
+      "id": "pubmed:36228915:1",
+      "score": 0.7101380228996277,
+      "metadata": {
+        "id": "pubmed:36228915:1",
+        "doc_id": "36228915",
+        "source": "pubmed",
+        "title": "Understanding the Intransigence of Malaria in Malawi.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+        "text": "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      }
+    },
+    {
+      "id": "pubmed:29412886:0",
+      "score": 0.709833025932312,
+      "metadata": {
+        "id": "pubmed:29412886:0",
+        "doc_id": "29412886",
+        "source": "pubmed",
+        "title": "Pathology-Based Research in Africa.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+        "text": "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      }
+    },
+    {
+      "id": "pubmed:36683700:1",
+      "score": 0.7072880268096924,
+      "metadata": {
+        "id": "pubmed:36683700:1",
+        "doc_id": "36683700",
+        "source": "pubmed",
+        "title": "Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.",
+        "study_type": "Review, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36683700/",
+        "text": "We conclude that DHAP is highly efficacious in the treatment of uncomplicated malaria in Ghana."
+      }
+    },
+    {
+      "id": "pubmed:31408187:0",
+      "score": 0.7068115472793579,
+      "metadata": {
+        "id": "pubmed:31408187:0",
+        "doc_id": "31408187",
+        "source": "pubmed",
+        "title": "[Management of malaria in Sweden].",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31408187/",
+        "text": "Malaria is a potentially severe infection and time to treatment can be decisive for the outcome."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00873938:0",
+      "score": 0.7002074718475342,
+      "metadata": {
+        "id": "clinicaltrials:NCT00873938:0",
+        "doc_id": "NCT00873938",
+        "source": "clinicaltrials",
+        "title": "Compliance to Artesunate-Amodiaquine Therapy for Uncomplicated Malaria in Rural Ghana",
+        "study_type": "OBSERVATIONAL",
+        "year": "2010",
+        "url": "https://clinicaltrials.gov/study/NCT00873938",
+        "text": "With a change in malaria treatment policy to use combination antimalaria therapy, it is envisaged that compliance to combination therapy would be less than that of monotherapy that was being used for case management in Ghana."
+      }
+    },
+    {
+      "id": "pubmed:25855638:0",
+      "score": 0.6978398561477661,
+      "metadata": {
+        "id": "pubmed:25855638:0",
+        "doc_id": "25855638",
+        "source": "pubmed",
+        "title": "Artemisinin-based combination therapy in the treatment of uncomplicated malaria: review of recent regulatory experience at the European Medicines Agency.",
+        "study_type": "Journal Article, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25855638/",
+        "text": "Prompt, effective and well tolerated treatment remains one of the cornerstones in the disease management, with artemisinin-based combination therapy the recommended option for non-severe malaria in endemic areas with predominant Plasmodium falciparum infections.Recent experience has been obtained at the European Medicines Agency with regulatory approval of two such antimalarial fixed combination products."
+      }
+    },
+    {
+      "id": "pubmed:34949251:2",
+      "score": 0.6963596940040588,
+      "metadata": {
+        "id": "pubmed:34949251:2",
+        "doc_id": "34949251",
+        "source": "pubmed",
+        "title": "Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.",
+        "study_type": "Journal Article, Observational Study",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34949251/",
+        "text": "South Africa (SA) is currently experiencing a significant increase in malaria cases despite having shifted focus from malaria control towards malaria elimination."
+      }
+    },
+    {
+      "id": "pubmed:37604474:0",
+      "score": 0.6949016451835632,
+      "metadata": {
+        "id": "pubmed:37604474:0",
+        "doc_id": "37604474",
+        "source": "pubmed",
+        "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+        "text": "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164710",
+      "title": "Assessing the Efficacy of Four Drug Combinations as the Next First-line Therapy for Uncomplicated Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164710",
+      "semantic_score": 0.8332971930503845,
+      "matched_sentences": [
+        "The results of this study will provide some of the information necessary to guide the Malawi National Malaria Control Program in selecting its next first antimalarial treatment for uncomplicated malaria.",
+        "This study was developed and conducted in collaboration with the National Malaria Control Programme of Malawi to assess the efficacy of four antimalarial drug combinations to provide evidence to assist the Malawian Ministry of Health in identifying and implementing as policy the next first-line antimalarial for uncomplicated malaria in Malawi.",
+        "Sulfadoxine-pyrimethamine (SP) is the current first-line treatment for uncomplicated malaria in Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01326754",
+      "title": "Efficacy of Artemether-lumefantrine, Artesunate-amodiaquine and Dihydroartemisinin-piperaquine for the Treatment of Uncomplicated Plasmodium Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT01326754",
+      "semantic_score": 0.8199756741523743,
+      "matched_sentences": [
+        "This promising new antimalarial might have a role as a first-line or second-line antimalarial for the treatment of uncomplicated malaria, but there are no efficacy and safety data from Malawi.",
+        "Objective: Efficacy and safety of the dispersible formulation of artemether-lumefantrine, co-formulated artesunate-amodiaquine and co-formulated dihydroartemisinin-piperaquine for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga District Hospital- Malawi Methods: An antimalarial drug efficacy trial will be conducted in Malawi.",
+        "In addition, the efficacy, safety and tolerability of co-formulated artesunate-amodiaquine, the current secondline treatment for uncomplicated malaria, has never been assessed in Malawi and should be evaluated."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+      "semantic_score": 0.7782735824584961,
+      "matched_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.7658910751342773,
+      "matched_sentences": [
+        "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi.",
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy.",
+        "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02637128",
+      "title": "In Vivo Efficacy of Artemether-Lumefantrine and Artesunate-Amodiaquine for Uncomplicated P. Falciparum Malaria",
+      "study_type": "INTERVENTIONAL",
+      "year": "2015",
+      "url": "https://clinicaltrials.gov/study/NCT02637128",
+      "semantic_score": 0.7652804851531982,
+      "matched_sentences": [
+        "Objective: Determine the efficacy of artemether-lumefantrine and co-formulated artesunate-amodiaquine for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga, Nkhotakota, and Karonga District Hospitals- Malawi Methods: A randomized drug efficacy trial will be conducted in Malawi.",
+        "This study was designed to determine the efficacy of both artemether-lumefantrine and artesunate-amodiaquine (but not to compare the efficacies of the two drugs) for the treatment of uncomplicated Plasmodium falciparum malaria at Machinga, Nkhotakota, and Karonga District Hospitals- Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04327440",
+      "title": "RTSS Vaccine and PBO Net Impact on Malaria Infection and Transmission in Malawi",
+      "study_type": "OBSERVATIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT04327440",
+      "semantic_score": 0.762553870677948,
+      "matched_sentences": [
+        "Introduction: The decline in malaria incidence has stalled globally and incidence is increasing in some high transmission settings of sub-Saharan Africa, including Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03300648",
+      "title": "Treating Brain Swelling in Pediatric Cerebral Malaria",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT03300648",
+      "semantic_score": 0.7581865191459656,
+      "matched_sentences": [
+        "This study evaluates the effectiveness of two interventions in Malawian children with cerebral malaria at high risk of death."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32189611",
+      "title": "Gaps between Knowledge and Malaria Treatment Practices after Intensive Anti-Malaria Campaigns in Western Kenya: 2004-2016.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32189611/",
+      "semantic_score": 0.7578462958335876,
+      "matched_sentences": [
+        "In Kenya, free malaria treatment has been implemented since 2006."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02721420",
+      "title": "Delivery of Malaria Chemoprevention in the Post-discharge Management of Children With Severe Anaemia in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2018",
+      "url": "https://clinicaltrials.gov/study/NCT02721420",
+      "semantic_score": 0.7529454231262207,
+      "matched_sentences": [
+        "In Malawi, 3 months of post-discharge malaria chemoprevention (PMC) with monthly 3-day treatment courses of artemether-lumefantrine (AL) in children with severe malarial anaemia prevented 31% of deaths and readmissions."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02671175",
+      "title": "Post-discharge Malaria Chemoprevention(PMC) Study",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02671175",
+      "semantic_score": 0.7527520656585693,
+      "matched_sentences": [
+        "In Malawi, 3 months of post-discharge malaria chemoprevention with monthly 3-day treatment courses of artemether-lumefantrine (AL) in children with severe malarial anemia prevented 31% of deaths and readmissions."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4395073970",
+      "title": "Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges",
+      "study_type": "review",
+      "year": "2024",
+      "url": "https://doi.org/10.1007/s44197-024-00228-2",
+      "semantic_score": 0.743675708770752,
+      "matched_sentences": [
+        "African countries have made certain progress in malaria control and elimination, including rapid diagnosis of malaria, promotion of mosquito nets and insecticides, intermittent prophylactic treatment in high-risk groups, artemisinin based combination therapies, and the development of vaccines."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00125489",
+      "title": "CQSP in Malawi: Chloroquine and Sulfadoxine-pyrimethamine Efficacy for the Treatment of Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2010",
+      "url": "https://clinicaltrials.gov/study/NCT00125489",
+      "semantic_score": 0.7421922087669373,
+      "matched_sentences": [
+        "The primary study objective is to assess the efficacy of chloroquine compared with standard SP therapy, in treating malaria in Malawi, where chloroquine has not been used for over 10 years and to compare it to the efficacy of standard therapy with SP.",
+        "In preparation for a longer study of the malaria treatment medication chloroquine alone and in combination with other drugs, a shorter pre-study will be done to compare the anti-malarial effectiveness of chloroquine versus sulfadoxine-pyrimethamine (SP), the standard treatment in Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "19123926",
+      "title": "Pattern of drug utilization for treatment of uncomplicated malaria in urban Ghana following national treatment policy change to artemisinin-combination therapy.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19123926/",
+      "semantic_score": 0.7351170778274536,
+      "matched_sentences": [
+        "Change of first-line treatment of uncomplicated malaria to artemisinin-combination therapy (ACT) is widespread in Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40789905",
+      "title": "Fractional-order model of malaria incorporating treatment and prevention strategies.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40789905/",
+      "semantic_score": 0.7330131530761719,
+      "matched_sentences": [
+        "The results showed that improving treatment strategies and implementing preventive measures, such as mosquito control and timely medication, significantly reduced malaria cases."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00379821",
+      "title": "Chloroquine Alone or in Combination for Malaria in Children in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00379821",
+      "semantic_score": 0.7293373346328735,
+      "matched_sentences": [
+        "Combination therapy is becoming the mainstay of malaria treatment."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06601712",
+      "title": "Post-discharge Malaria Chemoprevention Implementation Trial in Benin",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06601712",
+      "semantic_score": 0.7265678644180298,
+      "matched_sentences": [
+        "Intermittent preventive therapy for malaria with monthly artemether-lumefantrine for the post-discharge management of severe anaemia in children aged 4-59 months in southern Malawi: a multicentre, randomised, placebo-controlled trial."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27538947",
+      "title": "Adherence to malaria diagnosis and treatment guidelines among healthcare workers in Ogun State, Nigeria.",
+      "study_type": "Journal Article",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27538947/",
+      "semantic_score": 0.7258530855178833,
+      "matched_sentences": [
+        "Despite the introduction of national malaria treatment guidelines and scale-up of malaria control interventions in Nigeria, anecdotal evidence shows some deviations from the guidelines in malaria case management."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27254098",
+      "title": "Single dose treatment of malaria - current status and perspectives.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27254098/",
+      "semantic_score": 0.7222492694854736,
+      "matched_sentences": [
+        "Currently, artemisinin-based combination therapies are the treatment of choice for uncomplicated malaria exhibiting high efficacy in clinical trial settings in sub-Saharan Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24079636",
+      "title": "Case management of malaria: treatment and chemoprophylaxis.",
+      "study_type": "Journal Article",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24079636/",
+      "semantic_score": 0.7211305499076843,
+      "matched_sentences": [
+        "Malaria case management encompasses prompt and effective treatment to minimise morbidity and mortality, reduce transmission and prevent the emergence and spread of antimalarial drug resistance.",
+        "Malaria case management is a vital component of programmatic strategies for malaria control and elimination.",
+        "In this article, the focus is on malaria case management, addressing treatment, monitoring for parasite drug resistance, and the impact of drug resistance on treatment policies; it concludes with chemoprophylaxis and treatment strategies for malaria elimination in South Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37821868",
+      "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+      "semantic_score": 0.7189065217971802,
+      "matched_sentences": [
+        "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04695197",
+      "title": "Malaria as a Risk Factor for COVID-19 in Western Kenya and Burkina Faso",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04695197",
+      "semantic_score": 0.7121722102165222,
+      "matched_sentences": [
+        "Methods: A malaria treatment trial will be conducted nested within a larger observational COVID-19 cohort study in highly malaria-endemic areas in western Kenya and Burkina-Faso."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22564504",
+      "title": "Malaria case management in Papua New Guinea prior to the introduction of a revised treatment protocol.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22564504/",
+      "semantic_score": 0.7117795944213867,
+      "matched_sentences": [
+        "This study aimed to document malaria case management practices in Papua New Guinea prior to the introduction of a revised national malaria treatment protocol."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228915",
+      "title": "Understanding the Intransigence of Malaria in Malawi.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+      "semantic_score": 0.7101380228996277,
+      "matched_sentences": [
+        "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29412886",
+      "title": "Pathology-Based Research in Africa.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+      "semantic_score": 0.709833025932312,
+      "matched_sentences": [
+        "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36683700",
+      "title": "Therapeutic efficacy of dihydroartemisinin-piperaquine combination for the treatment of uncomplicated malaria in Ghana.",
+      "study_type": "Review, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36683700/",
+      "semantic_score": 0.7072880268096924,
+      "matched_sentences": [
+        "We conclude that DHAP is highly efficacious in the treatment of uncomplicated malaria in Ghana."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31408187",
+      "title": "[Management of malaria in Sweden].",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31408187/",
+      "semantic_score": 0.7068115472793579,
+      "matched_sentences": [
+        "Malaria is a potentially severe infection and time to treatment can be decisive for the outcome."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00873938",
+      "title": "Compliance to Artesunate-Amodiaquine Therapy for Uncomplicated Malaria in Rural Ghana",
+      "study_type": "OBSERVATIONAL",
+      "year": "2010",
+      "url": "https://clinicaltrials.gov/study/NCT00873938",
+      "semantic_score": 0.7002074718475342,
+      "matched_sentences": [
+        "With a change in malaria treatment policy to use combination antimalaria therapy, it is envisaged that compliance to combination therapy would be less than that of monotherapy that was being used for case management in Ghana."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25855638",
+      "title": "Artemisinin-based combination therapy in the treatment of uncomplicated malaria: review of recent regulatory experience at the European Medicines Agency.",
+      "study_type": "Journal Article, Review",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25855638/",
+      "semantic_score": 0.6978398561477661,
+      "matched_sentences": [
+        "Prompt, effective and well tolerated treatment remains one of the cornerstones in the disease management, with artemisinin-based combination therapy the recommended option for non-severe malaria in endemic areas with predominant Plasmodium falciparum infections.Recent experience has been obtained at the European Medicines Agency with regulatory approval of two such antimalarial fixed combination products."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34949251",
+      "title": "Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.",
+      "study_type": "Journal Article, Observational Study",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34949251/",
+      "semantic_score": 0.6963596940040588,
+      "matched_sentences": [
+        "South Africa (SA) is currently experiencing a significant increase in malaria cases despite having shifted focus from malaria control towards malaria elimination."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37604474",
+      "title": "Preferences of Patients and Providers in High-Burden Malaria Settings for Long-Acting Malaria Chemoprevention.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37604474/",
+      "semantic_score": 0.6949016451835632,
+      "matched_sentences": [
+        "We administered questionnaires to patients and providers in malaria endemic districts in Kenya and Zambia."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "run_id": "b9ea62ee0bdd492f8972792664ce9e18",
+  "stored_at": "2026-04-18T12:21:00+00:00",
+  "query": "cancer non small cell lung USA",
+  "query_fallbacks": [
+    "cancer non small cell lung USA",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR treatment options)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR cancer treatment)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR targeted therapy)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (treatment outcomes OR clinical trials)",
+    "cancer non small cell lung",
+    "cancer non small cell treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer non small cell lung USA",
+    "cancer non small cell lung",
+    "cancer non small cell treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR treatment options)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR cancer treatment)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR targeted therapy)",
+    "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (treatment outcomes OR clinical trials)"
+  ],
+  "keywords": [
+    "cancer",
+    "non",
+    "small",
+    "cell",
+    "lung",
+    "treatment",
+    "therapy",
+    "management",
+    "options",
+    "patient",
+    "adenocarcinoma",
+    "subtype",
+    "expression",
+    "completed",
+    "immunotherapy",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 36,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR treatment options)",
+      "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR cancer treatment)",
+      "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (immunotherapy OR targeted therapy)",
+      "(USA[geo]) AND (adenocarcinoma OR NSCLC) AND (PD-L1[protein] AND 60%) AND (treatment outcomes OR clinical trials)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b9ea62ee0bdd492f8972792664ce9e18\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b9ea62ee0bdd492f8972792664ce9e18\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b9ea62ee0bdd492f8972792664ce9e18\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\b9ea62ee0bdd492f8972792664ce9e18\\combined.records.json"
+  }
+}

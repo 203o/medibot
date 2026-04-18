@@ -1,0 +1,77 @@
+{
+  "run_id": "45c5429cb89c40d1a71f3948d512c2d8",
+  "stored_at": "2026-04-16T20:37:20+00:00",
+  "query": "cancer give more information summery united states of america",
+  "query_fallbacks": [
+    "cancer give more information summery united states of america",
+    "(cancer AND epidemiology) AND (systematic review OR meta-analysis) AND (United States OR US) AND (prevalence OR incidence)",
+    "(cancer AND risk factors) AND (cohort study OR case-control study) AND (United States OR US) AND (demographics OR socioeconomic factors)",
+    "(cancer AND treatment outcomes) AND (randomized controlled trial OR observational study) AND (United States OR US) AND (survival rates OR quality of life)",
+    "(cancer AND health disparities) AND (systematic review OR meta-analysis) AND (United States OR US) AND (racial OR ethnic disparities)",
+    "cancer give more information summery",
+    "cancer give more information treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer give more information summery united states of america",
+    "cancer give more information summery",
+    "cancer give more information treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "(cancer AND epidemiology) AND (systematic review OR meta-analysis) AND (United States OR US) AND (prevalence OR incidence)",
+    "(cancer AND risk factors) AND (cohort study OR case-control study) AND (United States OR US) AND (demographics OR socioeconomic factors)",
+    "(cancer AND treatment outcomes) AND (randomized controlled trial OR observational study) AND (United States OR US) AND (survival rates OR quality of life)",
+    "(cancer AND health disparities) AND (systematic review OR meta-analysis) AND (United States OR US) AND (racial OR ethnic disparities)"
+  ],
+  "keywords": [
+    "cancer",
+    "give",
+    "more",
+    "information",
+    "summery",
+    "one",
+    "evidence",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 4,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 90
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(cancer AND epidemiology) AND (systematic review OR meta-analysis) AND (United States OR US) AND (prevalence OR incidence)",
+      "(cancer AND risk factors) AND (cohort study OR case-control study) AND (United States OR US) AND (demographics OR socioeconomic factors)",
+      "(cancer AND treatment outcomes) AND (randomized controlled trial OR observational study) AND (United States OR US) AND (survival rates OR quality of life)",
+      "(cancer AND health disparities) AND (systematic review OR meta-analysis) AND (United States OR US) AND (racial OR ethnic disparities)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\45c5429cb89c40d1a71f3948d512c2d8\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\45c5429cb89c40d1a71f3948d512c2d8\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\45c5429cb89c40d1a71f3948d512c2d8\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\45c5429cb89c40d1a71f3948d512c2d8\\combined.records.json"
+  }
+}

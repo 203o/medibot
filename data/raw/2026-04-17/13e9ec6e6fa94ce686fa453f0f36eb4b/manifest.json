@@ -1,0 +1,74 @@
+{
+  "run_id": "13e9ec6e6fa94ce686fa453f0f36eb4b",
+  "stored_at": "2026-04-17T22:18:28+00:00",
+  "query": "cancer lung cancer treatment therapy canada",
+  "query_fallbacks": [
+    "cancer lung cancer treatment therapy canada",
+    "lung cancer treatment outcomes in pediatric patients in Canada",
+    "epidemiology of lung cancer in children in Canada",
+    "systematic review of lung cancer treatment in pediatric patients in Canada",
+    "lung cancer incidence and mortality rates in children in Canada",
+    "cancer lung cancer treatment therapy",
+    "cancer lung cancer treatment treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer lung cancer treatment therapy canada",
+    "cancer lung cancer treatment therapy",
+    "cancer lung cancer treatment treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment outcomes in pediatric patients in Canada",
+    "epidemiology of lung cancer in children in Canada",
+    "systematic review of lung cancer treatment in pediatric patients in Canada",
+    "lung cancer incidence and mortality rates in children in Canada"
+  ],
+  "keywords": [
+    "cancer",
+    "lung",
+    "treatment",
+    "therapy",
+    "management",
+    "children",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 32,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment outcomes in pediatric patients in Canada",
+      "epidemiology of lung cancer in children in Canada",
+      "systematic review of lung cancer treatment in pediatric patients in Canada",
+      "lung cancer incidence and mortality rates in children in Canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\13e9ec6e6fa94ce686fa453f0f36eb4b\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\13e9ec6e6fa94ce686fa453f0f36eb4b\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\13e9ec6e6fa94ce686fa453f0f36eb4b\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\13e9ec6e6fa94ce686fa453f0f36eb4b\\combined.records.json"
+  }
+}

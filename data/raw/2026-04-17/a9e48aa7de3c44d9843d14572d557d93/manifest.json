@@ -1,0 +1,75 @@
+{
+  "run_id": "a9e48aa7de3c44d9843d14572d557d93",
+  "stored_at": "2026-04-17T00:10:20+00:00",
+  "query": "lung cancer latest treatment therapy management USA",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management USA",
+    "lung cancer treatment modalities in the United States",
+    "current therapeutic approaches for non-small cell lung cancer in the USA",
+    "evidence-based management strategies for lung cancer in the US",
+    "epidemiology and treatment trends of lung cancer in the American population",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management USA",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer usa",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment modalities in the United States",
+    "current therapeutic approaches for non-small cell lung cancer in the USA",
+    "evidence-based management strategies for lung cancer in the US",
+    "epidemiology and treatment trends of lung cancer in the American population"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 2,
+    "openalex": 0,
+    "semantic_hits": 55,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment modalities in the United States",
+      "current therapeutic approaches for non-small cell lung cancer in the USA",
+      "evidence-based management strategies for lung cancer in the US",
+      "epidemiology and treatment trends of lung cancer in the American population"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a9e48aa7de3c44d9843d14572d557d93\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a9e48aa7de3c44d9843d14572d557d93\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a9e48aa7de3c44d9843d14572d557d93\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a9e48aa7de3c44d9843d14572d557d93\\combined.records.json"
+  }
+}

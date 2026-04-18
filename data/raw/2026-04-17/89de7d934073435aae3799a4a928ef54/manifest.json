@@ -1,0 +1,79 @@
+{
+  "run_id": "89de7d934073435aae3799a4a928ef54",
+  "stored_at": "2026-04-17T13:56:32+00:00",
+  "query": "lung cancer check there evidence that canada",
+  "query_fallbacks": [
+    "lung cancer check there evidence that canada",
+    "(lung cancer AND epidemiology AND wildlife AND Canada)",
+    "(lung cancer AND prevalence AND wild animals AND Canada)",
+    "(lung cancer AND incidence AND Canada AND non-human species)",
+    "(lung cancer AND evidence AND Canada AND animal populations)",
+    "lung cancer check there evidence that",
+    "lung cancer check there evidence treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer check there evidence that canada",
+    "lung cancer check there evidence that",
+    "lung cancer check there evidence treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "(lung cancer AND epidemiology AND wildlife AND Canada)",
+    "(lung cancer AND prevalence AND wild animals AND Canada)",
+    "(lung cancer AND incidence AND Canada AND non-human species)",
+    "(lung cancer AND evidence AND Canada AND animal populations)"
+  ],
+  "keywords": [
+    "lung cancer",
+    "check",
+    "there",
+    "evidence",
+    "that",
+    "lung",
+    "cancer",
+    "affects",
+    "wild",
+    "animals",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 11,
+    "clinicaltrials": 1,
+    "openalex": 30,
+    "semantic_hits": 56,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(lung cancer AND epidemiology AND wildlife AND Canada)",
+      "(lung cancer AND prevalence AND wild animals AND Canada)",
+      "(lung cancer AND incidence AND Canada AND non-human species)",
+      "(lung cancer AND evidence AND Canada AND animal populations)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\89de7d934073435aae3799a4a928ef54\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\89de7d934073435aae3799a4a928ef54\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\89de7d934073435aae3799a4a928ef54\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\89de7d934073435aae3799a4a928ef54\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\89de7d934073435aae3799a4a928ef54\\combined.records.json"
+  }
+}

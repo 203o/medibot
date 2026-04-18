@@ -1,0 +1,3633 @@
+{
+  "enabled": true,
+  "indexed_chunks": 247,
+  "matches": [
+    {
+      "id": "openalex:https://openalex.org/W4385655302:2",
+      "score": 0.5518686771392822,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4385655302:2",
+        "doc_id": "https://openalex.org/W4385655302",
+        "source": "openalex",
+        "title": "Ethnomedicinal Uses, Phytochemistry, and Anticancer Potentials of African Medicinal Fruits: A Comprehensive Review",
+        "study_type": "review",
+        "year": "2023",
+        "url": "https://doi.org/10.3390/ph16081117",
+        "text": "Africa is home to diverse medicinal plants that have been used for generations for the treatment of several different cancers and, presently, they are gaining interest from researchers as promising approaches to cancer treatment."
+      }
+    },
+    {
+      "id": "pubmed:37556423:0",
+      "score": 0.537338137626648,
+      "metadata": {
+        "id": "pubmed:37556423:0",
+        "doc_id": "37556423",
+        "source": "pubmed",
+        "title": "Prevalence, clinical presentation and factors associated with chronic lung disease among children and adolescents living with HIV in Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37556423/",
+        "text": "We sought to determine the prevalence, clinical presentation and factors associated with chronic lung disease (CLD) among CAHIV in Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2396602109:0",
+      "score": 0.5055252313613892,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2396602109:0",
+        "doc_id": "https://openalex.org/W2396602109",
+        "source": "openalex",
+        "title": "Factors influencing time to diagnosis and treatment among pediatric oncology patients in Kenya",
+        "study_type": "article",
+        "year": "2016",
+        "url": "https://doi.org/10.3109/08880018.2016.1169566",
+        "text": "Study participants were parents of childhood cancer patients diagnosed between August 2013 and July 2014 in a hospital in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:29241618:2",
+      "score": 0.4931797385215759,
+      "metadata": {
+        "id": "pubmed:29241618:2",
+        "doc_id": "29241618",
+        "source": "pubmed",
+        "title": "Appropriateness of clinical severity classification of new WHO childhood pneumonia guidance: a multi-hospital, retrospective, cohort study.",
+        "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29241618/",
+        "text": "We did a retrospective cohort study of children aged 2-59 months admitted to one of 14 hospitals in Kenya with pneumonia between March 1, 2014, and Feb 29, 2016, before revised WHO pneumonia guidelines were adopted in the country."
+      }
+    },
+    {
+      "id": "pubmed:37448326:1",
+      "score": 0.4840256869792938,
+      "metadata": {
+        "id": "pubmed:37448326:1",
+        "doc_id": "37448326",
+        "source": "pubmed",
+        "title": "Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37448326/",
+        "text": "Facility-based data showed a decrease in health care utilization for respiratory infections, enteric illnesses, and malaria, after start of COVID-19 measures in Kenya in March 2020."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767191:2",
+      "score": 0.48057740926742554,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767191:2",
+        "doc_id": "NCT04767191",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04767191",
+        "text": "In line with this WHO recommendation, Kenya Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether lumefantrine (AL), and dihydroartemisinin-piperaquine (DHP), the first and second line treatment of uncomplicated malaria in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:34145005:2",
+      "score": 0.4783265292644501,
+      "metadata": {
+        "id": "pubmed:34145005:2",
+        "doc_id": "34145005",
+        "source": "pubmed",
+        "title": "Prevalence and fluid management of dehydration in children without diarrhoea admitted to Kenyan hospitals: a multisite observational study.",
+        "study_type": "Journal Article, Observational Study, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34145005/",
+        "text": "Study conducted in 13 county referral hospitals in Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02246296:1",
+      "score": 0.47762027382850647,
+      "metadata": {
+        "id": "clinicaltrials:NCT02246296:1",
+        "doc_id": "NCT02246296",
+        "source": "clinicaltrials",
+        "title": "Reformulated F75 Milk to Treat Severe Acute Malnutrition",
+        "study_type": "INTERVENTIONAL",
+        "year": "2016",
+        "url": "https://clinicaltrials.gov/study/NCT02246296",
+        "text": "The trial will be undertaken in two hospitals in Kenya and one hospital in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06165614:2",
+      "score": 0.4640235900878906,
+      "metadata": {
+        "id": "clinicaltrials:NCT06165614:2",
+        "doc_id": "NCT06165614",
+        "source": "clinicaltrials",
+        "title": "Artesunate Pessaries (Vaginal Inserts) for Cervical Precancer in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06165614",
+        "text": "Despite being preventable, cancer of the cervix is a leading cause of cancer death in Kenya and other low- and middle-income countries (LMIC)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04558554:2",
+      "score": 0.46356549859046936,
+      "metadata": {
+        "id": "clinicaltrials:NCT04558554:2",
+        "doc_id": "NCT04558554",
+        "source": "clinicaltrials",
+        "title": "Pharmacy Delivery to Expand the Reach of PrEP in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04558554",
+        "text": "During Study 1a (13 months), we will pilot this care pathway in 2 retail pharmacies evenly split between 2 different geographies in Kenya: Kisumu and Thika."
+      }
+    },
+    {
+      "id": "pubmed:37556423:2",
+      "score": 0.45700639486312866,
+      "metadata": {
+        "id": "pubmed:37556423:2",
+        "doc_id": "37556423",
+        "source": "pubmed",
+        "title": "Prevalence, clinical presentation and factors associated with chronic lung disease among children and adolescents living with HIV in Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37556423/",
+        "text": "Chronic lung disease in CAHIV is an under-recognised problem in African settings."
+      }
+    },
+    {
+      "id": "pubmed:21193120:2",
+      "score": 0.45073646306991577,
+      "metadata": {
+        "id": "pubmed:21193120:2",
+        "doc_id": "21193120",
+        "source": "pubmed",
+        "title": "[What's new in dermatological treatments?].",
+        "study_type": "Journal Article, Review",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21193120/",
+        "text": "For the first time in cutaneous oncology, a treatment (ipilimumab) has significantly increased overall survival in patients with metastatic melanoma (phase III), although this gain remains modest (4-6 months) and adverse immunological effects are frequent (30-40%)."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2743009004:0",
+      "score": 0.4460405707359314,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2743009004:0",
+        "doc_id": "https://openalex.org/W2743009004",
+        "source": "openalex",
+        "title": "Fifty years of creativity, crisis, and cancer in Uganda",
+        "study_type": "article",
+        "year": "2016",
+        "url": "https://doi.org/10.1080/00083968.2016.1272061",
+        "text": "This article tells the story of the Uganda Cancer Institute over the past 50 years."
+      }
+    },
+    {
+      "id": "pubmed:37448326:0",
+      "score": 0.4451526999473572,
+      "metadata": {
+        "id": "pubmed:37448326:0",
+        "doc_id": "37448326",
+        "source": "pubmed",
+        "title": "Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37448326/",
+        "text": "COVID-19-related containment measures in Western Kenya were accompanied by a decline in respiratory infections, enteric illnesses, and malaria / fever mainly in children."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04437667:2",
+      "score": 0.44448304176330566,
+      "metadata": {
+        "id": "clinicaltrials:NCT04437667:2",
+        "doc_id": "NCT04437667",
+        "source": "clinicaltrials",
+        "title": "HIV-Prevention Smartphone Game Trial",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04437667",
+        "text": "This study will be carried out by Emory University and the Kenya Medical Research Institute (KEMRI)."
+      }
+    },
+    {
+      "id": "pubmed:35225096:0",
+      "score": 0.44199055433273315,
+      "metadata": {
+        "id": "pubmed:35225096:0",
+        "doc_id": "35225096",
+        "source": "pubmed",
+        "title": "Reaching 95-95-95 targets: The role of private sector health facilities in closing the HIV detection gap-Kisumu Kenya, 2018.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35225096/",
+        "text": "A retrospective cohort analysis of data collected during an integrated TB/HIV active case-finding intervention in Western Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4405398893:2",
+      "score": 0.44186753034591675,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4405398893:2",
+        "doc_id": "https://openalex.org/W4405398893",
+        "source": "openalex",
+        "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+        "study_type": "article",
+        "year": "2024",
+        "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+        "text": "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      }
+    },
+    {
+      "id": "pubmed:37424519:0",
+      "score": 0.4416331648826599,
+      "metadata": {
+        "id": "pubmed:37424519:0",
+        "doc_id": "37424519",
+        "source": "pubmed",
+        "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+        "text": "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions."
+      }
+    },
+    {
+      "id": "pubmed:40247647:0",
+      "score": 0.4394366145133972,
+      "metadata": {
+        "id": "pubmed:40247647:0",
+        "doc_id": "40247647",
+        "source": "pubmed",
+        "title": "Exploring the consequences of housing insecurity on HIV treatment outcomes: Qualitative insights from Kisumu, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40247647/",
+        "text": "We examined the consequences of HI on treatment outcomes among people living with HIV in rural Kenya."
+      }
+    },
+    {
+      "id": "pubmed:15868977:0",
+      "score": 0.4388362765312195,
+      "metadata": {
+        "id": "pubmed:15868977:0",
+        "doc_id": "15868977",
+        "source": "pubmed",
+        "title": "HBV, HIV co-infection at Kisumu District Hospital, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15868977/",
+        "text": "Medical wards, medical outpatient clinic and liver clinic, Kisumu District Hospital, Western Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2168738168:2",
+      "score": 0.4386427402496338,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2168738168:2",
+        "doc_id": "https://openalex.org/W2168738168",
+        "source": "openalex",
+        "title": "Traditional management of ear, nose and throat (ENT) diseases in Central Kenya",
+        "study_type": "article",
+        "year": "2006",
+        "url": "https://doi.org/10.1186/1746-4269-2-54",
+        "text": "In Kenya, upper respiratory infections are among the most common infections encountered in outpatient facilities."
+      }
+    },
+    {
+      "id": "pubmed:34130663:2",
+      "score": 0.4285321831703186,
+      "metadata": {
+        "id": "pubmed:34130663:2",
+        "doc_id": "34130663",
+        "source": "pubmed",
+        "title": "Hepatitis and tuberculosis testing are much less common than HIV testing among adults in Kisumu, Kenya: results from a cross-sectional assessment.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34130663/",
+        "text": "Kenya has a high burden of HIV, viral hepatitis, and tuberculosis."
+      }
+    },
+    {
+      "id": "pubmed:40540521:0",
+      "score": 0.4274146556854248,
+      "metadata": {
+        "id": "pubmed:40540521:0",
+        "doc_id": "40540521",
+        "source": "pubmed",
+        "title": "Integration of a brief, transdiagnostic psychological intervention in the care of adolescents and young adults with HIV in Kenya: Protocol for a cluster randomized clinical trial.",
+        "study_type": "Clinical Trial Protocol, Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40540521/",
+        "text": "We will evaluate the PRO-ACT intervention in a hybrid type 1 cluster randomized clinical trial (NCT06247527) in 30 HIV clinics in 3 counties in Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05842161:1",
+      "score": 0.42514508962631226,
+      "metadata": {
+        "id": "clinicaltrials:NCT05842161:1",
+        "doc_id": "NCT05842161",
+        "source": "clinicaltrials",
+        "title": "South Africa Smoking Cessation and Engagement in HIV/TB Care Care",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05842161",
+        "text": "This program will has the potential to dramatically improve public health by increasing the smoking quit rate and facilitating favorable HIV/TB treatment outcomes among patients with HIV and/or TB in resource limited South African settings."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4413924817:0",
+      "score": 0.42490947246551514,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4413924817:0",
+        "doc_id": "https://openalex.org/W4413924817",
+        "source": "openalex",
+        "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+        "study_type": "review",
+        "year": "2025",
+        "url": "https://doi.org/10.1186/s13045-025-01732-z",
+        "text": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors."
+      }
+    },
+    {
+      "id": "pubmed:36890544:1",
+      "score": 0.4248548150062561,
+      "metadata": {
+        "id": "pubmed:36890544:1",
+        "doc_id": "36890544",
+        "source": "pubmed",
+        "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+        "text": "In western Kenya, not all malaria cases are reported as stipulated in the community case management of malaria (CCMm) strategy."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3015545078:2",
+      "score": 0.423889696598053,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3015545078:2",
+        "doc_id": "https://openalex.org/W3015545078",
+        "source": "openalex",
+        "title": "The Impact of Infectious Diseases on Kenya’s Health Diplomacy; An Inter-State Phenomenon",
+        "study_type": "article",
+        "year": "2020",
+        "url": "https://doi.org/10.14738/abr.82.7807",
+        "text": "The study used qualitative study methodology by describing the context of Kenya’s health diplomacy and employing available documents analysis."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05905640:1",
+      "score": 0.4237428605556488,
+      "metadata": {
+        "id": "clinicaltrials:NCT05905640:1",
+        "doc_id": "NCT05905640",
+        "source": "clinicaltrials",
+        "title": "One-stop PrEP Care Pathway to Simplify PrEP Delivery in Kenya: The One-Stop PrEP Care Project",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05905640",
+        "text": "This study will evaluate the effectiveness of one-stop PrEP services in 12 public health facilities in Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05842161:0",
+      "score": 0.4221962094306946,
+      "metadata": {
+        "id": "clinicaltrials:NCT05842161:0",
+        "doc_id": "NCT05842161",
+        "source": "clinicaltrials",
+        "title": "South Africa Smoking Cessation and Engagement in HIV/TB Care Care",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05842161",
+        "text": "The purpose of this study is to integrate elements from existing interventions developed by our team into a single intervention (QUIT-AD), designed to improve smoking cessation and favorable HIV/TB treatment outcomes among individuals with HIV and/or TB in Cape Town, South Africa."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2586626150:0",
+      "score": 0.4218795597553253,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2586626150:0",
+        "doc_id": "https://openalex.org/W2586626150",
+        "source": "openalex",
+        "title": "Assessing the feasibility of eHealth and mHealth: a systematic review and analysis of initiatives implemented in Kenya",
+        "study_type": "review",
+        "year": "2017",
+        "url": "https://doi.org/10.1186/s13104-017-2416-0",
+        "text": "This review discovered that there is a myriad of eHealth projects being implemented in Kenya, mainly in the mHealth strategic area and focusing mostly on primary care and HIV/AIDs."
+      }
+    },
+    {
+      "id": "pubmed:40921636:2",
+      "score": 0.41961777210235596,
+      "metadata": {
+        "id": "pubmed:40921636:2",
+        "doc_id": "40921636",
+        "source": "pubmed",
+        "title": "Evaluating the effectiveness of a One-Stop PrEP Care model to enhance HIV prevention: a protocol for a cluster-randomised trial in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Clinical Trial Protocol",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40921636/",
+        "text": "Ethical approval was obtained from the University of Washington Institutional Review Board (IRB) on 8 July 2022 (IRB ID: STUDY00015873) and the Kenya Medical Research Institute Scientific and Ethics Review Unit (SERU) with a letter dated 4 May 2023 (Ref: 4697)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT07362498:0",
+      "score": 0.4192965626716614,
+      "metadata": {
+        "id": "clinicaltrials:NCT07362498:0",
+        "doc_id": "NCT07362498",
+        "source": "clinicaltrials",
+        "title": "Health Systems Implementation and Molecular Surveillance of Multiple First-Line Treatments for Uncomplicated Malaria in Western Kenya",
+        "study_type": "OBSERVATIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT07362498",
+        "text": "This implementation study evaluated the health systems feasibility, economic costs, and stakeholder acceptability of deploying multiple first-line therapies (MFTs) that were of the artemisinin-based combination therapies (ACTs) type, for uncomplicated malaria in Western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:38243301:0",
+      "score": 0.41675370931625366,
+      "metadata": {
+        "id": "pubmed:38243301:0",
+        "doc_id": "38243301",
+        "source": "pubmed",
+        "title": "A phone-based tobacco use cessation program for people living with HIV in Uganda and Zambia: study protocol for a randomized controlled trial.",
+        "study_type": "Clinical Trial Protocol, Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38243301/",
+        "text": "Nicotine replacement therapy (NRT) and short messaging service (SMS)-based tobacco cessation interventions have demonstrated effectiveness in reducing tobacco use in many populations, but evidence is needed on which tailored treatments are most efficacious in meeting the complex medical and psychosocial factors confronting people living with HIV (PLWH) in sub-Saharan Africa (SSA)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06411938:0",
+      "score": 0.4134921431541443,
+      "metadata": {
+        "id": "clinicaltrials:NCT06411938:0",
+        "doc_id": "NCT06411938",
+        "source": "clinicaltrials",
+        "title": "A Cervical Cancer Prevention Program in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06411938",
+        "text": "In addition, while safe and effective HPV vaccines have been available for 15 years, very few (\\<1%) Kenyan children and adolescents have been vaccinated."
+      }
+    },
+    {
+      "id": "pubmed:37808984:0",
+      "score": 0.41035565733909607,
+      "metadata": {
+        "id": "pubmed:37808984:0",
+        "doc_id": "37808984",
+        "source": "pubmed",
+        "title": "Higher rates of mental health screening of adolescents recorded after provider training using simulated patients in a Kenyan HIV clinic: results of a pilot study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37808984/",
+        "text": "This pilot study was conducted in a public HIV clinic in Thika, Kenya from January to November 2021."
+      }
+    },
+    {
+      "id": "pubmed:37821868:0",
+      "score": 0.4087303876876831,
+      "metadata": {
+        "id": "pubmed:37821868:0",
+        "doc_id": "37821868",
+        "source": "pubmed",
+        "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+        "text": "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02301533:0",
+      "score": 0.40845370292663574,
+      "metadata": {
+        "id": "clinicaltrials:NCT02301533:0",
+        "doc_id": "NCT02301533",
+        "source": "clinicaltrials",
+        "title": "Provider and Peer Support Intervention to Improve ART Adherence Among Kenyan Men Who Have Sex With Men",
+        "study_type": "INTERVENTIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT02301533",
+        "text": "Based on qualitative research conducted in 2013-2014 in coastal Kenya, we have developed an intervention called \"Shikamana\" (a Kiswahili word meaning \"to form a bond or stick together\") to improve HIV treatment engagement, ART adherence, and clinical outcomes in this group."
+      }
+    },
+    {
+      "id": "pubmed:31299976:1",
+      "score": 0.4082289934158325,
+      "metadata": {
+        "id": "pubmed:31299976:1",
+        "doc_id": "31299976",
+        "source": "pubmed",
+        "title": "Targeting remaining pockets of malaria transmission in Kenya to hasten progress towards national elimination goals: an assessment of prevalence and risk factors in children from the Lake endemic region.",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31299976/",
+        "text": "In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country."
+      }
+    },
+    {
+      "id": "pubmed:36332953:1",
+      "score": 0.40750980377197266,
+      "metadata": {
+        "id": "pubmed:36332953:1",
+        "doc_id": "36332953",
+        "source": "pubmed",
+        "title": "MPrEP+ study protocol: a prospective cohort study assessing the feasibility and acceptability of an HIV pre-exposure prophylaxis (PrEP) strategy for male clients of female sex workers in Kisumu, Kenya.",
+        "study_type": "Clinical Trial Protocol, Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36332953/",
+        "text": "This package of interventions is being delivered to 120 MCs enrolled in the study in Kisumu, Kenya over a 6-month period."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3195179063:1",
+      "score": 0.4068903923034668,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3195179063:1",
+        "doc_id": "https://openalex.org/W3195179063",
+        "source": "openalex",
+        "title": "Traditional Medicinal Plants Used For The Treatment Of Cancer In Mubi, Adamawa State, Nigeria",
+        "study_type": "article",
+        "year": "2021",
+        "url": "https://doi.org/10.29350/qjps.2021.26.4.1423",
+        "text": "The study's goal was to find out which plants were used to treat Cancer in Mubi, Northern eastern part of Nigeria."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02338739:0",
+      "score": 0.4060565233230591,
+      "metadata": {
+        "id": "clinicaltrials:NCT02338739:0",
+        "doc_id": "NCT02338739",
+        "source": "clinicaltrials",
+        "title": "An Adaptive Strategy for Preventing and Treating Lapses of Retention in Adult HIV Care (AdaPT-R) in Nyanza, Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT02338739",
+        "text": "the investigators will randomize 1,800 adults newly initiating antiretroviral treatment (ART) at 4 HIV clinics in the Nyanza region of Kenya to (1) standard of care routine education and counselling (REC), (2) SMS text messages, or (3) transport vouchers."
+      }
+    },
+    {
+      "id": "pubmed:37612716:1",
+      "score": 0.40547341108322144,
+      "metadata": {
+        "id": "pubmed:37612716:1",
+        "doc_id": "37612716",
+        "source": "pubmed",
+        "title": "Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.",
+        "study_type": "Conference Proceedings",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37612716/",
+        "text": "The recommendation followed pilot implementation of the vaccine in Ghana, Kenya and Malawi, which showed that introduction of the vaccine was highly effective at scale, and was associated with a 30% reduction in hospital admissions with severe malaria in age groups eligible to have received the vaccine and no evidence of the safety signals that had been observed in the phase 3 trial."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05285670:0",
+      "score": 0.40524739027023315,
+      "metadata": {
+        "id": "clinicaltrials:NCT05285670:0",
+        "doc_id": "NCT05285670",
+        "source": "clinicaltrials",
+        "title": "Mobile Phone Messaging to Improve Reproductive Health for Women Living With HIV in Kenya (Mobile WACh Empower)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05285670",
+        "text": "The investigators will test the combined intervention in a cluster randomized controlled trial among women receiving HIV care at 10 facilities in Kenya (330 per facility)."
+      }
+    },
+    {
+      "id": "pubmed:35560260:0",
+      "score": 0.40430372953414917,
+      "metadata": {
+        "id": "pubmed:35560260:0",
+        "doc_id": "35560260",
+        "source": "pubmed",
+        "title": "Cervical cancer prevention in Africa: A policy analysis.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35560260/",
+        "text": "There is room to improve cervical cancer policy comprehensiveness in Africa, and to bring these policies in line with evidence and expert recommendations."
+      }
+    },
+    {
+      "id": "pubmed:39245314:1",
+      "score": 0.40365755558013916,
+      "metadata": {
+        "id": "pubmed:39245314:1",
+        "doc_id": "39245314",
+        "source": "pubmed",
+        "title": "Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control compared with albendazole and no treatment: An open-label randomized controlled trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39245314/",
+        "text": "We conducted an open-label randomized control trial in Kenya, staggered in blocks with sequential intervention groups and parallel controls."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02350140:1",
+      "score": 0.40337756276130676,
+      "metadata": {
+        "id": "clinicaltrials:NCT02350140:1",
+        "doc_id": "NCT02350140",
+        "source": "clinicaltrials",
+        "title": "Texting to Improve Testing (TextIT):",
+        "study_type": "INTERVENTIONAL",
+        "year": "2018",
+        "url": "https://clinicaltrials.gov/study/NCT02350140",
+        "text": "The investigators therefore now propose a cluster randomized, stepped wedge trial in 20 clinics operated by the Kenyan Ministry of Health in the Nyanza region of Kenya and use the Reach, Effectiveness, Adoption, Implementation, and Maintenance (REAIM) framework to understand the effectiveness of the text messaging to improve testing (TextIT) intervention."
+      }
+    },
+    {
+      "id": "pubmed:40700688:2",
+      "score": 0.4013065695762634,
+      "metadata": {
+        "id": "pubmed:40700688:2",
+        "doc_id": "40700688",
+        "source": "pubmed",
+        "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+        "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+        "text": "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00524446:1",
+      "score": 0.40019330382347107,
+      "metadata": {
+        "id": "clinicaltrials:NCT00524446:1",
+        "doc_id": "NCT00524446",
+        "source": "clinicaltrials",
+        "title": "Controlled Trial to Test the Efficacy of Lipid-based Nutrient Supplements to Prevent Severe Stunting Among Infants",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00524446",
+        "text": "The study will be conducted in Lungwena area, Mangochi District, rural Malawi."
+      }
+    },
+    {
+      "id": "pubmed:35442999:2",
+      "score": 0.4001633822917938,
+      "metadata": {
+        "id": "pubmed:35442999:2",
+        "doc_id": "35442999",
+        "source": "pubmed",
+        "title": "Reduction in malaria burden following the introduction of indoor residual spraying in areas protected by long-lasting insecticidal nets in Western Kenya, 2016-2018.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35442999/",
+        "text": "We reviewed records and tallied monthly aggregate of outpatient department (OPD) attendance, suspected malaria cases, those tested for malaria and those testing positive for malaria at two health facilities, one from Nyatike, an intervention sub-county, and one from Suba, a comparison sub-county, both located in Western Kenya, from February 1, 2016, through March 31, 2018."
+      }
+    },
+    {
+      "id": "pubmed:38648401:1",
+      "score": 0.39965441823005676,
+      "metadata": {
+        "id": "pubmed:38648401:1",
+        "doc_id": "38648401",
+        "source": "pubmed",
+        "title": "Kenya must wake up to the threat of cryptic Anopheles species and their impact on residual malaria transmission.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38648401/",
+        "text": "Malaria remains a major health problem in Kenya despite the huge efforts put in place to control it."
+      }
+    },
+    {
+      "id": "pubmed:35560260:1",
+      "score": 0.39853793382644653,
+      "metadata": {
+        "id": "pubmed:35560260:1",
+        "doc_id": "35560260",
+        "source": "pubmed",
+        "title": "Cervical cancer prevention in Africa: A policy analysis.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35560260/",
+        "text": "We analyzed the presence and content of policies for the primary, secondary and tertiary prevention of cervical cancer in Africa, to identify areas of opportunity for policy strengthening in the region most affected by cervical cancer globally."
+      }
+    },
+    {
+      "id": "pubmed:35213856:0",
+      "score": 0.3978516161441803,
+      "metadata": {
+        "id": "pubmed:35213856:0",
+        "doc_id": "35213856",
+        "source": "pubmed",
+        "title": "Exploring Estimates and Reasons for Lost to Follow-Up Among People Living With HIV on Antiretroviral Therapy in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35213856/",
+        "text": "This retrospective cross-sectional study used an evidence-sampling approach to select health facilities and LTFU patients from a large HIV program supporting 61 health facilities in Kisumu County, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:41666451:0",
+      "score": 0.3975917100906372,
+      "metadata": {
+        "id": "pubmed:41666451:0",
+        "doc_id": "41666451",
+        "source": "pubmed",
+        "title": "A Baseline Mixed-Methods Study to Inform Seasonal Malaria Chemoprevention Delivery in a Semi-Nomadic Population in Turkana, Kenya.",
+        "study_type": "Publication",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666451/",
+        "text": "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024."
+      }
+    },
+    {
+      "id": "pubmed:24552745:0",
+      "score": 0.39651551842689514,
+      "metadata": {
+        "id": "pubmed:24552745:0",
+        "doc_id": "24552745",
+        "source": "pubmed",
+        "title": "Malignancies in South African children with HIV.",
+        "study_type": "Journal Article",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24552745/",
+        "text": "In 2008 the South African Children's Cancer Study Group decided to review the epidemiology, management, and chemotherapy response of HIV-positive children with malignancy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02848235:1",
+      "score": 0.3955470621585846,
+      "metadata": {
+        "id": "clinicaltrials:NCT02848235:1",
+        "doc_id": "NCT02848235",
+        "source": "clinicaltrials",
+        "title": "Kenya Enhanced Mentor Mother ProgrAm (EMMA)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT02848235",
+        "text": "Kenya recently adopted new treatment guidelines for pregnant women with HIV, which calls for all women to initiate triple-drug antiretroviral therapy (ART) at or soon after their first visit for antenatal care."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3214960410:1",
+      "score": 0.39459192752838135,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3214960410:1",
+        "doc_id": "https://openalex.org/W3214960410",
+        "source": "openalex",
+        "title": "The tale of TILs in breast cancer: A report from The International Immuno-Oncology Biomarker Working Group",
+        "study_type": "review",
+        "year": "2021",
+        "url": "https://doi.org/10.1038/s41523-021-00346-1",
+        "text": "The advent of immune-checkpoint inhibitors (ICI) in modern oncology has significantly improved survival in several cancer settings."
+      }
+    },
+    {
+      "id": "pubmed:36352453:0",
+      "score": 0.39408165216445923,
+      "metadata": {
+        "id": "pubmed:36352453:0",
+        "doc_id": "36352453",
+        "source": "pubmed",
+        "title": "A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36352453/",
+        "text": "Overall, Kombewa had a higher risk of infection compared to Iguhu (χ Malaria prevalence in western Kenya remains high and has resurged in some sites despite continuous intervention efforts."
+      }
+    },
+    {
+      "id": "pubmed:40921636:0",
+      "score": 0.39320671558380127,
+      "metadata": {
+        "id": "pubmed:40921636:0",
+        "doc_id": "40921636",
+        "source": "pubmed",
+        "title": "Evaluating the effectiveness of a One-Stop PrEP Care model to enhance HIV prevention: a protocol for a cluster-randomised trial in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Clinical Trial Protocol",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40921636/",
+        "text": "We are conducting a 1:1 cluster-randomised trial to evaluate whether One-Stop PrEP Care achieves equivalent or better PrEP outcomes compared with the standard of care model in 12 high-volume HIV clinics in Kisumu County, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:39146355:0",
+      "score": 0.3919668197631836,
+      "metadata": {
+        "id": "pubmed:39146355:0",
+        "doc_id": "39146355",
+        "source": "pubmed",
+        "title": "Evaluation of person-centered interventions to eliminate perinatal HIV transmission in Kisumu County, Kenya: A repeated cross-sectional study using aggregated registry data.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39146355/",
+        "text": "Between October 2016 and September 2021, Family AIDS Care & Education Services (FACES) supported HIV care and treatment services across 61 facilities in Kisumu County, Kenya with an emphasis on service strengthening for pregnant and postpartum women living with HIV to reduce perinatal HIV transmission."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01435018:2",
+      "score": 0.39131903648376465,
+      "metadata": {
+        "id": "clinicaltrials:NCT01435018:2",
+        "doc_id": "NCT01435018",
+        "source": "clinicaltrials",
+        "title": "Three Chemo Regimens as an Adjunct to ART for Treatment of Advanced AIDS-KS",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT01435018",
+        "text": "For participants who had an initial Independent Endpoint Review Committee (IERC) confirmed KS response and subsequent IERC-confirmed KS progression, and who, in the opinion of the investigator and with concurrence of the protocol Clinical Management Committee (CMC), could potentially have benefitted from another course of the same chemotherapy utilized in Step 1, entered Step 2."
+      }
+    },
+    {
+      "id": "pubmed:33973355:2",
+      "score": 0.39063432812690735,
+      "metadata": {
+        "id": "pubmed:33973355:2",
+        "doc_id": "33973355",
+        "source": "pubmed",
+        "title": "HIV risk and pre-exposure prophylaxis interest among women seeking post-abortion care in Kenya: a cross-sectional study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33973355/",
+        "text": "We conducted a mixed-methods study from August 2019 to February 2020 with women ages 15 to 30 recruited sequentially as they were accessing post-abortion care at public and private facilities in Thika and Kisumu, Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02350140:0",
+      "score": 0.3896394968032837,
+      "metadata": {
+        "id": "clinicaltrials:NCT02350140:0",
+        "doc_id": "NCT02350140",
+        "source": "clinicaltrials",
+        "title": "Texting to Improve Testing (TextIT):",
+        "study_type": "INTERVENTIONAL",
+        "year": "2018",
+        "url": "https://clinicaltrials.gov/study/NCT02350140",
+        "text": "The investigators recently concluded a successful randomized controlled trial in Kenya entitled, \"Improving uptake of early infant diagnosis of HIV for prevention of mother-to-child HIV transmission (PMTCT): a randomized trial of a text messaging intervention\" (ClinicalTrials.gov # NCT01433185)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767191:0",
+      "score": 0.3895284831523895,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767191:0",
+        "doc_id": "NCT04767191",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04767191",
+        "text": "In line with the WHO recommendation, Jhpiego Impact Malaria project in Kenya, with funding and technical oversight from Center for Disease Prevention and Control (CDC) will be supporting the Kenya MOH NMP to conduct a TES to assess the efficacy of the current first and second line treatment policy in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:31272495:0",
+      "score": 0.38951539993286133,
+      "metadata": {
+        "id": "pubmed:31272495:0",
+        "doc_id": "31272495",
+        "source": "pubmed",
+        "title": "HIV-1 self-testing to improve the efficiency of pre-exposure prophylaxis delivery: a randomized trial in Kenya.",
+        "study_type": "Clinical Trial Protocol, Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31272495/",
+        "text": "Here, we describe the rationale and design of a randomized, noninferiority trial designed to test the effectiveness and safety of using HIVST to support PrEP delivery in Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04424524:1",
+      "score": 0.3887425661087036,
+      "metadata": {
+        "id": "clinicaltrials:NCT04424524:1",
+        "doc_id": "NCT04424524",
+        "source": "clinicaltrials",
+        "title": "Streamlining the Efficiency of PrEP Implementation",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04424524",
+        "text": "This is a pilot facility-based direct-to-pharmacy PrEP refill delivery to streamline care pathway in Kenyan public health HIV facilities implementing PrEP."
+      }
+    },
+    {
+      "id": "pubmed:34197509:2",
+      "score": 0.38692766427993774,
+      "metadata": {
+        "id": "pubmed:34197509:2",
+        "doc_id": "34197509",
+        "source": "pubmed",
+        "title": "High HIV prevalence among decedents received by two high-volume mortuaries in Kisumu, western Kenya, 2019.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34197509/",
+        "text": "Despite substantial scale-up of HIV services, HIV disease remains a leading cause of death in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:39160102:1",
+      "score": 0.3863350749015808,
+      "metadata": {
+        "id": "pubmed:39160102:1",
+        "doc_id": "39160102",
+        "source": "pubmed",
+        "title": "Evaluating the gap in rapid diagnostic testing: insights from subnational Kenyan routine health data.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39160102/",
+        "text": "This study used routine data to assess trends in rapid diagnostic test (RDT) reporting, supplies and unmet needs across national and 47 subnational (county) levels in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:35248055:0",
+      "score": 0.38623112440109253,
+      "metadata": {
+        "id": "pubmed:35248055:0",
+        "doc_id": "35248055",
+        "source": "pubmed",
+        "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+        "text": "In Kenya, CCMm involves the use of malaria rapid diagnostic tests (RDT) and treatment of confirmed uncomplicated malaria cases with artemether lumefantrine (AL) by community health volunteers (CHVs)."
+      }
+    },
+    {
+      "id": "pubmed:36407408:0",
+      "score": 0.38606780767440796,
+      "metadata": {
+        "id": "pubmed:36407408:0",
+        "doc_id": "36407408",
+        "source": "pubmed",
+        "title": "Perspectives on HIV Self-Testing Among Key and Affected Populations in Kenya.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36407408/",
+        "text": "Kenya's Key and Affected Populations (KAP) - men who have sex with men (MSM), female sex workers, people who inject drugs (PWID), and young women aged 18-24 - often experience stigma and discrimination in Kenyan health care settings due to their identity and/or behaviors, which can deter facility-based testing for HIV."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2487690776:0",
+      "score": 0.3858395218849182,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2487690776:0",
+        "doc_id": "https://openalex.org/W2487690776",
+        "source": "openalex",
+        "title": "Drug-susceptibility and molecular characterization of epidemic and endemic malaria in Kenya",
+        "study_type": "dissertation",
+        "year": "2002",
+        "url": "https://doi.org/10.17037/PUBS.04656622>",
+        "text": "Malaria in Kenya continues to pose a great threat to health."
+      }
+    },
+    {
+      "id": "pubmed:17321310:0",
+      "score": 0.3856898546218872,
+      "metadata": {
+        "id": "pubmed:17321310:0",
+        "doc_id": "17321310",
+        "source": "pubmed",
+        "title": "Male circumcision for HIV prevention in young men in Kisumu, Kenya: a randomised controlled trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17321310/",
+        "text": "We did a randomised controlled trial of 2784 men aged 18-24 years in Kisumu, Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02733003:2",
+      "score": 0.38552147150039673,
+      "metadata": {
+        "id": "clinicaltrials:NCT02733003:2",
+        "doc_id": "NCT02733003",
+        "source": "clinicaltrials",
+        "title": "Implementation Research for Vulnerable Women in South Africa",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02733003",
+        "text": "A list of four substance use treatment clinics and four healthcare clinics, identified and approved by the City of Cape Town, South Africa were randomized to begin the intervention during one of the four cycles."
+      }
+    },
+    {
+      "id": "pubmed:15984377:0",
+      "score": 0.3854030966758728,
+      "metadata": {
+        "id": "pubmed:15984377:0",
+        "doc_id": "15984377",
+        "source": "pubmed",
+        "title": "Malaria in travelers returning from short organized tours to holiday resorts in Mombassa, Kenya.",
+        "study_type": "Case Reports, Journal Article",
+        "year": "2005",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15984377/",
+        "text": "All persons who acquired malaria in Kenya during the years 1999-2001 were contacted by phone and questioned about use of chemoprophylaxis, attitudes towards malaria prevention, and disease course."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767217:1",
+      "score": 0.38526925444602966,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767217:1",
+        "doc_id": "NCT04767217",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study, Rwanda",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04767217",
+        "text": "This study will monitor the efficacy of ALN (which has been used in Rwanda for the last 14 years) and dihydroartemisinin-piperaquine (DHA-PPQ), another WHO-approved ACT for the treatment of uncomplicated malaria which has not been used in Rwanda."
+      }
+    },
+    {
+      "id": "pubmed:36111533:0",
+      "score": 0.38506102561950684,
+      "metadata": {
+        "id": "pubmed:36111533:0",
+        "doc_id": "36111533",
+        "source": "pubmed",
+        "title": "Modelling the impact of HIV and hepatitis C virus prevention and treatment interventions among people who inject drugs in Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36111533/",
+        "text": "People who inject drugs (PWID) in Kenya have high HIV (range across settings: 14-26%) and hepatitis C virus (HCV; 11-36%) prevalence."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W1644105311:0",
+      "score": 0.38470155000686646,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W1644105311:0",
+        "doc_id": "https://openalex.org/W1644105311",
+        "source": "openalex",
+        "title": "A Survey of Traditional Health Remedies Used by the Maasai of Southern Kaijiado District, Kenya",
+        "study_type": "article",
+        "year": "2006",
+        "url": "https://doi.org/10.17348/era.4.0.61-74",
+        "text": "This study investigated the use of traditional health remediesamong the Maasai of Kuku Group Ranch of SouthernKajiado District, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:36352453:2",
+      "score": 0.3843580186367035,
+      "metadata": {
+        "id": "pubmed:36352453:2",
+        "doc_id": "36352453",
+        "source": "pubmed",
+        "title": "A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36352453/",
+        "text": "Malaria in western Kenya is currently characterized by sustained high Plasmodial transmission and infection resurgence, despite positive responses in some areas following intensified malaria control interventions since 2006."
+      }
+    },
+    {
+      "id": "pubmed:20573224:1",
+      "score": 0.38407260179519653,
+      "metadata": {
+        "id": "pubmed:20573224:1",
+        "doc_id": "20573224",
+        "source": "pubmed",
+        "title": "High rate of pneumococcal bacteremia in a prospective cohort of older children and adults in an area of high HIV prevalence in rural western Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20573224/",
+        "text": "Ongoing surveillance will document if expanded use of highly-active antiretroviral treatment for HIV and introduction of PCV10 for Kenyan children (anticipated in late 2010) result in substantial secondary benefits by reducing pneumococcal disease in adults."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4399363585:0",
+      "score": 0.38365691900253296,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4399363585:0",
+        "doc_id": "https://openalex.org/W4399363585",
+        "source": "openalex",
+        "title": "The impacts of task shifting on the management and treatment of malnourished children in Northern Kenya: a cluster-randomized controlled trial",
+        "study_type": "article",
+        "year": "2024",
+        "url": "https://doi.org/10.1093/heapol/czae036",
+        "text": "This study aimed to assess the effectiveness of integrating the treatment of acute malnutrition by community health volunteers into integrated community case management in two sub-counties in northern Kenya (Loima and Isiolo)."
+      }
+    },
+    {
+      "id": "pubmed:41194376:1",
+      "score": 0.3835751414299011,
+      "metadata": {
+        "id": "pubmed:41194376:1",
+        "doc_id": "41194376",
+        "source": "pubmed",
+        "title": "Experiences around testing and linkage to HIV care among gay, bisexual and other men who have sex with men: qualitative findings from the patient-centered care project in the lake Victoria region of Kenya.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41194376/",
+        "text": "This study aimed to inform the development of context-specific interventions to improve GBMSM's initiation in HIV care in Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3195179063:2",
+      "score": 0.38356760144233704,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3195179063:2",
+        "doc_id": "https://openalex.org/W3195179063",
+        "source": "openalex",
+        "title": "Traditional Medicinal Plants Used For The Treatment Of Cancer In Mubi, Adamawa State, Nigeria",
+        "study_type": "article",
+        "year": "2021",
+        "url": "https://doi.org/10.29350/qjps.2021.26.4.1423",
+        "text": "Nigeria accounted for roughly 20% of Africa's population and slightly more than half of West Africa's projected 681,000 new cancer cases in 2008, accounting for roughly 20% of the continent's population and slightly more than half of West Africa's."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2906894234:0",
+      "score": 0.3835655748844147,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2906894234:0",
+        "doc_id": "https://openalex.org/W2906894234",
+        "source": "openalex",
+        "title": "Assessment of Inequalities in Coverage of Essential Reproductive, Maternal, Newborn, Child, and Adolescent Health Interventions in Kenya",
+        "study_type": "article",
+        "year": "2018",
+        "url": "https://doi.org/10.1001/jamanetworkopen.2018.5152",
+        "text": "Coverage of RMNCAH interventions has improved over time, but wealth and geospatial inequalities in Kenya are persistent."
+      }
+    },
+    {
+      "id": "pubmed:36890544:0",
+      "score": 0.38338571786880493,
+      "metadata": {
+        "id": "pubmed:36890544:0",
+        "doc_id": "36890544",
+        "source": "pubmed",
+        "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+        "text": "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:38166089:1",
+      "score": 0.3832089900970459,
+      "metadata": {
+        "id": "pubmed:38166089:1",
+        "doc_id": "38166089",
+        "source": "pubmed",
+        "title": "HIV prevalence and awareness among adults presenting for enrolment into a study of people at risk for HIV in Kisumu County, Western Kenya.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38166089/",
+        "text": "Despite declines in new HIV diagnoses both globally and in Kenya, parts of Western Kenya still report high HIV prevalence and incidence."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03474822:0",
+      "score": 0.38241520524024963,
+      "metadata": {
+        "id": "clinicaltrials:NCT03474822:0",
+        "doc_id": "NCT03474822",
+        "source": "clinicaltrials",
+        "title": "Plasmodium Immunotherapy for Breast and Liver Cancers",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT03474822",
+        "text": "The purpose of this study is to evaluate the safety and preliminarily evaluate the effectiveness of Plasmodium immunotherapy for advanced breast cancers and advanced liver cancers.The treatment will last 4-6 weeks from the day of successful infection and will be terminated by antimalarial drugs."
+      }
+    },
+    {
+      "id": "pubmed:25614522:2",
+      "score": 0.38160455226898193,
+      "metadata": {
+        "id": "pubmed:25614522:2",
+        "doc_id": "25614522",
+        "source": "pubmed",
+        "title": "Genital infections and syndromic diagnosis among HIV-infected women in HIV care programmes in Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25614522/",
+        "text": "A mobile team visited 39 large HIV care programmes in Kenya and enrolled participants using population-proportionate sampling."
+      }
+    },
+    {
+      "id": "pubmed:30167032:2",
+      "score": 0.38118553161621094,
+      "metadata": {
+        "id": "pubmed:30167032:2",
+        "doc_id": "30167032",
+        "source": "pubmed",
+        "title": "Male partner involvement in efforts to eliminate mother-to-child transmission of HIV in Kisumu County, Western Kenya, 2015.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30167032/",
+        "text": "we conducted a cross-sectional study among women aged ≥ 18 years who had children aged ≤ 12 months and were attending a child health clinic for immunization services in one of four Western Kenya health centers between February and April, 2015."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3153636042:0",
+      "score": 0.38098815083503723,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3153636042:0",
+        "doc_id": "https://openalex.org/W3153636042",
+        "source": "openalex",
+        "title": "Cancer in Africa: The Untold Story",
+        "study_type": "article",
+        "year": "2021",
+        "url": "https://doi.org/10.3389/fonc.2021.650117",
+        "text": "Opportunities exist for vaccination programs for cervical and liver cancer, genetic testing and use of new targeted therapies for breast and prostate cancer, and positive changes in lifestyle for lung, colorectal and bladder cancers."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2906894234:1",
+      "score": 0.3809609115123749,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2906894234:1",
+        "doc_id": "https://openalex.org/W2906894234",
+        "source": "openalex",
+        "title": "Assessment of Inequalities in Coverage of Essential Reproductive, Maternal, Newborn, Child, and Adolescent Health Interventions in Kenya",
+        "study_type": "article",
+        "year": "2018",
+        "url": "https://doi.org/10.1001/jamanetworkopen.2018.5152",
+        "text": "Scaling up of health services for the urban and, in particular, rural poor areas and those residing in Kenya's former north eastern province will contribute toward achievement of universal health coverage."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2770978914:0",
+      "score": 0.37973880767822266,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2770978914:0",
+        "doc_id": "https://openalex.org/W2770978914",
+        "source": "openalex",
+        "title": "Reduction of HIV-associated excess mortality by antiretroviral treatment among tuberculosis patients in Kenya",
+        "study_type": "article",
+        "year": "2017",
+        "url": "https://doi.org/10.1371/journal.pone.0188235",
+        "text": "HIV was a significant contributor to TB-associated deaths in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:33857195:2",
+      "score": 0.37962931394577026,
+      "metadata": {
+        "id": "pubmed:33857195:2",
+        "doc_id": "33857195",
+        "source": "pubmed",
+        "title": "Cost of pre-exposure prophylaxis delivery in family planning clinics to prevent HIV acquisition among adolescent girls and young women in Kisumu, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33857195/",
+        "text": "We estimated all costs as implemented in the study, and under implementation by the Kenyan Ministry of Health (MoH), both at the program volume observed and if the facilities were delivering PrEP at full capacity (scaled-MoH)."
+      }
+    },
+    {
+      "id": "pubmed:25861945:1",
+      "score": 0.3795080780982971,
+      "metadata": {
+        "id": "pubmed:25861945:1",
+        "doc_id": "25861945",
+        "source": "pubmed",
+        "title": "Evidence of injection drug use in Kisumu, Kenya: Implications for HIV prevention.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25861945/",
+        "text": "This paper provides the first descriptive analysis of injection drug use in western Kenya, where HIV prevalence is already highest in the nation at 15.1%."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04158713:2",
+      "score": 0.37921032309532166,
+      "metadata": {
+        "id": "clinicaltrials:NCT04158713:2",
+        "doc_id": "NCT04158713",
+        "source": "clinicaltrials",
+        "title": "Improving PRegnancy Outcomes With PReVEntive Therapy in Africa-2 (IMPROVE-2)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04158713",
+        "text": "Overview Study Design: This multi-centre trial will be conducted in antenatal clinics in 8 hospitals in Kenya and Malawi located in areas with high prevalence of HIV and malaria and with high anti-folate resistance of the malaria parasite."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00914225:0",
+      "score": 0.3785884976387024,
+      "metadata": {
+        "id": "clinicaltrials:NCT00914225:0",
+        "doc_id": "NCT00914225",
+        "source": "clinicaltrials",
+        "title": "Effect of Bednets and a Water Purification Device on HIV Disease Progression Among ART naïve Patients in Kenya",
+        "study_type": "OBSERVATIONAL",
+        "year": "2015",
+        "url": "https://clinicaltrials.gov/study/NCT00914225",
+        "text": "Randomized clinical trials in HIV infected children and adults demonstrate marked survival benefits with use of TMP/SMX and cotrimoxazole prophylaxis is recommended for people with HIV in the Kenya Ministry of Health guidelines\\[5\\]."
+      }
+    },
+    {
+      "id": "pubmed:36516078:0",
+      "score": 0.37781018018722534,
+      "metadata": {
+        "id": "pubmed:36516078:0",
+        "doc_id": "36516078",
+        "source": "pubmed",
+        "title": "Randomized Trial of Vaccines for Zaire Ebola Virus Disease.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36516078/",
+        "text": "(Funded by the National Institutes of Health and others; PREVAC ClinicalTrials.gov number, NCT02876328; EudraCT numbers, 2017-001798-18 and 2017-001798-18/3rd; and Pan African Clinical Trials Registry number, PACTR201712002760250.)."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4281662335:2",
+      "score": 0.3770023286342621,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4281662335:2",
+        "doc_id": "https://openalex.org/W4281662335",
+        "source": "openalex",
+        "title": "Management Practice and Drug Related Problems and Its Contributing Factors Among Cervical Cancer Patients at Oncologic Center in Ethiopia: A Hospital-Based Retrospective Study",
+        "study_type": "article",
+        "year": "2022",
+        "url": "https://doi.org/10.2147/tcrm.s364923",
+        "text": "Cisplatin-based chemotherapy was the frequently used therapeutic option."
+      }
+    },
+    {
+      "id": "pubmed:35007291:0",
+      "score": 0.3768311142921448,
+      "metadata": {
+        "id": "pubmed:35007291:0",
+        "doc_id": "35007291",
+        "source": "pubmed",
+        "title": "Prevalence and factors associated with hypertension among adults with and without HIV in Western Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35007291/",
+        "text": "Understanding the magnitude of the problem and risk factors associated with HIV and long-term antiretroviral therapy (ART) is critically important for designing effective programs for diagnosing and treating hypertension in Kenya."
+      }
+    },
+    {
+      "id": "pubmed:35777410:2",
+      "score": 0.3760363459587097,
+      "metadata": {
+        "id": "pubmed:35777410:2",
+        "doc_id": "35777410",
+        "source": "pubmed",
+        "title": "Efficiency of 6-month PrEP dispensing with HIV self-testing in Kenya: an open-label, randomised, non-inferiority, implementation trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Equivalence Trial",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35777410/",
+        "text": "This was a randomised, open-label, non-inferiority trial done at the Partners in Health and Research Development clinic in Thika, Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767191:1",
+      "score": 0.3756774961948395,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767191:1",
+        "doc_id": "NCT04767191",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04767191",
+        "text": "Jhpiego's Impact Malaria project in Kenya, with funding and technical oversight from US President's Malaria Initiative (PMI) through USAID and CDC, will support the Kenya MOH in its effort to evaluate the efficacy of AL and DHP in the treatment of children with uncomplicated malaria."
+      }
+    },
+    {
+      "id": "pubmed:22984118:0",
+      "score": 0.37393441796302795,
+      "metadata": {
+        "id": "pubmed:22984118:0",
+        "doc_id": "22984118",
+        "source": "pubmed",
+        "title": "Influenza and malaria coinfection among young children in western Kenya, 2009-2011.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22984118/",
+        "text": "This retrospective, cross-sectional study in rural western Kenya examined outpatient visits and hospitalizations associated with febrile acute respiratory illness (ARI) during a 2-year period (July 2009-June 2011) in children <5 years old."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04982250:1",
+      "score": 0.3731914162635803,
+      "metadata": {
+        "id": "clinicaltrials:NCT04982250:1",
+        "doc_id": "NCT04982250",
+        "source": "clinicaltrials",
+        "title": "Peer PrEP Referral + HIV Self-test Delivery for PrEP Initiation in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04982250",
+        "text": "In Kenya, one of the target groups for HIV incidence reduction is young women (16-24 years), who account for 33% of the total of new HIV infections yet comprise only 10% of the population."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04408729:1",
+      "score": 0.3729519844055176,
+      "metadata": {
+        "id": "clinicaltrials:NCT04408729:1",
+        "doc_id": "NCT04408729",
+        "source": "clinicaltrials",
+        "title": "PrEP My Way: A Novel PrEP Delivery System to Meet the Needs of Young African Women",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04408729",
+        "text": "The study team will randomize 100 Kenyan women to PrEP My Way versus standard of care (i.e., clinic-based delivery of PrEP and sexual health services) and follow them for 6 months."
+      }
+    },
+    {
+      "id": "pubmed:31996166:1",
+      "score": 0.372409462928772,
+      "metadata": {
+        "id": "pubmed:31996166:1",
+        "doc_id": "31996166",
+        "source": "pubmed",
+        "title": "Cognitive testing of the PHQ-9 for depression screening among pregnant and postpartum women in Kenya.",
+        "study_type": "Clinical Trial, Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31996166/",
+        "text": "We administered the Kiswahili or English PHQ-9 (based on preference) to 29 pregnant and postpartum women in Thika, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:25861945:0",
+      "score": 0.3722744584083557,
+      "metadata": {
+        "id": "pubmed:25861945:0",
+        "doc_id": "25861945",
+        "source": "pubmed",
+        "title": "Evidence of injection drug use in Kisumu, Kenya: Implications for HIV prevention.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25861945/",
+        "text": "We draw on quantitative data from a study of injection drug use in Kisumu, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:25089554:1",
+      "score": 0.3704063892364502,
+      "metadata": {
+        "id": "pubmed:25089554:1",
+        "doc_id": "25089554",
+        "source": "pubmed",
+        "title": "Men who have sex with men in Kisumu, Kenya: comfort in accessing health services and willingness to participate in HIV prevention studies.",
+        "study_type": "Journal Article",
+        "year": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25089554/",
+        "text": "Continued community engagement with the MSM population in Kenya is needed to guide best practices for involving them in HIV prevention research."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01020552:0",
+      "score": 0.37025687098503113,
+      "metadata": {
+        "id": "clinicaltrials:NCT01020552:0",
+        "doc_id": "NCT01020552",
+        "source": "clinicaltrials",
+        "title": "Integrating Family Planning Into Postabortion Care",
+        "study_type": "OBSERVATIONAL",
+        "year": "2010",
+        "url": "https://clinicaltrials.gov/study/NCT01020552",
+        "text": "A descriptive post-intervention study designed to provide data to decision-makers at the Kenyan Ministry of Health, the Extending Service Delivery Project (ESD), and Pathfinder International about whether and how to scale-up the ESD Project's postabortion care (PAC) services package."
+      }
+    },
+    {
+      "id": "pubmed:31801562:1",
+      "score": 0.37014079093933105,
+      "metadata": {
+        "id": "pubmed:31801562:1",
+        "doc_id": "31801562",
+        "source": "pubmed",
+        "title": "Gametocyte clearance in children, from western Kenya, with uncomplicated Plasmodium falciparum malaria after artemether-lumefantrine or dihydroartemisinin-piperaquine treatment.",
+        "study_type": "Journal Article",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31801562/",
+        "text": "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3086699080:0",
+      "score": 0.36967459321022034,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3086699080:0",
+        "doc_id": "https://openalex.org/W3086699080",
+        "source": "openalex",
+        "title": "Spatial access inequities and childhood immunisation uptake in Kenya",
+        "study_type": "article",
+        "year": "2020",
+        "url": "https://doi.org/10.1186/s12889-020-09486-8",
+        "text": "Strategies that address access barriers in the hardest to reach communities are needed to enhance equitable access to immunisation services in Kenya."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03052010:2",
+      "score": 0.3681892454624176,
+      "metadata": {
+        "id": "clinicaltrials:NCT03052010:2",
+        "doc_id": "NCT03052010",
+        "source": "clinicaltrials",
+        "title": "The Partners Scale-Up Project",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT03052010",
+        "text": "An implementation project to scale-up delivery of antiretroviral-based HIV-1 prevention methods to Kenyan HIV-1 serodiscordant couples in HIV-1 care centers."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4388706464:0",
+      "score": 0.36781173944473267,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4388706464:0",
+        "doc_id": "https://openalex.org/W4388706464",
+        "source": "openalex",
+        "title": "Detection of <i>Anopheles stephensi</i> Mosquitoes by Molecular Surveillance, Kenya",
+        "study_type": "article",
+        "year": "2023",
+        "url": "https://doi.org/10.3201/eid2912.230637",
+        "text": "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      }
+    },
+    {
+      "id": "pubmed:37966106:0",
+      "score": 0.36781173944473267,
+      "metadata": {
+        "id": "pubmed:37966106:0",
+        "doc_id": "37966106",
+        "source": "pubmed",
+        "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.",
+        "study_type": "Publication",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37966106/",
+        "text": "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      }
+    },
+    {
+      "id": "pubmed:33813954:0",
+      "score": 0.3667307496070862,
+      "metadata": {
+        "id": "pubmed:33813954:0",
+        "doc_id": "33813954",
+        "source": "pubmed",
+        "title": "Improvements in pediatric and adolescent HIV testing and identification in western Kenya under the Accelerating Children's HIV/AIDS Treatment initiative.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33813954/",
+        "text": "Family AIDS Care & Education Services implemented ACT across 130 health facilities in western Kenya between October 2015 and September 2016, providing: HIV-testing counselors and space; training on the Family Information Table (FIT) and chart audits; community outreach testing; and text message reminders for pregnant women."
+      }
+    },
+    {
+      "id": "pubmed:33176785:1",
+      "score": 0.36646032333374023,
+      "metadata": {
+        "id": "pubmed:33176785:1",
+        "doc_id": "33176785",
+        "source": "pubmed",
+        "title": "Design of a care pathway for pharmacy-based PrEP delivery in Kenya: results from a collaborative stakeholder consultation.",
+        "study_type": "Journal Article",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33176785/",
+        "text": "Potential solutions identified included having pharmacy providers complete the Kenya Ministry of Health-approved PrEP training, use of a PrEP prescribing checklist with remote clinician oversight and provider-assisted HIV self-testing, and having the government provide PrEP and HIV self-testing kits to pharmacies during a pilot test."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05882916:1",
+      "score": 0.3660924732685089,
+      "metadata": {
+        "id": "clinicaltrials:NCT05882916:1",
+        "doc_id": "NCT05882916",
+        "source": "clinicaltrials",
+        "title": "Reaching the Last 20% (the Pamoja Kwa Afya Study)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05882916",
+        "text": "The proposed project will take place in the region of Kenya with the highest HIV prevalence and seeks to promote engagement in HIV testing, prevention, and care by MPS."
+      }
+    },
+    {
+      "id": "pubmed:38716295:0",
+      "score": 0.36592739820480347,
+      "metadata": {
+        "id": "pubmed:38716295:0",
+        "doc_id": "38716295",
+        "source": "pubmed",
+        "title": "Attitudes Toward Menstrual Suppression Among Cyclic and Continuous Contraceptive Vaginal Ring Users in Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38716295/",
+        "text": "We analyzed data derived from a subset of cohort study participants (n=45) in Thika, Kenya between January 2016- December 2018."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2550042376:2",
+      "score": 0.36586564779281616,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2550042376:2",
+        "doc_id": "https://openalex.org/W2550042376",
+        "source": "openalex",
+        "title": "Changing Patterns of lung, liver, and head and neck non-AIDS-defining cancers relative to HIV status in Tanzania between 2002-2014",
+        "study_type": "article",
+        "year": "2016",
+        "url": "https://doi.org/10.1186/s13027-016-0106-5",
+        "text": "The slight decrease in proportion of HIV-positive NADC patients during 2010-2014 may suggest increasing patient longevity and more effective HIV management in Tanzania."
+      }
+    },
+    {
+      "id": "pubmed:36084050:2",
+      "score": 0.36559075117111206,
+      "metadata": {
+        "id": "pubmed:36084050:2",
+        "doc_id": "36084050",
+        "source": "pubmed",
+        "title": "Adoption of HIV pre-exposure prophylaxis among women at high risk of HIV infection in Kenya.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36084050/",
+        "text": "In 2017, Kenya became one of the first African countries to provide pre-exposure prophylaxis (PrEP) in its national HIV prevention plan."
+      }
+    },
+    {
+      "id": "pubmed:38537051:0",
+      "score": 0.36531680822372437,
+      "metadata": {
+        "id": "pubmed:38537051:0",
+        "doc_id": "38537051",
+        "source": "pubmed",
+        "title": "Forecasting the effect of HIV-targeted interventions on the age distribution of people with HIV in Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38537051/",
+        "text": "PWH in Kenya are forecasted to age over the next 15 years; improvements to the HIV care continuum are expected to contribute to the growing proportion of older PWH."
+      }
+    },
+    {
+      "id": "pubmed:17565676:0",
+      "score": 0.36489903926849365,
+      "metadata": {
+        "id": "pubmed:17565676:0",
+        "doc_id": "17565676",
+        "source": "pubmed",
+        "title": "Establishing a malaria diagnostics centre of excellence in Kisumu, Kenya.",
+        "study_type": "Evaluation Study, Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17565676/",
+        "text": "This fact led to the establishment of a Malaria Diagnostics Centre of Excellence in Kisumu, Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W4389308162:0",
+      "score": 0.3641458749771118,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W4389308162:0",
+        "doc_id": "https://openalex.org/W4389308162",
+        "source": "openalex",
+        "title": "Evolving Horizons: Adenovirus Vectors’ Timeless Influence on Cancer, Gene Therapy and Vaccines",
+        "study_type": "article",
+        "year": "2023",
+        "url": "https://doi.org/10.3390/v15122378",
+        "text": "A significant emphasis is placed on their crucial role in advancing cancer therapy and the latest breakthroughs in vaccine clinical trials for various diseases."
+      }
+    },
+    {
+      "id": "pubmed:33106850:0",
+      "score": 0.3638937473297119,
+      "metadata": {
+        "id": "pubmed:33106850:0",
+        "doc_id": "33106850",
+        "source": "pubmed",
+        "title": "Comparative Effectiveness of Interventions to Improve the HIV Continuum of Care and HIV Preexposure Prophylaxis in Kenya: A Model-Based Analysis.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33106850/",
+        "text": "In Western Kenya up to one-quarter of the adult population was human immunodeficiency virus (HIV)-infected in 2012."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3015545078:1",
+      "score": 0.3633335828781128,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3015545078:1",
+        "doc_id": "https://openalex.org/W3015545078",
+        "source": "openalex",
+        "title": "The Impact of Infectious Diseases on Kenya’s Health Diplomacy; An Inter-State Phenomenon",
+        "study_type": "article",
+        "year": "2020",
+        "url": "https://doi.org/10.14738/abr.82.7807",
+        "text": "The study concluded that controlling emerging and reemerging infectious diseases require extreme actions and coordination between many national and international actors which Kenya and her international network of states must do through diplomacy."
+      }
+    },
+    {
+      "id": "pubmed:25861945:2",
+      "score": 0.3632315993309021,
+      "metadata": {
+        "id": "pubmed:25861945:2",
+        "doc_id": "25861945",
+        "source": "pubmed",
+        "title": "Evidence of injection drug use in Kisumu, Kenya: Implications for HIV prevention.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25861945/",
+        "text": "This exploratory study identified patterns of unsafe drug injection and concurrent sexual risk in western Kenya, yet few resources are currently available to address addiction or injection-related harm."
+      }
+    },
+    {
+      "id": "pubmed:35248055:2",
+      "score": 0.363137811422348,
+      "metadata": {
+        "id": "pubmed:35248055:2",
+        "doc_id": "35248055",
+        "source": "pubmed",
+        "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+        "study_type": "Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+        "text": "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W3015545078:0",
+      "score": 0.3630460500717163,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W3015545078:0",
+        "doc_id": "https://openalex.org/W3015545078",
+        "source": "openalex",
+        "title": "The Impact of Infectious Diseases on Kenya’s Health Diplomacy; An Inter-State Phenomenon",
+        "study_type": "article",
+        "year": "2020",
+        "url": "https://doi.org/10.14738/abr.82.7807",
+        "text": "The impact of infectious diseases on Kenya’s health diplomacy calls for need to enhance public health partnerships to tackle such issues of international concern to effectively handle such diplomacy matters and timely."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02928900:1",
+      "score": 0.3626537322998047,
+      "metadata": {
+        "id": "clinicaltrials:NCT02928900:1",
+        "doc_id": "NCT02928900",
+        "source": "clinicaltrials",
+        "title": "Patient Actor Training to Improve HIV Services for Adolescents in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT02928900",
+        "text": "The goal of this study is to develop and evaluate a clinical training intervention utilizing standardized patient actors to improve communication and interpersonal skills of health care workers who serve HIV-infected adolescents and youth in Kenya, resulting in increased engagement in HIV care."
+      }
+    },
+    {
+      "id": "pubmed:38857015:1",
+      "score": 0.3624906837940216,
+      "metadata": {
+        "id": "pubmed:38857015:1",
+        "doc_id": "38857015",
+        "source": "pubmed",
+        "title": "Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38857015/",
+        "text": "This randomized clinical trial was conducted at inpatient pediatric services of 1 tertiary care and 1 district hospital in Zambia and a tertiary care center in Malawi."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02928900:2",
+      "score": 0.3621255159378052,
+      "metadata": {
+        "id": "clinicaltrials:NCT02928900:2",
+        "doc_id": "NCT02928900",
+        "source": "clinicaltrials",
+        "title": "Patient Actor Training to Improve HIV Services for Adolescents in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT02928900",
+        "text": "To evaluate the intervention, a cluster randomized controlled stepped-wedge trial will be conducted in 24 HIV care and treatment facilities to assess the impact of SP encounters on the proportion of adolescents and youth patients retained in care at HIV treatment facilities in Kenya (Aim 2)."
+      }
+    },
+    {
+      "id": "pubmed:38976993:1",
+      "score": 0.3613976240158081,
+      "metadata": {
+        "id": "pubmed:38976993:1",
+        "doc_id": "38976993",
+        "source": "pubmed",
+        "title": "Impact of a point-of-care urine tenofovir assay on adherence to HIV pre-exposure prophylaxis among women in Kenya: a randomised pilot trial.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38976993/",
+        "text": "This randomised trial enrolled women not in serodiscordant partnerships 3 months after PrEP initiation at the Kenya Medical Research Institute to compare standard-of-care adherence counselling versus counselling informed by the urine assay (urine-test counselling group) every 3 months for 12 months."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01711411:1",
+      "score": 0.3609653115272522,
+      "metadata": {
+        "id": "clinicaltrials:NCT01711411:1",
+        "doc_id": "NCT01711411",
+        "source": "clinicaltrials",
+        "title": "Observational Study of Male Circumcision Using PrePex Device",
+        "study_type": "OBSERVATIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT01711411",
+        "text": "Following Kenyan support of one of the key research studies demonstrating the preventive effectiveness of MC, the Kenyan Ministry of Health (MOH) began a national voluntary medical male circumcision (VMMC) program in 2008, based on a National Guidance document."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04767217:2",
+      "score": 0.36012765765190125,
+      "metadata": {
+        "id": "clinicaltrials:NCT04767217:2",
+        "doc_id": "NCT04767217",
+        "source": "clinicaltrials",
+        "title": "Malaria Therapeutic Efficacy Study, Rwanda",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT04767217",
+        "text": "In line with this WHO recommendation, Rwanda Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether-lumefantrine (ALN), which has been used in Rwanda for the last 14 years) and dihydroartemisinin-piperaquine (DHA-PPQ), another WHO-approved drug for the treatment of uncomplicated malaria which, though, has not been used in Rwanda, is being considered for adoption as a second line or alternative first line treatment."
+      }
+    },
+    {
+      "id": "pubmed:37433031:0",
+      "score": 0.3598615527153015,
+      "metadata": {
+        "id": "pubmed:37433031:0",
+        "doc_id": "37433031",
+        "source": "pubmed",
+        "title": "Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37433031/",
+        "text": "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled."
+      }
+    },
+    {
+      "id": "pubmed:34732683:2",
+      "score": 0.3598206043243408,
+      "metadata": {
+        "id": "pubmed:34732683:2",
+        "doc_id": "34732683",
+        "source": "pubmed",
+        "title": "Evaluation of the Performance of OraQuick Rapid HIV-1/2 Test Among Decedents in Kisumu, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34732683/",
+        "text": "HIV/AIDS accounted for the third most frequent cause of deaths in Kenya; 39.7 deaths per 100,000 population in 2019."
+      }
+    },
+    {
+      "id": "pubmed:36912204:0",
+      "score": 0.35917818546295166,
+      "metadata": {
+        "id": "pubmed:36912204:0",
+        "doc_id": "36912204",
+        "source": "pubmed",
+        "title": "Uptake and continuation of HIV pre-exposure prophylaxis among women of reproductive age in two health facilities in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36912204/",
+        "text": "In 2020, Kenya had 19,000 new HIV infections among women aged 15+ years."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04778813:0",
+      "score": 0.35905149579048157,
+      "metadata": {
+        "id": "clinicaltrials:NCT04778813:0",
+        "doc_id": "NCT04778813",
+        "source": "clinicaltrials",
+        "title": "Evaluation of Three Artemisinin-based Combinations for the Treatment of Uncomplicated Malaria in Childreen in Burkina Faso (CHIMIO2)",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT04778813",
+        "text": "Bakground In Burkina Faso, since the adoption of this new malaria treatment policy in 2005, several studies evaluating the efficacy and tolerance of ACTs have been carried out by different research teams at different sites according to an irregular chronology and according to different methods."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05842161:2",
+      "score": 0.35823965072631836,
+      "metadata": {
+        "id": "clinicaltrials:NCT05842161:2",
+        "doc_id": "NCT05842161",
+        "source": "clinicaltrials",
+        "title": "South Africa Smoking Cessation and Engagement in HIV/TB Care Care",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05842161",
+        "text": "One of the greatest public health challenges facing South Africa (SA) is tobacco use, which fuels the overlapping epidemics of HIV and pulmonary tuberculosis (TB)."
+      }
+    },
+    {
+      "id": "pubmed:37424519:2",
+      "score": 0.35766977071762085,
+      "metadata": {
+        "id": "pubmed:37424519:2",
+        "doc_id": "37424519",
+        "source": "pubmed",
+        "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+        "text": "Malaria continues to be a public health problem in Kenya, with an estimated 37.2 million people at high risk of the disease."
+      }
+    },
+    {
+      "id": "pubmed:36912204:1",
+      "score": 0.3576251268386841,
+      "metadata": {
+        "id": "pubmed:36912204:1",
+        "doc_id": "36912204",
+        "source": "pubmed",
+        "title": "Uptake and continuation of HIV pre-exposure prophylaxis among women of reproductive age in two health facilities in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36912204/",
+        "text": "A retrospective cohort of 262 women aged 15-49 years, initiated into oral PrEP between 12 November 2019 and 31 March 2021, was identified from two health facilities in the urban setting of Kisumu County, Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2605137094:0",
+      "score": 0.3574162721633911,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2605137094:0",
+        "doc_id": "https://openalex.org/W2605137094",
+        "source": "openalex",
+        "title": "Exposure Factors Associated with Visceral Leishmaniasis (kala-azar) in Loima Sub-County of Turkana County, Kenya",
+        "study_type": "article",
+        "year": "2017",
+        "url": "https://doi.org/10.11648/j.ajlm.20170206.16",
+        "text": "Objective: To assess the exposure factors associated with kala-azar in Loima sub-county of Turkana County, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:36912204:2",
+      "score": 0.35682204365730286,
+      "metadata": {
+        "id": "pubmed:36912204:2",
+        "doc_id": "36912204",
+        "source": "pubmed",
+        "title": "Uptake and continuation of HIV pre-exposure prophylaxis among women of reproductive age in two health facilities in Kisumu County, Kenya.",
+        "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36912204/",
+        "text": "We assessed the uptake and continuation of oral PrEP among women 15-49 years in two health facilities in Kisumu County, Kenya."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2418380127:0",
+      "score": 0.3567031919956207,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2418380127:0",
+        "doc_id": "https://openalex.org/W2418380127",
+        "source": "openalex",
+        "title": "Cervical cancer prevention and treatment research in Africa: a systematic review from a public health perspective",
+        "study_type": "review",
+        "year": "2016",
+        "url": "https://doi.org/10.1186/s12905-016-0306-6",
+        "text": "treatment of disease with effective medicine) and quality of life of cervical cancer survivors are two severely under-researched areas."
+      }
+    },
+    {
+      "id": "pubmed:17348738:0",
+      "score": 0.3562946319580078,
+      "metadata": {
+        "id": "pubmed:17348738:0",
+        "doc_id": "17348738",
+        "source": "pubmed",
+        "title": "Situational analysis of leishmaniases research in Kenya.",
+        "study_type": "Journal Article",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17348738/",
+        "text": "KEMRI, a founding partner of the Drugs for Neglected Disease Initiative (DNDi), whose overall aim is to address lack of new or improved drugs for neglected diseases (which include leishmaniases, malaria, trypanosomiasis and Chagas disease) has made major contributions in leishmaniases research and control in Kenya and the eastern Africa region."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2127909367:0",
+      "score": 0.3562946319580078,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2127909367:0",
+        "doc_id": "https://openalex.org/W2127909367",
+        "source": "openalex",
+        "title": "Situational Analysis of &lt;i&gt;Leishmaniases&lt;/i&gt; Research in Kenya",
+        "study_type": "article",
+        "year": "2008",
+        "url": "https://doi.org/10.4314/ajhs.v13i1.30812",
+        "text": "KEMRI, a founding partner of the Drugs for Neglected Disease Initiative (DNDi), whose overall aim is to address lack of new or improved drugs for neglected diseases (which include leishmaniases, malaria, trypanosomiasis and Chagas disease) has made major contributions in leishmaniases research and control in Kenya and the eastern Africa region."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2519771084:0",
+      "score": 0.35598576068878174,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2519771084:0",
+        "doc_id": "https://openalex.org/W2519771084",
+        "source": "openalex",
+        "title": "Cholera Prevention and Control in Kenya",
+        "study_type": "article",
+        "year": "2019",
+        "url": "https://cdr.lib.unc.edu/record/uuid:ec570afe-a337-42ef-9b9d-7e1cdebd2c6a",
+        "text": "The goal of this study was to produce information that will be useful to the Government of Kenya in establishing or strengthening policies and programs that effectively prevent and control cholera."
+      }
+    },
+    {
+      "id": "pubmed:41001521:0",
+      "score": 0.3543868660926819,
+      "metadata": {
+        "id": "pubmed:41001521:0",
+        "doc_id": "41001521",
+        "source": "pubmed",
+        "title": "What is the potential impact of insecticide treated nets in a semi-arid region of northern Kenya? An investigation of vector populations prior to ITN roll-out in Turkana, Kenya.",
+        "study_type": "Journal Article, Preprint",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41001521/",
+        "text": "The malaria ecology of northern Kenya differs from the rest of the country."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05385484:1",
+      "score": 0.3540570139884949,
+      "metadata": {
+        "id": "clinicaltrials:NCT05385484:1",
+        "doc_id": "NCT05385484",
+        "source": "clinicaltrials",
+        "title": "A Savings Intervention to Reduce Men's Engagement in HIV Risk Behaviors",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05385484",
+        "text": "This randomized control trial will test an economic intervention to reduce Kenyan men's engagement in behaviors that increase the risk of HIV/STIs."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00164359:0",
+      "score": 0.35365086793899536,
+      "metadata": {
+        "id": "clinicaltrials:NCT00164359:0",
+        "doc_id": "NCT00164359",
+        "source": "clinicaltrials",
+        "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+        "study_type": "INTERVENTIONAL",
+        "year": "2012",
+        "url": "https://clinicaltrials.gov/study/NCT00164359",
+        "text": "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi."
+      }
+    },
+    {
+      "id": "pubmed:33973355:0",
+      "score": 0.35329997539520264,
+      "metadata": {
+        "id": "pubmed:33973355:0",
+        "doc_id": "33973355",
+        "source": "pubmed",
+        "title": "HIV risk and pre-exposure prophylaxis interest among women seeking post-abortion care in Kenya: a cross-sectional study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33973355/",
+        "text": "The objective of this study was to gauge the degree to which Kenyan women seeking care for a pregnancy loss, including induced abortion, are at risk for HIV and whether women would welcome an introduction to PrEP prior to discharge from post-abortion care."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03052010:0",
+      "score": 0.35298895835876465,
+      "metadata": {
+        "id": "clinicaltrials:NCT03052010:0",
+        "doc_id": "NCT03052010",
+        "source": "clinicaltrials",
+        "title": "The Partners Scale-Up Project",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT03052010",
+        "text": "Pre-exposure prophylaxis (PrEP) as a bridge to antiretroviral therapy (ART) HIV-1 prevention strategy will be introduced into 24 public HIV-1 care centers in central and western Kenya according to national guidelines using a stepped wedge design, stratified by region."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05842122:1",
+      "score": 0.3528284430503845,
+      "metadata": {
+        "id": "clinicaltrials:NCT05842122:1",
+        "doc_id": "NCT05842122",
+        "source": "clinicaltrials",
+        "title": "Pharmacy-based PrEP Delivery in Kenya",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT05842122",
+        "text": "The goal is to assess the effect of different pharmacy-based PrEP/PEP service delivery models on PrEP/PEP initiation and continuation outcomes, compared to pharmacy referral to clinic-based PrEP/PEP services (i.e., what is currently allowed in Kenya at the moment without any changes to policies or guidelines)."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4385655302",
+      "title": "Ethnomedicinal Uses, Phytochemistry, and Anticancer Potentials of African Medicinal Fruits: A Comprehensive Review",
+      "study_type": "review",
+      "year": "2023",
+      "url": "https://doi.org/10.3390/ph16081117",
+      "semantic_score": 0.5518686771392822,
+      "matched_sentences": [
+        "Africa is home to diverse medicinal plants that have been used for generations for the treatment of several different cancers and, presently, they are gaining interest from researchers as promising approaches to cancer treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37556423",
+      "title": "Prevalence, clinical presentation and factors associated with chronic lung disease among children and adolescents living with HIV in Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37556423/",
+      "semantic_score": 0.537338137626648,
+      "matched_sentences": [
+        "We sought to determine the prevalence, clinical presentation and factors associated with chronic lung disease (CLD) among CAHIV in Kenya.",
+        "Chronic lung disease in CAHIV is an under-recognised problem in African settings."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2396602109",
+      "title": "Factors influencing time to diagnosis and treatment among pediatric oncology patients in Kenya",
+      "study_type": "article",
+      "year": "2016",
+      "url": "https://doi.org/10.3109/08880018.2016.1169566",
+      "semantic_score": 0.5055252313613892,
+      "matched_sentences": [
+        "Study participants were parents of childhood cancer patients diagnosed between August 2013 and July 2014 in a hospital in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29241618",
+      "title": "Appropriateness of clinical severity classification of new WHO childhood pneumonia guidance: a multi-hospital, retrospective, cohort study.",
+      "study_type": "Journal Article, Multicenter Study, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29241618/",
+      "semantic_score": 0.4931797385215759,
+      "matched_sentences": [
+        "We did a retrospective cohort study of children aged 2-59 months admitted to one of 14 hospitals in Kenya with pneumonia between March 1, 2014, and Feb 29, 2016, before revised WHO pneumonia guidelines were adopted in the country."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37448326",
+      "title": "Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37448326/",
+      "semantic_score": 0.4840256869792938,
+      "matched_sentences": [
+        "Facility-based data showed a decrease in health care utilization for respiratory infections, enteric illnesses, and malaria, after start of COVID-19 measures in Kenya in March 2020.",
+        "COVID-19-related containment measures in Western Kenya were accompanied by a decline in respiratory infections, enteric illnesses, and malaria / fever mainly in children."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04767191",
+      "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04767191",
+      "semantic_score": 0.48057740926742554,
+      "matched_sentences": [
+        "In line with this WHO recommendation, Kenya Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether lumefantrine (AL), and dihydroartemisinin-piperaquine (DHP), the first and second line treatment of uncomplicated malaria in Kenya.",
+        "In line with the WHO recommendation, Jhpiego Impact Malaria project in Kenya, with funding and technical oversight from Center for Disease Prevention and Control (CDC) will be supporting the Kenya MOH NMP to conduct a TES to assess the efficacy of the current first and second line treatment policy in Kenya.",
+        "Jhpiego's Impact Malaria project in Kenya, with funding and technical oversight from US President's Malaria Initiative (PMI) through USAID and CDC, will support the Kenya MOH in its effort to evaluate the efficacy of AL and DHP in the treatment of children with uncomplicated malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34145005",
+      "title": "Prevalence and fluid management of dehydration in children without diarrhoea admitted to Kenyan hospitals: a multisite observational study.",
+      "study_type": "Journal Article, Observational Study, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34145005/",
+      "semantic_score": 0.4783265292644501,
+      "matched_sentences": [
+        "Study conducted in 13 county referral hospitals in Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02246296",
+      "title": "Reformulated F75 Milk to Treat Severe Acute Malnutrition",
+      "study_type": "INTERVENTIONAL",
+      "year": "2016",
+      "url": "https://clinicaltrials.gov/study/NCT02246296",
+      "semantic_score": 0.47762027382850647,
+      "matched_sentences": [
+        "The trial will be undertaken in two hospitals in Kenya and one hospital in Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06165614",
+      "title": "Artesunate Pessaries (Vaginal Inserts) for Cervical Precancer in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06165614",
+      "semantic_score": 0.4640235900878906,
+      "matched_sentences": [
+        "Despite being preventable, cancer of the cervix is a leading cause of cancer death in Kenya and other low- and middle-income countries (LMIC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04558554",
+      "title": "Pharmacy Delivery to Expand the Reach of PrEP in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04558554",
+      "semantic_score": 0.46356549859046936,
+      "matched_sentences": [
+        "During Study 1a (13 months), we will pilot this care pathway in 2 retail pharmacies evenly split between 2 different geographies in Kenya: Kisumu and Thika."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21193120",
+      "title": "[What's new in dermatological treatments?].",
+      "study_type": "Journal Article, Review",
+      "year": "2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21193120/",
+      "semantic_score": 0.45073646306991577,
+      "matched_sentences": [
+        "For the first time in cutaneous oncology, a treatment (ipilimumab) has significantly increased overall survival in patients with metastatic melanoma (phase III), although this gain remains modest (4-6 months) and adverse immunological effects are frequent (30-40%)."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2743009004",
+      "title": "Fifty years of creativity, crisis, and cancer in Uganda",
+      "study_type": "article",
+      "year": "2016",
+      "url": "https://doi.org/10.1080/00083968.2016.1272061",
+      "semantic_score": 0.4460405707359314,
+      "matched_sentences": [
+        "This article tells the story of the Uganda Cancer Institute over the past 50 years."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04437667",
+      "title": "HIV-Prevention Smartphone Game Trial",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04437667",
+      "semantic_score": 0.44448304176330566,
+      "matched_sentences": [
+        "This study will be carried out by Emory University and the Kenya Medical Research Institute (KEMRI)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35225096",
+      "title": "Reaching 95-95-95 targets: The role of private sector health facilities in closing the HIV detection gap-Kisumu Kenya, 2018.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35225096/",
+      "semantic_score": 0.44199055433273315,
+      "matched_sentences": [
+        "A retrospective cohort analysis of data collected during an integrated TB/HIV active case-finding intervention in Western Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4405398893",
+      "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+      "study_type": "article",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+      "semantic_score": 0.44186753034591675,
+      "matched_sentences": [
+        "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37424519",
+      "title": "Combating malaria in Kenya through collaborative population health education: a systematic review and pilot case study.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37424519/",
+      "semantic_score": 0.4416331648826599,
+      "matched_sentences": [
+        "Despite developing a national malaria strategy and monitoring and evaluation strategies, Kenya has not been able to meet the incidence reduction targets set by the World Health Organisation, underscoring the need for more work in identifying the barriers to implementing strategies and optimising the distribution of public health interventions.",
+        "Malaria continues to be a public health problem in Kenya, with an estimated 37.2 million people at high risk of the disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40247647",
+      "title": "Exploring the consequences of housing insecurity on HIV treatment outcomes: Qualitative insights from Kisumu, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40247647/",
+      "semantic_score": 0.4394366145133972,
+      "matched_sentences": [
+        "We examined the consequences of HI on treatment outcomes among people living with HIV in rural Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15868977",
+      "title": "HBV, HIV co-infection at Kisumu District Hospital, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15868977/",
+      "semantic_score": 0.4388362765312195,
+      "matched_sentences": [
+        "Medical wards, medical outpatient clinic and liver clinic, Kisumu District Hospital, Western Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2168738168",
+      "title": "Traditional management of ear, nose and throat (ENT) diseases in Central Kenya",
+      "study_type": "article",
+      "year": "2006",
+      "url": "https://doi.org/10.1186/1746-4269-2-54",
+      "semantic_score": 0.4386427402496338,
+      "matched_sentences": [
+        "In Kenya, upper respiratory infections are among the most common infections encountered in outpatient facilities."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34130663",
+      "title": "Hepatitis and tuberculosis testing are much less common than HIV testing among adults in Kisumu, Kenya: results from a cross-sectional assessment.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34130663/",
+      "semantic_score": 0.4285321831703186,
+      "matched_sentences": [
+        "Kenya has a high burden of HIV, viral hepatitis, and tuberculosis."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40540521",
+      "title": "Integration of a brief, transdiagnostic psychological intervention in the care of adolescents and young adults with HIV in Kenya: Protocol for a cluster randomized clinical trial.",
+      "study_type": "Clinical Trial Protocol, Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40540521/",
+      "semantic_score": 0.4274146556854248,
+      "matched_sentences": [
+        "We will evaluate the PRO-ACT intervention in a hybrid type 1 cluster randomized clinical trial (NCT06247527) in 30 HIV clinics in 3 counties in Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05842161",
+      "title": "South Africa Smoking Cessation and Engagement in HIV/TB Care Care",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05842161",
+      "semantic_score": 0.42514508962631226,
+      "matched_sentences": [
+        "This program will has the potential to dramatically improve public health by increasing the smoking quit rate and facilitating favorable HIV/TB treatment outcomes among patients with HIV and/or TB in resource limited South African settings.",
+        "The purpose of this study is to integrate elements from existing interventions developed by our team into a single intervention (QUIT-AD), designed to improve smoking cessation and favorable HIV/TB treatment outcomes among individuals with HIV and/or TB in Cape Town, South Africa.",
+        "One of the greatest public health challenges facing South Africa (SA) is tobacco use, which fuels the overlapping epidemics of HIV and pulmonary tuberculosis (TB)."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4413924817",
+      "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+      "study_type": "review",
+      "year": "2025",
+      "url": "https://doi.org/10.1186/s13045-025-01732-z",
+      "semantic_score": 0.42490947246551514,
+      "matched_sentences": [
+        "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36890544",
+      "title": "Community case management of malaria in Western Kenya: performance of community health volunteers in active malaria case surveillance.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36890544/",
+      "semantic_score": 0.4248548150062561,
+      "matched_sentences": [
+        "In western Kenya, not all malaria cases are reported as stipulated in the community case management of malaria (CCMm) strategy.",
+        "The current study aimed to evaluate the effectiveness of community health volunteers' active case detection and management of malaria in western Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3015545078",
+      "title": "The Impact of Infectious Diseases on Kenya’s Health Diplomacy; An Inter-State Phenomenon",
+      "study_type": "article",
+      "year": "2020",
+      "url": "https://doi.org/10.14738/abr.82.7807",
+      "semantic_score": 0.423889696598053,
+      "matched_sentences": [
+        "The study used qualitative study methodology by describing the context of Kenya’s health diplomacy and employing available documents analysis.",
+        "The study concluded that controlling emerging and reemerging infectious diseases require extreme actions and coordination between many national and international actors which Kenya and her international network of states must do through diplomacy.",
+        "The impact of infectious diseases on Kenya’s health diplomacy calls for need to enhance public health partnerships to tackle such issues of international concern to effectively handle such diplomacy matters and timely."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05905640",
+      "title": "One-stop PrEP Care Pathway to Simplify PrEP Delivery in Kenya: The One-Stop PrEP Care Project",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05905640",
+      "semantic_score": 0.4237428605556488,
+      "matched_sentences": [
+        "This study will evaluate the effectiveness of one-stop PrEP services in 12 public health facilities in Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2586626150",
+      "title": "Assessing the feasibility of eHealth and mHealth: a systematic review and analysis of initiatives implemented in Kenya",
+      "study_type": "review",
+      "year": "2017",
+      "url": "https://doi.org/10.1186/s13104-017-2416-0",
+      "semantic_score": 0.4218795597553253,
+      "matched_sentences": [
+        "This review discovered that there is a myriad of eHealth projects being implemented in Kenya, mainly in the mHealth strategic area and focusing mostly on primary care and HIV/AIDs."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40921636",
+      "title": "Evaluating the effectiveness of a One-Stop PrEP Care model to enhance HIV prevention: a protocol for a cluster-randomised trial in Kisumu County, Kenya.",
+      "study_type": "Journal Article, Clinical Trial Protocol",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40921636/",
+      "semantic_score": 0.41961777210235596,
+      "matched_sentences": [
+        "Ethical approval was obtained from the University of Washington Institutional Review Board (IRB) on 8 July 2022 (IRB ID: STUDY00015873) and the Kenya Medical Research Institute Scientific and Ethics Review Unit (SERU) with a letter dated 4 May 2023 (Ref: 4697).",
+        "We are conducting a 1:1 cluster-randomised trial to evaluate whether One-Stop PrEP Care achieves equivalent or better PrEP outcomes compared with the standard of care model in 12 high-volume HIV clinics in Kisumu County, Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07362498",
+      "title": "Health Systems Implementation and Molecular Surveillance of Multiple First-Line Treatments for Uncomplicated Malaria in Western Kenya",
+      "study_type": "OBSERVATIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07362498",
+      "semantic_score": 0.4192965626716614,
+      "matched_sentences": [
+        "This implementation study evaluated the health systems feasibility, economic costs, and stakeholder acceptability of deploying multiple first-line therapies (MFTs) that were of the artemisinin-based combination therapies (ACTs) type, for uncomplicated malaria in Western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38243301",
+      "title": "A phone-based tobacco use cessation program for people living with HIV in Uganda and Zambia: study protocol for a randomized controlled trial.",
+      "study_type": "Clinical Trial Protocol, Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38243301/",
+      "semantic_score": 0.41675370931625366,
+      "matched_sentences": [
+        "Nicotine replacement therapy (NRT) and short messaging service (SMS)-based tobacco cessation interventions have demonstrated effectiveness in reducing tobacco use in many populations, but evidence is needed on which tailored treatments are most efficacious in meeting the complex medical and psychosocial factors confronting people living with HIV (PLWH) in sub-Saharan Africa (SSA)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06411938",
+      "title": "A Cervical Cancer Prevention Program in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06411938",
+      "semantic_score": 0.4134921431541443,
+      "matched_sentences": [
+        "In addition, while safe and effective HPV vaccines have been available for 15 years, very few (\\<1%) Kenyan children and adolescents have been vaccinated."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37808984",
+      "title": "Higher rates of mental health screening of adolescents recorded after provider training using simulated patients in a Kenyan HIV clinic: results of a pilot study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37808984/",
+      "semantic_score": 0.41035565733909607,
+      "matched_sentences": [
+        "This pilot study was conducted in a public HIV clinic in Thika, Kenya from January to November 2021."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37821868",
+      "title": "Adherence to national malaria treatment guidelines in private drug outlets: a cross-sectional survey in the malaria-endemic Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37821868/",
+      "semantic_score": 0.4087303876876831,
+      "matched_sentences": [
+        "This study assessed adherence to the national malaria treatment guidelines among DOs in a high transmission area of Western Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02301533",
+      "title": "Provider and Peer Support Intervention to Improve ART Adherence Among Kenyan Men Who Have Sex With Men",
+      "study_type": "INTERVENTIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT02301533",
+      "semantic_score": 0.40845370292663574,
+      "matched_sentences": [
+        "Based on qualitative research conducted in 2013-2014 in coastal Kenya, we have developed an intervention called \"Shikamana\" (a Kiswahili word meaning \"to form a bond or stick together\") to improve HIV treatment engagement, ART adherence, and clinical outcomes in this group."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31299976",
+      "title": "Targeting remaining pockets of malaria transmission in Kenya to hasten progress towards national elimination goals: an assessment of prevalence and risk factors in children from the Lake endemic region.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31299976/",
+      "semantic_score": 0.4082289934158325,
+      "matched_sentences": [
+        "In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36332953",
+      "title": "MPrEP+ study protocol: a prospective cohort study assessing the feasibility and acceptability of an HIV pre-exposure prophylaxis (PrEP) strategy for male clients of female sex workers in Kisumu, Kenya.",
+      "study_type": "Clinical Trial Protocol, Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36332953/",
+      "semantic_score": 0.40750980377197266,
+      "matched_sentences": [
+        "This package of interventions is being delivered to 120 MCs enrolled in the study in Kisumu, Kenya over a 6-month period."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3195179063",
+      "title": "Traditional Medicinal Plants Used For The Treatment Of Cancer In Mubi, Adamawa State, Nigeria",
+      "study_type": "article",
+      "year": "2021",
+      "url": "https://doi.org/10.29350/qjps.2021.26.4.1423",
+      "semantic_score": 0.4068903923034668,
+      "matched_sentences": [
+        "The study's goal was to find out which plants were used to treat Cancer in Mubi, Northern eastern part of Nigeria.",
+        "Nigeria accounted for roughly 20% of Africa's population and slightly more than half of West Africa's projected 681,000 new cancer cases in 2008, accounting for roughly 20% of the continent's population and slightly more than half of West Africa's."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02338739",
+      "title": "An Adaptive Strategy for Preventing and Treating Lapses of Retention in Adult HIV Care (AdaPT-R) in Nyanza, Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT02338739",
+      "semantic_score": 0.4060565233230591,
+      "matched_sentences": [
+        "the investigators will randomize 1,800 adults newly initiating antiretroviral treatment (ART) at 4 HIV clinics in the Nyanza region of Kenya to (1) standard of care routine education and counselling (REC), (2) SMS text messages, or (3) transport vouchers."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37612716",
+      "title": "Implementation strategies for the introduction of the RTS,S/AS01 (RTS,S) malaria vaccine in countries with areas of highly seasonal transmission: workshop meeting report.",
+      "study_type": "Conference Proceedings",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37612716/",
+      "semantic_score": 0.40547341108322144,
+      "matched_sentences": [
+        "The recommendation followed pilot implementation of the vaccine in Ghana, Kenya and Malawi, which showed that introduction of the vaccine was highly effective at scale, and was associated with a 30% reduction in hospital admissions with severe malaria in age groups eligible to have received the vaccine and no evidence of the safety signals that had been observed in the phase 3 trial."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05285670",
+      "title": "Mobile Phone Messaging to Improve Reproductive Health for Women Living With HIV in Kenya (Mobile WACh Empower)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05285670",
+      "semantic_score": 0.40524739027023315,
+      "matched_sentences": [
+        "The investigators will test the combined intervention in a cluster randomized controlled trial among women receiving HIV care at 10 facilities in Kenya (330 per facility)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35560260",
+      "title": "Cervical cancer prevention in Africa: A policy analysis.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35560260/",
+      "semantic_score": 0.40430372953414917,
+      "matched_sentences": [
+        "There is room to improve cervical cancer policy comprehensiveness in Africa, and to bring these policies in line with evidence and expert recommendations.",
+        "We analyzed the presence and content of policies for the primary, secondary and tertiary prevention of cervical cancer in Africa, to identify areas of opportunity for policy strengthening in the region most affected by cervical cancer globally."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39245314",
+      "title": "Mosquitocidal efficacy and pharmacokinetics of single-dose ivermectin versus three-day dose regimen for malaria vector control compared with albendazole and no treatment: An open-label randomized controlled trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39245314/",
+      "semantic_score": 0.40365755558013916,
+      "matched_sentences": [
+        "We conducted an open-label randomized control trial in Kenya, staggered in blocks with sequential intervention groups and parallel controls."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02350140",
+      "title": "Texting to Improve Testing (TextIT):",
+      "study_type": "INTERVENTIONAL",
+      "year": "2018",
+      "url": "https://clinicaltrials.gov/study/NCT02350140",
+      "semantic_score": 0.40337756276130676,
+      "matched_sentences": [
+        "The investigators therefore now propose a cluster randomized, stepped wedge trial in 20 clinics operated by the Kenyan Ministry of Health in the Nyanza region of Kenya and use the Reach, Effectiveness, Adoption, Implementation, and Maintenance (REAIM) framework to understand the effectiveness of the text messaging to improve testing (TextIT) intervention.",
+        "The investigators recently concluded a successful randomized controlled trial in Kenya entitled, \"Improving uptake of early infant diagnosis of HIV for prevention of mother-to-child HIV transmission (PMTCT): a randomized trial of a text messaging intervention\" (ClinicalTrials.gov # NCT01433185)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40700688",
+      "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+      "study_type": "Clinical Trial, Phase III, Journal Article, Multicenter Study, Randomized Controlled Trial",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40700688/",
+      "semantic_score": 0.4013065695762634,
+      "matched_sentences": [
+        "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00524446",
+      "title": "Controlled Trial to Test the Efficacy of Lipid-based Nutrient Supplements to Prevent Severe Stunting Among Infants",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00524446",
+      "semantic_score": 0.40019330382347107,
+      "matched_sentences": [
+        "The study will be conducted in Lungwena area, Mangochi District, rural Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35442999",
+      "title": "Reduction in malaria burden following the introduction of indoor residual spraying in areas protected by long-lasting insecticidal nets in Western Kenya, 2016-2018.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35442999/",
+      "semantic_score": 0.4001633822917938,
+      "matched_sentences": [
+        "We reviewed records and tallied monthly aggregate of outpatient department (OPD) attendance, suspected malaria cases, those tested for malaria and those testing positive for malaria at two health facilities, one from Nyatike, an intervention sub-county, and one from Suba, a comparison sub-county, both located in Western Kenya, from February 1, 2016, through March 31, 2018."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38648401",
+      "title": "Kenya must wake up to the threat of cryptic Anopheles species and their impact on residual malaria transmission.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38648401/",
+      "semantic_score": 0.39965441823005676,
+      "matched_sentences": [
+        "Malaria remains a major health problem in Kenya despite the huge efforts put in place to control it."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35213856",
+      "title": "Exploring Estimates and Reasons for Lost to Follow-Up Among People Living With HIV on Antiretroviral Therapy in Kisumu County, Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35213856/",
+      "semantic_score": 0.3978516161441803,
+      "matched_sentences": [
+        "This retrospective cross-sectional study used an evidence-sampling approach to select health facilities and LTFU patients from a large HIV program supporting 61 health facilities in Kisumu County, Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41666451",
+      "title": "A Baseline Mixed-Methods Study to Inform Seasonal Malaria Chemoprevention Delivery in a Semi-Nomadic Population in Turkana, Kenya.",
+      "study_type": "Publication",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41666451/",
+      "semantic_score": 0.3975917100906372,
+      "matched_sentences": [
+        "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24552745",
+      "title": "Malignancies in South African children with HIV.",
+      "study_type": "Journal Article",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24552745/",
+      "semantic_score": 0.39651551842689514,
+      "matched_sentences": [
+        "In 2008 the South African Children's Cancer Study Group decided to review the epidemiology, management, and chemotherapy response of HIV-positive children with malignancy."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02848235",
+      "title": "Kenya Enhanced Mentor Mother ProgrAm (EMMA)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT02848235",
+      "semantic_score": 0.3955470621585846,
+      "matched_sentences": [
+        "Kenya recently adopted new treatment guidelines for pregnant women with HIV, which calls for all women to initiate triple-drug antiretroviral therapy (ART) at or soon after their first visit for antenatal care."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3214960410",
+      "title": "The tale of TILs in breast cancer: A report from The International Immuno-Oncology Biomarker Working Group",
+      "study_type": "review",
+      "year": "2021",
+      "url": "https://doi.org/10.1038/s41523-021-00346-1",
+      "semantic_score": 0.39459192752838135,
+      "matched_sentences": [
+        "The advent of immune-checkpoint inhibitors (ICI) in modern oncology has significantly improved survival in several cancer settings."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36352453",
+      "title": "A prospective cohort study of Plasmodium falciparum malaria in three sites of Western Kenya.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36352453/",
+      "semantic_score": 0.39408165216445923,
+      "matched_sentences": [
+        "Overall, Kombewa had a higher risk of infection compared to Iguhu (χ Malaria prevalence in western Kenya remains high and has resurged in some sites despite continuous intervention efforts.",
+        "Malaria in western Kenya is currently characterized by sustained high Plasmodial transmission and infection resurgence, despite positive responses in some areas following intensified malaria control interventions since 2006."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39146355",
+      "title": "Evaluation of person-centered interventions to eliminate perinatal HIV transmission in Kisumu County, Kenya: A repeated cross-sectional study using aggregated registry data.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39146355/",
+      "semantic_score": 0.3919668197631836,
+      "matched_sentences": [
+        "Between October 2016 and September 2021, Family AIDS Care & Education Services (FACES) supported HIV care and treatment services across 61 facilities in Kisumu County, Kenya with an emphasis on service strengthening for pregnant and postpartum women living with HIV to reduce perinatal HIV transmission."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01435018",
+      "title": "Three Chemo Regimens as an Adjunct to ART for Treatment of Advanced AIDS-KS",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT01435018",
+      "semantic_score": 0.39131903648376465,
+      "matched_sentences": [
+        "For participants who had an initial Independent Endpoint Review Committee (IERC) confirmed KS response and subsequent IERC-confirmed KS progression, and who, in the opinion of the investigator and with concurrence of the protocol Clinical Management Committee (CMC), could potentially have benefitted from another course of the same chemotherapy utilized in Step 1, entered Step 2."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33973355",
+      "title": "HIV risk and pre-exposure prophylaxis interest among women seeking post-abortion care in Kenya: a cross-sectional study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33973355/",
+      "semantic_score": 0.39063432812690735,
+      "matched_sentences": [
+        "We conducted a mixed-methods study from August 2019 to February 2020 with women ages 15 to 30 recruited sequentially as they were accessing post-abortion care at public and private facilities in Thika and Kisumu, Kenya.",
+        "The objective of this study was to gauge the degree to which Kenyan women seeking care for a pregnancy loss, including induced abortion, are at risk for HIV and whether women would welcome an introduction to PrEP prior to discharge from post-abortion care."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31272495",
+      "title": "HIV-1 self-testing to improve the efficiency of pre-exposure prophylaxis delivery: a randomized trial in Kenya.",
+      "study_type": "Clinical Trial Protocol, Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31272495/",
+      "semantic_score": 0.38951539993286133,
+      "matched_sentences": [
+        "Here, we describe the rationale and design of a randomized, noninferiority trial designed to test the effectiveness and safety of using HIVST to support PrEP delivery in Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04424524",
+      "title": "Streamlining the Efficiency of PrEP Implementation",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04424524",
+      "semantic_score": 0.3887425661087036,
+      "matched_sentences": [
+        "This is a pilot facility-based direct-to-pharmacy PrEP refill delivery to streamline care pathway in Kenyan public health HIV facilities implementing PrEP."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34197509",
+      "title": "High HIV prevalence among decedents received by two high-volume mortuaries in Kisumu, western Kenya, 2019.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34197509/",
+      "semantic_score": 0.38692766427993774,
+      "matched_sentences": [
+        "Despite substantial scale-up of HIV services, HIV disease remains a leading cause of death in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39160102",
+      "title": "Evaluating the gap in rapid diagnostic testing: insights from subnational Kenyan routine health data.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39160102/",
+      "semantic_score": 0.3863350749015808,
+      "matched_sentences": [
+        "This study used routine data to assess trends in rapid diagnostic test (RDT) reporting, supplies and unmet needs across national and 47 subnational (county) levels in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35248055",
+      "title": "Implementation of community case management of malaria in malaria endemic counties of western Kenya: are community health volunteers up to the task in diagnosing malaria?",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35248055/",
+      "semantic_score": 0.38623112440109253,
+      "matched_sentences": [
+        "In Kenya, CCMm involves the use of malaria rapid diagnostic tests (RDT) and treatment of confirmed uncomplicated malaria cases with artemether lumefantrine (AL) by community health volunteers (CHVs).",
+        "The study was conducted in four counties within the malaria-endemic lake zone in Kenya with a malaria prevalence in 2018 of 27%; the national prevalence of malaria was 8%."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36407408",
+      "title": "Perspectives on HIV Self-Testing Among Key and Affected Populations in Kenya.",
+      "study_type": "Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36407408/",
+      "semantic_score": 0.38606780767440796,
+      "matched_sentences": [
+        "Kenya's Key and Affected Populations (KAP) - men who have sex with men (MSM), female sex workers, people who inject drugs (PWID), and young women aged 18-24 - often experience stigma and discrimination in Kenyan health care settings due to their identity and/or behaviors, which can deter facility-based testing for HIV."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2487690776",
+      "title": "Drug-susceptibility and molecular characterization of epidemic and endemic malaria in Kenya",
+      "study_type": "dissertation",
+      "year": "2002",
+      "url": "https://doi.org/10.17037/PUBS.04656622>",
+      "semantic_score": 0.3858395218849182,
+      "matched_sentences": [
+        "Malaria in Kenya continues to pose a great threat to health."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17321310",
+      "title": "Male circumcision for HIV prevention in young men in Kisumu, Kenya: a randomised controlled trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17321310/",
+      "semantic_score": 0.3856898546218872,
+      "matched_sentences": [
+        "We did a randomised controlled trial of 2784 men aged 18-24 years in Kisumu, Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02733003",
+      "title": "Implementation Research for Vulnerable Women in South Africa",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02733003",
+      "semantic_score": 0.38552147150039673,
+      "matched_sentences": [
+        "A list of four substance use treatment clinics and four healthcare clinics, identified and approved by the City of Cape Town, South Africa were randomized to begin the intervention during one of the four cycles."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15984377",
+      "title": "Malaria in travelers returning from short organized tours to holiday resorts in Mombassa, Kenya.",
+      "study_type": "Case Reports, Journal Article",
+      "year": "2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15984377/",
+      "semantic_score": 0.3854030966758728,
+      "matched_sentences": [
+        "All persons who acquired malaria in Kenya during the years 1999-2001 were contacted by phone and questioned about use of chemoprophylaxis, attitudes towards malaria prevention, and disease course."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04767217",
+      "title": "Malaria Therapeutic Efficacy Study, Rwanda",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04767217",
+      "semantic_score": 0.38526925444602966,
+      "matched_sentences": [
+        "This study will monitor the efficacy of ALN (which has been used in Rwanda for the last 14 years) and dihydroartemisinin-piperaquine (DHA-PPQ), another WHO-approved ACT for the treatment of uncomplicated malaria which has not been used in Rwanda.",
+        "In line with this WHO recommendation, Rwanda Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether-lumefantrine (ALN), which has been used in Rwanda for the last 14 years) and dihydroartemisinin-piperaquine (DHA-PPQ), another WHO-approved drug for the treatment of uncomplicated malaria which, though, has not been used in Rwanda, is being considered for adoption as a second line or alternative first line treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36111533",
+      "title": "Modelling the impact of HIV and hepatitis C virus prevention and treatment interventions among people who inject drugs in Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36111533/",
+      "semantic_score": 0.38506102561950684,
+      "matched_sentences": [
+        "People who inject drugs (PWID) in Kenya have high HIV (range across settings: 14-26%) and hepatitis C virus (HCV; 11-36%) prevalence."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W1644105311",
+      "title": "A Survey of Traditional Health Remedies Used by the Maasai of Southern Kaijiado District, Kenya",
+      "study_type": "article",
+      "year": "2006",
+      "url": "https://doi.org/10.17348/era.4.0.61-74",
+      "semantic_score": 0.38470155000686646,
+      "matched_sentences": [
+        "This study investigated the use of traditional health remediesamong the Maasai of Kuku Group Ranch of SouthernKajiado District, Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "20573224",
+      "title": "High rate of pneumococcal bacteremia in a prospective cohort of older children and adults in an area of high HIV prevalence in rural western Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20573224/",
+      "semantic_score": 0.38407260179519653,
+      "matched_sentences": [
+        "Ongoing surveillance will document if expanded use of highly-active antiretroviral treatment for HIV and introduction of PCV10 for Kenyan children (anticipated in late 2010) result in substantial secondary benefits by reducing pneumococcal disease in adults."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4399363585",
+      "title": "The impacts of task shifting on the management and treatment of malnourished children in Northern Kenya: a cluster-randomized controlled trial",
+      "study_type": "article",
+      "year": "2024",
+      "url": "https://doi.org/10.1093/heapol/czae036",
+      "semantic_score": 0.38365691900253296,
+      "matched_sentences": [
+        "This study aimed to assess the effectiveness of integrating the treatment of acute malnutrition by community health volunteers into integrated community case management in two sub-counties in northern Kenya (Loima and Isiolo)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41194376",
+      "title": "Experiences around testing and linkage to HIV care among gay, bisexual and other men who have sex with men: qualitative findings from the patient-centered care project in the lake Victoria region of Kenya.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41194376/",
+      "semantic_score": 0.3835751414299011,
+      "matched_sentences": [
+        "This study aimed to inform the development of context-specific interventions to improve GBMSM's initiation in HIV care in Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2906894234",
+      "title": "Assessment of Inequalities in Coverage of Essential Reproductive, Maternal, Newborn, Child, and Adolescent Health Interventions in Kenya",
+      "study_type": "article",
+      "year": "2018",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2018.5152",
+      "semantic_score": 0.3835655748844147,
+      "matched_sentences": [
+        "Coverage of RMNCAH interventions has improved over time, but wealth and geospatial inequalities in Kenya are persistent.",
+        "Scaling up of health services for the urban and, in particular, rural poor areas and those residing in Kenya's former north eastern province will contribute toward achievement of universal health coverage."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38166089",
+      "title": "HIV prevalence and awareness among adults presenting for enrolment into a study of people at risk for HIV in Kisumu County, Western Kenya.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38166089/",
+      "semantic_score": 0.3832089900970459,
+      "matched_sentences": [
+        "Despite declines in new HIV diagnoses both globally and in Kenya, parts of Western Kenya still report high HIV prevalence and incidence."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03474822",
+      "title": "Plasmodium Immunotherapy for Breast and Liver Cancers",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT03474822",
+      "semantic_score": 0.38241520524024963,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the safety and preliminarily evaluate the effectiveness of Plasmodium immunotherapy for advanced breast cancers and advanced liver cancers.The treatment will last 4-6 weeks from the day of successful infection and will be terminated by antimalarial drugs."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25614522",
+      "title": "Genital infections and syndromic diagnosis among HIV-infected women in HIV care programmes in Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25614522/",
+      "semantic_score": 0.38160455226898193,
+      "matched_sentences": [
+        "A mobile team visited 39 large HIV care programmes in Kenya and enrolled participants using population-proportionate sampling."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30167032",
+      "title": "Male partner involvement in efforts to eliminate mother-to-child transmission of HIV in Kisumu County, Western Kenya, 2015.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30167032/",
+      "semantic_score": 0.38118553161621094,
+      "matched_sentences": [
+        "we conducted a cross-sectional study among women aged ≥ 18 years who had children aged ≤ 12 months and were attending a child health clinic for immunization services in one of four Western Kenya health centers between February and April, 2015."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3153636042",
+      "title": "Cancer in Africa: The Untold Story",
+      "study_type": "article",
+      "year": "2021",
+      "url": "https://doi.org/10.3389/fonc.2021.650117",
+      "semantic_score": 0.38098815083503723,
+      "matched_sentences": [
+        "Opportunities exist for vaccination programs for cervical and liver cancer, genetic testing and use of new targeted therapies for breast and prostate cancer, and positive changes in lifestyle for lung, colorectal and bladder cancers."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2770978914",
+      "title": "Reduction of HIV-associated excess mortality by antiretroviral treatment among tuberculosis patients in Kenya",
+      "study_type": "article",
+      "year": "2017",
+      "url": "https://doi.org/10.1371/journal.pone.0188235",
+      "semantic_score": 0.37973880767822266,
+      "matched_sentences": [
+        "HIV was a significant contributor to TB-associated deaths in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33857195",
+      "title": "Cost of pre-exposure prophylaxis delivery in family planning clinics to prevent HIV acquisition among adolescent girls and young women in Kisumu, Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, Non-P.H.S., Research Support, U.S. Gov't, P.H.S.",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33857195/",
+      "semantic_score": 0.37962931394577026,
+      "matched_sentences": [
+        "We estimated all costs as implemented in the study, and under implementation by the Kenyan Ministry of Health (MoH), both at the program volume observed and if the facilities were delivering PrEP at full capacity (scaled-MoH)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25861945",
+      "title": "Evidence of injection drug use in Kisumu, Kenya: Implications for HIV prevention.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25861945/",
+      "semantic_score": 0.3795080780982971,
+      "matched_sentences": [
+        "This paper provides the first descriptive analysis of injection drug use in western Kenya, where HIV prevalence is already highest in the nation at 15.1%.",
+        "We draw on quantitative data from a study of injection drug use in Kisumu, Kenya.",
+        "This exploratory study identified patterns of unsafe drug injection and concurrent sexual risk in western Kenya, yet few resources are currently available to address addiction or injection-related harm."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04158713",
+      "title": "Improving PRegnancy Outcomes With PReVEntive Therapy in Africa-2 (IMPROVE-2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04158713",
+      "semantic_score": 0.37921032309532166,
+      "matched_sentences": [
+        "Overview Study Design: This multi-centre trial will be conducted in antenatal clinics in 8 hospitals in Kenya and Malawi located in areas with high prevalence of HIV and malaria and with high anti-folate resistance of the malaria parasite."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00914225",
+      "title": "Effect of Bednets and a Water Purification Device on HIV Disease Progression Among ART naïve Patients in Kenya",
+      "study_type": "OBSERVATIONAL",
+      "year": "2015",
+      "url": "https://clinicaltrials.gov/study/NCT00914225",
+      "semantic_score": 0.3785884976387024,
+      "matched_sentences": [
+        "Randomized clinical trials in HIV infected children and adults demonstrate marked survival benefits with use of TMP/SMX and cotrimoxazole prophylaxis is recommended for people with HIV in the Kenya Ministry of Health guidelines\\[5\\]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36516078",
+      "title": "Randomized Trial of Vaccines for Zaire Ebola Virus Disease.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36516078/",
+      "semantic_score": 0.37781018018722534,
+      "matched_sentences": [
+        "(Funded by the National Institutes of Health and others; PREVAC ClinicalTrials.gov number, NCT02876328; EudraCT numbers, 2017-001798-18 and 2017-001798-18/3rd; and Pan African Clinical Trials Registry number, PACTR201712002760250.)."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4281662335",
+      "title": "Management Practice and Drug Related Problems and Its Contributing Factors Among Cervical Cancer Patients at Oncologic Center in Ethiopia: A Hospital-Based Retrospective Study",
+      "study_type": "article",
+      "year": "2022",
+      "url": "https://doi.org/10.2147/tcrm.s364923",
+      "semantic_score": 0.3770023286342621,
+      "matched_sentences": [
+        "Cisplatin-based chemotherapy was the frequently used therapeutic option."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35007291",
+      "title": "Prevalence and factors associated with hypertension among adults with and without HIV in Western Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35007291/",
+      "semantic_score": 0.3768311142921448,
+      "matched_sentences": [
+        "Understanding the magnitude of the problem and risk factors associated with HIV and long-term antiretroviral therapy (ART) is critically important for designing effective programs for diagnosing and treating hypertension in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35777410",
+      "title": "Efficiency of 6-month PrEP dispensing with HIV self-testing in Kenya: an open-label, randomised, non-inferiority, implementation trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Equivalence Trial",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35777410/",
+      "semantic_score": 0.3760363459587097,
+      "matched_sentences": [
+        "This was a randomised, open-label, non-inferiority trial done at the Partners in Health and Research Development clinic in Thika, Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22984118",
+      "title": "Influenza and malaria coinfection among young children in western Kenya, 2009-2011.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22984118/",
+      "semantic_score": 0.37393441796302795,
+      "matched_sentences": [
+        "This retrospective, cross-sectional study in rural western Kenya examined outpatient visits and hospitalizations associated with febrile acute respiratory illness (ARI) during a 2-year period (July 2009-June 2011) in children <5 years old."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04982250",
+      "title": "Peer PrEP Referral + HIV Self-test Delivery for PrEP Initiation in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04982250",
+      "semantic_score": 0.3731914162635803,
+      "matched_sentences": [
+        "In Kenya, one of the target groups for HIV incidence reduction is young women (16-24 years), who account for 33% of the total of new HIV infections yet comprise only 10% of the population."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04408729",
+      "title": "PrEP My Way: A Novel PrEP Delivery System to Meet the Needs of Young African Women",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04408729",
+      "semantic_score": 0.3729519844055176,
+      "matched_sentences": [
+        "The study team will randomize 100 Kenyan women to PrEP My Way versus standard of care (i.e., clinic-based delivery of PrEP and sexual health services) and follow them for 6 months."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31996166",
+      "title": "Cognitive testing of the PHQ-9 for depression screening among pregnant and postpartum women in Kenya.",
+      "study_type": "Clinical Trial, Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31996166/",
+      "semantic_score": 0.372409462928772,
+      "matched_sentences": [
+        "We administered the Kiswahili or English PHQ-9 (based on preference) to 29 pregnant and postpartum women in Thika, Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "25089554",
+      "title": "Men who have sex with men in Kisumu, Kenya: comfort in accessing health services and willingness to participate in HIV prevention studies.",
+      "study_type": "Journal Article",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25089554/",
+      "semantic_score": 0.3704063892364502,
+      "matched_sentences": [
+        "Continued community engagement with the MSM population in Kenya is needed to guide best practices for involving them in HIV prevention research."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01020552",
+      "title": "Integrating Family Planning Into Postabortion Care",
+      "study_type": "OBSERVATIONAL",
+      "year": "2010",
+      "url": "https://clinicaltrials.gov/study/NCT01020552",
+      "semantic_score": 0.37025687098503113,
+      "matched_sentences": [
+        "A descriptive post-intervention study designed to provide data to decision-makers at the Kenyan Ministry of Health, the Extending Service Delivery Project (ESD), and Pathfinder International about whether and how to scale-up the ESD Project's postabortion care (PAC) services package."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31801562",
+      "title": "Gametocyte clearance in children, from western Kenya, with uncomplicated Plasmodium falciparum malaria after artemether-lumefantrine or dihydroartemisinin-piperaquine treatment.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31801562/",
+      "semantic_score": 0.37014079093933105,
+      "matched_sentences": [
+        "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3086699080",
+      "title": "Spatial access inequities and childhood immunisation uptake in Kenya",
+      "study_type": "article",
+      "year": "2020",
+      "url": "https://doi.org/10.1186/s12889-020-09486-8",
+      "semantic_score": 0.36967459321022034,
+      "matched_sentences": [
+        "Strategies that address access barriers in the hardest to reach communities are needed to enhance equitable access to immunisation services in Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03052010",
+      "title": "The Partners Scale-Up Project",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT03052010",
+      "semantic_score": 0.3681892454624176,
+      "matched_sentences": [
+        "An implementation project to scale-up delivery of antiretroviral-based HIV-1 prevention methods to Kenyan HIV-1 serodiscordant couples in HIV-1 care centers.",
+        "Pre-exposure prophylaxis (PrEP) as a bridge to antiretroviral therapy (ART) HIV-1 prevention strategy will be introduced into 24 public HIV-1 care centers in central and western Kenya according to national guidelines using a stepped wedge design, stratified by region."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4388706464",
+      "title": "Detection of <i>Anopheles stephensi</i> Mosquitoes by Molecular Surveillance, Kenya",
+      "study_type": "article",
+      "year": "2023",
+      "url": "https://doi.org/10.3201/eid2912.230637",
+      "semantic_score": 0.36781173944473267,
+      "matched_sentences": [
+        "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37966106",
+      "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.",
+      "study_type": "Publication",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37966106/",
+      "semantic_score": 0.36781173944473267,
+      "matched_sentences": [
+        "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33813954",
+      "title": "Improvements in pediatric and adolescent HIV testing and identification in western Kenya under the Accelerating Children's HIV/AIDS Treatment initiative.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33813954/",
+      "semantic_score": 0.3667307496070862,
+      "matched_sentences": [
+        "Family AIDS Care & Education Services implemented ACT across 130 health facilities in western Kenya between October 2015 and September 2016, providing: HIV-testing counselors and space; training on the Family Information Table (FIT) and chart audits; community outreach testing; and text message reminders for pregnant women."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33176785",
+      "title": "Design of a care pathway for pharmacy-based PrEP delivery in Kenya: results from a collaborative stakeholder consultation.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33176785/",
+      "semantic_score": 0.36646032333374023,
+      "matched_sentences": [
+        "Potential solutions identified included having pharmacy providers complete the Kenya Ministry of Health-approved PrEP training, use of a PrEP prescribing checklist with remote clinician oversight and provider-assisted HIV self-testing, and having the government provide PrEP and HIV self-testing kits to pharmacies during a pilot test."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05882916",
+      "title": "Reaching the Last 20% (the Pamoja Kwa Afya Study)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05882916",
+      "semantic_score": 0.3660924732685089,
+      "matched_sentences": [
+        "The proposed project will take place in the region of Kenya with the highest HIV prevalence and seeks to promote engagement in HIV testing, prevention, and care by MPS."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38716295",
+      "title": "Attitudes Toward Menstrual Suppression Among Cyclic and Continuous Contraceptive Vaginal Ring Users in Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38716295/",
+      "semantic_score": 0.36592739820480347,
+      "matched_sentences": [
+        "We analyzed data derived from a subset of cohort study participants (n=45) in Thika, Kenya between January 2016- December 2018."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2550042376",
+      "title": "Changing Patterns of lung, liver, and head and neck non-AIDS-defining cancers relative to HIV status in Tanzania between 2002-2014",
+      "study_type": "article",
+      "year": "2016",
+      "url": "https://doi.org/10.1186/s13027-016-0106-5",
+      "semantic_score": 0.36586564779281616,
+      "matched_sentences": [
+        "The slight decrease in proportion of HIV-positive NADC patients during 2010-2014 may suggest increasing patient longevity and more effective HIV management in Tanzania."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36084050",
+      "title": "Adoption of HIV pre-exposure prophylaxis among women at high risk of HIV infection in Kenya.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36084050/",
+      "semantic_score": 0.36559075117111206,
+      "matched_sentences": [
+        "In 2017, Kenya became one of the first African countries to provide pre-exposure prophylaxis (PrEP) in its national HIV prevention plan."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38537051",
+      "title": "Forecasting the effect of HIV-targeted interventions on the age distribution of people with HIV in Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38537051/",
+      "semantic_score": 0.36531680822372437,
+      "matched_sentences": [
+        "PWH in Kenya are forecasted to age over the next 15 years; improvements to the HIV care continuum are expected to contribute to the growing proportion of older PWH."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17565676",
+      "title": "Establishing a malaria diagnostics centre of excellence in Kisumu, Kenya.",
+      "study_type": "Evaluation Study, Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17565676/",
+      "semantic_score": 0.36489903926849365,
+      "matched_sentences": [
+        "This fact led to the establishment of a Malaria Diagnostics Centre of Excellence in Kisumu, Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4389308162",
+      "title": "Evolving Horizons: Adenovirus Vectors’ Timeless Influence on Cancer, Gene Therapy and Vaccines",
+      "study_type": "article",
+      "year": "2023",
+      "url": "https://doi.org/10.3390/v15122378",
+      "semantic_score": 0.3641458749771118,
+      "matched_sentences": [
+        "A significant emphasis is placed on their crucial role in advancing cancer therapy and the latest breakthroughs in vaccine clinical trials for various diseases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33106850",
+      "title": "Comparative Effectiveness of Interventions to Improve the HIV Continuum of Care and HIV Preexposure Prophylaxis in Kenya: A Model-Based Analysis.",
+      "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33106850/",
+      "semantic_score": 0.3638937473297119,
+      "matched_sentences": [
+        "In Western Kenya up to one-quarter of the adult population was human immunodeficiency virus (HIV)-infected in 2012."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02928900",
+      "title": "Patient Actor Training to Improve HIV Services for Adolescents in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT02928900",
+      "semantic_score": 0.3626537322998047,
+      "matched_sentences": [
+        "The goal of this study is to develop and evaluate a clinical training intervention utilizing standardized patient actors to improve communication and interpersonal skills of health care workers who serve HIV-infected adolescents and youth in Kenya, resulting in increased engagement in HIV care.",
+        "To evaluate the intervention, a cluster randomized controlled stepped-wedge trial will be conducted in 24 HIV care and treatment facilities to assess the impact of SP encounters on the proportion of adolescents and youth patients retained in care at HIV treatment facilities in Kenya (Aim 2)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38857015",
+      "title": "Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38857015/",
+      "semantic_score": 0.3624906837940216,
+      "matched_sentences": [
+        "This randomized clinical trial was conducted at inpatient pediatric services of 1 tertiary care and 1 district hospital in Zambia and a tertiary care center in Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38976993",
+      "title": "Impact of a point-of-care urine tenofovir assay on adherence to HIV pre-exposure prophylaxis among women in Kenya: a randomised pilot trial.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38976993/",
+      "semantic_score": 0.3613976240158081,
+      "matched_sentences": [
+        "This randomised trial enrolled women not in serodiscordant partnerships 3 months after PrEP initiation at the Kenya Medical Research Institute to compare standard-of-care adherence counselling versus counselling informed by the urine assay (urine-test counselling group) every 3 months for 12 months."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01711411",
+      "title": "Observational Study of Male Circumcision Using PrePex Device",
+      "study_type": "OBSERVATIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT01711411",
+      "semantic_score": 0.3609653115272522,
+      "matched_sentences": [
+        "Following Kenyan support of one of the key research studies demonstrating the preventive effectiveness of MC, the Kenyan Ministry of Health (MOH) began a national voluntary medical male circumcision (VMMC) program in 2008, based on a National Guidance document."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37433031",
+      "title": "Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37433031/",
+      "semantic_score": 0.3598615527153015,
+      "matched_sentences": [
+        "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34732683",
+      "title": "Evaluation of the Performance of OraQuick Rapid HIV-1/2 Test Among Decedents in Kisumu, Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34732683/",
+      "semantic_score": 0.3598206043243408,
+      "matched_sentences": [
+        "HIV/AIDS accounted for the third most frequent cause of deaths in Kenya; 39.7 deaths per 100,000 population in 2019."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36912204",
+      "title": "Uptake and continuation of HIV pre-exposure prophylaxis among women of reproductive age in two health facilities in Kisumu County, Kenya.",
+      "study_type": "Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36912204/",
+      "semantic_score": 0.35917818546295166,
+      "matched_sentences": [
+        "In 2020, Kenya had 19,000 new HIV infections among women aged 15+ years.",
+        "A retrospective cohort of 262 women aged 15-49 years, initiated into oral PrEP between 12 November 2019 and 31 March 2021, was identified from two health facilities in the urban setting of Kisumu County, Kenya.",
+        "We assessed the uptake and continuation of oral PrEP among women 15-49 years in two health facilities in Kisumu County, Kenya."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04778813",
+      "title": "Evaluation of Three Artemisinin-based Combinations for the Treatment of Uncomplicated Malaria in Childreen in Burkina Faso (CHIMIO2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04778813",
+      "semantic_score": 0.35905149579048157,
+      "matched_sentences": [
+        "Bakground In Burkina Faso, since the adoption of this new malaria treatment policy in 2005, several studies evaluating the efficacy and tolerance of ACTs have been carried out by different research teams at different sites according to an irregular chronology and according to different methods."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2605137094",
+      "title": "Exposure Factors Associated with Visceral Leishmaniasis (kala-azar) in Loima Sub-County of Turkana County, Kenya",
+      "study_type": "article",
+      "year": "2017",
+      "url": "https://doi.org/10.11648/j.ajlm.20170206.16",
+      "semantic_score": 0.3574162721633911,
+      "matched_sentences": [
+        "Objective: To assess the exposure factors associated with kala-azar in Loima sub-county of Turkana County, Kenya."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2418380127",
+      "title": "Cervical cancer prevention and treatment research in Africa: a systematic review from a public health perspective",
+      "study_type": "review",
+      "year": "2016",
+      "url": "https://doi.org/10.1186/s12905-016-0306-6",
+      "semantic_score": 0.3567031919956207,
+      "matched_sentences": [
+        "treatment of disease with effective medicine) and quality of life of cervical cancer survivors are two severely under-researched areas."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17348738",
+      "title": "Situational analysis of leishmaniases research in Kenya.",
+      "study_type": "Journal Article",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17348738/",
+      "semantic_score": 0.3562946319580078,
+      "matched_sentences": [
+        "KEMRI, a founding partner of the Drugs for Neglected Disease Initiative (DNDi), whose overall aim is to address lack of new or improved drugs for neglected diseases (which include leishmaniases, malaria, trypanosomiasis and Chagas disease) has made major contributions in leishmaniases research and control in Kenya and the eastern Africa region."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2127909367",
+      "title": "Situational Analysis of &lt;i&gt;Leishmaniases&lt;/i&gt; Research in Kenya",
+      "study_type": "article",
+      "year": "2008",
+      "url": "https://doi.org/10.4314/ajhs.v13i1.30812",
+      "semantic_score": 0.3562946319580078,
+      "matched_sentences": [
+        "KEMRI, a founding partner of the Drugs for Neglected Disease Initiative (DNDi), whose overall aim is to address lack of new or improved drugs for neglected diseases (which include leishmaniases, malaria, trypanosomiasis and Chagas disease) has made major contributions in leishmaniases research and control in Kenya and the eastern Africa region."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2519771084",
+      "title": "Cholera Prevention and Control in Kenya",
+      "study_type": "article",
+      "year": "2019",
+      "url": "https://cdr.lib.unc.edu/record/uuid:ec570afe-a337-42ef-9b9d-7e1cdebd2c6a",
+      "semantic_score": 0.35598576068878174,
+      "matched_sentences": [
+        "The goal of this study was to produce information that will be useful to the Government of Kenya in establishing or strengthening policies and programs that effectively prevent and control cholera."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41001521",
+      "title": "What is the potential impact of insecticide treated nets in a semi-arid region of northern Kenya? An investigation of vector populations prior to ITN roll-out in Turkana, Kenya.",
+      "study_type": "Journal Article, Preprint",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41001521/",
+      "semantic_score": 0.3543868660926819,
+      "matched_sentences": [
+        "The malaria ecology of northern Kenya differs from the rest of the country."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05385484",
+      "title": "A Savings Intervention to Reduce Men's Engagement in HIV Risk Behaviors",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05385484",
+      "semantic_score": 0.3540570139884949,
+      "matched_sentences": [
+        "This randomized control trial will test an economic intervention to reduce Kenyan men's engagement in behaviors that increase the risk of HIV/STIs."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.35365086793899536,
+      "matched_sentences": [
+        "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05842122",
+      "title": "Pharmacy-based PrEP Delivery in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05842122",
+      "semantic_score": 0.3528284430503845,
+      "matched_sentences": [
+        "The goal is to assess the effect of different pharmacy-based PrEP/PEP service delivery models on PrEP/PEP initiation and continuation outcomes, compared to pharmacy referral to clinic-based PrEP/PEP services (i.e., what is currently allowed in Kenya at the moment without any changes to policies or guidelines)."
+      ]
+    }
+  ]
+}

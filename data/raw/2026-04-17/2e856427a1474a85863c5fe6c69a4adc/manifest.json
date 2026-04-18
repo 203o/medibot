@@ -1,0 +1,72 @@
+{
+  "run_id": "2e856427a1474a85863c5fe6c69a4adc",
+  "stored_at": "2026-04-17T23:09:54+00:00",
+  "query": "cancer non cancer causes death USA",
+  "query_fallbacks": [
+    "cancer non cancer causes death USA",
+    "Epidemiology of non-cancer mortality in the United States",
+    "Risk factors for non-cancer death in USA population",
+    "Comparative analysis of cancer and non-cancer mortality rates",
+    "Synthesis of evidence on non-cancer causes of death in USA",
+    "cancer non cancer causes death",
+    "cancer non cancer causes treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer non cancer causes death USA",
+    "cancer non cancer causes death",
+    "cancer non cancer causes treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "Epidemiology of non-cancer mortality in the United States",
+    "Risk factors for non-cancer death in USA population",
+    "Comparative analysis of cancer and non-cancer mortality rates",
+    "Synthesis of evidence on non-cancer causes of death in USA"
+  ],
+  "keywords": [
+    "cancer",
+    "non",
+    "causes",
+    "death",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 32,
+    "indexed_chunks": 111
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Epidemiology of non-cancer mortality in the United States",
+      "Risk factors for non-cancer death in USA population",
+      "Comparative analysis of cancer and non-cancer mortality rates",
+      "Synthesis of evidence on non-cancer causes of death in USA"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2e856427a1474a85863c5fe6c69a4adc\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2e856427a1474a85863c5fe6c69a4adc\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2e856427a1474a85863c5fe6c69a4adc\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\2e856427a1474a85863c5fe6c69a4adc\\combined.records.json"
+  }
+}

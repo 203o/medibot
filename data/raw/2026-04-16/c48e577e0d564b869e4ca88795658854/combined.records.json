@@ -1,0 +1,2128 @@
+{
+  "query": "lung cancer latest treatment therapy management UK",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management UK",
+    "lung cancer treatment guidelines UK",
+    "UK lung cancer management practices",
+    "epidemiology of lung cancer treatment UK",
+    "systematic review lung cancer therapy UK",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management UK",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment guidelines UK",
+    "UK lung cancer management practices",
+    "epidemiology of lung cancer treatment UK",
+    "systematic review lung cancer therapy UK"
+  ],
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment guidelines UK",
+      "UK lung cancer management practices",
+      "epidemiology of lung cancer treatment UK",
+      "systematic review lung cancer therapy UK"
+    ],
+    "reason": "ok"
+  },
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer"
+  ],
+  "medical_context": {
+    "medical_context": {
+      "disease": "lung cancer",
+      "intent": "Latest treatment for lung cancer",
+      "location": "UK"
+    },
+    "max_results": 30,
+    "sources": [
+      "pubmed",
+      "clinicaltrials",
+      "openalex"
+    ]
+  },
+  "pubmed_records": [
+    {
+      "pmid": "40673977",
+      "title": "Personalized care for patients with EGFR-mutant nonsmall cell lung cancer: Navigating early to advanced disease management.",
+      "journal": "CA: a cancer journal for clinicians",
+      "abstract_sections": [
+        "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs). These therapies offer improved survival and reduced side effects compared with conventional treatments. Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer. TKIs are now incorporated into the management of early stage and locally advanced disease, and phase 3 trials have explored combination strategies in metastatic settings. Although these intensified approaches improve progression-free survival, they come with increased toxicity and higher costs, underscoring the need for precise patient selection to maximize benefit. Emerging data on biomarkers, such as co-mutations and circulating tumor DNA, show promise for refining treatment decisions. In addition, significant progress in understanding resistance mechanisms to EGFR TKIs has broadened therapeutic options. This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence."
+      ],
+      "abstract": "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs). These therapies offer improved survival and reduced side effects compared with conventional treatments. Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer. TKIs are now incorporated into the management of early stage and locally advanced disease, and phase 3 trials have explored combination strategies in metastatic settings. Although these intensified approaches improve progression-free survival, they come with increased toxicity and higher costs, underscoring the need for precise patient selection to maximize benefit. Emerging data on biomarkers, such as co-mutations and circulating tumor DNA, show promise for refining treatment decisions. In addition, significant progress in understanding resistance mechanisms to EGFR TKIs has broadened therapeutic options. This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence.",
+      "evidence_sentences": [
+        "This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence.",
+        "Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer.",
+        "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Maxime Borgeaud",
+        "Timothée Olivier",
+        "Jair Bar",
+        "Stephanie Pei Li Saw",
+        "Kaushal Parikh",
+        "Giuseppe Luigi Banna",
+        "Claudio De Vito",
+        "Jill Feldman",
+        "Xiuning Le",
+        "Alfredo Addeo"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40673977/"
+    },
+    {
+      "pmid": "34862216",
+      "title": "Lung cancer for the non-respiratory physician.",
+      "journal": "Clinical medicine (London, England)",
+      "abstract_sections": [
+        "Lung cancer continues to be the leading cause of cancer death globally. Delayed diagnosis is a major contributing factor to poor outcomes and remains a key challenge to overcome. While debate around the implementation of lung cancer screening for asymptomatic high-risk individuals continues, rapid access to relevant diagnostic tests is essential. The new National Optimal Lung Cancer Pathway describes 'diagnostic standards of care' in an effort to implement best practice, reduce variation and improve delays in diagnosis, staging and treatment of lung cancer. Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment. We provide an overview of the core lung cancer diagnostic steps, recognition and management of acute presentations as well as the latest treatment options."
+      ],
+      "abstract": "Lung cancer continues to be the leading cause of cancer death globally. Delayed diagnosis is a major contributing factor to poor outcomes and remains a key challenge to overcome. While debate around the implementation of lung cancer screening for asymptomatic high-risk individuals continues, rapid access to relevant diagnostic tests is essential. The new National Optimal Lung Cancer Pathway describes 'diagnostic standards of care' in an effort to implement best practice, reduce variation and improve delays in diagnosis, staging and treatment of lung cancer. Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment. We provide an overview of the core lung cancer diagnostic steps, recognition and management of acute presentations as well as the latest treatment options.",
+      "evidence_sentences": [
+        "We provide an overview of the core lung cancer diagnostic steps, recognition and management of acute presentations as well as the latest treatment options.",
+        "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment.",
+        "The new National Optimal Lung Cancer Pathway describes 'diagnostic standards of care' in an effort to implement best practice, reduce variation and improve delays in diagnosis, staging and treatment of lung cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Emma O'Dowd",
+        "Joe Mackenzie",
+        "Haval Balata"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34862216/"
+    },
+    {
+      "pmid": "24067269",
+      "title": "Lung cancer: needs assessment, treatment and therapies.",
+      "journal": "British journal of nursing (Mark Allen Publishing)",
+      "abstract_sections": [
+        "Lung cancer is the most common cancer in the world. Globally, the annual diagnosis rate of new cases is approximately 1.6 million. The latest figures for the UK show that there are approximately 39000 cases each year and that lung cancer accounts for about 22% of all cancer deaths (Cancer Research UK, 2013a). This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies. It is not within the scope of this article to discuss each type and aspect of lung cancer in detail and further reading is encouraged."
+      ],
+      "abstract": "Lung cancer is the most common cancer in the world. Globally, the annual diagnosis rate of new cases is approximately 1.6 million. The latest figures for the UK show that there are approximately 39000 cases each year and that lung cancer accounts for about 22% of all cancer deaths (Cancer Research UK, 2013a). This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies. It is not within the scope of this article to discuss each type and aspect of lung cancer in detail and further reading is encouraged.",
+      "evidence_sentences": [
+        "This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies.",
+        "The latest figures for the UK show that there are approximately 39000 cases each year and that lung cancer accounts for about 22% of all cancer deaths (Cancer Research UK, 2013a).",
+        "It is not within the scope of this article to discuss each type and aspect of lung cancer in detail and further reading is encouraged."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Michael Evans"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24067269/"
+    },
+    {
+      "pmid": "40480014",
+      "title": "AGREE-II appraisal of lung cancer management clinical practice guidelines by the OPTIMA consortium.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Amongst all cancers, lung cancer is the leading cause of mortality worldwide and has the highest economic burden in the European Union. With rapidly evolving treatments, clinicians must keep up-to-date with the latest recommendations to ensure their patients receive the best care. Clinical practice guidelines support decision-making and improve care. The OPTIMA consortium aimed to identify and critically appraise relevant lung cancer clinical practice guidelines commonly used in Europe.",
+        "Clinical practice guidelines were identified through expert consensus and cross-checked against the International Guidelines Library. Two assessors independently appraised each guideline using the AGREE-II tool. Guideline contents including guideline characteristics and composition of panel were also reviewed.",
+        "We identified 21 guidelines. National UK and German lung cancer guidelines received the highest overall scores (7/7). Guidelines scored highest on clarity (median score 80.6%) while stakeholder involvement and applicability were the lowest scoring domains (median 50.0% each). The median intraclass correlation coefficient for all guidelines was 0.95 (interquartile range (IQR) 0.92-0.99), representing excellent inter-rater agreement. Differences between guidelines included number of specialties involved in development and guideline recommendations. Five (23.8%) included a patient or public representative and only one specified patient-reported outcome measures. Few guidelines considered how to optimise patients for treatment such as through nutrition assessment (n = 4, 19.0%) and prehabilitation (n = 3, 14.3%).",
+        "We identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025. Key recommendations for improvement include inclusion of diverse specialities and patient representatives in guideline development and addressing barriers to implementation."
+      ],
+      "abstract": "Amongst all cancers, lung cancer is the leading cause of mortality worldwide and has the highest economic burden in the European Union. With rapidly evolving treatments, clinicians must keep up-to-date with the latest recommendations to ensure their patients receive the best care. Clinical practice guidelines support decision-making and improve care. The OPTIMA consortium aimed to identify and critically appraise relevant lung cancer clinical practice guidelines commonly used in Europe.\n\nClinical practice guidelines were identified through expert consensus and cross-checked against the International Guidelines Library. Two assessors independently appraised each guideline using the AGREE-II tool. Guideline contents including guideline characteristics and composition of panel were also reviewed.\n\nWe identified 21 guidelines. National UK and German lung cancer guidelines received the highest overall scores (7/7). Guidelines scored highest on clarity (median score 80.6%) while stakeholder involvement and applicability were the lowest scoring domains (median 50.0% each). The median intraclass correlation coefficient for all guidelines was 0.95 (interquartile range (IQR) 0.92-0.99), representing excellent inter-rater agreement. Differences between guidelines included number of specialties involved in development and guideline recommendations. Five (23.8%) included a patient or public representative and only one specified patient-reported outcome measures. Few guidelines considered how to optimise patients for treatment such as through nutrition assessment (n = 4, 19.0%) and prehabilitation (n = 3, 14.3%).\n\nWe identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025. Key recommendations for improvement include inclusion of diverse specialities and patient representatives in guideline development and addressing barriers to implementation.",
+      "evidence_sentences": [
+        "The OPTIMA consortium aimed to identify and critically appraise relevant lung cancer clinical practice guidelines commonly used in Europe.",
+        "Amongst all cancers, lung cancer is the leading cause of mortality worldwide and has the highest economic burden in the European Union.",
+        "We identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Sindhu Bhaarrati Naidu",
+        "Amyn Bhamani",
+        "Charlotte Murray",
+        "Katharina Beyer",
+        "Rebecca C Rancourt",
+        "Thorben Witte",
+        "Wouter H van Geffen",
+        "Ilona Tietzova",
+        "Armin Frille",
+        "Adrien Costantini",
+        "Monika Schäfer",
+        "Steven MacLennan",
+        "Hagen Krüger",
+        "Solveiga Žibaitė",
+        "James N'Dow",
+        "Sara Jane MacLennan",
+        "Monique J Roobol",
+        "Sam M Janes",
+        "Neal Navani",
+        "Muhammad Imran Omar",
+        "Torsten Blum",
+        "OPTIMA Consortium"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40480014/"
+    },
+    {
+      "pmid": "40871018",
+      "title": "Inhalable Nanomaterial Discoveries for Lung Cancer Therapy: A Review.",
+      "journal": "Pharmaceutics",
+      "abstract_sections": [
+        "Lung cancer remains one of the most common and deadliest forms of cancer worldwide despite notable advancements in its management. Conventional treatments, such as chemotherapy, often have limitations in effectively targeting cancer cells, which frequently lead to off-target side effects. In this context, the pulmonary delivery of inhalable nanomaterials offers the advantages of being rapid, efficient, and target-specific, with minimal systemic side effects. This concise review summarizes the basic research and clinical translation of inhalable nanomaterials for the treatment of lung cancer. We also provide insights into the latest advances in pulmonary drug delivery systems, focusing on various types of pulmonary devices and nanomaterials. Furthermore, this paper discusses significant challenges in translating the discoveries of inhalable nanomaterials into clinical care for lung cancer and shares strategies to overcome these issues."
+      ],
+      "abstract": "Lung cancer remains one of the most common and deadliest forms of cancer worldwide despite notable advancements in its management. Conventional treatments, such as chemotherapy, often have limitations in effectively targeting cancer cells, which frequently lead to off-target side effects. In this context, the pulmonary delivery of inhalable nanomaterials offers the advantages of being rapid, efficient, and target-specific, with minimal systemic side effects. This concise review summarizes the basic research and clinical translation of inhalable nanomaterials for the treatment of lung cancer. We also provide insights into the latest advances in pulmonary drug delivery systems, focusing on various types of pulmonary devices and nanomaterials. Furthermore, this paper discusses significant challenges in translating the discoveries of inhalable nanomaterials into clinical care for lung cancer and shares strategies to overcome these issues.",
+      "evidence_sentences": [
+        "This concise review summarizes the basic research and clinical translation of inhalable nanomaterials for the treatment of lung cancer.",
+        "Lung cancer remains one of the most common and deadliest forms of cancer worldwide despite notable advancements in its management.",
+        "Conventional treatments, such as chemotherapy, often have limitations in effectively targeting cancer cells, which frequently lead to off-target side effects."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Iqra Safdar",
+        "Syed Mahmood",
+        "Muhammad Kumayl Abdulwahab",
+        "Suzita Mohd Noor",
+        "Yi Ge",
+        "Zarif Mohamed Sofian"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40871018/"
+    },
+    {
+      "pmid": "39136258",
+      "title": "Immune checkpoint inhibitors plus platinum-based chemotherapy compared to platinum-based chemotherapy with or without bevacizumab for first-line treatment of older people with advanced non-small cell lung cancer.",
+      "journal": "The Cochrane database of systematic reviews",
+      "abstract_sections": [
+        "Lung cancer is a cancer of the elderly, with a median age at diagnosis of 71. More than one-third of people diagnosed with lung cancer are over 75 years old. Immune checkpoint inhibitors (ICIs) are special antibodies that target a pathway in the immune system called the programmed cell death 1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway. These antibodies help the immune system fight cancer cells by blocking signals that cancer cells use to avoid being attacked by the immune system. ICIs have changed the treatment of people with lung cancer. In particular, for people with previously-untreated advanced non-small cell lung cancer (NSCLC), current first-line treatment now comprises ICIs plus platinum-based chemotherapy, rather than platinum-based chemotherapy alone, regardless of their PD-L1 expression status. However, as people age, their immune system changes, becoming less effective in its T cell responses. This raises questions about how well ICIs work in older adults.",
+        "To assess the effects of immune checkpoint inhibitors (ICIs) in combination with platinum-based chemotherapy compared to platinum-based chemotherapy (with or without bevacizumab) in treatment-naïve adults aged 65 years and older with advanced NSCLC.",
+        "We searched the Cochrane Lung Cancer Group Trial Register, CENTRAL, MEDLINE, Embase, two other trial registers, and the websites of drug regulators. The latest search date was 23 August 2023. We also checked references and searched abstracts from the meetings of seven cancer organisations from 2019 to August 2023.",
+        "We included randomised controlled trials (RCTs) that reported on the efficacy and safety of adding ICIs to platinum-based chemotherapy compared to platinum-based chemotherapy alone for people 65 years and older who had not previously been treated. All data emanated from international multicentre studies involving adults with histologically-confirmed advanced NSCLC who had not received any previous systemic anticancer therapy for their advanced disease.",
+        "We used standard methodological procedures expected by Cochrane. Our primary outcomes were overall survival and treatment-related adverse events (grade 3 or higher). Our secondary outcomes were progression-free survival, objective response rate, time to response, duration of response, and health-related quality of life (HRQoL).",
+        "We included 17 primary studies, with a total of 4276 participants, in the review synthesis. We identified nine ongoing studies, and listed one study as 'awaiting classification'. Twelve of the 17 studies included people older than 75 years, accounting for 9% to 13% of their participants. We rated some studies as having 'some concerns' for risk of bias arising from the randomisation process, deviations from the intended interventions, or measurement of the outcome. The overall GRADE rating for the certainty of the evidence ranged from moderate to low because of the risk of bias, imprecision, or inconsistency. People aged 65 years and older The addition of ICIs to platinum-based chemotherapy probably increased overall survival compared to platinum-based chemotherapy alone (hazard ratio (HR) 0.78, 95% confidence interval (CI) 0.70 to 0.88; 8 studies, 2093 participants; moderate-certainty evidence). Only one study reported data for treatment-related adverse events (grade 3 or higher). The frequency of treatment-related adverse events may not differ between the two treatment groups (risk ratio (RR) 1.09, 95% CI 0.89 to 1.32; 1 study, 127 participants; low-certainty evidence). The addition of ICIs to platinum-based chemotherapy probably improves progression-free survival (HR 0.61, 95% CI 0.54 to 0.68; 7 studies, 1885 participants; moderate-certainty evidence). People aged 65 to 75 years, inclusive The addition of ICIs to platinum-based chemotherapy probably improved overall survival compared to platinum-based chemotherapy alone (HR 0.75, 95% CI 0.65 to 0.87; 6 studies, 1406 participants; moderate-certainty evidence). Only one study reported data for treatment-related adverse events (grade 3 or higher). The frequency of treatment-related adverse events probably increased in people treated with ICIs plus platinum-based chemotherapy compared to those treated with platinum-based chemotherapy alone (RR 1.47, 95% CI 1.02 to 2.13; 1 study, 97 participants; moderate-certainty evidence). The addition of ICIs to platinum-based chemotherapy probably improved progression-free survival (HR 0.64, 95% CI 0.57 to 0.73; 8 studies, 1466 participants; moderate-certainty evidence). People aged 75 years and older There may be no difference in overall survival in people treated with ICIs combined with platinum-based chemotherapy compared to platinum-based chemotherapy alone (HR 0.90, 95% CI 0.70 to 1.16; 4 studies, 297 participants; low-certainty evidence). No data on treatment-related adverse events were available in this age group. The effect of combination ICI and platinum-based chemotherapy on progression-free survival is uncertain (HR 0.83, 95% CI 0.51 to 1.36; 3 studies, 226 participants; very low-certainty evidence). Only three studies assessed the objective response rate. For time to response, duration of response, and health-related quality of life, we do not have any evidence yet.",
+        "Compared to platinum-based chemotherapy alone, adding ICIs to platinum-based chemotherapy probably leads to higher overall survival and progression-free survival, without an increase in treatment-related adverse events (grade 3 or higher), in people 65 years and older with advanced NSCLC. These data are based on results from studies dominated by participants between 65 and 75 years old. However, the analysis also suggests that the improvements reported in overall survival and progression-free survival may not be seen in people older than 75 years."
+      ],
+      "abstract": "Lung cancer is a cancer of the elderly, with a median age at diagnosis of 71. More than one-third of people diagnosed with lung cancer are over 75 years old. Immune checkpoint inhibitors (ICIs) are special antibodies that target a pathway in the immune system called the programmed cell death 1/programmed cell death-ligand 1 (PD-1/PD-L1) pathway. These antibodies help the immune system fight cancer cells by blocking signals that cancer cells use to avoid being attacked by the immune system. ICIs have changed the treatment of people with lung cancer. In particular, for people with previously-untreated advanced non-small cell lung cancer (NSCLC), current first-line treatment now comprises ICIs plus platinum-based chemotherapy, rather than platinum-based chemotherapy alone, regardless of their PD-L1 expression status. However, as people age, their immune system changes, becoming less effective in its T cell responses. This raises questions about how well ICIs work in older adults.\n\nTo assess the effects of immune checkpoint inhibitors (ICIs) in combination with platinum-based chemotherapy compared to platinum-based chemotherapy (with or without bevacizumab) in treatment-naïve adults aged 65 years and older with advanced NSCLC.\n\nWe searched the Cochrane Lung Cancer Group Trial Register, CENTRAL, MEDLINE, Embase, two other trial registers, and the websites of drug regulators. The latest search date was 23 August 2023. We also checked references and searched abstracts from the meetings of seven cancer organisations from 2019 to August 2023.\n\nWe included randomised controlled trials (RCTs) that reported on the efficacy and safety of adding ICIs to platinum-based chemotherapy compared to platinum-based chemotherapy alone for people 65 years and older who had not previously been treated. All data emanated from international multicentre studies involving adults with histologically-confirmed advanced NSCLC who had not received any previous systemic anticancer therapy for their advanced disease.\n\nWe used standard methodological procedures expected by Cochrane. Our primary outcomes were overall survival and treatment-related adverse events (grade 3 or higher). Our secondary outcomes were progression-free survival, objective response rate, time to response, duration of response, and health-related quality of life (HRQoL).\n\nWe included 17 primary studies, with a total of 4276 participants, in the review synthesis. We identified nine ongoing studies, and listed one study as 'awaiting classification'. Twelve of the 17 studies included people older than 75 years, accounting for 9% to 13% of their participants. We rated some studies as having 'some concerns' for risk of bias arising from the randomisation process, deviations from the intended interventions, or measurement of the outcome. The overall GRADE rating for the certainty of the evidence ranged from moderate to low because of the risk of bias, imprecision, or inconsistency. People aged 65 years and older The addition of ICIs to platinum-based chemotherapy probably increased overall survival compared to platinum-based chemotherapy alone (hazard ratio (HR) 0.78, 95% confidence interval (CI) 0.70 to 0.88; 8 studies, 2093 participants; moderate-certainty evidence). Only one study reported data for treatment-related adverse events (grade 3 or higher). The frequency of treatment-related adverse events may not differ between the two treatment groups (risk ratio (RR) 1.09, 95% CI 0.89 to 1.32; 1 study, 127 participants; low-certainty evidence). The addition of ICIs to platinum-based chemotherapy probably improves progression-free survival (HR 0.61, 95% CI 0.54 to 0.68; 7 studies, 1885 participants; moderate-certainty evidence). People aged 65 to 75 years, inclusive The addition of ICIs to platinum-based chemotherapy probably improved overall survival compared to platinum-based chemotherapy alone (HR 0.75, 95% CI 0.65 to 0.87; 6 studies, 1406 participants; moderate-certainty evidence). Only one study reported data for treatment-related adverse events (grade 3 or higher). The frequency of treatment-related adverse events probably increased in people treated with ICIs plus platinum-based chemotherapy compared to those treated with platinum-based chemotherapy alone (RR 1.47, 95% CI 1.02 to 2.13; 1 study, 97 participants; moderate-certainty evidence). The addition of ICIs to platinum-based chemotherapy probably improved progression-free survival (HR 0.64, 95% CI 0.57 to 0.73; 8 studies, 1466 participants; moderate-certainty evidence). People aged 75 years and older There may be no difference in overall survival in people treated with ICIs combined with platinum-based chemotherapy compared to platinum-based chemotherapy alone (HR 0.90, 95% CI 0.70 to 1.16; 4 studies, 297 participants; low-certainty evidence). No data on treatment-related adverse events were available in this age group. The effect of combination ICI and platinum-based chemotherapy on progression-free survival is uncertain (HR 0.83, 95% CI 0.51 to 1.36; 3 studies, 226 participants; very low-certainty evidence). Only three studies assessed the objective response rate. For time to response, duration of response, and health-related quality of life, we do not have any evidence yet.\n\nCompared to platinum-based chemotherapy alone, adding ICIs to platinum-based chemotherapy probably leads to higher overall survival and progression-free survival, without an increase in treatment-related adverse events (grade 3 or higher), in people 65 years and older with advanced NSCLC. These data are based on results from studies dominated by participants between 65 and 75 years old. However, the analysis also suggests that the improvements reported in overall survival and progression-free survival may not be seen in people older than 75 years.",
+      "evidence_sentences": [
+        "In particular, for people with previously-untreated advanced non-small cell lung cancer (NSCLC), current first-line treatment now comprises ICIs plus platinum-based chemotherapy, rather than platinum-based chemotherapy alone, regardless of their PD-L1 expression status.",
+        "ICIs have changed the treatment of people with lung cancer.",
+        "We searched the Cochrane Lung Cancer Group Trial Register, CENTRAL, MEDLINE, Embase, two other trial registers, and the websites of drug regulators."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Emeline Orillard",
+        "Arjab Adhikari",
+        "Reem S Malouf",
+        "François Calais",
+        "Corynne Marchal",
+        "Virginie Westeel"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39136258/"
+    },
+    {
+      "pmid": "38301317",
+      "title": "Recent advances and future strategies in first-line treatment of ES-SCLC.",
+      "journal": "European journal of cancer (Oxford, England : 1990)",
+      "abstract_sections": [
+        "Recent advancements in treating extensive-stage small-cell lung cancer (ES-SCLC) have been significantly marked by incorporating immune checkpoint inhibitors (ICIs) into platinum-based chemotherapy, leading to modest yet notable improvements in patient outcomes, which become more evident with longer follow-up. However, critical challenges persist, such as identifying effective biomarkers for accurate patient selection or finding more effective drugs. This review delves into the current and evolving treatment landscape for ES-SCLC, focusing on the most promising therapeutic strategies under investigation. We discuss the latest developments in the use of newer ICIs, antiangiogenic agents, PARP inhibitors (PARPi), lurbinectedin, and anti-DLL3 agents, offering insights into potential future directions in the management of this aggressive cancer."
+      ],
+      "abstract": "Recent advancements in treating extensive-stage small-cell lung cancer (ES-SCLC) have been significantly marked by incorporating immune checkpoint inhibitors (ICIs) into platinum-based chemotherapy, leading to modest yet notable improvements in patient outcomes, which become more evident with longer follow-up. However, critical challenges persist, such as identifying effective biomarkers for accurate patient selection or finding more effective drugs. This review delves into the current and evolving treatment landscape for ES-SCLC, focusing on the most promising therapeutic strategies under investigation. We discuss the latest developments in the use of newer ICIs, antiangiogenic agents, PARP inhibitors (PARPi), lurbinectedin, and anti-DLL3 agents, offering insights into potential future directions in the management of this aggressive cancer.",
+      "evidence_sentences": [
+        "Recent advancements in treating extensive-stage small-cell lung cancer (ES-SCLC) have been significantly marked by incorporating immune checkpoint inhibitors (ICIs) into platinum-based chemotherapy, leading to modest yet notable improvements in patient outcomes, which become more evident with longer follow-up.",
+        "We discuss the latest developments in the use of newer ICIs, antiangiogenic agents, PARP inhibitors (PARPi), lurbinectedin, and anti-DLL3 agents, offering insights into potential future directions in the management of this aggressive cancer.",
+        "This review delves into the current and evolving treatment landscape for ES-SCLC, focusing on the most promising therapeutic strategies under investigation."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Igor Gomez-Randulfe",
+        "Rita Leporati",
+        "Brinda Gupta",
+        "Stephen Liu",
+        "Raffaele Califano"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38301317/"
+    },
+    {
+      "pmid": "33472960",
+      "title": "Update on biology and management of mesothelioma.",
+      "journal": "European respiratory review : an official journal of the European Respiratory Society",
+      "abstract_sections": [
+        "Malignant pleural mesothelioma is an aggressive, incurable cancer that is usually caused by asbestos exposure several decades before symptoms arise. Despite widespread prohibition of asbestos production and supply, its incidence continues to increase. It is heterogeneous in its presentation and behaviour, and diagnosis can be notoriously difficult. Identification of actionable gene mutations has proven challenging and current treatment options are largely ineffective, with a median survival of 10-12 months.However, the past few years have witnessed major advances in our understanding of the biology and pathogenesis of mesothelioma. This has also revealed the limitations of existing diagnostic algorithms and identified new treatment targets.Recent clinical trials have re-examined the role of surgery, provided new options for the management of associated pleural effusions and heralded the addition of targeted therapies. The increasing complexity of mesothelioma management, along with a desperate need for further research, means that a multidisciplinary team framework is essential for the delivery of contemporary mesothelioma care.This review provides a synthesised overview of the current state of knowledge and an update on the latest research in the field."
+      ],
+      "abstract": "Malignant pleural mesothelioma is an aggressive, incurable cancer that is usually caused by asbestos exposure several decades before symptoms arise. Despite widespread prohibition of asbestos production and supply, its incidence continues to increase. It is heterogeneous in its presentation and behaviour, and diagnosis can be notoriously difficult. Identification of actionable gene mutations has proven challenging and current treatment options are largely ineffective, with a median survival of 10-12 months.However, the past few years have witnessed major advances in our understanding of the biology and pathogenesis of mesothelioma. This has also revealed the limitations of existing diagnostic algorithms and identified new treatment targets.Recent clinical trials have re-examined the role of surgery, provided new options for the management of associated pleural effusions and heralded the addition of targeted therapies. The increasing complexity of mesothelioma management, along with a desperate need for further research, means that a multidisciplinary team framework is essential for the delivery of contemporary mesothelioma care.This review provides a synthesised overview of the current state of knowledge and an update on the latest research in the field.",
+      "evidence_sentences": [
+        "The increasing complexity of mesothelioma management, along with a desperate need for further research, means that a multidisciplinary team framework is essential for the delivery of contemporary mesothelioma care.This review provides a synthesised overview of the current state of knowledge and an update on the latest research in the field.",
+        "This has also revealed the limitations of existing diagnostic algorithms and identified new treatment targets.Recent clinical trials have re-examined the role of surgery, provided new options for the management of associated pleural effusions and heralded the addition of targeted therapies.",
+        "Identification of actionable gene mutations has proven challenging and current treatment options are largely ineffective, with a median survival of 10-12 months.However, the past few years have witnessed major advances in our understanding of the biology and pathogenesis of mesothelioma."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Rachelle Asciak",
+        "Vineeth George",
+        "Najiib M Rahman"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33472960/"
+    },
+    {
+      "pmid": "36935639",
+      "title": "Plain language summary and patient perspective of the American Society for Clinical Oncology guideline: management of stage 3 non-small-cell lung cancer.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Patient Education Handout"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Rachel Jenkins",
+        "Joanne Walker",
+        "Upal Basu Roy"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36935639/"
+    },
+    {
+      "pmid": "26711934",
+      "title": "How should pulmonary nodules be optimally investigated and managed?",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Pulmonary nodules are a common incidental finding on CT and the inexorable rise in the use of CT (10% increase per year in the UK over the last decade) means that the frequency of their detection is likely to increase over coming years. This may be augmented further if CT screening is implemented. Management has previously been influenced by North American guidelines, with the most widely used resource to date being the Fleischner Society guidelines published in 2005. These predominantly focus on the timing of CT scans arranged to survey small pulmonary nodules (≤ 8 mm), and the guideline authors chose not to offer specific recommendations regarding larger nodules. More recently, the society published specific guidelines for sub-solid nodules, reflecting the different prognosis that this subtype of nodules confers. The American College of Chest Physicians have published two guidelines on pulmonary nodules-the latest was completed in 2012 and published in Chest the following year. However, the investigation and management of pulmonary nodules is a rapidly evolving subject largely driven by evidence from the large CT screening studies. In 2012, The British Thoracic Society (BTS) convened a guideline development group to address the topic of pulmonary nodule investigation and management, with publication of the guideline in July 2015. One third of the 359 references included in the guideline date from 2012 onwards, and many of the differences between the recommendations made and previous guideline recommendations reflect this recent evidence. This article reviews specific evidence considered in formulating the BTS guidelines, and summarises the main guideline recommendations."
+      ],
+      "abstract": "Pulmonary nodules are a common incidental finding on CT and the inexorable rise in the use of CT (10% increase per year in the UK over the last decade) means that the frequency of their detection is likely to increase over coming years. This may be augmented further if CT screening is implemented. Management has previously been influenced by North American guidelines, with the most widely used resource to date being the Fleischner Society guidelines published in 2005. These predominantly focus on the timing of CT scans arranged to survey small pulmonary nodules (≤ 8 mm), and the guideline authors chose not to offer specific recommendations regarding larger nodules. More recently, the society published specific guidelines for sub-solid nodules, reflecting the different prognosis that this subtype of nodules confers. The American College of Chest Physicians have published two guidelines on pulmonary nodules-the latest was completed in 2012 and published in Chest the following year. However, the investigation and management of pulmonary nodules is a rapidly evolving subject largely driven by evidence from the large CT screening studies. In 2012, The British Thoracic Society (BTS) convened a guideline development group to address the topic of pulmonary nodule investigation and management, with publication of the guideline in July 2015. One third of the 359 references included in the guideline date from 2012 onwards, and many of the differences between the recommendations made and previous guideline recommendations reflect this recent evidence. This article reviews specific evidence considered in formulating the BTS guidelines, and summarises the main guideline recommendations.",
+      "evidence_sentences": [
+        "In 2012, The British Thoracic Society (BTS) convened a guideline development group to address the topic of pulmonary nodule investigation and management, with publication of the guideline in July 2015.",
+        "Management has previously been influenced by North American guidelines, with the most widely used resource to date being the Fleischner Society guidelines published in 2005.",
+        "The American College of Chest Physicians have published two guidelines on pulmonary nodules-the latest was completed in 2012 and published in Chest the following year."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Matthew E J Callister",
+        "David R Baldwin"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26711934/"
+    },
+    {
+      "pmid": "41092927",
+      "title": "Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950-2023: a demographic analysis for the Global Burden of Disease Study 2023.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "Comprehensive, comparable, and timely estimates of demographic metrics-including life expectancy and age-specific mortality-are essential for evaluating, understanding, and addressing trends in population health. The COVID-19 pandemic highlighted the importance of timely and all-cause mortality estimates for being able to respond to changing trends in health outcomes, showing a strong need for demographic analysis tools that can produce all-cause mortality estimates more rapidly with more readily available all-age vital registration (VR) data. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) is an ongoing research effort that quantifies human health by estimating a range of epidemiological quantities of interest across time, age, sex, location, cause, and risk. This study-part of the latest GBD release, GBD 2023-aims to provide new and updated estimates of all-cause mortality and life expectancy for 1950 to 2023 using a novel statistical model that accounts for complex correlation structures in demographic data across age and time.",
+        "We used 24 025 data sources from VR, sample registration, surveys, censuses, and other sources to estimate all-cause mortality for males, females, and all sexes combined across 25 age groups in 204 countries and territories as well as 660 subnational units in 20 countries and territories, for the years 1950-2023. For the first time, we used complete birth history data for ages 5-14 years, age-specific sibling history data for ages 15-49 years, and age-specific mortality data from Health and Demographic Surveillance Systems. We developed a single statistical model that incorporates both parametric and non-parametric methods, referred to as OneMod, to produce estimates of all-cause mortality for each age-sex-location group. OneMod includes two main steps: a detailed regression analysis with a generalised linear modelling tool that accounts for age-specific covariate effects such as the Socio-demographic Index (SDI) and a population attributable fraction (PAF) for all risk factors combined; and a non-parametric analysis of residuals using a multivariate kernel regression model that smooths across age and time to adaptably follow trends in the data without overfitting. We calibrated asymptotic uncertainty estimates using Pearson residuals to produce 95% uncertainty intervals (UIs) and corresponding 1000 draws. Life expectancy was calculated from age-specific mortality rates with standard demographic methods. For each measure, 95% UIs were calculated with the 25th and 975th ordered values from a 1000-draw posterior distribution.",
+        "In 2023, 60·1 million (95% UI 59·0-61·1) deaths occurred globally, of which 4·67 million (4·59-4·75) were in children younger than 5 years. Due to considerable population growth and ageing since 1950, the number of annual deaths globally increased by 35·2% (32·2-38·4) over the 1950-2023 study period, during which the global age-standardised all-cause mortality rate declined by 66·6% (65·8-67·3). Trends in age-specific mortality rates between 2011 and 2023 varied by age group and location, with the largest decline in under-5 mortality occurring in east Asia (67·7% decrease); the largest increases in mortality for those aged 5-14 years, 25-29 years, and 30-39 years occurring in high-income North America (11·5%, 31·7%, and 49·9%, respectively); and the largest increases in mortality for those aged 15-19 years and 20-24 years occurring in Eastern Europe (53·9% and 40·1%, respectively). We also identified higher than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 5-14 years (87·3% higher in GBD 2023 than GBD 2021 on average across countries and territories over the 1950-2021 period) and for females aged 15-29 years (61·2% higher), as well as lower than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 50 years and older (13·2% lower), reflecting advances in our modelling approach. Global life expectancy followed three distinct trends over the study period. First, between 1950 and 2019, there were considerable improvements, from 51·2 (50·6-51·7) years for females and 47·9 (47·4-48·4) years for males in 1950 to 76·3 (76·2-76·4) years for females and 71·4 (71·3-71·5) years for males in 2019. Second, this period was followed by a decrease in life expectancy during the COVID-19 pandemic, to 74·7 (74·6-74·8) years for females and 69·3 (69·2-69·4) years for males in 2021. Finally, the world experienced a period of post-pandemic recovery in 2022 and 2023, wherein life expectancy generally returned to pre-pandemic (2019) levels in 2023 (76·3 [76·0-76·6] years for females and 71·5 [71·2-71·8] years for males). 194 (95·1%) of 204 countries and territories experienced at least partial post-pandemic recovery in age-standardised mortality rates by 2023, with 61·8% (126 of 204) recovering to or falling below pre-pandemic levels. There were several mortality trajectories during and following the pandemic across countries and territories. Long-term mortality trends also varied considerably between age groups and locations, demonstrating the diverse landscape of health outcomes globally.",
+        "This analysis identified several key differences in mortality trends from previous estimates, including higher rates of adolescent mortality, higher rates of young adult mortality in females, and lower rates of mortality in older age groups in much of sub-Saharan Africa. The findings also highlight stark differences across countries and territories in the timing and scale of changes in all-cause mortality trends during and following the COVID-19 pandemic (2020-23). Our estimates of evolving trends in mortality and life expectancy across locations, ages, sexes, and SDI levels in recent years as well as over the entire 1950-2023 study period provide crucial information for governments, policy makers, and the public to ensure that health-care systems, economies, and societies are prepared to address the world's health needs, particularly in populations with higher rates of mortality than previously known. The estimates from this study provide a robust framework for GBD and a valuable foundation for policy development, implementation, and evaluation around the world.",
+        "Gates Foundation."
+      ],
+      "abstract": "Comprehensive, comparable, and timely estimates of demographic metrics-including life expectancy and age-specific mortality-are essential for evaluating, understanding, and addressing trends in population health. The COVID-19 pandemic highlighted the importance of timely and all-cause mortality estimates for being able to respond to changing trends in health outcomes, showing a strong need for demographic analysis tools that can produce all-cause mortality estimates more rapidly with more readily available all-age vital registration (VR) data. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) is an ongoing research effort that quantifies human health by estimating a range of epidemiological quantities of interest across time, age, sex, location, cause, and risk. This study-part of the latest GBD release, GBD 2023-aims to provide new and updated estimates of all-cause mortality and life expectancy for 1950 to 2023 using a novel statistical model that accounts for complex correlation structures in demographic data across age and time.\n\nWe used 24 025 data sources from VR, sample registration, surveys, censuses, and other sources to estimate all-cause mortality for males, females, and all sexes combined across 25 age groups in 204 countries and territories as well as 660 subnational units in 20 countries and territories, for the years 1950-2023. For the first time, we used complete birth history data for ages 5-14 years, age-specific sibling history data for ages 15-49 years, and age-specific mortality data from Health and Demographic Surveillance Systems. We developed a single statistical model that incorporates both parametric and non-parametric methods, referred to as OneMod, to produce estimates of all-cause mortality for each age-sex-location group. OneMod includes two main steps: a detailed regression analysis with a generalised linear modelling tool that accounts for age-specific covariate effects such as the Socio-demographic Index (SDI) and a population attributable fraction (PAF) for all risk factors combined; and a non-parametric analysis of residuals using a multivariate kernel regression model that smooths across age and time to adaptably follow trends in the data without overfitting. We calibrated asymptotic uncertainty estimates using Pearson residuals to produce 95% uncertainty intervals (UIs) and corresponding 1000 draws. Life expectancy was calculated from age-specific mortality rates with standard demographic methods. For each measure, 95% UIs were calculated with the 25th and 975th ordered values from a 1000-draw posterior distribution.\n\nIn 2023, 60·1 million (95% UI 59·0-61·1) deaths occurred globally, of which 4·67 million (4·59-4·75) were in children younger than 5 years. Due to considerable population growth and ageing since 1950, the number of annual deaths globally increased by 35·2% (32·2-38·4) over the 1950-2023 study period, during which the global age-standardised all-cause mortality rate declined by 66·6% (65·8-67·3). Trends in age-specific mortality rates between 2011 and 2023 varied by age group and location, with the largest decline in under-5 mortality occurring in east Asia (67·7% decrease); the largest increases in mortality for those aged 5-14 years, 25-29 years, and 30-39 years occurring in high-income North America (11·5%, 31·7%, and 49·9%, respectively); and the largest increases in mortality for those aged 15-19 years and 20-24 years occurring in Eastern Europe (53·9% and 40·1%, respectively). We also identified higher than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 5-14 years (87·3% higher in GBD 2023 than GBD 2021 on average across countries and territories over the 1950-2021 period) and for females aged 15-29 years (61·2% higher), as well as lower than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 50 years and older (13·2% lower), reflecting advances in our modelling approach. Global life expectancy followed three distinct trends over the study period. First, between 1950 and 2019, there were considerable improvements, from 51·2 (50·6-51·7) years for females and 47·9 (47·4-48·4) years for males in 1950 to 76·3 (76·2-76·4) years for females and 71·4 (71·3-71·5) years for males in 2019. Second, this period was followed by a decrease in life expectancy during the COVID-19 pandemic, to 74·7 (74·6-74·8) years for females and 69·3 (69·2-69·4) years for males in 2021. Finally, the world experienced a period of post-pandemic recovery in 2022 and 2023, wherein life expectancy generally returned to pre-pandemic (2019) levels in 2023 (76·3 [76·0-76·6] years for females and 71·5 [71·2-71·8] years for males). 194 (95·1%) of 204 countries and territories experienced at least partial post-pandemic recovery in age-standardised mortality rates by 2023, with 61·8% (126 of 204) recovering to or falling below pre-pandemic levels. There were several mortality trajectories during and following the pandemic across countries and territories. Long-term mortality trends also varied considerably between age groups and locations, demonstrating the diverse landscape of health outcomes globally.\n\nThis analysis identified several key differences in mortality trends from previous estimates, including higher rates of adolescent mortality, higher rates of young adult mortality in females, and lower rates of mortality in older age groups in much of sub-Saharan Africa. The findings also highlight stark differences across countries and territories in the timing and scale of changes in all-cause mortality trends during and following the COVID-19 pandemic (2020-23). Our estimates of evolving trends in mortality and life expectancy across locations, ages, sexes, and SDI levels in recent years as well as over the entire 1950-2023 study period provide crucial information for governments, policy makers, and the public to ensure that health-care systems, economies, and societies are prepared to address the world's health needs, particularly in populations with higher rates of mortality than previously known. The estimates from this study provide a robust framework for GBD and a valuable foundation for policy development, implementation, and evaluation around the world.\n\nGates Foundation.",
+      "evidence_sentences": [
+        "This study-part of the latest GBD release, GBD 2023-aims to provide new and updated estimates of all-cause mortality and life expectancy for 1950 to 2023 using a novel statistical model that accounts for complex correlation structures in demographic data across age and time.",
+        "OneMod includes two main steps: a detailed regression analysis with a generalised linear modelling tool that accounts for age-specific covariate effects such as the Socio-demographic Index (SDI) and a population attributable fraction (PAF) for all risk factors combined; and a non-parametric analysis of residuals using a multivariate kernel regression model that smooths across age and time to adaptably follow trends in the data without overfitting.",
+        "Our estimates of evolving trends in mortality and life expectancy across locations, ages, sexes, and SDI levels in recent years as well as over the entire 1950-2023 study period provide crucial information for governments, policy makers, and the public to ensure that health-care systems, economies, and societies are prepared to address the world's health needs, particularly in populations with higher rates of mortality than previously known."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "GBD 2023 Demographics Collaborators"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41092927/"
+    },
+    {
+      "pmid": "40386733",
+      "title": "Multidisciplinary international expert consensus on perioperative airway management.",
+      "journal": "Translational lung cancer research",
+      "abstract_sections": [
+        "Perioperative airway management is critical for patient safety and optimal surgical outcomes. Effective airway management reduces postoperative pulmonary complications and accelerates recovery. This expert consensus aims to update the earlier consensus based on the latest research and emphasize aspects that were previously overlooked.",
+        "A comprehensive search up to June 2024 was performed. Earlier consensus documents were reviewed to ensure thorough coverage. A modified Delphi method involved 62 domestic experts from various surgical and anesthetic specialties who discussed and voted on preliminary recommendations in face-to-face meetings, requiring ≥70% agreement. Drafts were then reviewed by 18 international experts via email to incorporate diverse insights.",
+        "Through the modified Delphi method, consensus was achieved with ≥70% agreement among the 62 domestic experts, ensuring that the preliminary recommendations were robust and widely supported. Additionally, feedback from the 18 international experts provided diverse insights that further refined and validated the recommendations. Recommendations were established for preoperative airway preparation, anesthesia management, surgical approach, postoperative airway management, and managing coexisting respiratory diseases. These recommendations update the perspectives of earlier consensus documents based on the latest research and emphasize non-intubated surgery, inhalation therapy, and individualized treatment for patients with coexisting pulmonary diseases.",
+        "This expert consensus provides a valuable reference for clinical practice. Further technological optimization and clinical research are needed to improve perioperative airway management."
+      ],
+      "abstract": "Perioperative airway management is critical for patient safety and optimal surgical outcomes. Effective airway management reduces postoperative pulmonary complications and accelerates recovery. This expert consensus aims to update the earlier consensus based on the latest research and emphasize aspects that were previously overlooked.\n\nA comprehensive search up to June 2024 was performed. Earlier consensus documents were reviewed to ensure thorough coverage. A modified Delphi method involved 62 domestic experts from various surgical and anesthetic specialties who discussed and voted on preliminary recommendations in face-to-face meetings, requiring ≥70% agreement. Drafts were then reviewed by 18 international experts via email to incorporate diverse insights.\n\nThrough the modified Delphi method, consensus was achieved with ≥70% agreement among the 62 domestic experts, ensuring that the preliminary recommendations were robust and widely supported. Additionally, feedback from the 18 international experts provided diverse insights that further refined and validated the recommendations. Recommendations were established for preoperative airway preparation, anesthesia management, surgical approach, postoperative airway management, and managing coexisting respiratory diseases. These recommendations update the perspectives of earlier consensus documents based on the latest research and emphasize non-intubated surgery, inhalation therapy, and individualized treatment for patients with coexisting pulmonary diseases.\n\nThis expert consensus provides a valuable reference for clinical practice. Further technological optimization and clinical research are needed to improve perioperative airway management.",
+      "evidence_sentences": [
+        "These recommendations update the perspectives of earlier consensus documents based on the latest research and emphasize non-intubated surgery, inhalation therapy, and individualized treatment for patients with coexisting pulmonary diseases.",
+        "Effective airway management reduces postoperative pulmonary complications and accelerates recovery.",
+        "Perioperative airway management is critical for patient safety and optimal surgical outcomes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Hengrui Liang",
+        "Guowei Che",
+        "Fei Cui",
+        "Junguo Dong",
+        "Weiquan Gu",
+        "Chundong Gu",
+        "Shun Xu",
+        "Yufeng Ba",
+        "Kaican Cai",
+        "Qingdong Cao",
+        "Chang Chen",
+        "Chun Chen",
+        "Qixun Chen",
+        "Liyang Cheng",
+        "Gang Feng",
+        "Yunjiu Gou",
+        "Wenwei Guo",
+        "Jinxi He",
+        "Junming He",
+        "Jian Hu",
+        "Ying Huang",
+        "Wenxi Wang",
+        "Wenjie Jiao",
+        "Shunjun Jiang",
+        "Jun Liu",
+        "Lan Lan",
+        "Wei Li",
+        "Xiaofei Li",
+        "Zhongcheng Li",
+        "Yin Li",
+        "Zhu Liang",
+        "Hongxu Liu",
+        "Yingbin Liu",
+        "Xinyu Mei",
+        "Xicheng Song",
+        "Daqiang Sun",
+        "Hui Tian",
+        "Ziqiang Tian",
+        "Jianhua Wang",
+        "Guangsuo Wang",
+        "Xin Xu",
+        "Xudong Xiang",
+        "Guobing Xu",
+        "Tao Xue",
+        "Chao Yang",
+        "Xiaolong Yan",
+        "Nuo Yang",
+        "Feng Yao",
+        "Dalong Yin",
+        "Xiaochuan Yin",
+        "Bentong Yu",
+        "Wei Zhai",
+        "Yu Zhang",
+        "Guangjian Zhang",
+        "Xiaowen Zhang",
+        "Qiang Zhang",
+        "Yi Zhang",
+        "Jun Zhao",
+        "Haihui Zhong",
+        "Alessandro Brunelli",
+        "Till Ploenes",
+        "Luca Bertolaccini",
+        "John Kit Chung Tam",
+        "Min P Kim",
+        "Majed Refai",
+        "Michel Gonzalez",
+        "Adam R Dyas",
+        "Nicoletta Pia Ardò",
+        "Hiran C Fernando",
+        "Giulio Maurizi",
+        "Gregor J Kocher",
+        "Giuseppe Marulli",
+        "Álvaro Fuentes-Martín",
+        "Gianluca Perroni",
+        "Kyung Soo Kim",
+        "Maria Rodriguez",
+        "Marcus Taylor",
+        "Xusen Zou",
+        "Wei Wang",
+        "Jianxing He"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40386733/"
+    },
+    {
+      "pmid": "31427060",
+      "title": "Malignancy and rheumatoid arthritis: Epidemiology, risk factors and management.",
+      "journal": "Best practice & research. Clinical rheumatology",
+      "abstract_sections": [
+        "Rheumatoid arthritis (RA) is a chronic inflammatory condition that can result in pain and functional disability. It is also associated with an increased occurrence of comorbidities, including an increased risk of certain cancers such as lung cancer and lymphoma. The aetiopathogenesis of this increased cancer risk is likely multifactorial and includes shared risk factors as well as chronic inflammation. There is also a concern that the treatment for RA itself may increase this risk further, particularly treatment with biologic disease-modifying anti-rheumatic drugs (DMARDs). This paper aims to review the evidence for the increased risk of cancer in RA as well as the latest evidence for the association between DMARDs and tumorigenesis. It also discusses the evidence for the management of patients with biologic DMARDs in the setting of existing cancer."
+      ],
+      "abstract": "Rheumatoid arthritis (RA) is a chronic inflammatory condition that can result in pain and functional disability. It is also associated with an increased occurrence of comorbidities, including an increased risk of certain cancers such as lung cancer and lymphoma. The aetiopathogenesis of this increased cancer risk is likely multifactorial and includes shared risk factors as well as chronic inflammation. There is also a concern that the treatment for RA itself may increase this risk further, particularly treatment with biologic disease-modifying anti-rheumatic drugs (DMARDs). This paper aims to review the evidence for the increased risk of cancer in RA as well as the latest evidence for the association between DMARDs and tumorigenesis. It also discusses the evidence for the management of patients with biologic DMARDs in the setting of existing cancer.",
+      "evidence_sentences": [
+        "It is also associated with an increased occurrence of comorbidities, including an increased risk of certain cancers such as lung cancer and lymphoma.",
+        "This paper aims to review the evidence for the increased risk of cancer in RA as well as the latest evidence for the association between DMARDs and tumorigenesis.",
+        "It also discusses the evidence for the management of patients with biologic DMARDs in the setting of existing cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Diederik De Cock",
+        "Kimme Hyrich"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31427060/"
+    },
+    {
+      "pmid": "31508997",
+      "title": "Congenital mesoblastic nephroma: a single-centre series.",
+      "journal": "Annals of the Royal College of Surgeons of England",
+      "abstract_sections": [
+        "Congenital mesoblastic nephroma is a rare disease. Treatment is surgical in the first instance. Chemotherapy has traditionally been thought not to have a role. Recent literature suggests a 50% mortality rate for recurrent/metastatic disease.",
+        "This study is a retrospective case review of prospectively collected data. Demographics, histopathology, treatment, outcomes and follow up were reviewed.",
+        "Nine patients, 6 male and 3 female, were included. The median age at presentation was one month (range 0-7 months); follow-up was for a median of 21.5 months (range 16-79 months). Two patients had mixed and classical subtypes and the other five had the cellular subtype. Surgery was completed by an open procedure in eight patients and laparoscopically in one. There were three recurrences; two were local and one was pulmonary. Recurrences were treated with a combination of chemotherapy, radiotherapy and surgery. One patient with recurrent disease died from acute-on-chronic respiratory failure secondary to lung irradiation but was disease free. The other eight are disease free, alive and well with no sequelae at latest follow-up.",
+        "Surgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease. Specimen-positive margins are not an indication for instituting chemotherapy. The tyrosine kinase pathway seems to be a potential target for future chemotherapeutic agents although it is too early to assess how that will impact on the management of congenital mesoblastic nephroma."
+      ],
+      "abstract": "Congenital mesoblastic nephroma is a rare disease. Treatment is surgical in the first instance. Chemotherapy has traditionally been thought not to have a role. Recent literature suggests a 50% mortality rate for recurrent/metastatic disease.\n\nThis study is a retrospective case review of prospectively collected data. Demographics, histopathology, treatment, outcomes and follow up were reviewed.\n\nNine patients, 6 male and 3 female, were included. The median age at presentation was one month (range 0-7 months); follow-up was for a median of 21.5 months (range 16-79 months). Two patients had mixed and classical subtypes and the other five had the cellular subtype. Surgery was completed by an open procedure in eight patients and laparoscopically in one. There were three recurrences; two were local and one was pulmonary. Recurrences were treated with a combination of chemotherapy, radiotherapy and surgery. One patient with recurrent disease died from acute-on-chronic respiratory failure secondary to lung irradiation but was disease free. The other eight are disease free, alive and well with no sequelae at latest follow-up.\n\nSurgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease. Specimen-positive margins are not an indication for instituting chemotherapy. The tyrosine kinase pathway seems to be a potential target for future chemotherapeutic agents although it is too early to assess how that will impact on the management of congenital mesoblastic nephroma.",
+      "evidence_sentences": [
+        "Surgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease.",
+        "Demographics, histopathology, treatment, outcomes and follow up were reviewed.",
+        "Treatment is surgical in the first instance."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "M Pachl",
+        "G S Arul",
+        "I Jester",
+        "C Bowen",
+        "D Hobin",
+        "B Morland"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31508997/"
+    },
+    {
+      "pmid": "30211037",
+      "title": "The 8",
+      "journal": "Quantitative imaging in medicine and surgery",
+      "abstract_sections": [
+        "Lung cancer is the leading cause of cancer death in both men and women. Clinical staging plays a crucial role in predicting survivor as well as influencing management option in lung cancer patients. Guidelines are constantly being reviewed as more data becomes available to provide the most accurate prognostic markers, hence aiding in the clinical detection and staging of lung cancer. Since its introduction in the 1970s, the TNM staging has undergone significant revisions with the latest, 8"
+      ],
+      "abstract": "Lung cancer is the leading cause of cancer death in both men and women. Clinical staging plays a crucial role in predicting survivor as well as influencing management option in lung cancer patients. Guidelines are constantly being reviewed as more data becomes available to provide the most accurate prognostic markers, hence aiding in the clinical detection and staging of lung cancer. Since its introduction in the 1970s, the TNM staging has undergone significant revisions with the latest, 8",
+      "evidence_sentences": [
+        "Clinical staging plays a crucial role in predicting survivor as well as influencing management option in lung cancer patients.",
+        "Guidelines are constantly being reviewed as more data becomes available to provide the most accurate prognostic markers, hence aiding in the clinical detection and staging of lung cancer.",
+        "Lung cancer is the leading cause of cancer death in both men and women."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Wanyin Lim",
+        "Carole A Ridge",
+        "Andrew G Nicholson",
+        "Saeed Mirsadraee"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30211037/"
+    },
+    {
+      "pmid": "34309831",
+      "title": "Tailored or adapted interventions for adults with chronic obstructive pulmonary disease and at least one other long-term condition: a mixed methods review.",
+      "journal": "The Cochrane database of systematic reviews",
+      "abstract_sections": [
+        "Chronic obstructive pulmonary disease (COPD) is a chronic respiratory condition characterised by shortness of breath, cough and recurrent exacerbations. People with COPD often live with one or more co-existing long-term health conditions (comorbidities). People with more severe COPD often have a higher number of comorbidities, putting them at greater risk of morbidity and mortality.",
+        "To assess the effectiveness of any single intervention for COPD adapted or tailored to their comorbidity(s) compared to any other intervention for people with COPD and one or more common comorbidities (quantitative data, RCTs) in terms of the following outcomes: Quality of life, exacerbations, functional status, all-cause and respiratory-related hospital admissions, mortality, pain, and depression and anxiety. To assess the effectiveness of an adapted or tailored single COPD intervention (simple or complex) that is aimed at changing the management of people with COPD and one or more common comorbidities (quantitative data, RCTs) compared to usual care in terms of the following outcomes: Quality of life, exacerbations, functional status, all-cause and respiratory-related hospital admissions, mortality, pain, and depression and anxiety. To identify emerging themes that describe the views and experiences of patients, carers and healthcare professionals when receiving or providing care to manage multimorbidities (qualitative data).",
+        "We searched multiple databases including the Cochrane Airways Trials Register, CENTRAL, MEDLINE, Embase, and CINAHL, to identify relevant randomised and qualitative studies. We also searched trial registries and conducted citation searches. The latest search was conducted in January 2021.",
+        "Eligible randomised controlled trials (RCTs) compared a) any single intervention for COPD adapted or tailored to their comorbidity(s) compared to any other intervention, or b) any adapted or tailored single COPD intervention (simple or complex) that is aimed at changing the management of people with COPD and one or more comorbidities, compared to usual care. We included qualitative studies or mixed-methods studies to identify themes.",
+        "We used standard Cochrane methods for analysis of the RCTs. We used Cochrane's risk of bias tool for the RCTs and the CASP checklist for the qualitative studies. We planned to use the Mixed Methods Appraisal tool (MMAT) to assess the risk of bias in mixed-methods studies, but we found none. We used GRADE and CERQual to assess the quality of the quantitative and qualitative evidence respectively. The primary outcome measures for this review were quality of life and exacerbations.",
+        "Quantitative studies We included seven studies (1197 participants) in the quantitative analyses, with interventions including telemonitoring, pulmonary rehabilitation, treatment optimisation, water-based exercise training and case management. Interventions were either compared with usual care or with an active comparator (such as land-based exercise training). Duration of trials ranged from 4 to 52 weeks. Mean age of participants ranged from 64 to 72 years and COPD severity ranged from mild to very severe. Trials included either people with COPD and a specific comorbidity (including cardiovascular disease, metabolic syndrome, lung cancer, head or neck cancer, and musculoskeletal conditions), or with one or more comorbidities of any type. Overall, we judged the evidence presented to be of moderate to very low certainty (GRADE), mainly due to the methodological quality of included trials and imprecision of effect estimates. Intervention versus usual care Quality of life as measured by the St George's Respiratory Questionnaire (SGRQ) total score may improve with tailored pulmonary rehabilitation compared to usual care at 52 weeks (mean difference (MD) -10.85, 95% confidence interval (CI) -12.66 to -9.04; 1 study, 70 participants; low-certainty evidence). Tailored pulmonary rehabilitation is likely to improve COPD assessment test (CAT) scores compared with usual care at 52 weeks (MD -8.02, 95% CI -9.44 to -6.60; 1 study, 70 participants, moderate-certainty evidence) and with a multicomponent telehealth intervention at 52 weeks (MD -6.90, 95% CI -9.56 to -4.24; moderate-certainty evidence). Evidence is uncertain about effects of pharmacotherapy optimisation or telemonitoring interventions on CAT improvement compared with usual care. There may be little to no difference in the number of people experiencing exacerbations, or mean exacerbations with case management compared with usual care (OR 1.09, 95% CI 0.75 to 1.57; 1 study, 470 participants; very low-certainty evidence). For secondary outcomes, six-minute walk distance (6MWD) may improve with pulmonary rehabilitation, water-based exercise or multicomponent interventions at 38 to 52 weeks (low-certainty evidence). A multicomponent intervention may result in fewer people being admitted to hospital at 17 weeks, although there may be little to no difference in a telemonitoring intervention. There may be little to no difference between intervention and usual care for mortality. Intervention versus active comparator We included one study comparing water-based and land-based exercise (30 participants). We found no evidence for quality of life or exacerbations. There may be little to no difference between water- and land-based exercise for 6MWD (MD 5 metres, 95% CI -22 to 32; 38 participants; very low-certainty evidence). Qualitative studies One nested qualitative study (21 participants) explored perceptions and experiences of people with COPD and long-term conditions, and of researchers and health professionals who were involved in an RCT of telemonitoring equipment. Several themes were identified, including health status, beliefs and concerns, reliability of equipment, self-efficacy, perceived ease of use, factors affecting usefulness and perceived usefulness, attitudes and intention, self-management and changes in healthcare use. We judged the qualitative evidence presented as of very low certainty overall.",
+        "Owing to a paucity of eligible trials, as well as diversity in the intervention type, comorbidities and the outcome measures reported, we were unable to provide a robust synthesis of data. Pulmonary rehabilitation or multicomponent interventions may improve quality of life and functional status (6MWD), but the evidence is too limited to draw a robust conclusion. The key take-home message from this review is the lack of data from RCTs on treatments for people living with COPD and comorbidities. Given the variation in number and type of comorbidity(s) an individual may have, and severity of COPD, larger studies reporting individual patient data are required to determine these effects."
+      ],
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is a chronic respiratory condition characterised by shortness of breath, cough and recurrent exacerbations. People with COPD often live with one or more co-existing long-term health conditions (comorbidities). People with more severe COPD often have a higher number of comorbidities, putting them at greater risk of morbidity and mortality.\n\nTo assess the effectiveness of any single intervention for COPD adapted or tailored to their comorbidity(s) compared to any other intervention for people with COPD and one or more common comorbidities (quantitative data, RCTs) in terms of the following outcomes: Quality of life, exacerbations, functional status, all-cause and respiratory-related hospital admissions, mortality, pain, and depression and anxiety. To assess the effectiveness of an adapted or tailored single COPD intervention (simple or complex) that is aimed at changing the management of people with COPD and one or more common comorbidities (quantitative data, RCTs) compared to usual care in terms of the following outcomes: Quality of life, exacerbations, functional status, all-cause and respiratory-related hospital admissions, mortality, pain, and depression and anxiety. To identify emerging themes that describe the views and experiences of patients, carers and healthcare professionals when receiving or providing care to manage multimorbidities (qualitative data).\n\nWe searched multiple databases including the Cochrane Airways Trials Register, CENTRAL, MEDLINE, Embase, and CINAHL, to identify relevant randomised and qualitative studies. We also searched trial registries and conducted citation searches. The latest search was conducted in January 2021.\n\nEligible randomised controlled trials (RCTs) compared a) any single intervention for COPD adapted or tailored to their comorbidity(s) compared to any other intervention, or b) any adapted or tailored single COPD intervention (simple or complex) that is aimed at changing the management of people with COPD and one or more comorbidities, compared to usual care. We included qualitative studies or mixed-methods studies to identify themes.\n\nWe used standard Cochrane methods for analysis of the RCTs. We used Cochrane's risk of bias tool for the RCTs and the CASP checklist for the qualitative studies. We planned to use the Mixed Methods Appraisal tool (MMAT) to assess the risk of bias in mixed-methods studies, but we found none. We used GRADE and CERQual to assess the quality of the quantitative and qualitative evidence respectively. The primary outcome measures for this review were quality of life and exacerbations.\n\nQuantitative studies We included seven studies (1197 participants) in the quantitative analyses, with interventions including telemonitoring, pulmonary rehabilitation, treatment optimisation, water-based exercise training and case management. Interventions were either compared with usual care or with an active comparator (such as land-based exercise training). Duration of trials ranged from 4 to 52 weeks. Mean age of participants ranged from 64 to 72 years and COPD severity ranged from mild to very severe. Trials included either people with COPD and a specific comorbidity (including cardiovascular disease, metabolic syndrome, lung cancer, head or neck cancer, and musculoskeletal conditions), or with one or more comorbidities of any type. Overall, we judged the evidence presented to be of moderate to very low certainty (GRADE), mainly due to the methodological quality of included trials and imprecision of effect estimates. Intervention versus usual care Quality of life as measured by the St George's Respiratory Questionnaire (SGRQ) total score may improve with tailored pulmonary rehabilitation compared to usual care at 52 weeks (mean difference (MD) -10.85, 95% confidence interval (CI) -12.66 to -9.04; 1 study, 70 participants; low-certainty evidence). Tailored pulmonary rehabilitation is likely to improve COPD assessment test (CAT) scores compared with usual care at 52 weeks (MD -8.02, 95% CI -9.44 to -6.60; 1 study, 70 participants, moderate-certainty evidence) and with a multicomponent telehealth intervention at 52 weeks (MD -6.90, 95% CI -9.56 to -4.24; moderate-certainty evidence). Evidence is uncertain about effects of pharmacotherapy optimisation or telemonitoring interventions on CAT improvement compared with usual care. There may be little to no difference in the number of people experiencing exacerbations, or mean exacerbations with case management compared with usual care (OR 1.09, 95% CI 0.75 to 1.57; 1 study, 470 participants; very low-certainty evidence). For secondary outcomes, six-minute walk distance (6MWD) may improve with pulmonary rehabilitation, water-based exercise or multicomponent interventions at 38 to 52 weeks (low-certainty evidence). A multicomponent intervention may result in fewer people being admitted to hospital at 17 weeks, although there may be little to no difference in a telemonitoring intervention. There may be little to no difference between intervention and usual care for mortality. Intervention versus active comparator We included one study comparing water-based and land-based exercise (30 participants). We found no evidence for quality of life or exacerbations. There may be little to no difference between water- and land-based exercise for 6MWD (MD 5 metres, 95% CI -22 to 32; 38 participants; very low-certainty evidence). Qualitative studies One nested qualitative study (21 participants) explored perceptions and experiences of people with COPD and long-term conditions, and of researchers and health professionals who were involved in an RCT of telemonitoring equipment. Several themes were identified, including health status, beliefs and concerns, reliability of equipment, self-efficacy, perceived ease of use, factors affecting usefulness and perceived usefulness, attitudes and intention, self-management and changes in healthcare use. We judged the qualitative evidence presented as of very low certainty overall.\n\nOwing to a paucity of eligible trials, as well as diversity in the intervention type, comorbidities and the outcome measures reported, we were unable to provide a robust synthesis of data. Pulmonary rehabilitation or multicomponent interventions may improve quality of life and functional status (6MWD), but the evidence is too limited to draw a robust conclusion. The key take-home message from this review is the lack of data from RCTs on treatments for people living with COPD and comorbidities. Given the variation in number and type of comorbidity(s) an individual may have, and severity of COPD, larger studies reporting individual patient data are required to determine these effects.",
+      "evidence_sentences": [
+        "Trials included either people with COPD and a specific comorbidity (including cardiovascular disease, metabolic syndrome, lung cancer, head or neck cancer, and musculoskeletal conditions), or with one or more comorbidities of any type.",
+        "Quantitative studies We included seven studies (1197 participants) in the quantitative analyses, with interventions including telemonitoring, pulmonary rehabilitation, treatment optimisation, water-based exercise training and case management.",
+        "To assess the effectiveness of an adapted or tailored single COPD intervention (simple or complex) that is aimed at changing the management of people with COPD and one or more common comorbidities (quantitative data, RCTs) compared to usual care in terms of the following outcomes: Quality of life, exacerbations, functional status, all-cause and respiratory-related hospital admissions, mortality, pain, and depression and anxiety."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Emma J Dennett",
+        "Sadia Janjua",
+        "Elizabeth Stovold",
+        "Samantha L Harrison",
+        "Melissa J McDonnell",
+        "Anne E Holland"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34309831/"
+    },
+    {
+      "pmid": "36975758",
+      "title": "Exploring state-of-the-art advances in targeted nanomedicines for managing acute and chronic inflammatory lung diseases.",
+      "journal": "Nanomedicine (London, England)",
+      "abstract_sections": [
+        "Diagnosis and treatment of lung diseases pose serious challenges. Currently, diagnostic as well as therapeutic methods show poor efficacy toward drug-resistant bacterial infections, while chemotherapy causes toxicity and nonspecific delivery of drugs. Advanced treatment methods that cure lung-related diseases, by enabling drug bioavailability via nasal passages during mucosal formation, which interferes with drug penetration to targeted sites, are in demand. Nanotechnology confers several advantages. Currently, different nanoparticles, or their combinations, are being used to enhance targeted drug delivery. Nanomedicine, a combination of nanoparticles and therapeutic agents, that delivers drugs to targeted sites increases the bioavailability of drugs at these sites. Thus, nanotechnology is superior to conventional chemotherapeutic strategies. Here, the authors review the latest advancements in nanomedicine-based drug-delivery methods for managing acute and chronic inflammatory lung diseases."
+      ],
+      "abstract": "Diagnosis and treatment of lung diseases pose serious challenges. Currently, diagnostic as well as therapeutic methods show poor efficacy toward drug-resistant bacterial infections, while chemotherapy causes toxicity and nonspecific delivery of drugs. Advanced treatment methods that cure lung-related diseases, by enabling drug bioavailability via nasal passages during mucosal formation, which interferes with drug penetration to targeted sites, are in demand. Nanotechnology confers several advantages. Currently, different nanoparticles, or their combinations, are being used to enhance targeted drug delivery. Nanomedicine, a combination of nanoparticles and therapeutic agents, that delivers drugs to targeted sites increases the bioavailability of drugs at these sites. Thus, nanotechnology is superior to conventional chemotherapeutic strategies. Here, the authors review the latest advancements in nanomedicine-based drug-delivery methods for managing acute and chronic inflammatory lung diseases.",
+      "evidence_sentences": [
+        "Advanced treatment methods that cure lung-related diseases, by enabling drug bioavailability via nasal passages during mucosal formation, which interferes with drug penetration to targeted sites, are in demand.",
+        "Here, the authors review the latest advancements in nanomedicine-based drug-delivery methods for managing acute and chronic inflammatory lung diseases.",
+        "Diagnosis and treatment of lung diseases pose serious challenges."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Sujata Maurya",
+        "Rashi Srivastava",
+        "Saniya Arfin",
+        "Susan Hawthorne",
+        "Niraj Kumar Jha",
+        "Kirti Agrawal",
+        "Sibi Raj",
+        "Brijesh Rathi",
+        "Arun Kumar",
+        "Riya Raj",
+        "Sharad Agrawal",
+        "Ana Cláudia Paiva-Santos",
+        "Asrar Ahmad Malik",
+        "Kamal Dua",
+        "Rakesh Rana",
+        "Shreesh Ojha",
+        "Saurabh Kumar Jha",
+        "Ankur Sharma",
+        "Dhruv Kumar",
+        "Sally A El-Zahaby",
+        "Amka Nagar"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36975758/"
+    },
+    {
+      "pmid": "40265531",
+      "title": "Recent advances in understanding the role of antidepressants to manage breathlessness in supportive and palliative care.",
+      "journal": "Current opinion in supportive and palliative care",
+      "abstract_sections": [
+        "Breathlessness is a prevalent and distressing symptom in palliative and supportive care, with limited licensed pharmacological options once disease-directed therapies are no longer effective. Antidepressants have been proposed as a potential treatment, even in the absence of comorbid mood disorders, due to their modulation of neural circuits and serotonin pathways involved in breathlessness perception. Despite their off-label use in clinical practice for managing refractory or chronic breathlessness, robust evidence supporting their efficacy is needed. This review critically evaluates the latest evidence on their potential benefits and safety in breathlessness management.",
+        "Breathlessness is influenced by at least three interrelated axes: lung-brain, behavioural-functional, and psycho-social-spiritual. These mechanisms operate across diseases, making them relevant in palliative and supportive care. Despite promise from early case reports and small trials, two recent large, randomised studies of mirtazapine and sertraline found no benefit in alleviating breathlessness or improving other outcomes. The mirtazapine trial also reported more adverse events than placebo. Earlier trials were small with design limitations, reducing reliability. A 2016 trial of sertraline found benefits for depression in stable COPD. Recent concerns over increased morbidity associated with antidepressant use in respiratory disease highlight the need for early detection of people at risk of worsening breathlessness or depression and a holistic, individualised approach.",
+        "Current evidence does not support antidepressants for breathlessness in respiratory disease. Non-pharmacological approaches should be first line, given their proven benefits and low risk. Off-label medicine use requires caution and should ideally be offered within a trial or evaluation. Given the complex nature of breathlessness, future research should focus on innovating and then testing treatments and therapies in well-designed trials with appropriate outcome measures and reporting of adverse events, health care use and informal carer effects."
+      ],
+      "abstract": "Breathlessness is a prevalent and distressing symptom in palliative and supportive care, with limited licensed pharmacological options once disease-directed therapies are no longer effective. Antidepressants have been proposed as a potential treatment, even in the absence of comorbid mood disorders, due to their modulation of neural circuits and serotonin pathways involved in breathlessness perception. Despite their off-label use in clinical practice for managing refractory or chronic breathlessness, robust evidence supporting their efficacy is needed. This review critically evaluates the latest evidence on their potential benefits and safety in breathlessness management.\n\nBreathlessness is influenced by at least three interrelated axes: lung-brain, behavioural-functional, and psycho-social-spiritual. These mechanisms operate across diseases, making them relevant in palliative and supportive care. Despite promise from early case reports and small trials, two recent large, randomised studies of mirtazapine and sertraline found no benefit in alleviating breathlessness or improving other outcomes. The mirtazapine trial also reported more adverse events than placebo. Earlier trials were small with design limitations, reducing reliability. A 2016 trial of sertraline found benefits for depression in stable COPD. Recent concerns over increased morbidity associated with antidepressant use in respiratory disease highlight the need for early detection of people at risk of worsening breathlessness or depression and a holistic, individualised approach.\n\nCurrent evidence does not support antidepressants for breathlessness in respiratory disease. Non-pharmacological approaches should be first line, given their proven benefits and low risk. Off-label medicine use requires caution and should ideally be offered within a trial or evaluation. Given the complex nature of breathlessness, future research should focus on innovating and then testing treatments and therapies in well-designed trials with appropriate outcome measures and reporting of adverse events, health care use and informal carer effects.",
+      "evidence_sentences": [
+        "This review critically evaluates the latest evidence on their potential benefits and safety in breathlessness management.",
+        "Given the complex nature of breathlessness, future research should focus on innovating and then testing treatments and therapies in well-designed trials with appropriate outcome measures and reporting of adverse events, health care use and informal carer effects.",
+        "Antidepressants have been proposed as a potential treatment, even in the absence of comorbid mood disorders, due to their modulation of neural circuits and serotonin pathways involved in breathlessness perception."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Irene J Higginson",
+        "Sabrina Bajwah",
+        "Małgorzata Krajnik",
+        "Caroline J Jolley",
+        "David Hui"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40265531/"
+    },
+    {
+      "pmid": "28853594",
+      "title": "Bone metastases of the hand.",
+      "journal": "Annals of the Royal College of Surgeons of England",
+      "abstract_sections": [
+        "Introduction The aim of this study was to identify patients with malignant hand lesions, establish the proportions of those that were metastases and review their clinical course. Methods A retrospective search of a prospective tumour database was carried out to identify all patients treated at our unit with hand metastases. Patient demographics were recorded including site of primary malignancy, region of the hand involved, management of their metastasis and clinical outcome. Results Overall, 149 patients were identified with a malignant tumour of the hand. Ten had a metastatic lesion. There were 3 women and 7 men with a median age of 68 years (range: 28-91 years) at presentation. All presented with non-mechanical hand pain while four had pain and swelling. The median interval from symptom onset to diagnosis was eight weeks. The minimum follow-up duration was four months. Three patients had no history of malignancy. Of the remaining seven patients, three had other known metastases. Six patients underwent solely palliative radiotherapy. Three patients had amputation. One was treated with surgical excision and radiotherapy. One had an amputation and axillary node clearance. All but one patient had died by the time of the latest follow-up appointment. The median time to death following identification of acrometastases was 18 months. Sites of primary disease were skin (n=4), lung (n=3), kidney (n=2) and neuroendocrine system (n=1). The thumb was the most commonly affected location. Conclusions This study demonstrates that patients presenting with non-mechanical hand pain should be considered to have a malignant process until proved otherwise, particularly in patients with thumb symptoms and a history of prior malignancy."
+      ],
+      "abstract": "Introduction The aim of this study was to identify patients with malignant hand lesions, establish the proportions of those that were metastases and review their clinical course. Methods A retrospective search of a prospective tumour database was carried out to identify all patients treated at our unit with hand metastases. Patient demographics were recorded including site of primary malignancy, region of the hand involved, management of their metastasis and clinical outcome. Results Overall, 149 patients were identified with a malignant tumour of the hand. Ten had a metastatic lesion. There were 3 women and 7 men with a median age of 68 years (range: 28-91 years) at presentation. All presented with non-mechanical hand pain while four had pain and swelling. The median interval from symptom onset to diagnosis was eight weeks. The minimum follow-up duration was four months. Three patients had no history of malignancy. Of the remaining seven patients, three had other known metastases. Six patients underwent solely palliative radiotherapy. Three patients had amputation. One was treated with surgical excision and radiotherapy. One had an amputation and axillary node clearance. All but one patient had died by the time of the latest follow-up appointment. The median time to death following identification of acrometastases was 18 months. Sites of primary disease were skin (n=4), lung (n=3), kidney (n=2) and neuroendocrine system (n=1). The thumb was the most commonly affected location. Conclusions This study demonstrates that patients presenting with non-mechanical hand pain should be considered to have a malignant process until proved otherwise, particularly in patients with thumb symptoms and a history of prior malignancy.",
+      "evidence_sentences": [
+        "Patient demographics were recorded including site of primary malignancy, region of the hand involved, management of their metastasis and clinical outcome.",
+        "Sites of primary disease were skin (n=4), lung (n=3), kidney (n=2) and neuroendocrine system (n=1).",
+        "All but one patient had died by the time of the latest follow-up appointment."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "G Morris",
+        "S Evans",
+        "J Stevenson",
+        "A Kotecha",
+        "M Parry",
+        "L Jeys",
+        "R Grimer"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28853594/"
+    },
+    {
+      "pmid": "33485459",
+      "title": "Evidence-based benchmarks for use of cancer surgery in high-income countries: a population-based analysis.",
+      "journal": "The Lancet. Oncology",
+      "abstract_sections": [
+        "Estimating a population-level benchmark rate for use of surgery in the management of cancer helps to identify treatment gaps, estimate the survival impact of such gaps, and benchmark the workforce and other resources, including budgets, required to meet service needs. A population-based benchmark for use of surgery in high-income settings to inform policy makers and service provision has not been developed but was recommended by the Lancet Oncology Commission on Global Cancer Surgery. We aimed to develop and validate a cancer surgery benchmarking model.",
+        "We examined the latest clinical guidelines from high-income countries (Australia, the UK, the EU, the USA, and Canada) and mapped surgical treatment pathways for 30 malignant cancer sites (19 individual sites and 11 grouped as other cancers) that were notifiable in Australia in 2014, broadly reflecting contemporary high-income models of care. The optimal use of surgery was considered as an indication for surgery where surgery is the treatment of choice for a given clinical scenario. Population-based epidemiological data, such as cancer stage, tumour characteristics, and fitness for surgery, were derived from Australia and other similar high-income settings for 2017. The probabilities across the clinical pathways of each cancer were multiplied and added together to estimate the population-level benchmark rates of cancer surgery, and further validated with the comparisons of observed rates of cancer surgery in the South Western Sydney Local Health District in 2006-12. Univariable and multivariable sensitivity analyses were done to explore uncertainty around model inputs, with mean (95% CI) benchmark surgery rates estimated on the basis of 10 000 Monte Carlo simulations.",
+        "Surgical treatment was indicated in 58% (95% CI 57-59) of newly diagnosed patients with cancer in Australia in 2014 at least once during the course of their treatment, but varied by site from 23% (17-27) for prostate cancer to 99% (96-99) for testicular cancer. Observed cancer surgery rates in South Western Sydney were comparable to the benchmarks for most cancers, but were higher for some cancers, such as prostate (absolute increase of 29%) and lower for others, such as lung (-14%).",
+        "The model provides a new template for high-income and emerging economies to rationally plan and assess their cancer surgery provision. There are differences in modelled versus observed surgery rates for some cancers, requiring more in-depth analysis of the observed differences.",
+        "University of New South Wales Scientia Scholarship, UK Research and Innovation-Global Challenges Research Fund."
+      ],
+      "abstract": "Estimating a population-level benchmark rate for use of surgery in the management of cancer helps to identify treatment gaps, estimate the survival impact of such gaps, and benchmark the workforce and other resources, including budgets, required to meet service needs. A population-based benchmark for use of surgery in high-income settings to inform policy makers and service provision has not been developed but was recommended by the Lancet Oncology Commission on Global Cancer Surgery. We aimed to develop and validate a cancer surgery benchmarking model.\n\nWe examined the latest clinical guidelines from high-income countries (Australia, the UK, the EU, the USA, and Canada) and mapped surgical treatment pathways for 30 malignant cancer sites (19 individual sites and 11 grouped as other cancers) that were notifiable in Australia in 2014, broadly reflecting contemporary high-income models of care. The optimal use of surgery was considered as an indication for surgery where surgery is the treatment of choice for a given clinical scenario. Population-based epidemiological data, such as cancer stage, tumour characteristics, and fitness for surgery, were derived from Australia and other similar high-income settings for 2017. The probabilities across the clinical pathways of each cancer were multiplied and added together to estimate the population-level benchmark rates of cancer surgery, and further validated with the comparisons of observed rates of cancer surgery in the South Western Sydney Local Health District in 2006-12. Univariable and multivariable sensitivity analyses were done to explore uncertainty around model inputs, with mean (95% CI) benchmark surgery rates estimated on the basis of 10 000 Monte Carlo simulations.\n\nSurgical treatment was indicated in 58% (95% CI 57-59) of newly diagnosed patients with cancer in Australia in 2014 at least once during the course of their treatment, but varied by site from 23% (17-27) for prostate cancer to 99% (96-99) for testicular cancer. Observed cancer surgery rates in South Western Sydney were comparable to the benchmarks for most cancers, but were higher for some cancers, such as prostate (absolute increase of 29%) and lower for others, such as lung (-14%).\n\nThe model provides a new template for high-income and emerging economies to rationally plan and assess their cancer surgery provision. There are differences in modelled versus observed surgery rates for some cancers, requiring more in-depth analysis of the observed differences.\n\nUniversity of New South Wales Scientia Scholarship, UK Research and Innovation-Global Challenges Research Fund.",
+      "evidence_sentences": [
+        "We examined the latest clinical guidelines from high-income countries (Australia, the UK, the EU, the USA, and Canada) and mapped surgical treatment pathways for 30 malignant cancer sites (19 individual sites and 11 grouped as other cancers) that were notifiable in Australia in 2014, broadly reflecting contemporary high-income models of care.",
+        "Estimating a population-level benchmark rate for use of surgery in the management of cancer helps to identify treatment gaps, estimate the survival impact of such gaps, and benchmark the workforce and other resources, including budgets, required to meet service needs.",
+        "Surgical treatment was indicated in 58% (95% CI 57-59) of newly diagnosed patients with cancer in Australia in 2014 at least once during the course of their treatment, but varied by site from 23% (17-27) for prostate cancer to 99% (96-99) for testicular cancer."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Sathira Kasun Perera",
+        "Susannah Jacob",
+        "Richard Sullivan",
+        "Michael Barton"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33485459/"
+    },
+    {
+      "pmid": "40016063",
+      "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+      "journal": "Seminars in nuclear medicine",
+      "abstract_sections": [
+        "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents. Treatment efficacy and survival rates have improved and it is now even more important that patients are selected for appropriate interventions on the basis of a comprehensive assessment including a range of imaging as well as in-vitro tests such as immunohistochemistry. A new class of tracers targeting programmed cell death such as PD1 and PDL1 (broadly classed as Immuno PET) are being increasingly used in the molecular characterisation of patients deemed resistant to standard treatment approaches and being considered for additional interventions such as immunotherapy. In this review, we review the latest evidence in the field and propose a summary of clinical usefulness and provide a review of the research trends in this exciting and evolving field."
+      ],
+      "abstract": "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents. Treatment efficacy and survival rates have improved and it is now even more important that patients are selected for appropriate interventions on the basis of a comprehensive assessment including a range of imaging as well as in-vitro tests such as immunohistochemistry. A new class of tracers targeting programmed cell death such as PD1 and PDL1 (broadly classed as Immuno PET) are being increasingly used in the molecular characterisation of patients deemed resistant to standard treatment approaches and being considered for additional interventions such as immunotherapy. In this review, we review the latest evidence in the field and propose a summary of clinical usefulness and provide a review of the research trends in this exciting and evolving field.",
+      "evidence_sentences": [
+        "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents.",
+        "A new class of tracers targeting programmed cell death such as PD1 and PDL1 (broadly classed as Immuno PET) are being increasingly used in the molecular characterisation of patients deemed resistant to standard treatment approaches and being considered for additional interventions such as immunotherapy.",
+        "Treatment efficacy and survival rates have improved and it is now even more important that patients are selected for appropriate interventions on the basis of a comprehensive assessment including a range of imaging as well as in-vitro tests such as immunohistochemistry."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Sobhan Vinjamuri",
+        "Vineet Pant"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40016063/"
+    },
+    {
+      "pmid": "23603504",
+      "title": "Injection site-associated sarcoma in the cat: treatment recommendations and results to date.",
+      "journal": "Journal of feline medicine and surgery",
+      "abstract_sections": [
+        "Feline injection site-associated sarcomas (FISSs) have been the cause of much controversy and concern since they were first reported in the early 1990s. While not solely associated with vaccination, there are implications for vaccination sites and schedules and, while guidance has been published, this appears to be permeating only slowly through to general practice.",
+        "Up to one-quarter of cats with this difficult condition have metastatic lung involvement. The mainstay of treatment is aggressive surgery, but even in cases where full excision with clean margins is achieved, tumour recurrence is anticipated in about one-third of cases. The role of radiotherapy and chemotherapy as adjuvant treatments has yet to be clearly defined.",
+        "FISSs are often seen in younger cats, with a peak presentation at 6-7 years and a second peak at 10-11 years.",
+        "This review summarises the diagnosis and management of FISS with reference to the latest published treatment results. It focuses on surgical excision but also covers adjuvant radiotherapy and chemotherapy, and gives median survival times for the different treatment approaches."
+      ],
+      "abstract": "Feline injection site-associated sarcomas (FISSs) have been the cause of much controversy and concern since they were first reported in the early 1990s. While not solely associated with vaccination, there are implications for vaccination sites and schedules and, while guidance has been published, this appears to be permeating only slowly through to general practice.\n\nUp to one-quarter of cats with this difficult condition have metastatic lung involvement. The mainstay of treatment is aggressive surgery, but even in cases where full excision with clean margins is achieved, tumour recurrence is anticipated in about one-third of cases. The role of radiotherapy and chemotherapy as adjuvant treatments has yet to be clearly defined.\n\nFISSs are often seen in younger cats, with a peak presentation at 6-7 years and a second peak at 10-11 years.\n\nThis review summarises the diagnosis and management of FISS with reference to the latest published treatment results. It focuses on surgical excision but also covers adjuvant radiotherapy and chemotherapy, and gives median survival times for the different treatment approaches.",
+      "evidence_sentences": [
+        "This review summarises the diagnosis and management of FISS with reference to the latest published treatment results.",
+        "It focuses on surgical excision but also covers adjuvant radiotherapy and chemotherapy, and gives median survival times for the different treatment approaches.",
+        "The role of radiotherapy and chemotherapy as adjuvant treatments has yet to be clearly defined."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Jane Ladlow"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23603504/"
+    },
+    {
+      "pmid": "23124958",
+      "title": "Identifying periods of acceptable computer usage in primary care research databases.",
+      "journal": "Pharmacoepidemiology and drug safety",
+      "abstract_sections": [
+        "To examine the effect of applying different data quality filters on the incidence of disease and prescribing trends over time in a primary care research database and validate a new method for defining periods of adequate computer usage.",
+        "Acceptable computer usage (ACU) was defined as the year in which a general practice was continuously entering on average at least two therapy records, one medical record and one additional health data record per patient per year. The effect of using this date on the incidence of a range of outcomes (antibiotic prescriptions, myocardial infarction, colon cancer, lung cancer) over time was compared with other methods for defining the start of patient follow-up in The Health Improvement Network (THIN) primary care database containing UK patient records. Various combinations of the follow-up start dates were applied to the data to calculate incidence rates: (i) registration date, (ii) practice computerization date, (iii) acceptable mortality recording (AMR) (iv) ACU.",
+        "On average, the ACU date was 3.3 years after the AMR date. Applying the AMR or ACU dates separately or in combination produced trends in incidence rates more comparable with external data sources than using the year of practice registration or computerization. The estimated incidence rates were highly sensitive to different methods of defining start date in early time periods.",
+        "Using the latest of AMR and ACU dates is useful for improving the integrity of THIN data."
+      ],
+      "abstract": "To examine the effect of applying different data quality filters on the incidence of disease and prescribing trends over time in a primary care research database and validate a new method for defining periods of adequate computer usage.\n\nAcceptable computer usage (ACU) was defined as the year in which a general practice was continuously entering on average at least two therapy records, one medical record and one additional health data record per patient per year. The effect of using this date on the incidence of a range of outcomes (antibiotic prescriptions, myocardial infarction, colon cancer, lung cancer) over time was compared with other methods for defining the start of patient follow-up in The Health Improvement Network (THIN) primary care database containing UK patient records. Various combinations of the follow-up start dates were applied to the data to calculate incidence rates: (i) registration date, (ii) practice computerization date, (iii) acceptable mortality recording (AMR) (iv) ACU.\n\nOn average, the ACU date was 3.3 years after the AMR date. Applying the AMR or ACU dates separately or in combination produced trends in incidence rates more comparable with external data sources than using the year of practice registration or computerization. The estimated incidence rates were highly sensitive to different methods of defining start date in early time periods.\n\nUsing the latest of AMR and ACU dates is useful for improving the integrity of THIN data.",
+      "evidence_sentences": [
+        "The effect of using this date on the incidence of a range of outcomes (antibiotic prescriptions, myocardial infarction, colon cancer, lung cancer) over time was compared with other methods for defining the start of patient follow-up in The Health Improvement Network (THIN) primary care database containing UK patient records.",
+        "Acceptable computer usage (ACU) was defined as the year in which a general practice was continuously entering on average at least two therapy records, one medical record and one additional health data record per patient per year.",
+        "Using the latest of AMR and ACU dates is useful for improving the integrity of THIN data."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "authors": [
+        "Laura Horsfall",
+        "Kate Walters",
+        "Irene Petersen"
+      ],
+      "year": "2013",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23124958/"
+    }
+  ],
+  "clinical_trials_records": [
+    {
+      "nct_id": "NCT05455424",
+      "title": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+      "brief_summary": "Multicentre, 2 arm, open-label UK randomised phase II trial to determine the efficacy of niraparib versus active symptom control (ASC) in patients who have relapsed after previously receiving platinum based systemic therapy. 84 patients will be recruited from approximately 10 UK trial network sites.",
+      "detailed_description": "Mesothelioma is a cancer that is caused by exposure to asbestos, an environmental contaminant. This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy. There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy. There is an urgent need to explore more effective approaches to therapy. Targeted treatments offer potential hope for the treatment of mesothelioma. A class of drugs called PARP (Poly Adenosine Diphosphate-ribose polymerase) inhibitors have already been proven to improve the survival of patients with breast and ovarian cancers, that carry specific mutations. Mesothelioma has been shown in a recent trial to respond to this class of agent. Further investigation is warranted to test whether PARP inhibitors could be a new treatment option for patients. As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy. Patients whose tumours shrink or stabilise following chemotherapy are expected to have a greater chance of benefit from niraparib. It's not known if niraparib will be able to improve survival of patients with mesothelioma, or indeed whether or not toxicity could occur without benefit. For that reason, patients will be randomised with a 2:1 chance of receiving the drug. Those patients who do not receive niraparib will be closely monitored for signs of early tumour growth so that they can go on to receive an alternative treatment if necessary. If the NERO trial is positive, this study will lead to the approval of a new medicine for use around the world, one that would extend the life expectancy of patients for the first time following initial chemotherapy. NERO will recruit 84 patients over 12 months. Those randomised to receive niraparib will receive a daily dose of 200 mg or 300mg for up to 24 weeks within the trial.",
+      "evidence_sentences": [
+        "As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy.",
+        "This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy.",
+        "There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2025-05-12",
+      "query_keywords": [
+        "lung cancer",
+        "latest",
+        "treatment",
+        "therapy",
+        "management",
+        "lung",
+        "cancer"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT05455424",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT05455424",
+            "orgStudyIdInfo": {
+              "id": "RMH CAN1682"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "2022-000198-26",
+                "type": "EUDRACT_NUMBER"
+              },
+              {
+                "id": "ISRCTN16171129",
+                "type": "REGISTRY",
+                "domain": "ISRCTN Registry"
+              },
+              {
+                "id": "MCTA20F\\2",
+                "type": "OTHER_GRANT",
+                "domain": "Asthma and Lung UK"
+              }
+            ],
+            "organization": {
+              "fullName": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "briefTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+            "officialTitle": "Niraparib Efficacy in Patient With Unresectable Mesothelioma: A Randomised Phase II Trial of Niraparib Versus Active Symptom Control in Patients With Previously Treated Mesothelioma",
+            "acronym": "NERO"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-05",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2022-07-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2025-01-31",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2022-06-08",
+            "studyFirstSubmitQcDate": "2022-07-08",
+            "studyFirstPostDateStruct": {
+              "date": "2022-07-13",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-05-12",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-05-15",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Hospital Southampton NHS Foundation Trust",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "University of Southampton",
+                "class": "OTHER"
+              },
+              {
+                "name": "British Lung Foundation",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Multicentre, 2 arm, open-label UK randomised phase II trial to determine the efficacy of niraparib versus active symptom control (ASC) in patients who have relapsed after previously receiving platinum based systemic therapy. 84 patients will be recruited from approximately 10 UK trial network sites.",
+            "detailedDescription": "Mesothelioma is a cancer that is caused by exposure to asbestos, an environmental contaminant. This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy. There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy. There is an urgent need to explore more effective approaches to therapy. Targeted treatments offer potential hope for the treatment of mesothelioma. A class of drugs called PARP (Poly Adenosine Diphosphate-ribose polymerase) inhibitors have already been proven to improve the survival of patients with breast and ovarian cancers, that carry specific mutations. Mesothelioma has been shown in a recent trial to respond to this class of agent. Further investigation is warranted to test whether PARP inhibitors could be a new treatment option for patients. As with ovarian cancer studies of the past, the NERO trial will test a PARP inhibitor (niraparib) after successful treatment with chemotherapy. Patients whose tumours shrink or stabilise following chemotherapy are expected to have a greater chance of benefit from niraparib. It's not known if niraparib will be able to improve survival of patients with mesothelioma, or indeed whether or not toxicity could occur without benefit. For that reason, patients will be randomised with a 2:1 chance of receiving the drug. Those patients who do not receive niraparib will be closely monitored for signs of early tumour growth so that they can go on to receive an alternative treatment if necessary. If the NERO trial is positive, this study will lead to the approval of a new medicine for use around the world, one that would extend the life expectancy of patients for the first time following initial chemotherapy. NERO will recruit 84 patients over 12 months. Those randomised to receive niraparib will receive a daily dose of 200 mg or 300mg for up to 24 weeks within the trial."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Mesothelioma, Malignant"
+            ],
+            "keywords": [
+              "Mesothelioma",
+              "Relapsed",
+              "Pleural",
+              "Peritoneal",
+              "Niraparib",
+              "PARP-Inhibitors",
+              "RECIST",
+              "Quality of Life",
+              "Phase II",
+              "Randomised",
+              "Progression-free survival"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "interventionModelDescription": "NERO is a multicentre, 2 arm, open-label UK randomised phase II trial comparing Niraparib versus ASC in patients with previously treated mesothelioma.",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 88,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Niraparib + ASC",
+                "type": "EXPERIMENTAL",
+                "description": "Patients will receive 200/300 mg of niraparib daily for study period of up to 24 weeks. Patients will be treated until disease progression, withdrawal, death or development of significant treatment limiting toxicity. Niraparib will be supplied in oral formulation as 100 mg capsules. The starting dose of Niraparib will be based upon the patient's baseline body weight and/or platelet count:\n\nParticipants with a baseline body weight ≥77 kg and baseline platelet count ≥150 x 109/L will be administered niraparib 300 mg daily.\n\nParticipants with a baseline body weight \\<77 kg or baseline platelet count \\<150 x 109/L will be administered niraparib 200 mg daily.\n\nThe dose of Niraparib can be reduced in 100 mg increments, to a minimum of 100 mg, per protocol. Dose escalations are not permitted.",
+                "interventionNames": [
+                  "Drug: Niraparib Oral Product"
+                ]
+              },
+              {
+                "label": "Active Symptom Control",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Patients in this arm will be managed symptomatically and will be treated as per the standard of care at each participating site. ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "interventionNames": [
+                  "Other: Active Symptom Control"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Niraparib Oral Product",
+                "description": "Niraparib (\\[3S\\]-3-\\[4-\\[7-(aminocarbonyl)-2H-indazol-2-yl\\] phenyl\\] piperidine \\[tosylate monohydrate salt\\]) is an orally available, potent, and highly selective PARP1 and PARP2 inhibitor. The excipients for niraparib are lactose monohydrate and magnesium stearate. Niraparib will be supplied in bottles containing 72 capsules of 100 mg. The capsules should be swallowed whole with water. The capsules should not be chewed or crushed and can be taken without regard to meals.",
+                "armGroupLabels": [
+                  "Niraparib + ASC"
+                ],
+                "otherNames": [
+                  "Zejula"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Active Symptom Control",
+                "description": "ASC could involve regular specialist follow up; structured assessment of physical, psychological, and social problems; and appropriate treatment, including palliative radiotherapy and steroids.",
+                "armGroupLabels": [
+                  "Active Symptom Control"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Progression-free survival",
+                "description": "Progression-free survival is the determined by modified RECIST (pleural disease), RECIST 1.1 (for non-pleural disease), investigator reported progression or death from any cause (whichever event comes first)",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Overall Survival",
+                "description": "Time from randomisation to death from any cause",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Best overall response (progressive disease, stable disease, partial or complete response)",
+                "description": "The best overall response is the best response recorded from the start of treatment until disease progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Disease Control",
+                "description": "Stable disease, partial or complete response",
+                "timeFrame": "12 and 24 weeks post randomisation"
+              },
+              {
+                "measure": "Duration of response",
+                "description": "Time from complete or partial response (where this occurs) until progression or death",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "Treatment compliance",
+                "description": "Assessed by summarising the percentage of the received dose relative to the intended dose at each cycle",
+                "timeFrame": "Up to 24 weeks"
+              },
+              {
+                "measure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+                "description": "Summary statistics and listings will be reported for patients in the safety population and will be summarised by treatment arm with classification by the latest version of MedDRA. Grade will be reported on the CTCAE toxicity scale (version 5.0). Both all cause and treatment related or emergent AEs will be included in the analysis.",
+                "timeFrame": "At the end of each treatment cycle (each cycle is 21 days, with a maximum of 8 cycles of treatment) for 100 days post treatment discontinuation and for ongoing drug-related AE's until resolved, return to baseline, or deemed irreversible"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Correlate homologous recombination gene alterations and clinical outcome",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              },
+              {
+                "measure": "To identify causes of acquired resistance to Niraparib in a subset of patients undergoing optional re-biopsy at disease progression",
+                "description": "Response, progression-free and overall survival will be correlated with somatic alteration of HR genes",
+                "timeFrame": "From date of randomisation until the date of the first documented progression or date of death from any cause, whichever came first, assessed up to 18 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have signed and dated a REC-approved written informed consent form in accordance with regulatory and institutional guidelines. This must be obtained before the performance of any protocol-related procedures that are not part of normal patient care.\n* Patients must be willing and able to comply with scheduled visits, treatment schedule, laboratory tests, and other requirements of the study\n* Histologically confirmed diagnosis of mesothelioma. Any histological subtype (epithelioid, biphasic or sarcomatoid) and any site (e.g. pleural or peritoneal) with an available tissue block. Tissue blocks will be requested at the time of screening.\n* Patients must have received prior systemic therapy (any number of lines) for pleural or peritoneal mesothelioma.\n* Disease progression must be confirmed per Investigator's assessment prior to screening.\n* Any prior treatment must be completed at least 14 days prior to receiving study treatment, where all toxicities have recovered or returned to grade 1, with the exception of alopecia and neuropathy due to chemotherapy which should have returned to grade 2.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0-1.\n* Radiologically assessable disease by modified RECIST (pleural mesothelioma) or RECIST 1.1 (non-pleural mesothelioma or where measurements for modified RECIST cannot be obtained).\n* Age ≥ 18 years old.\n* Consent to provide mandatory diagnostic tissue blocks and blood samples for translational research, including an optional rebiopsy at progression.\n* Adequate organ function, including suitable bone marrow reserve and creatinine clearance.\n* Screening laboratory values must meet the following criteria within 48 hours prior to commencement of treatment:\n\n  1. White blood cells ≥ 2 x 109/L\n  2. Neutrophils ≥ 1.5 x 109/L\n  3. Platelets ≥ 100 x 109/L\n  4. Haemoglobin ≥ 90 g/L\n  5. Serum creatinine of ≤ 1.5 X ULN or creatinine clearance (CrCl) \\> 50 mL/minute (using Cockcroft/Gault formula)\n  6. AST ≤ 3 x ULN OR ALT ≤ 3 x ULN (if both are assessed, both need to be ≤ 3 x ULN)\n  7. Total bilirubin ≤ 1.5 x ULN (except patients with Gilbert Syndrome, who must have total bilirubin \\< 51.3 μmol/L)\n* Reproductive status:\n\n  1. Women of childbearing potential (WOCBP) must have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of Human Chorionic Gonadotropin) at enrolment and within 24 hours prior to the start of study treatment. An extension up to 3 days prior to the start of study treatment may be permissible in situations where results cannot be obtained within a 24-hour window.\n  2. Women must not be breastfeeding\n  3. WOCBP must agree to use a highly effective method of contraception for the duration of treatment and 180 days after the last dose ASC+Niraparib.\n  4. Men who are sexually active with WOCBP must use the contraceptive methods outlines in the protocol for the duration of treatment and for 90 days after the last dose of ASC+Niraparib\n* Expected survival of at least 12 weeks per Investigator's assessment\n\nExclusion Criteria:\n\n* Patients with untreated, symptomatic central nervous system (CNS) metastases, including carcinomatous meningitis, leptomeningeal disease, and radiographic signs of CNS haemorrhage are excluded.\n* Patients with untreated third space fluid collection requiring therapeutic drainage are excluded\n* Second malignancy within 5 years except cancers definitely treated curative intent (e.g. basal cell carcinoma of the skin, squamous cell carcinoma of the skin, in situ bladder cancer or in situ cervical cancer).\n* Any serious or uncontrolled medical disorder or active infection that, in the opinion of the investigator, may increase the risk associated with study participation, study drug administration, or would impair the ability of the patient to receive protocol therapy.\n* Difficulty swallowing or previous significant resection of the stomach or small bowel.\n* Patients who have not recovered from the effects of major surgery or significant traumatic injury at least 14 days before the first dose of study treatment.\n* Prior exposure to PARP inhibitor or known hypersensitivity to the components of niraparib.\n* New York Heart Associated class II or greater heart failure, hepatic \\[AST \\> 3XULN, ALT \\> 3XUL, Total bilirubin \\> 1.5XULN\\] or renal impairment \\[Serum creatinine of \\>1.5 X ULN or creatinine clearance (CrCL) ≤ 50 mL/minute (using Cockcroft/Gault formula)\\].\n* Known alcohol or drug abuse.\n* Patients are not permitted to enter any other interventional studies.\n* Any patient not able to give consent.\n* Any pregnant or breastfeeding patient.\n* Patient with known history or current diagnosis of myelodysplastic syndrome (MDS) or acute myeloid leukaemia (AML)\n* Patient with known history of active tuberculosis.\n* Patients with uncontrolled hypertension.\n* Participants have current active pneumonitis within 90 days of planned start of the study or a known history of interstitial lung disease, drug-related pneumonitis, or radiation pneumonitis requiring steroid treatment.\n* Patients that have received colony-stimulating factors (eg, granulocyte macrophage colony-stimulating factor or recombinant erythropoietin) within 2 weeks prior to the first dose of study treatment.\n* Live vaccines within 30 days prior to the first dose of study treatment and while participating in this clinical study.\n* Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Any positive test for hepatitis B virus or hepatitis C virus indicating acute or chronic infection.",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Dean Fennell",
+                "affiliation": "University of Leicester",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "University Hospital Southampton, Southampton General Hospital",
+                "city": "Southampton",
+                "state": "Hampshire",
+                "zip": "SO16 6YD",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 50.90395,
+                  "lon": -1.40428
+                }
+              },
+              {
+                "facility": "Medway NHS Foundation Trust, Medway Maritime Hospital",
+                "city": "Gillingham",
+                "state": "Kent",
+                "zip": "ME7 5NY",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.38914,
+                  "lon": 0.54863
+                }
+              },
+              {
+                "facility": "Somerset NHS Foundation Trust, Musgrove Park Hospital",
+                "city": "Taunton",
+                "state": "Somerset",
+                "zip": "TA1 5DA",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.01494,
+                  "lon": -3.10293
+                }
+              },
+              {
+                "facility": "Belfast Health and Social Care Trust, Belfast City Hospital",
+                "city": "Belfast",
+                "zip": "BT9 7AB",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 54.59682,
+                  "lon": -5.92541
+                }
+              },
+              {
+                "facility": "Velindre University NHS Trust, Velindre Cancer Centre",
+                "city": "Cardiff",
+                "zip": "CF15 7QZ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.48,
+                  "lon": -3.18
+                }
+              },
+              {
+                "facility": "Beatson West of Scotland Cancer Centre",
+                "city": "Glasgow",
+                "zip": "G12 0YN",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 55.86515,
+                  "lon": -4.25763
+                }
+              },
+              {
+                "facility": "The Princess Alexandra Hospital NHS Trust, The Princess Alexandra Hospital",
+                "city": "Harlow",
+                "zip": "CM20 1QX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.77655,
+                  "lon": 0.11158
+                }
+              },
+              {
+                "facility": "Hull University Teaching Hospitals NHS Trust, Castle Hill Hospital",
+                "city": "Hull",
+                "zip": "HU16 5JQ",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.7446,
+                  "lon": -0.33525
+                }
+              },
+              {
+                "facility": "Leeds Teaching Hospitals NHS Trust, St James's Hospital",
+                "city": "Leeds",
+                "zip": "LS9 7TF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.79648,
+                  "lon": -1.54785
+                }
+              },
+              {
+                "facility": "University Hospitals of Leicester NHS Trust, Royal Leicester Infirmary",
+                "city": "Leicester",
+                "zip": "LE2 7LX",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 52.6386,
+                  "lon": -1.13169
+                }
+              },
+              {
+                "facility": "Sheffield Teaching Hospitals NHS Foundation Trust, Weston Park Hospital",
+                "city": "Sheffield",
+                "zip": "S10 2JF",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 53.38297,
+                  "lon": -1.4659
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "37993149",
+                "type": "DERIVED",
+                "citation": "Fennell D, Griffiths D, Eminton Z, Morgan-Fox A, Hill K, Ewings S, Stuart C, Johnson L, Mallard K, Nye M, Darlison L, Dulloo S, Cave J, Luo JL, Taylor P, Spicer J, Poile C, Bzura A, Griffiths G. Evaluating niraparib versus active symptom control in patients with previously treated mesothelioma (NERO): a study protocol for a multicentre, randomised, two-arm, open-label phase II trial in UK secondary care centres. BMJ Open. 2023 Nov 22;13(11):e073120. doi: 10.1136/bmjopen-2023-073120."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "IPD will be made available, including data dictionaries, for approved data sharing requests. Individual participant data will be shared that underlie the results after de-identification and normalisation of information (text, tables, figures, and appendices). The study protocol and statistical analysis plan will also be available. Pseudonymised participant data within the clinical trial dataset will be available for sharing via controlled access by authorised Southampton Clinical Trials Unit (SCTU) staff. The request for data access will need to detail the specific requirements and the proposed research, statistical analysis, publication plan and evidence of research group qualifications. Data will be shared once all parties have signed relevant data sharing documentation covering SCTU conditions for sharing and if required, an additional data sharing agreement from the sponsor. Proposals should be directed to ctu@soton.ac.uk.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Anonymous data will be available for request from 3 months after the publication of the results to researchers who provide a completed data sharing request form that describes a methodologically sound proposal, for the purpose of the approved proposal and if appropriate, signed a data-sharing agreement.",
+            "accessCriteria": "Data access requests will be reviewed against specific eligibility criteria by the SCTU data custodian and key members of the trial team.",
+            "url": "http://www.southampton.ac.uk/ctu/index.page?"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000086002",
+                "term": "Mesothelioma, Malignant"
+              },
+              {
+                "id": "D008654",
+                "term": "Mesothelioma"
+              },
+              {
+                "id": "D012008",
+                "term": "Recurrence"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000236",
+                "term": "Adenoma"
+              },
+              {
+                "id": "D009375",
+                "term": "Neoplasms, Glandular and Epithelial"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D018301",
+                "term": "Neoplasms, Mesothelial"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D010997",
+                "term": "Pleural Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "C545685",
+                "term": "niraparib"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "openalex_records": [],
+  "semantic_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "40016063",
+      "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40016063/",
+      "semantic_score": 0.7679682970046997,
+      "matched_sentences": [
+        "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents.",
+        "Treatment efficacy and survival rates have improved and it is now even more important that patients are selected for appropriate interventions on the basis of a comprehensive assessment including a range of imaging as well as in-vitro tests such as immunohistochemistry."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34862216",
+      "title": "Lung cancer for the non-respiratory physician.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34862216/",
+      "semantic_score": 0.7625257968902588,
+      "matched_sentences": [
+        "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment.",
+        "The new National Optimal Lung Cancer Pathway describes 'diagnostic standards of care' in an effort to implement best practice, reduce variation and improve delays in diagnosis, staging and treatment of lung cancer.",
+        "We provide an overview of the core lung cancer diagnostic steps, recognition and management of acute presentations as well as the latest treatment options."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24067269",
+      "title": "Lung cancer: needs assessment, treatment and therapies.",
+      "study_type": "Journal Article, Review",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24067269/",
+      "semantic_score": 0.7518341541290283,
+      "matched_sentences": [
+        "This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies.",
+        "It is not within the scope of this article to discuss each type and aspect of lung cancer in detail and further reading is encouraged.",
+        "The latest figures for the UK show that there are approximately 39000 cases each year and that lung cancer accounts for about 22% of all cancer deaths (Cancer Research UK, 2013a)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40871018",
+      "title": "Inhalable Nanomaterial Discoveries for Lung Cancer Therapy: A Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871018/",
+      "semantic_score": 0.6392689347267151,
+      "matched_sentences": [
+        "Lung cancer remains one of the most common and deadliest forms of cancer worldwide despite notable advancements in its management.",
+        "This concise review summarizes the basic research and clinical translation of inhalable nanomaterials for the treatment of lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40480014",
+      "title": "AGREE-II appraisal of lung cancer management clinical practice guidelines by the OPTIMA consortium.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40480014/",
+      "semantic_score": 0.6066412329673767,
+      "matched_sentences": [
+        "We identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025.",
+        "The OPTIMA consortium aimed to identify and critically appraise relevant lung cancer clinical practice guidelines commonly used in Europe.",
+        "Amongst all cancers, lung cancer is the leading cause of mortality worldwide and has the highest economic burden in the European Union."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06908733",
+      "title": "Integrating Surgery and Radiotherapy Following Tislelizumab-based Conversion Therapy in N3-Stage III NSCLC",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06908733",
+      "semantic_score": 0.6037976741790771,
+      "matched_sentences": [
+        "In subjects with an initial stage of stage III-N3 non-small cell lung cancer (NSCLC) that was negative for sensitive gene mutations and had not received any systemic or local therapy (T1-4N3M0, excluding primary tumor or metastatic lymph node invasion of the aorta/trachea/esophagus/heart, etc.); After 3-4 cycles of Tislelizumab combined with platinum-containing dual agents, the patients without disease progression were evaluated by MDT and selected according to the patient's wishes, including those who could receive conventional/standard radical lung cancer surgery (excluding total lung resection).",
+        "Patients deemed eligible to surgery will receive standard lung cancer resection (excluding total pneumonectomy), including removal of the primary tumor, ipsilateral hilar, and ipsilateral mediastinal lymph nodes, followed by hypofractionated chemoradiotherapy targeting N3 meta-static lymph nodes."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05818449",
+      "title": "Improvement of Personalized Lung Cancer Care Through Digital Connection and Patient Participation (DigiNet)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT05818449",
+      "semantic_score": 0.5897729396820068,
+      "matched_sentences": [
+        "The aim of the DigiNet project is to improve the treatment of patients with advanced non-small cell lung cancer (NSCLC) in Germany.",
+        "DigiNet builds on the foundations and structures of the National Network Genomic Medicine Lung Cancer (nNGM) in Germany, which provides molecular diagnostics and treatment information to the participating physicians based on the latest evidence.",
+        "The DigiNet project is based on the established precision medicine program, the National Network Genomic Medicine Lung Cancer (nNGM) in Germany, whereby every patient receives molecular diagnostics and personalized therapy information after the initial diagnosis."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39136258",
+      "title": "Immune checkpoint inhibitors plus platinum-based chemotherapy compared to platinum-based chemotherapy with or without bevacizumab for first-line treatment of older people with advanced non-small cell lung cancer.",
+      "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39136258/",
+      "semantic_score": 0.5868771076202393,
+      "matched_sentences": [
+        "ICIs have changed the treatment of people with lung cancer.",
+        "In particular, for people with previously-untreated advanced non-small cell lung cancer (NSCLC), current first-line treatment now comprises ICIs plus platinum-based chemotherapy, rather than platinum-based chemotherapy alone, regardless of their PD-L1 expression status.",
+        "We searched the Cochrane Lung Cancer Group Trial Register, CENTRAL, MEDLINE, Embase, two other trial registers, and the websites of drug regulators."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04728724",
+      "title": "Neoadjuvant Immunotherapy for Stage III Non-small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04728724",
+      "semantic_score": 0.5861939787864685,
+      "matched_sentences": [
+        "This is a phase II, non-randomized, open-label, multi-center study to evaluate the efficacy of neoadjuvant Sintilimab (PD-1 antibody) or combined with chemotherapy as first-line treatment in patients with stage III non-small cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02981108",
+      "title": "A Study to Evaluate Safety, PK and Efficacy of HS-10296 in Patients With NSCLC",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT02981108",
+      "semantic_score": 0.5815304517745972,
+      "matched_sentences": [
+        "This is a Phase 1/2, open-label, multicenter study of HS-10296 with dose escalation, dose expansion and extension cohorts in locally advanced or metastatic non-small-cell lung cancer (NSCLC) patients who have progressed following prior therapy with an epidermal growth factor receptor(EGFR) tyrosine kinase inhibitor (TKI) agent."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04035486",
+      "title": "A Study of Osimertinib With or Without Chemotherapy as 1st Line Treatment in Patients With Mutated Epidermal Growth Factor Receptor Non-Small Cell Lung Cancer (FLAURA2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04035486",
+      "semantic_score": 0.5799378752708435,
+      "matched_sentences": [
+        "Some lung cancers are due to mutations in the Deoxyribonucleic acid (DNA) which, if known, can help physicians decide the best treatment for their patients.",
+        "The reason for the study is to find out if an experimental combination of an oral medication called osimertinib (TAGRISSO®) when used in combination with chemotherapy is more effective than giving osimertinib alone for the treatment of locally advanced or metastatic non-small cell lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40673977",
+      "title": "Personalized care for patients with EGFR-mutant nonsmall cell lung cancer: Navigating early to advanced disease management.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40673977/",
+      "semantic_score": 0.5767831802368164,
+      "matched_sentences": [
+        "Recent advancements have significantly reshaped the treatment paradigm for EGFR-mutant non-small cell lung cancer.",
+        "This review provides a comprehensive overview of the current landscape of EGFR-mutant nonsmall cell lung cancer, highlighting recent breakthroughs and discussing strategies to optimize treatment based on the latest evidence.",
+        "The discovery of activating mutations in the epidermal growth factor receptor (EGFR) gene has revolutionized the management of lung cancer, enabling the development of targeted tyrosine kinase inhibitors (TKIs)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00324805",
+      "title": "Chemotherapy With or Without Bevacizumab in Treating Patients With Stage IB, Stage II, or Stage IIIA Non-small Cell Lung Cancer That Was Removed By Surgery",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT00324805",
+      "semantic_score": 0.5678776502609253,
+      "matched_sentences": [
+        "This randomized phase III trial studies chemotherapy and bevacizumab to see how well they work compared to chemotherapy alone in treating patients with stage IB, stage II, or stage IIIA non-small cell lung cancer that was removed by surgery.",
+        "It is not yet known whether chemotherapy is more effective with or without bevacizumab in treating non-small cell lung cancer.",
+        "To evaluate overall survival with chemotherapy with or without bevacizumab used in the adjuvant setting in patients with resected stage IB (\\>= 4 cm) - IIIA non-small cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04872634",
+      "title": "A Study to Evaluate the Safety and Anti-tumor Activity of SNK01 (NK Cells) Administered in Combination With Chemotherapy or Chemotherapy / Cetuximab in Local Advanced or Metastatic Non-small Cell Lung Cancer Patients Who Failed Tyrosine Kinase Inhibitor Treatment",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04872634",
+      "semantic_score": 0.5573704838752747,
+      "matched_sentences": [
+        "This clinical trial is a Single-Center, Open, Phase I/IIa Clinical Trial conducted to evaluate the safety and anti-tumor activity of SNK01 and GC +/- Cetuximab administered in combination to Locally advanced or Metastatic Non-small Cell Lung Cancer Patients who have failed prior Tyrosine Kinase Inhibitor (TKI) therapy at least once."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04198688",
+      "title": "Effectiveness of Intensive Smoking Cessation Interventions in Patients With Cancer",
+      "study_type": "OBSERVATIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04198688",
+      "semantic_score": 0.5570209622383118,
+      "matched_sentences": [
+        "It is well-known that cancer patients are interested in smoking cessation therefore smoking cessation interventions play an important role in the management of people with cancer.",
+        "This study will evaluate the effectiveness of an intensive smoking cessation interventions on cancer patients in real life.",
+        "Even though former studies show that persons with a cancer diagnosis are less likely to smoke than the general population up to 50% of people who smoke and have lung cancer do not stop smoking after their diagnosis or frequently relapse after smoking cessation."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30211037",
+      "title": "The 8",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30211037/",
+      "semantic_score": 0.5570025444030762,
+      "matched_sentences": [
+        "Clinical staging plays a crucial role in predicting survivor as well as influencing management option in lung cancer patients.",
+        "Guidelines are constantly being reviewed as more data becomes available to provide the most accurate prognostic markers, hence aiding in the clinical detection and staging of lung cancer.",
+        "Lung cancer is the leading cause of cancer death in both men and women."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36975758",
+      "title": "Exploring state-of-the-art advances in targeted nanomedicines for managing acute and chronic inflammatory lung diseases.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36975758/",
+      "semantic_score": 0.5490484833717346,
+      "matched_sentences": [
+        "Diagnosis and treatment of lung diseases pose serious challenges.",
+        "Advanced treatment methods that cure lung-related diseases, by enabling drug bioavailability via nasal passages during mucosal formation, which interferes with drug penetration to targeted sites, are in demand.",
+        "Here, the authors review the latest advancements in nanomedicine-based drug-delivery methods for managing acute and chronic inflammatory lung diseases."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06591910",
+      "title": "Induction Therapy With Serplulimab Combined With Chemotherapy for Unresectable Stage III Non-small Cell Lung Cancer",
+      "study_type": "OBSERVATIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT06591910",
+      "semantic_score": 0.5454113483428955,
+      "matched_sentences": [
+        "For unresectable stage III (8th TNM) non-small cell lung cancer, chemoradiotherpay plus immunotherapy is recommended by PACIFIC trial.",
+        "This prospective observational study aims to investigate the efficacy and safety of the therapeutic regimen of chemoimmunotherapy plus surgery/radiotherapy.",
+        "However, it is unclear whether induction chemoimmunotherapy followed by surgery or radiotherapy can provide good survival for this population."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04797702",
+      "title": "Glumetinib Combined With Toripalimab in the Treatment of Relapsed or Metastatic Non-small Cell Lung Cancer.",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04797702",
+      "semantic_score": 0.5307401418685913,
+      "matched_sentences": [
+        "Phase II: Phase II is a multicenter, open-label, single-arm study evaluating the efficacy and safety of a recommended dose of glumetinib combined with Toripalimab in patients with relapsed, metastatic non-small cell lung cancer who have failed standard therapy.The SMC determined the dose group for the Phase II study based on the safety and initial efficacy data of the Phase Ib subjects.Approximately 62 evaluable subjects will be enrolled, with the recommended dose of glutmetinib once daily and Toripalimab 240mg every 3 weeks.",
+        "Phase Ib : Phase Ib is a multicenter, single-arm study evaluating the safety, tolerability, and preliminary efficacy of SCC244 combined with Toripalimab in patients with advanced relapsed or metastatic non-small cell lung cancer who have failed standard therapy.At the start of the study, MTPI2 was used to guide toxicity monitoring and dose climbing in combination with Toripalimab (240mg intravenous every 3 weeks), with 5 subjects planned to be enrolled in each dose group.The SMC will decide whether to add the new dose level and sample size based on the latest study data available.The MTD or recommended phase II dose (RP2D) will be determined during the phase Ib study on the basis of the latest availablestudy data, and the phase II study will commence once the MTD or recommended phase II dose (RP2D) is confirmed."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04772287",
+      "title": "Adjuvant Toripalimab Plus Chemotherapy for EGFR/ALK Mutation Negative Stage II-IIIB(N2) NSCLC (LungMate-008)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04772287",
+      "semantic_score": 0.5305384397506714,
+      "matched_sentences": [
+        "This is a randomized, controlled, double-blind, single-center Phase III clinical study in patients with EGFR/ALK mutation negative stage II-IIIB (N2) non-small cell lung cancer (NSCLC) after complete tumor resection."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03302234",
+      "title": "Study of Pembrolizumab Given With Ipilimumab or Placebo in Participants With Untreated Metastatic Non-Small Cell Lung Cancer (NSCLC) (MK-3475-598/KEYNOTE-598)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT03302234",
+      "semantic_score": 0.5212689638137817,
+      "matched_sentences": [
+        "The purpose of this study is to determine the efficacy of pembrolizumab given in combination with either ipilimumab or placebo as first-line treatment in participants with metastatic non-small cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06561386",
+      "title": "A Study to Compare the Efficacy of Nivolumab and Relatlimab Plus Chemotherapy vs Pembrolizumab Plus Chemotherapy for Stage IV/Recurrent Non-squamous Non-small Cell Lung Cancer With PD-L1 Expression ≥ 1%",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06561386",
+      "semantic_score": 0.5193713307380676,
+      "matched_sentences": [
+        "The purpose of this study is to compare the efficacy of Nivolumab and Relatlimab in combination with chemotherapy to Pembrolizumab with Chemotherapy in participants with stage IV or recurrent Non-squamous Non-small Cell Lung Cancer with PD-L1 expression ≥ 1%"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04602533",
+      "title": "Efficacy and Safety of Standard of Care Plus Durvalumab in Patients With Limited Disease Small Cell Lung Cancer (DOLPHIN)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT04602533",
+      "semantic_score": 0.5177487730979919,
+      "matched_sentences": [
+        "This clinical trial is a prospective, multicenter, randomized, open-label, parallel group phase II investigator initiated trial (ITT) to evaluate the efficacy and safety of Durvalumab in combination with Cisplatin/Etoposide/Radiotherapy in patients with limited disease small-cell lung cancer (SCLC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07432802",
+      "title": "Sublobar Wedge Resection or Stereotactic Radiotherapy Treatment of High-risk Patients With Early-stage Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07432802",
+      "semantic_score": 0.5151849389076233,
+      "matched_sentences": [
+        "The STRADOS study (STereotactic RADiotherapy Or Surgery) is an open randomized, controlled national multicenter study in which high-risk patients with stage I non-small-cell lung cancer (NSCLC) are randomized to receive either surgical treatment with minimal invasive wedge resection with lymph node sampling, or SBRT.",
+        "* Inability to understand oral and written informed consent * Intravenous substance abuse or severe alcohol abuse (\\> 25 units per week) * Not amendable for surgery in general anesthetic * Previous radiotherapy to the thorax, which may limit the feasibility or increase the risk of stereotactic reirradiation due to cumulative dose constraints and potential toxicity * Diagnosed with Interstitial lung disease (ILD) Design: * Randomized, controlled study * Not blinded (open label) * National multicenter study including all thoracic surgical departments and relevant departments of oncology and pulmonology in Denmark * Endpoint are measured with the date of randomization as index Pre-randomization investigations: Standard assessment according to the Danish national reference program for the assessment and treatment of lung cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06793215",
+      "title": "A Study Evaluating the Efficacy and Safety of Divarasib and Pembrolizumab Versus Pembrolizumab and Pemetrexed and Carboplatin or Cisplatin in Participants With Previously Untreated, KRAS G12C-Mutated, Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06793215",
+      "semantic_score": 0.5115519762039185,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the efficacy and safety of divarasib and pembrolizumab compared with pembrolizumab and pemetrexed and carboplatin or cisplatin, for the first-line treatment of adult participants with KRAS G12C-mutated, advanced or metastatic non squamous non-small cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38301317",
+      "title": "Recent advances and future strategies in first-line treatment of ES-SCLC.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38301317/",
+      "semantic_score": 0.5087200403213501,
+      "matched_sentences": [
+        "Recent advancements in treating extensive-stage small-cell lung cancer (ES-SCLC) have been significantly marked by incorporating immune checkpoint inhibitors (ICIs) into platinum-based chemotherapy, leading to modest yet notable improvements in patient outcomes, which become more evident with longer follow-up.",
+        "We discuss the latest developments in the use of newer ICIs, antiangiogenic agents, PARP inhibitors (PARPi), lurbinectedin, and anti-DLL3 agents, offering insights into potential future directions in the management of this aggressive cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00982111",
+      "title": "First-line Treatment of Patients With Stage IV Nonsquamous Non-Small Cell Lung Cancer With Necitumumab (IMC-11F8) and Pemetrexed-Cisplatin",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT00982111",
+      "semantic_score": 0.5082399845123291,
+      "matched_sentences": [
+        "The research study is testing the investigational drug necitumumab in the treatment of advanced non-small cell lung cancer."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03425643",
+      "title": "Efficacy and Safety of Pembrolizumab (MK-3475) With Platinum Doublet Chemotherapy as Neoadjuvant/Adjuvant Therapy for Participants With Resectable Stage II, IIIA, and Resectable IIIB (T3-4N2) Non-small Cell Lung Cancer (MK-3475-671/KEYNOTE-671)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT03425643",
+      "semantic_score": 0.5030034780502319,
+      "matched_sentences": [
+        "This trial will evaluate the safety and efficacy of pembrolizumab (MK-3475) in combination with platinum doublet neoadjuvant chemotherapy (NAC) before surgery \\[neoadjuvant phase\\], followed by pembrolizumab alone after surgery \\[adjuvant phase\\] in participants with resectable stage II, IIIA, and resectable IIIB (T3-4N2) non-small cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06168032",
+      "title": "COVID-19 Vaccine Effectiveness Against Recurrent Infection Among Lung Cancer Patients and Biomarker Research",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT06168032",
+      "semantic_score": 0.4985179305076599,
+      "matched_sentences": [
+        "A prospective, open-label and parallel non-randomized control trial and biomarker research study is intended to compare incidence of repeated COVID-19 infection, severe pneumonitis and mortality between lung cancer patients undergoing systemic antitumor therapies who get vaccinated with 1 booster dose(majorly against XBB) and those who refuse."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00981058",
+      "title": "First-line Treatment of Participants With Stage IV Squamous Non-Small Cell Lung Cancer With Necitumumab and Gemcitabine-Cisplatin",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT00981058",
+      "semantic_score": 0.49312078952789307,
+      "matched_sentences": [
+        "The research study is testing the investigational drug necitumumab (IMC-11F8) in the treatment of advanced non-small cell lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40386733",
+      "title": "Multidisciplinary international expert consensus on perioperative airway management.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40386733/",
+      "semantic_score": 0.48730209469795227,
+      "matched_sentences": [
+        "These recommendations update the perspectives of earlier consensus documents based on the latest research and emphasize non-intubated surgery, inhalation therapy, and individualized treatment for patients with coexisting pulmonary diseases.",
+        "Effective airway management reduces postoperative pulmonary complications and accelerates recovery."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05455424",
+      "title": "Niraparib Efficacy in Patient With Unresectable Mesothelioma",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05455424",
+      "semantic_score": 0.4810013175010681,
+      "matched_sentences": [
+        "This cancer is incurable and lacks effective treatment, particularly after initial chemotherapy.",
+        "There has not been a licenced therapy for mesothelioma since 2003, and no treatment has yet demonstrated an improvement in survival following initial chemotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31508997",
+      "title": "Congenital mesoblastic nephroma: a single-centre series.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31508997/",
+      "semantic_score": 0.4532930254936218,
+      "matched_sentences": [
+        "Surgery remains the mainstay of management with chemo- and radiotherapy reserved for unresectable tumours or adjuvant management of recurrent disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05142696",
+      "title": "A Study of [177Lu]Lu-DOTA-TATE in Newly Diagnosed ES-SCLC Patients in Combination With Carboplatin, Etoposide and Atezolizumab",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT05142696",
+      "semantic_score": 0.4394679069519043,
+      "matched_sentences": [
+        "This study aims to establish a safe and well tolerated dose of \\[177Lu\\]Lu-DOTA-TATE in combination with carboplatin, etoposide and atezolizumab in this setting and to assess preliminary efficacy of this combination treatment versus the combination of carboplatin, etoposide, and atezolizumab.The study will be essential to assess a new potential therapeutic option in participants with this aggressive cancer type."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4413924817",
+      "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+      "study_type": "review",
+      "year": "2025",
+      "url": "https://doi.org/10.1186/s13045-025-01732-z",
+      "semantic_score": 0.43937426805496216,
+      "matched_sentences": [
+        "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4281662335",
+      "title": "Management Practice and Drug Related Problems and Its Contributing Factors Among Cervical Cancer Patients at Oncologic Center in Ethiopia: A Hospital-Based Retrospective Study",
+      "study_type": "article",
+      "year": "2022",
+      "url": "https://doi.org/10.2147/tcrm.s364923",
+      "semantic_score": 0.4385607838630676,
+      "matched_sentences": [
+        "Cisplatin-based chemotherapy was the frequently used therapeutic option."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4385655302",
+      "title": "Ethnomedicinal Uses, Phytochemistry, and Anticancer Potentials of African Medicinal Fruits: A Comprehensive Review",
+      "study_type": "review",
+      "year": "2023",
+      "url": "https://doi.org/10.3390/ph16081117",
+      "semantic_score": 0.43442246317863464,
+      "matched_sentences": [
+        "Africa is home to diverse medicinal plants that have been used for generations for the treatment of several different cancers and, presently, they are gaining interest from researchers as promising approaches to cancer treatment."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04379739",
+      "title": "Neoadjuvant PD-1 Antibody Plus Apatinib or Chemotherapy for Non-small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04379739",
+      "semantic_score": 0.42928263545036316,
+      "matched_sentences": [
+        "Detailed Description: This is a multiple-canter, open-label, phase II trial, 2-4 cycles treatment will be planned as neo-adjuvant therapy for NSCLC participants in stage II-III."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "23603504",
+      "title": "Injection site-associated sarcoma in the cat: treatment recommendations and results to date.",
+      "study_type": "Journal Article, Review",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23603504/",
+      "semantic_score": 0.41900545358657837,
+      "matched_sentences": [
+        "It focuses on surgical excision but also covers adjuvant radiotherapy and chemotherapy, and gives median survival times for the different treatment approaches."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31560378",
+      "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-Years for 29 Cancer Groups, 1990 to 2017: A Systematic Analysis for the Global Burden of Disease Study.",
+      "study_type": "Journal Article",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31560378/",
+      "semantic_score": 0.41816651821136475,
+      "matched_sentences": [
+        "The GBD study can be used by policy makers and other stakeholders to develop and improve national and local cancer control in order to achieve the global targets and improve equity in cancer care."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33485459",
+      "title": "Evidence-based benchmarks for use of cancer surgery in high-income countries: a population-based analysis.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33485459/",
+      "semantic_score": 0.4163770079612732,
+      "matched_sentences": [
+        "Surgical treatment was indicated in 58% (95% CI 57-59) of newly diagnosed patients with cancer in Australia in 2014 at least once during the course of their treatment, but varied by site from 23% (17-27) for prostate cancer to 99% (96-99) for testicular cancer."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3124945625",
+      "title": "Application of Nanotechnology in the COVID-19 Pandemic",
+      "study_type": "review",
+      "year": "2021",
+      "url": "https://doi.org/10.2147/ijn.s296383",
+      "semantic_score": 0.4119488000869751,
+      "matched_sentences": [
+        "In addition, intranasal drug delivery has proven to be an effective method of administration for treating viral lung diseases."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05101356",
+      "title": "A Cancer Vaccine (Labvax 3(22)-23) and GM-CSF Alone or in Combination With Pembrolizumab for the Treatment of Advanced Stage Adenocarcinoma",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT05101356",
+      "semantic_score": 0.4089943766593933,
+      "matched_sentences": [
+        "Participants will receive study treatment over 34 weeks if tolerating the treatment without tumor progression; a safety follow-up visit will occur 30 days post-last dose of study treatment."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2418380127",
+      "title": "Cervical cancer prevention and treatment research in Africa: a systematic review from a public health perspective",
+      "study_type": "review",
+      "year": "2016",
+      "url": "https://doi.org/10.1186/s12905-016-0306-6",
+      "semantic_score": 0.40536272525787354,
+      "matched_sentences": [
+        "treatment of disease with effective medicine) and quality of life of cervical cancer survivors are two severely under-researched areas."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06072989",
+      "title": "Repeat Intravenous Infusions of B4T2-001 CAR-T Without Lymphodepleting Chemotherapy for Solid Tumors",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT06072989",
+      "semantic_score": 0.3965492844581604,
+      "matched_sentences": [
+        "Each treatment Block is composed of three Cycles of B4T2-001 CAR-T administered every 21 days by intravenous route without preparative chemotherapy (lymphodepletion)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40265531",
+      "title": "Recent advances in understanding the role of antidepressants to manage breathlessness in supportive and palliative care.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40265531/",
+      "semantic_score": 0.3959651589393616,
+      "matched_sentences": [
+        "Given the complex nature of breathlessness, future research should focus on innovating and then testing treatments and therapies in well-designed trials with appropriate outcome measures and reporting of adverse events, health care use and informal carer effects."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35055981",
+      "title": "HIV-Associated Tuberculosis in Children and Adolescents: Evolving Epidemiology, Screening, Prevention and Management Strategies.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35055981/",
+      "semantic_score": 0.3954455256462097,
+      "matched_sentences": [
+        "Finally, we review new approaches to manage post-TB lung disease in children living with HIV."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33472960",
+      "title": "Update on biology and management of mesothelioma.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33472960/",
+      "semantic_score": 0.38929206132888794,
+      "matched_sentences": [
+        "This has also revealed the limitations of existing diagnostic algorithms and identified new treatment targets.Recent clinical trials have re-examined the role of surgery, provided new options for the management of associated pleural effusions and heralded the addition of targeted therapies."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3153636042",
+      "title": "Cancer in Africa: The Untold Story",
+      "study_type": "article",
+      "year": "2021",
+      "url": "https://doi.org/10.3389/fonc.2021.650117",
+      "semantic_score": 0.3847987651824951,
+      "matched_sentences": [
+        "Opportunities exist for vaccination programs for cervical and liver cancer, genetic testing and use of new targeted therapies for breast and prostate cancer, and positive changes in lifestyle for lung, colorectal and bladder cancers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "run_id": "698313d373b2470685c2ae966bd46c37",
+  "stored_at": "2026-04-16T13:49:31+00:00",
+  "query": "hiv rate infections africa",
+  "query_fallbacks": [
+    "hiv rate infections africa",
+    "incidence HIV Africa",
+    "HIV infection rates Africa",
+    "epidemiology HIV Africa",
+    "prevalence HIV infections Africa",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv rate infections africa",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "incidence HIV Africa",
+    "HIV infection rates Africa",
+    "epidemiology HIV Africa",
+    "prevalence HIV infections Africa"
+  ],
+  "keywords": [
+    "hiv",
+    "rate",
+    "infections",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 66,
+    "indexed_chunks": 164
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "incidence HIV Africa",
+      "HIV infection rates Africa",
+      "epidemiology HIV Africa",
+      "prevalence HIV infections Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\698313d373b2470685c2ae966bd46c37\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\698313d373b2470685c2ae966bd46c37\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\698313d373b2470685c2ae966bd46c37\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\698313d373b2470685c2ae966bd46c37\\combined.records.json"
+  }
+}

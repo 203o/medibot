@@ -1,0 +1,68 @@
+{
+  "run_id": "7050dd722d8e47c5bedfc811d04551b1",
+  "stored_at": "2026-04-18T10:34:46+00:00",
+  "query": "malaria hiv infections south africa",
+  "query_fallbacks": [
+    "malaria hiv infections south africa",
+    "malaria co-infection HIV South Africa",
+    "HIV prevalence malaria endemic South Africa",
+    "malaria HIV co-infection epidemiology South Africa",
+    "HIV malaria co-infection South Africa",
+    "malaria hiv infections south treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria hiv infections south africa",
+    "malaria hiv infections south treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria co-infection HIV South Africa",
+    "HIV prevalence malaria endemic South Africa",
+    "malaria HIV co-infection epidemiology South Africa",
+    "HIV malaria co-infection South Africa"
+  ],
+  "keywords": [
+    "malaria",
+    "hiv",
+    "infections",
+    "south",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 29,
+    "clinicaltrials": 15,
+    "openalex": 0,
+    "semantic_hits": 30,
+    "indexed_chunks": 27
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria co-infection HIV South Africa",
+      "HIV prevalence malaria endemic South Africa",
+      "malaria HIV co-infection epidemiology South Africa",
+      "HIV malaria co-infection South Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7050dd722d8e47c5bedfc811d04551b1\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7050dd722d8e47c5bedfc811d04551b1\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7050dd722d8e47c5bedfc811d04551b1\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\7050dd722d8e47c5bedfc811d04551b1\\combined.records.json"
+  }
+}

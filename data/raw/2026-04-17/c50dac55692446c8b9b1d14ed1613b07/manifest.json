@@ -1,0 +1,71 @@
+{
+  "run_id": "c50dac55692446c8b9b1d14ed1613b07",
+  "stored_at": "2026-04-17T20:39:09+00:00",
+  "query": "lung cancer infection rates canada canada",
+  "query_fallbacks": [
+    "lung cancer infection rates canada canada",
+    "lung cancer epidemiology canada",
+    "incidence rates lung cancer canada",
+    "morbidity trends lung cancer canada",
+    "prevalence of lung cancer canada",
+    "lung cancer infection rates canada",
+    "lung cancer infection rates canada treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer infection rates canada canada",
+    "lung cancer infection rates canada",
+    "lung cancer infection rates canada treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology canada",
+    "incidence rates lung cancer canada",
+    "morbidity trends lung cancer canada",
+    "prevalence of lung cancer canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "infection",
+    "rates",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 20,
+    "clinicaltrials": 20,
+    "openalex": 0,
+    "semantic_hits": 28,
+    "indexed_chunks": 99
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology canada",
+      "incidence rates lung cancer canada",
+      "morbidity trends lung cancer canada",
+      "prevalence of lung cancer canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c50dac55692446c8b9b1d14ed1613b07\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c50dac55692446c8b9b1d14ed1613b07\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c50dac55692446c8b9b1d14ed1613b07\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c50dac55692446c8b9b1d14ed1613b07\\combined.records.json"
+  }
+}

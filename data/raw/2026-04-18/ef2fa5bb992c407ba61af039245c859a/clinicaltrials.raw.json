@@ -1,0 +1,61 @@
+{
+  "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+  "selected_query": "",
+  "attempted_queries": [
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease parkinson disease stage treatment",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease parkinson disease stage treatment",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease usa",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease usa",
+      "location_filter": "",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "parkinson’s disease",
+      "location_filter": "",
+      "count": 0
+    }
+  ],
+  "location": "USA",
+  "records": [],
+  "payload": {
+    "studies": []
+  }
+}

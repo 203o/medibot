@@ -1,0 +1,23 @@
+{
+  "run_id": "f2ed362cf4e94bd599dbc8c47d0fce52",
+  "stored_at": "2026-04-15T14:31:23+00:00",
+  "query": "malaria hydration during treatment malawi",
+  "query_fallbacks": [
+    "malaria hydration during treatment malawi",
+    "malaria hydration during treatment",
+    "malaria"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 3
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\f2ed362cf4e94bd599dbc8c47d0fce52\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\f2ed362cf4e94bd599dbc8c47d0fce52\\clinicaltrials.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\f2ed362cf4e94bd599dbc8c47d0fce52\\combined.records.json"
+  }
+}

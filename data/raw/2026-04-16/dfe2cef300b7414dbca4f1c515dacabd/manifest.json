@@ -1,0 +1,73 @@
+{
+  "run_id": "dfe2cef300b7414dbca4f1c515dacabd",
+  "stored_at": "2026-04-16T17:14:51+00:00",
+  "query": "malaria main cause kenya turkana",
+  "query_fallbacks": [
+    "malaria main cause kenya turkana",
+    "malaria risk factors kenya turkana",
+    "malaria epidemiology kenya turkana",
+    "malaria burden determinants kenya turkana",
+    "malaria transmission dynamics kenya turkana",
+    "malaria main cause",
+    "malaria main cause treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria main cause kenya turkana",
+    "malaria main cause",
+    "malaria main cause treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria risk factors kenya turkana",
+    "malaria epidemiology kenya turkana",
+    "malaria burden determinants kenya turkana",
+    "malaria transmission dynamics kenya turkana"
+  ],
+  "keywords": [
+    "malaria",
+    "main",
+    "cause",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 30,
+    "openalex": 30,
+    "semantic_hits": 66,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria risk factors kenya turkana",
+      "malaria epidemiology kenya turkana",
+      "malaria burden determinants kenya turkana",
+      "malaria transmission dynamics kenya turkana"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\dfe2cef300b7414dbca4f1c515dacabd\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\dfe2cef300b7414dbca4f1c515dacabd\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\dfe2cef300b7414dbca4f1c515dacabd\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\dfe2cef300b7414dbca4f1c515dacabd\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\dfe2cef300b7414dbca4f1c515dacabd\\combined.records.json"
+  }
+}

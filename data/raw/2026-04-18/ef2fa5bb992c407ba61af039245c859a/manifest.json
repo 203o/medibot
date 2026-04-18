@@ -1,0 +1,67 @@
+{
+  "run_id": "ef2fa5bb992c407ba61af039245c859a",
+  "stored_at": "2026-04-18T17:02:39+00:00",
+  "query": "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+  "query_fallbacks": [
+    "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+    "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial",
+    "parkinson’s disease parkinson disease stage treatment",
+    "parkinson’s disease usa",
+    "parkinson’s disease"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial USA",
+    "parkinson’s disease parkinson disease stage levodopa systematic review clinical trial",
+    "parkinson’s disease parkinson disease stage treatment",
+    "parkinson’s disease usa",
+    "parkinson’s disease"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "parkinson’s disease",
+    "parkinson",
+    "disease",
+    "stage",
+    "levodopa",
+    "wearing",
+    "off",
+    "progression",
+    "relevant",
+    "research",
+    "clinical",
+    "trials",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 1,
+    "clinicaltrials": 0,
+    "openalex": 1,
+    "semantic_hits": 35,
+    "indexed_chunks": 6
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ef2fa5bb992c407ba61af039245c859a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ef2fa5bb992c407ba61af039245c859a\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ef2fa5bb992c407ba61af039245c859a\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ef2fa5bb992c407ba61af039245c859a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\ef2fa5bb992c407ba61af039245c859a\\combined.records.json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "run_id": "4fab4fa513904fdab9699c87fa7cae5a",
+  "stored_at": "2026-04-16T18:54:10+00:00",
+  "query": "lung cancer latest treatment therapy management kenya",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer treatment options in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in sub-saharan africa",
+    "current evidence on lung cancer therapy in african settings",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment options in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in sub-saharan africa",
+    "current evidence on lung cancer therapy in african settings"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 1,
+    "openalex": 30,
+    "semantic_hits": 71,
+    "indexed_chunks": 49
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment options in kenya",
+      "epidemiology of lung cancer in kenya",
+      "systematic review of lung cancer management in sub-saharan africa",
+      "current evidence on lung cancer therapy in african settings"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4fab4fa513904fdab9699c87fa7cae5a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4fab4fa513904fdab9699c87fa7cae5a\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4fab4fa513904fdab9699c87fa7cae5a\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4fab4fa513904fdab9699c87fa7cae5a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4fab4fa513904fdab9699c87fa7cae5a\\combined.records.json"
+  }
+}

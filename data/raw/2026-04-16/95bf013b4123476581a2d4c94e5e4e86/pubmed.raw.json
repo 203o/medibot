@@ -1,0 +1,1424 @@
+{
+  "query": "malaria malaria clinical question children kenya turkana",
+  "selected_query": "malaria epidemiology in children in Kenya",
+  "attempted_queries": [
+    {
+      "query": "malaria malaria clinical question children kenya turkana",
+      "count": 0
+    },
+    {
+      "query": "malaria epidemiology in children in Kenya",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38583454",
+    "36991340",
+    "40700688",
+    "31801562",
+    "37525687",
+    "37448326",
+    "12287810",
+    "12023907",
+    "37231429",
+    "15585775",
+    "39736740",
+    "34498446",
+    "35382858",
+    "33158460",
+    "32772115",
+    "39433400",
+    "22984118",
+    "34529696",
+    "31054214",
+    "31819062",
+    "32646433",
+    "33238928",
+    "10782073",
+    "37433031",
+    "31299976",
+    "34125699",
+    "33200723",
+    "40288396",
+    "33413385",
+    "18671871"
+  ],
+  "records": [
+    {
+      "pmid": "38583454",
+      "title": "Feasibility, safety, and impact of the RTS,S/AS01",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The RTS,S/AS01",
+        "In this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.",
+        "By April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).",
+        "In the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.",
+        "Gavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid."
+      ],
+      "abstract": "The RTS,S/AS01\n\nIn this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.\n\nBy April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).\n\nIn the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.\n\nGavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid.",
+      "evidence_sentences": [
+        "Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]).",
+        "Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).",
+        "Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kwaku Poku Asante",
+        "Don P Mathanga",
+        "Paul Milligan",
+        "Samuel Akech",
+        "Abraham Oduro",
+        "Victor Mwapasa",
+        "Kerryn A Moore",
+        "Titus K Kwambai",
+        "Mary J Hamel",
+        "Thomas Gyan",
+        "Nelli Westercamp",
+        "Atupele Kapito-Tembo",
+        "Patricia Njuguna",
+        "Daniel Ansong",
+        "Simon Kariuki",
+        "Tisungane Mvalo",
+        "Paul Snell",
+        "David Schellenberg",
+        "Paul Welega",
+        "Lucas Otieno",
+        "Alfred Chimala",
+        "Edwin A Afari",
+        "Philip Bejon",
+        "Kenneth Maleta",
+        "Tsiri Agbenyega",
+        "Robert W Snow",
+        "Madaliso Zulu",
+        "Jobiba Chinkhumba",
+        "Aaron M Samuels",
+        "Malaria Vaccine Programme Evaluation Partners"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38583454/"
+    },
+    {
+      "pmid": "36991340",
+      "title": "Spatiotemporal overlapping of dengue, chikungunya, and malaria infections in children in Kenya.",
+      "journal": "BMC infectious diseases",
+      "abstract_sections": [
+        "Malaria, chikungunya virus (CHIKV), and dengue virus (DENV) are endemic causes of fever among children in Kenya. The risks of infection are multifactorial and may be influenced by built and social environments. The high resolution overlapping of these diseases and factors affecting their spatial heterogeneity has not been investigated in Kenya. From 2014-2018, we prospectively followed a cohort of children from four communities in both coastal and western Kenya. Overall, 9.8% were CHIKV seropositive, 5.5% were DENV seropositive, and 39.1% were malaria positive (3521 children tested). The spatial analysis identified hot-spots for all three diseases in each site and in multiple years. The results of the model showed that the risk of exposure was linked to demographics with common factors for the three diseases including the presence of litter, crowded households, and higher wealth in these communities. These insights are of high importance to improve surveillance and targeted control of mosquito-borne diseases in Kenya."
+      ],
+      "abstract": "Malaria, chikungunya virus (CHIKV), and dengue virus (DENV) are endemic causes of fever among children in Kenya. The risks of infection are multifactorial and may be influenced by built and social environments. The high resolution overlapping of these diseases and factors affecting their spatial heterogeneity has not been investigated in Kenya. From 2014-2018, we prospectively followed a cohort of children from four communities in both coastal and western Kenya. Overall, 9.8% were CHIKV seropositive, 5.5% were DENV seropositive, and 39.1% were malaria positive (3521 children tested). The spatial analysis identified hot-spots for all three diseases in each site and in multiple years. The results of the model showed that the risk of exposure was linked to demographics with common factors for the three diseases including the presence of litter, crowded households, and higher wealth in these communities. These insights are of high importance to improve surveillance and targeted control of mosquito-borne diseases in Kenya.",
+      "evidence_sentences": [
+        "Malaria, chikungunya virus (CHIKV), and dengue virus (DENV) are endemic causes of fever among children in Kenya.",
+        "Overall, 9.8% were CHIKV seropositive, 5.5% were DENV seropositive, and 39.1% were malaria positive (3521 children tested).",
+        "From 2014-2018, we prospectively followed a cohort of children from four communities in both coastal and western Kenya."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Aslam Khan",
+        "Donal Bisanzio",
+        "Francis Mutuku",
+        "Bryson Ndenga",
+        "Elysse N Grossi-Soyster",
+        "Zainab Jembe",
+        "Priscilla W Maina",
+        "Philip K Chebii",
+        "Charles O Ronga",
+        "Victoria Okuta",
+        "A Desiree LaBeaud"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36991340/"
+    },
+    {
+      "pmid": "40700688",
+      "title": "Ivermectin to Control Malaria - A Cluster-Randomized Trial.",
+      "journal": "The New England journal of medicine",
+      "abstract_sections": [
+        "Malaria control and elimination is threatened by the spread of insecticide resistance and behavioral adaptation of vectors. Whether mass administration of ivermectin, a broad-spectrum antiparasitic drug that also kills mosquitoes feeding on treated persons, can reduce malaria transmission is unclear.",
+        "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high. Clusters of household areas were randomly assigned in a 1:1 ratio to receive mass administration of ivermectin (400 μg per kilogram of body weight) or albendazole (400 mg, active control) once a month for 3 consecutive months at the beginning of the \"short rains\" season. Children 5 to 15 years of age were tested for malaria infection monthly for 6 months after the first round of treatment. The two primary outcomes were the cumulative incidence of malaria infection (assessed among children 5 to 15 years of age) and of adverse events (assessed among all eligible participants). Analyses were performed with generalized estimating equations in accordance with the intention-to-treat principle.",
+        "A total of 84 clusters comprising 28,932 eligible participants underwent randomization. The baseline characteristics of the participants were similar in the trial groups. Six months after the first round of treatment, the incidence of malaria infection was 2.20 per child-year at risk in the ivermectin group and 2.66 per child-year at risk in the albendazole group; the adjusted incidence rate ratio (ivermectin vs. albendazole) was 0.74 (95% confidence interval [CI], 0.58 to 0.95, P = 0.02). The incidence of serious adverse events per 100 treatments did not differ significantly between the trial groups (incidence rate ratio, 0.63; 95% CI, 0.21 to 1.91).",
+        "Among children 5 to 15 years of age who were living in an area with high coverage and use of bed nets, ivermectin, administered once a month for 3 consecutive months, resulted in a 26% lower incidence of malaria infection than albendazole. No safety concerns were identified. (Funded by Unitaid; BOHEMIA ClinicalTrials.gov number, NCT04966702; Pan African Clinical Trial Registry number, PACTR202106695877303.)."
+      ],
+      "abstract": "Malaria control and elimination is threatened by the spread of insecticide resistance and behavioral adaptation of vectors. Whether mass administration of ivermectin, a broad-spectrum antiparasitic drug that also kills mosquitoes feeding on treated persons, can reduce malaria transmission is unclear.\n\nWe conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high. Clusters of household areas were randomly assigned in a 1:1 ratio to receive mass administration of ivermectin (400 μg per kilogram of body weight) or albendazole (400 mg, active control) once a month for 3 consecutive months at the beginning of the \"short rains\" season. Children 5 to 15 years of age were tested for malaria infection monthly for 6 months after the first round of treatment. The two primary outcomes were the cumulative incidence of malaria infection (assessed among children 5 to 15 years of age) and of adverse events (assessed among all eligible participants). Analyses were performed with generalized estimating equations in accordance with the intention-to-treat principle.\n\nA total of 84 clusters comprising 28,932 eligible participants underwent randomization. The baseline characteristics of the participants were similar in the trial groups. Six months after the first round of treatment, the incidence of malaria infection was 2.20 per child-year at risk in the ivermectin group and 2.66 per child-year at risk in the albendazole group; the adjusted incidence rate ratio (ivermectin vs. albendazole) was 0.74 (95% confidence interval [CI], 0.58 to 0.95, P = 0.02). The incidence of serious adverse events per 100 treatments did not differ significantly between the trial groups (incidence rate ratio, 0.63; 95% CI, 0.21 to 1.91).\n\nAmong children 5 to 15 years of age who were living in an area with high coverage and use of bed nets, ivermectin, administered once a month for 3 consecutive months, resulted in a 26% lower incidence of malaria infection than albendazole. No safety concerns were identified. (Funded by Unitaid; BOHEMIA ClinicalTrials.gov number, NCT04966702; Pan African Clinical Trial Registry number, PACTR202106695877303.).",
+      "evidence_sentences": [
+        "Among children 5 to 15 years of age who were living in an area with high coverage and use of bed nets, ivermectin, administered once a month for 3 consecutive months, resulted in a 26% lower incidence of malaria infection than albendazole.",
+        "The two primary outcomes were the cumulative incidence of malaria infection (assessed among children 5 to 15 years of age) and of adverse events (assessed among all eligible participants).",
+        "We conducted a cluster-randomized trial in Kwale, a county in coastal Kenya in which malaria is highly endemic and coverage and use of insecticide-treated nets are high."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Carlos Chaccour",
+        "Marta Maia",
+        "Mercy Kariuki",
+        "Paula Ruiz-Castillo",
+        "Caroline Wanjiku",
+        "Lydia Kasiwa",
+        "Aurelia Brazeal",
+        "Aina Casellas",
+        "Mwanajuma Ngama",
+        "Truphena Onyango",
+        "Eldo Elobolobo",
+        "Karisa Kazungu",
+        "Mary Mael",
+        "Winnie Wangari",
+        "Khadija Nuru",
+        "Rachel Otuko",
+        "Almudena Sanz",
+        "Isaac Ringera",
+        "Allan Matano",
+        "Starford Mitora",
+        "Marta Ribes",
+        "Joe Brew",
+        "Nika Gorski",
+        "Patricia Nicolas",
+        "Sara Stanulovic",
+        "Isaiah Omondi",
+        "Joanna Furnival-Adams",
+        "Laura Túnez",
+        "Jamal Mbarak",
+        "Vegovito Vegove",
+        "Esther Yaa",
+        "Shadrack Mramba",
+        "Yegon Kibet",
+        "Naomi Nyambura",
+        "Charles Rotich",
+        "Scholastica Wanjiru",
+        "Musa Vura",
+        "Faith Wanjiku",
+        "Leslie Sam",
+        "Lisa Collins",
+        "Kang Xia",
+        "Felix Hammann",
+        "Francisco Saúte",
+        "Matthew Rudd",
+        "Cassidy Rist",
+        "Caroline Jones",
+        "Joseph Mwangangi",
+        "N Regina Rabinovich"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40700688/"
+    },
+    {
+      "pmid": "31801562",
+      "title": "Gametocyte clearance in children, from western Kenya, with uncomplicated Plasmodium falciparum malaria after artemether-lumefantrine or dihydroartemisinin-piperaquine treatment.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "The efficacy and safety of artemether-lumefantrine (AL) and dihydroartemisinin-piperaquine (DP) against asexual parasites population has been documented. However, the effect of these anti-malarials on sexual parasites is still less clear. Gametocyte clearance following treatment is essential for malaria control and elimination efforts; therefore, the study sought to determine trends in gametocyte clearance after AL or DP treatment in children from a malaria-endemic site in Kenya.",
+        "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment. A total of 334 children were enrolled, and dried blood spot samples were collected for up to 6 weeks after treatment during the peak malaria transmission season in 2016 and preserved. Plasmodium falciparum gametocytes were detected by qRT-PCR and gametocyte prevalence, density and mean duration of gametocyte carriage were determined.",
+        "At baseline, all the 334 children had positive asexual parasites by microscopy, 12% (40/334) had detectable gametocyte by microscopy, and 83.7% (253/302) children had gametocytes by RT-qPCR. Gametocyte prevalence by RT-qPCR decreased from 85.1% (126/148) at day 0 to 7.04% (5/71) at day 42 in AL group and from 82.4% (127/154) at day 0 to 14.5% (11/74) at day 42 in DP group. The average duration of gametocyte carriage as estimated by qRT-PCR was slightly shorter in the AL group (4.5 days) than in the DP group (5.1 days) but not significantly different (p = 0.301).",
+        "The study identifies no significant difference between AL and DP in gametocyte clearance. Gametocytes persisted up to 42 days post treatment in minority of individuals in both treatment arms. A gametocytocidal drug, in combination with artemisinin-based combination therapy, will be useful in blocking malaria transmission more efficiently."
+      ],
+      "abstract": "The efficacy and safety of artemether-lumefantrine (AL) and dihydroartemisinin-piperaquine (DP) against asexual parasites population has been documented. However, the effect of these anti-malarials on sexual parasites is still less clear. Gametocyte clearance following treatment is essential for malaria control and elimination efforts; therefore, the study sought to determine trends in gametocyte clearance after AL or DP treatment in children from a malaria-endemic site in Kenya.\n\nChildren aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment. A total of 334 children were enrolled, and dried blood spot samples were collected for up to 6 weeks after treatment during the peak malaria transmission season in 2016 and preserved. Plasmodium falciparum gametocytes were detected by qRT-PCR and gametocyte prevalence, density and mean duration of gametocyte carriage were determined.\n\nAt baseline, all the 334 children had positive asexual parasites by microscopy, 12% (40/334) had detectable gametocyte by microscopy, and 83.7% (253/302) children had gametocytes by RT-qPCR. Gametocyte prevalence by RT-qPCR decreased from 85.1% (126/148) at day 0 to 7.04% (5/71) at day 42 in AL group and from 82.4% (127/154) at day 0 to 14.5% (11/74) at day 42 in DP group. The average duration of gametocyte carriage as estimated by qRT-PCR was slightly shorter in the AL group (4.5 days) than in the DP group (5.1 days) but not significantly different (p = 0.301).\n\nThe study identifies no significant difference between AL and DP in gametocyte clearance. Gametocytes persisted up to 42 days post treatment in minority of individuals in both treatment arms. A gametocytocidal drug, in combination with artemisinin-based combination therapy, will be useful in blocking malaria transmission more efficiently.",
+      "evidence_sentences": [
+        "Gametocyte clearance following treatment is essential for malaria control and elimination efforts; therefore, the study sought to determine trends in gametocyte clearance after AL or DP treatment in children from a malaria-endemic site in Kenya.",
+        "Children aged between 0.5 and 12 years from Busia, western Kenya with uncomplicated Plasmodium falciparum malaria were assigned randomly to AL or DP treatment.",
+        "A total of 334 children were enrolled, and dried blood spot samples were collected for up to 6 weeks after treatment during the peak malaria transmission season in 2016 and preserved."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Protus Omondi",
+        "Marion Burugu",
+        "Damaris Matoke-Muhia",
+        "Edwin Too",
+        "Eva A Nambati",
+        "William Chege",
+        "Kelvin B Musyoka",
+        "Kelvin Thiongo",
+        "Maureen Otinga",
+        "Francis Muregi",
+        "Francis Kimani"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31801562/"
+    },
+    {
+      "pmid": "37525687",
+      "title": "[Vaccination against malaria].",
+      "journal": "Medecine tropicale et sante internationale",
+      "abstract_sections": [
+        "Vaccination against malaria is an old dream that reemerged in 2015 with the European Medicines Agency's favourable opinion on a first antimalarial vaccine, RTS,S/ AS01. Six years later, the World Health Organization (WHO) is advising a wide deployment of this vaccine in sub-Saharan Africa and in regions with high and moderate transmission where"
+      ],
+      "abstract": "Vaccination against malaria is an old dream that reemerged in 2015 with the European Medicines Agency's favourable opinion on a first antimalarial vaccine, RTS,S/ AS01. Six years later, the World Health Organization (WHO) is advising a wide deployment of this vaccine in sub-Saharan Africa and in regions with high and moderate transmission where",
+      "evidence_sentences": [
+        "Vaccination against malaria is an old dream that reemerged in 2015 with the European Medicines Agency's favourable opinion on a first antimalarial vaccine, RTS,S/ AS01."
+      ],
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Marie Mura"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37525687/"
+    },
+    {
+      "pmid": "37448326",
+      "title": "Reduced incidence of respiratory, gastrointestinal and malaria infections among children during the COVID-19 pandemic in Western Kenya: An analysis of facility-based and weekly diaries data.",
+      "journal": "Journal of global health",
+      "abstract_sections": [
+        "Epidemics can cause significant disruptions of essential health care services. This was evident in West-Africa during the 2014-2016 Ebola outbreak, raising concerns that COVID-19 would have similar devastating consequences for the continent. Indeed, official facility-based records show a reduction in health care visits after the onset of COVID-19 in Kenya. Our question is whether this observed reduction was caused by lower access to health care or by reduced incidence of communicable diseases resulting from reduced mobility and social contacts.",
+        "We analysed monthly facility-based data from 2018 to 2020, and weekly health diaries data digitally collected by trained fieldworkers between February and November 2020 from 342 households, including 1974 individuals, in Kisumu and Kakamega Counties, Kenya. Diaries data was collected as part of an ongoing longitudinal study of a digital health insurance scheme (Kakamega), and universal health coverage implementation (Kisumu). We assessed the weekly incidence of self-reported medical symptoms, formal and informal health-seeking behaviour, and foregone care in the diaries and compared it with facility-based records. Linear probability regressions with household fixed-effects were performed to compare the weekly incidence of health outcomes before and after COVID-19.",
+        "Facility-based data showed a decrease in health care utilization for respiratory infections, enteric illnesses, and malaria, after start of COVID-19 measures in Kenya in March 2020. The weekly diaries confirmed this decrease in respiratory and enteric symptoms, and malaria / fever, mainly in the paediatric population. In terms of health care seeking behaviour, our diaries data find a temporary shift in consultations from health care centres to pharmacists / chemists / medicine vendors for a few weeks during the pandemic, but no increase in foregone care. According to the diaries, for adults the incidence of communicable diseases/symptoms rebounded after COVID-19 mobility restrictions were lifted, while for children the effects persisted.",
+        "COVID-19-related containment measures in Western Kenya were accompanied by a decline in respiratory infections, enteric illnesses, and malaria / fever mainly in children. Data from a population-based survey and facility-based records aligned regarding this finding despite the temporary shift to non-facility-based consultations and confirmed that the drop in utilization of health care services was not due to decreased accessibility, but rather to a lower incidence of these infections."
+      ],
+      "abstract": "Epidemics can cause significant disruptions of essential health care services. This was evident in West-Africa during the 2014-2016 Ebola outbreak, raising concerns that COVID-19 would have similar devastating consequences for the continent. Indeed, official facility-based records show a reduction in health care visits after the onset of COVID-19 in Kenya. Our question is whether this observed reduction was caused by lower access to health care or by reduced incidence of communicable diseases resulting from reduced mobility and social contacts.\n\nWe analysed monthly facility-based data from 2018 to 2020, and weekly health diaries data digitally collected by trained fieldworkers between February and November 2020 from 342 households, including 1974 individuals, in Kisumu and Kakamega Counties, Kenya. Diaries data was collected as part of an ongoing longitudinal study of a digital health insurance scheme (Kakamega), and universal health coverage implementation (Kisumu). We assessed the weekly incidence of self-reported medical symptoms, formal and informal health-seeking behaviour, and foregone care in the diaries and compared it with facility-based records. Linear probability regressions with household fixed-effects were performed to compare the weekly incidence of health outcomes before and after COVID-19.\n\nFacility-based data showed a decrease in health care utilization for respiratory infections, enteric illnesses, and malaria, after start of COVID-19 measures in Kenya in March 2020. The weekly diaries confirmed this decrease in respiratory and enteric symptoms, and malaria / fever, mainly in the paediatric population. In terms of health care seeking behaviour, our diaries data find a temporary shift in consultations from health care centres to pharmacists / chemists / medicine vendors for a few weeks during the pandemic, but no increase in foregone care. According to the diaries, for adults the incidence of communicable diseases/symptoms rebounded after COVID-19 mobility restrictions were lifted, while for children the effects persisted.\n\nCOVID-19-related containment measures in Western Kenya were accompanied by a decline in respiratory infections, enteric illnesses, and malaria / fever mainly in children. Data from a population-based survey and facility-based records aligned regarding this finding despite the temporary shift to non-facility-based consultations and confirmed that the drop in utilization of health care services was not due to decreased accessibility, but rather to a lower incidence of these infections.",
+      "evidence_sentences": [
+        "COVID-19-related containment measures in Western Kenya were accompanied by a decline in respiratory infections, enteric illnesses, and malaria / fever mainly in children.",
+        "Facility-based data showed a decrease in health care utilization for respiratory infections, enteric illnesses, and malaria, after start of COVID-19 measures in Kenya in March 2020.",
+        "According to the diaries, for adults the incidence of communicable diseases/symptoms rebounded after COVID-19 mobility restrictions were lifted, while for children the effects persisted."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Gloria P Gómez-Pérez",
+        "Richard de Groot",
+        "Amanuel A Abajobir",
+        "Caroline W Wainaina",
+        "Tobias F Rinke de Wit",
+        "Estelle Sidze",
+        "Menno Pradhan",
+        "Wendy Janssens"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37448326/"
+    },
+    {
+      "pmid": "12287810",
+      "title": "Epidemiology of malaria in Kenya.",
+      "journal": "African journal of medical practice",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kenya. Ministry of Health. Malaria Control Programme"
+      ],
+      "year": "1994",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12287810/"
+    },
+    {
+      "pmid": "12023907",
+      "title": "Clinical epidemiology of malaria in the highlands of western Kenya.",
+      "journal": "Emerging infectious diseases",
+      "abstract_sections": [
+        "Malaria in the highlands of Kenya is traditionally regarded as unstable and limited by low temperature. Brief warm periods may facilitate malaria transmission and are therefore able to generate epidemic conditions in immunologically naive human populations living at high altitudes. The adult:child ratio (ACR) of malaria admissions is a simple tool we have used to assess the degree of functional immunity in the catchment population of a health facility. Examples of ACR are collected from inpatient admission data at facilities with a range of malaria endemicities in Kenya. Two decades of inpatient malaria admission data from three health facilities in a high-altitude area of western Kenya do not support the canonical view of unstable transmission. The malaria of the region is best described as seasonal and meso-endemic. We discuss the implications for malaria control options in the Kenyan highlands."
+      ],
+      "abstract": "Malaria in the highlands of Kenya is traditionally regarded as unstable and limited by low temperature. Brief warm periods may facilitate malaria transmission and are therefore able to generate epidemic conditions in immunologically naive human populations living at high altitudes. The adult:child ratio (ACR) of malaria admissions is a simple tool we have used to assess the degree of functional immunity in the catchment population of a health facility. Examples of ACR are collected from inpatient admission data at facilities with a range of malaria endemicities in Kenya. Two decades of inpatient malaria admission data from three health facilities in a high-altitude area of western Kenya do not support the canonical view of unstable transmission. The malaria of the region is best described as seasonal and meso-endemic. We discuss the implications for malaria control options in the Kenyan highlands.",
+      "evidence_sentences": [
+        "Two decades of inpatient malaria admission data from three health facilities in a high-altitude area of western Kenya do not support the canonical view of unstable transmission.",
+        "Examples of ACR are collected from inpatient admission data at facilities with a range of malaria endemicities in Kenya.",
+        "Malaria in the highlands of Kenya is traditionally regarded as unstable and limited by low temperature."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Simon I Hay",
+        "Abdisalan M Noor",
+        "Milka Simba",
+        "Millie Busolo",
+        "Helen L Guyatt",
+        "Sam A Ochola",
+        "Robert W Snow"
+      ],
+      "year": "2002",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12023907/"
+    },
+    {
+      "pmid": "37231429",
+      "title": "Evaluation of the protective efficacy of Olyset®Plus ceiling net on reducing malaria prevalence in children in Lake Victoria Basin, Kenya: study protocol for a cluster-randomized controlled trial.",
+      "journal": "Trials",
+      "abstract_sections": [
+        "In the Lake Victoria Basin of western Kenya, malaria remains highly endemic despite high coverage of interventions such as insecticide-impregnated long-lasting insecticidal nets (LLIN). The malaria-protective effect of LLINs is hampered by insecticide resistance in Anopheles vectors and its repurposing by the community. Ceiling nets and LLIN with synergist piperonyl butoxide (PBO-LLIN) are novel tools that can overcome the problems of behavioral variation of net use and metabolic resistance to insecticide, respectively. The two have been shown to reduce malaria prevalence when used independently. Integration of these two tools (i.e., ceiling nets made with PBO-LLIN or Olyset®Plus ceiling nets) appears promising in further reducing the malaria burden.",
+        "A cluster-randomized controlled trial is designed to assess the effect of Olyset®Plus ceiling nets on reducing malaria prevalence in children on Mfangano Island in Homa Bay County, where malaria transmission is moderate. Olyset®Plus ceiling nets will be installed in 1315 residential structures. Malaria parasitological, entomological, and serological indicators will be measured for 12 months to compare the effectiveness of this new intervention against conventional LLIN in the control arm.",
+        "Wider adoption of Olyset®Plus ceiling nets to complement existing interventions may benefit other malaria-endemic counties and be incorporated as part of Kenya's national malaria elimination strategy.",
+        "UMIN Clinical Trials Registry UMIN000045079. Registered on 4 August 2021."
+      ],
+      "abstract": "In the Lake Victoria Basin of western Kenya, malaria remains highly endemic despite high coverage of interventions such as insecticide-impregnated long-lasting insecticidal nets (LLIN). The malaria-protective effect of LLINs is hampered by insecticide resistance in Anopheles vectors and its repurposing by the community. Ceiling nets and LLIN with synergist piperonyl butoxide (PBO-LLIN) are novel tools that can overcome the problems of behavioral variation of net use and metabolic resistance to insecticide, respectively. The two have been shown to reduce malaria prevalence when used independently. Integration of these two tools (i.e., ceiling nets made with PBO-LLIN or Olyset®Plus ceiling nets) appears promising in further reducing the malaria burden.\n\nA cluster-randomized controlled trial is designed to assess the effect of Olyset®Plus ceiling nets on reducing malaria prevalence in children on Mfangano Island in Homa Bay County, where malaria transmission is moderate. Olyset®Plus ceiling nets will be installed in 1315 residential structures. Malaria parasitological, entomological, and serological indicators will be measured for 12 months to compare the effectiveness of this new intervention against conventional LLIN in the control arm.\n\nWider adoption of Olyset®Plus ceiling nets to complement existing interventions may benefit other malaria-endemic counties and be incorporated as part of Kenya's national malaria elimination strategy.\n\nUMIN Clinical Trials Registry UMIN000045079. Registered on 4 August 2021.",
+      "evidence_sentences": [
+        "A cluster-randomized controlled trial is designed to assess the effect of Olyset®Plus ceiling nets on reducing malaria prevalence in children on Mfangano Island in Homa Bay County, where malaria transmission is moderate.",
+        "Wider adoption of Olyset®Plus ceiling nets to complement existing interventions may benefit other malaria-endemic counties and be incorporated as part of Kenya's national malaria elimination strategy.",
+        "In the Lake Victoria Basin of western Kenya, malaria remains highly endemic despite high coverage of interventions such as insecticide-impregnated long-lasting insecticidal nets (LLIN)."
+      ],
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Wataru Kagaya",
+        "Chim W Chan",
+        "James Kongere",
+        "Bernard N Kanoi",
+        "Mtakai Ngara",
+        "Protus Omondi",
+        "Ashley Osborne",
+        "Laura Barbieri",
+        "Achyut Kc",
+        "Noboru Minakawa",
+        "Jesse Gitaka",
+        "Akira Kaneko"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37231429/"
+    },
+    {
+      "pmid": "15585775",
+      "title": "Malaria and nutritional status in children living on the coast of Kenya.",
+      "journal": "The American journal of clinical nutrition",
+      "abstract_sections": [
+        "The relation between malnutrition and malaria is controversial. On the one hand, malaria may cause malnutrition, whereas on the other hand, malnutrition itself may modulate susceptibility to the disease.",
+        "The objective was to investigate the association between Plasmodium falciparum malaria and malnutrition in a cohort of Kenyan children.",
+        "The study involved the longitudinal follow-up of children aged 0-95 [corrected] mo for clinical malaria episodes and anthropometric measurements through 4 cross-sectional surveys. We used Poisson regression analysis to investigate the association between malaria and nutritional status.",
+        "The crude incidence rate ratios (IRRs) for malaria during the 6-mo period before assessment in children defined as malnourished on the basis of low height-for-age or low weight-for-age z scores (<-2) were 1.17 (95% CI: 0.91, 1.50; P=0.21) and 0.94 (0.71, 1.25; P=0.67), respectively, which suggests no association between malaria and the subsequent development of protein-energy malnutrition. However, we found that age acted as an effect modifier in the association between malaria episodes and malnutrition on prospective follow-up. The IRR for malaria in children aged 0-2 y, who were subsequently characterized as underweight, was 1.65 (1.10, 2.20; P=0.01), and a significant overall relation between malaria and stunting was found on regression analysis after adjustment for the interaction with age (IRR: 1.91; 1.01, 3.58; P=0.04).",
+        "Although children living on the coast of Kenya continue to experience clinical episodes of uncomplicated malaria throughout the first decade of life, the effect of malaria on nutritional status appears to be greatest during the first 2 y of life."
+      ],
+      "abstract": "The relation between malnutrition and malaria is controversial. On the one hand, malaria may cause malnutrition, whereas on the other hand, malnutrition itself may modulate susceptibility to the disease.\n\nThe objective was to investigate the association between Plasmodium falciparum malaria and malnutrition in a cohort of Kenyan children.\n\nThe study involved the longitudinal follow-up of children aged 0-95 [corrected] mo for clinical malaria episodes and anthropometric measurements through 4 cross-sectional surveys. We used Poisson regression analysis to investigate the association between malaria and nutritional status.\n\nThe crude incidence rate ratios (IRRs) for malaria during the 6-mo period before assessment in children defined as malnourished on the basis of low height-for-age or low weight-for-age z scores (<-2) were 1.17 (95% CI: 0.91, 1.50; P=0.21) and 0.94 (0.71, 1.25; P=0.67), respectively, which suggests no association between malaria and the subsequent development of protein-energy malnutrition. However, we found that age acted as an effect modifier in the association between malaria episodes and malnutrition on prospective follow-up. The IRR for malaria in children aged 0-2 y, who were subsequently characterized as underweight, was 1.65 (1.10, 2.20; P=0.01), and a significant overall relation between malaria and stunting was found on regression analysis after adjustment for the interaction with age (IRR: 1.91; 1.01, 3.58; P=0.04).\n\nAlthough children living on the coast of Kenya continue to experience clinical episodes of uncomplicated malaria throughout the first decade of life, the effect of malaria on nutritional status appears to be greatest during the first 2 y of life.",
+      "evidence_sentences": [
+        "Although children living on the coast of Kenya continue to experience clinical episodes of uncomplicated malaria throughout the first decade of life, the effect of malaria on nutritional status appears to be greatest during the first 2 y of life.",
+        "The study involved the longitudinal follow-up of children aged 0-95 [corrected] mo for clinical malaria episodes and anthropometric measurements through 4 cross-sectional surveys.",
+        "The objective was to investigate the association between Plasmodium falciparum malaria and malnutrition in a cohort of Kenyan children."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Alice M Nyakeriga",
+        "Marita Troye-Blomberg",
+        "Alex K Chemtai",
+        "Kevin Marsh",
+        "Thomas N Williams"
+      ],
+      "year": "2004",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15585775/"
+    },
+    {
+      "pmid": "39736740",
+      "title": "Attractive targeted sugar baits for malaria control in western Kenya (ATSB-Kenya): enrolment characteristics of cohort children and households.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "In western Kenya, a cluster-randomized trial is assessing the impact of attractive targeted sugar baits (ATSBs) on malaria in children enrolled in three consecutive cohorts. Here, characteristics of children and households at enrolment, and factors associated with baseline malaria prevalence are described.",
+        "Children aged 1 to < 15 years were randomly selected by cluster (n = 70) from a census database. Cohorts were enrolled in March-April 2022, September-October 2022, and March-April 2023. ATSBs were deployed in March 2022. At enrolment, all participants were tested for malaria by rapid diagnostic test (RDT). After enrolment a household survey was conducted. Household structures were classified as 'improved' (finished walls and roofs, and closed eaves) or 'traditional' (all other construction). A generalized linear mixed model was used to assess factors associated with malaria prevalence.",
+        "Of 3705 children screened, 220 declined and 523 were excluded, due to plans to leave the study area (n = 392), ineligible age (n = 64) or other reason (n = 67). Overall, 2962 children were enrolled. Bed net use the previous night was more common in children aged 1-4 years (746/777 [96%]) than those aged 5-<15 years (1806/2157 [84%], p < 0.001). Of the 2644 households surveyed (for 2,886 participants), information on house construction was available for 2595. Of these, only 199 (8%) were categorized as 'improved', as most houses had open eaves. While 99% of households owned at least one bed net, only 51% were adequately covered (one net per two household residents). Among 999 children enrolled in the first cohort (baseline), 498 (50%) tested positive by RDT. In an adjusted multivariable analysis, factors associated with RDT positivity included sub-county (Alego-Usonga vs Rarieda, adjusted odds ratio [aOR] 4.81; 95% CI: 2.74-8.45; p < 0.001), house construction (traditional vs improved, aOR 2.80; 95% CI: 1.59-4.95; p < 0.001), and age (5-< 15 vs 1-4 years, aOR 1.64; 95% CI: 1.13-2.37; p = 0.009).",
+        "In western Kenya, the burden of malaria in children remains high. Most households owned a bed net, but coverage was inadequate. Residents of Alego-Usonga sub-county, those living in traditionally constructed households, and older children were more likely to test positive by RDT. Additional tools are needed to effectively control malaria in this area. Trial registration The ATSB trial is registered under Clinicaltrials.gov NCT05219565."
+      ],
+      "abstract": "In western Kenya, a cluster-randomized trial is assessing the impact of attractive targeted sugar baits (ATSBs) on malaria in children enrolled in three consecutive cohorts. Here, characteristics of children and households at enrolment, and factors associated with baseline malaria prevalence are described.\n\nChildren aged 1 to < 15 years were randomly selected by cluster (n = 70) from a census database. Cohorts were enrolled in March-April 2022, September-October 2022, and March-April 2023. ATSBs were deployed in March 2022. At enrolment, all participants were tested for malaria by rapid diagnostic test (RDT). After enrolment a household survey was conducted. Household structures were classified as 'improved' (finished walls and roofs, and closed eaves) or 'traditional' (all other construction). A generalized linear mixed model was used to assess factors associated with malaria prevalence.\n\nOf 3705 children screened, 220 declined and 523 were excluded, due to plans to leave the study area (n = 392), ineligible age (n = 64) or other reason (n = 67). Overall, 2962 children were enrolled. Bed net use the previous night was more common in children aged 1-4 years (746/777 [96%]) than those aged 5-<15 years (1806/2157 [84%], p < 0.001). Of the 2644 households surveyed (for 2,886 participants), information on house construction was available for 2595. Of these, only 199 (8%) were categorized as 'improved', as most houses had open eaves. While 99% of households owned at least one bed net, only 51% were adequately covered (one net per two household residents). Among 999 children enrolled in the first cohort (baseline), 498 (50%) tested positive by RDT. In an adjusted multivariable analysis, factors associated with RDT positivity included sub-county (Alego-Usonga vs Rarieda, adjusted odds ratio [aOR] 4.81; 95% CI: 2.74-8.45; p < 0.001), house construction (traditional vs improved, aOR 2.80; 95% CI: 1.59-4.95; p < 0.001), and age (5-< 15 vs 1-4 years, aOR 1.64; 95% CI: 1.13-2.37; p = 0.009).\n\nIn western Kenya, the burden of malaria in children remains high. Most households owned a bed net, but coverage was inadequate. Residents of Alego-Usonga sub-county, those living in traditionally constructed households, and older children were more likely to test positive by RDT. Additional tools are needed to effectively control malaria in this area. Trial registration The ATSB trial is registered under Clinicaltrials.gov NCT05219565.",
+      "evidence_sentences": [
+        "In western Kenya, a cluster-randomized trial is assessing the impact of attractive targeted sugar baits (ATSBs) on malaria in children enrolled in three consecutive cohorts.",
+        "In western Kenya, the burden of malaria in children remains high.",
+        "Here, characteristics of children and households at enrolment, and factors associated with baseline malaria prevalence are described."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Alice Kamau",
+        "Kizito Obiet",
+        "Caroline Ogwang",
+        "Daniel P McDermott",
+        "Maia Lesosky",
+        "Julia Janssen",
+        "Wycliffe Odongo",
+        "Julie R Gutman",
+        "Jonathan S Schultz",
+        "Wycliffe Nicholas",
+        "Brian Seda",
+        "Mercy Chepkirui",
+        "Frank Aduwo",
+        "Oliver Towett",
+        "Kephas Otieno",
+        "Martin J Donnelly",
+        "Eric Ochomo",
+        "Simon Kariuki",
+        "Aaron M Samuels",
+        "Feiko O Ter Kuile",
+        "Sarah G Staedke"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39736740/"
+    },
+    {
+      "pmid": "34498446",
+      "title": "Hepcidin regulation in Kenyan children with severe malaria and non-typhoidal",
+      "journal": "Haematologica",
+      "abstract_sections": [
+        "Malaria and invasive non-typhoidal Salmonella (NTS) are life-threatening infections that often co-exist in African children. The iron-regulatory hormone hepcidin is highly upregulated during malaria and controls the availability of iron, a critical nutrient for bacterial growth. We investigated the relationship between Plasmodium falciparum malaria and NTS bacteremia in all pediatric admissions aged <5 years between August 1998 and October 2019 (n=75,034). We then assayed hepcidin and measures of iron status in five groups: (1) children with concomitant severe malarial anemia (SMA) and NTS (SMA+NTS, n=16); and in matched children with (2) SMA (n=33); (3) NTS (n=33); (4) cerebral malaria (CM, n=34); and (5) community-based children. SMA and severe anemia without malaria were associated with a 2-fold or more increased risk of NTS bacteremia, while other malaria phenotypes were not associated with increased NTS risk. Children with SMA had lower hepcidin/ferritin ratios (0.10; interquartile range [IQR]: 0.03-0.19) than those with CM (0.24; IQR: 0.14-0.69; P=0.006) or asymptomatic malaria (0.19; IQR: 0.09-0.46; P=0.01) indicating suppressed hepcidin levels. Children with SMA+NTS had lower hepcidin levels (9.3 ng/mL; IQR: 4.7-49.8) and hepcidin/ferritin ratios (0.03; IQR: 0.01-0.22) than those with NTS alone (105.8 ng/mL; IQR: 17.3-233.3; P=0.02 and 0.31; IQR: 0.06-0.66; P=0.007, respectively). Since hepcidin degrades ferroportin on the Salmonella-containing vacuole, we hypothesize that reduced hepcidin in children with SMA might contribute to NTS growth by modulating iron availability for bacterial growth. Further studies are needed to understand how the hepcidin-ferroportin axis might mediate susceptibility to NTS in severely anemic children."
+      ],
+      "abstract": "Malaria and invasive non-typhoidal Salmonella (NTS) are life-threatening infections that often co-exist in African children. The iron-regulatory hormone hepcidin is highly upregulated during malaria and controls the availability of iron, a critical nutrient for bacterial growth. We investigated the relationship between Plasmodium falciparum malaria and NTS bacteremia in all pediatric admissions aged <5 years between August 1998 and October 2019 (n=75,034). We then assayed hepcidin and measures of iron status in five groups: (1) children with concomitant severe malarial anemia (SMA) and NTS (SMA+NTS, n=16); and in matched children with (2) SMA (n=33); (3) NTS (n=33); (4) cerebral malaria (CM, n=34); and (5) community-based children. SMA and severe anemia without malaria were associated with a 2-fold or more increased risk of NTS bacteremia, while other malaria phenotypes were not associated with increased NTS risk. Children with SMA had lower hepcidin/ferritin ratios (0.10; interquartile range [IQR]: 0.03-0.19) than those with CM (0.24; IQR: 0.14-0.69; P=0.006) or asymptomatic malaria (0.19; IQR: 0.09-0.46; P=0.01) indicating suppressed hepcidin levels. Children with SMA+NTS had lower hepcidin levels (9.3 ng/mL; IQR: 4.7-49.8) and hepcidin/ferritin ratios (0.03; IQR: 0.01-0.22) than those with NTS alone (105.8 ng/mL; IQR: 17.3-233.3; P=0.02 and 0.31; IQR: 0.06-0.66; P=0.007, respectively). Since hepcidin degrades ferroportin on the Salmonella-containing vacuole, we hypothesize that reduced hepcidin in children with SMA might contribute to NTS growth by modulating iron availability for bacterial growth. Further studies are needed to understand how the hepcidin-ferroportin axis might mediate susceptibility to NTS in severely anemic children.",
+      "evidence_sentences": [
+        "We then assayed hepcidin and measures of iron status in five groups: (1) children with concomitant severe malarial anemia (SMA) and NTS (SMA+NTS, n=16); and in matched children with (2) SMA (n=33); (3) NTS (n=33); (4) cerebral malaria (CM, n=34); and (5) community-based children.",
+        "Children with SMA had lower hepcidin/ferritin ratios (0.10; interquartile range [IQR]: 0.03-0.19) than those with CM (0.24; IQR: 0.14-0.69; P=0.006) or asymptomatic malaria (0.19; IQR: 0.09-0.46; P=0.01) indicating suppressed hepcidin levels.",
+        "Malaria and invasive non-typhoidal Salmonella (NTS) are life-threatening infections that often co-exist in African children."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kelvin M Abuga",
+        "John Muthii Muriuki",
+        "Sophie M Uyoga",
+        "Kennedy Mwai",
+        "Johnstone Makale",
+        "Reagan M Mogire",
+        "Alex W Macharia",
+        "Shebe Mohammed",
+        "Esther Muthumbi",
+        "Salim Mwarumba",
+        "Neema Mturi",
+        "Philip Bejon",
+        "J Anthony G Scott",
+        "Manfred Nairz",
+        "Thomas N Williams",
+        "Sarah H Atkinson"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34498446/"
+    },
+    {
+      "pmid": "35382858",
+      "title": "Evaluation of the protective efficacy of a spatial repellent to reduce malaria incidence in children in western Kenya compared to placebo: study protocol for a cluster-randomized double-blinded control trial (the AEGIS program).",
+      "journal": "Trials",
+      "abstract_sections": [
+        "Spatial repellents are widely used for prevention of mosquito bites and evidence is building on their public health value, but their efficacy against malaria incidence has never been evaluated in Africa. To address this knowledge gap, a trial to evaluate the efficacy of Mosquito Shield™, a spatial repellent incorporating transfluthrin, was developed for implementation in Busia County, western Kenya where long-lasting insecticidal net coverage is high and baseline malaria transmission is moderate to high year-round.",
+        "This trial is designed as a cluster-randomized, placebo-controlled, double-blinded clinical trial. Sixty clusters will be randomly assigned in a 1:1 ratio to receive spatial repellent or placebo. A total of 6120 children aged ≥6 months to 10 years of age will be randomly selected from the study clusters, enrolled into an active cohort (baseline, cohort 1, and cohort 2), and sampled monthly to determine time to first infection by smear microscopy. Each cohort following the implementation of the intervention will be split into two groups, one to estimate direct effect of the spatial repellent and the other to estimate degree of diversion of mosquitoes and malaria transmission to unprotected persons. Malaria incidence in each cohort will be estimated and compared (primary indicator) to determine benefit of using a spatial repellent in a high, year-round malaria transmission setting. Mosquitoes will be collected monthly using CDC light traps to determine if there are entomological correlates of spatial repellent efficacy that may be useful for the evaluation of new spatial repellents. Quarterly human landing catches will assess behavioral effects of the intervention.",
+        "Findings will serve as the first cluster-randomized controlled trial powered to detect spatial repellent efficacy to reduce malaria in sub-Saharan Africa where transmission rates are high, insecticide-treated nets are widely deployed, and mosquitoes are resistant to insecticides. Results will be submitted to the World Health Organization Vector Control Advisory Group for assessment of public health value towards an endorsement to recommend inclusion of spatial repellents in malaria control programs.",
+        "ClinicalTrials.gov NCT04766879 . Registered February 23, 2021."
+      ],
+      "abstract": "Spatial repellents are widely used for prevention of mosquito bites and evidence is building on their public health value, but their efficacy against malaria incidence has never been evaluated in Africa. To address this knowledge gap, a trial to evaluate the efficacy of Mosquito Shield™, a spatial repellent incorporating transfluthrin, was developed for implementation in Busia County, western Kenya where long-lasting insecticidal net coverage is high and baseline malaria transmission is moderate to high year-round.\n\nThis trial is designed as a cluster-randomized, placebo-controlled, double-blinded clinical trial. Sixty clusters will be randomly assigned in a 1:1 ratio to receive spatial repellent or placebo. A total of 6120 children aged ≥6 months to 10 years of age will be randomly selected from the study clusters, enrolled into an active cohort (baseline, cohort 1, and cohort 2), and sampled monthly to determine time to first infection by smear microscopy. Each cohort following the implementation of the intervention will be split into two groups, one to estimate direct effect of the spatial repellent and the other to estimate degree of diversion of mosquitoes and malaria transmission to unprotected persons. Malaria incidence in each cohort will be estimated and compared (primary indicator) to determine benefit of using a spatial repellent in a high, year-round malaria transmission setting. Mosquitoes will be collected monthly using CDC light traps to determine if there are entomological correlates of spatial repellent efficacy that may be useful for the evaluation of new spatial repellents. Quarterly human landing catches will assess behavioral effects of the intervention.\n\nFindings will serve as the first cluster-randomized controlled trial powered to detect spatial repellent efficacy to reduce malaria in sub-Saharan Africa where transmission rates are high, insecticide-treated nets are widely deployed, and mosquitoes are resistant to insecticides. Results will be submitted to the World Health Organization Vector Control Advisory Group for assessment of public health value towards an endorsement to recommend inclusion of spatial repellents in malaria control programs.\n\nClinicalTrials.gov NCT04766879 . Registered February 23, 2021.",
+      "evidence_sentences": [
+        "To address this knowledge gap, a trial to evaluate the efficacy of Mosquito Shield™, a spatial repellent incorporating transfluthrin, was developed for implementation in Busia County, western Kenya where long-lasting insecticidal net coverage is high and baseline malaria transmission is moderate to high year-round.",
+        "Findings will serve as the first cluster-randomized controlled trial powered to detect spatial repellent efficacy to reduce malaria in sub-Saharan Africa where transmission rates are high, insecticide-treated nets are widely deployed, and mosquitoes are resistant to insecticides.",
+        "Each cohort following the implementation of the intervention will be split into two groups, one to estimate direct effect of the spatial repellent and the other to estimate degree of diversion of mosquitoes and malaria transmission to unprotected persons."
+      ],
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Eric O Ochomo",
+        "John E Gimnig",
+        "Achuyt Bhattarai",
+        "Aaron M Samuels",
+        "Simon Kariuki",
+        "George Okello",
+        "Bernard Abong'o",
+        "Eunice A Ouma",
+        "Jackline Kosgei",
+        "Stephen Munga",
+        "Kiambo Njagi",
+        "Wycliffe Odongo",
+        "Fang Liu",
+        "John P Grieco",
+        "Nicole L Achee"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35382858/"
+    },
+    {
+      "pmid": "33158460",
+      "title": "Copula geoadditive modelling of anaemia and malaria in young children in Kenya, Malawi, Tanzania and Uganda.",
+      "journal": "Journal of health, population, and nutrition",
+      "abstract_sections": [
+        "Anaemia and malaria are the leading causes of sub-Saharan African childhood morbidity and mortality. This study aimed to explore the complex relationship between anaemia and malaria in young children across the districts or counties of four contiguous sub-Saharan African countries, namely Kenya, Malawi, Tanzania and Uganda, while accounting for the effects of socio-economic, demographic and environmental factors. Geospatial maps were constructed to visualise the relationship between the two responses across the districts of the countries.",
+        "A joint bivariate copula regression model was used, which estimates the correlation between the two responses conditional on the linear, non-linear and spatial effects of the explanatory variables considered. The copula framework allows the dependency structure between the responses to be isolated from their marginal distributions. The association between the two responses was set to vary according to the district of residence across the four countries.",
+        "The study revealed a positive association between anaemia and malaria throughout the districts, the strength of which varied across the districts of the four countries. Due to this heterogeneous association between anaemia and malaria, we further considered the joint probability of each combination of outcome of anaemia and malaria to further reveal more about the relationship between the responses. A considerable number of districts had a high joint probability of a child being anaemic but not having malaria. This might suggest the existence of other significant drivers of childhood anaemia in these districts.",
+        "This study presents an alternative technique to joint modelling of anaemia and malaria in young children which assists in understanding more about their relationship compared to techniques of multivariate modelling. The approach used in this study can aid in visualising the relationship through mapping of their correlation and joint probabilities. These maps produced can then help policy makers target the correct set of interventions, or prevent the use of incorrect interventions, particularly for childhood anaemia, the causes of which are multiple and complex."
+      ],
+      "abstract": "Anaemia and malaria are the leading causes of sub-Saharan African childhood morbidity and mortality. This study aimed to explore the complex relationship between anaemia and malaria in young children across the districts or counties of four contiguous sub-Saharan African countries, namely Kenya, Malawi, Tanzania and Uganda, while accounting for the effects of socio-economic, demographic and environmental factors. Geospatial maps were constructed to visualise the relationship between the two responses across the districts of the countries.\n\nA joint bivariate copula regression model was used, which estimates the correlation between the two responses conditional on the linear, non-linear and spatial effects of the explanatory variables considered. The copula framework allows the dependency structure between the responses to be isolated from their marginal distributions. The association between the two responses was set to vary according to the district of residence across the four countries.\n\nThe study revealed a positive association between anaemia and malaria throughout the districts, the strength of which varied across the districts of the four countries. Due to this heterogeneous association between anaemia and malaria, we further considered the joint probability of each combination of outcome of anaemia and malaria to further reveal more about the relationship between the responses. A considerable number of districts had a high joint probability of a child being anaemic but not having malaria. This might suggest the existence of other significant drivers of childhood anaemia in these districts.\n\nThis study presents an alternative technique to joint modelling of anaemia and malaria in young children which assists in understanding more about their relationship compared to techniques of multivariate modelling. The approach used in this study can aid in visualising the relationship through mapping of their correlation and joint probabilities. These maps produced can then help policy makers target the correct set of interventions, or prevent the use of incorrect interventions, particularly for childhood anaemia, the causes of which are multiple and complex.",
+      "evidence_sentences": [
+        "This study aimed to explore the complex relationship between anaemia and malaria in young children across the districts or counties of four contiguous sub-Saharan African countries, namely Kenya, Malawi, Tanzania and Uganda, while accounting for the effects of socio-economic, demographic and environmental factors.",
+        "This study presents an alternative technique to joint modelling of anaemia and malaria in young children which assists in understanding more about their relationship compared to techniques of multivariate modelling.",
+        "Due to this heterogeneous association between anaemia and malaria, we further considered the joint probability of each combination of outcome of anaemia and malaria to further reveal more about the relationship between the responses."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Danielle J Roberts",
+        "Temesgen Zewotir"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33158460/"
+    },
+    {
+      "pmid": "32772115",
+      "title": "Plasma Plasmodium falciparum Histidine-rich Protein 2 Concentrations in Children With Malaria Infections of Differing Severity in Kilifi, Kenya.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "abstract_sections": [
+        "Most previous studies support a direct link between total parasite load and the clinical severity of Plasmodium falciparum malaria infections.",
+        "We estimated P. falciparum parasite loads in 3 groups of children with malaria infections of differing severity: (1) children with World Health Organization-defined severe malaria (n = 1544), (2) children admitted with malaria but without features of severity (n = 200), and (3) children in the community with asymptomatic parasitemia (n = 33).",
+        "Peripheral parasitemias were highest in those with uncomplicated malaria (geometric mean [GM] parasite count, 111 064/μL; 95% confidence interval, CI, 86 798-141 819/μL), almost 3 times higher than in those with severe malaria (39 588/μL; 34 990-44 791/μL) and >100 times higher than in those with asymptomatic malaria (1092/μL; 523-2280/μL). However, the GM P. falciparum histidine-rich protein 2 (PfHRP2) values (95% CI) increased with severity, being 7 (4-12) ng/mL in asymptomatic malaria, 843 (655-1084) ng/mL in uncomplicated malaria, and 1369 (1244-1506) ng/mL in severe malaria. PfHRP2 concentrations were markedly lower in the subgroup of patients with severe malaria and concomitant invasive bacterial infections of blood or cerebrospinal fluid (GM concentration, 312 ng/mL; 95% CI, 175-557 ng/mL; P < .001) than in those without such infections (1439 ng/mL; 1307-1584; P < .001).",
+        "The clinical severity of malaria infections related strongly to the total burden of P. falciparum parasites. A quantitative test for plasma concentrations of PfHRP2 could be useful in identifying children at the greatest clinical risk and identifying critically ill children in whom malaria is not the primary cause."
+      ],
+      "abstract": "Most previous studies support a direct link between total parasite load and the clinical severity of Plasmodium falciparum malaria infections.\n\nWe estimated P. falciparum parasite loads in 3 groups of children with malaria infections of differing severity: (1) children with World Health Organization-defined severe malaria (n = 1544), (2) children admitted with malaria but without features of severity (n = 200), and (3) children in the community with asymptomatic parasitemia (n = 33).\n\nPeripheral parasitemias were highest in those with uncomplicated malaria (geometric mean [GM] parasite count, 111 064/μL; 95% confidence interval, CI, 86 798-141 819/μL), almost 3 times higher than in those with severe malaria (39 588/μL; 34 990-44 791/μL) and >100 times higher than in those with asymptomatic malaria (1092/μL; 523-2280/μL). However, the GM P. falciparum histidine-rich protein 2 (PfHRP2) values (95% CI) increased with severity, being 7 (4-12) ng/mL in asymptomatic malaria, 843 (655-1084) ng/mL in uncomplicated malaria, and 1369 (1244-1506) ng/mL in severe malaria. PfHRP2 concentrations were markedly lower in the subgroup of patients with severe malaria and concomitant invasive bacterial infections of blood or cerebrospinal fluid (GM concentration, 312 ng/mL; 95% CI, 175-557 ng/mL; P < .001) than in those without such infections (1439 ng/mL; 1307-1584; P < .001).\n\nThe clinical severity of malaria infections related strongly to the total burden of P. falciparum parasites. A quantitative test for plasma concentrations of PfHRP2 could be useful in identifying children at the greatest clinical risk and identifying critically ill children in whom malaria is not the primary cause.",
+      "evidence_sentences": [
+        "A quantitative test for plasma concentrations of PfHRP2 could be useful in identifying children at the greatest clinical risk and identifying critically ill children in whom malaria is not the primary cause.",
+        "falciparum parasite loads in 3 groups of children with malaria infections of differing severity: (1) children with World Health Organization-defined severe malaria (n = 1544), (2) children admitted with malaria but without features of severity (n = 200), and (3) children in the community with asymptomatic parasitemia (n = 33).",
+        "Most previous studies support a direct link between total parasite load and the clinical severity of Plasmodium falciparum malaria infections."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Sophie Uyoga",
+        "Perpetual Wanjiku",
+        "Jesse C Rop",
+        "Johnstone Makale",
+        "Alexander W Macharia",
+        "Gideon M Nyutu",
+        "Mohammed Shebe",
+        "Kennedy A Awuondo",
+        "Neema Mturi",
+        "Charles J Woodrow",
+        "Arjen M Dondorp",
+        "Kathryn Maitland",
+        "Thomas N Williams"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32772115/"
+    },
+    {
+      "pmid": "39433400",
+      "title": "Inpatient and postdischarge mortality among children with anaemia and malaria parasitaemia in Kenya: a cohort study.",
+      "journal": "BMJ global health",
+      "abstract_sections": [
+        "Anaemia and malaria are leading causes of paediatric hospitalisation and inpatient mortality in sub-Saharan Africa. However, there is limited empirical data on survival following hospital discharge. We aimed to estimate independent effects of anaemia and malaria parasitaemia on inpatient and 1 year postdischarge mortality among Kenyan children.",
+        "A retrospective cohort study among children admitted to Kilifi County Hospital (KCH) from 2010 to 2019 and followed-up for 1 year postdischarge in Kilifi Health and Demographic Surveillance System (KHDSS). The main exposures were anaemia and malaria parasitaemia at the time of hospital admission while inpatient and 1 year postdischarge mortality were the outcomes.",
+        "We included 9431 admissions among 7578 children (43% girls), median (IQR) age 19 (9.9‒23) months. 2069 (22%), 3893 (41%) and 1140 (12%) admissions had mild, moderate and severe anaemia, whereas 366 (3.9%), 779 (8.3%) and 224 (2.4%) had low, medium and high malaria parasitaemia, respectively. Overall, there were 381 (4.0%) inpatient deaths: 317/381 (83%) and 47/381 (12%) among children with any level of anaemia and malaria parasitaemia, respectively. Moderate and severe, but not mild anaemia, were positively associated with inpatient death. Low and high level parasitaemia were positively associated with inpatient mortality, while medium level parasitaemia was negatively associated. There were 228 (3.1%) postdischarge deaths: 32.8 (95% CI 28.8‒37.3) deaths/1000 child-years. 180/228 (79%) deaths occurred within 6 months after index discharge and 99/228 (43%) occurred in the community. Overall, 180/228 (79%) and 10/228 (4.4%) postdischarge deaths occurred among children with any level of anaemia and malaria parasitaemia, respectively. Severe anaemia was positively associated with postdischarge mortality (adjusted HR 1.94 (95% CI 1.11‒3.40)), while medium level parasitaemia was negatively associated.",
+        "Interventions to create awareness of postdischarge risks, improve uptake of existing interventions and improved discharge processes targeting high-risk groups such as children admitted with severe anaemia, need to be prioritised."
+      ],
+      "abstract": "Anaemia and malaria are leading causes of paediatric hospitalisation and inpatient mortality in sub-Saharan Africa. However, there is limited empirical data on survival following hospital discharge. We aimed to estimate independent effects of anaemia and malaria parasitaemia on inpatient and 1 year postdischarge mortality among Kenyan children.\n\nA retrospective cohort study among children admitted to Kilifi County Hospital (KCH) from 2010 to 2019 and followed-up for 1 year postdischarge in Kilifi Health and Demographic Surveillance System (KHDSS). The main exposures were anaemia and malaria parasitaemia at the time of hospital admission while inpatient and 1 year postdischarge mortality were the outcomes.\n\nWe included 9431 admissions among 7578 children (43% girls), median (IQR) age 19 (9.9‒23) months. 2069 (22%), 3893 (41%) and 1140 (12%) admissions had mild, moderate and severe anaemia, whereas 366 (3.9%), 779 (8.3%) and 224 (2.4%) had low, medium and high malaria parasitaemia, respectively. Overall, there were 381 (4.0%) inpatient deaths: 317/381 (83%) and 47/381 (12%) among children with any level of anaemia and malaria parasitaemia, respectively. Moderate and severe, but not mild anaemia, were positively associated with inpatient death. Low and high level parasitaemia were positively associated with inpatient mortality, while medium level parasitaemia was negatively associated. There were 228 (3.1%) postdischarge deaths: 32.8 (95% CI 28.8‒37.3) deaths/1000 child-years. 180/228 (79%) deaths occurred within 6 months after index discharge and 99/228 (43%) occurred in the community. Overall, 180/228 (79%) and 10/228 (4.4%) postdischarge deaths occurred among children with any level of anaemia and malaria parasitaemia, respectively. Severe anaemia was positively associated with postdischarge mortality (adjusted HR 1.94 (95% CI 1.11‒3.40)), while medium level parasitaemia was negatively associated.\n\nInterventions to create awareness of postdischarge risks, improve uptake of existing interventions and improved discharge processes targeting high-risk groups such as children admitted with severe anaemia, need to be prioritised.",
+      "evidence_sentences": [
+        "We aimed to estimate independent effects of anaemia and malaria parasitaemia on inpatient and 1 year postdischarge mortality among Kenyan children.",
+        "Overall, there were 381 (4.0%) inpatient deaths: 317/381 (83%) and 47/381 (12%) among children with any level of anaemia and malaria parasitaemia, respectively.",
+        "Overall, 180/228 (79%) and 10/228 (4.4%) postdischarge deaths occurred among children with any level of anaemia and malaria parasitaemia, respectively."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Moses Ngari",
+        "Martha Mwangome",
+        "Nelson Ouma",
+        "Amek Nyaguara",
+        "Neema Mturi",
+        "Christina Obiero",
+        "Alice Kamau",
+        "Judd L Walson",
+        "Per O Iversen",
+        "Kathryn Maitland",
+        "Robert W Snow",
+        "James Berkley"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39433400/"
+    },
+    {
+      "pmid": "22984118",
+      "title": "Influenza and malaria coinfection among young children in western Kenya, 2009-2011.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "Although children <5 years old in sub-Saharan Africa are vulnerable to both malaria and influenza, little is known about coinfection.",
+        "This retrospective, cross-sectional study in rural western Kenya examined outpatient visits and hospitalizations associated with febrile acute respiratory illness (ARI) during a 2-year period (July 2009-June 2011) in children <5 years old.",
+        "Across sites, 45% (149/331) of influenza-positive patients were coinfected with malaria, whereas only 6% (149/2408) of malaria-positive patients were coinfected with influenza. Depending on age, coinfection was present in 4%-8% of outpatient visits and 1%-3% of inpatient admissions for febrile ARI. Children with influenza were less likely than those without to have malaria (risk ratio [RR], 0.57-0.76 across sites and ages), and children with malaria were less likely than those without to have influenza (RR, 0.36-0.63). Among coinfected children aged 24-59 months, hospital length of stay was 2.7 and 2.8 days longer than influenza-only-infected children at the 2 sites, and 1.3 and 3.1 days longer than those with malaria only (all P < .01).",
+        "Coinfection with malaria and influenza was uncommon but associated with longer hospitalization than single infections among children 24-59 months of age."
+      ],
+      "abstract": "Although children <5 years old in sub-Saharan Africa are vulnerable to both malaria and influenza, little is known about coinfection.\n\nThis retrospective, cross-sectional study in rural western Kenya examined outpatient visits and hospitalizations associated with febrile acute respiratory illness (ARI) during a 2-year period (July 2009-June 2011) in children <5 years old.\n\nAcross sites, 45% (149/331) of influenza-positive patients were coinfected with malaria, whereas only 6% (149/2408) of malaria-positive patients were coinfected with influenza. Depending on age, coinfection was present in 4%-8% of outpatient visits and 1%-3% of inpatient admissions for febrile ARI. Children with influenza were less likely than those without to have malaria (risk ratio [RR], 0.57-0.76 across sites and ages), and children with malaria were less likely than those without to have influenza (RR, 0.36-0.63). Among coinfected children aged 24-59 months, hospital length of stay was 2.7 and 2.8 days longer than influenza-only-infected children at the 2 sites, and 1.3 and 3.1 days longer than those with malaria only (all P < .01).\n\nCoinfection with malaria and influenza was uncommon but associated with longer hospitalization than single infections among children 24-59 months of age.",
+      "evidence_sentences": [
+        "This retrospective, cross-sectional study in rural western Kenya examined outpatient visits and hospitalizations associated with febrile acute respiratory illness (ARI) during a 2-year period (July 2009-June 2011) in children <5 years old.",
+        "Children with influenza were less likely than those without to have malaria (risk ratio [RR], 0.57-0.76 across sites and ages), and children with malaria were less likely than those without to have influenza (RR, 0.36-0.63).",
+        "Among coinfected children aged 24-59 months, hospital length of stay was 2.7 and 2.8 days longer than influenza-only-infected children at the 2 sites, and 1.3 and 3.1 days longer than those with malaria only (all P < .01)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Mark G Thompson",
+        "Robert F Breiman",
+        "Mary J Hamel",
+        "Meghna Desai",
+        "Gideon Emukule",
+        "Sammy Khagayi",
+        "David K Shay",
+        "Kathleen Morales",
+        "Simon Kariuki",
+        "Godfrey M Bigogo",
+        "M Kariuki Njenga",
+        "Deron C Burton",
+        "Frank Odhiambo",
+        "Daniel R Feikin",
+        "Kayla F Laserson",
+        "Mark A Katz"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22984118/"
+    },
+    {
+      "pmid": "34529696",
+      "title": "Assessment of malaria infection among pregnant women and children below five years of age attending rural health facilities of Kenya: A cross-sectional survey in two counties of Kenya.",
+      "journal": "PloS one",
+      "abstract_sections": [
+        "In Kenya, health service delivery and access to health care remains a challenge for vulnerable populations, particularly pregnant women and children below five years. The aim of this study, therefore, was to determine the positivity rate of Plasmodium falciparum parasites in pregnant women and children below five years of age seeking healthcare services at the rural health facilities of Kwale and Siaya counties as well as their access and uptake of malaria control integrated services, like antenatal care (ANC), offered in those facilities.",
+        "Cluster random sampling method was used to select pregnant women and children below five years receiving maternal and child health services using two cross-sectional surveys conducted in eleven rural health facilities in two malaria endemic counties in western and coastal regions of Kenya. Each consenting participant provided single blood sample for determining malaria parasitaemia using microscopy and polymerase chain reaction (PCR) techniques.",
+        "Using PCR technique, the overall malaria positivity rate was 27.9% (95%CI: 20.9-37.2), and was 34.1% (95%CI: 27.1-42.9) and 22.0% (95%CI: 13.3-36.3) in children below five years and pregnant women respectively. Additionally, using microscopy, the overall positivity rate was 39.0% (95%CI: 29.5-51.6), and was 50.4% (95%CI: 39.4-64.5) and 30.6% (95%CI: 22.4-41.7) in children below five years and pregnant women respectively. Siaya County in western Kenya showed higher malaria positivity rates for both children (36.4% and 54.9%) and pregnant women (27.8% and 38.5%) using both PCR and microscopy diagnosis techniques respectively, compared to Kwale County that showed positivity rates of 27.2% and 37.9% for children and 5.2% and 8.6% for pregnant women similarly using both PCR and microscopy techniques respectively. Pregnant women presenting themselves for their first ANC visit were up to five times at risk of malaria infection, (adjusted odds ratio = 5.40, 95%CI: 0.96-30.50, p = 0.046).",
+        "Despite evidence of ANC attendance and administration of intermittent preventive treatment with sulfadoxine-pyrimethamine (IPTp-SP) dosage during these visits, malaria positivity rate was still high among pregnant women and children below five years in these two rural counties. These findings are important to the Kenyan National Malaria Control Programme and will help contribute to improvement of policies on integration of malaria control approaches in rural health facilities."
+      ],
+      "abstract": "In Kenya, health service delivery and access to health care remains a challenge for vulnerable populations, particularly pregnant women and children below five years. The aim of this study, therefore, was to determine the positivity rate of Plasmodium falciparum parasites in pregnant women and children below five years of age seeking healthcare services at the rural health facilities of Kwale and Siaya counties as well as their access and uptake of malaria control integrated services, like antenatal care (ANC), offered in those facilities.\n\nCluster random sampling method was used to select pregnant women and children below five years receiving maternal and child health services using two cross-sectional surveys conducted in eleven rural health facilities in two malaria endemic counties in western and coastal regions of Kenya. Each consenting participant provided single blood sample for determining malaria parasitaemia using microscopy and polymerase chain reaction (PCR) techniques.\n\nUsing PCR technique, the overall malaria positivity rate was 27.9% (95%CI: 20.9-37.2), and was 34.1% (95%CI: 27.1-42.9) and 22.0% (95%CI: 13.3-36.3) in children below five years and pregnant women respectively. Additionally, using microscopy, the overall positivity rate was 39.0% (95%CI: 29.5-51.6), and was 50.4% (95%CI: 39.4-64.5) and 30.6% (95%CI: 22.4-41.7) in children below five years and pregnant women respectively. Siaya County in western Kenya showed higher malaria positivity rates for both children (36.4% and 54.9%) and pregnant women (27.8% and 38.5%) using both PCR and microscopy diagnosis techniques respectively, compared to Kwale County that showed positivity rates of 27.2% and 37.9% for children and 5.2% and 8.6% for pregnant women similarly using both PCR and microscopy techniques respectively. Pregnant women presenting themselves for their first ANC visit were up to five times at risk of malaria infection, (adjusted odds ratio = 5.40, 95%CI: 0.96-30.50, p = 0.046).\n\nDespite evidence of ANC attendance and administration of intermittent preventive treatment with sulfadoxine-pyrimethamine (IPTp-SP) dosage during these visits, malaria positivity rate was still high among pregnant women and children below five years in these two rural counties. These findings are important to the Kenyan National Malaria Control Programme and will help contribute to improvement of policies on integration of malaria control approaches in rural health facilities.",
+      "evidence_sentences": [
+        "Siaya County in western Kenya showed higher malaria positivity rates for both children (36.4% and 54.9%) and pregnant women (27.8% and 38.5%) using both PCR and microscopy diagnosis techniques respectively, compared to Kwale County that showed positivity rates of 27.2% and 37.9% for children and 5.2% and 8.6% for pregnant women similarly using both PCR and microscopy techniques respectively.",
+        "Cluster random sampling method was used to select pregnant women and children below five years receiving maternal and child health services using two cross-sectional surveys conducted in eleven rural health facilities in two malaria endemic counties in western and coastal regions of Kenya.",
+        "The aim of this study, therefore, was to determine the positivity rate of Plasmodium falciparum parasites in pregnant women and children below five years of age seeking healthcare services at the rural health facilities of Kwale and Siaya counties as well as their access and uptake of malaria control integrated services, like antenatal care (ANC), offered in those facilities."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Collins Okoyo",
+        "Edward Githinji",
+        "Ruth W Muia",
+        "Janet Masaku",
+        "Judy Mwai",
+        "Lilian Nyandieka",
+        "Stephen Munga",
+        "Sammy M Njenga",
+        "Henry M Kanyi"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34529696/"
+    },
+    {
+      "pmid": "31054214",
+      "title": "Risk factors for Burkitt lymphoma in East African children and minors: A case-control study in malaria-endemic regions in Uganda, Tanzania and Kenya.",
+      "journal": "International journal of cancer",
+      "abstract_sections": [
+        "Endemic Burkitt lymphoma (eBL) is the most common childhood cancer in sub-Saharan African countries, however, few epidemiologic studies have been undertaken and none attempted enrolling cases from multiple countries. We therefore conducted a population-based case-control study of eBL in children aged 0-15 years old in six regions in Northern Uganda, Northern Tanzania and Western Kenya, enrolling 862 suspected cases and 2,934 population controls (response rates 98.5-100%), and processing ~40,000 vials of samples using standardized protocols. Risk factor questionnaires were administered, and malaria period prevalence was measured using rapid diagnostic tests (RDTs). A total of 80.9% of the recruited cases were diagnosed as eBL; 61.4% confirmed by histology. Associations with eBL risk were computed using logistic regression models adjusted for relevant confounders. Associations common in at least two countries were emphasized. eBL risk was decreased with higher maternal income and paternal education and elevated with history of inpatient malaria treatment >12 months before enrollment. Reporting malaria-attributed fever up to 6 months before enrollment and malaria-RDT positivity at enrollment were associated with decreased eBL risk. Conversely, reporting exposure to mass malaria suppression programs (e.g., indoor residual insecticide) was associated with elevated risk. HIV seropositivity was associated with elevated eBL risk, but the relative impact was small. The study shows that it is feasible to conduct networked, multisite population-based studies of eBL in Africa. eBL was inversely associated with socioeconomic status, positively associated with inpatient malaria treatment 12 months ago and with living in areas targeted for malaria suppression, which support a role of malaria in eBL."
+      ],
+      "abstract": "Endemic Burkitt lymphoma (eBL) is the most common childhood cancer in sub-Saharan African countries, however, few epidemiologic studies have been undertaken and none attempted enrolling cases from multiple countries. We therefore conducted a population-based case-control study of eBL in children aged 0-15 years old in six regions in Northern Uganda, Northern Tanzania and Western Kenya, enrolling 862 suspected cases and 2,934 population controls (response rates 98.5-100%), and processing ~40,000 vials of samples using standardized protocols. Risk factor questionnaires were administered, and malaria period prevalence was measured using rapid diagnostic tests (RDTs). A total of 80.9% of the recruited cases were diagnosed as eBL; 61.4% confirmed by histology. Associations with eBL risk were computed using logistic regression models adjusted for relevant confounders. Associations common in at least two countries were emphasized. eBL risk was decreased with higher maternal income and paternal education and elevated with history of inpatient malaria treatment >12 months before enrollment. Reporting malaria-attributed fever up to 6 months before enrollment and malaria-RDT positivity at enrollment were associated with decreased eBL risk. Conversely, reporting exposure to mass malaria suppression programs (e.g., indoor residual insecticide) was associated with elevated risk. HIV seropositivity was associated with elevated eBL risk, but the relative impact was small. The study shows that it is feasible to conduct networked, multisite population-based studies of eBL in Africa. eBL was inversely associated with socioeconomic status, positively associated with inpatient malaria treatment 12 months ago and with living in areas targeted for malaria suppression, which support a role of malaria in eBL.",
+      "evidence_sentences": [
+        "We therefore conducted a population-based case-control study of eBL in children aged 0-15 years old in six regions in Northern Uganda, Northern Tanzania and Western Kenya, enrolling 862 suspected cases and 2,934 population controls (response rates 98.5-100%), and processing ~40,000 vials of samples using standardized protocols.",
+        "Risk factor questionnaires were administered, and malaria period prevalence was measured using rapid diagnostic tests (RDTs).",
+        "eBL was inversely associated with socioeconomic status, positively associated with inpatient malaria treatment 12 months ago and with living in areas targeted for malaria suppression, which support a role of malaria in eBL."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Sally Peprah",
+        "Martin D Ogwang",
+        "Patrick Kerchan",
+        "Steven J Reynolds",
+        "Constance N Tenge",
+        "Pamela A Were",
+        "Robert T Kuremu",
+        "Walter N Wekesa",
+        "Peter O Sumba",
+        "Nestory Masalu",
+        "Esther Kawira",
+        "Josiah Magatti",
+        "Tobias Kinyera",
+        "Isaac Otim",
+        "Ismail D Legason",
+        "Hadijah Nabalende",
+        "Herry Dhudha",
+        "Hillary Ally",
+        "Isaiah O Genga",
+        "Mediatrix Mumia",
+        "Leona W Ayers",
+        "Ruth M Pfeiffer",
+        "Robert J Biggar",
+        "Kishor Bhatia",
+        "James J Goedert",
+        "Sam M Mbulaiteye"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31054214/"
+    },
+    {
+      "pmid": "31819062",
+      "title": "High-resolution micro-epidemiology of parasite spatial and temporal dynamics in a high malaria transmission setting in Kenya.",
+      "journal": "Nature communications",
+      "abstract_sections": [
+        "Novel interventions that leverage the heterogeneity of parasite transmission are needed to achieve malaria elimination. To better understand spatial and temporal dynamics of transmission, we applied amplicon next-generation sequencing of two polymorphic gene regions (csp and ama1) to a cohort identified via reactive case detection in a high-transmission setting in western Kenya. From April 2013 to July 2014, we enrolled 442 symptomatic children with malaria, 442 matched controls, and all household members of both groups. Here, we evaluate genetic similarity between infected individuals using three indices: sharing of parasite haplotypes on binary and proportional scales and the L1 norm. Symptomatic children more commonly share haplotypes with their own household members. Furthermore, we observe robust temporal structuring of parasite genetic similarity and identify the unique molecular signature of an outbreak. These findings of both micro- and macro-scale organization of parasite populations might be harnessed to inform next-generation malaria control measures."
+      ],
+      "abstract": "Novel interventions that leverage the heterogeneity of parasite transmission are needed to achieve malaria elimination. To better understand spatial and temporal dynamics of transmission, we applied amplicon next-generation sequencing of two polymorphic gene regions (csp and ama1) to a cohort identified via reactive case detection in a high-transmission setting in western Kenya. From April 2013 to July 2014, we enrolled 442 symptomatic children with malaria, 442 matched controls, and all household members of both groups. Here, we evaluate genetic similarity between infected individuals using three indices: sharing of parasite haplotypes on binary and proportional scales and the L1 norm. Symptomatic children more commonly share haplotypes with their own household members. Furthermore, we observe robust temporal structuring of parasite genetic similarity and identify the unique molecular signature of an outbreak. These findings of both micro- and macro-scale organization of parasite populations might be harnessed to inform next-generation malaria control measures.",
+      "evidence_sentences": [
+        "From April 2013 to July 2014, we enrolled 442 symptomatic children with malaria, 442 matched controls, and all household members of both groups.",
+        "These findings of both micro- and macro-scale organization of parasite populations might be harnessed to inform next-generation malaria control measures.",
+        "Novel interventions that leverage the heterogeneity of parasite transmission are needed to achieve malaria elimination."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Cody S Nelson",
+        "Kelsey M Sumner",
+        "Elizabeth Freedman",
+        "Joseph W Saelens",
+        "Andrew A Obala",
+        "Judith N Mangeni",
+        "Steve M Taylor",
+        "Wendy P O'Meara"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31819062/"
+    },
+    {
+      "pmid": "32646433",
+      "title": "Influence of blood group, Glucose-6-phosphate dehydrogenase and Haemoglobin genotype on Falciparum malaria in children in Vihiga highland of Western Kenya.",
+      "journal": "BMC infectious diseases",
+      "abstract_sections": [
+        "Genetic diversity of ABO blood, glucose-6-phosphate dehydrogenase (G6PD) deficiency and haemoglobin type and their ability to protect against malaria vary geographically, ethnically and racially. No study has been carried out in populations resident in malaria regions in western Kenya.",
+        "A total of 574 malaria cases (severe malaria anaemia, SMA = 137 and non-SMA = 437) seeking treatment at Vihiga County and Referral Hospital in western Kenya, were enrolled and screened for ABO blood group, G6PD deficiency and haemoglobin genotyped in a hospital-based cross-sectional study.",
+        "When compared to blood group O, blood groups A, AB and B were not associated with SMA (P = 0.380, P = 0.183 and P = 0.464, respectively). Further regression analysis revealed that the carriage of the intermediate status of G6PD was associated with risk to SMA (OR = 1.52, 95%CI = 1.029-2.266, P = 0.035). There was, however, no association between AS and SS with severe malaria anaemia. Co-occurrence of both haemoglobin type and G6PD i.e. the AA/intermediate was associated with risk to SMA (OR = 1.536, 95%CI = 1.007-2.343, P = 0.046) while the carriage of the AS/normal G6PD was associated with protection against SMA (OR = 0.337, 95%CI = 0.156-0.915, P = 0.031).",
+        "Results demonstrate that blood group genotypes do not have influence on malaria disease outcome in this region. Children in Vihiga with blood group O have some protection against malaria. However, the intermediate status of G6PD is associated with risk of SMA. Further, co-inheritance of sickle cell and G6PD status are important predictors of malaria disease outcome. This implies combinatorial gene function in influencing disease outcome."
+      ],
+      "abstract": "Genetic diversity of ABO blood, glucose-6-phosphate dehydrogenase (G6PD) deficiency and haemoglobin type and their ability to protect against malaria vary geographically, ethnically and racially. No study has been carried out in populations resident in malaria regions in western Kenya.\n\nA total of 574 malaria cases (severe malaria anaemia, SMA = 137 and non-SMA = 437) seeking treatment at Vihiga County and Referral Hospital in western Kenya, were enrolled and screened for ABO blood group, G6PD deficiency and haemoglobin genotyped in a hospital-based cross-sectional study.\n\nWhen compared to blood group O, blood groups A, AB and B were not associated with SMA (P = 0.380, P = 0.183 and P = 0.464, respectively). Further regression analysis revealed that the carriage of the intermediate status of G6PD was associated with risk to SMA (OR = 1.52, 95%CI = 1.029-2.266, P = 0.035). There was, however, no association between AS and SS with severe malaria anaemia. Co-occurrence of both haemoglobin type and G6PD i.e. the AA/intermediate was associated with risk to SMA (OR = 1.536, 95%CI = 1.007-2.343, P = 0.046) while the carriage of the AS/normal G6PD was associated with protection against SMA (OR = 0.337, 95%CI = 0.156-0.915, P = 0.031).\n\nResults demonstrate that blood group genotypes do not have influence on malaria disease outcome in this region. Children in Vihiga with blood group O have some protection against malaria. However, the intermediate status of G6PD is associated with risk of SMA. Further, co-inheritance of sickle cell and G6PD status are important predictors of malaria disease outcome. This implies combinatorial gene function in influencing disease outcome.",
+      "evidence_sentences": [
+        "A total of 574 malaria cases (severe malaria anaemia, SMA = 137 and non-SMA = 437) seeking treatment at Vihiga County and Referral Hospital in western Kenya, were enrolled and screened for ABO blood group, G6PD deficiency and haemoglobin genotyped in a hospital-based cross-sectional study.",
+        "No study has been carried out in populations resident in malaria regions in western Kenya.",
+        "Children in Vihiga with blood group O have some protection against malaria."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Jafaralli Sande Ahmed",
+        "Bernard Guyah",
+        "David Sang'",
+        "Mark Kilongosi Webale",
+        "Nathan Shaviya Mufyongo",
+        "Elly Munde",
+        "Collins Ouma"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32646433/"
+    },
+    {
+      "pmid": "33238928",
+      "title": "Association between haematological parameters and sickle cell genotypes in children with Plasmodium falciparum malaria resident in Kisumu County in Western Kenya.",
+      "journal": "BMC infectious diseases",
+      "abstract_sections": [
+        "Sickle cell disease (SCD) is a monogenic disorder due to point mutation in the β-globin gene resulting in substitution of Valine for Glutamic acid. The SCD is prevalent in P. falciparum endemic regions such as western Kenya. Carriage of different sickle cell genotypes may influence haematological parameter during malaria. Children resident in malaria holoendemic regions suffer more from malaria-related complications and this is moderated by the presence of the SCD. In the current study, we determined the association between sickle cell genotypes and haematological parameters in children with P. falciparum malaria resident in Kisumu County in Western Kenya.",
+        "Children (n = 217, aged 1-192 months) with acute febrile condition were recruited at Jaramogi Oginga Odinga Teaching and Referral Hospital. Chi-square (χ2) analysis was used to determine differences between proportions. Differences in haematological parameters were compared across groups using Kruskal Wallis test and between groups using Mann Whitney U test. Multivariate logistic regression analysis controlling for infection status was used to determine the association between sickle cell genotypes and haematological parameters.",
+        "Using HbAA as the reference group, multivariate logistic regression analysis revealed that carriage of HbSS was associated with reduced haemoglobin [OR = 0.310, 95% CI = 0.101-0.956, P = 0.041], reduced haematocrit [OR = 0.318, 95% CI = 0.128-0.793, P = 0.014], reduced RBC count [OR = 0.124, 95% CI = 0.045-0.337, P = 0.001], reduced MCHC [OR = 0.325, 95% CI = 0.118-0.892, P = 0.029], increased leucocytosis [OR = 9.283, 95% CI = 3.167-27.210, P = 0.001] and reduced monocytosis [OR = 0.319, 95% CI = 0.123-0.830, P = 0.019]. However, carriage of HbAS was only associated with increased micro-platelets [OR = 3.629, 95% CI = 1.291-8.276, P = 0.012].",
+        "Results show that carriage of HbSS in children influence the levels of haemoglobin, haematocrit, RBC, MCHC, WBC and Monocytes. Therefore prior knowledge of HbSS should be considered to improve clinical management of haematological alterations during malaria in children."
+      ],
+      "abstract": "Sickle cell disease (SCD) is a monogenic disorder due to point mutation in the β-globin gene resulting in substitution of Valine for Glutamic acid. The SCD is prevalent in P. falciparum endemic regions such as western Kenya. Carriage of different sickle cell genotypes may influence haematological parameter during malaria. Children resident in malaria holoendemic regions suffer more from malaria-related complications and this is moderated by the presence of the SCD. In the current study, we determined the association between sickle cell genotypes and haematological parameters in children with P. falciparum malaria resident in Kisumu County in Western Kenya.\n\nChildren (n = 217, aged 1-192 months) with acute febrile condition were recruited at Jaramogi Oginga Odinga Teaching and Referral Hospital. Chi-square (χ2) analysis was used to determine differences between proportions. Differences in haematological parameters were compared across groups using Kruskal Wallis test and between groups using Mann Whitney U test. Multivariate logistic regression analysis controlling for infection status was used to determine the association between sickle cell genotypes and haematological parameters.\n\nUsing HbAA as the reference group, multivariate logistic regression analysis revealed that carriage of HbSS was associated with reduced haemoglobin [OR = 0.310, 95% CI = 0.101-0.956, P = 0.041], reduced haematocrit [OR = 0.318, 95% CI = 0.128-0.793, P = 0.014], reduced RBC count [OR = 0.124, 95% CI = 0.045-0.337, P = 0.001], reduced MCHC [OR = 0.325, 95% CI = 0.118-0.892, P = 0.029], increased leucocytosis [OR = 9.283, 95% CI = 3.167-27.210, P = 0.001] and reduced monocytosis [OR = 0.319, 95% CI = 0.123-0.830, P = 0.019]. However, carriage of HbAS was only associated with increased micro-platelets [OR = 3.629, 95% CI = 1.291-8.276, P = 0.012].\n\nResults show that carriage of HbSS in children influence the levels of haemoglobin, haematocrit, RBC, MCHC, WBC and Monocytes. Therefore prior knowledge of HbSS should be considered to improve clinical management of haematological alterations during malaria in children.",
+      "evidence_sentences": [
+        "Therefore prior knowledge of HbSS should be considered to improve clinical management of haematological alterations during malaria in children.",
+        "Children resident in malaria holoendemic regions suffer more from malaria-related complications and this is moderated by the presence of the SCD.",
+        "falciparum malaria resident in Kisumu County in Western Kenya."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Paul Kosiyo",
+        "Walter Otieno",
+        "Jesse Gitaka",
+        "Elly O Munde",
+        "Collins Ouma"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33238928/"
+    },
+    {
+      "pmid": "10782073",
+      "title": "Situation analysis of malaria in school-aged children in Kenya - what can be done?",
+      "journal": "Parasitology today (Personal ed.)",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "S Brooker",
+        "H Guyatt",
+        "J Omumbo",
+        "R Shretta",
+        "L Drake",
+        "J Ouma"
+      ],
+      "year": "2000",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/10782073/"
+    },
+    {
+      "pmid": "37433031",
+      "title": "Effect of Malaria Infection on Epstein-Barr Virus Persistence in Kenyan Children.",
+      "journal": "The Journal of infectious diseases",
+      "abstract_sections": [
+        "The 2 cofactors in the etiology of Burkitt lymphoma (BL) are Epstein-Barr virus (EBV) and repeated Plasmodium falciparum malaria infections. This study evaluated EBV loads in mucosal and systemic compartments of children with malaria and controls. Age was analyzed as a covariate because immunity to malaria in endemic regions is age dependent.",
+        "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled. Saliva and blood samples were collected, EBV viral load was assessed by quantitative polymerase chain reaction, and EpiTYPER MassARRAY was used to assess methylation of 3 different EBV genes.",
+        "Regardless of the compartment, we detected EBV more frequently in malaria cases compared to controls, although the difference was not significant. When EBV was detected, there were no differences in viral load between cases and controls. However, EBV methylation was significantly lower in the malaria group compared to controls in both plasma and saliva (P < .05), indicating increased EBV lytic replication. In younger children before development of immunity to malaria, there was a significant effect of malaria on EBV load in peripheral blood mononuclear cells (P = .04).",
+        "These data suggest that malaria can directly modulate EBV persistence in children, increasing their risk for BL."
+      ],
+      "abstract": "The 2 cofactors in the etiology of Burkitt lymphoma (BL) are Epstein-Barr virus (EBV) and repeated Plasmodium falciparum malaria infections. This study evaluated EBV loads in mucosal and systemic compartments of children with malaria and controls. Age was analyzed as a covariate because immunity to malaria in endemic regions is age dependent.\n\nChildren (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled. Saliva and blood samples were collected, EBV viral load was assessed by quantitative polymerase chain reaction, and EpiTYPER MassARRAY was used to assess methylation of 3 different EBV genes.\n\nRegardless of the compartment, we detected EBV more frequently in malaria cases compared to controls, although the difference was not significant. When EBV was detected, there were no differences in viral load between cases and controls. However, EBV methylation was significantly lower in the malaria group compared to controls in both plasma and saliva (P < .05), indicating increased EBV lytic replication. In younger children before development of immunity to malaria, there was a significant effect of malaria on EBV load in peripheral blood mononuclear cells (P = .04).\n\nThese data suggest that malaria can directly modulate EBV persistence in children, increasing their risk for BL.",
+      "evidence_sentences": [
+        "Children (2-10 years) with clinical malaria from Western Kenya and community controls without malaria were enrolled.",
+        "In younger children before development of immunity to malaria, there was a significant effect of malaria on EBV load in peripheral blood mononuclear cells (P = .04).",
+        "These data suggest that malaria can directly modulate EBV persistence in children, increasing their risk for BL."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Gabriela Samayoa-Reyes",
+        "Christoph Weigel",
+        "Emmily Koech",
+        "Kevin Waomba",
+        "Conner Jackson",
+        "Ian A Onditi",
+        "Katherine R Sabourin",
+        "Shannon Kenney",
+        "Robert A Baiocchi",
+        "Christopher C Oakes",
+        "Sidney Ogolla",
+        "Rosemary Rochford"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37433031/"
+    },
+    {
+      "pmid": "31299976",
+      "title": "Targeting remaining pockets of malaria transmission in Kenya to hasten progress towards national elimination goals: an assessment of prevalence and risk factors in children from the Lake endemic region.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "With an overall decline of malaria incidence, elimination of malaria is gradually becoming the next target for many of countries affected by the disease. In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country. However, considerable heterogeneity in prevalence of the disease within the country and especially the remaining high prevalent region of the Lake endemic region is likely to slow progress towards this target. To achieve a sustained control and an eventual elimination, a clear understanding of drivers of ongoing malaria transmission in remaining hotspots is needed.",
+        "Data from the 2015 Malaria Indicator Survey (MIS) were analysed for prevalence of malaria parasitaemia in children (6 months to 14 years) of different countries within the highly endemic Lake region. Univariate and multivariate logistic regression analysis were preformed to explore associations between selected risk factors and being parasitaemic. A predictive model was built for the association between malaria and the risk factors with the aim of identifying heterogeneities of the disease at the lower administrative levels.",
+        "Overall, 604/2253 (27%, 95% CI 21.8-32.2) children were parasitaemic. The highest prevalence was observed in Busia County (37%) and lowest in Bungoma County (18%). Multivariate logistic regression analysis showed that the 10-14 years age group (OR = 3.0, 95% CI 2.3-4.1), households in the poorest socio-economic class (OR = 2.1, 95% CI 1.3-3.3), farming (OR = 1.4, 95% CI 1.2-2.5) and residence in Busia (OR = 4.6, 95% CI 2.1-8.2), Kakamega (OR = 2.6, 95% CI 1.3-5.4), and Migori counties (OR = 4.6 95% CI 2.1-10.3) were associated with higher risk of parasitaemia. Having slept under a long-lasting insecticide-treated bed net (LLIN) was associated with a lower risk (OR = 0.7, 95% CI 0.6-0.9). No association were found between malaria infection and the gender of the child, the household head, and the education status of the household head.",
+        "Detailed analysis of malaria prevalence data in a hotspot area can identify new threats and avail opportunities for directing intervention. In the Lake endemic region of Kenya, interventions should be focused more on counties with the highest prevalence, and should target older children as well as children from the lower socio-economic strata. Precisely targeting interventions in remaining hotspots and high-risk populations will likely make impact and accelerate progress towards pre-elimination targets."
+      ],
+      "abstract": "With an overall decline of malaria incidence, elimination of malaria is gradually becoming the next target for many of countries affected by the disease. In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country. However, considerable heterogeneity in prevalence of the disease within the country and especially the remaining high prevalent region of the Lake endemic region is likely to slow progress towards this target. To achieve a sustained control and an eventual elimination, a clear understanding of drivers of ongoing malaria transmission in remaining hotspots is needed.\n\nData from the 2015 Malaria Indicator Survey (MIS) were analysed for prevalence of malaria parasitaemia in children (6 months to 14 years) of different countries within the highly endemic Lake region. Univariate and multivariate logistic regression analysis were preformed to explore associations between selected risk factors and being parasitaemic. A predictive model was built for the association between malaria and the risk factors with the aim of identifying heterogeneities of the disease at the lower administrative levels.\n\nOverall, 604/2253 (27%, 95% CI 21.8-32.2) children were parasitaemic. The highest prevalence was observed in Busia County (37%) and lowest in Bungoma County (18%). Multivariate logistic regression analysis showed that the 10-14 years age group (OR = 3.0, 95% CI 2.3-4.1), households in the poorest socio-economic class (OR = 2.1, 95% CI 1.3-3.3), farming (OR = 1.4, 95% CI 1.2-2.5) and residence in Busia (OR = 4.6, 95% CI 2.1-8.2), Kakamega (OR = 2.6, 95% CI 1.3-5.4), and Migori counties (OR = 4.6 95% CI 2.1-10.3) were associated with higher risk of parasitaemia. Having slept under a long-lasting insecticide-treated bed net (LLIN) was associated with a lower risk (OR = 0.7, 95% CI 0.6-0.9). No association were found between malaria infection and the gender of the child, the household head, and the education status of the household head.\n\nDetailed analysis of malaria prevalence data in a hotspot area can identify new threats and avail opportunities for directing intervention. In the Lake endemic region of Kenya, interventions should be focused more on counties with the highest prevalence, and should target older children as well as children from the lower socio-economic strata. Precisely targeting interventions in remaining hotspots and high-risk populations will likely make impact and accelerate progress towards pre-elimination targets.",
+      "evidence_sentences": [
+        "Data from the 2015 Malaria Indicator Survey (MIS) were analysed for prevalence of malaria parasitaemia in children (6 months to 14 years) of different countries within the highly endemic Lake region.",
+        "In Kenya the national malaria control strategy is aiming to reach pre-elimination for most parts of the country.",
+        "In the Lake endemic region of Kenya, interventions should be focused more on counties with the highest prevalence, and should target older children as well as children from the lower socio-economic strata."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Ismail Mahat Bashir",
+        "Nancy Nyakoe",
+        "Marianne van der Sande"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31299976/"
+    },
+    {
+      "pmid": "34125699",
+      "title": "Long-Lasting Insecticidal Nets Incorporating Piperonyl Butoxide Reduce the Risk of Malaria in Children in Western Kenya: A Cluster Randomized Controlled Trial.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Malaria vectors have acquired an enzyme that metabolizes pyrethroids. To tackle this problem, we evaluated long-lasting insecticidal nets incorporating piperonyl butoxide (PBO-LLINs) with a community-based cluster randomized control trial in western Kenya. The primary endpoints were anopheline density and Plasmodium falciparum polymerase chain reaction (PCR)-positive prevalence (PCRpfPR) of children aged 7 months to 10 years. Four clusters were randomly selected for each of the treatment and control arms (eight clusters in total) from 12 clusters, and PBO-LLINs and standard LLINs were distributed in February 2011 to 982 and 1,028 houses for treatment and control arms, respectively. Entomological surveys targeted 20 houses in each cluster, and epidemiological surveys targeted 150 children. Cluster-level permutation tests evaluated the effectiveness using the fitted values from individual level regression models adjusted for baseline. Bootstrapping estimated 95% confidence intervals (CIs). The medians of anophelines per house were 1.4 (interquartile range [IQR]: 2.3) and 3.4 (IQR: 3.7) in the intervention and control arms after 3 months, and 0.4 (IQR: 0.2) and 1.6 (IQR: 0.5) after 10 months, respectively. The differences were -2.5 (95% CI: -6.4 to -0.6) and -1.3 (95% CI: -2.0 to -0.7), respectively. The datasets of 861 and 775 children were analyzed in two epidemiological surveys. The median PCRpfPRs were 25% (IQR: 11%) in the intervention arm and 52% (IQR: 11%) in the control arm after 5 months and 33% (IQR: 11%) and 45% (IQR: 5%) after 12 months. The PCRpfPR ratios were 0.67 (95% CI: 0.38, 0.91) and 0.74 (95% CI: 0.53, 0.90), respectively. We confirmed the superiority of PBO-LLINs."
+      ],
+      "abstract": "Malaria vectors have acquired an enzyme that metabolizes pyrethroids. To tackle this problem, we evaluated long-lasting insecticidal nets incorporating piperonyl butoxide (PBO-LLINs) with a community-based cluster randomized control trial in western Kenya. The primary endpoints were anopheline density and Plasmodium falciparum polymerase chain reaction (PCR)-positive prevalence (PCRpfPR) of children aged 7 months to 10 years. Four clusters were randomly selected for each of the treatment and control arms (eight clusters in total) from 12 clusters, and PBO-LLINs and standard LLINs were distributed in February 2011 to 982 and 1,028 houses for treatment and control arms, respectively. Entomological surveys targeted 20 houses in each cluster, and epidemiological surveys targeted 150 children. Cluster-level permutation tests evaluated the effectiveness using the fitted values from individual level regression models adjusted for baseline. Bootstrapping estimated 95% confidence intervals (CIs). The medians of anophelines per house were 1.4 (interquartile range [IQR]: 2.3) and 3.4 (IQR: 3.7) in the intervention and control arms after 3 months, and 0.4 (IQR: 0.2) and 1.6 (IQR: 0.5) after 10 months, respectively. The differences were -2.5 (95% CI: -6.4 to -0.6) and -1.3 (95% CI: -2.0 to -0.7), respectively. The datasets of 861 and 775 children were analyzed in two epidemiological surveys. The median PCRpfPRs were 25% (IQR: 11%) in the intervention arm and 52% (IQR: 11%) in the control arm after 5 months and 33% (IQR: 11%) and 45% (IQR: 5%) after 12 months. The PCRpfPR ratios were 0.67 (95% CI: 0.38, 0.91) and 0.74 (95% CI: 0.53, 0.90), respectively. We confirmed the superiority of PBO-LLINs.",
+      "evidence_sentences": [
+        "To tackle this problem, we evaluated long-lasting insecticidal nets incorporating piperonyl butoxide (PBO-LLINs) with a community-based cluster randomized control trial in western Kenya.",
+        "Malaria vectors have acquired an enzyme that metabolizes pyrethroids.",
+        "The primary endpoints were anopheline density and Plasmodium falciparum polymerase chain reaction (PCR)-positive prevalence (PCRpfPR) of children aged 7 months to 10 years."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Noboru Minakawa",
+        "James O Kongere",
+        "George O Sonye",
+        "Peter A Lutiali",
+        "Beatrice Awuor",
+        "Hitoshi Kawada",
+        "Rie Isozumi",
+        "Kyoko Futami"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34125699/"
+    },
+    {
+      "pmid": "33200723",
+      "title": "Association of Malnutrition with Subsequent Malaria Parasitemia among Children Younger than Three years in Kenya: A Secondary Data Analysis of the Asembo Bay Cohort Study.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Malaria and malnutrition remain primary causes of morbidity and mortality among children younger than 5 years in Africa. Studies investigating the association between malnutrition and subsequent malaria outcomes are inconsistent. We studied the effects of malnutrition on incidence and prevalence of malaria parasitemia in data from a cohort studied in the 1990s. Data came from the Asembo Bay cohort study, which collected malaria and health information on children from 1992 to 1996 in western Kenya. Infants were enrolled at birth and followed up until loss to follow-up, death, end of study, or 5 years old. Anthropometric measures and blood specimens were obtained monthly. Nutritional exposures included categorized"
+      ],
+      "abstract": "Malaria and malnutrition remain primary causes of morbidity and mortality among children younger than 5 years in Africa. Studies investigating the association between malnutrition and subsequent malaria outcomes are inconsistent. We studied the effects of malnutrition on incidence and prevalence of malaria parasitemia in data from a cohort studied in the 1990s. Data came from the Asembo Bay cohort study, which collected malaria and health information on children from 1992 to 1996 in western Kenya. Infants were enrolled at birth and followed up until loss to follow-up, death, end of study, or 5 years old. Anthropometric measures and blood specimens were obtained monthly. Nutritional exposures included categorized",
+      "evidence_sentences": [
+        "Data came from the Asembo Bay cohort study, which collected malaria and health information on children from 1992 to 1996 in western Kenya.",
+        "Malaria and malnutrition remain primary causes of morbidity and mortality among children younger than 5 years in Africa.",
+        "We studied the effects of malnutrition on incidence and prevalence of malaria parasitemia in data from a cohort studied in the 1990s."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Catherine V Donovan",
+        "Peter McElroy",
+        "Linda Adair",
+        "Brian W Pence",
+        "Aggrey James Oloo",
+        "Altaf Lal",
+        "Peter Bloland",
+        "Bernard Nahlen",
+        "Jonathan J Juliano",
+        "Steven Meshnick"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33200723/"
+    },
+    {
+      "pmid": "40288396",
+      "title": "Incidence rates of malaria, meningitis, and mortality in children younger than 5 years: a prospective cohort study in Ghana and Kenya before the roll-out of the RTS,S/AS01",
+      "journal": "The Lancet. Global health",
+      "abstract_sections": [
+        "The RTS,S/AS01",
+        "This disease surveillance study combined two approaches: (1) prospective cohort event monitoring (home visits scheduled to mimic a future four-dose RTS,S/AS01",
+        "The final analysis included 23 427 children: 9032 in the 6-12W age group, 9694 in the 5-17M age group, and 4701 in hospital-based disease surveillance. In the 5-17M age group (corresponding to the WHO-recommended age for RTS,S/AS01",
+        "Observed incidence of meningitis and cerebral malaria were in the previously published range, whereas childhood mortality was lower, suggesting that the recent efforts to reduce mortality in children younger than 5 years have been impactful. Data from this study have public health use and will form the baseline evidence for ongoing evaluation of the benefit-risk of RTS,S/AS01",
+        "GSK and PATH."
+      ],
+      "abstract": "The RTS,S/AS01\n\nThis disease surveillance study combined two approaches: (1) prospective cohort event monitoring (home visits scheduled to mimic a future four-dose RTS,S/AS01\n\nThe final analysis included 23 427 children: 9032 in the 6-12W age group, 9694 in the 5-17M age group, and 4701 in hospital-based disease surveillance. In the 5-17M age group (corresponding to the WHO-recommended age for RTS,S/AS01\n\nObserved incidence of meningitis and cerebral malaria were in the previously published range, whereas childhood mortality was lower, suggesting that the recent efforts to reduce mortality in children younger than 5 years have been impactful. Data from this study have public health use and will form the baseline evidence for ongoing evaluation of the benefit-risk of RTS,S/AS01\n\nGSK and PATH.",
+      "evidence_sentences": [
+        "In the 5-17M age group (corresponding to the WHO-recommended age for RTS,S/AS01 Observed incidence of meningitis and cerebral malaria were in the previously published range, whereas childhood mortality was lower, suggesting that the recent efforts to reduce mortality in children younger than 5 years have been impactful.",
+        "The RTS,S/AS01 This disease surveillance study combined two approaches: (1) prospective cohort event monitoring (home visits scheduled to mimic a future four-dose RTS,S/AS01 The final analysis included 23 427 children: 9032 in the 6-12W age group, 9694 in the 5-17M age group, and 4701 in hospital-based disease surveillance.",
+        "Data from this study have public health use and will form the baseline evidence for ongoing evaluation of the benefit-risk of RTS,S/AS01 GSK and PATH."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Kwaku Poku Asante",
+        "Marie-Cécile Bozonnat",
+        "Miloje Savic",
+        "Seth Owusu-Agyei",
+        "Seyram Kaali",
+        "Walter Otieno",
+        "Owusu Boahen",
+        "Mathilda Tivura",
+        "Lucas Otieno",
+        "Prince Darko Agyapong",
+        "Patrick Odum Ansah",
+        "Valentine Sing'oei",
+        "Janet Oyieko",
+        "Elisha Adeniji",
+        "Nana Akosua Ansah",
+        "Samuel Bernard Ekow Harrison",
+        "Esther Oguk",
+        "David Dosoo",
+        "Lode Schuerman",
+        "Michael Bandasua Kaburise",
+        "Dennis Azabra Awuni",
+        "Kingsley Kayan",
+        "Cristina Cravcenco",
+        "François Roman",
+        "Valérie Haine"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40288396/"
+    },
+    {
+      "pmid": "33413385",
+      "title": "Malaria micro-stratification using routine surveillance data in Western Kenya.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "There is an increasing need for finer spatial resolution data on malaria risk to provide micro-stratification to guide sub-national strategic plans. Here, spatial-statistical techniques are used to exploit routine data to depict sub-national heterogeneities in test positivity rate (TPR) for malaria among patients attending health facilities in Kenya.",
+        "Routine data from health facilities (n = 1804) representing all ages over 24 months (2018-2019) were assembled across 8 counties (62 sub-counties) in Western Kenya. Statistical model-based approaches were used to quantify heterogeneities in TPR and uncertainty at fine spatial resolution adjusting for missingness, population distribution, spatial data structure, month, and type of health facility.",
+        "The overall monthly reporting rate was 78.7% (IQR 75.0-100.0) and public-based health facilities were more likely than private facilities to report ≥ 12 months (OR 5.7, 95% CI 4.3-7.5). There was marked heterogeneity in population-weighted TPR with sub-counties in the north of the lake-endemic region exhibiting the highest rates (exceedance probability > 70% with 90% certainty) where approximately 2.7 million (28.5%) people reside. At micro-level the lowest rates were in 14 sub-counties (exceedance probability < 30% with 90% certainty) where approximately 2.2 million (23.1%) people lived and indoor residual spraying had been conducted since 2017.",
+        "The value of routine health data on TPR can be enhanced when adjusting for underlying population and spatial structures of the data, highlighting small-scale heterogeneities in malaria risk often masked in broad national stratifications. Future research should aim at relating these heterogeneities in TPR with traditional community-level prevalence to improve tailoring malaria control activities at sub-national levels."
+      ],
+      "abstract": "There is an increasing need for finer spatial resolution data on malaria risk to provide micro-stratification to guide sub-national strategic plans. Here, spatial-statistical techniques are used to exploit routine data to depict sub-national heterogeneities in test positivity rate (TPR) for malaria among patients attending health facilities in Kenya.\n\nRoutine data from health facilities (n = 1804) representing all ages over 24 months (2018-2019) were assembled across 8 counties (62 sub-counties) in Western Kenya. Statistical model-based approaches were used to quantify heterogeneities in TPR and uncertainty at fine spatial resolution adjusting for missingness, population distribution, spatial data structure, month, and type of health facility.\n\nThe overall monthly reporting rate was 78.7% (IQR 75.0-100.0) and public-based health facilities were more likely than private facilities to report ≥ 12 months (OR 5.7, 95% CI 4.3-7.5). There was marked heterogeneity in population-weighted TPR with sub-counties in the north of the lake-endemic region exhibiting the highest rates (exceedance probability > 70% with 90% certainty) where approximately 2.7 million (28.5%) people reside. At micro-level the lowest rates were in 14 sub-counties (exceedance probability < 30% with 90% certainty) where approximately 2.2 million (23.1%) people lived and indoor residual spraying had been conducted since 2017.\n\nThe value of routine health data on TPR can be enhanced when adjusting for underlying population and spatial structures of the data, highlighting small-scale heterogeneities in malaria risk often masked in broad national stratifications. Future research should aim at relating these heterogeneities in TPR with traditional community-level prevalence to improve tailoring malaria control activities at sub-national levels.",
+      "evidence_sentences": [
+        "Here, spatial-statistical techniques are used to exploit routine data to depict sub-national heterogeneities in test positivity rate (TPR) for malaria among patients attending health facilities in Kenya.",
+        "The value of routine health data on TPR can be enhanced when adjusting for underlying population and spatial structures of the data, highlighting small-scale heterogeneities in malaria risk often masked in broad national stratifications.",
+        "Future research should aim at relating these heterogeneities in TPR with traditional community-level prevalence to improve tailoring malaria control activities at sub-national levels."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Victor A Alegana",
+        "Laurissa Suiyanka",
+        "Peter M Macharia",
+        "Grace Ikahu-Muchangi",
+        "Robert W Snow"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33413385/"
+    },
+    {
+      "pmid": "18671871",
+      "title": "Molecular epidemiology of drug-resistant malaria in western Kenya highlands.",
+      "journal": "BMC infectious diseases",
+      "abstract_sections": [
+        "Since the late 1980s a series of malaria epidemics has occurred in western Kenya highlands. Among the possible factors that may contribute to the highland malaria epidemics, parasite resistance to antimalarials has not been well investigated.",
+        "Using parasites from highland and lowland areas of western Kenya, we examined key mutations associated with Plasmodium falciparum resistance to sulfadoxine - pyrimethamine and chloroquine, including dihydrofolate reductase (pfdhfr) and dihydropteroate synthetase (pfdhps), chloroquine resistance transporter gene (pfcrt), and multi-drug resistance gene 1 (pfmdr1).",
+        "We found that >70% of samples harbored 76T pfcrt mutations and over 80% of samples harbored quintuple mutations (51I/59R/108N pfdhfr and 437G/540E pfdhps) in both highland and lowland samples. Further, we did not detect significant difference in the frequencies of these mutations between symptomatic and asymptomatic malaria volunteers, and between highland and lowland samples.",
+        "These findings suggest that drug resistance of malaria parasites in the highlands could be contributed by the mutations and their high frequencies as found in the lowland. The results are discussed in terms of the role of drug resistance as a driving force for malaria outbreaks in the highlands."
+      ],
+      "abstract": "Since the late 1980s a series of malaria epidemics has occurred in western Kenya highlands. Among the possible factors that may contribute to the highland malaria epidemics, parasite resistance to antimalarials has not been well investigated.\n\nUsing parasites from highland and lowland areas of western Kenya, we examined key mutations associated with Plasmodium falciparum resistance to sulfadoxine - pyrimethamine and chloroquine, including dihydrofolate reductase (pfdhfr) and dihydropteroate synthetase (pfdhps), chloroquine resistance transporter gene (pfcrt), and multi-drug resistance gene 1 (pfmdr1).\n\nWe found that >70% of samples harbored 76T pfcrt mutations and over 80% of samples harbored quintuple mutations (51I/59R/108N pfdhfr and 437G/540E pfdhps) in both highland and lowland samples. Further, we did not detect significant difference in the frequencies of these mutations between symptomatic and asymptomatic malaria volunteers, and between highland and lowland samples.\n\nThese findings suggest that drug resistance of malaria parasites in the highlands could be contributed by the mutations and their high frequencies as found in the lowland. The results are discussed in terms of the role of drug resistance as a driving force for malaria outbreaks in the highlands.",
+      "evidence_sentences": [
+        "Since the late 1980s a series of malaria epidemics has occurred in western Kenya highlands.",
+        "Further, we did not detect significant difference in the frequencies of these mutations between symptomatic and asymptomatic malaria volunteers, and between highland and lowland samples.",
+        "These findings suggest that drug resistance of malaria parasites in the highlands could be contributed by the mutations and their high frequencies as found in the lowland."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "question",
+        "children",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Daibin Zhong",
+        "Yaw Afrane",
+        "Andrew Githeko",
+        "Liwang Cui",
+        "David M Menge",
+        "Guiyun Yan"
+      ],
+      "year": "2008",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18671871/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "1347",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38583454",
+        "36991340",
+        "40700688",
+        "31801562",
+        "37525687",
+        "37448326",
+        "12287810",
+        "12023907",
+        "37231429",
+        "15585775",
+        "39736740",
+        "34498446",
+        "35382858",
+        "33158460",
+        "32772115",
+        "39433400",
+        "22984118",
+        "34529696",
+        "31054214",
+        "31819062",
+        "32646433",
+        "33238928",
+        "10782073",
+        "37433031",
+        "31299976",
+        "34125699",
+        "33200723",
+        "40288396",
+        "33413385",
+        "18671871"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "epidemiology",
+          "to": "\"epidemiologies\"[All Fields] OR \"epidemiology\"[Subheading] OR \"epidemiology\"[All Fields] OR \"epidemiology\"[MeSH Terms] OR \"epidemiology's\"[All Fields]"
+        },
+        {
+          "from": "children",
+          "to": "\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child's\"[All Fields] OR \"children's\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]"
+        },
+        {
+          "from": "Kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"epidemiologies\"[All Fields] OR \"epidemiology\"[MeSH Subheading] OR \"epidemiology\"[All Fields] OR \"epidemiology\"[MeSH Terms] OR \"epidemiology s\"[All Fields]) AND (\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR \"child s\"[All Fields] OR \"children s\"[All Fields] OR \"childrens\"[All Fields] OR \"childs\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields])",
+      "warninglist": {
+        "phrasesignored": [
+          "in"
+        ],
+        "quotedphrasesnotfound": [],
+        "outputmessages": []
+      }
+    }
+  }
+}

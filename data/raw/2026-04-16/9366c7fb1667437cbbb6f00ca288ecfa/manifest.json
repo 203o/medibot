@@ -1,0 +1,74 @@
+{
+  "run_id": "9366c7fb1667437cbbb6f00ca288ecfa",
+  "stored_at": "2026-04-16T21:30:29+00:00",
+  "query": "cancer latest treatment therapy management USA",
+  "query_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "((cancer AND (therapy OR treatment)) AND (epidemiology OR prevalence))",
+    "((lung cancer AND (management OR prognosis)) AND (USA OR American))",
+    "((cancer AND (treatment OR therapy)) AND (evidence synthesis OR systematic review))",
+    "((lung cancer AND (epidemiology OR incidence)) AND (United States OR US))",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer latest treatment therapy management USA",
+    "cancer latest treatment therapy management",
+    "cancer latest treatment therapy treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "((cancer AND (therapy OR treatment)) AND (epidemiology OR prevalence))",
+    "((lung cancer AND (management OR prognosis)) AND (USA OR American))",
+    "((cancer AND (treatment OR therapy)) AND (evidence synthesis OR systematic review))",
+    "((lung cancer AND (epidemiology OR incidence)) AND (United States OR US))"
+  ],
+  "keywords": [
+    "cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 3,
+    "openalex": 0,
+    "semantic_hits": 64,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "((cancer AND (therapy OR treatment)) AND (epidemiology OR prevalence))",
+      "((lung cancer AND (management OR prognosis)) AND (USA OR American))",
+      "((cancer AND (treatment OR therapy)) AND (evidence synthesis OR systematic review))",
+      "((lung cancer AND (epidemiology OR incidence)) AND (United States OR US))"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9366c7fb1667437cbbb6f00ca288ecfa\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9366c7fb1667437cbbb6f00ca288ecfa\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9366c7fb1667437cbbb6f00ca288ecfa\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9366c7fb1667437cbbb6f00ca288ecfa\\combined.records.json"
+  }
+}

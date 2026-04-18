@@ -1,0 +1,1483 @@
+{
+  "query": "malaria clinical guidance Kenya",
+  "selected_query": "malaria clinical guidance Kenya",
+  "attempted_queries": [
+    {
+      "query": "malaria clinical guidance Kenya",
+      "location_filter": "Kenya",
+      "count": 0
+    },
+    {
+      "query": "malaria clinical guidance Kenya",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "Kenya",
+  "records": [
+    {
+      "nct_id": "NCT04910750",
+      "title": "Tools for the Integrated Management of Childhood Illness (TIMCI): Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care",
+      "brief_summary": "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.\n\nThe multi-country, multi-method evaluation aims to generate evidence on the health and quality of care impact, operational priorities, cost and cost-effectiveness of introducing these tools to facilitate national and international decision-making on scale-up.",
+      "detailed_description": "This registry entry describes the pragmatic cluster randomised controlled trials (RCTs) conducted in India and Tanzania. In Kenya and Senegal, quasi-experimental pre-post studies are conducted (NCT05065320). These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.\n\nWe enrol sick children 0 to 59 months of age attending government primary care facilities a pragmatic parallel group, superiority cluster randomised controlled trial (RCT). Primary care facilities randomly are allocated (1:1) in India to pulse oximetry or control, and (1:1:1) in Tanzania to pulse oximetry plus CDSA, pulse oximetry, or control. Interventions are implemented with a package of training on the use of devices and refresher IMCI, supportive supervision, operational support and community engagement. IMCI refresher training is provided to all arms.\n\nProviders at intervention facilities are provided with handheld, UNICEF-approved, pulse oximeters along with guidance and training in line with government-approved criteria. In Tanzania, healthcare providers are advised to measure oxygen saturation (SpO2) on all children under 2 months of age, all children 2 to 59 months of age with cough or difficulty breathing or with signs of moderate or severe disease based on Integrated Management of Childhood Illness (IMCI); in India, healthcare providers are advised to measure oxygen saturation for all sick children. Providers are advised to urgently refer children with SpO2 \\<90%. The tablet-based CDSA provides step-by-step support to healthcare providers through consultations, providing national guideline-based recommendations on assessment, diagnosis and treatment based tailored to the individual child based on information entered by the provider. Following training, providers are advised to use CDSA for all consultations with sick children under 5 years of age.\n\nSociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28. Two primary outcomes are assessed for the RCT: severe complications by Day 7 (mortality and 'secondary hospitalisations' i.e. delayed ≥24 hours from the Day 0 consultation, or without referral); and 'primary' hospitalisations (within 24hrs the Day 0 consultation and with referral). Secondary outcomes for the RCT, relating to hypoxaemia, referral, antimicrobial prescription, follow-up, health status, are further detailed in the attached full protocol and statistical analysis plan available.\n\nThe RCT sample size was estimated based on planned enrolment over 12 months and ability to detect a ≥30% decrease in severe complications (from 1.1%22) and ≥30% increase in primary hospitalisations (from 1.5%, based on facility estimates) for each arm compared to control with 80% power, 0.05 alpha per arm, and intra-cluster correlation coefficient (ICC) of 0.00147. Anticipated feasible enrolment rates were based on DHIS2 and facility data. In Tanzania, 22 clusters per arm, each recruiting an average of 1680 children, were estimated to be needed (total 110,880). In India, 40 clusters per arm, each recruiting an average of 510 children, were estimated to be needed (total 40,800).\n\nStudy approval has been granted by all relevant institutional review boards, national and WHO ethical review committees. Findings will be shared with communities, healthcare providers, Ministries of Health and other local, national and international stakeholders to facilitate evidence-based decision-making on scale-up.",
+      "evidence_sentences": [
+        "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.",
+        "These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.",
+        "Sociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2023-10-30",
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT04910750",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04910750",
+            "orgStudyIdInfo": {
+              "id": "ERC.0003405"
+            },
+            "organization": {
+              "fullName": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Tools for the Integrated Management of Childhood Illness (TIMCI): Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care",
+            "officialTitle": "Tools for the Integrated Management of Childhood Illness: Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care - Pragmatic Cluster Randomised Controlled Trial, With Embedded Mixed Methods, Cost & Cost-effectiveness Studies in India and Tanzania",
+            "acronym": "TIMCI"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2022-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-07-05",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2021-05-27",
+            "studyFirstSubmitQcDate": "2021-05-27",
+            "studyFirstPostDateStruct": {
+              "date": "2021-06-02",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2023-10-30",
+            "lastUpdatePostDateStruct": {
+              "date": "2023-10-31",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Ifakara Health Institute",
+                "class": "OTHER"
+              },
+              {
+                "name": "King George's Medical University",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Waterloo",
+                "class": "OTHER"
+              },
+              {
+                "name": "PATH",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": true,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.\n\nThe multi-country, multi-method evaluation aims to generate evidence on the health and quality of care impact, operational priorities, cost and cost-effectiveness of introducing these tools to facilitate national and international decision-making on scale-up.",
+            "detailedDescription": "This registry entry describes the pragmatic cluster randomised controlled trials (RCTs) conducted in India and Tanzania. In Kenya and Senegal, quasi-experimental pre-post studies are conducted (NCT05065320). These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.\n\nWe enrol sick children 0 to 59 months of age attending government primary care facilities a pragmatic parallel group, superiority cluster randomised controlled trial (RCT). Primary care facilities randomly are allocated (1:1) in India to pulse oximetry or control, and (1:1:1) in Tanzania to pulse oximetry plus CDSA, pulse oximetry, or control. Interventions are implemented with a package of training on the use of devices and refresher IMCI, supportive supervision, operational support and community engagement. IMCI refresher training is provided to all arms.\n\nProviders at intervention facilities are provided with handheld, UNICEF-approved, pulse oximeters along with guidance and training in line with government-approved criteria. In Tanzania, healthcare providers are advised to measure oxygen saturation (SpO2) on all children under 2 months of age, all children 2 to 59 months of age with cough or difficulty breathing or with signs of moderate or severe disease based on Integrated Management of Childhood Illness (IMCI); in India, healthcare providers are advised to measure oxygen saturation for all sick children. Providers are advised to urgently refer children with SpO2 \\<90%. The tablet-based CDSA provides step-by-step support to healthcare providers through consultations, providing national guideline-based recommendations on assessment, diagnosis and treatment based tailored to the individual child based on information entered by the provider. Following training, providers are advised to use CDSA for all consultations with sick children under 5 years of age.\n\nSociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28. Two primary outcomes are assessed for the RCT: severe complications by Day 7 (mortality and 'secondary hospitalisations' i.e. delayed ≥24 hours from the Day 0 consultation, or without referral); and 'primary' hospitalisations (within 24hrs the Day 0 consultation and with referral). Secondary outcomes for the RCT, relating to hypoxaemia, referral, antimicrobial prescription, follow-up, health status, are further detailed in the attached full protocol and statistical analysis plan available.\n\nThe RCT sample size was estimated based on planned enrolment over 12 months and ability to detect a ≥30% decrease in severe complications (from 1.1%22) and ≥30% increase in primary hospitalisations (from 1.5%, based on facility estimates) for each arm compared to control with 80% power, 0.05 alpha per arm, and intra-cluster correlation coefficient (ICC) of 0.00147. Anticipated feasible enrolment rates were based on DHIS2 and facility data. In Tanzania, 22 clusters per arm, each recruiting an average of 1680 children, were estimated to be needed (total 110,880). In India, 40 clusters per arm, each recruiting an average of 510 children, were estimated to be needed (total 40,800).\n\nStudy approval has been granted by all relevant institutional review boards, national and WHO ethical review committees. Findings will be shared with communities, healthcare providers, Ministries of Health and other local, national and international stakeholders to facilitate evidence-based decision-making on scale-up."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Pneumonia",
+              "Primary Health Care",
+              "Child Health",
+              "Hypoxia",
+              "Referral and Consultation",
+              "Decision Support Systems, Clinical",
+              "Oxymetry"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "BASIC_SCIENCE",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 167517,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 1 will be provided with handheld pulse oximeters and tablet-based clinical decision support algorithms, with pulse oximetry, CDSA and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry",
+                  "Device: Clinical Decision Support Algorithm"
+                ]
+              },
+              {
+                "label": "Intervention Arm 2 - Pulse oximetry alone",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 2 will be provided with handheld pulse oximeters and paper-based guidance (pulse oximetry job aid and IMCI chart booklet integrating pulse oximetry), with pulse oximetry and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry"
+                ]
+              },
+              {
+                "label": "Control Arm - Routine Primary Health Care",
+                "type": "NO_INTERVENTION",
+                "description": "Facilities in the control arm will be provided with IMCI refresher training"
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Pulse oximetry",
+                "description": "Pulse oximeters are a non-invasive, accurate and easy to use method of evaluating blood oxygen saturation",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                  "Intervention Arm 2 - Pulse oximetry alone"
+                ]
+              },
+              {
+                "type": "DEVICE",
+                "name": "Clinical Decision Support Algorithm",
+                "description": "Tablet-based clinical decision support algorithms, based on guidelines for the assessment and management of sick children under 5 years of age at primary care",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Proportion of children with a severe complication (death or secondary hospitalisation) by Day 7",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children admitted to hospital within 24 hours of the Day 0 primary care consultation and as a result of a referral",
+                "description": "This is used as a proxy for 'appropriate referral' of children, as those with severe disease should generally be admitted to hospital. The denominator for this outcomes is all children enrolled in the study, rather than only referred children. This is because the proportion of referred children that are admitted may be high in routine care, in the context of an inappropriately low referral rate. The aim of the intervention is therefore to increase the overall referral rate of children with severe disease. Hospital admission is chosen as the proxy of severe disease rather than using primary care classification of severe disease, as there are inadequacies in the classification of severe disease in routine practice.\n\nA child will be considered admitted to hospital 24hrs of Day0 consultation if the date of hospitalization is the same as Day0 date or is one day after Day0 date.",
+                "timeFrame": "From enrolment up to 1 day after"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Proportion of children with severe complication (death or secondary hospitalisation) by Day 28",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 28 days after"
+              },
+              {
+                "measure": "Proportion of children cured (defined as caregiver reported recovery from illness) by Day 7",
+                "description": "The denominator will be all children recruited. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children referred by a primary care healthcare provider to a higher level of care (either to a hospital or to an inpatient part of a larger primary healthcare facility) at Day 0 consultation",
+                "description": "The denominator will be all children recruited. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children who completed referral, as reported at day 7 follow-up",
+                "description": "Only urgent referrals will be considered. A referral will be considered completed if a child attended a hospital, whether was admitted or not. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children with non-severe disease referred to a higher level of care on Day 0",
+                "description": "Only urgent referrals will be considered. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Average length of stay (in days) of children admitted to hospital",
+                "description": "If a child is hospitalised twice, the first hospitalization will be used and second hospitalizations will be reported separately. The denominator will be all hospitalised children. This is not a time-to-event measure, as it will be analysed as a continuous variable.",
+                "timeFrame": "From hospital admission to discharge"
+              },
+              {
+                "measure": "Proportion of children prescribed an antibiotic at Day 0",
+                "description": "Only antibacterials for systemic use will be taken into account for the definition of antibiotics. All children recruited will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children prescribed a diagnosis-appropriate antibiotic",
+                "description": "Appropriateness of antibiotic prescription in relation to diagnosis will be evaluated as:\n\n* diagnosis for which a systemic antibiotic was indicated and a systemic antibiotic was prescribed\n* diagnosis for which a systemic antibiotic was not indicated and systemic antibiotic was prescribed\n* first-line (or second-line) antibiotics were prescribed according to recommendations for IMCI diagnoses for which specific antibiotic(s)are indicated\n\nDiagnoses will be classified according to whether systemic antibiotics are indicated, based on IMCI and other relevant national guidelines as used for the CDSA.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of febrile children tested for malaria at Day 0",
+                "description": "A child will be considered to be febrile if history of fever was reported by the caregiver before the consultation or temperature was recorded to be above or equal 37.5 C°. Only febrile children will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria positive children prescribed an antimalarial",
+                "description": "Only children with a positive malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria negative children prescribed an antimalarial",
+                "description": "Only children with a negative malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of untested children prescribed an antimalarial",
+                "description": "Only children untested for malaria will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe, moderate and mild hypoxaemia, adjusted for sites at high altitude",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with hypoxaemia (according to differing cut-offs) with severe complication",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%, spurious values and missing values. Each SpO2 group will be the denominator of each proportion.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe hypoxaemia not meeting any other clinical criteria for severe disease",
+                "description": "Country's specific cut-off for severe hypoxaemia will be used. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children referred with hypoxaemia who receive oxygen at hospital",
+                "description": "All children recruited will be in the denominator. Referral and hypoxaemia are assessed at Day0 consultation. Oxygen use at hospital is only available for hospitalised children from hospital records. At the time of enrolment hypoxaemia is measured and referral advise might be issued. Whether the child received oxygen or not at hospital is evaluated based on hospital registry and it refers to oxygen given at arrival to hospital. The specified time frame takes into account that the outcome is evaluated considering information recorded at different time points.",
+                "timeFrame": "At time of enrolment and at time of hospitalization"
+              },
+              {
+                "measure": "Proportion of children attending scheduled follow-up at the same facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children presenting for unscheduled follow-up to any health facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Individual child inclusion:\n\n* Children 0 - 59 months for whom caregivers provide consent\n* Consulting for an illness, or reported to be unwell when attending for a routine visit (e.g. vaccination, growth or chronic disease monitoring)\n\nIndividual child exclusion:\n\n* Children in the immediate post-natal period or first day of life\n* Attending for a consultation related to trauma only (including new and follow-up presentations for burns, injuries, wounds)\n* Admitted within an inpatient part of the facility (including neonates delivered at the facility admitted with their mother)\n* Enrolled in the study within the preceding 28 days at any study facility",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Day",
+            "maximumAge": "5 Years",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Kaspar Wyss, Prof, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Valérie D'Acremont, MD, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Bukemba",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igombe 60",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Imalamihayo",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Kazaroho",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Seleli",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Ulyankulu",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Uyowa",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igalagalilo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kagunga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kamanga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kasungamile",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mulaga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mwabaluhi",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Nyamazugo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema Secondary",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Duga",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kange",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kisosora",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kwanjekanyota",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Machui",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mafuriko",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Magaoni",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mpirani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mwakidila",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Ngamiani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Nguvumali",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40686675",
+                "type": "DERIVED",
+                "citation": "Beynon F, Mhalu G, Kumar D, Cicconi S, Langet H, Levine GA, Agarwal G, Festo C, Glass TR, Jacob A, Kumar G, Lwambura S, Matata L, Mkopi A, Moshiro R, Schaer F, Bandi V, Bohle LF, Emmanuel-Fabula M, Horlacher M, Horton S, Maiba J, Makawia S, Masanja N, Mjungu D, Mtebene IE, Odek O, Oliveira V, Pantjushenko E, Reus E, Ruffo M, Sharma K, Storey H, Tyagi M, D'Acremont V, Masanja H, Awasthi S, Wyss K; TIMCI Collaborator Group. Effectiveness of introducing pulse oximetry and clinical decision support algorithms for the management of sick children in primary care in India and Tanzania on hospitalisation and mortality: the TIMCI pragmatic cluster randomised controlled trial. EClinicalMedicine. 2025 Jul 3;85:103306. doi: 10.1016/j.eclinm.2025.103306. eCollection 2025 Jul."
+              },
+              {
+                "pmid": "38683158",
+                "type": "DERIVED",
+                "citation": "Beynon F, Langet H, Bohle LF, Awasthi S, Ndiaye O, Machoki M'Imunya J, Masanja H, Horton S, Ba M, Cicconi S, Emmanuel-Fabula M, Faye PM, Glass TR, Keitel K, Kumar D, Kumar G, Levine GA, Matata L, Mhalu G, Miheso A, Mjungu D, Njiri F, Reus E, Ruffo M, Schar F, Sharma K, Storey HL, Masanja I, Wyss K, D'Acremont V; TIMCI Collaborator Group. The Tools for Integrated Management of Childhood Illness (TIMCI) study protocol: a multi-country mixed-method evaluation of pulse oximetry and clinical decision support algorithms. Glob Health Action. 2024 Dec 31;17(1):2326253. doi: 10.1080/16549716.2024.2326253. Epub 2024 Apr 29."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Individual participant data will be shared that underlie the RCT outcomes as described in the study protocol, after anonymisation.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Individual participant data will be available immediately following the cross-country publication of the RCT study outcomes. No end date.",
+            "accessCriteria": "Anyone who wishes to access the data. Data will be available indefinitely on the TIMCI project space on Zenodo",
+            "url": "http://zenodo.org/communities/timci"
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "Prot",
+                "hasProtocol": true,
+                "hasSap": false,
+                "hasIcf": false,
+                "label": "Study Protocol",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "Prot_000.pdf",
+                "size": 4456723
+              },
+              {
+                "typeAbbrev": "SAP",
+                "hasProtocol": false,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Statistical Analysis Plan",
+                "date": "2023-04-05",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "SAP_001.pdf",
+                "size": 2258669
+              },
+              {
+                "typeAbbrev": "ICF",
+                "hasProtocol": false,
+                "hasSap": false,
+                "hasIcf": true,
+                "label": "Informed Consent Form",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-14T05:21",
+                "filename": "ICF_002.pdf",
+                "size": 1774642
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15",
+            "submissionTracking": {
+              "estimatedResultsFirstSubmitDate": "2025-01-17",
+              "submissionInfos": [
+                {
+                  "releaseDate": "2025-01-17",
+                  "resetDate": "2025-02-11",
+                  "mcpReleaseN": 6
+                },
+                {
+                  "releaseDate": "2025-05-27",
+                  "resetDate": "2025-06-11",
+                  "mcpReleaseN": 7
+                }
+              ]
+            }
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D011014",
+                "term": "Pneumonia"
+              },
+              {
+                "id": "D000860",
+                "term": "Hypoxia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012141",
+                "term": "Respiratory Tract Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D012818",
+                "term": "Signs and Symptoms, Respiratory"
+              },
+              {
+                "id": "D012816",
+                "term": "Signs and Symptoms"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010092",
+                "term": "Oximetry"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D001784",
+                "term": "Blood Gas Analysis"
+              },
+              {
+                "id": "D001774",
+                "term": "Blood Chemical Analysis"
+              },
+              {
+                "id": "D019963",
+                "term": "Clinical Chemistry Tests"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D006334",
+                "term": "Heart Function Tests"
+              },
+              {
+                "id": "D003935",
+                "term": "Diagnostic Techniques, Cardiovascular"
+              },
+              {
+                "id": "D012129",
+                "term": "Respiratory Function Tests"
+              },
+              {
+                "id": "D003948",
+                "term": "Diagnostic Techniques, Respiratory System"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04910750",
+            "orgStudyIdInfo": {
+              "id": "ERC.0003405"
+            },
+            "organization": {
+              "fullName": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Tools for the Integrated Management of Childhood Illness (TIMCI): Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care",
+            "officialTitle": "Tools for the Integrated Management of Childhood Illness: Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care - Pragmatic Cluster Randomised Controlled Trial, With Embedded Mixed Methods, Cost & Cost-effectiveness Studies in India and Tanzania",
+            "acronym": "TIMCI"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2022-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-07-05",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2021-05-27",
+            "studyFirstSubmitQcDate": "2021-05-27",
+            "studyFirstPostDateStruct": {
+              "date": "2021-06-02",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2023-10-30",
+            "lastUpdatePostDateStruct": {
+              "date": "2023-10-31",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Ifakara Health Institute",
+                "class": "OTHER"
+              },
+              {
+                "name": "King George's Medical University",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Waterloo",
+                "class": "OTHER"
+              },
+              {
+                "name": "PATH",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": true,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.\n\nThe multi-country, multi-method evaluation aims to generate evidence on the health and quality of care impact, operational priorities, cost and cost-effectiveness of introducing these tools to facilitate national and international decision-making on scale-up.",
+            "detailedDescription": "This registry entry describes the pragmatic cluster randomised controlled trials (RCTs) conducted in India and Tanzania. In Kenya and Senegal, quasi-experimental pre-post studies are conducted (NCT05065320). These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.\n\nWe enrol sick children 0 to 59 months of age attending government primary care facilities a pragmatic parallel group, superiority cluster randomised controlled trial (RCT). Primary care facilities randomly are allocated (1:1) in India to pulse oximetry or control, and (1:1:1) in Tanzania to pulse oximetry plus CDSA, pulse oximetry, or control. Interventions are implemented with a package of training on the use of devices and refresher IMCI, supportive supervision, operational support and community engagement. IMCI refresher training is provided to all arms.\n\nProviders at intervention facilities are provided with handheld, UNICEF-approved, pulse oximeters along with guidance and training in line with government-approved criteria. In Tanzania, healthcare providers are advised to measure oxygen saturation (SpO2) on all children under 2 months of age, all children 2 to 59 months of age with cough or difficulty breathing or with signs of moderate or severe disease based on Integrated Management of Childhood Illness (IMCI); in India, healthcare providers are advised to measure oxygen saturation for all sick children. Providers are advised to urgently refer children with SpO2 \\<90%. The tablet-based CDSA provides step-by-step support to healthcare providers through consultations, providing national guideline-based recommendations on assessment, diagnosis and treatment based tailored to the individual child based on information entered by the provider. Following training, providers are advised to use CDSA for all consultations with sick children under 5 years of age.\n\nSociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28. Two primary outcomes are assessed for the RCT: severe complications by Day 7 (mortality and 'secondary hospitalisations' i.e. delayed ≥24 hours from the Day 0 consultation, or without referral); and 'primary' hospitalisations (within 24hrs the Day 0 consultation and with referral). Secondary outcomes for the RCT, relating to hypoxaemia, referral, antimicrobial prescription, follow-up, health status, are further detailed in the attached full protocol and statistical analysis plan available.\n\nThe RCT sample size was estimated based on planned enrolment over 12 months and ability to detect a ≥30% decrease in severe complications (from 1.1%22) and ≥30% increase in primary hospitalisations (from 1.5%, based on facility estimates) for each arm compared to control with 80% power, 0.05 alpha per arm, and intra-cluster correlation coefficient (ICC) of 0.00147. Anticipated feasible enrolment rates were based on DHIS2 and facility data. In Tanzania, 22 clusters per arm, each recruiting an average of 1680 children, were estimated to be needed (total 110,880). In India, 40 clusters per arm, each recruiting an average of 510 children, were estimated to be needed (total 40,800).\n\nStudy approval has been granted by all relevant institutional review boards, national and WHO ethical review committees. Findings will be shared with communities, healthcare providers, Ministries of Health and other local, national and international stakeholders to facilitate evidence-based decision-making on scale-up."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Pneumonia",
+              "Primary Health Care",
+              "Child Health",
+              "Hypoxia",
+              "Referral and Consultation",
+              "Decision Support Systems, Clinical",
+              "Oxymetry"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "BASIC_SCIENCE",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 167517,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 1 will be provided with handheld pulse oximeters and tablet-based clinical decision support algorithms, with pulse oximetry, CDSA and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry",
+                  "Device: Clinical Decision Support Algorithm"
+                ]
+              },
+              {
+                "label": "Intervention Arm 2 - Pulse oximetry alone",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 2 will be provided with handheld pulse oximeters and paper-based guidance (pulse oximetry job aid and IMCI chart booklet integrating pulse oximetry), with pulse oximetry and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry"
+                ]
+              },
+              {
+                "label": "Control Arm - Routine Primary Health Care",
+                "type": "NO_INTERVENTION",
+                "description": "Facilities in the control arm will be provided with IMCI refresher training"
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Pulse oximetry",
+                "description": "Pulse oximeters are a non-invasive, accurate and easy to use method of evaluating blood oxygen saturation",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                  "Intervention Arm 2 - Pulse oximetry alone"
+                ]
+              },
+              {
+                "type": "DEVICE",
+                "name": "Clinical Decision Support Algorithm",
+                "description": "Tablet-based clinical decision support algorithms, based on guidelines for the assessment and management of sick children under 5 years of age at primary care",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Proportion of children with a severe complication (death or secondary hospitalisation) by Day 7",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children admitted to hospital within 24 hours of the Day 0 primary care consultation and as a result of a referral",
+                "description": "This is used as a proxy for 'appropriate referral' of children, as those with severe disease should generally be admitted to hospital. The denominator for this outcomes is all children enrolled in the study, rather than only referred children. This is because the proportion of referred children that are admitted may be high in routine care, in the context of an inappropriately low referral rate. The aim of the intervention is therefore to increase the overall referral rate of children with severe disease. Hospital admission is chosen as the proxy of severe disease rather than using primary care classification of severe disease, as there are inadequacies in the classification of severe disease in routine practice.\n\nA child will be considered admitted to hospital 24hrs of Day0 consultation if the date of hospitalization is the same as Day0 date or is one day after Day0 date.",
+                "timeFrame": "From enrolment up to 1 day after"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Proportion of children with severe complication (death or secondary hospitalisation) by Day 28",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 28 days after"
+              },
+              {
+                "measure": "Proportion of children cured (defined as caregiver reported recovery from illness) by Day 7",
+                "description": "The denominator will be all children recruited. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children referred by a primary care healthcare provider to a higher level of care (either to a hospital or to an inpatient part of a larger primary healthcare facility) at Day 0 consultation",
+                "description": "The denominator will be all children recruited. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children who completed referral, as reported at day 7 follow-up",
+                "description": "Only urgent referrals will be considered. A referral will be considered completed if a child attended a hospital, whether was admitted or not. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children with non-severe disease referred to a higher level of care on Day 0",
+                "description": "Only urgent referrals will be considered. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Average length of stay (in days) of children admitted to hospital",
+                "description": "If a child is hospitalised twice, the first hospitalization will be used and second hospitalizations will be reported separately. The denominator will be all hospitalised children. This is not a time-to-event measure, as it will be analysed as a continuous variable.",
+                "timeFrame": "From hospital admission to discharge"
+              },
+              {
+                "measure": "Proportion of children prescribed an antibiotic at Day 0",
+                "description": "Only antibacterials for systemic use will be taken into account for the definition of antibiotics. All children recruited will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children prescribed a diagnosis-appropriate antibiotic",
+                "description": "Appropriateness of antibiotic prescription in relation to diagnosis will be evaluated as:\n\n* diagnosis for which a systemic antibiotic was indicated and a systemic antibiotic was prescribed\n* diagnosis for which a systemic antibiotic was not indicated and systemic antibiotic was prescribed\n* first-line (or second-line) antibiotics were prescribed according to recommendations for IMCI diagnoses for which specific antibiotic(s)are indicated\n\nDiagnoses will be classified according to whether systemic antibiotics are indicated, based on IMCI and other relevant national guidelines as used for the CDSA.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of febrile children tested for malaria at Day 0",
+                "description": "A child will be considered to be febrile if history of fever was reported by the caregiver before the consultation or temperature was recorded to be above or equal 37.5 C°. Only febrile children will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria positive children prescribed an antimalarial",
+                "description": "Only children with a positive malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria negative children prescribed an antimalarial",
+                "description": "Only children with a negative malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of untested children prescribed an antimalarial",
+                "description": "Only children untested for malaria will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe, moderate and mild hypoxaemia, adjusted for sites at high altitude",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with hypoxaemia (according to differing cut-offs) with severe complication",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%, spurious values and missing values. Each SpO2 group will be the denominator of each proportion.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe hypoxaemia not meeting any other clinical criteria for severe disease",
+                "description": "Country's specific cut-off for severe hypoxaemia will be used. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children referred with hypoxaemia who receive oxygen at hospital",
+                "description": "All children recruited will be in the denominator. Referral and hypoxaemia are assessed at Day0 consultation. Oxygen use at hospital is only available for hospitalised children from hospital records. At the time of enrolment hypoxaemia is measured and referral advise might be issued. Whether the child received oxygen or not at hospital is evaluated based on hospital registry and it refers to oxygen given at arrival to hospital. The specified time frame takes into account that the outcome is evaluated considering information recorded at different time points.",
+                "timeFrame": "At time of enrolment and at time of hospitalization"
+              },
+              {
+                "measure": "Proportion of children attending scheduled follow-up at the same facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children presenting for unscheduled follow-up to any health facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Individual child inclusion:\n\n* Children 0 - 59 months for whom caregivers provide consent\n* Consulting for an illness, or reported to be unwell when attending for a routine visit (e.g. vaccination, growth or chronic disease monitoring)\n\nIndividual child exclusion:\n\n* Children in the immediate post-natal period or first day of life\n* Attending for a consultation related to trauma only (including new and follow-up presentations for burns, injuries, wounds)\n* Admitted within an inpatient part of the facility (including neonates delivered at the facility admitted with their mother)\n* Enrolled in the study within the preceding 28 days at any study facility",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Day",
+            "maximumAge": "5 Years",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Kaspar Wyss, Prof, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Valérie D'Acremont, MD, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Bukemba",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igombe 60",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Imalamihayo",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Kazaroho",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Seleli",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Ulyankulu",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Uyowa",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igalagalilo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kagunga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kamanga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kasungamile",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mulaga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mwabaluhi",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Nyamazugo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema Secondary",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Duga",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kange",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kisosora",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kwanjekanyota",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Machui",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mafuriko",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Magaoni",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mpirani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mwakidila",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Ngamiani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Nguvumali",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40686675",
+                "type": "DERIVED",
+                "citation": "Beynon F, Mhalu G, Kumar D, Cicconi S, Langet H, Levine GA, Agarwal G, Festo C, Glass TR, Jacob A, Kumar G, Lwambura S, Matata L, Mkopi A, Moshiro R, Schaer F, Bandi V, Bohle LF, Emmanuel-Fabula M, Horlacher M, Horton S, Maiba J, Makawia S, Masanja N, Mjungu D, Mtebene IE, Odek O, Oliveira V, Pantjushenko E, Reus E, Ruffo M, Sharma K, Storey H, Tyagi M, D'Acremont V, Masanja H, Awasthi S, Wyss K; TIMCI Collaborator Group. Effectiveness of introducing pulse oximetry and clinical decision support algorithms for the management of sick children in primary care in India and Tanzania on hospitalisation and mortality: the TIMCI pragmatic cluster randomised controlled trial. EClinicalMedicine. 2025 Jul 3;85:103306. doi: 10.1016/j.eclinm.2025.103306. eCollection 2025 Jul."
+              },
+              {
+                "pmid": "38683158",
+                "type": "DERIVED",
+                "citation": "Beynon F, Langet H, Bohle LF, Awasthi S, Ndiaye O, Machoki M'Imunya J, Masanja H, Horton S, Ba M, Cicconi S, Emmanuel-Fabula M, Faye PM, Glass TR, Keitel K, Kumar D, Kumar G, Levine GA, Matata L, Mhalu G, Miheso A, Mjungu D, Njiri F, Reus E, Ruffo M, Schar F, Sharma K, Storey HL, Masanja I, Wyss K, D'Acremont V; TIMCI Collaborator Group. The Tools for Integrated Management of Childhood Illness (TIMCI) study protocol: a multi-country mixed-method evaluation of pulse oximetry and clinical decision support algorithms. Glob Health Action. 2024 Dec 31;17(1):2326253. doi: 10.1080/16549716.2024.2326253. Epub 2024 Apr 29."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Individual participant data will be shared that underlie the RCT outcomes as described in the study protocol, after anonymisation.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Individual participant data will be available immediately following the cross-country publication of the RCT study outcomes. No end date.",
+            "accessCriteria": "Anyone who wishes to access the data. Data will be available indefinitely on the TIMCI project space on Zenodo",
+            "url": "http://zenodo.org/communities/timci"
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "Prot",
+                "hasProtocol": true,
+                "hasSap": false,
+                "hasIcf": false,
+                "label": "Study Protocol",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "Prot_000.pdf",
+                "size": 4456723
+              },
+              {
+                "typeAbbrev": "SAP",
+                "hasProtocol": false,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Statistical Analysis Plan",
+                "date": "2023-04-05",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "SAP_001.pdf",
+                "size": 2258669
+              },
+              {
+                "typeAbbrev": "ICF",
+                "hasProtocol": false,
+                "hasSap": false,
+                "hasIcf": true,
+                "label": "Informed Consent Form",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-14T05:21",
+                "filename": "ICF_002.pdf",
+                "size": 1774642
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15",
+            "submissionTracking": {
+              "estimatedResultsFirstSubmitDate": "2025-01-17",
+              "submissionInfos": [
+                {
+                  "releaseDate": "2025-01-17",
+                  "resetDate": "2025-02-11",
+                  "mcpReleaseN": 6
+                },
+                {
+                  "releaseDate": "2025-05-27",
+                  "resetDate": "2025-06-11",
+                  "mcpReleaseN": 7
+                }
+              ]
+            }
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D011014",
+                "term": "Pneumonia"
+              },
+              {
+                "id": "D000860",
+                "term": "Hypoxia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012141",
+                "term": "Respiratory Tract Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D012818",
+                "term": "Signs and Symptoms, Respiratory"
+              },
+              {
+                "id": "D012816",
+                "term": "Signs and Symptoms"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010092",
+                "term": "Oximetry"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D001784",
+                "term": "Blood Gas Analysis"
+              },
+              {
+                "id": "D001774",
+                "term": "Blood Chemical Analysis"
+              },
+              {
+                "id": "D019963",
+                "term": "Clinical Chemistry Tests"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D006334",
+                "term": "Heart Function Tests"
+              },
+              {
+                "id": "D003935",
+                "term": "Diagnostic Techniques, Cardiovascular"
+              },
+              {
+                "id": "D012129",
+                "term": "Respiratory Function Tests"
+              },
+              {
+                "id": "D003948",
+                "term": "Diagnostic Techniques, Respiratory System"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

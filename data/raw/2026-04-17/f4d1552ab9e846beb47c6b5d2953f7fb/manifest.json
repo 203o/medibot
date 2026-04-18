@@ -1,0 +1,79 @@
+{
+  "run_id": "f4d1552ab9e846beb47c6b5d2953f7fb",
+  "stored_at": "2026-04-17T18:34:29+00:00",
+  "query": "lung cancer check there evidence that canada",
+  "query_fallbacks": [
+    "lung cancer check there evidence that canada",
+    "(lung cancer AND epidemiology AND wildlife AND Canada)",
+    "(lung cancer AND prevalence AND non-human AND Canada)",
+    "(lung cancer AND animal models AND Canada)",
+    "(lung cancer AND zoonotic potential AND Canada)",
+    "lung cancer check there evidence that",
+    "lung cancer check there evidence treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer check there evidence that canada",
+    "lung cancer check there evidence that",
+    "lung cancer check there evidence treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "(lung cancer AND epidemiology AND wildlife AND Canada)",
+    "(lung cancer AND prevalence AND non-human AND Canada)",
+    "(lung cancer AND animal models AND Canada)",
+    "(lung cancer AND zoonotic potential AND Canada)"
+  ],
+  "keywords": [
+    "lung cancer",
+    "check",
+    "there",
+    "evidence",
+    "that",
+    "lung",
+    "cancer",
+    "affects",
+    "wild",
+    "animals",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 11,
+    "clinicaltrials": 1,
+    "openalex": 30,
+    "semantic_hits": 57,
+    "indexed_chunks": 3
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(lung cancer AND epidemiology AND wildlife AND Canada)",
+      "(lung cancer AND prevalence AND non-human AND Canada)",
+      "(lung cancer AND animal models AND Canada)",
+      "(lung cancer AND zoonotic potential AND Canada)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\f4d1552ab9e846beb47c6b5d2953f7fb\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\f4d1552ab9e846beb47c6b5d2953f7fb\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\f4d1552ab9e846beb47c6b5d2953f7fb\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\f4d1552ab9e846beb47c6b5d2953f7fb\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\f4d1552ab9e846beb47c6b5d2953f7fb\\combined.records.json"
+  }
+}

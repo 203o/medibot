@@ -1,0 +1,2407 @@
+{
+  "query": "malaria clinical guidance Kenya",
+  "query_fallbacks": [
+    "malaria clinical guidance Kenya",
+    "malaria epidemiology Kenya",
+    "Kenya malaria treatment guidelines",
+    "malaria disease burden in Kenya",
+    "Kenya malaria prevention strategies",
+    "malaria clinical guidance",
+    "malaria clinical guidance treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria clinical guidance Kenya",
+    "malaria clinical guidance",
+    "malaria clinical guidance treatment",
+    "malaria kenya",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology Kenya",
+    "Kenya malaria treatment guidelines",
+    "malaria disease burden in Kenya",
+    "Kenya malaria prevention strategies"
+  ],
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology Kenya",
+      "Kenya malaria treatment guidelines",
+      "malaria disease burden in Kenya",
+      "Kenya malaria prevention strategies"
+    ],
+    "reason": "ok"
+  },
+  "keywords": [
+    "malaria",
+    "clinical",
+    "guidance",
+    "kenya"
+  ],
+  "medical_context": {
+    "medical_context": {
+      "disease": "malaria",
+      "intent": "clinical guidance",
+      "location": "Kenya"
+    },
+    "max_results": 30,
+    "sources": [
+      "pubmed",
+      "clinicaltrials",
+      "openalex"
+    ]
+  },
+  "pubmed_records": [
+    {
+      "pmid": "21777441",
+      "title": "Treatment of African children with severe malaria - towards evidence-informed clinical practice using GRADE.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Severe malaria is a major contributor of deaths in African children up to five years of age. One valuable tool to support health workers in the management of diseases is clinical practice guidelines (CPGs) developed using robust methods. A critical assessment of the World Health Organization (WHO) and Kenyan paediatric malaria treatment guidelines with quinine was undertaken, with a focus on the quality of the evidence and transparency of the shift from evidence to recommendations.",
+        "Systematic reviews of the literature were conducted using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) tool to appraise included studies. The findings were used to evaluate the WHO and Kenyan recommendations for the management of severe childhood malaria.",
+        "The WHO 2010 malaria guidance on severe malaria in children, which informed the Kenyan guidelines, only evaluated the evidence on one topic on paediatric care using the GRADE tool. Using the GRADE tool, this work explicitly demonstrated that despite the established use of quinine in the management of paediatric cases of severe malaria for decades, low or very low quality evidence of important outcomes, but not critical outcomes such as mortality, have informed national and international guidance on the paediatric quinine dosing, route of administration and adverse effects.",
+        "Despite the foreseeable shift to artesunate as the primary drug for treatment of severe childhood malaria, the findings reported here reflect that the particulars of quinine therapeutics for the management of severe malaria in African children have historically been a neglected research priority. This work supports the application of the GRADE tool to make transparent recommendations and to inform advocacy efforts for a greater research focus in priority areas in paediatric care in Africa and other low-income settings."
+      ],
+      "abstract": "Severe malaria is a major contributor of deaths in African children up to five years of age. One valuable tool to support health workers in the management of diseases is clinical practice guidelines (CPGs) developed using robust methods. A critical assessment of the World Health Organization (WHO) and Kenyan paediatric malaria treatment guidelines with quinine was undertaken, with a focus on the quality of the evidence and transparency of the shift from evidence to recommendations.\n\nSystematic reviews of the literature were conducted using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) tool to appraise included studies. The findings were used to evaluate the WHO and Kenyan recommendations for the management of severe childhood malaria.\n\nThe WHO 2010 malaria guidance on severe malaria in children, which informed the Kenyan guidelines, only evaluated the evidence on one topic on paediatric care using the GRADE tool. Using the GRADE tool, this work explicitly demonstrated that despite the established use of quinine in the management of paediatric cases of severe malaria for decades, low or very low quality evidence of important outcomes, but not critical outcomes such as mortality, have informed national and international guidance on the paediatric quinine dosing, route of administration and adverse effects.\n\nDespite the foreseeable shift to artesunate as the primary drug for treatment of severe childhood malaria, the findings reported here reflect that the particulars of quinine therapeutics for the management of severe malaria in African children have historically been a neglected research priority. This work supports the application of the GRADE tool to make transparent recommendations and to inform advocacy efforts for a greater research focus in priority areas in paediatric care in Africa and other low-income settings.",
+      "evidence_sentences": [
+        "The WHO 2010 malaria guidance on severe malaria in children, which informed the Kenyan guidelines, only evaluated the evidence on one topic on paediatric care using the GRADE tool.",
+        "Using the GRADE tool, this work explicitly demonstrated that despite the established use of quinine in the management of paediatric cases of severe malaria for decades, low or very low quality evidence of important outcomes, but not critical outcomes such as mortality, have informed national and international guidance on the paediatric quinine dosing, route of administration and adverse effects.",
+        "A critical assessment of the World Health Organization (WHO) and Kenyan paediatric malaria treatment guidelines with quinine was undertaken, with a focus on the quality of the evidence and transparency of the shift from evidence to recommendations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Nyokabi Musila",
+        "Newton Opiyo",
+        "Mike English"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21777441/"
+    },
+    {
+      "pmid": "39614335",
+      "title": "\"If they take it without knowing, they will default…\": perceptions of targeted information transfer to promote adherence to intermittent preventive treatment with dihydroartemisinin-piperaquine for the prevention of malaria in pregnancy in western Kenya.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Increasing resistance to sulfadoxine-pyrimethamine (SP) threatens the effectiveness of intermittent preventive treatment (IPTp) to prevent malaria in pregnancy. Dihydroartemisinin-piperaquine (DP) is the most promising candidate to emerge from clinical trials, but requires a multi-day regimen. Despite being a single-dose regimen, coverage of IPTp-SP remains low, fuelling concerns about adherence to multi-day drug options. An implementation feasibility trial in routine antenatal care settings in western Kenya demonstrated that adherence to the multi-day DP regimen was improved when IPTp-DP was delivered with a targeted information transfer intervention that comprised healthcare provider training and communication tools to support delivery and uptake. This study explored healthcare provider and pregnant women perspectives to understand (1) how the targeted information transfer improved adherence to IPTp-DP and (2) if improved adherence to IPTp-DP influenced provider perceptions towards implementation feasibility of multi-day drug regimens for IPTp.",
+        "In-depth interviews were conducted with 64 healthcare providers and 64 pregnant women, selected using a convenience sampling approach from across the three trial arms: IPTp-DP+ (with intervention), IPTp-DP, and current standard of care IPTp-SP. Transcripts from healthcare providers and pregnant women were coded in Nvivo-12 using separate a priori frameworks that included components of the consolidated framework for implementation research. Thematic analysis was used to understand how the targeted information transfer affected adherence to IPTp-DP and how concerns about adherence might influence provider perceptions towards multi-day drug regimens for IPTp.",
+        "Adherence to IPTp-DP doses taken at home was compromised when women experienced unpleasant side effects. Pregnant women valued being given information about IPTp-DP, including potential side effects and how to manage them. Among providers in the IPTp-DP + arm, confidence in advising women on how to manage side effects increased, and they believed this guidance improved adherence. When concerns about adherence were reduced, providers in the IPTp-DP + arm were positive about implementation feasibility, whereas providers in the IPTp-SP arm remained focused on the dosing complexities and were less convinced of the feasibility of implementing IPTp-DP.",
+        "Healthcare provider confidence in advising women on how to minimize side effects was boosted through targeted information transfer, which was perceived to improve adherence to IPTp-DP. Policy makers are encouraged to consider supportive interventions that enhance provider confidence around adherence should they shift to multi-day drug regimens for IPTp."
+      ],
+      "abstract": "Increasing resistance to sulfadoxine-pyrimethamine (SP) threatens the effectiveness of intermittent preventive treatment (IPTp) to prevent malaria in pregnancy. Dihydroartemisinin-piperaquine (DP) is the most promising candidate to emerge from clinical trials, but requires a multi-day regimen. Despite being a single-dose regimen, coverage of IPTp-SP remains low, fuelling concerns about adherence to multi-day drug options. An implementation feasibility trial in routine antenatal care settings in western Kenya demonstrated that adherence to the multi-day DP regimen was improved when IPTp-DP was delivered with a targeted information transfer intervention that comprised healthcare provider training and communication tools to support delivery and uptake. This study explored healthcare provider and pregnant women perspectives to understand (1) how the targeted information transfer improved adherence to IPTp-DP and (2) if improved adherence to IPTp-DP influenced provider perceptions towards implementation feasibility of multi-day drug regimens for IPTp.\n\nIn-depth interviews were conducted with 64 healthcare providers and 64 pregnant women, selected using a convenience sampling approach from across the three trial arms: IPTp-DP+ (with intervention), IPTp-DP, and current standard of care IPTp-SP. Transcripts from healthcare providers and pregnant women were coded in Nvivo-12 using separate a priori frameworks that included components of the consolidated framework for implementation research. Thematic analysis was used to understand how the targeted information transfer affected adherence to IPTp-DP and how concerns about adherence might influence provider perceptions towards multi-day drug regimens for IPTp.\n\nAdherence to IPTp-DP doses taken at home was compromised when women experienced unpleasant side effects. Pregnant women valued being given information about IPTp-DP, including potential side effects and how to manage them. Among providers in the IPTp-DP + arm, confidence in advising women on how to manage side effects increased, and they believed this guidance improved adherence. When concerns about adherence were reduced, providers in the IPTp-DP + arm were positive about implementation feasibility, whereas providers in the IPTp-SP arm remained focused on the dosing complexities and were less convinced of the feasibility of implementing IPTp-DP.\n\nHealthcare provider confidence in advising women on how to minimize side effects was boosted through targeted information transfer, which was perceived to improve adherence to IPTp-DP. Policy makers are encouraged to consider supportive interventions that enhance provider confidence around adherence should they shift to multi-day drug regimens for IPTp.",
+      "evidence_sentences": [
+        "An implementation feasibility trial in routine antenatal care settings in western Kenya demonstrated that adherence to the multi-day DP regimen was improved when IPTp-DP was delivered with a targeted information transfer intervention that comprised healthcare provider training and communication tools to support delivery and uptake.",
+        "Increasing resistance to sulfadoxine-pyrimethamine (SP) threatens the effectiveness of intermittent preventive treatment (IPTp) to prevent malaria in pregnancy.",
+        "Among providers in the IPTp-DP + arm, confidence in advising women on how to manage side effects increased, and they believed this guidance improved adherence."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Jenna Hoyt",
+        "Hellen C Barsosio",
+        "Isdorah A Odero",
+        "Benson Omondi",
+        "Florence Achieng",
+        "Simon Kariuki",
+        "Jenny Hill",
+        "Jayne Webster"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39614335/"
+    },
+    {
+      "pmid": "29241618",
+      "title": "Appropriateness of clinical severity classification of new WHO childhood pneumonia guidance: a multi-hospital, retrospective, cohort study.",
+      "journal": "The Lancet. Global health",
+      "abstract_sections": [
+        "Management of pneumonia in many low-income and middle-income countries is based on WHO guidelines that classify children according to clinical signs that define thresholds of risk. We aimed to establish whether some children categorised as eligible for outpatient treatment might have a risk of death warranting their treatment in hospital.",
+        "We did a retrospective cohort study of children aged 2-59 months admitted to one of 14 hospitals in Kenya with pneumonia between March 1, 2014, and Feb 29, 2016, before revised WHO pneumonia guidelines were adopted in the country. We modelled associations with inpatient mortality using logistic regression and calculated absolute risks of mortality for presenting clinical features among children who would, as part of revised WHO pneumonia guidelines, be eligible for outpatient treatment (non-severe pneumonia).",
+        "We assessed 16 162 children who were admitted to hospital in this period. 832 (5%) of 16 031 children died. Among groups defined according to new WHO guidelines, 321 (3%) of 11 788 patients with non-severe pneumonia died compared with 488 (14%) of 3434 patients with severe pneumonia. Three characteristics were strongly associated with death of children retrospectively classified as having non-severe pneumonia: severe pallor (adjusted risk ratio 5·9, 95% CI 5·1-6·8), mild to moderate pallor (3·4, 3·0-3·8), and weight-for-age Z score (WAZ) less than -3 SD (3·8, 3·4-4·3). Additional factors that were independently associated with death were: WAZ less than -2 to -3 SD, age younger than 12 months, lower chest wall indrawing, respiratory rate of 70 breaths per min or more, female sex, admission to hospital in a malaria endemic region, moderate dehydration, and an axillary temperature of 39°C or more.",
+        "In settings of high mortality, WAZ less than -3 SD or any degree of pallor among children with non-severe pneumonia was associated with a clinically important risk of death. Our data suggest that admission to hospital should not be denied to children with these signs and we urge clinicians to consider these risk factors in addition to WHO criteria in their decision making.",
+        "Wellcome Trust."
+      ],
+      "abstract": "Management of pneumonia in many low-income and middle-income countries is based on WHO guidelines that classify children according to clinical signs that define thresholds of risk. We aimed to establish whether some children categorised as eligible for outpatient treatment might have a risk of death warranting their treatment in hospital.\n\nWe did a retrospective cohort study of children aged 2-59 months admitted to one of 14 hospitals in Kenya with pneumonia between March 1, 2014, and Feb 29, 2016, before revised WHO pneumonia guidelines were adopted in the country. We modelled associations with inpatient mortality using logistic regression and calculated absolute risks of mortality for presenting clinical features among children who would, as part of revised WHO pneumonia guidelines, be eligible for outpatient treatment (non-severe pneumonia).\n\nWe assessed 16 162 children who were admitted to hospital in this period. 832 (5%) of 16 031 children died. Among groups defined according to new WHO guidelines, 321 (3%) of 11 788 patients with non-severe pneumonia died compared with 488 (14%) of 3434 patients with severe pneumonia. Three characteristics were strongly associated with death of children retrospectively classified as having non-severe pneumonia: severe pallor (adjusted risk ratio 5·9, 95% CI 5·1-6·8), mild to moderate pallor (3·4, 3·0-3·8), and weight-for-age Z score (WAZ) less than -3 SD (3·8, 3·4-4·3). Additional factors that were independently associated with death were: WAZ less than -2 to -3 SD, age younger than 12 months, lower chest wall indrawing, respiratory rate of 70 breaths per min or more, female sex, admission to hospital in a malaria endemic region, moderate dehydration, and an axillary temperature of 39°C or more.\n\nIn settings of high mortality, WAZ less than -3 SD or any degree of pallor among children with non-severe pneumonia was associated with a clinically important risk of death. Our data suggest that admission to hospital should not be denied to children with these signs and we urge clinicians to consider these risk factors in addition to WHO criteria in their decision making.\n\nWellcome Trust.",
+      "evidence_sentences": [
+        "Additional factors that were independently associated with death were: WAZ less than -2 to -3 SD, age younger than 12 months, lower chest wall indrawing, respiratory rate of 70 breaths per min or more, female sex, admission to hospital in a malaria endemic region, moderate dehydration, and an axillary temperature of 39°C or more.",
+        "We modelled associations with inpatient mortality using logistic regression and calculated absolute risks of mortality for presenting clinical features among children who would, as part of revised WHO pneumonia guidelines, be eligible for outpatient treatment (non-severe pneumonia).",
+        "We did a retrospective cohort study of children aged 2-59 months admitted to one of 14 hospitals in Kenya with pneumonia between March 1, 2014, and Feb 29, 2016, before revised WHO pneumonia guidelines were adopted in the country."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Ambrose Agweyu",
+        "Richard J Lilford",
+        "Mike English",
+        "Clinical Information Network Author Group"
+      ],
+      "year": "2018",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29241618/"
+    },
+    {
+      "pmid": "21453454",
+      "title": "Use of deferred consent for severely ill children in a multi-centre phase III trial.",
+      "journal": "Trials",
+      "abstract_sections": [
+        "Voluntary participation of a subject in research respects a subject's rights, strengthens its ethical conduct, and is formalized by the informed consent process. Clinical trials of life-saving interventions for medical emergencies often necessitate enrollment of patients where prior written individual informed consent is impossible. Although there are regulations and guidelines on protecting subjects in emergency research, these have been criticised for being limited and unnecessarily restrictive. Across Europe and the United States stringent regulations have resulted in a substantial decline of clinical trials involving emergency interventions.",
+        "We are conducting a trial of fluid resuscitation in children with hypovolaemic shock in six hospitals across three malaria-endemic African countries. The design is pragmatic as children are enrolled on clinical criteria alone and is being conducted in hospitals with facilities typical of many district hospitals across Africa. The trial aims to inform strategy for managing children with febrile illness and features of shock. In order to develop appropriate consent processes for the trial, we conducted a narrative review of current international recommendations for emergency consent.",
+        "Practical or specific guidance was generally sparse or confusing with few examples in the literature to direct our informed consent process. For a sub-group of children who were critically sick or where parents themselves were otherwise too distressed to consider prior written consent, we opted for a modified form of deferred consent. This included verbal assent from guardians at the point of enrollment, with full written consent obtained after stabilising the child. For children who died prior to full written consent, ethical permission was received to waiver full consent.",
+        "In light of the controversy around guidance and regulations in this area we report how and why we have used a modified system of deferred consent in an emergency intervention trial in children. Although approved by all relevant ethics committees and operational in 3 countries in Africa, formal research is now necessary to explore the perceptions and experiences of parents, health workers, researchers and ethics committees of the modified method of deferred consent."
+      ],
+      "abstract": "Voluntary participation of a subject in research respects a subject's rights, strengthens its ethical conduct, and is formalized by the informed consent process. Clinical trials of life-saving interventions for medical emergencies often necessitate enrollment of patients where prior written individual informed consent is impossible. Although there are regulations and guidelines on protecting subjects in emergency research, these have been criticised for being limited and unnecessarily restrictive. Across Europe and the United States stringent regulations have resulted in a substantial decline of clinical trials involving emergency interventions.\n\nWe are conducting a trial of fluid resuscitation in children with hypovolaemic shock in six hospitals across three malaria-endemic African countries. The design is pragmatic as children are enrolled on clinical criteria alone and is being conducted in hospitals with facilities typical of many district hospitals across Africa. The trial aims to inform strategy for managing children with febrile illness and features of shock. In order to develop appropriate consent processes for the trial, we conducted a narrative review of current international recommendations for emergency consent.\n\nPractical or specific guidance was generally sparse or confusing with few examples in the literature to direct our informed consent process. For a sub-group of children who were critically sick or where parents themselves were otherwise too distressed to consider prior written consent, we opted for a modified form of deferred consent. This included verbal assent from guardians at the point of enrollment, with full written consent obtained after stabilising the child. For children who died prior to full written consent, ethical permission was received to waiver full consent.\n\nIn light of the controversy around guidance and regulations in this area we report how and why we have used a modified system of deferred consent in an emergency intervention trial in children. Although approved by all relevant ethics committees and operational in 3 countries in Africa, formal research is now necessary to explore the perceptions and experiences of parents, health workers, researchers and ethics committees of the modified method of deferred consent.",
+      "evidence_sentences": [
+        "In light of the controversy around guidance and regulations in this area we report how and why we have used a modified system of deferred consent in an emergency intervention trial in children.",
+        "Clinical trials of life-saving interventions for medical emergencies often necessitate enrollment of patients where prior written individual informed consent is impossible.",
+        "Across Europe and the United States stringent regulations have resulted in a substantial decline of clinical trials involving emergency interventions."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Kathryn Maitland",
+        "Sassy Molyneux",
+        "Mwamvua Boga",
+        "Sarah Kiguli",
+        "Trudie Lang"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21453454/"
+    },
+    {
+      "pmid": "15256523",
+      "title": "Predictors of the quality of health worker treatment practices for uncomplicated malaria at government health facilities in Kenya.",
+      "journal": "International journal of epidemiology",
+      "abstract_sections": [
+        "When replacing failing drugs for malaria with more effective drugs, an important step towards reducing the malaria burden is that health workers (HW) prescribe drugs according to evidence-based guidelines. Past studies have shown that HW commonly do not follow guidelines, yet few studies have explored with appropriate methods why such practices occur.",
+        "We analysed data from a survey of government health facilities in four Kenyan districts in which HW consultations were observed, caretakers and HW were interviewed, and health facility assessments were performed. The analysis was limited to children 2-59 months old with uncomplicated malaria. Treatment was defined as recommended (antimalarial recommended by national guidelines), a minor error (effective, but non-recommended antimalarial), or inappropriate (no effective antimalarial).",
+        "We evaluated 1006 consultations performed by 135 HW at 81 facilities: 567 children received recommended treatment, 314 had minor errors, and 125 received inappropriate treatment (weighted percentages: 56.9%, 30.4%, and 12.7%). Multivariate logistic regression analysis revealed that programmatic interventions such as in-service malaria training, provision of guidelines and wall charts, and more frequent supervision were significantly associated with better treatment quality. However, neither in-service training nor possession of the guideline document showed an effect by itself. More qualified HW made more errors: both major and minor errors (but generally more minor errors) when second-line drugs were in stock, and more major errors when second-line drugs were not in stock. Child factors such as age and a main complaint of fever were also associated with treatment quality.",
+        "Our results support the use of several programmatic strategies that can redress HW deficiencies in malaria treatment. Targeted cost-effectiveness trials would help refine these strategies and provide more precise guidance on affordable and effective ways to strengthen and maintain HW practices."
+      ],
+      "abstract": "When replacing failing drugs for malaria with more effective drugs, an important step towards reducing the malaria burden is that health workers (HW) prescribe drugs according to evidence-based guidelines. Past studies have shown that HW commonly do not follow guidelines, yet few studies have explored with appropriate methods why such practices occur.\n\nWe analysed data from a survey of government health facilities in four Kenyan districts in which HW consultations were observed, caretakers and HW were interviewed, and health facility assessments were performed. The analysis was limited to children 2-59 months old with uncomplicated malaria. Treatment was defined as recommended (antimalarial recommended by national guidelines), a minor error (effective, but non-recommended antimalarial), or inappropriate (no effective antimalarial).\n\nWe evaluated 1006 consultations performed by 135 HW at 81 facilities: 567 children received recommended treatment, 314 had minor errors, and 125 received inappropriate treatment (weighted percentages: 56.9%, 30.4%, and 12.7%). Multivariate logistic regression analysis revealed that programmatic interventions such as in-service malaria training, provision of guidelines and wall charts, and more frequent supervision were significantly associated with better treatment quality. However, neither in-service training nor possession of the guideline document showed an effect by itself. More qualified HW made more errors: both major and minor errors (but generally more minor errors) when second-line drugs were in stock, and more major errors when second-line drugs were not in stock. Child factors such as age and a main complaint of fever were also associated with treatment quality.\n\nOur results support the use of several programmatic strategies that can redress HW deficiencies in malaria treatment. Targeted cost-effectiveness trials would help refine these strategies and provide more precise guidance on affordable and effective ways to strengthen and maintain HW practices.",
+      "evidence_sentences": [
+        "Multivariate logistic regression analysis revealed that programmatic interventions such as in-service malaria training, provision of guidelines and wall charts, and more frequent supervision were significantly associated with better treatment quality.",
+        "When replacing failing drugs for malaria with more effective drugs, an important step towards reducing the malaria burden is that health workers (HW) prescribe drugs according to evidence-based guidelines.",
+        "Treatment was defined as recommended (antimalarial recommended by national guidelines), a minor error (effective, but non-recommended antimalarial), or inappropriate (no effective antimalarial)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "D Zurovac",
+        "A K Rowe",
+        "S A Ochola",
+        "A M Noor",
+        "B Midia",
+        "M English",
+        "R W Snow"
+      ],
+      "year": "2004",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15256523/"
+    },
+    {
+      "pmid": "38178145",
+      "title": "Mosquito control by abatement programmes in the United States: perspectives and lessons for countries in sub-Saharan Africa.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Africa and the United States are both large, heterogeneous geographies with a diverse range of ecologies, climates and mosquito species diversity which contribute to disease transmission and nuisance biting. In the United States, mosquito control is nationally, and regionally coordinated and in so much as the Centers for Disease Control (CDC) provides guidance, the Environmental Protection Agency (EPA) provides pesticide registration, and the states provide legal authority and oversight, the implementation is usually decentralized to the state, county, or city level. Mosquito control operations are organized, in most instances, into fully independent mosquito abatement districts, public works departments, local health departments. In some cases, municipalities engage independent private contractors to undertake mosquito control within their jurisdictions. In sub-Saharan Africa (SSA), where most vector-borne disease endemic countries lie, mosquito control is organized centrally at the national level. In this model, the disease control programmes (national malaria control programmes or national malaria elimination programmes (NMCP/NMEP)) are embedded within the central governments' ministries of health (MoHs) and drive vector control policy development and implementation. Because of the high disease burden and limited resources, the primary endpoint of mosquito control in these settings is reduction of mosquito borne diseases, primarily, malaria. In the United States, however, the endpoint is mosquito control, therefore, significant (or even greater) emphasis is laid on nuisance mosquitoes as much as disease vectors. The authors detail experiences and learnings gathered by the delegation of African vector control professionals that participated in a formal exchange programme initiated by the Pan-African Mosquito Control Association (PAMCA), the University of Notre Dame, and members of the American Mosquito Control Association (AMCA), in the United States between the year 2021 and 2022. The authors highlight the key components of mosquito control operations in the United States and compare them to mosquito control programmes in SSA countries endemic for vector-borne diseases, deriving important lessons that could be useful for vector control in SSA."
+      ],
+      "abstract": "Africa and the United States are both large, heterogeneous geographies with a diverse range of ecologies, climates and mosquito species diversity which contribute to disease transmission and nuisance biting. In the United States, mosquito control is nationally, and regionally coordinated and in so much as the Centers for Disease Control (CDC) provides guidance, the Environmental Protection Agency (EPA) provides pesticide registration, and the states provide legal authority and oversight, the implementation is usually decentralized to the state, county, or city level. Mosquito control operations are organized, in most instances, into fully independent mosquito abatement districts, public works departments, local health departments. In some cases, municipalities engage independent private contractors to undertake mosquito control within their jurisdictions. In sub-Saharan Africa (SSA), where most vector-borne disease endemic countries lie, mosquito control is organized centrally at the national level. In this model, the disease control programmes (national malaria control programmes or national malaria elimination programmes (NMCP/NMEP)) are embedded within the central governments' ministries of health (MoHs) and drive vector control policy development and implementation. Because of the high disease burden and limited resources, the primary endpoint of mosquito control in these settings is reduction of mosquito borne diseases, primarily, malaria. In the United States, however, the endpoint is mosquito control, therefore, significant (or even greater) emphasis is laid on nuisance mosquitoes as much as disease vectors. The authors detail experiences and learnings gathered by the delegation of African vector control professionals that participated in a formal exchange programme initiated by the Pan-African Mosquito Control Association (PAMCA), the University of Notre Dame, and members of the American Mosquito Control Association (AMCA), in the United States between the year 2021 and 2022. The authors highlight the key components of mosquito control operations in the United States and compare them to mosquito control programmes in SSA countries endemic for vector-borne diseases, deriving important lessons that could be useful for vector control in SSA.",
+      "evidence_sentences": [
+        "In this model, the disease control programmes (national malaria control programmes or national malaria elimination programmes (NMCP/NMEP)) are embedded within the central governments' ministries of health (MoHs) and drive vector control policy development and implementation.",
+        "Because of the high disease burden and limited resources, the primary endpoint of mosquito control in these settings is reduction of mosquito borne diseases, primarily, malaria.",
+        "In the United States, mosquito control is nationally, and regionally coordinated and in so much as the Centers for Disease Control (CDC) provides guidance, the Environmental Protection Agency (EPA) provides pesticide registration, and the states provide legal authority and oversight, the implementation is usually decentralized to the state, county, or city level."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Eric Ochomo",
+        "Samuel S C Rund",
+        "Rosheen S Mthawanji",
+        "Christophe Antonio-Nkondjio",
+        "Maxwell Machani",
+        "Siriman Samake",
+        "Rosine Z Wolie",
+        "Sandrine Nsango",
+        "Laurel Anne Lown",
+        "Damaris Matoke-Muhia",
+        "Luna Kamau",
+        "Edward Lukyamuzi",
+        "Jane Njeri",
+        "Joseph Chabi",
+        "Otubea Owusu Akrofi",
+        "Charles Ntege",
+        "Victor Mero",
+        "Charles Mwalimu",
+        "Samson Kiware",
+        "Etienne Bilgo",
+        "Mohamed Moumine Traoré",
+        "Yaw Afrane",
+        "Emmanuel Hakizimana",
+        "Mbanga Muleba",
+        "Emma Orefuwa",
+        "Prosper Chaki",
+        "Elijah Omondi Juma"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38178145/"
+    },
+    {
+      "pmid": "34145005",
+      "title": "Prevalence and fluid management of dehydration in children without diarrhoea admitted to Kenyan hospitals: a multisite observational study.",
+      "journal": "BMJ open",
+      "abstract_sections": [
+        "To examine the prevalence of dehydration without diarrhoea among admitted children aged 1-59 months and to describe fluid management practices in such cases.",
+        "A multisite observational study that used routine in-patient data collected prospectively between October 2013 and December 2018.",
+        "Study conducted in 13 county referral hospitals in Kenya.",
+        "Children aged 1-59 months with admission or discharge diagnosis of dehydration but had no diarrhoea as a symptom or diagnosis. Children aged <28 days and those with severe acute malnutrition were excluded.",
+        "The prevalence of dehydration in children without diarrhoea was 3.0% (2019/68 204) and comprised 15.9% (2019/12 702) of all dehydration cases. Only 55.8% (1127/2019) of affected children received either oral or intravenous fluid therapy. Where fluid treatment was given, the volumes, type of fluid, duration of fluid therapy and route of administration were similar to those used in the treatment of dehydration secondary to diarrhoea. Pneumonia (1021/2019, 50.6%) and malaria (715/2019, 35.4%) were the two most common comorbid diagnoses. Overall case fatality in the study population was 12.9% (260/2019).",
+        "Sixteen per cent of children hospitalised with dehydration do not have diarrhoea but other common illnesses. Two-fifths do not receive fluid therapy; a regimen similar to that used in diarrhoeal cases is used in cases where fluid is administered. Efforts to promote compliance with guidance in routine clinical settings should recognise special circumstances where guidelines do not apply, and further studies on appropriate management for dehydration in the absence of diarrhoea are required."
+      ],
+      "abstract": "To examine the prevalence of dehydration without diarrhoea among admitted children aged 1-59 months and to describe fluid management practices in such cases.\n\nA multisite observational study that used routine in-patient data collected prospectively between October 2013 and December 2018.\n\nStudy conducted in 13 county referral hospitals in Kenya.\n\nChildren aged 1-59 months with admission or discharge diagnosis of dehydration but had no diarrhoea as a symptom or diagnosis. Children aged <28 days and those with severe acute malnutrition were excluded.\n\nThe prevalence of dehydration in children without diarrhoea was 3.0% (2019/68 204) and comprised 15.9% (2019/12 702) of all dehydration cases. Only 55.8% (1127/2019) of affected children received either oral or intravenous fluid therapy. Where fluid treatment was given, the volumes, type of fluid, duration of fluid therapy and route of administration were similar to those used in the treatment of dehydration secondary to diarrhoea. Pneumonia (1021/2019, 50.6%) and malaria (715/2019, 35.4%) were the two most common comorbid diagnoses. Overall case fatality in the study population was 12.9% (260/2019).\n\nSixteen per cent of children hospitalised with dehydration do not have diarrhoea but other common illnesses. Two-fifths do not receive fluid therapy; a regimen similar to that used in diarrhoeal cases is used in cases where fluid is administered. Efforts to promote compliance with guidance in routine clinical settings should recognise special circumstances where guidelines do not apply, and further studies on appropriate management for dehydration in the absence of diarrhoea are required.",
+      "evidence_sentences": [
+        "Efforts to promote compliance with guidance in routine clinical settings should recognise special circumstances where guidelines do not apply, and further studies on appropriate management for dehydration in the absence of diarrhoea are required.",
+        "Pneumonia (1021/2019, 50.6%) and malaria (715/2019, 35.4%) were the two most common comorbid diagnoses.",
+        "Study conducted in 13 county referral hospitals in Kenya."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Sylvia Omoke",
+        "Mike English",
+        "Jalemba Aluvaala",
+        "David Gathara",
+        "Ambrose Agweyu",
+        "Samuel Akech",
+        "Clinical Information Network"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34145005/"
+    },
+    {
+      "pmid": "40598178",
+      "title": "Single low dose primaquine to block the transmission of Plasmodium falciparum-proposed stand-alone and ACT-adapted regimens.",
+      "journal": "BMC medicine",
+      "abstract_sections": [
+        "Despite the 2012 WHO recommendation to add single low dose primaquine (SLDPQ, 0.25 mg/kg body weight) to artemisinin-based combination treatments (ACTs) for blocking the transmission of artemisinin-resistant Plasmodium falciparum, there are currently no weight-based regimens founded on robust evidence.",
+        "Applying published safety, transmission blocking and pharmacokinetic data, and exploring pharmacokinetic-pharmacodynamic relationships of age-based dosing of SLDPQ in African children with acute, uncomplicated Plasmodium falciparum, we derived weight-based, stand-alone, ACT-, triple ACT-, and vivax-matched regimens by following allometric dosing principles and simulating PQ exposure (area under the concentration time curve). The ACTs were dihydroartemisinin piperaquine (DHAPP), artesunate pyronaridine (ASPYR), artesunate amodiaquine (ASAQ), artesunate mefloquine (ASMQ), artemether lumefantrine (AL), and ALAQ. Tablet strengths were predefined: 2.5, 3.75, 5, 7.5, and 15 mg, and no tablet fractions were allowed. The maximum mg/kg dose was set at 0.5, and, primarily for ease of ACT co-blistering, 1 tablet = 1 dose. We assessed different mg/kg doses and selected the dosing associated with a predicted median exposure closest to 1200 ng*h/mL, the exposure predicted for a 60 kg individual given 15 mg of PQ.",
+        "The designed 8 regimens had 4-8 dosing bands. The stand-alone, DHAPP, and ASPYR regimens contain the full line of PQ tablets and all other regimens, except AL (2.5, 7.5, 15 mg) and ALAQ (2.5, 5, 7.5, 15 mg), use 3.75 mg. The 2.5 mg tablet resulted in a maximum dose of 0.56 mg/kg for ASAQ, as this regimen starts at 4.5 kg body weight, whilst all other regimens start at 5 kg and resulted in 0.5 mg/kg. Substituting 3.75 mg with 5 mg results in maximum doses of 0.56 mg/kg (ASAQ, ASMQ) and 0.63 mg/kg (other regimens), risking greater toxicity. Across all dosing bands, 0.17 - 0.56 mg/kg doses predict exposures of ~ 500 - 2000 ng*mL/h. Regimens with more dosing bands had less variations in exposure.",
+        "These regimens offer flexibility for malaria control programmes and guidance for drug manufacturers wishing to co-blister SLDPQ with ACTs. The WHO should reinstate the 3.75 mg tablet for prequalification and determine which regimens should be incorporated into their treatment guidelines to advance malaria elimination.",
+        "The trial is registered at ISRCTN, number 11594437."
+      ],
+      "abstract": "Despite the 2012 WHO recommendation to add single low dose primaquine (SLDPQ, 0.25 mg/kg body weight) to artemisinin-based combination treatments (ACTs) for blocking the transmission of artemisinin-resistant Plasmodium falciparum, there are currently no weight-based regimens founded on robust evidence.\n\nApplying published safety, transmission blocking and pharmacokinetic data, and exploring pharmacokinetic-pharmacodynamic relationships of age-based dosing of SLDPQ in African children with acute, uncomplicated Plasmodium falciparum, we derived weight-based, stand-alone, ACT-, triple ACT-, and vivax-matched regimens by following allometric dosing principles and simulating PQ exposure (area under the concentration time curve). The ACTs were dihydroartemisinin piperaquine (DHAPP), artesunate pyronaridine (ASPYR), artesunate amodiaquine (ASAQ), artesunate mefloquine (ASMQ), artemether lumefantrine (AL), and ALAQ. Tablet strengths were predefined: 2.5, 3.75, 5, 7.5, and 15 mg, and no tablet fractions were allowed. The maximum mg/kg dose was set at 0.5, and, primarily for ease of ACT co-blistering, 1 tablet = 1 dose. We assessed different mg/kg doses and selected the dosing associated with a predicted median exposure closest to 1200 ng*h/mL, the exposure predicted for a 60 kg individual given 15 mg of PQ.\n\nThe designed 8 regimens had 4-8 dosing bands. The stand-alone, DHAPP, and ASPYR regimens contain the full line of PQ tablets and all other regimens, except AL (2.5, 7.5, 15 mg) and ALAQ (2.5, 5, 7.5, 15 mg), use 3.75 mg. The 2.5 mg tablet resulted in a maximum dose of 0.56 mg/kg for ASAQ, as this regimen starts at 4.5 kg body weight, whilst all other regimens start at 5 kg and resulted in 0.5 mg/kg. Substituting 3.75 mg with 5 mg results in maximum doses of 0.56 mg/kg (ASAQ, ASMQ) and 0.63 mg/kg (other regimens), risking greater toxicity. Across all dosing bands, 0.17 - 0.56 mg/kg doses predict exposures of ~ 500 - 2000 ng*mL/h. Regimens with more dosing bands had less variations in exposure.\n\nThese regimens offer flexibility for malaria control programmes and guidance for drug manufacturers wishing to co-blister SLDPQ with ACTs. The WHO should reinstate the 3.75 mg tablet for prequalification and determine which regimens should be incorporated into their treatment guidelines to advance malaria elimination.\n\nThe trial is registered at ISRCTN, number 11594437.",
+      "evidence_sentences": [
+        "These regimens offer flexibility for malaria control programmes and guidance for drug manufacturers wishing to co-blister SLDPQ with ACTs.",
+        "The WHO should reinstate the 3.75 mg tablet for prequalification and determine which regimens should be incorporated into their treatment guidelines to advance malaria elimination.",
+        "Despite the 2012 WHO recommendation to add single low dose primaquine (SLDPQ, 0.25 mg/kg body weight) to artemisinin-based combination treatments (ACTs) for blocking the transmission of artemisinin-resistant Plasmodium falciparum, there are currently no weight-based regimens founded on robust evidence."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Walter R J Taylor",
+        "Peter Olupot-Olupot",
+        "Marie A Onyamboko",
+        "Natenapa Chimjinda",
+        "Chiraporn Taya",
+        "Julie Nguyen Ngoc Pouplin",
+        "Thomas N Williams",
+        "Kathryn Maitland",
+        "Caterina A Fanello",
+        "Nicholas P J Day",
+        "Joel Tarning",
+        "Nicholas J White",
+        "Mavuto Mukaka"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40598178/"
+    },
+    {
+      "pmid": "27846837",
+      "title": "Prevalence, aetiology, treatment and outcomes of shock in children admitted to Kenyan hospitals.",
+      "journal": "BMC medicine",
+      "abstract_sections": [
+        "Shock may complicate several acute childhood illnesses in hospitals within low-income countries and has a high case fatality. Hypovolemic shock secondary to diarrhoea/dehydration and septic shock are thought to be common, but there are few reliable data on prevalence or treatment that differ for the two major forms of shock. Examining prevalence and treatment practices has become important since reports suggest high risks from liberal use of fluid boluses in African children. The present study aims to estimate the prevalence, fluid management practices and outcomes of shock among hospitalised children.",
+        "We analysed paediatric in-patient data collected using discharge case record review between October 2013 and February 2016 from 14 hospitals in Kenya which are part of a network (referred to as the Clinical Information Network) using similar tools for standardised clinical records with care directed by the local clinical team leaders. Data are from a period after dissemination of national guidance seeking to limit use of bolus fluids.",
+        "A total of 74,402 children were admitted between October 2013 and February 2016. Children aged < 30 days or > 5 years, with severe acute malnutrition, surgical/burns, or cases with pre-defined minimum data sets were excluded from analysis. This resulted in 42,937 patients meeting the inclusion criteria. Prevalence of clinically diagnosed shock was 1.5 % (n = 622) and overall bolus use was 0.9 % (n = 366); 41 % (256/622) of children with clinically diagnosed shock did not receive a fluid bolus (but had a fluid plan for management of dehydration). Identified cases appeared mostly to be hypovolaemic shock secondary to dehydration/diarrhoea (94 %, 582/622), with a high case fatality (34 %, 211/622). Overall mortality for all admitted children was 5 % (2115/42,937) and was 7.9 % (798/10,096) in children with dehydration/diarrhoea. The diagnosis of hypovolaemic shock was nearly always accompanied by additional clinical diagnosis (99 %), most often pneumonia or malaria. Where bolus fluids were used, they were prescribed in accordance with guidelines (isotonic fluid at correct volume) in 92 % of cases. Inappropriate use of bolus fluids to treat milder forms of impaired circulation appeared very rarely.",
+        "A diagnosis of shock is uncommon at admission and use of fluid bolus is rare in admissions to Kenyan hospitals. A fluid bolus, when prescribed, is mostly used in children with hypovolemic shock secondary to dehydration and case fatality in these cases is high. We found little evidence of liberal use of fluid bolus that might cause harm in a period following dissemination of national guidelines suggesting very strict criteria for fluid bolus use."
+      ],
+      "abstract": "Shock may complicate several acute childhood illnesses in hospitals within low-income countries and has a high case fatality. Hypovolemic shock secondary to diarrhoea/dehydration and septic shock are thought to be common, but there are few reliable data on prevalence or treatment that differ for the two major forms of shock. Examining prevalence and treatment practices has become important since reports suggest high risks from liberal use of fluid boluses in African children. The present study aims to estimate the prevalence, fluid management practices and outcomes of shock among hospitalised children.\n\nWe analysed paediatric in-patient data collected using discharge case record review between October 2013 and February 2016 from 14 hospitals in Kenya which are part of a network (referred to as the Clinical Information Network) using similar tools for standardised clinical records with care directed by the local clinical team leaders. Data are from a period after dissemination of national guidance seeking to limit use of bolus fluids.\n\nA total of 74,402 children were admitted between October 2013 and February 2016. Children aged < 30 days or > 5 years, with severe acute malnutrition, surgical/burns, or cases with pre-defined minimum data sets were excluded from analysis. This resulted in 42,937 patients meeting the inclusion criteria. Prevalence of clinically diagnosed shock was 1.5 % (n = 622) and overall bolus use was 0.9 % (n = 366); 41 % (256/622) of children with clinically diagnosed shock did not receive a fluid bolus (but had a fluid plan for management of dehydration). Identified cases appeared mostly to be hypovolaemic shock secondary to dehydration/diarrhoea (94 %, 582/622), with a high case fatality (34 %, 211/622). Overall mortality for all admitted children was 5 % (2115/42,937) and was 7.9 % (798/10,096) in children with dehydration/diarrhoea. The diagnosis of hypovolaemic shock was nearly always accompanied by additional clinical diagnosis (99 %), most often pneumonia or malaria. Where bolus fluids were used, they were prescribed in accordance with guidelines (isotonic fluid at correct volume) in 92 % of cases. Inappropriate use of bolus fluids to treat milder forms of impaired circulation appeared very rarely.\n\nA diagnosis of shock is uncommon at admission and use of fluid bolus is rare in admissions to Kenyan hospitals. A fluid bolus, when prescribed, is mostly used in children with hypovolemic shock secondary to dehydration and case fatality in these cases is high. We found little evidence of liberal use of fluid bolus that might cause harm in a period following dissemination of national guidelines suggesting very strict criteria for fluid bolus use.",
+      "evidence_sentences": [
+        "We analysed paediatric in-patient data collected using discharge case record review between October 2013 and February 2016 from 14 hospitals in Kenya which are part of a network (referred to as the Clinical Information Network) using similar tools for standardised clinical records with care directed by the local clinical team leaders.",
+        "The diagnosis of hypovolaemic shock was nearly always accompanied by additional clinical diagnosis (99 %), most often pneumonia or malaria.",
+        "Prevalence of clinically diagnosed shock was 1.5 % (n = 622) and overall bolus use was 0.9 % (n = 366); 41 % (256/622) of children with clinically diagnosed shock did not receive a fluid bolus (but had a fluid plan for management of dehydration)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "George Mbevi",
+        "Philip Ayieko",
+        "Grace Irimu",
+        "Samuel Akech",
+        "Mike English",
+        "Clinical Information Network authors"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27846837/"
+    },
+    {
+      "pmid": "11123822",
+      "title": "Using evidence to change antimalarial drug policy in Kenya.",
+      "journal": "Tropical medicine & international health : TM & IH",
+      "abstract_sections": [
+        "Chloroquine resistance was first detected in Kenya in 1978 and escalated during the 1980s. Chloroquine remained the treatment of choice for uncomplicated malaria infections until revised guidelines were launched in 1998 despite a plethora of scientific evidence on failure. This review analyses the range and quality of the evidence base that was used to change the drug policy in Kenya from chloroquine to SP and examines the process of consensus building and decision making. Our review illustrates the difficulties in translating sensitivity data with gross geographical, temporal and methodological variations into national treatment policy. The process was complicated by limited options, unknown adverse effects of replacement therapies, cost, as well as limited guidance on factors pertinent to changing the drug policy for malaria. Although > 50% of the studies showed parasitological failures by 1995, there was a general lack of consensus on the principles for assessing drug failures, the inclusion criteria for the study subjects and the relative benefits of parasitological and clinical assessments. A change in international recommendations for assessment of drug efficacy in 1996 from parasitological to clinical response further perplexed the decisions. There is an urgent need for international standards and evidence-based guidelines to provide a framework to assist the process by which decision-makers in malaria-endemic countries can make rational choices for antimalarial drug policy change."
+      ],
+      "abstract": "Chloroquine resistance was first detected in Kenya in 1978 and escalated during the 1980s. Chloroquine remained the treatment of choice for uncomplicated malaria infections until revised guidelines were launched in 1998 despite a plethora of scientific evidence on failure. This review analyses the range and quality of the evidence base that was used to change the drug policy in Kenya from chloroquine to SP and examines the process of consensus building and decision making. Our review illustrates the difficulties in translating sensitivity data with gross geographical, temporal and methodological variations into national treatment policy. The process was complicated by limited options, unknown adverse effects of replacement therapies, cost, as well as limited guidance on factors pertinent to changing the drug policy for malaria. Although > 50% of the studies showed parasitological failures by 1995, there was a general lack of consensus on the principles for assessing drug failures, the inclusion criteria for the study subjects and the relative benefits of parasitological and clinical assessments. A change in international recommendations for assessment of drug efficacy in 1996 from parasitological to clinical response further perplexed the decisions. There is an urgent need for international standards and evidence-based guidelines to provide a framework to assist the process by which decision-makers in malaria-endemic countries can make rational choices for antimalarial drug policy change.",
+      "evidence_sentences": [
+        "The process was complicated by limited options, unknown adverse effects of replacement therapies, cost, as well as limited guidance on factors pertinent to changing the drug policy for malaria.",
+        "Although > 50% of the studies showed parasitological failures by 1995, there was a general lack of consensus on the principles for assessing drug failures, the inclusion criteria for the study subjects and the relative benefits of parasitological and clinical assessments.",
+        "There is an urgent need for international standards and evidence-based guidelines to provide a framework to assist the process by which decision-makers in malaria-endemic countries can make rational choices for antimalarial drug policy change."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "R Shretta",
+        "J Omumbo",
+        "B Rapuoda",
+        "R W Snow"
+      ],
+      "year": "2000",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11123822/"
+    },
+    {
+      "pmid": "33884362",
+      "title": "Proceedings of an expert workshop on community agreement for gene drive research in Africa - Co-organised by KEMRI, PAMCA and Target Malaria.",
+      "journal": "Gates open research",
+      "abstract_sections": [
+        "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa. While many literature sources and guidance point to the inadequacy of individual informed consent for any genetically modified mosquito release, including gene drive ones, (outside of epidemiological studies that might require blood samples) and at the need for a community-level decision, researchers often find themselves with no specific guidance on how that decision should be made, expressed and by whom. Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices. This paper shares the outcomes of that workshop and highlights the remaining topics for discussion before a comprehensive model can be designed."
+      ],
+      "abstract": "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa. While many literature sources and guidance point to the inadequacy of individual informed consent for any genetically modified mosquito release, including gene drive ones, (outside of epidemiological studies that might require blood samples) and at the need for a community-level decision, researchers often find themselves with no specific guidance on how that decision should be made, expressed and by whom. Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices. This paper shares the outcomes of that workshop and highlights the remaining topics for discussion before a comprehensive model can be designed.",
+      "evidence_sentences": [
+        "Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices.",
+        "Gene drive research is progressing towards future field evaluation of modified mosquitoes for malaria control in sub-Saharan Africa.",
+        "While many literature sources and guidance point to the inadequacy of individual informed consent for any genetically modified mosquito release, including gene drive ones, (outside of epidemiological studies that might require blood samples) and at the need for a community-level decision, researchers often find themselves with no specific guidance on how that decision should be made, expressed and by whom."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Delphine Thizy",
+        "Lea Pare Toe",
+        "Charles Mbogo",
+        "Damaris Matoke-Muhia",
+        "Vincent Pius Alibu",
+        "S Kathleen Barnhill-Dilling",
+        "Tracey Chantler",
+        "Gershom Chongwe",
+        "Jason Delborne",
+        "Lydia Kapiriri",
+        "Esther Nassonko Kavuma",
+        "Sethlomo Koloi-Keaikitse",
+        "Ana Kormos",
+        "Katherine Littler",
+        "Dickson Lwetoijera",
+        "Roberta Vargas de Moraes",
+        "Noni Mumba",
+        "Lilian Mutengu",
+        "Sylvia Mwichuli",
+        "Silvia Elizabeth Nabukenya",
+        "Janet Nakigudde",
+        "Paul Ndebele",
+        "Carolyne Ngara",
+        "Eric Ochomo",
+        "Simon Odiwuor Ondiek",
+        "Stephany Rivera",
+        "Aaron J Roberts",
+        "Benjamin Robinson",
+        "Rodrick Sambakunsi",
+        "Abha Saxena",
+        "Naima Sykes",
+        "Brian B Tarimo",
+        "Nicki Tiffin",
+        "Karen H Tountas"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33884362/"
+    },
+    {
+      "pmid": "24482351",
+      "title": "Adoption of recommended practices and basic technologies in a low-income setting.",
+      "journal": "Archives of disease in childhood",
+      "abstract_sections": [
+        "In global health considerable attention is focused on the search for innovations; however, reports tracking their adoption in routine hospital settings from low-income countries are absent.",
+        "We used data collected on a consistent panel of indicators during four separate cross-sectional, hospital surveys in Kenya to track changes over a period of 11 years (2002-2012).",
+        "Basic resource availability, use of diagnostics and uptake of recommended practices.",
+        "There appeared little change in availability of a panel of 28 basic resources (median 71% in 2002 to 82% in 2012) although availability of specific feeds for severe malnutrition and vitamin K improved. Use of blood glucose and HIV testing increased but remained inappropriately low throughout. Commonly (malaria) and uncommonly (lumbar puncture) performed diagnostic tests frequently failed to inform practice while pulse oximetry, a simple and cheap technology, was rarely available even in 2012. However, increasing adherence to prescribing guidance occurred during a period from 2006 to 2012 in which efforts were made to disseminate guidelines.",
+        "Findings suggest changes in clinical practices possibly linked to dissemination of guidelines at reasonable scale. However, full availability of basic resources was not attained and major gaps likely exist between the potential and actual impacts of simple diagnostics and technologies representing problems with availability, adoption and successful utilisation. These findings are relevant to debates on scaling up in low-income settings and to those developing novel therapeutic or diagnostic interventions."
+      ],
+      "abstract": "In global health considerable attention is focused on the search for innovations; however, reports tracking their adoption in routine hospital settings from low-income countries are absent.\n\nWe used data collected on a consistent panel of indicators during four separate cross-sectional, hospital surveys in Kenya to track changes over a period of 11 years (2002-2012).\n\nBasic resource availability, use of diagnostics and uptake of recommended practices.\n\nThere appeared little change in availability of a panel of 28 basic resources (median 71% in 2002 to 82% in 2012) although availability of specific feeds for severe malnutrition and vitamin K improved. Use of blood glucose and HIV testing increased but remained inappropriately low throughout. Commonly (malaria) and uncommonly (lumbar puncture) performed diagnostic tests frequently failed to inform practice while pulse oximetry, a simple and cheap technology, was rarely available even in 2012. However, increasing adherence to prescribing guidance occurred during a period from 2006 to 2012 in which efforts were made to disseminate guidelines.\n\nFindings suggest changes in clinical practices possibly linked to dissemination of guidelines at reasonable scale. However, full availability of basic resources was not attained and major gaps likely exist between the potential and actual impacts of simple diagnostics and technologies representing problems with availability, adoption and successful utilisation. These findings are relevant to debates on scaling up in low-income settings and to those developing novel therapeutic or diagnostic interventions.",
+      "evidence_sentences": [
+        "Commonly (malaria) and uncommonly (lumbar puncture) performed diagnostic tests frequently failed to inform practice while pulse oximetry, a simple and cheap technology, was rarely available even in 2012.",
+        "We used data collected on a consistent panel of indicators during four separate cross-sectional, hospital surveys in Kenya to track changes over a period of 11 years (2002-2012).",
+        "However, increasing adherence to prescribing guidance occurred during a period from 2006 to 2012 in which efforts were made to disseminate guidelines."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Mike English",
+        "David Gathara",
+        "Stephen Mwinga",
+        "Philip Ayieko",
+        "Charles Opondo",
+        "Jalemba Aluvaala",
+        "Elesban Kihuba",
+        "Paul Mwaniki",
+        "Fred Were",
+        "Grace Irimu",
+        "Aggrey Wasunna",
+        "Wycliffe Mogoa",
+        "Rachel Nyamai"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24482351/"
+    },
+    {
+      "pmid": "38085791",
+      "title": "Tropical Data: Approach and Methodology as Applied to Trachoma Prevalence Surveys.",
+      "journal": "Ophthalmic epidemiology",
+      "abstract_sections": [
+        "Population-based prevalence surveys are essential for decision-making on interventions to achieve trachoma elimination as a public health problem. This paper outlines the methodologies of Tropical Data, which supports work to undertake those surveys.",
+        "Tropical Data is a consortium of partners that supports health ministries worldwide to conduct globally standardised prevalence surveys that conform to World Health Organization recommendations. Founding principles are health ministry ownership, partnership and collaboration, and quality assurance and quality control at every step of the survey process. Support covers survey planning, survey design, training, electronic data collection and fieldwork, and data management, analysis and dissemination. Methods are adapted to meet local context and needs. Customisations, operational research and integration of other diseases into routine trachoma surveys have also been supported.",
+        "Between 29",
+        "This health ministry-led, standardised approach, with support from the start to the end of the survey process, has helped all trachoma elimination stakeholders to know where interventions are needed, where interventions can be stopped, and when elimination as a public health problem has been achieved. Flexibility to meet specific country contexts, adaptation to changes in global guidance and adjustments in response to user feedback have facilitated innovation in evidence-based methodologies, and supported health ministries to strive for global disease control targets."
+      ],
+      "abstract": "Population-based prevalence surveys are essential for decision-making on interventions to achieve trachoma elimination as a public health problem. This paper outlines the methodologies of Tropical Data, which supports work to undertake those surveys.\n\nTropical Data is a consortium of partners that supports health ministries worldwide to conduct globally standardised prevalence surveys that conform to World Health Organization recommendations. Founding principles are health ministry ownership, partnership and collaboration, and quality assurance and quality control at every step of the survey process. Support covers survey planning, survey design, training, electronic data collection and fieldwork, and data management, analysis and dissemination. Methods are adapted to meet local context and needs. Customisations, operational research and integration of other diseases into routine trachoma surveys have also been supported.\n\nBetween 29\n\nThis health ministry-led, standardised approach, with support from the start to the end of the survey process, has helped all trachoma elimination stakeholders to know where interventions are needed, where interventions can be stopped, and when elimination as a public health problem has been achieved. Flexibility to meet specific country contexts, adaptation to changes in global guidance and adjustments in response to user feedback have facilitated innovation in evidence-based methodologies, and supported health ministries to strive for global disease control targets.",
+      "evidence_sentences": [
+        "Flexibility to meet specific country contexts, adaptation to changes in global guidance and adjustments in response to user feedback have facilitated innovation in evidence-based methodologies, and supported health ministries to strive for global disease control targets."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Emma M Harding-Esch",
+        "Clara R Burgert-Brucker",
+        "Cristina Jimenez",
+        "Ana Bakhtiari",
+        "Rebecca Willis",
+        "Michael Dejene Bejiga",
+        "Caleb Mpyet",
+        "Jeremiah Ngondi",
+        "Sarah Boyd",
+        "Mariamo Abdala",
+        "Amza Abdou",
+        "Yilikal Adamu",
+        "Addisu Alemayehu",
+        "Wondu Alemayehu",
+        "Tawfik Al-Khatib",
+        "Sue-Chen Apadinuwe",
+        "Naomie Awaca",
+        "Marcel S Awoussi",
+        "Gilbert Baayendag",
+        "Mouctar Dieng Badiane",
+        "Robin L Bailey",
+        "Wilfrid Batcho",
+        "Zulficar Bay",
+        "Assumpta Bella",
+        "Nassirou Beido",
+        "Yak Yak Bol",
+        "Clarisse Bougouma",
+        "Christopher J Brady",
+        "Victor Bucumi",
+        "Robert Butcher",
+        "Risiate Cakacaka",
+        "Anaseini Cama",
+        "Mamoudou Camara",
+        "Eunice Cassama",
+        "Shorai Grace Chaora",
+        "Amel Chenaoui Chebbi",
+        "Alvin Blessings Chisambi",
+        "Brian Chu",
+        "Abdulai Conteh",
+        "Sidi Mohamed Coulibaly",
+        "Paul Courtright",
+        "Abdi Dalmar",
+        "Tran Minh Dat",
+        "Thully Davids",
+        "Mohamed El Amine Djaker",
+        "Maria de Fátima Costa Lopes",
+        "Djore Dézoumbé",
+        "Sarity Dodson",
+        "Philip Downs",
+        "Stephanie Eckman",
+        "Bilghis Elkhair Elshafie",
+        "Mourad Elmezoghi",
+        "Ange Aba Elvis",
+        "Paul Emerson",
+        "Emilienne Ee Epée",
+        "Daniel Faktaufon",
+        "Mawo Fall",
+        "Aréty Fassinou",
+        "Fiona Fleming",
+        "Rebecca Flueckiger",
+        "Koizan Kadjo Gamael",
+        "Mackline Garae",
+        "Jambi Garap",
+        "Katie Gass",
+        "Genet Gebru",
+        "Michael M Gichangi",
+        "Emanuele Giorgi",
+        "André Goépogui",
+        "Daniela Vaz Ferreira Gómez",
+        "Diana Paola Gómez Forero",
+        "Emily W Gower",
+        "Anna Harte",
+        "Rob Henry",
+        "Harvy Alberto Honorio-Morales",
+        "Dunera R Ilako",
+        "Amadou Alfa Bio Issifou",
+        "Ellen Jones",
+        "George Kabona",
+        "Martin Kabore",
+        "Boubacar Kadri",
+        "Khumbo Kalua",
+        "Sarjo Kebba Kanyi",
+        "Shambel Kebede",
+        "Fikreab Kebede",
+        "Jeremy D Keenan",
+        "Amir B Kello",
+        "Asad Aslam Khan",
+        "Houria Khelifi",
+        "Janvier Kilangalanga",
+        "Sung Hye Kim",
+        "Robert Ko",
+        "Susan Lewallen",
+        "Thomas Lietman",
+        "Makoy Samuel Yibi Logora",
+        "Yuri A Lopez",
+        "Chad MacArthur",
+        "Colin Macleod",
+        "Felix Makangila",
+        "Brehima Mariko",
+        "Diana L Martin",
+        "Michael Masika",
+        "Patrick Massae",
+        "Marilia Massangaie",
+        "Hadley S Matendechero",
+        "Tsedeke Mathewos",
+        "Siobhain McCullagh",
+        "Aboulaye Meite",
+        "Elsa Palma Mendes",
+        "Hirpa M Abdi",
+        "Hollman Miller",
+        "Abdellahi Minnih",
+        "Sailesh Kumar Mishra",
+        "Tuduetso Molefi",
+        "Aryc Mosher",
+        "Nerkoua M'Po",
+        "Francis Mugume",
+        "Robson Mukwiza",
+        "Consity Mwale",
+        "Stephen Mwatha",
+        "Upendo Mwingira",
+        "Scott D Nash",
+        "Christophe Nassa",
+        "Nebiyu Negussu",
+        "Cece Nieba",
+        "Jean Claude Noah Noah",
+        "Christian O Nwosu",
+        "Nicholas Olobio",
+        "Rapheal Opon",
+        "Alexandre Pavluck",
+        "Isaac Phiri",
+        "Merelesita Rainima-Qaniuci",
+        "Kristen K Renneker",
+        "Martha Idalí Saboyá-Díaz",
+        "Fatoumata Sakho",
+        "Salimato Sanha",
+        "Virginia Sarah",
+        "Boubacar Sarr",
+        "Celia L Szwarcwald",
+        "Ahmad Shah Salam",
+        "Shekhar Sharma",
+        "Fikre Seife",
+        "Gloria Marina Serrano Chavez",
+        "Mactar Sissoko",
+        "Henis Mior Sitoe",
+        "Oliver Sokana",
+        "Fentahun Tadesse",
+        "Fasiah Taleo",
+        "Sandra Liliana Talero",
+        "Youcef Tarfani",
+        "Amsayaw Tefera",
+        "Rabebe Tekeraoi",
+        "Andeberhan Tesfazion",
+        "Abubaker Traina",
+        "Lamine Traoré",
+        "Julián Trujillo-Trujillo",
+        "Edridah M Tukahebwa",
+        "Praveen Vashist",
+        "Ernest B Wanyama",
+        "Supriya D P Warusavithana",
+        "Titus K Watitu",
+        "Sheila West",
+        "Ye Win",
+        "Geordie Woods",
+        "Aya Yajima",
+        "Georges Yaya",
+        "Alem Zecarias",
+        "Solomon Zewengiel",
+        "Akoi Zoumanigui",
+        "Pamela J Hooper",
+        "Tom Millar",
+        "Lisa Rotondo",
+        "Anthony W Solomon"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38085791/"
+    },
+    {
+      "pmid": "41218210",
+      "title": "Community Experiences and Perceptions of the Broad One Health Endectocide-Based Malaria Intervention in Africa Trial of Ivermectin Mass Drug Administration: A Longitudinal Qualitative Study in Kwale County, Kenya.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Mass drug administration (MDA) of ivermectin is currently being evaluated for malaria control. Uptake and adherence to MDA are shaped by various individual, social, and operational factors; however, the authors of most studies have focused on individual drivers of uptake. In the present paper, a longitudinal qualitative study undertaken alongside the Broad One Health Endectocide-Based Malaria Intervention in Africa (BOHEMIA) ivermectin MDA clinical trial is reported to examine community experiences and perceptions of the trial and the ivermectin MDA. Using purposive maximum variation sampling, researchers selected five villages involved in the BOHEMIA trial (two in the intervention arm and three in the control arm). Before the trial, researchers lived in each village for 1 month, making observations and conducting in-depth interviews (IDIs) and focus group discussions (FGDs). They returned before the first MDA round and remained throughout all three rounds, gathering insights on trial implementation, community perceptions, and perceived effects of the MDA. During this period, a total of 22 IDIs were conducted, along with structured observation reports. Two months after the MDA, 15 FGDs were held in eight additional villages. The findings indicate that during the trial, addressing needs and confidence in the implementing institution fostered participation, whereas previous negative experiences with MDA interventions and perceived exclusion from community engagement activities reduced involvement. The MDA was widely perceived as effective in reducing mosquitoes and malaria in both arms of the trial. It was also seen as highly effective against bedbugs in the intervention arm. These insights highlight the importance of trust, engagement, and previous experiences in shaping community participation in MDA programs."
+      ],
+      "abstract": "Mass drug administration (MDA) of ivermectin is currently being evaluated for malaria control. Uptake and adherence to MDA are shaped by various individual, social, and operational factors; however, the authors of most studies have focused on individual drivers of uptake. In the present paper, a longitudinal qualitative study undertaken alongside the Broad One Health Endectocide-Based Malaria Intervention in Africa (BOHEMIA) ivermectin MDA clinical trial is reported to examine community experiences and perceptions of the trial and the ivermectin MDA. Using purposive maximum variation sampling, researchers selected five villages involved in the BOHEMIA trial (two in the intervention arm and three in the control arm). Before the trial, researchers lived in each village for 1 month, making observations and conducting in-depth interviews (IDIs) and focus group discussions (FGDs). They returned before the first MDA round and remained throughout all three rounds, gathering insights on trial implementation, community perceptions, and perceived effects of the MDA. During this period, a total of 22 IDIs were conducted, along with structured observation reports. Two months after the MDA, 15 FGDs were held in eight additional villages. The findings indicate that during the trial, addressing needs and confidence in the implementing institution fostered participation, whereas previous negative experiences with MDA interventions and perceived exclusion from community engagement activities reduced involvement. The MDA was widely perceived as effective in reducing mosquitoes and malaria in both arms of the trial. It was also seen as highly effective against bedbugs in the intervention arm. These insights highlight the importance of trust, engagement, and previous experiences in shaping community participation in MDA programs.",
+      "evidence_sentences": [
+        "In the present paper, a longitudinal qualitative study undertaken alongside the Broad One Health Endectocide-Based Malaria Intervention in Africa (BOHEMIA) ivermectin MDA clinical trial is reported to examine community experiences and perceptions of the trial and the ivermectin MDA.",
+        "The MDA was widely perceived as effective in reducing mosquitoes and malaria in both arms of the trial.",
+        "Mass drug administration (MDA) of ivermectin is currently being evaluated for malaria control."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Winnie Wangari",
+        "Truphena Onyango",
+        "Karisa Kazungu",
+        "Khadija Nuru",
+        "Lydia Kasiwa",
+        "Carlos Chaccour",
+        "N Regina Rabinovich",
+        "Joseph Mwangangi",
+        "Marta Maia",
+        "Caroline Jones"
+      ],
+      "year": "2026",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41218210/"
+    },
+    {
+      "pmid": "34957351",
+      "title": "Implications of WHO COVID-19 interim guideline 2020.5 on the comprehensive care for infected persons in Africa Before, during and after clinical management of cases.",
+      "journal": "Scientific African",
+      "abstract_sections": [
+        "The novel coronavirus disease 2019 (COVID-19) is one of the biggest public health crises globally. Although Africa did not display the worst-case scenario compared to other continents, fears were still at its peak since Africa was already suffering from a heavy load of other life-threatening infectious diseases such as HIV/AIDS and malaria. Other factors that were anticipated to complicate Africa's outcomes include the lack of resources for diagnosis and contact tracing along with the low capacity of specialized management facilities per capita"
+      ],
+      "abstract": "The novel coronavirus disease 2019 (COVID-19) is one of the biggest public health crises globally. Although Africa did not display the worst-case scenario compared to other continents, fears were still at its peak since Africa was already suffering from a heavy load of other life-threatening infectious diseases such as HIV/AIDS and malaria. Other factors that were anticipated to complicate Africa's outcomes include the lack of resources for diagnosis and contact tracing along with the low capacity of specialized management facilities per capita",
+      "evidence_sentences": [
+        "Although Africa did not display the worst-case scenario compared to other continents, fears were still at its peak since Africa was already suffering from a heavy load of other life-threatening infectious diseases such as HIV/AIDS and malaria.",
+        "Other factors that were anticipated to complicate Africa's outcomes include the lack of resources for diagnosis and contact tracing along with the low capacity of specialized management facilities per capita"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Adeniyi Francis Fagbamigbe",
+        "Mai F Tolba",
+        "Ebenezer F Amankwaa",
+        "Priscilla Kolibea Mante",
+        "Augustina Angelina Sylverken",
+        "Julien Z B Zahouli",
+        "Nowsheen Goonoo",
+        "Lydia Mosi",
+        "Kolapo Oyebola",
+        "Damaris Matoke-Muhia",
+        "Dziedzom K de Souza",
+        "Kingsley Badu",
+        "Natisha Dukhi"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34957351/"
+    },
+    {
+      "pmid": "41973908",
+      "title": "Synthesis and Standardization of Outcomes in Severe Malaria Treatment Trials: Protocol for the Development of a Core Outcome Set (the COSSMaT Study).",
+      "journal": "JMIR research protocols",
+      "abstract_sections": [
+        "Severe malaria remains a major global health challenge, particularly in endemic regions, where it causes substantial morbidity and mortality, especially among children and pregnant women. Although numerous clinical trials have evaluated treatments for severe malaria, heterogeneity in outcome selection, definition, and measurement limits comparability across studies, hampers evidence synthesis, and contributes to research waste. There is currently no established core outcome set (COS) for trials specifically focused on severe malaria treatment. Developing a COS is therefore essential to improve outcome standardization, strengthen evidence synthesis, and support evidence-based clinical practice.",
+        "This study aims to develop a COS for trials evaluating the treatment of severe malaria.",
+        "This protocol follows guidance from the Core Outcome Measures in Effectiveness Trials (COMET) Initiative and the Core Outcome Set-Standardised Protocol Items (COS-STAP) checklist. An updated systematic review of outcomes reported in randomized controlled trials of severe malaria treatment has been conducted. Searches covered the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and Literatura Latino-Americana em Ciências da Saúde (LILACS), as well as clinical trial registries, including the International Standard Randomised Controlled Trial Number (ISRCTN) registry, ClinicalTrials.gov, and the Pan-African Clinical Trial Registry (PACTR). Study selection followed PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidance. Outcomes important to patients and families are being identified through qualitative interviews with parents and caregivers of patients treated for severe malaria, with data analyzed using thematic synthesis. Outcomes identified across these sources will be prioritized through a 2-round, multistakeholder Delphi survey, with rounds separated by 4 weeks and a target sample of 60 to 80 participants. An online consensus meeting will then be held to agree on the final COS. Subsequently, outcome measurement instruments used in severe malaria trials will be identified and assessed, and a dissemination and implementation strategy will be developed to support uptake of the final COS.",
+        "Preliminary results from the updated systematic review identified 326 records through database and registry searches. Following screening and full-text review, 5 eligible randomized controlled trials conducted between 2020 and 2024 in Africa and Asia were included. Qualitative interviews with parents and caregivers have been conducted with 26 participants recruited and interviewed. The Delphi survey, consensus meeting, and outcome measurement instrument selection are ongoing and expected to be completed by September 2026.",
+        "This protocol outlines a rigorous and inclusive approach to developing the first COS for severe malaria treatment trials. The resulting COS aims to improve outcome standardization, reduce reporting bias, and enhance the comparability and impact of future severe malaria trials."
+      ],
+      "abstract": "Severe malaria remains a major global health challenge, particularly in endemic regions, where it causes substantial morbidity and mortality, especially among children and pregnant women. Although numerous clinical trials have evaluated treatments for severe malaria, heterogeneity in outcome selection, definition, and measurement limits comparability across studies, hampers evidence synthesis, and contributes to research waste. There is currently no established core outcome set (COS) for trials specifically focused on severe malaria treatment. Developing a COS is therefore essential to improve outcome standardization, strengthen evidence synthesis, and support evidence-based clinical practice.\n\nThis study aims to develop a COS for trials evaluating the treatment of severe malaria.\n\nThis protocol follows guidance from the Core Outcome Measures in Effectiveness Trials (COMET) Initiative and the Core Outcome Set-Standardised Protocol Items (COS-STAP) checklist. An updated systematic review of outcomes reported in randomized controlled trials of severe malaria treatment has been conducted. Searches covered the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and Literatura Latino-Americana em Ciências da Saúde (LILACS), as well as clinical trial registries, including the International Standard Randomised Controlled Trial Number (ISRCTN) registry, ClinicalTrials.gov, and the Pan-African Clinical Trial Registry (PACTR). Study selection followed PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidance. Outcomes important to patients and families are being identified through qualitative interviews with parents and caregivers of patients treated for severe malaria, with data analyzed using thematic synthesis. Outcomes identified across these sources will be prioritized through a 2-round, multistakeholder Delphi survey, with rounds separated by 4 weeks and a target sample of 60 to 80 participants. An online consensus meeting will then be held to agree on the final COS. Subsequently, outcome measurement instruments used in severe malaria trials will be identified and assessed, and a dissemination and implementation strategy will be developed to support uptake of the final COS.\n\nPreliminary results from the updated systematic review identified 326 records through database and registry searches. Following screening and full-text review, 5 eligible randomized controlled trials conducted between 2020 and 2024 in Africa and Asia were included. Qualitative interviews with parents and caregivers have been conducted with 26 participants recruited and interviewed. The Delphi survey, consensus meeting, and outcome measurement instrument selection are ongoing and expected to be completed by September 2026.\n\nThis protocol outlines a rigorous and inclusive approach to developing the first COS for severe malaria treatment trials. The resulting COS aims to improve outcome standardization, reduce reporting bias, and enhance the comparability and impact of future severe malaria trials.",
+      "evidence_sentences": [
+        "Although numerous clinical trials have evaluated treatments for severe malaria, heterogeneity in outcome selection, definition, and measurement limits comparability across studies, hampers evidence synthesis, and contributes to research waste.",
+        "Searches covered the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and Literatura Latino-Americana em Ciências da Saúde (LILACS), as well as clinical trial registries, including the International Standard Randomised Controlled Trial Number (ISRCTN) registry, ClinicalTrials.gov, and the Pan-African Clinical Trial Registry (PACTR).",
+        "Subsequently, outcome measurement instruments used in severe malaria trials will be identified and assessed, and a dissemination and implementation strategy will be developed to support uptake of the final COS."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "authors": [
+        "Gideon Darko Asamoah",
+        "Sharon B Love",
+        "Diana M Gibb",
+        "Kathryn Maitland",
+        "Elizabeth C George"
+      ],
+      "year": "2026",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41973908/"
+    }
+  ],
+  "clinical_trials_records": [
+    {
+      "nct_id": "NCT04910750",
+      "title": "Tools for the Integrated Management of Childhood Illness (TIMCI): Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care",
+      "brief_summary": "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.\n\nThe multi-country, multi-method evaluation aims to generate evidence on the health and quality of care impact, operational priorities, cost and cost-effectiveness of introducing these tools to facilitate national and international decision-making on scale-up.",
+      "detailed_description": "This registry entry describes the pragmatic cluster randomised controlled trials (RCTs) conducted in India and Tanzania. In Kenya and Senegal, quasi-experimental pre-post studies are conducted (NCT05065320). These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.\n\nWe enrol sick children 0 to 59 months of age attending government primary care facilities a pragmatic parallel group, superiority cluster randomised controlled trial (RCT). Primary care facilities randomly are allocated (1:1) in India to pulse oximetry or control, and (1:1:1) in Tanzania to pulse oximetry plus CDSA, pulse oximetry, or control. Interventions are implemented with a package of training on the use of devices and refresher IMCI, supportive supervision, operational support and community engagement. IMCI refresher training is provided to all arms.\n\nProviders at intervention facilities are provided with handheld, UNICEF-approved, pulse oximeters along with guidance and training in line with government-approved criteria. In Tanzania, healthcare providers are advised to measure oxygen saturation (SpO2) on all children under 2 months of age, all children 2 to 59 months of age with cough or difficulty breathing or with signs of moderate or severe disease based on Integrated Management of Childhood Illness (IMCI); in India, healthcare providers are advised to measure oxygen saturation for all sick children. Providers are advised to urgently refer children with SpO2 \\<90%. The tablet-based CDSA provides step-by-step support to healthcare providers through consultations, providing national guideline-based recommendations on assessment, diagnosis and treatment based tailored to the individual child based on information entered by the provider. Following training, providers are advised to use CDSA for all consultations with sick children under 5 years of age.\n\nSociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28. Two primary outcomes are assessed for the RCT: severe complications by Day 7 (mortality and 'secondary hospitalisations' i.e. delayed ≥24 hours from the Day 0 consultation, or without referral); and 'primary' hospitalisations (within 24hrs the Day 0 consultation and with referral). Secondary outcomes for the RCT, relating to hypoxaemia, referral, antimicrobial prescription, follow-up, health status, are further detailed in the attached full protocol and statistical analysis plan available.\n\nThe RCT sample size was estimated based on planned enrolment over 12 months and ability to detect a ≥30% decrease in severe complications (from 1.1%22) and ≥30% increase in primary hospitalisations (from 1.5%, based on facility estimates) for each arm compared to control with 80% power, 0.05 alpha per arm, and intra-cluster correlation coefficient (ICC) of 0.00147. Anticipated feasible enrolment rates were based on DHIS2 and facility data. In Tanzania, 22 clusters per arm, each recruiting an average of 1680 children, were estimated to be needed (total 110,880). In India, 40 clusters per arm, each recruiting an average of 510 children, were estimated to be needed (total 40,800).\n\nStudy approval has been granted by all relevant institutional review boards, national and WHO ethical review committees. Findings will be shared with communities, healthcare providers, Ministries of Health and other local, national and international stakeholders to facilitate evidence-based decision-making on scale-up.",
+      "evidence_sentences": [
+        "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.",
+        "These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.",
+        "Sociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2023-10-30",
+      "query_keywords": [
+        "malaria",
+        "clinical",
+        "guidance",
+        "kenya"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT04910750",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04910750",
+            "orgStudyIdInfo": {
+              "id": "ERC.0003405"
+            },
+            "organization": {
+              "fullName": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "briefTitle": "Tools for the Integrated Management of Childhood Illness (TIMCI): Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care",
+            "officialTitle": "Tools for the Integrated Management of Childhood Illness: Evaluation of Pulse Oximetry & Clinical Decision Support Algorithms in Primary Care - Pragmatic Cluster Randomised Controlled Trial, With Embedded Mixed Methods, Cost & Cost-effectiveness Studies in India and Tanzania",
+            "acronym": "TIMCI"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2022-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2021-07-05",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2023-04-21",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2021-05-27",
+            "studyFirstSubmitQcDate": "2021-05-27",
+            "studyFirstPostDateStruct": {
+              "date": "2021-06-02",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2023-10-30",
+            "lastUpdatePostDateStruct": {
+              "date": "2023-10-31",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Swiss Tropical & Public Health Institute",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Ifakara Health Institute",
+                "class": "OTHER"
+              },
+              {
+                "name": "King George's Medical University",
+                "class": "OTHER"
+              },
+              {
+                "name": "University of Waterloo",
+                "class": "OTHER"
+              },
+              {
+                "name": "PATH",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": true,
+            "isUsExport": true
+          },
+          "descriptionModule": {
+            "briefSummary": "By introducing pulse oximetry, with or without clinical decision support algorithms, to primary care facilities in India, Kenya, Senegal and Tanzania, the Tools for Integrated Management of Childhood Illness (TIMCI) project aims to contribute to reducing morbidity and mortality for sick children under-five while supporting the rational and efficient use of diagnostics and medicines by healthcare providers.\n\nThe multi-country, multi-method evaluation aims to generate evidence on the health and quality of care impact, operational priorities, cost and cost-effectiveness of introducing these tools to facilitate national and international decision-making on scale-up.",
+            "detailedDescription": "This registry entry describes the pragmatic cluster randomised controlled trials (RCTs) conducted in India and Tanzania. In Kenya and Senegal, quasi-experimental pre-post studies are conducted (NCT05065320). These studies evaluating health, clinical and quality of care impact are complemented by embedded multi-method studies in all countries, including modified Service Provision Assessments, facility-based process mapping and time-flow studies, in-depth interviews (IDIs) with caregivers and healthcare providers, online key stakeholder surveys, routine data review, and an economic evaluation.\n\nWe enrol sick children 0 to 59 months of age attending government primary care facilities a pragmatic parallel group, superiority cluster randomised controlled trial (RCT). Primary care facilities randomly are allocated (1:1) in India to pulse oximetry or control, and (1:1:1) in Tanzania to pulse oximetry plus CDSA, pulse oximetry, or control. Interventions are implemented with a package of training on the use of devices and refresher IMCI, supportive supervision, operational support and community engagement. IMCI refresher training is provided to all arms.\n\nProviders at intervention facilities are provided with handheld, UNICEF-approved, pulse oximeters along with guidance and training in line with government-approved criteria. In Tanzania, healthcare providers are advised to measure oxygen saturation (SpO2) on all children under 2 months of age, all children 2 to 59 months of age with cough or difficulty breathing or with signs of moderate or severe disease based on Integrated Management of Childhood Illness (IMCI); in India, healthcare providers are advised to measure oxygen saturation for all sick children. Providers are advised to urgently refer children with SpO2 \\<90%. The tablet-based CDSA provides step-by-step support to healthcare providers through consultations, providing national guideline-based recommendations on assessment, diagnosis and treatment based tailored to the individual child based on information entered by the provider. Following training, providers are advised to use CDSA for all consultations with sick children under 5 years of age.\n\nSociodemographic and clinical data are collected from caregivers and records of enrolled sick children at study facilities, with phone follow-up on Day 7 and Day 28. Two primary outcomes are assessed for the RCT: severe complications by Day 7 (mortality and 'secondary hospitalisations' i.e. delayed ≥24 hours from the Day 0 consultation, or without referral); and 'primary' hospitalisations (within 24hrs the Day 0 consultation and with referral). Secondary outcomes for the RCT, relating to hypoxaemia, referral, antimicrobial prescription, follow-up, health status, are further detailed in the attached full protocol and statistical analysis plan available.\n\nThe RCT sample size was estimated based on planned enrolment over 12 months and ability to detect a ≥30% decrease in severe complications (from 1.1%22) and ≥30% increase in primary hospitalisations (from 1.5%, based on facility estimates) for each arm compared to control with 80% power, 0.05 alpha per arm, and intra-cluster correlation coefficient (ICC) of 0.00147. Anticipated feasible enrolment rates were based on DHIS2 and facility data. In Tanzania, 22 clusters per arm, each recruiting an average of 1680 children, were estimated to be needed (total 110,880). In India, 40 clusters per arm, each recruiting an average of 510 children, were estimated to be needed (total 40,800).\n\nStudy approval has been granted by all relevant institutional review boards, national and WHO ethical review committees. Findings will be shared with communities, healthcare providers, Ministries of Health and other local, national and international stakeholders to facilitate evidence-based decision-making on scale-up."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Pneumonia",
+              "Primary Health Care",
+              "Child Health",
+              "Hypoxia",
+              "Referral and Consultation",
+              "Decision Support Systems, Clinical",
+              "Oxymetry"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "BASIC_SCIENCE",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 167517,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 1 will be provided with handheld pulse oximeters and tablet-based clinical decision support algorithms, with pulse oximetry, CDSA and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry",
+                  "Device: Clinical Decision Support Algorithm"
+                ]
+              },
+              {
+                "label": "Intervention Arm 2 - Pulse oximetry alone",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Facilities in intervention arm 2 will be provided with handheld pulse oximeters and paper-based guidance (pulse oximetry job aid and IMCI chart booklet integrating pulse oximetry), with pulse oximetry and IMCI refresher training",
+                "interventionNames": [
+                  "Device: Pulse oximetry"
+                ]
+              },
+              {
+                "label": "Control Arm - Routine Primary Health Care",
+                "type": "NO_INTERVENTION",
+                "description": "Facilities in the control arm will be provided with IMCI refresher training"
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Pulse oximetry",
+                "description": "Pulse oximeters are a non-invasive, accurate and easy to use method of evaluating blood oxygen saturation",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm",
+                  "Intervention Arm 2 - Pulse oximetry alone"
+                ]
+              },
+              {
+                "type": "DEVICE",
+                "name": "Clinical Decision Support Algorithm",
+                "description": "Tablet-based clinical decision support algorithms, based on guidelines for the assessment and management of sick children under 5 years of age at primary care",
+                "armGroupLabels": [
+                  "Intervention Arm 1 - Pulse oximetry and Clinical Decision Support Algorithm"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Proportion of children with a severe complication (death or secondary hospitalisation) by Day 7",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children admitted to hospital within 24 hours of the Day 0 primary care consultation and as a result of a referral",
+                "description": "This is used as a proxy for 'appropriate referral' of children, as those with severe disease should generally be admitted to hospital. The denominator for this outcomes is all children enrolled in the study, rather than only referred children. This is because the proportion of referred children that are admitted may be high in routine care, in the context of an inappropriately low referral rate. The aim of the intervention is therefore to increase the overall referral rate of children with severe disease. Hospital admission is chosen as the proxy of severe disease rather than using primary care classification of severe disease, as there are inadequacies in the classification of severe disease in routine practice.\n\nA child will be considered admitted to hospital 24hrs of Day0 consultation if the date of hospitalization is the same as Day0 date or is one day after Day0 date.",
+                "timeFrame": "From enrolment up to 1 day after"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Proportion of children with severe complication (death or secondary hospitalisation) by Day 28",
+                "description": "Secondary hospitalisation refers to any delayed hospitalisation (occurring at any point greater than 24 hours after Day 0 consultation) and any hospitalisation occurring without referral. The denominator is all enrolled children.",
+                "timeFrame": "From enrolment up to 28 days after"
+              },
+              {
+                "measure": "Proportion of children cured (defined as caregiver reported recovery from illness) by Day 7",
+                "description": "The denominator will be all children recruited. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children referred by a primary care healthcare provider to a higher level of care (either to a hospital or to an inpatient part of a larger primary healthcare facility) at Day 0 consultation",
+                "description": "The denominator will be all children recruited. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children who completed referral, as reported at day 7 follow-up",
+                "description": "Only urgent referrals will be considered. A referral will be considered completed if a child attended a hospital, whether was admitted or not. A window of +3 days from Day 7 is considered.",
+                "timeFrame": "From enrolment up to 10 days after"
+              },
+              {
+                "measure": "Proportion of children with non-severe disease referred to a higher level of care on Day 0",
+                "description": "Only urgent referrals will be considered. Only urgent referrals will be considered.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Average length of stay (in days) of children admitted to hospital",
+                "description": "If a child is hospitalised twice, the first hospitalization will be used and second hospitalizations will be reported separately. The denominator will be all hospitalised children. This is not a time-to-event measure, as it will be analysed as a continuous variable.",
+                "timeFrame": "From hospital admission to discharge"
+              },
+              {
+                "measure": "Proportion of children prescribed an antibiotic at Day 0",
+                "description": "Only antibacterials for systemic use will be taken into account for the definition of antibiotics. All children recruited will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children prescribed a diagnosis-appropriate antibiotic",
+                "description": "Appropriateness of antibiotic prescription in relation to diagnosis will be evaluated as:\n\n* diagnosis for which a systemic antibiotic was indicated and a systemic antibiotic was prescribed\n* diagnosis for which a systemic antibiotic was not indicated and systemic antibiotic was prescribed\n* first-line (or second-line) antibiotics were prescribed according to recommendations for IMCI diagnoses for which specific antibiotic(s)are indicated\n\nDiagnoses will be classified according to whether systemic antibiotics are indicated, based on IMCI and other relevant national guidelines as used for the CDSA.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of febrile children tested for malaria at Day 0",
+                "description": "A child will be considered to be febrile if history of fever was reported by the caregiver before the consultation or temperature was recorded to be above or equal 37.5 C°. Only febrile children will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria positive children prescribed an antimalarial",
+                "description": "Only children with a positive malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of malaria negative children prescribed an antimalarial",
+                "description": "Only children with a negative malaria test result will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of untested children prescribed an antimalarial",
+                "description": "Only children untested for malaria will be counted in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe, moderate and mild hypoxaemia, adjusted for sites at high altitude",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with hypoxaemia (according to differing cut-offs) with severe complication",
+                "description": "The following SpO2 values ranges will be used: SpO2 \\< 90%, 90% ≤ SpO2 \\< 92% and 92% ≤ SpO2 \\< 94%, spurious values and missing values. Each SpO2 group will be the denominator of each proportion.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children with severe hypoxaemia not meeting any other clinical criteria for severe disease",
+                "description": "Country's specific cut-off for severe hypoxaemia will be used. All children recruited will be in the denominator.",
+                "timeFrame": "At time of enrolment"
+              },
+              {
+                "measure": "Proportion of children referred with hypoxaemia who receive oxygen at hospital",
+                "description": "All children recruited will be in the denominator. Referral and hypoxaemia are assessed at Day0 consultation. Oxygen use at hospital is only available for hospitalised children from hospital records. At the time of enrolment hypoxaemia is measured and referral advise might be issued. Whether the child received oxygen or not at hospital is evaluated based on hospital registry and it refers to oxygen given at arrival to hospital. The specified time frame takes into account that the outcome is evaluated considering information recorded at different time points.",
+                "timeFrame": "At time of enrolment and at time of hospitalization"
+              },
+              {
+                "measure": "Proportion of children attending scheduled follow-up at the same facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              },
+              {
+                "measure": "Proportion of children presenting for unscheduled follow-up to any health facility by Day 7",
+                "description": "All children recruited will be in the denominator.",
+                "timeFrame": "From enrolment up to 7 days after"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Individual child inclusion:\n\n* Children 0 - 59 months for whom caregivers provide consent\n* Consulting for an illness, or reported to be unwell when attending for a routine visit (e.g. vaccination, growth or chronic disease monitoring)\n\nIndividual child exclusion:\n\n* Children in the immediate post-natal period or first day of life\n* Attending for a consultation related to trauma only (including new and follow-up presentations for burns, injuries, wounds)\n* Admitted within an inpatient part of the facility (including neonates delivered at the facility admitted with their mother)\n* Enrolled in the study within the preceding 28 days at any study facility",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Day",
+            "maximumAge": "5 Years",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Kaspar Wyss, Prof, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Valérie D'Acremont, MD, PhD",
+                "affiliation": "Swiss Tropical & Public Health Institute",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Bukemba",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igombe 60",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Imalamihayo",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Kazaroho",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Seleli",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Ulyankulu",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Uyowa",
+                "city": "Kaliua",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06056,
+                  "lon": 31.79361
+                }
+              },
+              {
+                "facility": "Igalagalilo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kagunga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kamanga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Kasungamile",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mulaga",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Mwabaluhi",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Nyamazugo",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema Secondary",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Sengerema",
+                "city": "Sengerema",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -2.66667,
+                  "lon": 32.65
+                }
+              },
+              {
+                "facility": "Duga",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kange",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kisosora",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Kwanjekanyota",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Machui",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mafuriko",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Magaoni",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mpirani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Mwakidila",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Ngamiani",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              },
+              {
+                "facility": "Nguvumali",
+                "city": "Tanga",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -5.06893,
+                  "lon": 39.09875
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40686675",
+                "type": "DERIVED",
+                "citation": "Beynon F, Mhalu G, Kumar D, Cicconi S, Langet H, Levine GA, Agarwal G, Festo C, Glass TR, Jacob A, Kumar G, Lwambura S, Matata L, Mkopi A, Moshiro R, Schaer F, Bandi V, Bohle LF, Emmanuel-Fabula M, Horlacher M, Horton S, Maiba J, Makawia S, Masanja N, Mjungu D, Mtebene IE, Odek O, Oliveira V, Pantjushenko E, Reus E, Ruffo M, Sharma K, Storey H, Tyagi M, D'Acremont V, Masanja H, Awasthi S, Wyss K; TIMCI Collaborator Group. Effectiveness of introducing pulse oximetry and clinical decision support algorithms for the management of sick children in primary care in India and Tanzania on hospitalisation and mortality: the TIMCI pragmatic cluster randomised controlled trial. EClinicalMedicine. 2025 Jul 3;85:103306. doi: 10.1016/j.eclinm.2025.103306. eCollection 2025 Jul."
+              },
+              {
+                "pmid": "38683158",
+                "type": "DERIVED",
+                "citation": "Beynon F, Langet H, Bohle LF, Awasthi S, Ndiaye O, Machoki M'Imunya J, Masanja H, Horton S, Ba M, Cicconi S, Emmanuel-Fabula M, Faye PM, Glass TR, Keitel K, Kumar D, Kumar G, Levine GA, Matata L, Mhalu G, Miheso A, Mjungu D, Njiri F, Reus E, Ruffo M, Schar F, Sharma K, Storey HL, Masanja I, Wyss K, D'Acremont V; TIMCI Collaborator Group. The Tools for Integrated Management of Childhood Illness (TIMCI) study protocol: a multi-country mixed-method evaluation of pulse oximetry and clinical decision support algorithms. Glob Health Action. 2024 Dec 31;17(1):2326253. doi: 10.1080/16549716.2024.2326253. Epub 2024 Apr 29."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Individual participant data will be shared that underlie the RCT outcomes as described in the study protocol, after anonymisation.",
+            "infoTypes": [
+              "STUDY_PROTOCOL",
+              "SAP",
+              "ICF"
+            ],
+            "timeFrame": "Individual participant data will be available immediately following the cross-country publication of the RCT study outcomes. No end date.",
+            "accessCriteria": "Anyone who wishes to access the data. Data will be available indefinitely on the TIMCI project space on Zenodo",
+            "url": "http://zenodo.org/communities/timci"
+          }
+        },
+        "documentSection": {
+          "largeDocumentModule": {
+            "largeDocs": [
+              {
+                "typeAbbrev": "Prot",
+                "hasProtocol": true,
+                "hasSap": false,
+                "hasIcf": false,
+                "label": "Study Protocol",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "Prot_000.pdf",
+                "size": 4456723
+              },
+              {
+                "typeAbbrev": "SAP",
+                "hasProtocol": false,
+                "hasSap": true,
+                "hasIcf": false,
+                "label": "Statistical Analysis Plan",
+                "date": "2023-04-05",
+                "uploadDate": "2023-06-07T10:02",
+                "filename": "SAP_001.pdf",
+                "size": 2258669
+              },
+              {
+                "typeAbbrev": "ICF",
+                "hasProtocol": false,
+                "hasSap": false,
+                "hasIcf": true,
+                "label": "Informed Consent Form",
+                "date": "2023-02-04",
+                "uploadDate": "2023-06-14T05:21",
+                "filename": "ICF_002.pdf",
+                "size": 1774642
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15",
+            "submissionTracking": {
+              "estimatedResultsFirstSubmitDate": "2025-01-17",
+              "submissionInfos": [
+                {
+                  "releaseDate": "2025-01-17",
+                  "resetDate": "2025-02-11",
+                  "mcpReleaseN": 6
+                },
+                {
+                  "releaseDate": "2025-05-27",
+                  "resetDate": "2025-06-11",
+                  "mcpReleaseN": 7
+                }
+              ]
+            }
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D011014",
+                "term": "Pneumonia"
+              },
+              {
+                "id": "D000860",
+                "term": "Hypoxia"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012141",
+                "term": "Respiratory Tract Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D012818",
+                "term": "Signs and Symptoms, Respiratory"
+              },
+              {
+                "id": "D012816",
+                "term": "Signs and Symptoms"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D010092",
+                "term": "Oximetry"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D001784",
+                "term": "Blood Gas Analysis"
+              },
+              {
+                "id": "D001774",
+                "term": "Blood Chemical Analysis"
+              },
+              {
+                "id": "D019963",
+                "term": "Clinical Chemistry Tests"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D006334",
+                "term": "Heart Function Tests"
+              },
+              {
+                "id": "D003935",
+                "term": "Diagnostic Techniques, Cardiovascular"
+              },
+              {
+                "id": "D012129",
+                "term": "Respiratory Function Tests"
+              },
+              {
+                "id": "D003948",
+                "term": "Diagnostic Techniques, Respiratory System"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "openalex_records": [],
+  "semantic_hits": [
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4405398893",
+      "title": "Malaria survey data and geospatial suitability mapping for understanding spatial and temporal variations of risk across Kenya",
+      "study_type": "article",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/j.parepi.2024.e00399",
+      "semantic_score": 0.8112006187438965,
+      "matched_sentences": [
+        "In this study, we examined how malaria and interventions varied across Kenya for 2015 and 2020.",
+        "Malaria remains a public health concern in Kenya where children and pregnant women are vulnerable groups."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2487690776",
+      "title": "Drug-susceptibility and molecular characterization of epidemic and endemic malaria in Kenya",
+      "study_type": "dissertation",
+      "year": "2002",
+      "url": "https://doi.org/10.17037/PUBS.04656622>",
+      "semantic_score": 0.764197587966919,
+      "matched_sentences": [
+        "Malaria in Kenya continues to pose a great threat to health."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36962553",
+      "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+      "study_type": "Publication",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+      "semantic_score": 0.7613165974617004,
+      "matched_sentences": [
+        "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41001521",
+      "title": "What is the potential impact of insecticide treated nets in a semi-arid region of northern Kenya? An investigation of vector populations prior to ITN roll-out in Turkana, Kenya.",
+      "study_type": "Journal Article, Preprint",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41001521/",
+      "semantic_score": 0.7611750960350037,
+      "matched_sentences": [
+        "The malaria ecology of northern Kenya differs from the rest of the country."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34339387",
+      "title": "Epidemiology of Plasmodium falciparum Infections in a Semi-Arid Rural African Setting: Evidence from Reactive Case Detection in Northwestern Kenya.",
+      "study_type": "Publication",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34339387/",
+      "semantic_score": 0.7521498203277588,
+      "matched_sentences": [
+        "In northwestern Kenya, Turkana County has been historically considered unsuitable for stable malaria transmission because of its unfavorable climate and predominantly semi-nomadic population; consequently, it is overlooked during malaria control planning."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04767191",
+      "title": "Malaria Therapeutic Efficacy Study (TES) Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04767191",
+      "semantic_score": 0.7484287023544312,
+      "matched_sentences": [
+        "In line with this WHO recommendation, Kenya Ministry of Health (MOH) is conducting the TES to determine the efficacy of artemether lumefantrine (AL), and dihydroartemisinin-piperaquine (DHP), the first and second line treatment of uncomplicated malaria in Kenya.",
+        "Jhpiego's Impact Malaria project in Kenya, with funding and technical oversight from US President's Malaria Initiative (PMI) through USAID and CDC, will support the Kenya MOH in its effort to evaluate the efficacy of AL and DHP in the treatment of children with uncomplicated malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21777441",
+      "title": "Treatment of African children with severe malaria - towards evidence-informed clinical practice using GRADE.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21777441/",
+      "semantic_score": 0.742354691028595,
+      "matched_sentences": [
+        "The WHO 2010 malaria guidance on severe malaria in children, which informed the Kenyan guidelines, only evaluated the evidence on one topic on paediatric care using the GRADE tool.",
+        "A critical assessment of the World Health Organization (WHO) and Kenyan paediatric malaria treatment guidelines with quinine was undertaken, with a focus on the quality of the evidence and transparency of the shift from evidence to recommendations."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W4395073970",
+      "title": "Current Status of Malaria Control and Elimination in Africa: Epidemiology, Diagnosis, Treatment, Progress and Challenges",
+      "study_type": "review",
+      "year": "2024",
+      "url": "https://doi.org/10.1007/s44197-024-00228-2",
+      "semantic_score": 0.7387721538543701,
+      "matched_sentences": [
+        "African countries have made certain progress in malaria control and elimination, including rapid diagnosis of malaria, promotion of mosquito nets and insecticides, intermittent prophylactic treatment in high-risk groups, artemisinin based combination therapies, and the development of vaccines.",
+        "However, many challenges are emerging in the fight against malaria in Africa, such as climate change, poverty, substandard health services and coverage, increased outdoor transmission and the emergence of new vectors, and the growing threat of resistance to antimalarial drugs and insecticides."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00336388",
+      "title": "Use of Rapid Diagnostic Tests for Malaria Case Management in Kenya",
+      "study_type": "INTERVENTIONAL",
+      "year": "2010",
+      "url": "https://clinicaltrials.gov/study/NCT00336388",
+      "semantic_score": 0.7281087636947632,
+      "matched_sentences": [
+        "The purpose of this study is to investigate the impact of rapid diagnostic tests (RDTs) in the context of a newly implemented malaria case management guidelines using artemisinin-based combination therapy on the malaria prescribing practices of health care workers in Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37966106",
+      "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya.",
+      "study_type": "Publication",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37966106/",
+      "semantic_score": 0.7149344682693481,
+      "matched_sentences": [
+        "In Kenya, the Division of National Malaria Program conducted entomological surveillance in counties at risk for An."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37779220",
+      "title": "Plasmodium vivax Prevalence in Semiarid Region of Northern Kenya, 2019.",
+      "study_type": "Letter",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37779220/",
+      "semantic_score": 0.713426411151886,
+      "matched_sentences": [
+        "In urban and rural areas of Turkana County, Kenya, we found that 2% of household members of patients with Plasmodium falciparum infections were infected with P."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "8758085",
+      "title": "A malariometric survey in Turkana District, Kenya: chemosensitivity in vivo of Plasmodium falciparum infections and identity of the vector.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8758085/",
+      "semantic_score": 0.7027428150177002,
+      "matched_sentences": [
+        "We have carried out a limited survey in vivo of the efficacy of chloroquine (n = 39) and pyrimethamine-sulfadoxine (n = 29) as treatments for falciparum malaria in Kaling, Turkana District, northern Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33046056",
+      "title": "High prevalence of asymptomatic malaria infections in adults, Ashanti Region, Ghana, 2018.",
+      "study_type": "Journal Article",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33046056/",
+      "semantic_score": 0.7002208232879639,
+      "matched_sentences": [
+        "Ghana is among the high-burden countries for malaria infections and recently reported a notable increase in malaria cases.",
+        "The present study aims to assess the prevalence of asymptomatic Plasmodium falciparum and non-falciparum infections in Ghanaian adults in the Ashanti region during the high transmission season."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29916441",
+      "title": "Epidemiology, drug resistance, and pathophysiology of",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29916441/",
+      "semantic_score": 0.6915262341499329,
+      "matched_sentences": [
+        "Therefore, in Africa, most malaria infections are by P."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.6872756481170654,
+      "matched_sentences": [
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy.",
+        "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi.",
+        "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3115538698",
+      "title": "High level of resistance in Anopheles arabiensis mosquito to pyrethroid insecticides from low malaria transmission zone of Moroto district, Karamoja region, Uganda: Implication for malaria vector control",
+      "study_type": "preprint",
+      "year": "2020",
+      "url": "https://doi.org/10.21203/rs.3.rs-16734/v2",
+      "semantic_score": 0.6851961612701416,
+      "matched_sentences": [
+        "Abstract Background: Karamoja region of Uganda previously classified as low malaria transmission zone is currently experiencing significant upsurge of malaria incidences."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07362498",
+      "title": "Health Systems Implementation and Molecular Surveillance of Multiple First-Line Treatments for Uncomplicated Malaria in Western Kenya",
+      "study_type": "OBSERVATIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT07362498",
+      "semantic_score": 0.6832612752914429,
+      "matched_sentences": [
+        "This implementation study evaluated the health systems feasibility, economic costs, and stakeholder acceptability of deploying multiple first-line therapies (MFTs) that were of the artemisinin-based combination therapies (ACTs) type, for uncomplicated malaria in Western Kenya.",
+        "Complexity of infection (COI) determined by molecular methods METHODS: * Sample collection: Dried blood spots (n=310) from malaria-positive patients at four timepoints * Molecular analysis: Targeted amplicon deep sequencing using Oxford Nanopore Technology * Health systems assessment: Semi-structured questionnaires, key informant interviews, exit interviews, cost analysis using activity-based costing * Statistical analysis: Chi-square tests, Cochran-Armitage trend tests, machine learning models for resistance prediction SETTING: Government and faith-based health facilities in Homa Bay County facilities received MFTs and Migori County (control) where AL was the only ACT used in Western Kenya, a malaria-endemic region with high transmission intensity."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3116291378",
+      "title": "High level of resistance in the mosquito Anopheles arabiensis to pyrethroid insecticides from low malaria transmission zone of Moroto district, Karamoja region, Uganda: Implication for malaria vector control",
+      "study_type": "preprint",
+      "year": "2020",
+      "url": "https://doi.org/10.21203/rs.3.rs-16734/v1",
+      "semantic_score": 0.6827815771102905,
+      "matched_sentences": [
+        "Abstract Background Karamoja region of Uganda previously classified as low malaria transmission zone is currently experiencing significant upsurge of malaria incidences."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04829695",
+      "title": "Efficacy and Safety of Artesunate-amodiaquine and Artemether-lumefantrine for the Treatment of Malaria in Cameroon",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04829695",
+      "semantic_score": 0.6797559261322021,
+      "matched_sentences": [
+        "Purpose: To monitor the efficacy and safety of artesunate-amodiaquine and artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria among children in the Center Region of Cameroon.",
+        "Official title: Monitoring the efficacy and safety of artesunate-amodiaquine and artemether-lumefantrine for the treatment of uncomplicated Plasmodium falciparum malaria among children in the Center Region of Cameroon.",
+        "Brief title: Efficacy and safety of artesunate-amodiaquine and artemether-lumefantrine for the treatment of malaria in Cameroon."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41666451",
+      "title": "A Baseline Mixed-Methods Study to Inform Seasonal Malaria Chemoprevention Delivery in a Semi-Nomadic Population in Turkana, Kenya.",
+      "study_type": "Publication",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41666451/",
+      "semantic_score": 0.677125871181488,
+      "matched_sentences": [
+        "After the expansion of the World Health Organization's guidelines on eligibility for the seasonal malaria chemoprevention (SMC), the government of Kenya prepared to implement SMC for a first time in Turkana Central Subcounty in 2024."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05340153",
+      "title": "Efficacy and Safety of Artemether-Lumefantrine and Dihydroartemisinin-Piperaquine in Cameroon",
+      "study_type": "INTERVENTIONAL",
+      "year": "2022",
+      "url": "https://clinicaltrials.gov/study/NCT05340153",
+      "semantic_score": 0.6766284108161926,
+      "matched_sentences": [
+        "Brief title: Efficacy and Safety of Artemether-Lumefantrine (AL) and Dihydroartemisinin-Piperaquine (DHA-PPQ) in Cameroon Official title: Efficacy and Safety of Artemether-Lumefantrine and Dihydroartemisinin-Piperaquine for the treatment of uncomplicated Plasmodium falciparum malaria among children in the North Region of Cameroon Purpose: To assess the efficacy and safety of artemether-lumefantrine (AL) and dihydroartemisinin-piperaquine (DHA-PPQ) for the treatment of uncomplicated P."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+      "semantic_score": 0.6754493713378906,
+      "matched_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2899623404",
+      "title": "Determining the Causal Role of Malaria in Elevating Blood Pressure and Pulse Wave Velocity in Kenyan Adolescents and Adults",
+      "study_type": "dissertation",
+      "year": "2018",
+      "url": "https://doi.org/10.17037/PUBS.04646135>",
+      "semantic_score": 0.6751396059989929,
+      "matched_sentences": [
+        "Two studies were performed in Nairobi, Kenya among the same cohort to confirm that sickle-cell trait and alpha-thalassemia do not influence blood pressure in the absence of malaria and were therefore valid instrumental variables to test the malaria-high blood pressure hypothesis in Kilifi where there is malaria transmission.",
+        "Among individuals that had been lifelong residents of Kilifi, Kenya where there has been on-going malaria transmission, blood pressure was found to be lower among individuals with SCT, which protects against malaria episodes compared to those without SCT."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00301015",
+      "title": "Rapid Diagnostic Testing and Artemisinin-Based Combination Therapy for Uncomplicated Malaria by Community Health Workers",
+      "study_type": "INTERVENTIONAL",
+      "year": "2007",
+      "url": "https://clinicaltrials.gov/study/NCT00301015",
+      "semantic_score": 0.6733805537223816,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the efficiency of a rapid diagnostic test (Paracheck Pf) for the diagnosis of uncomplicated Plasmodium falciparum malaria by community health workers at village level in Tanzania and how the use of rapid diagnostic test may influence prescription of antimalarial drugs."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35449995",
+      "title": "A brief review of malaria epidemiological trend in Kermanshah province, Iran, 1986-2014.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35449995/",
+      "semantic_score": 0.6687241196632385,
+      "matched_sentences": [
+        "As a result of strict malaria control programs, malaria's epidemiological model has changed."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00282919",
+      "title": "A Three Day Trial of Azithromycin Plus Chloroquine for the Treatment of Uncomplicated Plasmodium Falciparum Malaria",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00282919",
+      "semantic_score": 0.6668465733528137,
+      "matched_sentences": [
+        "The treatment of symptomatic, uncomplicated malaria caused by P."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02043652",
+      "title": "Plasmodium Vivax Efficacy Trial in Cruzeiro do Sul, Acre, Brazil",
+      "study_type": "INTERVENTIONAL",
+      "year": "2018",
+      "url": "https://clinicaltrials.gov/study/NCT02043652",
+      "semantic_score": 0.6659541130065918,
+      "matched_sentences": [
+        "Results from this drug efficacy study will be used to assist the Brazilian Ministry of Health in assessing their national malaria treatment policy for P.",
+        "Most countries in the Americas have adopted the WHO Global Strategy for Malaria Control, which relies on prompt and effective antimalarial treatment as the major means of reducing malaria morbidity and mortality (WHO 2008)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04778813",
+      "title": "Evaluation of Three Artemisinin-based Combinations for the Treatment of Uncomplicated Malaria in Childreen in Burkina Faso (CHIMIO2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04778813",
+      "semantic_score": 0.6644442081451416,
+      "matched_sentences": [
+        "Bakground In Burkina Faso, since the adoption of this new malaria treatment policy in 2005, several studies evaluating the efficacy and tolerance of ACTs have been carried out by different research teams at different sites according to an irregular chronology and according to different methods.",
+        "The herein study aims to assess the efficacy and safety of AL, DHA-PPQ and As-Pyr in the treatment of uncomplicated malaria in children in three health districts in Burkina Faso, namely the health districts of Banfora, Nanoro and de Gourcy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36189366",
+      "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+      "semantic_score": 0.663260281085968,
+      "matched_sentences": [
+        "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00137657",
+      "title": "Impact of Cotrimoxazole Prophylaxis for HIV-Infected Adults on Antifolate Resistance",
+      "study_type": "INTERVENTIONAL",
+      "year": "2005",
+      "url": "https://clinicaltrials.gov/study/NCT00137657",
+      "semantic_score": 0.6632584929466248,
+      "matched_sentences": [
+        "We conducted this study in Kisumu, Kenya where HIV prevalence is high and malaria is highly endemic."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04158713",
+      "title": "Improving PRegnancy Outcomes With PReVEntive Therapy in Africa-2 (IMPROVE-2)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04158713",
+      "semantic_score": 0.6620593070983887,
+      "matched_sentences": [
+        "Overview Study Design: This multi-centre trial will be conducted in antenatal clinics in 8 hospitals in Kenya and Malawi located in areas with high prevalence of HIV and malaria and with high anti-folate resistance of the malaria parasite."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24489732",
+      "title": "Malaria and helminth co-infections in school and preschool children: a cross-sectional study in Magu district, north-western Tanzania.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24489732/",
+      "semantic_score": 0.6612465381622314,
+      "matched_sentences": [
+        "The current study investigated malaria and helminth co-infections and anaemia in school and pre-school children in Magu district, Tanzania."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "20513543",
+      "title": "Malaria.",
+      "study_type": "Journal Article, Review",
+      "year": "2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20513543/",
+      "semantic_score": 0.6560590267181396,
+      "matched_sentences": [
+        "A comprehensive review of the microbiology, clinical presentation, pathogenesis, diagnosis, and treatment of these forms of malaria is given."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W3088908627",
+      "title": "Response of Malaria Hazard and Risk to a Hydroelectric Dam in Ethiopia Using GIS and Remote Sensing",
+      "study_type": "preprint",
+      "year": "2020",
+      "url": "https://doi.org/10.20944/preprints202009.0641.v1",
+      "semantic_score": 0.6536703109741211,
+      "matched_sentences": [
+        "In the past twenty years, malaria prevalence has decreased throughout Sub-Saharan Africa; yet, anthropogenic environmental changes are changing the landscape of malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38320272",
+      "title": "Extracellular Vesicles in Malaria: Shedding Light on Pathogenic Depths.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38320272/",
+      "semantic_score": 0.6512619256973267,
+      "matched_sentences": [
+        "Malaria, a life-threatening infectious disease caused by"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02207816",
+      "title": "An Extension to Study MALARIA-055 PRI (NCT00866619) to Evaluate the Long-term Efficacy, Safety and Immunogenicity of GSK Biologicals' Candidate Malaria Vaccine in Infants and Children in Africa",
+      "study_type": "INTERVENTIONAL",
+      "year": "2019",
+      "url": "https://clinicaltrials.gov/study/NCT02207816",
+      "semantic_score": 0.6507683992385864,
+      "matched_sentences": [
+        "The purpose of this study is to conduct long-term surveillance for efficacy, safety and immunogenicity of the GSK Biologicals RTS,S/AS01E candidate Plasmodium falciparum malaria vaccine in infants and children in Africa following a primary vaccination series (NCT00866619)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00442403",
+      "title": "Safety and Efficacy of Chloroquine Associated With Dehydroepiandrosterone Sulphate to Treat Uncomplicated Falciparum Malaria",
+      "study_type": "INTERVENTIONAL",
+      "year": "2007",
+      "url": "https://clinicaltrials.gov/study/NCT00442403",
+      "semantic_score": 0.6506099700927734,
+      "matched_sentences": [
+        "Worldwide progression of Plasmodium falciparum chloroquine (CQ), amodiaquine and sulfadoxine-pyrimethamine resistance leaves few alternative for the control of malaria, particularly in Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38583454",
+      "title": "Feasibility, safety, and impact of the RTS,S/AS01",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Randomized Controlled Trial",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38583454/",
+      "semantic_score": 0.6504018902778625,
+      "matched_sentences": [
+        "Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04767217",
+      "title": "Malaria Therapeutic Efficacy Study, Rwanda",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT04767217",
+      "semantic_score": 0.6479486227035522,
+      "matched_sentences": [
+        "This study will monitor the efficacy of ALN (which has been used in Rwanda for the last 14 years) and dihydroartemisinin-piperaquine (DHA-PPQ), another WHO-approved ACT for the treatment of uncomplicated malaria which has not been used in Rwanda."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33058136",
+      "title": "House modifications for preventing malaria.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Systematic Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33058136/",
+      "semantic_score": 0.6468281149864197,
+      "matched_sentences": [
+        "Researchers and policymakers are therefore exploring alternative and supplementary malaria vector control tools."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33471371",
+      "title": "House modifications for preventing malaria.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Systematic Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33471371/",
+      "semantic_score": 0.6468281149864197,
+      "matched_sentences": [
+        "Researchers and policymakers are therefore exploring alternative and supplementary malaria vector control tools."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01872702",
+      "title": "Targeted Chemo-elimination (TCE) of Malaria",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT01872702",
+      "semantic_score": 0.6452150344848633,
+      "matched_sentences": [
+        "Most or all infections are thought to be symptomatic so the focus of malaria control activities is on the identification and treatment of symptomatic individuals."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15931154",
+      "title": "Malaria surveillance--United States, 2003.",
+      "study_type": "Journal Article",
+      "year": "2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15931154/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "16723971",
+      "title": "Malaria surveillance--United States, 2004.",
+      "study_type": "Case Reports, Journal Article",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16723971/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11770906",
+      "title": "Malaria surveillance--United States, 1998.",
+      "study_type": "Case Reports, Journal Article",
+      "year": "2001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11770906/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12420905",
+      "title": "Malaria surveillance--United States, 1999.",
+      "study_type": "Journal Article",
+      "year": "2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12420905/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15123983",
+      "title": "Malaria surveillance--United States, 2002.",
+      "study_type": "Journal Article",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15123983/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12875252",
+      "title": "Malaria surveillance--United States, 2001.",
+      "study_type": "Journal Article",
+      "year": "2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12875252/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "10074931",
+      "title": "Malaria surveillance--United States, 1995.",
+      "study_type": "Journal Article",
+      "year": "1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10074931/",
+      "semantic_score": 0.6415069103240967,
+      "matched_sentences": [
+        "Malaria infections can be fatal if not diagnosed and treated promptly."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41029815",
+      "title": "The effect of non-adherence to treatment guidelines, quantification and distribution practices on antimalarial commodities inventory levels in healthcare facilities at Turkana County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41029815/",
+      "semantic_score": 0.6414379477500916,
+      "matched_sentences": [
+        "Adherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00687895",
+      "title": "Improved Clinical and Microscopy Diagnosis at Primary Health Care in Tanzania",
+      "study_type": "INTERVENTIONAL",
+      "year": "2008",
+      "url": "https://clinicaltrials.gov/study/NCT00687895",
+      "semantic_score": 0.638477087020874,
+      "matched_sentences": [
+        "General objective: To improve the quality of fever case management in children in government health facilities in Tanzania Hypothesis:The training of health workers, as well as provision, training and use of microscopes for malaria diagnosis will improve the treatment of clinical episodes of fever in children while reducing the amount and costs of drugs PHC facilities were eligible for the study if they were rural government owned; accessible by road during rainy season; and within 3 hours by car from Muhimbili University College of Health Sciences (MUCHS), Dar es Salaam All children attending the 16 PHC facilities under the study during daytime were enrolled if they fulfilled the following criteria: 1."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36649040",
+      "title": "An Overview of Malaria Transmission Mechanisms, Control, and Modeling.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36649040/",
+      "semantic_score": 0.6384552717208862,
+      "matched_sentences": [
+        "As there is a large amount of information on each subject, we have attempted to provide a basic understanding of malaria that needs to be further developed.",
+        "More importantly, using a system approach lens, we intend to highlight the debated topics and the multifaceted thematic aspects of malaria transmission mechanisms, while showing the control approaches used as well as the model supporting the dynamics of malaria.",
+        "However, few studies have demonstrated malaria's complexity, control, and modeling although this perspective could lead to effective policy recommendations."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03893097",
+      "title": "Evaluation of Artesunate-mefloquine as a Novel Alternative Treatment for Schistosomiasis in African Children",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT03893097",
+      "semantic_score": 0.6379634141921997,
+      "matched_sentences": [
+        "and malaria infection and associated morbidity (compared to baseline)"
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21508921",
+      "title": "Malaria surveillance--United States, 2009.",
+      "study_type": "Case Reports, Journal Article",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21508921/",
+      "semantic_score": 0.6379191875457764,
+      "matched_sentences": [
+        "ovale infections, putting patients at risk for relapsing malaria."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05400655",
+      "title": "Anti-malaria MAb in Kenyan Children",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05400655",
+      "semantic_score": 0.6366002559661865,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the safety and tolerability of one-time subcutaneous (SC) administration of monoclonal antibody (MAb) L9LS in healthy Kenyan children aged 5 months to 10 years, as well as the protective efficacy of one or two doses of L9LS against naturally occurring Plasmodium falciparum (Pf) infection among Kenyan children aged 5 to 59 months at enrollment, in a setting of perennial high transmission.",
+        "A two-part, phase 2 trial evaluating the safety and tolerability of one-time subcutaneous (SC) administration of monoclonal antibody (MAb) L9LS in healthy Kenyan children aged 5 months to 10 years, as well as the protective efficacy of one or two doses of L9LS against naturally occurring Plasmodium falciparum (Pf) infection among Kenyan children aged 5 to 59 months at enrollment, in a setting of perennial high transmission."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04299607",
+      "title": "Evaluation of the DPP II Assay in Laos",
+      "study_type": "OBSERVATIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT04299607",
+      "semantic_score": 0.6363868117332458,
+      "matched_sentences": [
+        "Since their introduction in the market, rapid diagnostic tests for malaria have driven patient management and care."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00873938",
+      "title": "Compliance to Artesunate-Amodiaquine Therapy for Uncomplicated Malaria in Rural Ghana",
+      "study_type": "OBSERVATIONAL",
+      "year": "2010",
+      "url": "https://clinicaltrials.gov/study/NCT00873938",
+      "semantic_score": 0.6359484791755676,
+      "matched_sentences": [
+        "With a change in malaria treatment policy to use combination antimalaria therapy, it is envisaged that compliance to combination therapy would be less than that of monotherapy that was being used for case management in Ghana."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32530424",
+      "title": "Efficacy and tolerability of artemisinin-based and quinine-based treatments for uncomplicated falciparum malaria in pregnancy: a systematic review and individual patient data meta-analysis.",
+      "study_type": "Journal Article, Meta-Analysis, Research Support, Non-U.S. Gov't, Systematic Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32530424/",
+      "semantic_score": 0.6358882188796997,
+      "matched_sentences": [
+        "However, evidence supporting treatment guidelines for uncomplicated (including asymptomatic) falciparum malaria in pregnant women is scarce and assessed in varied ways."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "11123822",
+      "title": "Using evidence to change antimalarial drug policy in Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11123822/",
+      "semantic_score": 0.6328298449516296,
+      "matched_sentences": [
+        "There is an urgent need for international standards and evidence-based guidelines to provide a framework to assist the process by which decision-makers in malaria-endemic countries can make rational choices for antimalarial drug policy change."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT07281443",
+      "title": "MDA and Targeted Control Against Plasmodium Carriage in the Sahel",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT07281443",
+      "semantic_score": 0.6317522525787354,
+      "matched_sentences": [
+        "Current interventions include : long-lasting insecticidal nets, free diagnostic and treatment of clinical malaria, home-based case management (PECADOM), intermittent preventive treatment of pregnant women and seasonal malaria chemoprevention for children up to 10 years."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01944189",
+      "title": "Artemether/ Lumefantrine: A Study of the Effect of Local Food on Pharmacokinetics and Population Pharmacokinetics",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT01944189",
+      "semantic_score": 0.6313213109970093,
+      "matched_sentences": [
+        "Artemether-lumefantrine is currently the first line treatment of uncomplicated malaria in Uganda and several countries in sub Saharan Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33884362",
+      "title": "Proceedings of an expert workshop on community agreement for gene drive research in Africa - Co-organised by KEMRI, PAMCA and Target Malaria.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33884362/",
+      "semantic_score": 0.6296409964561462,
+      "matched_sentences": [
+        "Target Malaria, the Kenya Medical Research Institute and the Pan African Mosquito Control Association co-organised a workshop with researchers and practitioners on this topic to question the model proposed by Target Malaria in its research so far that involved the release of genetically modified sterile male mosquitoes and how this could be adapted to future studies involving gene drive mosquito releases for them to offer reflections about potential best practices."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04370977",
+      "title": "In Vivo Efficacy of Artemether-lumefantrine and Amodiaquine-artesunate in Mozambican Children (MEFI_III)",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT04370977",
+      "semantic_score": 0.6294139623641968,
+      "matched_sentences": [
+        "This is a classical in vivo clinical trial, following World Health organization's recommendations, ran as a multisite study within Mozambique trying to assess the efficacy and safety in 4 sites of the two oral ACTS artemether-lumefantrine (AL) and Amodiaquine-Artesunate (AQ-AS), first line treatment for malaria in mozambique, for the treatment of uncomplicated malaria in children aged\\<5 years."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30706124",
+      "title": "Malaria and acute kidney injury.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30706124/",
+      "semantic_score": 0.6293632984161377,
+      "matched_sentences": [
+        "Providers must consider malarial infection in cases of AKI in someone with a travel history, as early recognition and treatment are crucial to improving outcomes."
+      ]
+    }
+  ]
+}

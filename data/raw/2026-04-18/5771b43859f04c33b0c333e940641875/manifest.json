@@ -1,0 +1,71 @@
+{
+  "run_id": "5771b43859f04c33b0c333e940641875",
+  "stored_at": "2026-04-18T16:19:49+00:00",
+  "query": "parkinson’s disease parkinson disease stage levodopa",
+  "query_fallbacks": [
+    "parkinson’s disease parkinson disease stage levodopa",
+    "(Parkinson's disease AND stage 2 AND levodopa AND wearing off)",
+    "(Parkinson's disease AND progression AND levodopa)",
+    "(Parkinson's disease AND levodopa AND motor fluctuations)",
+    "(Parkinson's disease AND stage 2 AND disease progression)",
+    "parkinson’s disease parkinson disease stage treatment",
+    "parkinson’s disease"
+  ],
+  "heuristic_fallbacks": [
+    "parkinson’s disease parkinson disease stage levodopa",
+    "parkinson’s disease parkinson disease stage treatment",
+    "parkinson’s disease"
+  ],
+  "expanded_queries": [
+    "(Parkinson's disease AND stage 2 AND levodopa AND wearing off)",
+    "(Parkinson's disease AND progression AND levodopa)",
+    "(Parkinson's disease AND levodopa AND motor fluctuations)",
+    "(Parkinson's disease AND stage 2 AND disease progression)"
+  ],
+  "keywords": [
+    "parkinson’s disease",
+    "parkinson",
+    "disease",
+    "stage",
+    "levodopa",
+    "wearing",
+    "off",
+    "progression"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 17,
+    "openalex": 0,
+    "semantic_hits": 26,
+    "indexed_chunks": 126
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "(Parkinson's disease AND stage 2 AND levodopa AND wearing off)",
+      "(Parkinson's disease AND progression AND levodopa)",
+      "(Parkinson's disease AND levodopa AND motor fluctuations)",
+      "(Parkinson's disease AND stage 2 AND disease progression)"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\5771b43859f04c33b0c333e940641875\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\5771b43859f04c33b0c333e940641875\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\5771b43859f04c33b0c333e940641875\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\5771b43859f04c33b0c333e940641875\\combined.records.json"
+  }
+}

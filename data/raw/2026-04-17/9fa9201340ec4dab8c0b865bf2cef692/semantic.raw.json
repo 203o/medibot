@@ -1,0 +1,982 @@
+{
+  "enabled": true,
+  "indexed_chunks": 15,
+  "matches": [
+    {
+      "id": "pubmed:35323350:0",
+      "score": 0.7914983630180359,
+      "metadata": {
+        "id": "pubmed:35323350:0",
+        "doc_id": "35323350",
+        "source": "pubmed",
+        "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+        "text": "Here, we present a contemporary review of treatment of non-small cell lung cancer in Canada based on current best practices."
+      }
+    },
+    {
+      "id": "pubmed:26297204:0",
+      "score": 0.7695010304450989,
+      "metadata": {
+        "id": "pubmed:26297204:0",
+        "doc_id": "26297204",
+        "source": "pubmed",
+        "title": "Lung cancer: Biology and treatment options.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26297204/",
+        "text": "Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy."
+      }
+    },
+    {
+      "id": "pubmed:15110450:1",
+      "score": 0.7597282528877258,
+      "metadata": {
+        "id": "pubmed:15110450:1",
+        "doc_id": "15110450",
+        "source": "pubmed",
+        "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+        "text": "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature."
+      }
+    },
+    {
+      "id": "pubmed:26297204:1",
+      "score": 0.739403247833252,
+      "metadata": {
+        "id": "pubmed:26297204:1",
+        "doc_id": "26297204",
+        "source": "pubmed",
+        "title": "Lung cancer: Biology and treatment options.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26297204/",
+        "text": "The purpose of this review is to summarize the recent developments in lung cancer biology and its therapeutic strategies, and discuss the latest treatment advances including therapies currently under clinical investigation."
+      }
+    },
+    {
+      "id": "pubmed:36290875:0",
+      "score": 0.7305397987365723,
+      "metadata": {
+        "id": "pubmed:36290875:0",
+        "doc_id": "36290875",
+        "source": "pubmed",
+        "title": "Access to Cancer Drugs in Canada.",
+        "study_type": "Editorial",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+        "text": "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      }
+    },
+    {
+      "id": "pubmed:33911215:2",
+      "score": 0.7209888696670532,
+      "metadata": {
+        "id": "pubmed:33911215:2",
+        "doc_id": "33911215",
+        "source": "pubmed",
+        "title": "Evolution of systemic therapy for stages I-III non-metastatic non-small-cell lung cancer.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33911215/",
+        "text": "The treatment goal for patients with early-stage lung cancer is cure."
+      }
+    },
+    {
+      "id": "pubmed:15110450:0",
+      "score": 0.7190079689025879,
+      "metadata": {
+        "id": "pubmed:15110450:0",
+        "doc_id": "15110450",
+        "source": "pubmed",
+        "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+        "text": "A questionnaire detailing different aspects of radiation treatment of lung cancer was mailed to all radiation oncologists treating lung cancer in Canada."
+      }
+    },
+    {
+      "id": "pubmed:40016063:0",
+      "score": 0.7079198360443115,
+      "metadata": {
+        "id": "pubmed:40016063:0",
+        "doc_id": "40016063",
+        "source": "pubmed",
+        "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40016063/",
+        "text": "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents."
+      }
+    },
+    {
+      "id": "pubmed:40334018:2",
+      "score": 0.7061187028884888,
+      "metadata": {
+        "id": "pubmed:40334018:2",
+        "doc_id": "40334018",
+        "source": "pubmed",
+        "title": "Immunotherapy for resectable lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40334018/",
+        "text": "Lung cancer remains a significant global health challenge, demanding innovative treatment strategies."
+      }
+    },
+    {
+      "id": "pubmed:37306641:0",
+      "score": 0.7023496627807617,
+      "metadata": {
+        "id": "pubmed:37306641:0",
+        "doc_id": "37306641",
+        "source": "pubmed",
+        "title": "The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.",
+        "study_type": "Practice Guideline, Journal Article, Consensus Statement",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37306641/",
+        "text": "Novel targeted therapy and immunotherapy drugs have recently been approved for use in patients with surgically resectable lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:34862216:1",
+      "score": 0.7010718584060669,
+      "metadata": {
+        "id": "pubmed:34862216:1",
+        "doc_id": "34862216",
+        "source": "pubmed",
+        "title": "Lung cancer for the non-respiratory physician.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34862216/",
+        "text": "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment."
+      }
+    },
+    {
+      "id": "pubmed:27574741:0",
+      "score": 0.6974098682403564,
+      "metadata": {
+        "id": "pubmed:27574741:0",
+        "doc_id": "27574741",
+        "source": "pubmed",
+        "title": "Lung cancer: current therapies and new targeted treatments.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27574741/",
+        "text": "In this Seminar, we discuss existing treatment for patients with lung cancer and the promise of precision medicine, with special emphasis on new targeted therapies."
+      }
+    },
+    {
+      "id": "pubmed:24067269:0",
+      "score": 0.6867119073867798,
+      "metadata": {
+        "id": "pubmed:24067269:0",
+        "doc_id": "24067269",
+        "source": "pubmed",
+        "title": "Lung cancer: needs assessment, treatment and therapies.",
+        "study_type": "Journal Article, Review",
+        "year": "2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24067269/",
+        "text": "This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies."
+      }
+    },
+    {
+      "id": "pubmed:36426803:2",
+      "score": 0.6866602897644043,
+      "metadata": {
+        "id": "pubmed:36426803:2",
+        "doc_id": "36426803",
+        "source": "pubmed",
+        "title": "Management of Lung Cancer in the Patient with Interstitial Lung Disease.",
+        "study_type": "Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36426803/",
+        "text": "Lung cancer treatment in these patients pose several specific considerations."
+      }
+    },
+    {
+      "id": "pubmed:35876944:1",
+      "score": 0.6861675977706909,
+      "metadata": {
+        "id": "pubmed:35876944:1",
+        "doc_id": "35876944",
+        "source": "pubmed",
+        "title": "The gut microbiome, immune check point inhibition and immune-related adverse events in non-small cell lung cancer.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35876944/",
+        "text": "Systemic treatment options for patients with lung cancer have expanded in recent years, with a number of immunotherapeutic strategies now in our treatment armamentarium."
+      }
+    },
+    {
+      "id": "pubmed:37675321:0",
+      "score": 0.6800152063369751,
+      "metadata": {
+        "id": "pubmed:37675321:0",
+        "doc_id": "37675321",
+        "source": "pubmed",
+        "title": "Developments in targeted therapy & immunotherapy-how non-small cell lung cancer management will change in the next decade: a narrative review.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37675321/",
+        "text": "This review encompasses the latest updates in targeted therapy and immunotherapy in lung cancer management and discusses the future direction in the field."
+      }
+    },
+    {
+      "id": "pubmed:29700105:0",
+      "score": 0.6796658635139465,
+      "metadata": {
+        "id": "pubmed:29700105:0",
+        "doc_id": "29700105",
+        "source": "pubmed",
+        "title": "Lung cancer staging: a concise update.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29700105/",
+        "text": "Diagnosis and clinical staging of lung cancer are fundamental to planning therapy."
+      }
+    },
+    {
+      "id": "pubmed:37675321:1",
+      "score": 0.6772488951683044,
+      "metadata": {
+        "id": "pubmed:37675321:1",
+        "doc_id": "37675321",
+        "source": "pubmed",
+        "title": "Developments in targeted therapy & immunotherapy-how non-small cell lung cancer management will change in the next decade: a narrative review.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37675321/",
+        "text": "The adoption of targeted therapy and immunotherapy has revolutionised the treatment landscape of non-small cell lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:37916619:1",
+      "score": 0.6732679605484009,
+      "metadata": {
+        "id": "pubmed:37916619:1",
+        "doc_id": "37916619",
+        "source": "pubmed",
+        "title": "Treatment strategies for malignant pulmonary nodule: beyond lobectomy. Point-counterpoint.",
+        "study_type": "Review, Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37916619/",
+        "text": "It has become a promising technique in lung cancer management with its diverse applicability."
+      }
+    },
+    {
+      "id": "pubmed:33911215:1",
+      "score": 0.6675085425376892,
+      "metadata": {
+        "id": "pubmed:33911215:1",
+        "doc_id": "33911215",
+        "source": "pubmed",
+        "title": "Evolution of systemic therapy for stages I-III non-metastatic non-small-cell lung cancer.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33911215/",
+        "text": "In this Review, we present the current considerations in the treatment of patients with early-stage lung cancer and explore the current and future state of clinical research to develop systemic therapies for non-metastatic lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:2102366:0",
+      "score": 0.6556474566459656,
+      "metadata": {
+        "id": "pubmed:2102366:0",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "This article reviews lung cancer mortality and smoking prevalence in Canada."
+      }
+    },
+    {
+      "id": "pubmed:38031889:1",
+      "score": 0.655009388923645,
+      "metadata": {
+        "id": "pubmed:38031889:1",
+        "doc_id": "38031889",
+        "source": "pubmed",
+        "title": "What's new in thoracic oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38031889/",
+        "text": "All these have significantly started to change our approach toward the management of lung cancer and have great potential to improve the lives of our patients afflicted with this disease."
+      }
+    },
+    {
+      "id": "pubmed:39236577:1",
+      "score": 0.6546440124511719,
+      "metadata": {
+        "id": "pubmed:39236577:1",
+        "doc_id": "39236577",
+        "source": "pubmed",
+        "title": "New diagnostic and nonsurgical local treatment modalities for early stage lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39236577/",
+        "text": "This paper highlights developments in diagnostic and nonsurgical local treatment modalities that have changed the management of early-stage lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:39118957:2",
+      "score": 0.6334167718887329,
+      "metadata": {
+        "id": "pubmed:39118957:2",
+        "doc_id": "39118957",
+        "source": "pubmed",
+        "title": "Review on endobronchial therapies-current status and future.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39118957/",
+        "text": "There is a growing demand for lung parenchymal-sparing localized therapies due to the rising incidence of multifocal lung cancers and the growing number of patients who cannot undergo surgery."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06634056:0",
+      "score": 0.6334096193313599,
+      "metadata": {
+        "id": "clinicaltrials:NCT06634056:0",
+        "doc_id": "NCT06634056",
+        "source": "clinicaltrials",
+        "title": "Pneumonitis Prevention Protocol Using Pentoxifylline and α-tocopherol In Stage III Non-Small Cell Lung Cancer Patients Undergoing Chemoradiation",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06634056",
+        "text": "Currently, the standard of care treatment for newly diagnosed, inoperable stage III non-small cell lung cancer is radiotherapy (RT) with concurrent chemotherapy, followed by immune checkpoint inhibitors (ICI)."
+      }
+    },
+    {
+      "id": "pubmed:39121882:0",
+      "score": 0.6329926252365112,
+      "metadata": {
+        "id": "pubmed:39121882:0",
+        "doc_id": "39121882",
+        "source": "pubmed",
+        "title": "New promises and challenges in the treatment of advanced non-small-cell lung cancer.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39121882/",
+        "text": "Targeted therapies and immunotherapies have radically improved treatment for advanced non-small-cell lung cancer (NSCLC)."
+      }
+    },
+    {
+      "id": "pubmed:29364287:0",
+      "score": 0.6325317621231079,
+      "metadata": {
+        "id": "pubmed:29364287:0",
+        "doc_id": "29364287",
+        "source": "pubmed",
+        "title": "The biology and management of non-small cell lung cancer.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29364287/",
+        "text": "Important advancements in the treatment of non-small cell lung cancer (NSCLC) have been achieved over the past two decades, increasing our understanding of the disease biology and mechanisms of tumour progression, and advancing early detection and multimodal care."
+      }
+    },
+    {
+      "id": "pubmed:38031889:0",
+      "score": 0.631784200668335,
+      "metadata": {
+        "id": "pubmed:38031889:0",
+        "doc_id": "38031889",
+        "source": "pubmed",
+        "title": "What's new in thoracic oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38031889/",
+        "text": "In this review, we will discuss new diagnostic techniques for lung cancer, innovations in surgery, and major updates on latest treatment options including immunotherapy."
+      }
+    },
+    {
+      "id": "pubmed:39243029:1",
+      "score": 0.628516674041748,
+      "metadata": {
+        "id": "pubmed:39243029:1",
+        "doc_id": "39243029",
+        "source": "pubmed",
+        "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+        "text": "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      }
+    },
+    {
+      "id": "pubmed:39424119:0",
+      "score": 0.6277453899383545,
+      "metadata": {
+        "id": "pubmed:39424119:0",
+        "doc_id": "39424119",
+        "source": "pubmed",
+        "title": "The Society of Thoracic Surgeons Expert Consensus on the Multidisciplinary Management and Resectability of Locally Advanced Non-small Cell Lung Cancer.",
+        "study_type": "Journal Article, Review, Consensus Statement",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39424119/",
+        "text": "The contemporary management and resectability of locally advanced lung cancer are undergoing significant changes as new data emerge regarding immunotherapy and targeted treatments."
+      }
+    },
+    {
+      "id": "pubmed:37675321:2",
+      "score": 0.6260809302330017,
+      "metadata": {
+        "id": "pubmed:37675321:2",
+        "doc_id": "37675321",
+        "source": "pubmed",
+        "title": "Developments in targeted therapy & immunotherapy-how non-small cell lung cancer management will change in the next decade: a narrative review.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37675321/",
+        "text": "We searched all original papers and reviews on targeted therapy and immunotherapy in non-small cell lung cancer (NSCLC) using PubMed in June 2022."
+      }
+    },
+    {
+      "id": "pubmed:37933916:0",
+      "score": 0.6253092288970947,
+      "metadata": {
+        "id": "pubmed:37933916:0",
+        "doc_id": "37933916",
+        "source": "pubmed",
+        "title": "Association between treatment and improvements in overall survival of patients with advanced/metastatic non-small cell lung cancer since 2011: A study in the United States, Canada, and Germany using retrospective real-world databases.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37933916/",
+        "text": "This study aimed to describe treatment patterns and overall survival (OS) in patients with advanced non-small cell lung cancer (aNSCLC) in three countries between 2011 and 2020."
+      }
+    },
+    {
+      "id": "pubmed:41373672:1",
+      "score": 0.6246200203895569,
+      "metadata": {
+        "id": "pubmed:41373672:1",
+        "doc_id": "41373672",
+        "source": "pubmed",
+        "title": "Advances in Targeted Therapy for Non-Small-Cell Lung Cancer: Current Progress and Future Directions.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41373672/",
+        "text": "The advent of targeted therapies has significantly transformed the management of non-small-cell lung cancer (NSCLC), improving survival across all disease stages."
+      }
+    },
+    {
+      "id": "pubmed:38065405:0",
+      "score": 0.6245492696762085,
+      "metadata": {
+        "id": "pubmed:38065405:0",
+        "doc_id": "38065405",
+        "source": "pubmed",
+        "title": "Recurrence-Free Survival in Patients With Surgically Resected Non-Small Cell Lung Cancer: A Systematic Literature Review and Meta-Analysis.",
+        "study_type": "Journal Article, Systematic Review, Meta-Analysis, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38065405/",
+        "text": "Standard treatment for early-stage or locoregionally advanced non-small cell lung cancer (NSCLC) includes surgical resection."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00002577:1",
+      "score": 0.6224651336669922,
+      "metadata": {
+        "id": "clinicaltrials:NCT00002577:1",
+        "doc_id": "NCT00002577",
+        "source": "clinicaltrials",
+        "title": "Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT00002577",
+        "text": "PURPOSE: Phase I/II trial to study the effectiveness of radiation therapy in treating patients with non-small cell lung cancer that cannot be surgically removed."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00004011:0",
+      "score": 0.6223751306533813,
+      "metadata": {
+        "id": "clinicaltrials:NCT00004011:0",
+        "doc_id": "NCT00004011",
+        "source": "clinicaltrials",
+        "title": "S9900: Surgery With or Without Combination Chemotherapy in Treating Patients With Non-small Cell Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT00004011",
+        "text": "PURPOSE: Randomized phase III trial to compare the effectiveness of surgery with or without combination chemotherapy in treating patients who have non-small cell lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:27343441:2",
+      "score": 0.6223586201667786,
+      "metadata": {
+        "id": "pubmed:27343441:2",
+        "doc_id": "27343441",
+        "source": "pubmed",
+        "title": "Comprehensive Clinical Staging for Resectable Lung Cancer: Clinicopathological Correlations and the Role of Brain MRI.",
+        "study_type": "Journal Article",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27343441/",
+        "text": "CCS is effective for patients with resectable lung cancer, with less than 5% of patients being denied appropriate systemic treatment before surgery."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04706754:0",
+      "score": 0.6174953579902649,
+      "metadata": {
+        "id": "clinicaltrials:NCT04706754:0",
+        "doc_id": "NCT04706754",
+        "source": "clinicaltrials",
+        "title": "Pan-Canadian Lung Cancer Observational Study (PALEOS)",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04706754",
+        "text": "A multicenter, ambispective observational study focusing on patients diagnosed with lung cancer in Canada identified after January 1, 2000 inclusive."
+      }
+    },
+    {
+      "id": "pubmed:39031586:0",
+      "score": 0.6167146563529968,
+      "metadata": {
+        "id": "pubmed:39031586:0",
+        "doc_id": "39031586",
+        "source": "pubmed",
+        "title": "Top advances of the year: Targeted therapy for lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39031586/",
+        "text": "New strategies that combine multiple therapies are now being studied in randomized clinical trials, with the goal of enhancing the effectiveness of targeted therapy for patients with advanced lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:19445746:1",
+      "score": 0.6162673234939575,
+      "metadata": {
+        "id": "pubmed:19445746:1",
+        "doc_id": "19445746",
+        "source": "pubmed",
+        "title": "Lung cancer.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2009",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445746/",
+        "text": "What are the effects of treatments for small cell lung cancer?"
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "35323350",
+      "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+      "semantic_score": 0.7914983630180359,
+      "matched_sentences": [
+        "Here, we present a contemporary review of treatment of non-small cell lung cancer in Canada based on current best practices."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26297204",
+      "title": "Lung cancer: Biology and treatment options.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Review",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26297204/",
+      "semantic_score": 0.7695010304450989,
+      "matched_sentences": [
+        "Treatment options for lung cancer include surgery, radiation therapy, chemotherapy, and targeted therapy.",
+        "The purpose of this review is to summarize the recent developments in lung cancer biology and its therapeutic strategies, and discuss the latest treatment advances including therapies currently under clinical investigation."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15110450",
+      "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+      "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+      "semantic_score": 0.7597282528877258,
+      "matched_sentences": [
+        "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature.",
+        "A questionnaire detailing different aspects of radiation treatment of lung cancer was mailed to all radiation oncologists treating lung cancer in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36290875",
+      "title": "Access to Cancer Drugs in Canada.",
+      "study_type": "Editorial",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+      "semantic_score": 0.7305397987365723,
+      "matched_sentences": [
+        "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33911215",
+      "title": "Evolution of systemic therapy for stages I-III non-metastatic non-small-cell lung cancer.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33911215/",
+      "semantic_score": 0.7209888696670532,
+      "matched_sentences": [
+        "The treatment goal for patients with early-stage lung cancer is cure.",
+        "In this Review, we present the current considerations in the treatment of patients with early-stage lung cancer and explore the current and future state of clinical research to develop systemic therapies for non-metastatic lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40016063",
+      "title": "Demystifying the Role of Immuno PET-CT in Non-Small Cell Lung Cancer: Clinical Value and Research Trends.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40016063/",
+      "semantic_score": 0.7079198360443115,
+      "matched_sentences": [
+        "The management of Lung cancer, especially non-small cell lung cancer has undergone a paradigm shift recently with the advent of new treatment approaches including focused radiotherapy as well as evolution of a newer class of immunotherapy agents."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40334018",
+      "title": "Immunotherapy for resectable lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40334018/",
+      "semantic_score": 0.7061187028884888,
+      "matched_sentences": [
+        "Lung cancer remains a significant global health challenge, demanding innovative treatment strategies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37306641",
+      "title": "The American Association for Thoracic Surgery (AATS) 2023 Expert Consensus Document: Staging and multidisciplinary management of patients with early-stage non-small cell lung cancer.",
+      "study_type": "Practice Guideline, Journal Article, Consensus Statement",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37306641/",
+      "semantic_score": 0.7023496627807617,
+      "matched_sentences": [
+        "Novel targeted therapy and immunotherapy drugs have recently been approved for use in patients with surgically resectable lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34862216",
+      "title": "Lung cancer for the non-respiratory physician.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34862216/",
+      "semantic_score": 0.7010718584060669,
+      "matched_sentences": [
+        "Lung cancer treatment continues to develop with new surgical techniques, radiotherapy options and more drugs being licensed as part of standard treatment."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27574741",
+      "title": "Lung cancer: current therapies and new targeted treatments.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27574741/",
+      "semantic_score": 0.6974098682403564,
+      "matched_sentences": [
+        "In this Seminar, we discuss existing treatment for patients with lung cancer and the promise of precision medicine, with special emphasis on new targeted therapies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "24067269",
+      "title": "Lung cancer: needs assessment, treatment and therapies.",
+      "study_type": "Journal Article, Review",
+      "year": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24067269/",
+      "semantic_score": 0.6867119073867798,
+      "matched_sentences": [
+        "This article will look at the latest national recommendations for managing and treating non-small cell lung cancer, which accounts for about 80% of lung cancers, as well as emerging therapies."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36426803",
+      "title": "Management of Lung Cancer in the Patient with Interstitial Lung Disease.",
+      "study_type": "Review, Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36426803/",
+      "semantic_score": 0.6866602897644043,
+      "matched_sentences": [
+        "Lung cancer treatment in these patients pose several specific considerations."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35876944",
+      "title": "The gut microbiome, immune check point inhibition and immune-related adverse events in non-small cell lung cancer.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35876944/",
+      "semantic_score": 0.6861675977706909,
+      "matched_sentences": [
+        "Systemic treatment options for patients with lung cancer have expanded in recent years, with a number of immunotherapeutic strategies now in our treatment armamentarium."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37675321",
+      "title": "Developments in targeted therapy & immunotherapy-how non-small cell lung cancer management will change in the next decade: a narrative review.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37675321/",
+      "semantic_score": 0.6800152063369751,
+      "matched_sentences": [
+        "This review encompasses the latest updates in targeted therapy and immunotherapy in lung cancer management and discusses the future direction in the field.",
+        "The adoption of targeted therapy and immunotherapy has revolutionised the treatment landscape of non-small cell lung cancer.",
+        "We searched all original papers and reviews on targeted therapy and immunotherapy in non-small cell lung cancer (NSCLC) using PubMed in June 2022."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29700105",
+      "title": "Lung cancer staging: a concise update.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29700105/",
+      "semantic_score": 0.6796658635139465,
+      "matched_sentences": [
+        "Diagnosis and clinical staging of lung cancer are fundamental to planning therapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37916619",
+      "title": "Treatment strategies for malignant pulmonary nodule: beyond lobectomy. Point-counterpoint.",
+      "study_type": "Review, Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37916619/",
+      "semantic_score": 0.6732679605484009,
+      "matched_sentences": [
+        "It has become a promising technique in lung cancer management with its diverse applicability."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "2102366",
+      "title": "Lung cancer and smoking prevalence in Canada.",
+      "study_type": "Journal Article, Review",
+      "year": "1990",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+      "semantic_score": 0.6556474566459656,
+      "matched_sentences": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38031889",
+      "title": "What's new in thoracic oncology.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38031889/",
+      "semantic_score": 0.655009388923645,
+      "matched_sentences": [
+        "All these have significantly started to change our approach toward the management of lung cancer and have great potential to improve the lives of our patients afflicted with this disease.",
+        "In this review, we will discuss new diagnostic techniques for lung cancer, innovations in surgery, and major updates on latest treatment options including immunotherapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39236577",
+      "title": "New diagnostic and nonsurgical local treatment modalities for early stage lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39236577/",
+      "semantic_score": 0.6546440124511719,
+      "matched_sentences": [
+        "This paper highlights developments in diagnostic and nonsurgical local treatment modalities that have changed the management of early-stage lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39118957",
+      "title": "Review on endobronchial therapies-current status and future.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39118957/",
+      "semantic_score": 0.6334167718887329,
+      "matched_sentences": [
+        "There is a growing demand for lung parenchymal-sparing localized therapies due to the rising incidence of multifocal lung cancers and the growing number of patients who cannot undergo surgery."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06634056",
+      "title": "Pneumonitis Prevention Protocol Using Pentoxifylline and α-tocopherol In Stage III Non-Small Cell Lung Cancer Patients Undergoing Chemoradiation",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06634056",
+      "semantic_score": 0.6334096193313599,
+      "matched_sentences": [
+        "Currently, the standard of care treatment for newly diagnosed, inoperable stage III non-small cell lung cancer is radiotherapy (RT) with concurrent chemotherapy, followed by immune checkpoint inhibitors (ICI)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39121882",
+      "title": "New promises and challenges in the treatment of advanced non-small-cell lung cancer.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39121882/",
+      "semantic_score": 0.6329926252365112,
+      "matched_sentences": [
+        "Targeted therapies and immunotherapies have radically improved treatment for advanced non-small-cell lung cancer (NSCLC)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29364287",
+      "title": "The biology and management of non-small cell lung cancer.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29364287/",
+      "semantic_score": 0.6325317621231079,
+      "matched_sentences": [
+        "Important advancements in the treatment of non-small cell lung cancer (NSCLC) have been achieved over the past two decades, increasing our understanding of the disease biology and mechanisms of tumour progression, and advancing early detection and multimodal care."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39243029",
+      "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+      "semantic_score": 0.628516674041748,
+      "matched_sentences": [
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39424119",
+      "title": "The Society of Thoracic Surgeons Expert Consensus on the Multidisciplinary Management and Resectability of Locally Advanced Non-small Cell Lung Cancer.",
+      "study_type": "Journal Article, Review, Consensus Statement",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39424119/",
+      "semantic_score": 0.6277453899383545,
+      "matched_sentences": [
+        "The contemporary management and resectability of locally advanced lung cancer are undergoing significant changes as new data emerge regarding immunotherapy and targeted treatments."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37933916",
+      "title": "Association between treatment and improvements in overall survival of patients with advanced/metastatic non-small cell lung cancer since 2011: A study in the United States, Canada, and Germany using retrospective real-world databases.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37933916/",
+      "semantic_score": 0.6253092288970947,
+      "matched_sentences": [
+        "This study aimed to describe treatment patterns and overall survival (OS) in patients with advanced non-small cell lung cancer (aNSCLC) in three countries between 2011 and 2020."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41373672",
+      "title": "Advances in Targeted Therapy for Non-Small-Cell Lung Cancer: Current Progress and Future Directions.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41373672/",
+      "semantic_score": 0.6246200203895569,
+      "matched_sentences": [
+        "The advent of targeted therapies has significantly transformed the management of non-small-cell lung cancer (NSCLC), improving survival across all disease stages."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38065405",
+      "title": "Recurrence-Free Survival in Patients With Surgically Resected Non-Small Cell Lung Cancer: A Systematic Literature Review and Meta-Analysis.",
+      "study_type": "Journal Article, Systematic Review, Meta-Analysis, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38065405/",
+      "semantic_score": 0.6245492696762085,
+      "matched_sentences": [
+        "Standard treatment for early-stage or locoregionally advanced non-small cell lung cancer (NSCLC) includes surgical resection."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00002577",
+      "title": "Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT00002577",
+      "semantic_score": 0.6224651336669922,
+      "matched_sentences": [
+        "PURPOSE: Phase I/II trial to study the effectiveness of radiation therapy in treating patients with non-small cell lung cancer that cannot be surgically removed."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00004011",
+      "title": "S9900: Surgery With or Without Combination Chemotherapy in Treating Patients With Non-small Cell Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT00004011",
+      "semantic_score": 0.6223751306533813,
+      "matched_sentences": [
+        "PURPOSE: Randomized phase III trial to compare the effectiveness of surgery with or without combination chemotherapy in treating patients who have non-small cell lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27343441",
+      "title": "Comprehensive Clinical Staging for Resectable Lung Cancer: Clinicopathological Correlations and the Role of Brain MRI.",
+      "study_type": "Journal Article",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27343441/",
+      "semantic_score": 0.6223586201667786,
+      "matched_sentences": [
+        "CCS is effective for patients with resectable lung cancer, with less than 5% of patients being denied appropriate systemic treatment before surgery."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04706754",
+      "title": "Pan-Canadian Lung Cancer Observational Study (PALEOS)",
+      "study_type": "OBSERVATIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04706754",
+      "semantic_score": 0.6174953579902649,
+      "matched_sentences": [
+        "A multicenter, ambispective observational study focusing on patients diagnosed with lung cancer in Canada identified after January 1, 2000 inclusive."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39031586",
+      "title": "Top advances of the year: Targeted therapy for lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39031586/",
+      "semantic_score": 0.6167146563529968,
+      "matched_sentences": [
+        "New strategies that combine multiple therapies are now being studied in randomized clinical trials, with the goal of enhancing the effectiveness of targeted therapy for patients with advanced lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "19445746",
+      "title": "Lung cancer.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19445746/",
+      "semantic_score": 0.6162673234939575,
+      "matched_sentences": [
+        "What are the effects of treatments for small cell lung cancer?"
+      ]
+    }
+  ]
+}

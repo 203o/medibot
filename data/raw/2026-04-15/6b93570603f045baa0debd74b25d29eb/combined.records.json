@@ -1,0 +1,3482 @@
+{
+  "query": "malaria studies malawi",
+  "query_fallbacks": [
+    "malaria studies malawi",
+    "malaria studies",
+    "malaria studies treatment",
+    "malaria malawi",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "studies",
+    "malawi"
+  ],
+  "medical_context": {
+    "medical_context": {
+      "disease": "malaria",
+      "intent": "studies",
+      "location": "malawi"
+    },
+    "max_results": 5,
+    "sources": [
+      "pubmed",
+      "clinicaltrials"
+    ]
+  },
+  "pubmed_records": [
+    {
+      "pmid": "38583454",
+      "title": "Feasibility, safety, and impact of the RTS,S/AS01",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [
+        "The RTS,S/AS01",
+        "In this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.",
+        "By April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).",
+        "In the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.",
+        "Gavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid."
+      ],
+      "abstract": "The RTS,S/AS01\n\nIn this prospective evaluation, 158 geographical clusters (66 districts in Ghana; 46 sub-counties in Kenya; and 46 groups of immunisation clinic catchment areas in Malawi) were randomly assigned to early or delayed introduction of RTS,S, with three doses to be administered between the ages of 5 months and 9 months and a fourth dose at the age of approximately 2 years. Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility). Mortality was monitored in children aged 1-59 months throughout the pilot areas. Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi. Vaccine uptake was measured in surveys of children aged 12-23 months about 18 months after vaccine introduction. We estimated that sufficient data would have accrued after 24 months to evaluate each of the safety signals and the impact on severe malaria in a pooled analysis of the data from the three countries. We estimated incidence rate ratios (IRRs) by comparing the ratio of the number of events in children age-eligible to have received at least one dose of the vaccine (for safety outcomes), or age-eligible to have received three doses (for impact outcomes), to that in non-eligible age groups in implementation areas with the equivalent ratio in comparison areas. To establish whether there was evidence of a difference between girls and boys in the vaccine's impact on mortality, the female-to-male mortality ratio in age groups eligible to receive the vaccine (relative to the ratio in non-eligible children) was compared between implementation and comparison areas. Preliminary findings contributed to WHO's recommendation in 2021 for widespread use of RTS,S in areas of moderate-to-high malaria transmission.\n\nBy April 30, 2021, 652 673 children had received at least one dose of RTS,S and 494 745 children had received three doses. Coverage of the first dose was 76% in Ghana, 79% in Kenya, and 73% in Malawi, and coverage of the third dose was 66% in Ghana, 62% in Kenya, and 62% in Malawi. 26 285 children aged 1-59 months were admitted to sentinel hospitals and 13 198 deaths were reported through mortality surveillance. Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]). The impact of RTS,S introduction on mortality was similar for girls and boys (relative mortality ratio 1·03 [95% CI 0·88-1·21]). Among children eligible for three vaccine doses, RTS,S introduction was associated with a 32% reduction (95% CI 5-51%) in hospital admission with severe malaria, and a 9% reduction (95% CI 0-18%) in all-cause mortality (excluding injury).\n\nIn the first 2 years of implementation of RTS,S, the three primary doses were effectively deployed through national immunisation programmes. There was no evidence of the safety signals that had been observed in the phase 3 trial, and introduction of the vaccine was associated with substantial reductions in hospital admission with severe malaria. Evaluation continues to assess the impact of four doses of RTS,S.\n\nGavi, the Vaccine Alliance; the Global Fund to Fight AIDS, Tuberculosis and Malaria; and Unitaid.",
+      "evidence_sentences": [
+        "Surveillance for meningitis and severe malaria was established in eight sentinel hospitals in Ghana, six in Kenya, and four in Malawi.",
+        "Among children eligible to have received at least one dose of RTS,S, there was no evidence of an excess of meningitis or cerebral malaria cases in implementation areas compared with comparison areas (hospital admission with meningitis: IRR 0·63 [95% CI 0·22-1·79]; hospital admission with cerebral malaria: IRR 1·03 [95% CI 0·61-1·74]).",
+        "Primary outcomes of the evaluation, planned over 4 years, were mortality from all causes except injury (impact), hospital admission with severe malaria (impact), hospital admission with meningitis or cerebral malaria (safety), deaths in girls compared with boys (safety), and vaccination coverage (feasibility)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "authors": [
+        "Kwaku Poku Asante",
+        "Don P Mathanga",
+        "Paul Milligan",
+        "Samuel Akech",
+        "Abraham Oduro",
+        "Victor Mwapasa",
+        "Kerryn A Moore",
+        "Titus K Kwambai",
+        "Mary J Hamel",
+        "Thomas Gyan",
+        "Nelli Westercamp",
+        "Atupele Kapito-Tembo",
+        "Patricia Njuguna",
+        "Daniel Ansong",
+        "Simon Kariuki",
+        "Tisungane Mvalo",
+        "Paul Snell",
+        "David Schellenberg",
+        "Paul Welega",
+        "Lucas Otieno",
+        "Alfred Chimala",
+        "Edwin A Afari",
+        "Philip Bejon",
+        "Kenneth Maleta",
+        "Tsiri Agbenyega",
+        "Robert W Snow",
+        "Madaliso Zulu",
+        "Jobiba Chinkhumba",
+        "Aaron M Samuels",
+        "Malaria Vaccine Programme Evaluation Partners"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38583454/"
+    },
+    {
+      "pmid": "36228915",
+      "title": "Understanding the Intransigence of Malaria in Malawi.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Despite the scale-up of interventions against malaria over the past decade, this disease remains a leading threat to health in Malawi. To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects. Descriptive studies in ICEMR Phase 1 increased our understanding of the declining effectiveness of long-lasting insecticidal nets (LLINs), the role of school-age children in malaria parasite transmission, and the complexity of host-parasite interactions leading to disease. These findings informed the design of ICEMR Phase 2 to test hypotheses about LLIN use and effectiveness, vector resistance to insecticides, demographic targets of malaria control, patterns and causes of asymptomatic to life-threatening disease, and the impacts of RTS,S vaccination plus piperonyl butoxide-treated LLINs on infection and disease in young children. These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem."
+      ],
+      "abstract": "Despite the scale-up of interventions against malaria over the past decade, this disease remains a leading threat to health in Malawi. To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects. Descriptive studies in ICEMR Phase 1 increased our understanding of the declining effectiveness of long-lasting insecticidal nets (LLINs), the role of school-age children in malaria parasite transmission, and the complexity of host-parasite interactions leading to disease. These findings informed the design of ICEMR Phase 2 to test hypotheses about LLIN use and effectiveness, vector resistance to insecticides, demographic targets of malaria control, patterns and causes of asymptomatic to life-threatening disease, and the impacts of RTS,S vaccination plus piperonyl butoxide-treated LLINs on infection and disease in young children. These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem.",
+      "evidence_sentences": [
+        "Descriptive studies in ICEMR Phase 1 increased our understanding of the declining effectiveness of long-lasting insecticidal nets (LLINs), the role of school-age children in malaria parasite transmission, and the complexity of host-parasite interactions leading to disease.",
+        "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects.",
+        "These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "authors": [
+        "Lauren M Cohee",
+        "Jessy Goupeyou-Youmsi",
+        "Karl B Seydel",
+        "Charles Mangani",
+        "Peter Ntenda",
+        "Alick Sixpence",
+        "Rex B Mbewe",
+        "Alfred Matengeni",
+        "Shannon Takala-Harrison",
+        "Edward D Walker",
+        "Mark L Wilson",
+        "Themba Mzilahowa",
+        "Miriam K Laufer",
+        "Clarissa Valim",
+        "Terrie E Taylor",
+        "Don P Mathanga"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36228915/"
+    },
+    {
+      "pmid": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "Malaria remains a threat to public health in Malawi. It is well acknowledged that malaria research and robust evidence can have an impact on malaria policy and practice, resulting in positive population health gains. We report policy-relevant research contributions that the Malawi International Center of Excellence for Malaria Research (ICEMR) in partnership with local and international collaborators has made. Findings from our ICEMR studies have shown that long-lasting insecticide-treated bed nets (LLINs) impregnated with piperonyl butoxide reduced mosquito blood feeding more compared with conventional LLINs. On the other hand, we showed that few LLINs are maintained up to the end of their 3-year life span, and that older nets are less effective. These results support the policy change decisions by the Malawi National Malaria Control Program to switch from conventional LLINs to piperonyl butoxide LLINs, and to conduct mass LLIN distribution campaigns every 2 years. Our studies on epidemiological patterns of malaria infection showed that school-age children have higher malaria infection rates and lower use of control measures compared with younger children and adults. These findings added to the evidence base that influenced the National Malaria Control Program to endorse school-based malaria interventions as part of its national policy. Research supported by the Malawi ICEMR is contributing to in-country policy decisions and to the implementation of evidence-based interventions. Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ],
+      "abstract": "Malaria remains a threat to public health in Malawi. It is well acknowledged that malaria research and robust evidence can have an impact on malaria policy and practice, resulting in positive population health gains. We report policy-relevant research contributions that the Malawi International Center of Excellence for Malaria Research (ICEMR) in partnership with local and international collaborators has made. Findings from our ICEMR studies have shown that long-lasting insecticide-treated bed nets (LLINs) impregnated with piperonyl butoxide reduced mosquito blood feeding more compared with conventional LLINs. On the other hand, we showed that few LLINs are maintained up to the end of their 3-year life span, and that older nets are less effective. These results support the policy change decisions by the Malawi National Malaria Control Program to switch from conventional LLINs to piperonyl butoxide LLINs, and to conduct mass LLIN distribution campaigns every 2 years. Our studies on epidemiological patterns of malaria infection showed that school-age children have higher malaria infection rates and lower use of control measures compared with younger children and adults. These findings added to the evidence base that influenced the National Malaria Control Program to endorse school-based malaria interventions as part of its national policy. Research supported by the Malawi ICEMR is contributing to in-country policy decisions and to the implementation of evidence-based interventions. Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi.",
+      "evidence_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi.",
+        "These results support the policy change decisions by the Malawi National Malaria Control Program to switch from conventional LLINs to piperonyl butoxide LLINs, and to conduct mass LLIN distribution campaigns every 2 years.",
+        "Our studies on epidemiological patterns of malaria infection showed that school-age children have higher malaria infection rates and lower use of control measures compared with younger children and adults."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "authors": [
+        "Charles Mangani",
+        "Themba Mzilahowa",
+        "Lauren Cohee",
+        "Michael Kayange",
+        "Peter Ntenda",
+        "Alick Sixpence",
+        "Austin Gumbo",
+        "Sosten Lankhulani",
+        "Jessy Goupeyou-Youmsi",
+        "Edward Walker",
+        "Miriam Laufer",
+        "Clarissa Valim",
+        "Karl Seydel",
+        "Mark L Wilson",
+        "Terrie Taylor",
+        "Don P Mathanga"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36228911/"
+    },
+    {
+      "pmid": "32600362",
+      "title": "Submicroscopic malaria infection is not associated with fever in cross-sectional studies in Malawi.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Submicroscopic Plasmodium falciparum infections are widespread in many areas. However, the contribution of these infections to symptomatic malaria is not well understood. This study evaluated whether participants with submicroscopic P. falciparum infections have higher prevalence of fever than uninfected participants in southern Malawi.",
+        "A total of 16,650 children and adults were enrolled in the course of six cross-sectional surveys during the dry season (October-November) and after the rainy season (April-May) between 2012 and 2014 in three districts in southern Malawi. Demographic and socioeconomic data were collected in conjunction with data on clinical histories, use of malaria preventive measures, and anti-malarial medication taken within 2 weeks of the survey. Axillary temperatures were measured, and blood samples were collected for P. falciparum detection by microscopy and PCR. Participants without malaria parasites detected on microscopy but with a positive PCR for P. falciparum were defined as having submicroscopic infection. Fever was defined as having any one of: reported fever in the past 2 weeks, reported fever in the past 48 h, or a temperature of ≥ 37.5 °C measured at the time of interview.",
+        "Submicroscopic P. falciparum infections and fever were both detected in 9% of the study population. In the final analysis adjusted for clustering within household and enumeration area, having submicroscopic P. falciparum infection was associated with reduced odds of fever in the dry season (odds ratio = 0.52; 95% CI 0.33-0.82); the association in the rainy season did not achieve statistical significance (odds ratio = 1.20; 95% CI 0.91-1.59). The association between submicroscopic infection and fever was consistent across all age groups. When the definition of fever was limited to temperature of ≥ 37.5 °C measured at the time of interview, the association was not statistically significant in either the rainy or dry season.",
+        "In this series of cross-sectional studies in southern Malawi, submicroscopic P. falciparum infection was not associated with increased risk of fever. Submicroscopic detection of the malaria parasite is important in efforts to decrease transmission but is not essential for the clinical recognition of malaria disease."
+      ],
+      "abstract": "Submicroscopic Plasmodium falciparum infections are widespread in many areas. However, the contribution of these infections to symptomatic malaria is not well understood. This study evaluated whether participants with submicroscopic P. falciparum infections have higher prevalence of fever than uninfected participants in southern Malawi.\n\nA total of 16,650 children and adults were enrolled in the course of six cross-sectional surveys during the dry season (October-November) and after the rainy season (April-May) between 2012 and 2014 in three districts in southern Malawi. Demographic and socioeconomic data were collected in conjunction with data on clinical histories, use of malaria preventive measures, and anti-malarial medication taken within 2 weeks of the survey. Axillary temperatures were measured, and blood samples were collected for P. falciparum detection by microscopy and PCR. Participants without malaria parasites detected on microscopy but with a positive PCR for P. falciparum were defined as having submicroscopic infection. Fever was defined as having any one of: reported fever in the past 2 weeks, reported fever in the past 48 h, or a temperature of ≥ 37.5 °C measured at the time of interview.\n\nSubmicroscopic P. falciparum infections and fever were both detected in 9% of the study population. In the final analysis adjusted for clustering within household and enumeration area, having submicroscopic P. falciparum infection was associated with reduced odds of fever in the dry season (odds ratio = 0.52; 95% CI 0.33-0.82); the association in the rainy season did not achieve statistical significance (odds ratio = 1.20; 95% CI 0.91-1.59). The association between submicroscopic infection and fever was consistent across all age groups. When the definition of fever was limited to temperature of ≥ 37.5 °C measured at the time of interview, the association was not statistically significant in either the rainy or dry season.\n\nIn this series of cross-sectional studies in southern Malawi, submicroscopic P. falciparum infection was not associated with increased risk of fever. Submicroscopic detection of the malaria parasite is important in efforts to decrease transmission but is not essential for the clinical recognition of malaria disease.",
+      "evidence_sentences": [
+        "In this series of cross-sectional studies in southern Malawi, submicroscopic P.",
+        "Demographic and socioeconomic data were collected in conjunction with data on clinical histories, use of malaria preventive measures, and anti-malarial medication taken within 2 weeks of the survey.",
+        "Submicroscopic detection of the malaria parasite is important in efforts to decrease transmission but is not essential for the clinical recognition of malaria disease."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "authors": [
+        "Jimmy Vareta",
+        "Andrea G Buchwald",
+        "Angelica Barrall",
+        "Lauren M Cohee",
+        "Jenny A Walldorf",
+        "Jenna E Coalson",
+        "Karl Seydel",
+        "Alick Sixpence",
+        "Don P Mathanga",
+        "Terrie E Taylor",
+        "Miriam K Laufer"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32600362/"
+    },
+    {
+      "pmid": "38857015",
+      "title": "Acetaminophen and Ibuprofen in Pediatric Central Nervous System Malaria: A Randomized Clinical Trial.",
+      "journal": "JAMA neurology",
+      "abstract_sections": [
+        "A third of children who survive malaria with neurological involvement (central nervous system [CNS] malaria) develop sequelae. A higher maximum temperature (Tmax) and seizures are risk factors for sequelae.",
+        "To compare aggressive antipyretic therapy using scheduled acetaminophen and ibuprofen vs usual care with acetaminophen alone given only for a temperature of 38.5 °C or higher.",
+        "This randomized clinical trial was conducted at inpatient pediatric services of 1 tertiary care and 1 district hospital in Zambia and a tertiary care center in Malawi. Included were children aged 2 to 11 years with CNS malaria (excluding those with creatinine >1.2 mg/dL), who were enrolled from 2019 to 2022. Data analysis took place from December 2022 to April 2023.",
+        "The aggressive antipyretic group received acetaminophen (30 mg/kg load, then 15 mg/kg) plus ibuprofen, 10 mg/kg, every 6 hours, regardless of clinical temperature for 72 hours. The usual care group received 15 mg/kg of acetaminophen as needed every 6 hours for a temperature of 38.5 °C or higher.",
+        "The primary outcome variable was Tmax over 72 hours, the total duration of follow-up. Secondary outcomes included seizures and parasite clearance.",
+        "Five hundred fifty-three patients were screened, 226 (40.9%) were ineligible, and 57 (10.3%) declined. A total 256 participants (n = 128/group) had a mean (SD) age of 4.3 (2.1) years; 115 (45%) were female, and 141 (55%) were male. The aggressive antipyretic group had a lower Tmax, 38.6 vs 39.2 °C (difference, -0.62 °C; 95% CI, -0.82 to -0.42; P < .001) and lower odds of experiencing multiple or prolonged seizures, 10 (8%) vs 34 children (27%) in the usual care group (odds ratio [OR], 0.26; 95% CI, 0.12 to 0.56). No group difference in parasite clearance time was detected. Severe adverse events occurred in 40 children (15%), 25 (20%) in the usual care group and 15 (12%) in the aggressive antipyretic group, including 13 deaths (10 [8%] and 3 [2%], respectively). Increased creatinine resulted in study drug discontinuation in 8 children (6%) in the usual care group and 13 children (10%) in the aggressive antipyretic group (OR, 1.74; 95% CI, 0.63 to 5.07).",
+        "This study found that aggressive antipyretic therapy reduced mean Tmax to temperature levels comparable with the Tmax among children without neurological impairments in prior observational studies and improved acute seizure outcomes with no prolongation of parasitemia.",
+        "ClinicalTrials.gov Identifier: NCT03399318."
+      ],
+      "abstract": "A third of children who survive malaria with neurological involvement (central nervous system [CNS] malaria) develop sequelae. A higher maximum temperature (Tmax) and seizures are risk factors for sequelae.\n\nTo compare aggressive antipyretic therapy using scheduled acetaminophen and ibuprofen vs usual care with acetaminophen alone given only for a temperature of 38.5 °C or higher.\n\nThis randomized clinical trial was conducted at inpatient pediatric services of 1 tertiary care and 1 district hospital in Zambia and a tertiary care center in Malawi. Included were children aged 2 to 11 years with CNS malaria (excluding those with creatinine >1.2 mg/dL), who were enrolled from 2019 to 2022. Data analysis took place from December 2022 to April 2023.\n\nThe aggressive antipyretic group received acetaminophen (30 mg/kg load, then 15 mg/kg) plus ibuprofen, 10 mg/kg, every 6 hours, regardless of clinical temperature for 72 hours. The usual care group received 15 mg/kg of acetaminophen as needed every 6 hours for a temperature of 38.5 °C or higher.\n\nThe primary outcome variable was Tmax over 72 hours, the total duration of follow-up. Secondary outcomes included seizures and parasite clearance.\n\nFive hundred fifty-three patients were screened, 226 (40.9%) were ineligible, and 57 (10.3%) declined. A total 256 participants (n = 128/group) had a mean (SD) age of 4.3 (2.1) years; 115 (45%) were female, and 141 (55%) were male. The aggressive antipyretic group had a lower Tmax, 38.6 vs 39.2 °C (difference, -0.62 °C; 95% CI, -0.82 to -0.42; P < .001) and lower odds of experiencing multiple or prolonged seizures, 10 (8%) vs 34 children (27%) in the usual care group (odds ratio [OR], 0.26; 95% CI, 0.12 to 0.56). No group difference in parasite clearance time was detected. Severe adverse events occurred in 40 children (15%), 25 (20%) in the usual care group and 15 (12%) in the aggressive antipyretic group, including 13 deaths (10 [8%] and 3 [2%], respectively). Increased creatinine resulted in study drug discontinuation in 8 children (6%) in the usual care group and 13 children (10%) in the aggressive antipyretic group (OR, 1.74; 95% CI, 0.63 to 5.07).\n\nThis study found that aggressive antipyretic therapy reduced mean Tmax to temperature levels comparable with the Tmax among children without neurological impairments in prior observational studies and improved acute seizure outcomes with no prolongation of parasitemia.\n\nClinicalTrials.gov Identifier: NCT03399318.",
+      "evidence_sentences": [
+        "This study found that aggressive antipyretic therapy reduced mean Tmax to temperature levels comparable with the Tmax among children without neurological impairments in prior observational studies and improved acute seizure outcomes with no prolongation of parasitemia.",
+        "This randomized clinical trial was conducted at inpatient pediatric services of 1 tertiary care and 1 district hospital in Zambia and a tertiary care center in Malawi.",
+        "Included were children aged 2 to 11 years with CNS malaria (excluding those with creatinine >1.2 mg/dL), who were enrolled from 2019 to 2022."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "authors": [
+        "Gretchen L Birbeck",
+        "Karl B Seydel",
+        "Suzanna Mwanza",
+        "Derby Tembo",
+        "Moses Chilombe",
+        "Arthur Watts",
+        "Ifunanya Ume-Ezeoke",
+        "Manoj Mathews",
+        "Archana A Patel",
+        "Musaku Mwenechanya",
+        "Paul Pensulo",
+        "Michael P McDermott"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38857015/"
+    }
+  ],
+  "clinical_trials_records": [
+    {
+      "nct_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "brief_summary": "Sulfadoxine-pyrimethamine is the current first-line therapy for uncomplicated malaria in Malawi. Significant resistance of the P. falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy. This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi. This protocol aims to assess the acceptability and tolerability of amodiaquine in Malawi. It is a double-blind study comparing amodiaquine plus artesunate (AQ-Art, one of the candidate combination therapies) to chlorproguanil/dapsone plus artesunate (CD-Art, another of the candidate combination therapies) in persons 5 years and older, to see if there is a higher incidence of abdominal pain and/or refusal to take the therapy in the AQ-Art group. Amodiaquine was removed from the Malawian national drug registry in 1995 because of a perceived association with abdominal pain. Although no studies were conducted to substantiate this, consensus among clinicians was that patients were refusing amodiaquine with increasing frequency, citing abdominal pain as the reason, so the drug was removed from the registry. Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi.",
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy.",
+        "falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2012-09-26",
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT00164359",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00164359",
+            "orgStudyIdInfo": {
+              "id": "CDC-NCID-4538"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "PA#04018"
+              }
+            ],
+            "organization": {
+              "fullName": "Centers for Disease Control and Prevention",
+              "class": "FED"
+            },
+            "briefTitle": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+            "officialTitle": "A Double-blind Randomised Trial to Assess the Tolerability of Amodiaquine Plus Artesunate (AQ-Art) Versus Chlorproguanil Plus Dapsone Plus Artesunate (CDA) in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2012-09",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2005-04"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2005-09",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2005-09",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2005-09-09",
+            "studyFirstSubmitQcDate": "2005-09-09",
+            "studyFirstPostDateStruct": {
+              "date": "2005-09-14",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2012-09-26",
+            "lastUpdatePostDateStruct": {
+              "date": "2012-09-27",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Centers for Disease Control and Prevention",
+              "class": "FED"
+            },
+            "collaborators": [
+              {
+                "name": "Ministry of Health and Population, Malawi",
+                "class": "OTHER_GOV"
+              }
+            ]
+          },
+          "descriptionModule": {
+            "briefSummary": "Sulfadoxine-pyrimethamine is the current first-line therapy for uncomplicated malaria in Malawi. Significant resistance of the P. falciparum malaria parasite to this drug has led to an imminent need for the government of Malawi to identify a new first-line therapy for uncomplicated malaria and to implement that new therapy as policy. This protocol is the second of two protocols whose combined purpose is to provide efficacy and side effect data on four antimalarial drug combinations that are candidates for the next first-line therapy for uncomplicated malaria in Malawi. This protocol aims to assess the acceptability and tolerability of amodiaquine in Malawi. It is a double-blind study comparing amodiaquine plus artesunate (AQ-Art, one of the candidate combination therapies) to chlorproguanil/dapsone plus artesunate (CD-Art, another of the candidate combination therapies) in persons 5 years and older, to see if there is a higher incidence of abdominal pain and/or refusal to take the therapy in the AQ-Art group. Amodiaquine was removed from the Malawian national drug registry in 1995 because of a perceived association with abdominal pain. Although no studies were conducted to substantiate this, consensus among clinicians was that patients were refusing amodiaquine with increasing frequency, citing abdominal pain as the reason, so the drug was removed from the registry. Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Malaria, Falciparum"
+            ],
+            "keywords": [
+              "malaria, falciparum",
+              "antimalarials"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE4"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "DOUBLE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 212
+            }
+          },
+          "armsInterventionsModule": {
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Amodiaquine plus artesunate"
+              },
+              {
+                "type": "DRUG",
+                "name": "chlorproguanil-dapsone plus artesunate"
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Incidence of abdominal pain on days 1, 2, and 3 in the two treatment groups"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Rate of adequate clinical and parasitological response at 14 days"
+              },
+              {
+                "measure": "Rate of adequate clinical and parasitological response at 28 days"
+              },
+              {
+                "measure": "Mean percent change in blood haemoglobin concentration between day 0 and day 28"
+              },
+              {
+                "measure": "Incidence of adverse events other than abdominal pain during the period of observation"
+              },
+              {
+                "measure": "Rate of Early Treatment Failure (per WHO definition)"
+              },
+              {
+                "measure": "Rate of Late Clinical Failure (per WHO definition)"
+              },
+              {
+                "measure": "Rate of Late Parasitological Failure (per WHO definition)"
+              },
+              {
+                "measure": "Percent of patients with a decrease in haemoglobin concentration"
+              },
+              {
+                "measure": "Percent of patients with a decrease in haemoglobin concentration of >= 2g/dl"
+              },
+              {
+                "measure": "Prevalence of parasitemia on Day 2"
+              },
+              {
+                "measure": "Prevalence of parasitemia on Day 3"
+              },
+              {
+                "measure": "Gametocyte prevalence on Day 14"
+              },
+              {
+                "measure": "Gametocyte prevalence on day 28"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Age five years or older\n* Axillary temperature \\>= 37.5 degrees Celsius\n* Monoinfection with P. falciparum\n* Parasitemia between 2000 and 200000 parasites/microliter\n* Hemoglobin concentration \\>= 7g/dl\n* Consent by the patient of patient's adult guardian\n* Residence in the locality and willingness to attend for scheduled visits\n* Negative urine pregnancy test in women age twelve years and older\n\nExclusion Criteria:\n\n* Signs of severe or complicated malaria\n* altered consciousness\n* convulsions\n* prostration (inability to sit/stand/suck/drink)\n* respiratory distress or breathlessness\n* jaundice\n* abnormal breathing\n* hemoglobinuria\n* circulatory collapse\n* persistent vomiting (cannot keep down liquids)\n* evidence of a diagnosis other than malaria on physical examination\n* presence of mixed infection\n* presence of severe malnutrition (as evidenced by symmetrical edema involving at least the feet, light hair color, or cachexia)\n* contraindications to the antimalarial drugs used, especially history of allergy\n* history of receiving a drug with antimalarial activity in the week prior to enrollment",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "5 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Rachel N Bronzan, MD, MPH",
+                "affiliation": "Centers for Disease Control and Prevention",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Kawale Health Center",
+                "city": "Lilongwe",
+                "state": "Lilongwe District",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -13.96692,
+                  "lon": 33.78725
+                }
+              },
+              {
+                "facility": "Machinga District Hospital",
+                "city": "Liwonde",
+                "state": "Machinga District",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -15.06665,
+                  "lon": 35.22543
+                }
+              },
+              {
+                "facility": "Matiki Health Center",
+                "city": "Dwangwa",
+                "state": "Nkhotakota District",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -12.56667,
+                  "lon": 34.15
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D016778",
+                "term": "Malaria, Falciparum"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D008288",
+                "term": "Malaria"
+              },
+              {
+                "id": "D011528",
+                "term": "Protozoan Infections"
+              },
+              {
+                "id": "D010272",
+                "term": "Parasitic Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000096724",
+                "term": "Mosquito-Borne Diseases"
+              },
+              {
+                "id": "D000079426",
+                "term": "Vector Borne Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000655",
+                "term": "Amodiaquine"
+              },
+              {
+                "id": "D000077332",
+                "term": "Artesunate"
+              },
+              {
+                "id": "C519882",
+                "term": "chloroguanil, dapsone drug combination"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000634",
+                "term": "Aminoquinolines"
+              },
+              {
+                "id": "D011804",
+                "term": "Quinolines"
+              },
+              {
+                "id": "D006574",
+                "term": "Heterocyclic Compounds, 2-Ring"
+              },
+              {
+                "id": "D000072471",
+                "term": "Heterocyclic Compounds, Fused-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              },
+              {
+                "id": "D037621",
+                "term": "Artemisinins"
+              },
+              {
+                "id": "D017382",
+                "term": "Reactive Oxygen Species"
+              },
+              {
+                "id": "D005609",
+                "term": "Free Radicals"
+              },
+              {
+                "id": "D007287",
+                "term": "Inorganic Chemicals"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D012717",
+                "term": "Sesquiterpenes"
+              },
+              {
+                "id": "D013729",
+                "term": "Terpenes"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT00519467",
+      "title": "Safety and Efficacy Dose of Artesunate Used in Combination With LAPDAP Treatment of Uncomplicated Falciparum Malaria",
+      "brief_summary": "Drug resistance to a range of antimalarial treatments has become widespread in Africa, South East Asia and South America. Because the rapid spread of drug resistance threatens a public health disaster in these areas of the world and to comply with the WHO-Roll Back Malaria policy of using Artemisinin-based combination therapies (ACT), there is a need to develop new, safe, effective and affordable ACT.\n\nChlorproguanil-dapsone-artesunate (CDA)is a new ACT that is being developed for the treatment of uncomplicated falciparum malaria in Africa.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "Because the rapid spread of drug resistance threatens a public health disaster in these areas of the world and to comply with the WHO-Roll Back Malaria policy of using Artemisinin-based combination therapies (ACT), there is a need to develop new, safe, effective and affordable ACT.",
+        "Chlorproguanil-dapsone-artesunate (CDA)is a new ACT that is being developed for the treatment of uncomplicated falciparum malaria in Africa.",
+        "Drug resistance to a range of antimalarial treatments has become widespread in Africa, South East Asia and South America."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2016-12-02",
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT00519467",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00519467",
+            "orgStudyIdInfo": {
+              "id": "SB-714703/003"
+            },
+            "organization": {
+              "fullName": "GlaxoSmithKline",
+              "class": "INDUSTRY"
+            },
+            "briefTitle": "Safety and Efficacy Dose of Artesunate Used in Combination With LAPDAP Treatment of Uncomplicated Falciparum Malaria",
+            "officialTitle": "An Open, Randomised, Multi-centre Dose Ranging Phase II Study to Evaluate LAPDAP in Combination With Three Different Doses of Artesunate"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2016-12",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2003-06"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2005-02",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2005-02",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2007-08-20",
+            "studyFirstSubmitQcDate": "2007-08-21",
+            "studyFirstPostDateStruct": {
+              "date": "2007-08-22",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2016-12-02",
+            "lastUpdatePostDateStruct": {
+              "date": "2016-12-06",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "GlaxoSmithKline",
+              "class": "INDUSTRY"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Drug resistance to a range of antimalarial treatments has become widespread in Africa, South East Asia and South America. Because the rapid spread of drug resistance threatens a public health disaster in these areas of the world and to comply with the WHO-Roll Back Malaria policy of using Artemisinin-based combination therapies (ACT), there is a need to develop new, safe, effective and affordable ACT.\n\nChlorproguanil-dapsone-artesunate (CDA)is a new ACT that is being developed for the treatment of uncomplicated falciparum malaria in Africa."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Malaria"
+            ],
+            "keywords": [
+              "dose-ranging study",
+              "SB-714703",
+              "artesunate,",
+              "malaria",
+              "CDA,",
+              "chlorproguanil,",
+              "dapsone,"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 120,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Chlorproguanil-dapsone-artesunate (CDA)"
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Treatment differences between 1,2, or 4mg/kg artesunate with a fixed dose of Chlorproguanil-dapsone (LAPDAP), as measured by determination of PC90 (time to achieve reduction of parasitaemia by 90% of baseline)"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "The key secondary efficacy endpoint is parasite viability (the proportion of ring-form parasites developing to schizonts) determined from rich adult data and confirmed with more sparse child data"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Presentation to a healthcare facility with probable uncomplicated clinical malaria\n* Adults aged between 18 and 60 years , or children aged between 12 and 120 months\n* Weight between 5 and 85kg\n* Pure \\[on microscopic grounds\\] screening P. falciparum parasitaemia in children from 25,000 to 100,000ul-1, or in adults from 10,000 to 100,000ul-1. \\[The parasitaemia range for adults was originally set at 25,000 to 100,000µl-1 and changed to 10,000 to 100,000µl-1 in protocol amendment 3 dated 05 May 2004\\]\n* Written or oral witnessed consent obtained from subject, parent or guardian\n* Compliance with the requirements of the protocol which include a hospital stay of 4 days and 3 nights and regular blood samples by finger-prick (children) or via a cannula (adults)\n* A negative pregnancy test for women of child-bearing age on enrolment\n\nExclusion Criteria:\n\n* Features of severe/complicated falciparum malaria\n* Known allergy to sulphonamides\n* Evidence of any concomitant infection at the time of presentation (including P. ovale and P. malaria)\n* Any other underlying disease that would compromise the diagnosis and the evaluation of the response to the study medication (including clinical symptoms of immunosuppression, tuberculosis and bacterial infection)\n* Treatment in the 28-days prior to screening with sulfadoxine/pyrimethamine (FANSIDAR, CELOXINE), sulfalene/pyrimethamine (METAKELFIN), mefloquine-sulfadoxinepyrimethamine (FANSIMET), chloroquine\\* (NIVAQUINE); treatment in the 21-days prior to screening with mefloquine, or 7-days prior to screening with amodiaquine, halofantrine, quinine (full course), atovaquone - proguanil, artemisinins, co-artemether, tetracycline or clindamycin, or treatment for 5 half-lives prior to screening with drugs that have a potential anti-malarial activity (e.g. co-trimoxazole in the previous 60 hours)\n* Use of an investigational drug within 30 days or 5 half-lives (whichever is longer) prior to screening\n* Previous participation in this study\n* A positive pregnancy test at enrolment, women of child-bearing age who do not take a pregnancy test or female subjects who are breast-feeding an infant for the duration of the study",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "maximumAge": "60 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "GSK Clinical Trials",
+                "affiliation": "GlaxoSmithKline",
+                "role": "STUDY_DIRECTOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "GSK Investigational Site",
+                "city": "Blantyre",
+                "zip": "30096,BLANTYRE 3",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -15.78499,
+                  "lon": 35.00854
+                }
+              },
+              {
+                "facility": "GSK Investigational Site",
+                "city": "Banjul",
+                "country": "The Gambia",
+                "geoPoint": {
+                  "lat": 13.45274,
+                  "lon": -16.57803
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "19517101",
+                "type": "DERIVED",
+                "citation": "Miller AK, Bandyopadhyay N, Wootton DG, Duparc S, Kirby PL, Winstanley PA, Ward SA. Pharmacokinetics of chlorproguanil, dapsone, artesunate and their major metabolites in patients during treatment of acute uncomplicated Plasmodium falciparum malaria. Eur J Clin Pharmacol. 2009 Oct;65(10):977-87. doi: 10.1007/s00228-009-0672-1. Epub 2009 Jun 11."
+              },
+              {
+                "pmid": "18320064",
+                "type": "DERIVED",
+                "citation": "Wootton DG, Opara H, Biagini GA, Kanjala MK, Duparc S, Kirby PL, Woessner M, Neate C, Nyirenda M, Blencowe H, Dube-Mbeye Q, Kanyok T, Ward S, Molyneux M, Dunyo S, Winstanley PA. Open-label comparative clinical study of chlorproguanil-dapsone fixed dose combination (Lapdap) alone or with three different doses of artesunate for uncomplicated Plasmodium falciparum malaria. PLoS One. 2008 Mar 5;3(3):e1779. doi: 10.1371/journal.pone.0001779."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "Researchers can use this site to request access to anonymised patient level data and/or supporting documents from clinical studies to conduct further research.",
+                "url": "https://www.clinicalstudydatarequest.com"
+              }
+            ],
+            "availIpds": [
+              {
+                "id": "714703/003",
+                "type": "Dataset Specification",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Clinical Study Report",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Study Protocol",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Annotated Case Report Form",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Individual Participant Data Set",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Statistical Analysis Plan",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              },
+              {
+                "id": "714703/003",
+                "type": "Informed Consent Form",
+                "url": "https://www.clinicalstudydatarequest.com",
+                "comment": "For additional information about this study please refer to the GSK Clinical Study Register"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "Patient-level data for this study will be made available through www.clinicalstudydatarequest.com following the timelines and process described on this site."
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D008288",
+                "term": "Malaria"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D011528",
+                "term": "Protozoan Infections"
+              },
+              {
+                "id": "D010272",
+                "term": "Parasitic Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000096724",
+                "term": "Mosquito-Borne Diseases"
+              },
+              {
+                "id": "D000079426",
+                "term": "Vector Borne Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT00287300",
+      "title": "Efficacy and Safety of Azithromycin and Artesunate in Pregnant Women",
+      "brief_summary": "The purpose of this study is to compare the efficacy and safety of three treatment regimens for the prevention of malaria during pregnancy.",
+      "detailed_description": "Malaria infection during pregnancy poses substantial risk to the mother, her fetus, and the neonate. Prevention of malaria during pregnancy is vital in decreasing maternal and child mortality in Africa. There are data from studies that show that intermittent preventive treatment (IPT) with two doses of sulfadoxine-pyrimethamine (SP) is safe, efficacious, and effective in preventing maternal anemia, placental parasitemia, and LBW. Resistance to SP, however, is increasing rapidly in Africa and there is an urgent need to find alternative effective, safe and affordable drugs for the treatment and prevention of malaria in pregnancy.\n\nThe investigators conducted a trial to determine the efficacy and safety of azithromycin and artesunate combined with sulphadoxine-pyrimethamine as treatment against malaria during pregnancy.Pregnant women 14 to 26 weeks gestation with P. falciparum parasitemia on peripheral blood film were randomly assigned into 3 treatment groups and received two doses of:(1) SP (3 tablets) only; (2) SP and azithromycin (1gram/day x 2 days)and (3) SP and artesunate 200mg/day for 3 days). The two doses of the study drug were administered approximately 4 weeks apart. All study drugs were taken under observation.Blood samples were collected on days 1, 2, 3, 7 and 14 after treatment and at any visit when the women presented with symptoms of malaria. The women were also given an insecticide-treated net (ITN) and followed until delivery. Adverse effects were assessed at each scheduled visit, any unscheduled visits during the study, and at delivery. Peripheral and placental blood films and placental biopsies were prepared at delivery. Newborns were weighed, examined, and gestational age was determined.",
+      "evidence_sentences": [
+        "The investigators conducted a trial to determine the efficacy and safety of azithromycin and artesunate combined with sulphadoxine-pyrimethamine as treatment against malaria during pregnancy.Pregnant women 14 to 26 weeks gestation with P.",
+        "There are data from studies that show that intermittent preventive treatment (IPT) with two doses of sulfadoxine-pyrimethamine (SP) is safe, efficacious, and effective in preventing maternal anemia, placental parasitemia, and LBW.",
+        "Resistance to SP, however, is increasing rapidly in Africa and there is an urgent need to find alternative effective, safe and affordable drugs for the treatment and prevention of malaria in pregnancy."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2006-02-03",
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT00287300",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT00287300",
+            "orgStudyIdInfo": {
+              "id": "03-EPID-153"
+            },
+            "organization": {
+              "fullName": "University of North Carolina, Chapel Hill",
+              "class": "OTHER"
+            },
+            "briefTitle": "Efficacy and Safety of Azithromycin and Artesunate in Pregnant Women",
+            "officialTitle": "A Pilot Randomized Controlled Trial of Azithromycin or Artesunate Added to Sulphadoxine Pyrimethamine as Therapy for Malaria in Pregnancy"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2006-01",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2003-09"
+            },
+            "completionDateStruct": {
+              "date": "2005-08"
+            },
+            "studyFirstSubmitDate": "2006-02-03",
+            "studyFirstSubmitQcDate": "2006-02-03",
+            "studyFirstPostDateStruct": {
+              "date": "2006-02-06",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2006-02-03",
+            "lastUpdatePostDateStruct": {
+              "date": "2006-02-06",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "leadSponsor": {
+              "name": "University of North Carolina",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Centers for Disease Control and Prevention",
+                "class": "FED"
+              }
+            ]
+          },
+          "descriptionModule": {
+            "briefSummary": "The purpose of this study is to compare the efficacy and safety of three treatment regimens for the prevention of malaria during pregnancy.",
+            "detailedDescription": "Malaria infection during pregnancy poses substantial risk to the mother, her fetus, and the neonate. Prevention of malaria during pregnancy is vital in decreasing maternal and child mortality in Africa. There are data from studies that show that intermittent preventive treatment (IPT) with two doses of sulfadoxine-pyrimethamine (SP) is safe, efficacious, and effective in preventing maternal anemia, placental parasitemia, and LBW. Resistance to SP, however, is increasing rapidly in Africa and there is an urgent need to find alternative effective, safe and affordable drugs for the treatment and prevention of malaria in pregnancy.\n\nThe investigators conducted a trial to determine the efficacy and safety of azithromycin and artesunate combined with sulphadoxine-pyrimethamine as treatment against malaria during pregnancy.Pregnant women 14 to 26 weeks gestation with P. falciparum parasitemia on peripheral blood film were randomly assigned into 3 treatment groups and received two doses of:(1) SP (3 tablets) only; (2) SP and azithromycin (1gram/day x 2 days)and (3) SP and artesunate 200mg/day for 3 days). The two doses of the study drug were administered approximately 4 weeks apart. All study drugs were taken under observation.Blood samples were collected on days 1, 2, 3, 7 and 14 after treatment and at any visit when the women presented with symptoms of malaria. The women were also given an insecticide-treated net (ITN) and followed until delivery. Adverse effects were assessed at each scheduled visit, any unscheduled visits during the study, and at delivery. Peripheral and placental blood films and placental biopsies were prepared at delivery. Newborns were weighed, examined, and gestational age was determined."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Malaria"
+            ],
+            "keywords": [
+              "Malaria",
+              "Pregnancy",
+              "Efficacy",
+              "Azithromycin",
+              "Artesunate"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 141
+            }
+          },
+          "armsInterventionsModule": {
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Sulfadoxine-Pyrimethamine"
+              },
+              {
+                "type": "DRUG",
+                "name": "Azithromycin"
+              },
+              {
+                "type": "DRUG",
+                "name": "Artesunate"
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Parasitological failure rates"
+              },
+              {
+                "measure": "Parasite clearance time"
+              },
+              {
+                "measure": "Fever clearance times"
+              },
+              {
+                "measure": "Incidence rate of adverse events"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Prevalence rate of abortions"
+              },
+              {
+                "measure": "Prevalence rate of still births"
+              },
+              {
+                "measure": "Prevalence rate of peripheral parasitemia at delivery"
+              },
+              {
+                "measure": "Prevalence of placental malaria (thick blood film and histology)"
+              },
+              {
+                "measure": "Prevalence rate of maternal anemia"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* peripheral malaria parasitemia\n* signed informed consent\n* age 15-49 years\n* mother has felt the movements of the foetus (quickening)\n* fetal age of at least 14 but not more than 26 completed gestation weeks\n* maternal availability for follow-up during the entire period of the study\n\nExclusion Criteria:\n\n* known maternal tuberculosis, diabetes, kidney disease, or liver disease\n* mental disorder that may affect comprehension of the study or success of follow-up\n* twin pregnancy\n* pregnancy complications evident at enrollment visit (moderate to severe oedema, blood Hb concentration \\< 7 g / dl, systolic blood pressure (BP) \\> 160 mmHg or diastolic BP \\> 100 mmHg)\n* prior receipt of azithromycin during current pregnancy\n* receipt of any antimalarial within 28 days before enrollment\n* known allergy to drugs containing sulfonamides, macrolides or pyrimethamine\n* history of anaphylaxis\n* history of any serious allergic reaction to any substance, requiring emergency medical care\n* history of hepatitis or jaundice\n* concurrent participation in any other clinical trial",
+            "healthyVolunteers": false,
+            "sex": "FEMALE",
+            "minimumAge": "15 Years",
+            "maximumAge": "49 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Steve R Meshnick, M.D., Ph.D.",
+                "affiliation": "2. Department of Epidemiology, School of Public Health, University of North Carolina, Chapel Hill NC USA",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Stephen J Rogerson, MB BS, Ph.D.",
+                "affiliation": "3. Department of Medicine, University of Melbourne, Royal Melbourne Hospital, Parkville Victoria Australia",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Marjorie Chaponda, MB BS, MPH",
+                "affiliation": "1. UNC Malaria Project, Department of Community Health, College of Medicine, University of Malawi",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Mpemba and Madziabango Health Centers",
+                "city": "Blantyre",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -15.78499,
+                  "lon": 35.00854
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "18000538",
+                "type": "DERIVED",
+                "citation": "Kalilani L, Mofolo I, Chaponda M, Rogerson SJ, Alker AP, Kwiek JJ, Meshnick SR. A randomized controlled pilot trial of azithromycin or artesunate added to sulfadoxine-pyrimethamine as treatment for malaria in pregnant women. PLoS One. 2007 Nov 14;2(11):e1166. doi: 10.1371/journal.pone.0001166."
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D008288",
+                "term": "Malaria"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D011528",
+                "term": "Protozoan Infections"
+              },
+              {
+                "id": "D010272",
+                "term": "Parasitic Diseases"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D000096724",
+                "term": "Mosquito-Borne Diseases"
+              },
+              {
+                "id": "D000079426",
+                "term": "Vector Borne Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "C001205",
+                "term": "fanasil, pyrimethamine drug combination"
+              },
+              {
+                "id": "D017963",
+                "term": "Azithromycin"
+              },
+              {
+                "id": "D000077332",
+                "term": "Artesunate"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D004917",
+                "term": "Erythromycin"
+              },
+              {
+                "id": "D018942",
+                "term": "Macrolides"
+              },
+              {
+                "id": "D061065",
+                "term": "Polyketides"
+              },
+              {
+                "id": "D007783",
+                "term": "Lactones"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D037621",
+                "term": "Artemisinins"
+              },
+              {
+                "id": "D017382",
+                "term": "Reactive Oxygen Species"
+              },
+              {
+                "id": "D005609",
+                "term": "Free Radicals"
+              },
+              {
+                "id": "D007287",
+                "term": "Inorganic Chemicals"
+              },
+              {
+                "id": "D012717",
+                "term": "Sesquiterpenes"
+              },
+              {
+                "id": "D013729",
+                "term": "Terpenes"
+              },
+              {
+                "id": "D006838",
+                "term": "Hydrocarbons"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT01982812",
+      "title": "A Safety and Feasibility Study of Enteral LVT vs. Standard of Care for Seizure Control in Pediatric CM",
+      "brief_summary": "Pediatric cerebral malaria (CM) affects more than 3 million children each year killing \\~20% and leaving one third of survivors with long term neurologic and psychiatric sequelae. Seizures occur commonly with CM and are associated with an increased risk of death and neuropsychiatric disabilities. In this Malawi-based, safety and feasibility study of enteral levetiracetam in pediatric CM, the investigators will lay the groundwork for future efficacy studies aimed at improving seizure control and ultimately decreasing the neurologic morbidity of pediatric CM.",
+      "detailed_description": "Cerebral malaria (CM) affects \\~3 million children each year, primarily in sub-Saharan Africa. Antimalarial medications can rapidly clear P. falciparum parasites, but mortality rates remain high (12-25%). Survivors do not escape unscathed--\\~30% experience neurologic sequelae including epilepsy, behavioral disorders and gross neurologic deficits. Acute seizures occur commonly in CM and are associated with higher neurologic morbidity and mortality. Seizure management in malaria endemic regions is challenging because the available antiepileptic drugs (AED) induce respiratory suppression and assisted ventilation is unavailable. More optimal seizure control may improve neurologic outcomes in pediatric CM survivors, especially if the medication used is affordable and can be delivered safely and easily in resource limited settings. The investigators conducted a dose- escalation study detailed elsewhere (NCT01660672) to determine the optimal dose for use in this safety and feasibility study of enteral levetiracetam (LVT) for seizure control in children with CM and seizures admitted to Queen Elizabeth Central Hospital in Blantyre, Malawi. Enteral LVT given via nasogastric tube (NGT) rather than an intravenous (IV) formulation will be used since LVT has excellent enteral bioavailability and IV formations are not affordable in most malaria-endemic regions. LVT 40mg/kg followed by 30mg per kg Q12 hourly. Children admitted with cerebral malaria and seizures will be randomized to LVT vs. standard of care with phenobarbital as needed comparing seizure control, safety, and neurological outcomes.",
+      "evidence_sentences": [
+        "In this Malawi-based, safety and feasibility study of enteral levetiracetam in pediatric CM, the investigators will lay the groundwork for future efficacy studies aimed at improving seizure control and ultimately decreasing the neurologic morbidity of pediatric CM.",
+        "The investigators conducted a dose- escalation study detailed elsewhere (NCT01660672) to determine the optimal dose for use in this safety and feasibility study of enteral levetiracetam (LVT) for seizure control in children with CM and seizures admitted to Queen Elizabeth Central Hospital in Blantyre, Malawi.",
+        "Enteral LVT given via nasogastric tube (NGT) rather than an intravenous (IV) formulation will be used since LVT has excellent enteral bioavailability and IV formations are not affordable in most malaria-endemic regions."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2016-06-20",
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT01982812",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT01982812",
+            "orgStudyIdInfo": {
+              "id": "7R01NS074409-02",
+              "type": "NIH",
+              "link": "https://reporter.nih.gov/quickSearch/7R01NS074409-02"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "R01NS074409",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/R01NS074409"
+              }
+            ],
+            "organization": {
+              "fullName": "University of Rochester",
+              "class": "OTHER"
+            },
+            "briefTitle": "A Safety and Feasibility Study of Enteral LVT vs. Standard of Care for Seizure Control in Pediatric CM",
+            "officialTitle": "A Safety and Feasibility Study of Enteral Levetiracetam vs. Phenobarbital for Seizure Control in Pediatric Cerebral Malaria",
+            "acronym": "LVT2"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2016-06",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2014-01"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2015-06",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2015-06",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2013-11-05",
+            "studyFirstSubmitQcDate": "2013-11-05",
+            "studyFirstPostDateStruct": {
+              "date": "2013-11-13",
+              "type": "ESTIMATED"
+            },
+            "resultsFirstSubmitDate": "2016-04-28",
+            "resultsFirstSubmitQcDate": "2016-06-20",
+            "resultsFirstPostDateStruct": {
+              "date": "2016-07-29",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2016-06-20",
+            "lastUpdatePostDateStruct": {
+              "date": "2016-07-29",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Gretchen Birbeck",
+              "investigatorTitle": "Professor",
+              "investigatorAffiliation": "University of Rochester"
+            },
+            "leadSponsor": {
+              "name": "University of Rochester",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "National Institute of Neurological Disorders and Stroke (NINDS)",
+                "class": "NIH"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true
+          },
+          "descriptionModule": {
+            "briefSummary": "Pediatric cerebral malaria (CM) affects more than 3 million children each year killing \\~20% and leaving one third of survivors with long term neurologic and psychiatric sequelae. Seizures occur commonly with CM and are associated with an increased risk of death and neuropsychiatric disabilities. In this Malawi-based, safety and feasibility study of enteral levetiracetam in pediatric CM, the investigators will lay the groundwork for future efficacy studies aimed at improving seizure control and ultimately decreasing the neurologic morbidity of pediatric CM.",
+            "detailedDescription": "Cerebral malaria (CM) affects \\~3 million children each year, primarily in sub-Saharan Africa. Antimalarial medications can rapidly clear P. falciparum parasites, but mortality rates remain high (12-25%). Survivors do not escape unscathed--\\~30% experience neurologic sequelae including epilepsy, behavioral disorders and gross neurologic deficits. Acute seizures occur commonly in CM and are associated with higher neurologic morbidity and mortality. Seizure management in malaria endemic regions is challenging because the available antiepileptic drugs (AED) induce respiratory suppression and assisted ventilation is unavailable. More optimal seizure control may improve neurologic outcomes in pediatric CM survivors, especially if the medication used is affordable and can be delivered safely and easily in resource limited settings. The investigators conducted a dose- escalation study detailed elsewhere (NCT01660672) to determine the optimal dose for use in this safety and feasibility study of enteral levetiracetam (LVT) for seizure control in children with CM and seizures admitted to Queen Elizabeth Central Hospital in Blantyre, Malawi. Enteral LVT given via nasogastric tube (NGT) rather than an intravenous (IV) formulation will be used since LVT has excellent enteral bioavailability and IV formations are not affordable in most malaria-endemic regions. LVT 40mg/kg followed by 30mg per kg Q12 hourly. Children admitted with cerebral malaria and seizures will be randomized to LVT vs. standard of care with phenobarbital as needed comparing seizure control, safety, and neurological outcomes."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Seizure",
+              "Epilepsy",
+              "Cerebral Malaria"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE2"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 44,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Oral Levetiracetam",
+                "type": "EXPERIMENTAL",
+                "description": "Oral Levetiracetam administered by NG tube.",
+                "interventionNames": [
+                  "Drug: Oral Levetiracetam"
+                ]
+              },
+              {
+                "label": "Standard AED",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Standard AED regimen",
+                "interventionNames": [
+                  "Drug: Standard AED"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Oral Levetiracetam",
+                "description": "liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days",
+                "armGroupLabels": [
+                  "Oral Levetiracetam"
+                ],
+                "otherNames": [
+                  "Keppra"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Standard AED",
+                "description": "Active comparitor, Standard AED",
+                "armGroupLabels": [
+                  "Standard AED"
+                ],
+                "otherNames": [
+                  "Standard regimen of AED therapy"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Minutes With Seizure on EEG",
+                "description": "Comparing LVT to standard AED the number of minutes spent in seizure per cEEG in the 72 hours after treatment allocation.",
+                "timeFrame": "72 hours"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Required Additional AED",
+                "description": "Additional AEDs required (including for breakthrough seizures in LVT group) during admission for seizure control (yes/no)",
+                "timeFrame": "7 days"
+              },
+              {
+                "measure": "Mean Time From Admission to BCS >/= 4",
+                "description": "The mean time in hours from admission until the subject reaches Blantyre Coma Scale of greater than or equal to 4. Participants who died are excluded from this analysis.\n\nThe Blantyre Coma Score has ranges from 0-5 based upon the a sum of the following 3 domains- Eye movement\n\n1 - Watches or follows 0 - Fails to watch or follow\n\nBest motor response 2 - Localizes painful stimulus 1 - Withdraws limb from painful stimulus 0 - No response or inappropriate response\n\nBest verbal response 2 - Cries appropriately with pain, or, if verbal, speaks\n\n1 - Moan or abnormal cry with pain 0 - No vocal response to pain",
+                "timeFrame": "7 days"
+              },
+              {
+                "measure": "Sequelae",
+                "description": "Neurologic outcome in 3 categories--\n\n1. Neurologically intact at discharge\n2. Neurologic sequelae at discharge--specifically new sensory or motor deficits, ongoing seizures, or behavioral abnormalities based upon a physician examination at discharge\n3. Died during admission, never discharged",
+                "timeFrame": "7 days"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Comatose with Blantyre Comas Score ≤ 2\n* P. falciparum parasitemia via thick blood film or rapid diagnostic test\n* Active seizure in past 24 hours\n\nExclusion Criteria:\n\n* Serum creatinine \\> 2mg/dL\n* Pre-admission/concomitant treatment with antiretroviral medications for HIV (ARVs), antituberculous treatments(ATTs), or chronic use of any other enzyme-inducing medications",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "24 Months",
+            "maximumAge": "83 Months",
+            "stdAges": [
+              "CHILD"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Gretchen L Birbeck, M.D.",
+                "affiliation": "University of Rochester",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Queen Elizabeth Central Hospital",
+                "city": "Blantyre",
+                "zip": "3",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -15.78499,
+                  "lon": 35.00854
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "31672143",
+                "type": "DERIVED",
+                "citation": "Birbeck GL, Herman ST, Capparelli EV, Dzinjalamala FK, Abdel Baki SG, Mallewa M, Toto NM, Postels DG, Gardiner JC, Taylor TE, Seydel KB. A clinical trial of enteral Levetiracetam for acute seizures in pediatric cerebral malaria. BMC Pediatr. 2019 Nov 1;19(1):399. doi: 10.1186/s12887-019-1766-2."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "YES",
+            "description": "After the finding have been published, the de-identified study data will be available to other researchers on request pending a review of their plans for using the data."
+          }
+        },
+        "resultsSection": {
+          "participantFlowModule": {
+            "recruitmentDetails": "Randomized consecutive, eligible consented children with cerebral malaria during two recruitment periods--January to June 2014 and 2015,",
+            "groups": [
+              {
+                "id": "FG000",
+                "title": "Oral Levetiracetam",
+                "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+              },
+              {
+                "id": "FG001",
+                "title": "Comparison Group",
+                "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load"
+              }
+            ],
+            "periods": [
+              {
+                "title": "Overall Study",
+                "milestones": [
+                  {
+                    "type": "STARTED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "23"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "21"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "22"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "11"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "NOT COMPLETED",
+                    "achievements": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "1"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "10"
+                      }
+                    ]
+                  }
+                ],
+                "dropWithdraws": [
+                  {
+                    "type": "Death",
+                    "reasons": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "1"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Adverse Event",
+                    "reasons": [
+                      {
+                        "groupId": "FG000",
+                        "numSubjects": "0"
+                      },
+                      {
+                        "groupId": "FG001",
+                        "numSubjects": "5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "baselineCharacteristicsModule": {
+            "groups": [
+              {
+                "id": "BG000",
+                "title": "Oral Levetiracetam",
+                "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+              },
+              {
+                "id": "BG001",
+                "title": "Standard AED",
+                "description": "Standard AED regimen\n\nStandard AED: Active comparitor, Standard AED"
+              },
+              {
+                "id": "BG002",
+                "title": "Total",
+                "description": "Total of all reporting groups"
+              }
+            ],
+            "denoms": [
+              {
+                "units": "Participants",
+                "counts": [
+                  {
+                    "groupId": "BG000",
+                    "value": "23"
+                  },
+                  {
+                    "groupId": "BG001",
+                    "value": "21"
+                  },
+                  {
+                    "groupId": "BG002",
+                    "value": "44"
+                  }
+                ]
+              }
+            ],
+            "measures": [
+              {
+                "title": "Age, Categorical",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "<=18 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "23"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "21"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "44"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "0"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Age, Continuous",
+                "paramType": "MEAN",
+                "dispersionType": "STANDARD_DEVIATION",
+                "unitOfMeasure": "months",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "41.4",
+                            "spread": "10.6"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "41.8",
+                            "spread": "16.7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "41.6",
+                            "spread": "13.7"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Sex: Female, Male",
+                "paramType": "COUNT_OF_PARTICIPANTS",
+                "unitOfMeasure": "Participants",
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "title": "Female",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "10"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "14"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "24"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Male",
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "13"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "20"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Race/Ethnicity, Customized",
+                "description": "Everyone in this Malawian study population was a black African",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "classes": [
+                  {
+                    "title": "African",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "23"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "21"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "44"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "cerebral malaria retinopathy (present)",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "classes": [
+                  {
+                    "title": "retinopathy positive",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "16"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "12"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "28"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "retinopathy negative",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "BG000",
+                            "value": "7"
+                          },
+                          {
+                            "groupId": "BG001",
+                            "value": "9"
+                          },
+                          {
+                            "groupId": "BG002",
+                            "value": "16"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "outcomeMeasuresModule": {
+            "outcomeMeasures": [
+              {
+                "type": "PRIMARY",
+                "title": "Minutes With Seizure on EEG",
+                "description": "Comparing LVT to standard AED the number of minutes spent in seizure per cEEG in the 72 hours after treatment allocation.",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "minutes with seizure",
+                "timeFrame": "72 hours",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral Levetiracetam",
+                    "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Comparison Group",
+                    "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "23"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "21"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "165.2",
+                            "spread": "265.9"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "464.8",
+                            "spread": "639.3"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "SECONDARY",
+                "title": "Required Additional AED",
+                "description": "Additional AEDs required (including for breakthrough seizures in LVT group) during admission for seizure control (yes/no)",
+                "reportingStatus": "POSTED",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "Participants requiring additional AEDs",
+                "timeFrame": "7 days",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral Levetiracetam",
+                    "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Comparison Group",
+                    "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "23"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "21"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "18"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "18"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "SECONDARY",
+                "title": "Mean Time From Admission to BCS >/= 4",
+                "description": "The mean time in hours from admission until the subject reaches Blantyre Coma Scale of greater than or equal to 4. Participants who died are excluded from this analysis.\n\nThe Blantyre Coma Score has ranges from 0-5 based upon the a sum of the following 3 domains- Eye movement\n\n1 - Watches or follows 0 - Fails to watch or follow\n\nBest motor response 2 - Localizes painful stimulus 1 - Withdraws limb from painful stimulus 0 - No response or inappropriate response\n\nBest verbal response 2 - Cries appropriately with pain, or, if verbal, speaks\n\n1 - Moan or abnormal cry with pain 0 - No vocal response to pain",
+                "populationDescription": "Comparing mean time to coma resolution in hours among survivors",
+                "reportingStatus": "POSTED",
+                "paramType": "MEAN",
+                "dispersionType": "Standard Deviation",
+                "unitOfMeasure": "hours of coma from admission",
+                "timeFrame": "7 days",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral Levetiracetam",
+                    "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Comparison Group",
+                    "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "22"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "16"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "35.4",
+                            "spread": "29.0"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "34.6",
+                            "spread": "27.8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "SECONDARY",
+                "title": "Sequelae",
+                "description": "Neurologic outcome in 3 categories--\n\n1. Neurologically intact at discharge\n2. Neurologic sequelae at discharge--specifically new sensory or motor deficits, ongoing seizures, or behavioral abnormalities based upon a physician examination at discharge\n3. Died during admission, never discharged",
+                "reportingStatus": "POSTED",
+                "paramType": "NUMBER",
+                "unitOfMeasure": "participants",
+                "timeFrame": "7 days",
+                "groups": [
+                  {
+                    "id": "OG000",
+                    "title": "Oral Levetiracetam",
+                    "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days"
+                  },
+                  {
+                    "id": "OG001",
+                    "title": "Comparison Group",
+                    "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load"
+                  }
+                ],
+                "denoms": [
+                  {
+                    "units": "Participants",
+                    "counts": [
+                      {
+                        "groupId": "OG000",
+                        "value": "23"
+                      },
+                      {
+                        "groupId": "OG001",
+                        "value": "21"
+                      }
+                    ]
+                  }
+                ],
+                "classes": [
+                  {
+                    "title": "Neurologically intact at discharge",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "19"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "14"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Neurologic sequelae at discharge",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "3"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Died during admission",
+                    "categories": [
+                      {
+                        "measurements": [
+                          {
+                            "groupId": "OG000",
+                            "value": "1"
+                          },
+                          {
+                            "groupId": "OG001",
+                            "value": "5"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "adverseEventsModule": {
+            "frequencyThreshold": "0",
+            "timeFrame": "1 month post enrollment",
+            "eventGroups": [
+              {
+                "id": "EG000",
+                "title": "Oral Levetiracetam",
+                "description": "Oral Levetiracetam administered by NG tube.\n\nOral Levetiracetam: liquid, 40 mg/kg loading dose and 30mg/kg every 12 hours via nasogastric tube for 3 days",
+                "seriousNumAffected": 5,
+                "seriousNumAtRisk": 23,
+                "otherNumAffected": 15,
+                "otherNumAtRisk": 23
+              },
+              {
+                "id": "EG001",
+                "title": "Comparison Group",
+                "description": "2014: Children randomized to routine care who then recieved 20mg/kg phenobarbital with additional doses at the managing clinicians discretion\n\n2015: Children randomized to routine care will phenobarbital given at the discretion of the managing clinician but with a max od 20mg/kg load",
+                "seriousNumAffected": 8,
+                "seriousNumAtRisk": 21,
+                "otherNumAffected": 18,
+                "otherNumAtRisk": 21
+              }
+            ],
+            "seriousEvents": [
+              {
+                "term": "death",
+                "organSystem": "Nervous system disorders",
+                "sourceVocabulary": "Grade 5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "Died with respiratory then cardiac failure as is typical of death in pediatric cerebral malaria",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 5,
+                    "numAffected": 5,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "elevated AST",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "laboratory assessment at 24 hours, 7 days and 1 month post randomization",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 4,
+                    "numAffected": 3,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 2,
+                    "numAffected": 2,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "thrombocytopenia",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "Persistent or worsening thrombocytopenia",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 2,
+                    "numAffected": 2,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "hyperkalemia",
+                "organSystem": "Metabolism and nutrition disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Acute kidney injury",
+                "organSystem": "Renal and urinary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "Based upon creatinine",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "respiratory suppression or aspiration",
+                "organSystem": "Respiratory, thoracic and mediastinal disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 3,
+                    "numAffected": 3,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Anemia (persistent)",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "elevated ALT",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "laboratory assessment at 24 hours, 7 days and 1 month post randomization",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "elevated alkaline phosphatase",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "laboratory assessment at 24 hours, 7 days and 1 month post randomization",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              }
+            ],
+            "otherEvents": [
+              {
+                "term": "myoclonus",
+                "organSystem": "Nervous system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "myoclonic jerks while fully awake",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Anemia with persistent low retics",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "notes": "At 30 days post d/c",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Increased AST",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 7,
+                    "numAffected": 5,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 10,
+                    "numAffected": 7,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Thrombocytopenia",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 2,
+                    "numAffected": 2,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "elevated platelet count",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 2,
+                    "numAffected": 2,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Decreased reticulocyte count",
+                "organSystem": "Blood and lymphatic system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 4,
+                    "numAffected": 4,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Abnormal ECG",
+                "organSystem": "Cardiac disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Excess sedation",
+                "organSystem": "Nervous system disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Increased ALT",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 4,
+                    "numAffected": 4,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 7,
+                    "numAffected": 4,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Increased alkaline phosphotase",
+                "organSystem": "Hepatobiliary disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 3,
+                    "numAffected": 3,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 7,
+                    "numAffected": 5,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Increased potassium",
+                "organSystem": "Metabolism and nutrition disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 7,
+                    "numAffected": 7,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 4,
+                    "numAffected": 4,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Increased chloride",
+                "organSystem": "Metabolism and nutrition disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 2,
+                    "numAffected": 2,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "Vomiting",
+                "organSystem": "Gastrointestinal disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "increased phosphate",
+                "organSystem": "Metabolism and nutrition disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 6,
+                    "numAffected": 6,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 21
+                  }
+                ]
+              },
+              {
+                "term": "increased calcium",
+                "organSystem": "Metabolism and nutrition disorders",
+                "sourceVocabulary": "Grade 1-5",
+                "assessmentType": "SYSTEMATIC_ASSESSMENT",
+                "stats": [
+                  {
+                    "groupId": "EG000",
+                    "numEvents": 1,
+                    "numAffected": 1,
+                    "numAtRisk": 23
+                  },
+                  {
+                    "groupId": "EG001",
+                    "numEvents": 0,
+                    "numAffected": 0,
+                    "numAtRisk": 21
+                  }
+                ]
+              }
+            ]
+          },
+          "moreInfoModule": {
+            "certainAgreement": {
+              "piSponsorEmployee": false,
+              "restrictiveAgreement": false
+            },
+            "pointOfContact": {
+              "title": "Gretchen L. Birbeck",
+              "organization": "University of Rochester",
+              "email": "gretchen_birbeck@urmc.rochester.edu",
+              "phone": "585-273-4265"
+            }
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D012640",
+                "term": "Seizures"
+              },
+              {
+                "id": "D004827",
+                "term": "Epilepsy"
+              },
+              {
+                "id": "D016779",
+                "term": "Malaria, Cerebral"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D009461",
+                "term": "Neurologic Manifestations"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D012816",
+                "term": "Signs and Symptoms"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D001927",
+                "term": "Brain Diseases"
+              },
+              {
+                "id": "D002493",
+                "term": "Central Nervous System Diseases"
+              },
+              {
+                "id": "D020808",
+                "term": "Central Nervous System Protozoal Infections"
+              },
+              {
+                "id": "D020807",
+                "term": "Central Nervous System Parasitic Infections"
+              },
+              {
+                "id": "D002494",
+                "term": "Central Nervous System Infections"
+              },
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D010272",
+                "term": "Parasitic Diseases"
+              },
+              {
+                "id": "D008288",
+                "term": "Malaria"
+              },
+              {
+                "id": "D011528",
+                "term": "Protozoan Infections"
+              },
+              {
+                "id": "D000096724",
+                "term": "Mosquito-Borne Diseases"
+              },
+              {
+                "id": "D000079426",
+                "term": "Vector Borne Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000077287",
+                "term": "Levetiracetam"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D000081",
+                "term": "Acetamides"
+              },
+              {
+                "id": "D000577",
+                "term": "Amides"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              },
+              {
+                "id": "D000085",
+                "term": "Acetates"
+              },
+              {
+                "id": "D000144",
+                "term": "Acids, Acyclic"
+              },
+              {
+                "id": "D002264",
+                "term": "Carboxylic Acids"
+              },
+              {
+                "id": "D011760",
+                "term": "Pyrrolidinones"
+              },
+              {
+                "id": "D011759",
+                "term": "Pyrrolidines"
+              },
+              {
+                "id": "D006573",
+                "term": "Heterocyclic Compounds, 1-Ring"
+              },
+              {
+                "id": "D006571",
+                "term": "Heterocyclic Compounds"
+              }
+            ]
+          }
+        },
+        "hasResults": true
+      }
+    },
+    {
+      "nct_id": "NCT02048007",
+      "title": "Mortality Reduction After Oral Azithromycin: Morbidity Study",
+      "brief_summary": "The long-term goal of this study is to more precisely define the role of mass azithromycin treatments as an intervention for reducing childhood morbidity and increasing growth, and for the potential selection of antibiotic resistance. The investigators propose a set of 3 cluster-randomized trials in Malawi, Niger, and Tanzania comparing communities randomized to oral azithromycin with those randomized to placebo. To assess the generalizability of the intervention, investigators will monitor for antibiotic resistance, which could potentially limit adoption of mass antibiotic treatments. The investigators will also assess several measures of infectious diseases. The investigators hypothesize that mass azithromycin treatments will reduce childhood morbidity and will be accompanied by an acceptable level of antibiotic resistance.",
+      "detailed_description": "The investigators will assess childhood infectious disease morbidity and macrolide resistance over two years, comparing communities where children aged 1-60 months receive biannual oral azithromycin to communities where the children receive biannual oral placebo.\n\nRandomization of Treatment Allocation. In each site, 30 communities within a contiguous area of 300,000 to 600,000 individuals will be randomized into the azithromycin or placebo arm. The investigators will use a simple random sample separately for each study site, but without stratification or block randomization within the site. These communities are being randomized from the same pool of communities eligible for a sister trial (Mortality Reduction After Oral Azithromycin (MORDOR) - Morbidity Study).\n\nSpecific Aims\n\nSpecific Aim 1: To assess whether macrolide resistance is greater in a population-based community sample of pre-school children, or in a clinic-based sample of ill pre-school children\n\nSpecific Aim 2: To assess whether biannual mass azithromycin treatments of pre-school children can eliminate ocular chlamydia in a hypoendemic area\n\nSpecific Aim 3: To assess the diversity of the microbiome of the nasopharynx, nares, conjunctiva, and gastrointestinal tract",
+      "evidence_sentences": [
+        "The investigators propose a set of 3 cluster-randomized trials in Malawi, Niger, and Tanzania comparing communities randomized to oral azithromycin with those randomized to placebo.",
+        "Specific Aims Specific Aim 1: To assess whether macrolide resistance is greater in a population-based community sample of pre-school children, or in a clinic-based sample of ill pre-school children Specific Aim 2: To assess whether biannual mass azithromycin treatments of pre-school children can eliminate ocular chlamydia in a hypoendemic area Specific Aim 3: To assess the diversity of the microbiome of the nasopharynx, nares, conjunctiva, and gastrointestinal tract",
+        "The long-term goal of this study is to more precisely define the role of mass azithromycin treatments as an intervention for reducing childhood morbidity and increasing growth, and for the potential selection of antibiotic resistance."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2021-03-15",
+      "query_keywords": [
+        "malaria",
+        "studies",
+        "malawi"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT02048007",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT02048007",
+            "orgStudyIdInfo": {
+              "id": "OPP1032340-B"
+            },
+            "organization": {
+              "fullName": "University of California, San Francisco",
+              "class": "OTHER"
+            },
+            "briefTitle": "Mortality Reduction After Oral Azithromycin: Morbidity Study",
+            "officialTitle": "Evaluating Impact of Azithromycin Mass Drug Administrations on All-cause Mortality and Antibiotic Resistance: Morbidity Study",
+            "acronym": "MORDORMorb"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2021-03",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2014-11",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-08-27",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2020-08-27",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2014-01-24",
+            "studyFirstSubmitQcDate": "2014-01-24",
+            "studyFirstPostDateStruct": {
+              "date": "2014-01-29",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2021-03-15",
+            "lastUpdatePostDateStruct": {
+              "date": "2021-03-17",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University of California, San Francisco",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Bill and Melinda Gates Foundation",
+                "class": "OTHER"
+              },
+              {
+                "name": "Johns Hopkins University",
+                "class": "OTHER"
+              },
+              {
+                "name": "London School of Hygiene and Tropical Medicine",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": true,
+            "isFdaRegulatedDevice": false,
+            "isUsExport": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The long-term goal of this study is to more precisely define the role of mass azithromycin treatments as an intervention for reducing childhood morbidity and increasing growth, and for the potential selection of antibiotic resistance. The investigators propose a set of 3 cluster-randomized trials in Malawi, Niger, and Tanzania comparing communities randomized to oral azithromycin with those randomized to placebo. To assess the generalizability of the intervention, investigators will monitor for antibiotic resistance, which could potentially limit adoption of mass antibiotic treatments. The investigators will also assess several measures of infectious diseases. The investigators hypothesize that mass azithromycin treatments will reduce childhood morbidity and will be accompanied by an acceptable level of antibiotic resistance.",
+            "detailedDescription": "The investigators will assess childhood infectious disease morbidity and macrolide resistance over two years, comparing communities where children aged 1-60 months receive biannual oral azithromycin to communities where the children receive biannual oral placebo.\n\nRandomization of Treatment Allocation. In each site, 30 communities within a contiguous area of 300,000 to 600,000 individuals will be randomized into the azithromycin or placebo arm. The investigators will use a simple random sample separately for each study site, but without stratification or block randomization within the site. These communities are being randomized from the same pool of communities eligible for a sister trial (Mortality Reduction After Oral Azithromycin (MORDOR) - Morbidity Study).\n\nSpecific Aims\n\nSpecific Aim 1: To assess whether macrolide resistance is greater in a population-based community sample of pre-school children, or in a clinic-based sample of ill pre-school children\n\nSpecific Aim 2: To assess whether biannual mass azithromycin treatments of pre-school children can eliminate ocular chlamydia in a hypoendemic area\n\nSpecific Aim 3: To assess the diversity of the microbiome of the nasopharynx, nares, conjunctiva, and gastrointestinal tract"
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Childhood Mortality"
+            ],
+            "keywords": [
+              "Childhood mortality",
+              "Azithromycin",
+              "Mass treatment",
+              "Infection",
+              "Bacterial infections",
+              "Trachoma",
+              "Chlamydia infections",
+              "Malaria",
+              "Diarrhea",
+              "Respiratory Infections",
+              "Antibiotic resistance",
+              "Verbal Autopsy",
+              "Microbiome"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "PHASE4"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "TREATMENT",
+              "maskingInfo": {
+                "masking": "QUADRUPLE",
+                "whoMasked": [
+                  "PARTICIPANT",
+                  "CARE_PROVIDER",
+                  "INVESTIGATOR",
+                  "OUTCOMES_ASSESSOR"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 72000,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Biannual mass oral azithromycin",
+                "type": "ACTIVE_COMPARATOR",
+                "description": "Comparison of childhood infectious and nutritional morbidity in communities randomized to azithromycin versus communities randomized to placebo.\n\nChildren aged 1 month to 60 months per community will be offered weight or height-based, directly observed, oral azithromycin suspension every 6 months for 2 years\n\nMorbidity monitoring:\n\nCollect swabs (nasopharyngeal, nasal, conjunctival), blood samples, (thick/thin blood smears, hemoglobin, dried blood spots), and stool samples from 40 randomly selected children aged 1 month to 60 months per community; collect swabs (nasopharyngeal) from 40 randomly selected children aged 7-12 years per community.\n\nAnthropometry for all children aged 1 to 60 months per community.\n\nCollect nasopharyngeal swabs from all children aged 1-60 months who are seen at a local health clinic and have a respiratory complaint.",
+                "interventionNames": [
+                  "Drug: Azithromycin"
+                ]
+              },
+              {
+                "label": "Biannual mass oral placebo",
+                "type": "PLACEBO_COMPARATOR",
+                "description": "Comparison of childhood infectious and nutritional morbidity in communities randomized to azithromycin versus communities randomized to placebo.\n\nChildren aged 1 month to 60 months per community will be offered weight or height-based, directly observed, oral placebo every 6 months for 2 years\n\nCollect swabs (nasopharyngeal, nasal, conjunctival), blood samples, (thick/thin blood smears, hemoglobin, dried blood spots), and stool samples from 40 randomly selected children aged 1 month to 60 months per community; collect swabs (nasopharyngeal) from 40 randomly selected children aged 7-12 years per community\n\nAnthropometry for all children aged 1 to 60 months per community\n\nCollect nasopharyngeal swabs from all children aged 1-60 months who are seen at a local health clinic and have a respiratory complaint",
+                "interventionNames": [
+                  "Drug: Placebo"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DRUG",
+                "name": "Azithromycin",
+                "description": "Biannual mass oral azithromycin to children",
+                "armGroupLabels": [
+                  "Biannual mass oral azithromycin"
+                ],
+                "otherNames": [
+                  "Zithromax"
+                ]
+              },
+              {
+                "type": "DRUG",
+                "name": "Placebo",
+                "description": "Biannual mass oral placebo to children",
+                "armGroupLabels": [
+                  "Biannual mass oral placebo"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Presence of malaria parasites on thick blood smear or Rapid Diagnostic Test (RDT) in children 1-60 months",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Fraction of isolates of pneumococcus exhibiting macrolide resistance by nasopharyngeal swabs in children 1-60 months",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 36 months"
+              },
+              {
+                "measure": "Prevalence of macrolide resistance in the stool as determined by genetic determinants or phenotypic testing",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Fraction of conjunctival swabs yielding ocular chlamydia in children 1-60 months",
+                "description": "MORDOR Malawi and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Height over time in children aged 1-60 months",
+                "description": "MORDOR Malawi and Niger Please note: Each outcome will be analyzed separately in each of the two study sites.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Weight for Height over time in children aged 1-60 months",
+                "description": "MORDOR Malawi and Niger Please note:Each outcome will be analyzed separately in each of the two study sites.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Density of asexual stages and gametocytes, in children 1-60 months",
+                "description": "MORDOR Malawi and Niger Please note: Each outcome will be analyzed separately in each of the two study sites.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Hemoglobin concentration and presence of anemia (hemoglobin <11 g/dL) in children 1-60 months",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Genetic determinants of macrolide resistance in the nasopharynx (eg pneumococcal) in individuals 7-12 years of age",
+                "description": "MORDOR Niger",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Genetic determinants of macrolide resistance in the nasopharynx (eg pneumococcal) in individuals 1-60 month olds seen in local health clinics for a respiratory complaint",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Rates of acute respiratory illness among children 1-60 months.",
+                "description": "MORDOR Tanzania",
+                "timeFrame": "6-24 months after baseline"
+              },
+              {
+                "measure": "Presence of the trachoma grades \"follicular trachoma\" (TF) and \"intense inflammatory trachoma\" (TI), as defined by the World Health Organization (WHO) simplified grading system, in children 1-60 months",
+                "description": "MORDOR Malawi and Niger Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Rates of diarrhea among children (1-60 months)",
+                "description": "MORDOR Tanzania",
+                "timeFrame": "6-24 months after baseline"
+              },
+              {
+                "measure": "Proportion of rectal/stool isolates with evidence of resistance (in for example E.coli) to macrolides and other antibiotics commonly used to treat pediatric infections among children 1-60 months",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "6-24 months after baseline; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Proportions of E. coli isolates resistant to macrolides and to antibiotics commonly used to treat pediatric infections among children 1-60 months hospitalized for pneumonia and diarrhea.",
+                "description": "MORDOR Tanzania",
+                "timeFrame": "6-24 months after baseline"
+              },
+              {
+                "measure": "Studies of intestinal permeability and inflammation, microbial translocation, and immune activation assessed through venous sampling of children 6 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "5 x over 24 weeks after baseline"
+              },
+              {
+                "measure": "Studies of intestinal permeability and inflammation, microbial translocation, and immune activation assessed through urine samples for L:M ratios of children 6 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "5 x over 24 weeks after baseline"
+              },
+              {
+                "measure": "Studies of intestinal permeability and inflammation, microbial translocation, and immune activation assessed through stool (fecal neopterin) of children 6 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "5 x over 24 weeks after baseline"
+              },
+              {
+                "measure": "Nasopharyngeal pneumococcal evidence of beta lactam and macrolide resistance in in children 1-60 months as measured by RNA-sequencing of the resistome",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Tanzania will report outcomes at 6-24 months. Each site will report outcomes at 24 months; Niger will also report outcomes at 36 months"
+              },
+              {
+                "measure": "Nasopharyngeal pneumococcal macrolide resistance determinants (eg erythromycin ribosomal methylase B and mefA), serotype, and multilocus sequence type in children 1-60 months",
+                "description": "MORDOR Niger",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Microbiome in the stool, nasopharynx, nares, and conjunctiva in children aged 1-59 months, as measured using next generation sequencing. Arms will be compared using Euclidean distance and diversity compared using Simpson's index.",
+                "description": "Investigators will examine the effects of mass azithromycin (pre-treatment and post-treatment) on the human microbiome of African children by performing metagenomic experiments.\n\nMORDOR Niger",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Microbial diversity in the intestinal microbiomes of children aged 1-60 months as measured by using next generation sequencing",
+                "description": "Investigators will examine the effects of mass azithromycin (pre-treatment and post-treatment) on the human microbiome of African children by performing metagenomic experiments.\n\nMORDOR Malawi",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Serology for exposure to exotic pathogens of children aged 1-60 months as measured by lateral flow assays or Multiplex bead array",
+                "description": "MORDOR Malawi",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Head circumference over time in children aged 1-60 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Knee-heel length over time in children aged 1-60 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "24 months"
+              },
+              {
+                "measure": "Resistance (in E.coli phenotypically or genetic determinants) in stool of children aged 1-60 months.",
+                "description": "MORDOR Malawi, Tanzania and Niger. Please note: Each outcome will be analyzed separately for each study site.",
+                "timeFrame": "Each site will report outcomes at 24 months; Niger will also report outcomes at 48 months"
+              },
+              {
+                "measure": "Prevalence of carriage of a panel of gastrointestinal parasites (Ancylostoma duodenale, Necator americanus, Ascaris lumbricoides, Trichuris trichiura, Giardia lamblia, Cryptosporidium hominis) of children aged 1-60 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "Baseline"
+              },
+              {
+                "measure": "Prevalence of helicobacter pylori of children aged 1-60 months",
+                "description": "MORDOR Malawi",
+                "timeFrame": "Baseline"
+              },
+              {
+                "measure": "Antibody response to enteric pathogens and malaria measured with a multiplex bead assay from dried blood spots collected from children 1 - 59 months",
+                "description": "MORDOR Niger",
+                "timeFrame": "Niger will report outcomes at 36, 48 and 60 months"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\nCommunities:\n\n* The community location in target district.\n* The community leader consents to participation in the trial\n* The community's estimated population is between 200-2,000 people.\n* The community is not in an urban area.\n\nIndividuals (Intervention):\n\n\\- Children-treated arms (all 3 sites): All children aged 1-60 months (up to but not including the 5th birthday), as assessed at the most recent biannual census\n\nIndividuals (Examination \\& Sample Collection):\n\n* All swabs, blood tests, and stool samples: A random sample of children aged 1-60 months (up to but not including the 5th birthday) based on the previous census\n* Anthropometric measurements: All children aged 1-60 months (up to but not including the 5th birthday) will have anthropometric measurements assessed.\n* Nasopharyngeal swabs in untreated children: A random sample of individuals aged 7 - 12 years (7th birthday up to but not including the 12th birthday), as assessed from the previous census\n* Clinic-based nasopharyngeal swabs: All children aged 1-60 months (up to but not including the 5th birthday) who present to a local health clinic in the study area and report symptoms of a respiratory infection\n\nExclusion Criteria:\n\nIndividuals:\n\n* Pregnant women\n* All those who are allergic to macrolides or azalides\n* Refusal of village chief (for village inclusion), or refusal of parent or guardian (for individual inclusion)",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "1 Month",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Tom M Lietman, MD",
+                "affiliation": "University of California, San Francisco",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              },
+              {
+                "name": "Elodie J Lebas, RN",
+                "affiliation": "University of California, San Francisco",
+                "role": "STUDY_DIRECTOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "UCSF Proctor Foundation",
+                "city": "San Francisco",
+                "state": "California",
+                "zip": "94143-0944",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 37.77493,
+                  "lon": -122.41942
+                }
+              },
+              {
+                "facility": "Johns Hopkins University",
+                "city": "Baltimore",
+                "state": "Maryland",
+                "zip": "21205",
+                "country": "United States",
+                "geoPoint": {
+                  "lat": 39.29038,
+                  "lon": -76.61219
+                }
+              },
+              {
+                "facility": "College of Medicine at the University of Malawi, Blantyre",
+                "city": "Blantyre",
+                "country": "Malawi",
+                "geoPoint": {
+                  "lat": -15.78499,
+                  "lon": 35.00854
+                }
+              },
+              {
+                "facility": "The Carter Center, Niger",
+                "city": "Niamey",
+                "country": "Niger",
+                "geoPoint": {
+                  "lat": 13.51366,
+                  "lon": 2.1098
+                }
+              },
+              {
+                "facility": "Kongwa Trachoma Project",
+                "city": "Kongwa",
+                "country": "Tanzania",
+                "geoPoint": {
+                  "lat": -6.2,
+                  "lon": 36.41667
+                }
+              },
+              {
+                "facility": "London School of Hygiene & Tropical Medicine",
+                "city": "London",
+                "country": "United Kingdom",
+                "geoPoint": {
+                  "lat": 51.50853,
+                  "lon": -0.12574
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40824641",
+                "type": "DERIVED",
+                "citation": "Arzika AM, Abdou A, Maliki R, Lebas E, Cook C, Vanderschelden B, O'Brien KS, Cotter SY, Varnado NE, Callahan EK, Bailey RL, West SK, Rosenthal PJ, Porco TC, Lietman TM, Keenan JD; MORDOR-Niger Study Group. Biannual Mass Azithromycin Distributions for Preschool Children and Malaria Parasitemia: A Secondary Analysis of the MORDOR Cluster Randomized Trial. JAMA Netw Open. 2025 Aug 1;8(8):e2527148. doi: 10.1001/jamanetworkopen.2025.27148."
+              },
+              {
+                "pmid": "39929535",
+                "type": "DERIVED",
+                "citation": "Liu J, Brennhofer SA, Zhang J, Stroup S, Pholwat S, Arzika AM, Maliki R, Abdou A, Lebas E, O'Brien KS, Arnold BF, Keenan JD, Lietman TM, Platts-Mills JA, Rogawski McQuade ET, Houpt ER. Effect of biannual azithromycin on respiratory pathogens among symptomatic children: results from the randomised Macrolides Oraux pour Reduire les Deces avec un Oeil sur la Resistance (MORDOR) I trial. BMJ Glob Health. 2025 Feb 10;10(2):e016043. doi: 10.1136/bmjgh-2024-016043."
+              },
+              {
+                "pmid": "35997979",
+                "type": "DERIVED",
+                "citation": "Arzika AM, Mindo-Panusis D, Abdou A, Kadri B, Nassirou B, Maliki R, Alsoudi AF, Zhang T, Cotter SY, Lebas E, O'Brien KS, Callahan EK, Bailey RL, West SK, Goodhew EB, Martin DL, Arnold BF, Porco TC, Lietman TM, Keenan JD; Macrolides Oraux pour Reduire les Deces Avec un Oeil sur la Resistance (MORDOR)-Niger Study Group. Effect of Biannual Mass Azithromycin Distributions to Preschool-Aged Children on Trachoma Prevalence in Niger: A Cluster Randomized Clinical Trial. JAMA Netw Open. 2022 Aug 1;5(8):e2228244. doi: 10.1001/jamanetworkopen.2022.28244."
+              },
+              {
+                "pmid": "35190534",
+                "type": "DERIVED",
+                "citation": "Arzika AM, Maliki R, Goodhew EB, Rogier E, Priest JW, Lebas E, O'Brien KS, Le V, Oldenburg CE, Doan T, Porco TC, Keenan JD, Lietman TM, Martin DL, Arnold BF; MORDOR-Niger Study Group. Effect of biannual azithromycin distribution on antibody responses to malaria, bacterial, and protozoan pathogens in Niger. Nat Commun. 2022 Feb 21;13(1):976. doi: 10.1038/s41467-022-28565-5."
+              },
+              {
+                "pmid": "35156069",
+                "type": "DERIVED",
+                "citation": "Hart JD, Samikwa L, Meleke H, Burr SE, Cornick J, Kalua K, Bailey RL. Prevalence of nasopharyngeal Streptococcus pneumoniae carriage and resistance to macrolides in the setting of azithromycin mass drug administration: analysis from a cluster-randomised controlled trial in Malawi, 2015-17. Lancet Microbe. 2022 Feb;3(2):e142-e150. doi: 10.1016/S2666-5247(21)00279-2."
+              },
+              {
+                "pmid": "34967883",
+                "type": "DERIVED",
+                "citation": "Arzika AM, Maliki R, Ali MM, Alio MK, Abdou A, Cotter SY, Varnado NE, Lebas E, Cook C, Oldenburg CE, O'Brien KS, Callahan EK, Bailey RL, West SK, Porco TC, Lietman TM, Keenan JD; MORDOR-Niger Study Group. Effect of Mass Azithromycin Distributions on Childhood Growth in Niger: A Cluster-Randomized Trial. JAMA Netw Open. 2021 Dec 1;4(12):e2139351. doi: 10.1001/jamanetworkopen.2021.39351."
+              },
+              {
+                "pmid": "34559801",
+                "type": "DERIVED",
+                "citation": "Bloch EM, Mrango Z, Weaver J, Munoz B, Lietman TM, West SK. Causes of death after biannual azithromycin treatment: A community-level randomized clinical trial. PLoS One. 2021 Sep 24;16(9):e0250197. doi: 10.1371/journal.pone.0250197. eCollection 2021."
+              },
+              {
+                "pmid": "31237871",
+                "type": "DERIVED",
+                "citation": "Arzika AM, Maliki R, Boubacar N, Kane S, Cotter SY, Lebas E, Cook C, Bailey RL, West SK, Rosenthal PJ, Porco TC, Lietman TM, Keenan JD; MORDOR Study Group. Biannual mass azithromycin distributions and malaria parasitemia in pre-school children in Niger: A cluster-randomized, placebo-controlled trial. PLoS Med. 2019 Jun 25;16(6):e1002835. doi: 10.1371/journal.pmed.1002835. eCollection 2019 Jun."
+              },
+              {
+                "pmid": "30950493",
+                "type": "DERIVED",
+                "citation": "West SK, Bloch E, Weaver J, Munoz B, Mrango Z, Kasubi M, Lietman T, Coles C. Morbidity in a Longitudinal Cohort of Children Residing in Villages Randomized to Biannual Treatment With Azithromycin Versus Placebo. Clin Infect Dis. 2020 Feb 3;70(4):574-580. doi: 10.1093/cid/ciz269."
+              },
+              {
+                "pmid": "30419040",
+                "type": "DERIVED",
+                "citation": "Oldenburg CE, Arzika AM, Maliki R, Kane MS, Lebas E, Ray KJ, Cook C, Cotter SY, Zhou Z, West SK, Bailey R, Porco TC, Keenan JD, Lietman TM; MORDOR Study Group. Safety of azithromycin in infants under six months of age in Niger: A community randomized trial. PLoS Negl Trop Dis. 2018 Nov 12;12(11):e0006950. doi: 10.1371/journal.pntd.0006950. eCollection 2018 Nov."
+              },
+              {
+                "pmid": "30151409",
+                "type": "DERIVED",
+                "citation": "Doan T, Hinterwirth A, Arzika AM, Cotter SY, Ray KJ, O'Brien KS, Zhong L, Chow ED, Zhou Z, Cummings SL, Fry D, Oldenburg CE, Worden L, Porco TC, Keenan JD, Lietman TM. Mass Azithromycin Distribution and Community Microbiome: A Cluster-Randomized Trial. Open Forum Infect Dis. 2018 Jul 24;5(8):ofy182. doi: 10.1093/ofid/ofy182. eCollection 2018 Aug."
+              },
+              {
+                "pmid": "28402408",
+                "type": "DERIVED",
+                "citation": "Doan T, Arzika AM, Ray KJ, Cotter SY, Kim J, Maliki R, Zhong L, Zhou Z, Porco TC, Vanderschelden B, Keenan JD, Lietman TM. Gut Microbial Diversity in Antibiotic-Naive Children After Systemic Antibiotic Exposure: A Randomized Controlled Trial. Clin Infect Dis. 2017 May 1;64(9):1147-1153. doi: 10.1093/cid/cix141."
+              },
+              {
+                "pmid": "25858004",
+                "type": "DERIVED",
+                "citation": "Porco TC, Stoller NE, Keenan JD, Bailey RL, Lietman TM. Public key cryptography for quality assurance in randomization for clinical trials. Contemp Clin Trials. 2015 May;42:167-8. doi: 10.1016/j.cct.2015.03.016. Epub 2015 Apr 7. No abstract available."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "annotationSection": {
+          "annotationModule": {
+            "unpostedAnnotation": {
+              "unpostedResponsibleParty": "University of California, San Francisco",
+              "unpostedEvents": [
+                {
+                  "type": "RELEASE",
+                  "date": "2022-05-20"
+                },
+                {
+                  "type": "RESET",
+                  "date": "2022-06-21"
+                },
+                {
+                  "type": "RELEASE",
+                  "date": "2024-12-20"
+                },
+                {
+                  "type": "RESET",
+                  "date": "2025-01-16"
+                },
+                {
+                  "type": "RELEASE",
+                  "date": "2025-05-05"
+                },
+                {
+                  "type": "RESET",
+                  "date": "2025-05-21"
+                },
+                {
+                  "type": "RELEASE",
+                  "date": "2025-06-05"
+                },
+                {
+                  "type": "RESET",
+                  "date": "2025-06-26"
+                }
+              ]
+            }
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-15",
+            "submissionTracking": {
+              "estimatedResultsFirstSubmitDate": "2022-05-20",
+              "submissionInfos": [
+                {
+                  "releaseDate": "2022-05-20",
+                  "resetDate": "2022-06-21"
+                },
+                {
+                  "releaseDate": "2024-12-20",
+                  "resetDate": "2025-01-16"
+                },
+                {
+                  "releaseDate": "2025-05-05",
+                  "resetDate": "2025-05-21"
+                },
+                {
+                  "releaseDate": "2025-06-05",
+                  "resetDate": "2025-06-26"
+                }
+              ]
+            }
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D007239",
+                "term": "Infections"
+              },
+              {
+                "id": "D001424",
+                "term": "Bacterial Infections"
+              },
+              {
+                "id": "D014141",
+                "term": "Trachoma"
+              },
+              {
+                "id": "D002690",
+                "term": "Chlamydia Infections"
+              },
+              {
+                "id": "D008288",
+                "term": "Malaria"
+              },
+              {
+                "id": "D003967",
+                "term": "Diarrhea"
+              },
+              {
+                "id": "D012141",
+                "term": "Respiratory Tract Infections"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D001423",
+                "term": "Bacterial Infections and Mycoses"
+              },
+              {
+                "id": "D003234",
+                "term": "Conjunctivitis, Bacterial"
+              },
+              {
+                "id": "D015818",
+                "term": "Eye Infections, Bacterial"
+              },
+              {
+                "id": "D002694",
+                "term": "Chlamydiaceae Infections"
+              },
+              {
+                "id": "D016905",
+                "term": "Gram-Negative Bacterial Infections"
+              },
+              {
+                "id": "D015817",
+                "term": "Eye Infections"
+              },
+              {
+                "id": "D003231",
+                "term": "Conjunctivitis"
+              },
+              {
+                "id": "D003229",
+                "term": "Conjunctival Diseases"
+              },
+              {
+                "id": "D005128",
+                "term": "Eye Diseases"
+              },
+              {
+                "id": "D003316",
+                "term": "Corneal Diseases"
+              },
+              {
+                "id": "D015231",
+                "term": "Sexually Transmitted Diseases, Bacterial"
+              },
+              {
+                "id": "D012749",
+                "term": "Sexually Transmitted Diseases"
+              },
+              {
+                "id": "D003141",
+                "term": "Communicable Diseases"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D011528",
+                "term": "Protozoan Infections"
+              },
+              {
+                "id": "D010272",
+                "term": "Parasitic Diseases"
+              },
+              {
+                "id": "D000096724",
+                "term": "Mosquito-Borne Diseases"
+              },
+              {
+                "id": "D000079426",
+                "term": "Vector Borne Diseases"
+              },
+              {
+                "id": "D012817",
+                "term": "Signs and Symptoms, Digestive"
+              },
+              {
+                "id": "D012816",
+                "term": "Signs and Symptoms"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D017963",
+                "term": "Azithromycin"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D004917",
+                "term": "Erythromycin"
+              },
+              {
+                "id": "D018942",
+                "term": "Macrolides"
+              },
+              {
+                "id": "D061065",
+                "term": "Polyketides"
+              },
+              {
+                "id": "D007783",
+                "term": "Lactones"
+              },
+              {
+                "id": "D009930",
+                "term": "Organic Chemicals"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "semantic_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "36228911",
+      "title": "Malawi ICEMR Malaria Research: Interactions and Results Influencing Health Policies and Practices.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228911/",
+      "semantic_score": 0.7834299802780151,
+      "matched_sentences": [
+        "Through our long-term studies we intend to continue providing practical and policy-relevant evidence necessary, ultimately, to eliminate malaria infection in Malawi."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36228915",
+      "title": "Understanding the Intransigence of Malaria in Malawi.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36228915/",
+      "semantic_score": 0.7706068754196167,
+      "matched_sentences": [
+        "These investigations are helping us to understand mosquito-to-human and human-to-mosquito transmission in the context of Malawi's intransigent malaria problem.",
+        "To evaluate the epidemiology of both Plasmodium falciparum infection and malaria disease, the Malawi International Center of Excellence for Malaria Research (ICEMR) has developed and implemented diverse and robust surveillance and research projects."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00164359",
+      "title": "Amodiaquine Plus Artesunate Versus Lapdap Plus Artesunate in the Treatment of Uncomplicated P. Falciparum Malaria in Malawi",
+      "study_type": "INTERVENTIONAL",
+      "year": "2012",
+      "url": "https://clinicaltrials.gov/study/NCT00164359",
+      "semantic_score": 0.6920621991157532,
+      "matched_sentences": [
+        "Results from this study, along with the efficacy data from the sister protocol in children under five years of age, will help guide the National Malaria Control Program of Malawi in selecting their next first-line antimalarial therapy."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36962553",
+      "title": "Plasmodium falciparum importation does not sustain malaria transmission in a semi-arid region of Kenya.",
+      "study_type": "Publication",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36962553/",
+      "semantic_score": 0.6907434463500977,
+      "matched_sentences": [
+        "Recently, a large reservoir of Plasmodium falciparum malaria was identified in a semi-arid region of northwestern Kenya historically considered unsuitable for malaria transmission."
+      ]
+    }
+  ]
+}

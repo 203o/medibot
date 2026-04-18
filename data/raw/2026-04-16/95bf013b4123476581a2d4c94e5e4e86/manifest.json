@@ -1,0 +1,73 @@
+{
+  "run_id": "95bf013b4123476581a2d4c94e5e4e86",
+  "stored_at": "2026-04-16T17:05:23+00:00",
+  "query": "malaria malaria clinical question children kenya turkana",
+  "query_fallbacks": [
+    "malaria malaria clinical question children kenya turkana",
+    "malaria epidemiology in children in Kenya",
+    "malaria burden in Turkana County Kenya",
+    "malaria disease patterns among Kenyan children",
+    "malaria incidence in Turkana region Kenya",
+    "malaria malaria clinical question children",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria clinical question children kenya turkana",
+    "malaria malaria clinical question children",
+    "malaria malaria clinical question treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology in children in Kenya",
+    "malaria burden in Turkana County Kenya",
+    "malaria disease patterns among Kenyan children",
+    "malaria incidence in Turkana region Kenya"
+  ],
+  "keywords": [
+    "malaria",
+    "clinical",
+    "question",
+    "children",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 4,
+    "openalex": 0,
+    "semantic_hits": 67,
+    "indexed_chunks": 63
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology in children in Kenya",
+      "malaria burden in Turkana County Kenya",
+      "malaria disease patterns among Kenyan children",
+      "malaria incidence in Turkana region Kenya"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\95bf013b4123476581a2d4c94e5e4e86\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\95bf013b4123476581a2d4c94e5e4e86\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\95bf013b4123476581a2d4c94e5e4e86\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\95bf013b4123476581a2d4c94e5e4e86\\combined.records.json"
+  }
+}

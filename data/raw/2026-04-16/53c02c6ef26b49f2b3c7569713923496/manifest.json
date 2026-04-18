@@ -1,0 +1,76 @@
+{
+  "run_id": "53c02c6ef26b49f2b3c7569713923496",
+  "stored_at": "2026-04-16T19:08:45+00:00",
+  "query": "lung cancer latest treatment therapy management kenya",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer treatment options in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in africa",
+    "current evidence on lung cancer care in sub saharan africa",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management kenya",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment options in kenya",
+    "epidemiology of lung cancer in kenya",
+    "systematic review of lung cancer management in africa",
+    "current evidence on lung cancer care in sub saharan africa"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 1,
+    "openalex": 30,
+    "semantic_hits": 68,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment options in kenya",
+      "epidemiology of lung cancer in kenya",
+      "systematic review of lung cancer management in africa",
+      "current evidence on lung cancer care in sub saharan africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\53c02c6ef26b49f2b3c7569713923496\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\53c02c6ef26b49f2b3c7569713923496\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\53c02c6ef26b49f2b3c7569713923496\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\53c02c6ef26b49f2b3c7569713923496\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\53c02c6ef26b49f2b3c7569713923496\\combined.records.json"
+  }
+}

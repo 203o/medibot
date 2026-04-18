@@ -1,0 +1,76 @@
+{
+  "run_id": "e7cf9cc940f4441dbe2c6ac46c6cf8ee",
+  "stored_at": "2026-04-16T20:17:38+00:00",
+  "query": "cancer cancer treatment therapy management united states of america",
+  "query_fallbacks": [
+    "cancer cancer treatment therapy management united states of america",
+    "cancer epidemiology united states",
+    "evidence-based cancer treatment guidelines adults",
+    "cancer management strategies united states population",
+    "systematic review cancer therapy outcomes united states",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer treatment therapy management united states of america",
+    "cancer cancer treatment therapy management",
+    "cancer cancer treatment therapy treatment",
+    "cancer united states",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology united states",
+    "evidence-based cancer treatment guidelines adults",
+    "cancer management strategies united states population",
+    "systematic review cancer therapy outcomes united states"
+  ],
+  "keywords": [
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "guidance",
+    "adults",
+    "united",
+    "states",
+    "america"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 61,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology united states",
+      "evidence-based cancer treatment guidelines adults",
+      "cancer management strategies united states population",
+      "systematic review cancer therapy outcomes united states"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e7cf9cc940f4441dbe2c6ac46c6cf8ee\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e7cf9cc940f4441dbe2c6ac46c6cf8ee\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e7cf9cc940f4441dbe2c6ac46c6cf8ee\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\e7cf9cc940f4441dbe2c6ac46c6cf8ee\\combined.records.json"
+  }
+}

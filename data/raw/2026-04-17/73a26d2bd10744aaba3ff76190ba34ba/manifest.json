@@ -1,0 +1,68 @@
+{
+  "run_id": "73a26d2bd10744aaba3ff76190ba34ba",
+  "stored_at": "2026-04-17T14:18:46+00:00",
+  "query": "malaria outcomes smoking tobacco",
+  "query_fallbacks": [
+    "malaria outcomes smoking tobacco",
+    "malaria epidemiology tobacco smoking",
+    "tobacco smoking effects malaria outcomes",
+    "malaria disease burden tobacco use",
+    "tobacco smoking impact malaria morbidity",
+    "malaria outcomes smoking tobacco treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria outcomes smoking tobacco",
+    "malaria outcomes smoking tobacco treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology tobacco smoking",
+    "tobacco smoking effects malaria outcomes",
+    "malaria disease burden tobacco use",
+    "tobacco smoking impact malaria morbidity"
+  ],
+  "keywords": [
+    "malaria",
+    "outcomes",
+    "smoking",
+    "tobacco"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 9,
+    "clinicaltrials": 1,
+    "openalex": 30,
+    "semantic_hits": 70,
+    "indexed_chunks": 48
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology tobacco smoking",
+      "tobacco smoking effects malaria outcomes",
+      "malaria disease burden tobacco use",
+      "tobacco smoking impact malaria morbidity"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\73a26d2bd10744aaba3ff76190ba34ba\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\73a26d2bd10744aaba3ff76190ba34ba\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\73a26d2bd10744aaba3ff76190ba34ba\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\73a26d2bd10744aaba3ff76190ba34ba\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\73a26d2bd10744aaba3ff76190ba34ba\\combined.records.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "run_id": "1005979d64bc481b9dd8dd5b51f69c8c",
+  "stored_at": "2026-04-18T10:16:28+00:00",
+  "query": "malaria morning malaria south africa south africa",
+  "query_fallbacks": [
+    "malaria morning malaria south africa south africa",
+    "malaria morning malaria south africa",
+    "malaria morning malaria south treatment",
+    "malaria south africa",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria morning malaria south africa south africa",
+    "malaria morning malaria south africa",
+    "malaria morning malaria south treatment",
+    "malaria south africa",
+    "malaria"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "malaria",
+    "morning",
+    "south",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 15,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 39,
+    "indexed_chunks": 42
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": false,
+    "attempted": false,
+    "provider": "huggingface",
+    "model": "",
+    "expanded_queries": [],
+    "reason": "conditional_skip"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\1005979d64bc481b9dd8dd5b51f69c8c\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\1005979d64bc481b9dd8dd5b51f69c8c\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\1005979d64bc481b9dd8dd5b51f69c8c\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\1005979d64bc481b9dd8dd5b51f69c8c\\combined.records.json"
+  }
+}

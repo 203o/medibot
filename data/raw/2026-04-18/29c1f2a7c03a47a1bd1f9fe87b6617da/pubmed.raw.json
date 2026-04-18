@@ -1,0 +1,126 @@
+{
+  "query": "malaria malaria greeting",
+  "selected_query": "malaria malaria greeting",
+  "attempted_queries": [
+    {
+      "query": "malaria malaria greeting",
+      "count": 3
+    }
+  ],
+  "id_list": [
+    "21493596",
+    "18447044",
+    "22094363"
+  ],
+  "records": [
+    {
+      "pmid": "21493596",
+      "title": "Inverse Medea as a novel gene drive system for local population replacement: a theoretical analysis.",
+      "journal": "The Journal of heredity",
+      "abstract_sections": [
+        "One strategy to control mosquito-borne diseases, such as malaria and dengue fever, on a regional scale is to use gene drive systems to spread disease-refractory genes into wild mosquito populations. The development of a synthetic Medea element that has been shown to drive population replacement in laboratory Drosophila populations has provided encouragement for this strategy but has also been greeted with caution over the concern that transgenes may spread into countries without their consent. Here, we propose a novel gene drive system, inverse Medea, which is strong enough to bring about local population replacement but is unable to establish itself beyond an isolated release site. The system consists of 2 genetic components--a zygotic toxin and maternal antidote--which render heterozygous offspring of wild-type mothers unviable. Through population genetic analysis, we show that inverse Medea will only spread when it represents a majority of the alleles in a population. The element is best located on an autosome and will spread to fixation provided any associated fitness costs are dominant and to very high frequency otherwise. We suggest molecular tools that could be used to build the inverse Medea system and discuss its utility for a confined release of transgenic mosquitoes."
+      ],
+      "abstract": "One strategy to control mosquito-borne diseases, such as malaria and dengue fever, on a regional scale is to use gene drive systems to spread disease-refractory genes into wild mosquito populations. The development of a synthetic Medea element that has been shown to drive population replacement in laboratory Drosophila populations has provided encouragement for this strategy but has also been greeted with caution over the concern that transgenes may spread into countries without their consent. Here, we propose a novel gene drive system, inverse Medea, which is strong enough to bring about local population replacement but is unable to establish itself beyond an isolated release site. The system consists of 2 genetic components--a zygotic toxin and maternal antidote--which render heterozygous offspring of wild-type mothers unviable. Through population genetic analysis, we show that inverse Medea will only spread when it represents a majority of the alleles in a population. The element is best located on an autosome and will spread to fixation provided any associated fitness costs are dominant and to very high frequency otherwise. We suggest molecular tools that could be used to build the inverse Medea system and discuss its utility for a confined release of transgenic mosquitoes.",
+      "evidence_sentences": [
+        "One strategy to control mosquito-borne diseases, such as malaria and dengue fever, on a regional scale is to use gene drive systems to spread disease-refractory genes into wild mosquito populations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "greeting"
+      ],
+      "authors": [
+        "John M Marshall",
+        "Bruce A Hay"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21493596/"
+    },
+    {
+      "pmid": "18447044",
+      "title": "[The contemporary scientific context of A. Laveran's discovery].",
+      "journal": "Bulletin de l'Academie nationale de medecine",
+      "abstract_sections": [
+        "The history of Laveran's discovery of the malaria parasite is well known. The fact that it went unconfirmed for many years reflects poorly on medical research at the time. Pasteur's discoveries had spawned widespread interest in the field of bacteriology in the mid-nineteenth century, and most epidemiologists suspected that a bacterium was responsible for malaria. Laveran's claim to have detected a parasite was greeted with scepticism. Here the author recalls how the medical world finally came to recognize the importance of Laveran's discovery."
+      ],
+      "abstract": "The history of Laveran's discovery of the malaria parasite is well known. The fact that it went unconfirmed for many years reflects poorly on medical research at the time. Pasteur's discoveries had spawned widespread interest in the field of bacteriology in the mid-nineteenth century, and most epidemiologists suspected that a bacterium was responsible for malaria. Laveran's claim to have detected a parasite was greeted with scepticism. Here the author recalls how the medical world finally came to recognize the importance of Laveran's discovery.",
+      "evidence_sentences": [
+        "Pasteur's discoveries had spawned widespread interest in the field of bacteriology in the mid-nineteenth century, and most epidemiologists suspected that a bacterium was responsible for malaria.",
+        "The history of Laveran's discovery of the malaria parasite is well known."
+      ],
+      "publication_types": [
+        "Biography",
+        "Historical Article",
+        "Journal Article",
+        "Portrait"
+      ],
+      "query_keywords": [
+        "malaria",
+        "greeting"
+      ],
+      "authors": [
+        "Charles Laverdant"
+      ],
+      "year": "2007",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/18447044/"
+    },
+    {
+      "pmid": "22094363",
+      "title": "Confinement of gene drive systems to local populations: a comparative analysis.",
+      "journal": "Journal of theoretical biology",
+      "abstract_sections": [
+        "Mosquito-borne diseases such as malaria and dengue fever pose a major health problem through much of the world. One approach to disease prevention involves the use of selfish genetic elements to drive disease-refractory genes into wild mosquito populations. Recently engineered synthetic drive systems have provided encouragement for this strategy; but at the same time have been greeted with caution over the concern that transgenes may spread into countries and communities without their consent. Consequently, there is also interest in gene drive systems that, while strong enough to bring about local population replacement, are unable to establish themselves beyond a partially isolated release site, at least during the testing phase. Here, we develop simple deterministic and stochastic models to compare the confinement properties of a variety of gene drive systems. Our results highlight several systems with desirable features for confinement-a high migration rate required to become established in neighboring populations, and low-frequency persistence in neighboring populations for moderate migration rates. Single-allele underdominance and single-locus engineered underdominance have the strongest confinement properties, but are difficult to engineer and require a high introduction frequency, respectively. Toxin-antidote systems such as Semele, Merea and two-locus engineered underdominance show promising confinement properties and require lower introduction frequencies. Killer-rescue is self-limiting in time, but is able to disperse to significant levels in neighboring populations. We discuss the significance of these results in the context of a phased release of transgenic mosquitoes, and the need for characterization of local ecology prior to a release."
+      ],
+      "abstract": "Mosquito-borne diseases such as malaria and dengue fever pose a major health problem through much of the world. One approach to disease prevention involves the use of selfish genetic elements to drive disease-refractory genes into wild mosquito populations. Recently engineered synthetic drive systems have provided encouragement for this strategy; but at the same time have been greeted with caution over the concern that transgenes may spread into countries and communities without their consent. Consequently, there is also interest in gene drive systems that, while strong enough to bring about local population replacement, are unable to establish themselves beyond a partially isolated release site, at least during the testing phase. Here, we develop simple deterministic and stochastic models to compare the confinement properties of a variety of gene drive systems. Our results highlight several systems with desirable features for confinement-a high migration rate required to become established in neighboring populations, and low-frequency persistence in neighboring populations for moderate migration rates. Single-allele underdominance and single-locus engineered underdominance have the strongest confinement properties, but are difficult to engineer and require a high introduction frequency, respectively. Toxin-antidote systems such as Semele, Merea and two-locus engineered underdominance show promising confinement properties and require lower introduction frequencies. Killer-rescue is self-limiting in time, but is able to disperse to significant levels in neighboring populations. We discuss the significance of these results in the context of a phased release of transgenic mosquitoes, and the need for characterization of local ecology prior to a release.",
+      "evidence_sentences": [
+        "Mosquito-borne diseases such as malaria and dengue fever pose a major health problem through much of the world."
+      ],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "greeting"
+      ],
+      "authors": [
+        "John M Marshall",
+        "Bruce A Hay"
+      ],
+      "year": "2012",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/22094363/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "3",
+      "retmax": "3",
+      "retstart": "0",
+      "idlist": [
+        "21493596",
+        "18447044",
+        "22094363"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "greeting",
+          "to": "\"greet\"[All Fields] OR \"greeted\"[All Fields] OR \"greeting\"[All Fields] OR \"greetings\"[All Fields] OR \"greets\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"greet\"[All Fields] OR \"greeted\"[All Fields] OR \"greeting\"[All Fields] OR \"greetings\"[All Fields] OR \"greets\"[All Fields])"
+    }
+  }
+}

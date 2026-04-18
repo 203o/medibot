@@ -1,0 +1,1751 @@
+{
+  "query": "malaria hiv prevalence south africa",
+  "selected_query": "malaria hiv prevalence south africa",
+  "attempted_queries": [
+    {
+      "query": "malaria hiv prevalence south africa",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "36529768",
+    "25278604",
+    "38175901",
+    "28344011",
+    "37697804",
+    "16267737",
+    "40990886",
+    "33716195",
+    "38490237",
+    "26633896",
+    "33340524",
+    "28367743",
+    "16229771",
+    "39151976",
+    "27938369",
+    "37283226",
+    "21224274",
+    "28985732",
+    "1492937",
+    "40380136",
+    "38117744",
+    "2885644",
+    "32600355",
+    "35341998",
+    "39632050",
+    "37494044",
+    "15090809",
+    "25864399",
+    "34634773",
+    "20211030"
+  ],
+  "records": [
+    {
+      "pmid": "36529768",
+      "title": "Mapping age- and sex-specific HIV prevalence in adults in sub-Saharan Africa, 2000-2018.",
+      "journal": "BMC medicine",
+      "abstract_sections": [
+        "Human immunodeficiency virus and acquired immune deficiency syndrome (HIV/AIDS) is still among the leading causes of disease burden and mortality in sub-Saharan Africa (SSA), and the world is not on track to meet targets set for ending the epidemic by the Joint United Nations Programme on HIV/AIDS (UNAIDS) and the United Nations Sustainable Development Goals (SDGs). Precise HIV burden information is critical for effective geographic and epidemiological targeting of prevention and treatment interventions. Age- and sex-specific HIV prevalence estimates are widely available at the national level, and region-wide local estimates were recently published for adults overall. We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA.",
+        "We analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.",
+        "We found substantial variation in HIV prevalence across localities, ages, and sexes that have been masked in earlier analyses. Within-country variation in prevalence in 2018 was a median 3.5 times greater across ages and sexes, compared to for all adults combined. We note large within-district prevalence differences between age groups: for men, 50% of districts displayed at least a 14-fold difference between age groups with the highest and lowest prevalence, and at least a 9-fold difference for women. Prevalence trends also varied over time; between 2000 and 2018, 70% of all districts saw a reduction in prevalence greater than five percentage points in at least one sex and age group. Meanwhile, over 30% of all districts saw at least a five percentage point prevalence increase in one or more sex and age group.",
+        "As the HIV epidemic persists and evolves in SSA, geographic and demographic shifts in prevention and treatment efforts are necessary. These estimates offer epidemiologically informative detail to better guide more targeted interventions, vital for combating HIV in SSA."
+      ],
+      "abstract": "Human immunodeficiency virus and acquired immune deficiency syndrome (HIV/AIDS) is still among the leading causes of disease burden and mortality in sub-Saharan Africa (SSA), and the world is not on track to meet targets set for ending the epidemic by the Joint United Nations Programme on HIV/AIDS (UNAIDS) and the United Nations Sustainable Development Goals (SDGs). Precise HIV burden information is critical for effective geographic and epidemiological targeting of prevention and treatment interventions. Age- and sex-specific HIV prevalence estimates are widely available at the national level, and region-wide local estimates were recently published for adults overall. We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA.\n\nWe analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.\n\nWe found substantial variation in HIV prevalence across localities, ages, and sexes that have been masked in earlier analyses. Within-country variation in prevalence in 2018 was a median 3.5 times greater across ages and sexes, compared to for all adults combined. We note large within-district prevalence differences between age groups: for men, 50% of districts displayed at least a 14-fold difference between age groups with the highest and lowest prevalence, and at least a 9-fold difference for women. Prevalence trends also varied over time; between 2000 and 2018, 70% of all districts saw a reduction in prevalence greater than five percentage points in at least one sex and age group. Meanwhile, over 30% of all districts saw at least a five percentage point prevalence increase in one or more sex and age group.\n\nAs the HIV epidemic persists and evolves in SSA, geographic and demographic shifts in prevention and treatment efforts are necessary. These estimates offer epidemiologically informative detail to better guide more targeted interventions, vital for combating HIV in SSA.",
+      "evidence_sentences": [
+        "Human immunodeficiency virus and acquired immune deficiency syndrome (HIV/AIDS) is still among the leading causes of disease burden and mortality in sub-Saharan Africa (SSA), and the world is not on track to meet targets set for ending the epidemic by the Joint United Nations Programme on HIV/AIDS (UNAIDS) and the United Nations Sustainable Development Goals (SDGs).",
+        "We analyzed data from 91 seroprevalence surveys and sentinel surveillance among antenatal care clinic (ANC) attendees using model-based geostatistical methods to produce estimates of HIV prevalence across 43 countries in SSA, from years 2000 to 2018, at a 5 × 5-km resolution and presented among second administrative level (typically districts or counties) units.",
+        "We add further dimensionality to previous analyses by estimating HIV prevalence at local scales, stratified into sex-specific 5-year age groups for adults ages 15-59 years across SSA."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Emily Haeuser",
+        "Audrey L Serfes",
+        "Michael A Cork",
+        "Mingyou Yang",
+        "Hedayat Abbastabar",
+        "E S Abhilash",
+        "Maryam Adabi",
+        "Oladimeji M Adebayo",
+        "Victor Adekanmbi",
+        "Daniel Adedayo Adeyinka",
+        "Saira Afzal",
+        "Bright Opoku Ahinkorah",
+        "Keivan Ahmadi",
+        "Muktar Beshir Ahmed",
+        "Yonas Akalu",
+        "Rufus Olusola Akinyemi",
+        "Chisom Joyqueenet Akunna",
+        "Fares Alahdab",
+        "Fahad Mashhour Alanezi",
+        "Turki M Alanzi",
+        "Kefyalew Addis Alene",
+        "Robert Kaba Alhassan",
+        "Vahid Alipour",
+        "Amir Almasi-Hashiani",
+        "Nelson Alvis-Guzman",
+        "Edward Kwabena Ameyaw",
+        "Saeed Amini",
+        "Dickson A Amugsi",
+        "Robert Ancuceanu",
+        "Davood Anvari",
+        "Seth Christopher Yaw Appiah",
+        "Jalal Arabloo",
+        "Olatunde Aremu",
+        "Mulusew A Asemahagn",
+        "Mohammad Asghari Jafarabadi",
+        "Atalel Fentahun Awedew",
+        "Beatriz Paulina Ayala Quintanilla",
+        "Martin Amogre Ayanore",
+        "Yared Asmare Aynalem",
+        "Samad Azari",
+        "Zelalem Nigussie Azene",
+        "B B Darshan",
+        "Tesleem Kayode Babalola",
+        "Atif Amin Baig",
+        "Maciej Banach",
+        "Till Winfried Bärnighausen",
+        "Arielle Wilder Bell",
+        "Akshaya Srikanth Bhagavathula",
+        "Nikha Bhardwaj",
+        "Pankaj Bhardwaj",
+        "Krittika Bhattacharyya",
+        "Ali Bijani",
+        "Zebenay Workneh Bitew",
+        "Somayeh Bohlouli",
+        "Obasanjo Afolabi Bolarinwa",
+        "Archith Boloor",
+        "Ivana Bozicevic",
+        "Zahid A Butt",
+        "Rosario Cárdenas",
+        "Felix Carvalho",
+        "Jaykaran Charan",
+        "Vijay Kumar Chattu",
+        "Mohiuddin Ahsanul Kabir Chowdhury",
+        "Dinh-Toi Chu",
+        "Richard G Cowden",
+        "Saad M A Dahlawi",
+        "Giovanni Damiani",
+        "Eugene Kofuor Maafo Darteh",
+        "Aso Mohammad Darwesh",
+        "José das Neves",
+        "Nicole Davis Weaver",
+        "Diego De Leo",
+        "Jan-Walter De Neve",
+        "Kebede Deribe",
+        "Keshab Deuba",
+        "Samath Dharmaratne",
+        "Mostafa Dianatinasab",
+        "Daniel Diaz",
+        "Alireza Didarloo",
+        "Shirin Djalalinia",
+        "Fariba Dorostkar",
+        "Eleonora Dubljanin",
+        "Bereket Duko",
+        "Maha El Tantawi",
+        "Shaimaa I El-Jaafary",
+        "Babak Eshrati",
+        "Sharareh Eskandarieh",
+        "Oghenowede Eyawo",
+        "Ifeanyi Jude Ezeonwumelu",
+        "Sayeh Ezzikouri",
+        "Farshad Farzadfar",
+        "Nazir Fattahi",
+        "Nelsensius Klau Fauk",
+        "Eduarda Fernandes",
+        "Irina Filip",
+        "Florian Fischer",
+        "Nataliya A Foigt",
+        "Masoud Foroutan",
+        "Takeshi Fukumoto",
+        "Mohamed M Gad",
+        "Abhay Motiramji Gaidhane",
+        "Birhan Gebresillassie Gebregiorgis",
+        "Ketema Bizuwork Gebremedhin",
+        "Lemma Getacher",
+        "Keyghobad Ghadiri",
+        "Ahmad Ghashghaee",
+        "Mahaveer Golechha",
+        "Mohammed Ibrahim Mohialdeen Gubari",
+        "Harish Chander Gugnani",
+        "Rafael Alves Guimarães",
+        "Mohammad Rifat Haider",
+        "Arvin Haj-Mirzaian",
+        "Samer Hamidi",
+        "Abdiwahab Hashi",
+        "Soheil Hassanipour",
+        "Hadi Hassankhani",
+        "Khezar Hayat",
+        "Claudiu Herteliu",
+        "Hung Chak Ho",
+        "Ramesh Holla",
+        "Mostafa Hosseini",
+        "Mehdi Hosseinzadeh",
+        "Bing-Fang Hwang",
+        "Segun Emmanuel Ibitoye",
+        "Olayinka Stephen Ilesanmi",
+        "Irena M Ilic",
+        "Milena D Ilic",
+        "Rakibul M Islam",
+        "Chidozie C D Iwu",
+        "Mihajlo Jakovljevic",
+        "Ravi Prakash Jha",
+        "John S Ji",
+        "Kimberly B Johnson",
+        "Nitin Joseph",
+        "Vasna Joshua",
+        "Farahnaz Joukar",
+        "Jacek Jerzy Jozwiak",
+        "Leila R Kalankesh",
+        "Rohollah Kalhor",
+        "Naser Kamyari",
+        "Tanuj Kanchan",
+        "Behzad Karami Matin",
+        "Salah Eddin Karimi",
+        "Gbenga A Kayode",
+        "Ali Kazemi Karyani",
+        "Maryam Keramati",
+        "Ejaz Ahmad Khan",
+        "Gulfaraz Khan",
+        "Md Nuruzzaman Khan",
+        "Khaled Khatab",
+        "Jagdish Khubchandani",
+        "Yun Jin Kim",
+        "Adnan Kisa",
+        "Sezer Kisa",
+        "Jacek A Kopec",
+        "Soewarta Kosen",
+        "Sindhura Lakshmi Koulmane Laxminarayana",
+        "Ai Koyanagi",
+        "Kewal Krishan",
+        "Barthelemy Kuate Defo",
+        "Nuworza Kugbey",
+        "Vaman Kulkarni",
+        "Manasi Kumar",
+        "Nithin Kumar",
+        "Dian Kusuma",
+        "Carlo La Vecchia",
+        "Dharmesh Kumar Lal",
+        "Iván Landires",
+        "Heidi Jane Larson",
+        "Savita Lasrado",
+        "Paul H Lee",
+        "Shanshan Li",
+        "Xuefeng Liu",
+        "Afshin Maleki",
+        "Preeti Malik",
+        "Mohammad Ali Mansournia",
+        "Francisco Rogerlândio Martins-Melo",
+        "Walter Mendoza",
+        "Ritesh G Menezes",
+        "Endalkachew Worku Mengesha",
+        "Tuomo J Meretoja",
+        "Tomislav Mestrovic",
+        "Andreea Mirica",
+        "Babak Moazen",
+        "Osama Mohamad",
+        "Yousef Mohammad",
+        "Abdollah Mohammadian-Hafshejani",
+        "Reza Mohammadpourhodki",
+        "Salahuddin Mohammed",
+        "Shafiu Mohammed",
+        "Ali H Mokdad",
+        "Masoud Moradi",
+        "Paula Moraga",
+        "Sumaira Mubarik",
+        "Getaneh Baye B Mulu",
+        "Lillian Mwanri",
+        "Ahamarshan Jayaraman Nagarajan",
+        "Mukhammad David Naimzada",
+        "Muhammad Naveed",
+        "Javad Nazari",
+        "Rawlance Ndejjo",
+        "Ionut Negoi",
+        "Frida N Ngalesoni",
+        "Georges Nguefack-Tsague",
+        "Josephine W Ngunjiri",
+        "Cuong Tat Nguyen",
+        "Huong Lan Thi Nguyen",
+        "Chukwudi A Nnaji",
+        "Jean Jacques Noubiap",
+        "Virginia Nuñez-Samudio",
+        "Vincent Ebuka Nwatah",
+        "Bogdan Oancea",
+        "Oluwakemi Ololade Odukoya",
+        "Andrew T Olagunju",
+        "Babayemi Oluwaseun Olakunde",
+        "Bolajoko Olubukunola Olusanya",
+        "Jacob Olusegun Olusanya",
+        "Ahmed Omar Bali",
+        "Obinna E Onwujekwe",
+        "Orish Ebere Orisakwe",
+        "Nikita Otstavnov",
+        "Stanislav S Otstavnov",
+        "Mayowa O Owolabi",
+        "P A Mahesh",
+        "Jagadish Rao Padubidri",
+        "Adrian Pana",
+        "Ashok Pandey",
+        "Seithikurippu R Pandi-Perumal",
+        "Fatemeh Pashazadeh Kan",
+        "George C Patton",
+        "Shrikant Pawar",
+        "Emmanuel K Peprah",
+        "Maarten J Postma",
+        "Liliana Preotescu",
+        "Zahiruddin Quazi Syed",
+        "Navid Rabiee",
+        "Amir Radfar",
+        "Alireza Rafiei",
+        "Fakher Rahim",
+        "Vafa Rahimi-Movaghar",
+        "Amir Masoud Rahmani",
+        "Kiana Ramezanzadeh",
+        "Juwel Rana",
+        "Chhabi Lal Ranabhat",
+        "Sowmya J Rao",
+        "David Laith Rawaf",
+        "Salman Rawaf",
+        "Reza Rawassizadeh",
+        "Lemma Demissie Regassa",
+        "Nima Rezaei",
+        "Aziz Rezapour",
+        "Mavra A Riaz",
+        "Ana Isabel Ribeiro",
+        "Jennifer M Ross",
+        "Enrico Rubagotti",
+        "Susan Fred Rumisha",
+        "Godfrey M Rwegerera",
+        "Sahar Saeedi Moghaddam",
+        "Rajesh Sagar",
+        "Biniyam Sahiledengle",
+        "Maitreyi Sahu",
+        "Marwa Rashad Salem",
+        "Hossein Samadi Kafil",
+        "Abdallah M Samy",
+        "Benn Sartorius",
+        "Brijesh Sathian",
+        "Abdul-Aziz Seidu",
+        "Amira A Shaheen",
+        "Masood Ali Shaikh",
+        "Morteza Shamsizadeh",
+        "Wondimeneh Shibabaw Shiferaw",
+        "Jae Il Shin",
+        "Roman Shrestha",
+        "Jasvinder A Singh",
+        "Valentin Yurievich Skryabin",
+        "Anna Aleksandrovna Skryabina",
+        "Shahin Soltani",
+        "Mu'awiyyah Babale Sufiyan",
+        "Takahiro Tabuchi",
+        "Eyayou Girma Tadesse",
+        "Nuno Taveira",
+        "Fisaha Haile Tesfay",
+        "Rekha Thapar",
+        "Marcos Roberto Tovani-Palone",
+        "Gebiyaw Wudie Tsegaye",
+        "Chukwuma David Umeokonkwo",
+        "Bhaskaran Unnikrishnan",
+        "Jorge Hugo Villafañe",
+        "Francesco S Violante",
+        "Bay Vo",
+        "Giang Thu Vu",
+        "Yohannes Dibaba Wado",
+        "Yasir Waheed",
+        "Richard G Wamai",
+        "Yanzhong Wang",
+        "Paul Ward",
+        "Nuwan Darshana Wickramasinghe",
+        "Katherine Wilson",
+        "Sanni Yaya",
+        "Paul Yip",
+        "Naohiro Yonemoto",
+        "Chuanhua Yu",
+        "Mikhail Sergeevich Zastrozhin",
+        "Yunquan Zhang",
+        "Zhi-Jiang Zhang",
+        "Simon I Hay",
+        "Laura Dwyer-Lindgren",
+        "Local Burden of Disease sub-Saharan Africa HIV Prevalence Collaborators"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36529768/"
+    },
+    {
+      "pmid": "25278604",
+      "title": "HIV epidemiology. The early spread and epidemic ignition of HIV-1 in human populations.",
+      "journal": "Science (New York, N.Y.)",
+      "abstract_sections": [
+        "Thirty years after the discovery of HIV-1, the early transmission, dissemination, and establishment of the virus in human populations remain unclear. Using statistical approaches applied to HIV-1 sequence data from central Africa, we show that from the 1920s Kinshasa (in what is now the Democratic Republic of Congo) was the focus of early transmission and the source of pre-1960 pandemic viruses elsewhere. Location and dating estimates were validated using the earliest HIV-1 archival sample, also from Kinshasa. The epidemic histories of HIV-1 group M and nonpandemic group O were similar until ~1960, after which group M underwent an epidemiological transition and outpaced regional population growth. Our results reconstruct the early dynamics of HIV-1 and emphasize the role of social changes and transport networks in the establishment of this virus in human populations."
+      ],
+      "abstract": "Thirty years after the discovery of HIV-1, the early transmission, dissemination, and establishment of the virus in human populations remain unclear. Using statistical approaches applied to HIV-1 sequence data from central Africa, we show that from the 1920s Kinshasa (in what is now the Democratic Republic of Congo) was the focus of early transmission and the source of pre-1960 pandemic viruses elsewhere. Location and dating estimates were validated using the earliest HIV-1 archival sample, also from Kinshasa. The epidemic histories of HIV-1 group M and nonpandemic group O were similar until ~1960, after which group M underwent an epidemiological transition and outpaced regional population growth. Our results reconstruct the early dynamics of HIV-1 and emphasize the role of social changes and transport networks in the establishment of this virus in human populations.",
+      "evidence_sentences": [
+        "Using statistical approaches applied to HIV-1 sequence data from central Africa, we show that from the 1920s Kinshasa (in what is now the Democratic Republic of Congo) was the focus of early transmission and the source of pre-1960 pandemic viruses elsewhere.",
+        "The epidemic histories of HIV-1 group M and nonpandemic group O were similar until ~1960, after which group M underwent an epidemiological transition and outpaced regional population growth.",
+        "Our results reconstruct the early dynamics of HIV-1 and emphasize the role of social changes and transport networks in the establishment of this virus in human populations."
+      ],
+      "publication_types": [
+        "Historical Article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Nuno R Faria",
+        "Andrew Rambaut",
+        "Marc A Suchard",
+        "Guy Baele",
+        "Trevor Bedford",
+        "Melissa J Ward",
+        "Andrew J Tatem",
+        "João D Sousa",
+        "Nimalan Arinaminpathy",
+        "Jacques Pépin",
+        "David Posada",
+        "Martine Peeters",
+        "Oliver G Pybus",
+        "Philippe Lemey"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25278604/"
+    },
+    {
+      "pmid": "38175901",
+      "title": "Investing in Africa's scientific future.",
+      "journal": "Science (New York, N.Y.)",
+      "abstract_sections": [
+        "Africa bears a disproportionate burden of infectious diseases, accounting for a substantial percentage of global cases. Malaria, HIV/AIDS, tuberculosis, cholera, Ebola, Lassa fever, and other tropical diseases, such as dengue and chikungunya, have had a profound impact on morbidity and mortality. Various factors contribute to the higher prevalence and incidence of infectious diseases in Africa, including socioeconomic challenges, limited access to health care, inadequate sanitation and hygiene infrastructure, climate-related factors, and endemicity of certain diseases in specific regions. A skilled workforce is crucial to addressing these challenges. Unfortunately, many countries in Africa often lack the required resources, and aspiring scientists frequently seek educational and career opportunities abroad, leading to a substantial loss of talent and expertise from the continent. This talent migration, referred to as \"brain drain,\" exacerbates the existing training gaps and hampers the sustainability of research within Africa."
+      ],
+      "abstract": "Africa bears a disproportionate burden of infectious diseases, accounting for a substantial percentage of global cases. Malaria, HIV/AIDS, tuberculosis, cholera, Ebola, Lassa fever, and other tropical diseases, such as dengue and chikungunya, have had a profound impact on morbidity and mortality. Various factors contribute to the higher prevalence and incidence of infectious diseases in Africa, including socioeconomic challenges, limited access to health care, inadequate sanitation and hygiene infrastructure, climate-related factors, and endemicity of certain diseases in specific regions. A skilled workforce is crucial to addressing these challenges. Unfortunately, many countries in Africa often lack the required resources, and aspiring scientists frequently seek educational and career opportunities abroad, leading to a substantial loss of talent and expertise from the continent. This talent migration, referred to as \"brain drain,\" exacerbates the existing training gaps and hampers the sustainability of research within Africa.",
+      "evidence_sentences": [
+        "Malaria, HIV/AIDS, tuberculosis, cholera, Ebola, Lassa fever, and other tropical diseases, such as dengue and chikungunya, have had a profound impact on morbidity and mortality.",
+        "Various factors contribute to the higher prevalence and incidence of infectious diseases in Africa, including socioeconomic challenges, limited access to health care, inadequate sanitation and hygiene infrastructure, climate-related factors, and endemicity of certain diseases in specific regions.",
+        "Unfortunately, many countries in Africa often lack the required resources, and aspiring scientists frequently seek educational and career opportunities abroad, leading to a substantial loss of talent and expertise from the continent."
+      ],
+      "publication_types": [
+        "Editorial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Tulio de Oliveira",
+        "Cheryl Baxter"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38175901/"
+    },
+    {
+      "pmid": "28344011",
+      "title": "The epidemiology, pathogenesis, transmission, diagnosis, and management of multidrug-resistant, extensively drug-resistant, and incurable tuberculosis.",
+      "journal": "The Lancet. Respiratory medicine",
+      "abstract_sections": [
+        "Global tuberculosis incidence has declined marginally over the past decade, and tuberculosis remains out of control in several parts of the world including Africa and Asia. Although tuberculosis control has been effective in some regions of the world, these gains are threatened by the increasing burden of multidrug-resistant (MDR) and extensively drug-resistant (XDR) tuberculosis. XDR tuberculosis has evolved in several tuberculosis-endemic countries to drug-incurable or programmatically incurable tuberculosis (totally drug-resistant tuberculosis). This poses several challenges similar to those encountered in the pre-chemotherapy era, including the inability to cure tuberculosis, high mortality, and the need for alternative methods to prevent disease transmission. This phenomenon mirrors the worldwide increase in antimicrobial resistance and the emergence of other MDR pathogens, such as malaria, HIV, and Gram-negative bacteria. MDR and XDR tuberculosis are associated with high morbidity and substantial mortality, are a threat to health-care workers, prohibitively expensive to treat, and are therefore a serious public health problem. In this Commission, we examine several aspects of drug-resistant tuberculosis. The traditional view that acquired resistance to antituberculous drugs is driven by poor compliance and programmatic failure is now being questioned, and several lines of evidence suggest that alternative mechanisms-including pharmacokinetic variability, induction of efflux pumps that transport the drug out of cells, and suboptimal drug penetration into tuberculosis lesions-are likely crucial to the pathogenesis of drug-resistant tuberculosis. These factors have implications for the design of new interventions, drug delivery and dosing mechanisms, and public health policy. We discuss epidemiology and transmission dynamics, including new insights into the fundamental biology of transmission, and we review the utility of newer diagnostic tools, including molecular tests and next-generation whole-genome sequencing, and their potential for clinical effectiveness. Relevant research priorities are highlighted, including optimal medical and surgical management, the role of newer and repurposed drugs (including bedaquiline, delamanid, and linezolid), pharmacokinetic and pharmacodynamic considerations, preventive strategies (such as prophylaxis in MDR and XDR contacts), palliative and patient-orientated care aspects, and medicolegal and ethical issues."
+      ],
+      "abstract": "Global tuberculosis incidence has declined marginally over the past decade, and tuberculosis remains out of control in several parts of the world including Africa and Asia. Although tuberculosis control has been effective in some regions of the world, these gains are threatened by the increasing burden of multidrug-resistant (MDR) and extensively drug-resistant (XDR) tuberculosis. XDR tuberculosis has evolved in several tuberculosis-endemic countries to drug-incurable or programmatically incurable tuberculosis (totally drug-resistant tuberculosis). This poses several challenges similar to those encountered in the pre-chemotherapy era, including the inability to cure tuberculosis, high mortality, and the need for alternative methods to prevent disease transmission. This phenomenon mirrors the worldwide increase in antimicrobial resistance and the emergence of other MDR pathogens, such as malaria, HIV, and Gram-negative bacteria. MDR and XDR tuberculosis are associated with high morbidity and substantial mortality, are a threat to health-care workers, prohibitively expensive to treat, and are therefore a serious public health problem. In this Commission, we examine several aspects of drug-resistant tuberculosis. The traditional view that acquired resistance to antituberculous drugs is driven by poor compliance and programmatic failure is now being questioned, and several lines of evidence suggest that alternative mechanisms-including pharmacokinetic variability, induction of efflux pumps that transport the drug out of cells, and suboptimal drug penetration into tuberculosis lesions-are likely crucial to the pathogenesis of drug-resistant tuberculosis. These factors have implications for the design of new interventions, drug delivery and dosing mechanisms, and public health policy. We discuss epidemiology and transmission dynamics, including new insights into the fundamental biology of transmission, and we review the utility of newer diagnostic tools, including molecular tests and next-generation whole-genome sequencing, and their potential for clinical effectiveness. Relevant research priorities are highlighted, including optimal medical and surgical management, the role of newer and repurposed drugs (including bedaquiline, delamanid, and linezolid), pharmacokinetic and pharmacodynamic considerations, preventive strategies (such as prophylaxis in MDR and XDR contacts), palliative and patient-orientated care aspects, and medicolegal and ethical issues.",
+      "evidence_sentences": [
+        "This phenomenon mirrors the worldwide increase in antimicrobial resistance and the emergence of other MDR pathogens, such as malaria, HIV, and Gram-negative bacteria.",
+        "Global tuberculosis incidence has declined marginally over the past decade, and tuberculosis remains out of control in several parts of the world including Africa and Asia.",
+        "We discuss epidemiology and transmission dynamics, including new insights into the fundamental biology of transmission, and we review the utility of newer diagnostic tools, including molecular tests and next-generation whole-genome sequencing, and their potential for clinical effectiveness."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Keertan Dheda",
+        "Tawanda Gumbo",
+        "Gary Maartens",
+        "Kelly E Dooley",
+        "Ruth McNerney",
+        "Megan Murray",
+        "Jennifer Furin",
+        "Edward A Nardell",
+        "Leslie London",
+        "Erica Lessem",
+        "Grant Theron",
+        "Paul van Helden",
+        "Stefan Niemann",
+        "Matthias Merker",
+        "David Dowdy",
+        "Annelies Van Rie",
+        "Gilman K H Siu",
+        "Jotam G Pasipanodya",
+        "Camilla Rodrigues",
+        "Taane G Clark",
+        "Frik A Sirgel",
+        "Aliasgar Esmail",
+        "Hsien-Ho Lin",
+        "Sachin R Atre",
+        "H Simon Schaaf",
+        "Kwok Chiu Chang",
+        "Christoph Lange",
+        "Payam Nahid",
+        "Zarir F Udwadia",
+        "C Robert Horsburgh",
+        "Gavin J Churchyard",
+        "Dick Menzies",
+        "Anneke C Hesseling",
+        "Eric Nuermberger",
+        "Helen McIlleron",
+        "Kevin P Fennelly",
+        "Eric Goemaere",
+        "Ernesto Jaramillo",
+        "Marcus Low",
+        "Carolina Morán Jara",
+        "Nesri Padayatchi",
+        "Robin M Warren"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28344011/"
+    },
+    {
+      "pmid": "37697804",
+      "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000",
+      "journal": "eLife",
+      "abstract_sections": [
+        "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse",
+        "This is a meta-analysis of global genotype and antimicrobial resistance (AMR) determinants extracted from previously sequenced genome data and analysed using consistent methods implemented in open analysis platforms GenoTyphi and Pathogenwatch.",
+        "Compared with previous global snapshots, the data highlight that genotype 4.3.1 (H58) has not spread beyond Asia and Eastern/Southern Africa; in other regions, distinct genotypes dominate and have independently evolved AMR. Data gaps remain in many parts of the world, and we show the potential of travel-associated sequences to provide informal 'sentinel' surveillance for such locations. The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia. Extensively drug-resistant (XDR) typhoid has become dominant in Pakistan (70% in 2020) but has not yet become established elsewhere. Ceftriaxone resistance has emerged in eight non-XDR genotypes, including a ciprofloxacin-resistant lineage (4.3.1.2.1) in India. Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes.",
+        "The consortium's aim is to encourage continued data sharing and collaboration to monitor the emergence and global spread of AMR Typhi, and to inform decision-making around the introduction of typhoid conjugate vaccines (TCVs) and other prevention and control strategies.",
+        "No specific funding was awarded for this meta-analysis. Coordinators were supported by fellowships from the European Union (ZAD received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 845681), the Wellcome Trust (SB, Wellcome Trust Senior Fellowship), and the National Health and Medical Research Council (DJI is supported by an NHMRC Investigator Grant [GNT1195210])."
+      ],
+      "abstract": "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse\n\nThis is a meta-analysis of global genotype and antimicrobial resistance (AMR) determinants extracted from previously sequenced genome data and analysed using consistent methods implemented in open analysis platforms GenoTyphi and Pathogenwatch.\n\nCompared with previous global snapshots, the data highlight that genotype 4.3.1 (H58) has not spread beyond Asia and Eastern/Southern Africa; in other regions, distinct genotypes dominate and have independently evolved AMR. Data gaps remain in many parts of the world, and we show the potential of travel-associated sequences to provide informal 'sentinel' surveillance for such locations. The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia. Extensively drug-resistant (XDR) typhoid has become dominant in Pakistan (70% in 2020) but has not yet become established elsewhere. Ceftriaxone resistance has emerged in eight non-XDR genotypes, including a ciprofloxacin-resistant lineage (4.3.1.2.1) in India. Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes.\n\nThe consortium's aim is to encourage continued data sharing and collaboration to monitor the emergence and global spread of AMR Typhi, and to inform decision-making around the introduction of typhoid conjugate vaccines (TCVs) and other prevention and control strategies.\n\nNo specific funding was awarded for this meta-analysis. Coordinators were supported by fellowships from the European Union (ZAD received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 845681), the Wellcome Trust (SB, Wellcome Trust Senior Fellowship), and the National Health and Medical Research Council (DJI is supported by an NHMRC Investigator Grant [GNT1195210]).",
+      "evidence_sentences": [
+        "The data indicate that ciprofloxacin non-susceptibility (>1 resistance determinant) is widespread across geographies and genotypes, with high-level ciprofloxacin resistance (≥3 determinants) reaching 20% prevalence in South Asia.",
+        "Compared with previous global snapshots, the data highlight that genotype 4.3.1 (H58) has not spread beyond Asia and Eastern/Southern Africa; in other regions, distinct genotypes dominate and have independently evolved AMR.",
+        "Azithromycin resistance mutations were detected at low prevalence in South Asia, including in two common ciprofloxacin-resistant genotypes."
+      ],
+      "publication_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Megan E Carey",
+        "Zoe A Dyson",
+        "Danielle J Ingle",
+        "Afreenish Amir",
+        "Mabel K Aworh",
+        "Marie Anne Chattaway",
+        "Ka Lip Chew",
+        "John A Crump",
+        "Nicholas A Feasey",
+        "Benjamin P Howden",
+        "Karen H Keddy",
+        "Mailis Maes",
+        "Christopher M Parry",
+        "Sandra Van Puyvelde",
+        "Hattie E Webb",
+        "Ayorinde Oluwatobiloba Afolayan",
+        "Anna P Alexander",
+        "Shalini Anandan",
+        "Jason R Andrews",
+        "Philip M Ashton",
+        "Buddha Basnyat",
+        "Ashish Bavdekar",
+        "Isaac I Bogoch",
+        "John D Clemens",
+        "Kesia Esther da Silva",
+        "Anuradha De",
+        "Joep de Ligt",
+        "Paula Lucia Diaz Guevara",
+        "Christiane Dolecek",
+        "Shanta Dutta",
+        "Marthie M Ehlers",
+        "Louise Francois Watkins",
+        "Denise O Garrett",
+        "Gauri Godbole",
+        "Melita A Gordon",
+        "Andrew R Greenhill",
+        "Chelsey Griffin",
+        "Madhu Gupta",
+        "Rene S Hendriksen",
+        "Robert S Heyderman",
+        "Yogesh Hooda",
+        "Juan Carlos Hormazabal",
+        "Odion O Ikhimiukor",
+        "Junaid Iqbal",
+        "Jobin John Jacob",
+        "Claire Jenkins",
+        "Dasaratha Ramaiah Jinka",
+        "Jacob John",
+        "Gagandeep Kang",
+        "Abdoulie Kanteh",
+        "Arti Kapil",
+        "Abhilasha Karkey",
+        "Samuel Kariuki",
+        "Robert A Kingsley",
+        "Roshine Mary Koshy",
+        "A C Lauer",
+        "Myron M Levine",
+        "Ravikumar Kadahalli Lingegowda",
+        "Stephen P Luby",
+        "Grant Austin Mackenzie",
+        "Tapfumanei Mashe",
+        "Chisomo Msefula",
+        "Ankur Mutreja",
+        "Geetha Nagaraj",
+        "Savitha Nagaraj",
+        "Satheesh Nair",
+        "Take K Naseri",
+        "Susana Nimarota-Brown",
+        "Elisabeth Njamkepo",
+        "Iruka N Okeke",
+        "Sulochana Putli Bai Perumal",
+        "Andrew J Pollard",
+        "Agila Kumari Pragasam",
+        "Firdausi Qadri",
+        "Farah N Qamar",
+        "Sadia Isfat Ara Rahman",
+        "Savitra Devi Rambocus",
+        "David A Rasko",
+        "Pallab Ray",
+        "Roy Robins-Browne",
+        "Temsunaro Rongsen-Chandola",
+        "Jean Pierre Rutanga",
+        "Samir K Saha",
+        "Senjuti Saha",
+        "Karnika Saigal",
+        "Mohammad Saiful Islam Sajib",
+        "Jessica C Seidman",
+        "Jivan Shakya",
+        "Varun Shamanna",
+        "Jayanthi Shastri",
+        "Rajeev Shrestha",
+        "Sonia Sia",
+        "Michael J Sikorski",
+        "Ashita Singh",
+        "Anthony M Smith",
+        "Kaitlin A Tagg",
+        "Dipesh Tamrakar",
+        "Arif Mohammed Tanmoy",
+        "Maria Thomas",
+        "Mathew S Thomas",
+        "Robert Thomsen",
+        "Nicholas R Thomson",
+        "Siaosi Tupua",
+        "Krista Vaidya",
+        "Mary Valcanis",
+        "Balaji Veeraraghavan",
+        "François-Xavier Weill",
+        "Jackie Wright",
+        "Gordon Dougan",
+        "Silvia Argimón",
+        "Jacqueline A Keane",
+        "David M Aanensen",
+        "Stephen Baker",
+        "Kathryn E Holt",
+        "Global Typhoid Genomics Consortium Group Authorship"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37697804/"
+    },
+    {
+      "pmid": "16267737",
+      "title": "Increased prevalence of severe malaria in HIV-infected adults in South Africa.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "abstract_sections": [
+        "Conflicting reports exist regarding the impact of human immunodeficiency virus (HIV) infection on the risk of severe malaria. We aimed to assess the effect of HIV infection status, advancing immunosuppression, and antimalarial immunity on the severity of malaria.",
+        "A prospective cohort study was conducted. Consecutive hospitalized adult patients with falciparum malaria were tested for HIV antibodies and to determine CD4+ T cell count. Immunity to malaria was assessed by obtaining a history of childhood residence in an area where malaria is endemic. Patients were assessed for features of severe malaria.",
+        "Three hundred thirty-six patients were enrolled in the study, of whom 32 (10%) had severe malaria. The prevalence of HIV infection was 33%, and 111 patients (33%) were nonimmune to malaria. HIV-infected patients complained more frequently about respiratory and abdominal symptoms and less frequently about rigors and headache. Risk factors for severe malaria determined by multivariate analysis included being nonimmune to malaria, having a positive HIV serostatus, having an elevated parasite count, and having an increased white blood cell count. Risk of severe malaria was increased in HIV-infected patients with a CD4+ T cell count of < 200 x 10(6) cells/L (P < or = .001). Nonimmune HIV-infected patients were significantly more likely to have severe malaria (13 [36%] of 36 patients) than were nonimmune non-HIV-infected patients (9 [12%] of 75 patients; odds ratio, 4.15 [95% confidence interval, 1.57-10.97]; P = .003). HIV serostatus did not affect risk of severe malaria in the group from an area with endemicity (5 [7%] of 74 HIV-infected patients had severe malaria, and 5 [3%] of 151 non-HIV-infected patients had malaria; P = .248).",
+        "HIV-infected nonimmune adults are at increased risk of severe malaria. This risk is associated with a low CD4+ T cell count. This interaction is of great public health importance."
+      ],
+      "abstract": "Conflicting reports exist regarding the impact of human immunodeficiency virus (HIV) infection on the risk of severe malaria. We aimed to assess the effect of HIV infection status, advancing immunosuppression, and antimalarial immunity on the severity of malaria.\n\nA prospective cohort study was conducted. Consecutive hospitalized adult patients with falciparum malaria were tested for HIV antibodies and to determine CD4+ T cell count. Immunity to malaria was assessed by obtaining a history of childhood residence in an area where malaria is endemic. Patients were assessed for features of severe malaria.\n\nThree hundred thirty-six patients were enrolled in the study, of whom 32 (10%) had severe malaria. The prevalence of HIV infection was 33%, and 111 patients (33%) were nonimmune to malaria. HIV-infected patients complained more frequently about respiratory and abdominal symptoms and less frequently about rigors and headache. Risk factors for severe malaria determined by multivariate analysis included being nonimmune to malaria, having a positive HIV serostatus, having an elevated parasite count, and having an increased white blood cell count. Risk of severe malaria was increased in HIV-infected patients with a CD4+ T cell count of < 200 x 10(6) cells/L (P < or = .001). Nonimmune HIV-infected patients were significantly more likely to have severe malaria (13 [36%] of 36 patients) than were nonimmune non-HIV-infected patients (9 [12%] of 75 patients; odds ratio, 4.15 [95% confidence interval, 1.57-10.97]; P = .003). HIV serostatus did not affect risk of severe malaria in the group from an area with endemicity (5 [7%] of 74 HIV-infected patients had severe malaria, and 5 [3%] of 151 non-HIV-infected patients had malaria; P = .248).\n\nHIV-infected nonimmune adults are at increased risk of severe malaria. This risk is associated with a low CD4+ T cell count. This interaction is of great public health importance.",
+      "evidence_sentences": [
+        "The prevalence of HIV infection was 33%, and 111 patients (33%) were nonimmune to malaria.",
+        "Nonimmune HIV-infected patients were significantly more likely to have severe malaria (13 [36%] of 36 patients) than were nonimmune non-HIV-infected patients (9 [12%] of 75 patients; odds ratio, 4.15 [95% confidence interval, 1.57-10.97]; P = .003).",
+        "Risk factors for severe malaria determined by multivariate analysis included being nonimmune to malaria, having a positive HIV serostatus, having an elevated parasite count, and having an increased white blood cell count."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Cheryl Cohen",
+        "Alan Karstaedt",
+        "John Frean",
+        "Juno Thomas",
+        "Nelesh Govender",
+        "Elizabeth Prentice",
+        "Leigh Dini",
+        "Jacky Galpin",
+        "Heather Crewe-Brown"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16267737/"
+    },
+    {
+      "pmid": "40990886",
+      "title": "Global, Regional, and National Burden of Cardiovascular Diseases and Risk Factors in 204 Countries and Territories, 1990-2023.",
+      "journal": "Journal of the American College of Cardiology",
+      "abstract_sections": [
+        "Cardiovascular diseases (CVDs) are the leading cause of mortality and are among the foremost causes of disability globally. CVD burden has continued to increase in most countries since 1990, with trends driven by changing exposures to harmful risk factors, population growth, and population aging.",
+        "We report estimates of global, national, and subnational CVD burden, including 18 subdiseases and 12 associated modifiable risk factors. We analyzed change in CVD burden from 1990 to 2023 and identified drivers of change including population growth, population aging, and risk factor exposure.",
+        "The Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models. GBD 2023 estimated the population-level burden of diseases in 204 countries and territories from 1990 to 2023.",
+        "CVDs were the leading cause of disability-adjusted life years (DALYs) and deaths estimated in the GBD. As of 2023, there were 437 million (95% UI: 401 to 465 million) CVD DALYs globally, a 1.4-fold increase from the number in 1990 of 320 million (292 to 344 million). Ischemic heart disease, intracerebral hemorrhage, ischemic stroke, and hypertensive heart disease were the leading cardiovascular causes of DALYs in 2023 globally. As of 2023, age-standardized CVD DALY rates were highest in low and low-middle Socio-demographic Index (SDI) settings and lowest in high SDI settings. The number of CVD deaths increased globally from 13.1 million (95% UI: 12.2 to 14.0 million) in 1990 to 19.2 million (95% UI: 17.4 to 20.4 million) in 2023. The number of prevalent cases of CVD more than doubled since 1990, with 311 million (95% UI: 294 to 333 million) prevalent cases of CVD in 1990 and 626 million (95% UI: 591 to 672 million) prevalent cases in 2023 globally. A total of 79.6% (95% UI: 75.7% to 82.5%) of CVD burden is attributable to modifiable risk factors 347 million [95% UI: 318 to 373 million] DALYs in 2023). Globally, high systolic blood pressure, dietary risks, high low-density lipoprotein cholesterol, and air pollution were the modifiable risks responsible for most attributable CVD burden in 2023. Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases. Population growth and population aging were the main drivers of the increasing burden since 1990, adding 128 million (95% UI: 115 to 139 million) and 139 million (95% UI: 126 to 151 million) CVD DALYs to the increase in CVD burden since 1990.",
+        "CVD remains the leading cause of disease burden and death worldwide with the greatest burden in low, low-middle, and middle SDI regions. Large variation exists in CVD burden even for countries at similar levels of development, a gap explained substantially by known, modifiable risk factors that are inadequately controlled. The decades-long increase in CVD burden was the result of population growth, population aging, and increased exposure to a subset of risk factors led by metabolic risks. Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD."
+      ],
+      "abstract": "Cardiovascular diseases (CVDs) are the leading cause of mortality and are among the foremost causes of disability globally. CVD burden has continued to increase in most countries since 1990, with trends driven by changing exposures to harmful risk factors, population growth, and population aging.\n\nWe report estimates of global, national, and subnational CVD burden, including 18 subdiseases and 12 associated modifiable risk factors. We analyzed change in CVD burden from 1990 to 2023 and identified drivers of change including population growth, population aging, and risk factor exposure.\n\nThe Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models. GBD 2023 estimated the population-level burden of diseases in 204 countries and territories from 1990 to 2023.\n\nCVDs were the leading cause of disability-adjusted life years (DALYs) and deaths estimated in the GBD. As of 2023, there were 437 million (95% UI: 401 to 465 million) CVD DALYs globally, a 1.4-fold increase from the number in 1990 of 320 million (292 to 344 million). Ischemic heart disease, intracerebral hemorrhage, ischemic stroke, and hypertensive heart disease were the leading cardiovascular causes of DALYs in 2023 globally. As of 2023, age-standardized CVD DALY rates were highest in low and low-middle Socio-demographic Index (SDI) settings and lowest in high SDI settings. The number of CVD deaths increased globally from 13.1 million (95% UI: 12.2 to 14.0 million) in 1990 to 19.2 million (95% UI: 17.4 to 20.4 million) in 2023. The number of prevalent cases of CVD more than doubled since 1990, with 311 million (95% UI: 294 to 333 million) prevalent cases of CVD in 1990 and 626 million (95% UI: 591 to 672 million) prevalent cases in 2023 globally. A total of 79.6% (95% UI: 75.7% to 82.5%) of CVD burden is attributable to modifiable risk factors 347 million [95% UI: 318 to 373 million] DALYs in 2023). Globally, high systolic blood pressure, dietary risks, high low-density lipoprotein cholesterol, and air pollution were the modifiable risks responsible for most attributable CVD burden in 2023. Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases. Population growth and population aging were the main drivers of the increasing burden since 1990, adding 128 million (95% UI: 115 to 139 million) and 139 million (95% UI: 126 to 151 million) CVD DALYs to the increase in CVD burden since 1990.\n\nCVD remains the leading cause of disease burden and death worldwide with the greatest burden in low, low-middle, and middle SDI regions. Large variation exists in CVD burden even for countries at similar levels of development, a gap explained substantially by known, modifiable risk factors that are inadequately controlled. The decades-long increase in CVD burden was the result of population growth, population aging, and increased exposure to a subset of risk factors led by metabolic risks. Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD.",
+      "evidence_sentences": [
+        "Since 1990, changes in exposure to modifiable risk factors have had mixed effects on CVD burden, with increases in high body mass index, high fasting plasma glucose, and low physical activity leading to higher burden, while reductions in tobacco usage have mitigated some of these increases.",
+        "The Global Burden of Disease (GBD) 2023 study, a multinational collaborative research study, quantified burden due to 375 diseases including CVD burden and identified drivers of change from 1990 to 2023 using all available data and statistical models.",
+        "Countries will need to adopt effective health system and public health strategies if they are to progress in achieving global goals to reduce the burden of CVD."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Global Burden of Cardiovascular Diseases and Risks 2023 Collaborators"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40990886/"
+    },
+    {
+      "pmid": "33716195",
+      "title": "Global Tuberculosis Report 2020 - Reflections on the Global TB burden, treatment and prevention efforts.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "The October 2020 Global TB report reviews TB control strategies and United Nations (UN) targets set in the political declaration at the September 2018 UN General Assembly high-level meeting on TB held in New York. Progress in TB care and prevention has been very slow. In 2019, TB remained the most common cause of death from a single infectious pathogen. Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV. Adults accounted for 88% and children for 12% of people with TB. The WHO regions of South-East Asia (44%), Africa (25%), and the Western Pacific (18%) had the most people with TB. Eight countries accounted for two thirds of the global total: India (26%), Indonesia (8.5%), China (8.4%), the Philippines (6.0%), Pakistan (5.7%), Nigeria (4.4%), Bangladesh (3.6%) and South Africa (3.6%). Only 30% of the 3.5 million five-year target for children treated for TB was met. Major advances have been development of new all oral regimens for MDRTB and new regimens for preventive therapy. In 2020, the COVID-19 pandemic dislodged TB from the top infectious disease cause of mortality globally. Notably, global TB control efforts were not on track even before the advent of the COVID-19 pandemic. Many challenges remain to improve sub-optimal TB treatment and prevention services. Tuberculosis screening and diagnostic test services need to be ramped up. The major drivers of TB remain undernutrition, poverty, diabetes, tobacco smoking, and household air pollution and these need be addressed to achieve the WHO 2035 TB care and prevention targets. National programs need to include interventions for post-tuberculosis holistic wellbeing. From first detection of COVID-19 global coordination and political will with huge financial investments have led to the development of effective vaccines against SARS-CoV2 infection. The world now needs to similarly focus on development of new vaccines for TB utilizing new technological methods."
+      ],
+      "abstract": "The October 2020 Global TB report reviews TB control strategies and United Nations (UN) targets set in the political declaration at the September 2018 UN General Assembly high-level meeting on TB held in New York. Progress in TB care and prevention has been very slow. In 2019, TB remained the most common cause of death from a single infectious pathogen. Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV. Adults accounted for 88% and children for 12% of people with TB. The WHO regions of South-East Asia (44%), Africa (25%), and the Western Pacific (18%) had the most people with TB. Eight countries accounted for two thirds of the global total: India (26%), Indonesia (8.5%), China (8.4%), the Philippines (6.0%), Pakistan (5.7%), Nigeria (4.4%), Bangladesh (3.6%) and South Africa (3.6%). Only 30% of the 3.5 million five-year target for children treated for TB was met. Major advances have been development of new all oral regimens for MDRTB and new regimens for preventive therapy. In 2020, the COVID-19 pandemic dislodged TB from the top infectious disease cause of mortality globally. Notably, global TB control efforts were not on track even before the advent of the COVID-19 pandemic. Many challenges remain to improve sub-optimal TB treatment and prevention services. Tuberculosis screening and diagnostic test services need to be ramped up. The major drivers of TB remain undernutrition, poverty, diabetes, tobacco smoking, and household air pollution and these need be addressed to achieve the WHO 2035 TB care and prevention targets. National programs need to include interventions for post-tuberculosis holistic wellbeing. From first detection of COVID-19 global coordination and political will with huge financial investments have led to the development of effective vaccines against SARS-CoV2 infection. The world now needs to similarly focus on development of new vaccines for TB utilizing new technological methods.",
+      "evidence_sentences": [
+        "Eight countries accounted for two thirds of the global total: India (26%), Indonesia (8.5%), China (8.4%), the Philippines (6.0%), Pakistan (5.7%), Nigeria (4.4%), Bangladesh (3.6%) and South Africa (3.6%).",
+        "The WHO regions of South-East Asia (44%), Africa (25%), and the Western Pacific (18%) had the most people with TB.",
+        "Globally, an estimated 10.0 million people developed TB disease in 2019, and there were an estimated 1.2 million TB deaths among HIV-negative people and an additional 208, 000 deaths among people living with HIV."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Jeremiah Chakaya",
+        "Mishal Khan",
+        "Francine Ntoumi",
+        "Eleni Aklillu",
+        "Razia Fatima",
+        "Peter Mwaba",
+        "Nathan Kapata",
+        "Sayoki Mfinanga",
+        "Seyed Ehtesham Hasnain",
+        "Patrick D M C Katoto",
+        "André N H Bulabula",
+        "Nadia A Sam-Agudu",
+        "Jean B Nachega",
+        "Simon Tiberi",
+        "Timothy D McHugh",
+        "Ibrahim Abubakar",
+        "Alimuddin Zumla"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33716195/"
+    },
+    {
+      "pmid": "38490237",
+      "title": "Prevalence of subclinical pulmonary tuberculosis in adults in community settings: an individual participant data meta-analysis.",
+      "journal": "The Lancet. Infectious diseases",
+      "abstract_sections": [
+        "Subclinical pulmonary tuberculosis, which presents without recognisable symptoms, is frequently detected in community screening. However, the disease category is poorly clinically defined. We explored the prevalence of subclinical pulmonary tuberculosis according to different case definitions.",
+        "We did a one-stage individual participant data meta-analysis of nationally representative surveys that were conducted in countries with high incidence of tuberculosis between 2007 and 2020, that reported the prevalence of pulmonary tuberculosis based on chest x-ray and symptom screening in participants aged 15 years and older. Screening and diagnostic criteria were standardised across the surveys, and tuberculosis was defined by positive Mycobacterium tuberculosis sputum culture. We estimated proportions of subclinical tuberculosis for three case definitions: no persistent cough (ie, duration ≥2 weeks), no cough at all, and no symptoms (ie, absence of cough, fever, chest pain, night sweats, and weight loss), both unadjusted and adjusted for false-negative chest x-rays and uninterpretable culture results.",
+        "We identified 34 surveys, of which 31 were eligible. Individual participant data were obtained and included for 12 surveys (620 682 participants) across eight countries in Africa and four in Asia. Data on 602 863 participants were analysed, of whom 1944 had tuberculosis. The unadjusted proportion of subclinical tuberculosis was 59·1% (n=1149/1944; 95% CI 55·8-62·3) for no persistent cough and 39·8% (773/1944; 36·6-43·0) for no cough of any duration. The adjusted proportions were 82·8% (95% CI 78·6-86·6) for no persistent cough and 62·5% (56·6-68·7) for no cough at all. In a subset of four surveys, the proportion of participants with tuberculosis but without any symptoms was 20·3% (n=111/547; 95% CI 15·5-25·1) before adjustment and 27·7% (95% CI 21·0-36·4) after adjustment. Tuberculosis without cough, irrespective of its duration, was more frequent among women (no persistent cough: adjusted odds ratio 0·79, 95% CI 0·63-0·97; no cough: adjusted odds ratio 0·76, 95% CI 0·62-0·93). Among participants with tuberculosis, 29·1% (95% CI 25·2-33·3) of those without persistent cough and 23·1% (18·8-27·4) of those without any cough had positive smear examinations.",
+        "The majority of people in the community who have pulmonary tuberculosis do not report cough, a quarter report no tuberculosis-suggestive symptoms at all, and a quarter of those not reporting any cough have positive sputum smears, suggesting infectiousness. In high-incidence settings, subclinical tuberculosis could contribute considerably to the tuberculosis burden and to Mycobacterium tuberculosis transmission.",
+        "Mr Willem Bakhuys Roozeboom Foundation."
+      ],
+      "abstract": "Subclinical pulmonary tuberculosis, which presents without recognisable symptoms, is frequently detected in community screening. However, the disease category is poorly clinically defined. We explored the prevalence of subclinical pulmonary tuberculosis according to different case definitions.\n\nWe did a one-stage individual participant data meta-analysis of nationally representative surveys that were conducted in countries with high incidence of tuberculosis between 2007 and 2020, that reported the prevalence of pulmonary tuberculosis based on chest x-ray and symptom screening in participants aged 15 years and older. Screening and diagnostic criteria were standardised across the surveys, and tuberculosis was defined by positive Mycobacterium tuberculosis sputum culture. We estimated proportions of subclinical tuberculosis for three case definitions: no persistent cough (ie, duration ≥2 weeks), no cough at all, and no symptoms (ie, absence of cough, fever, chest pain, night sweats, and weight loss), both unadjusted and adjusted for false-negative chest x-rays and uninterpretable culture results.\n\nWe identified 34 surveys, of which 31 were eligible. Individual participant data were obtained and included for 12 surveys (620 682 participants) across eight countries in Africa and four in Asia. Data on 602 863 participants were analysed, of whom 1944 had tuberculosis. The unadjusted proportion of subclinical tuberculosis was 59·1% (n=1149/1944; 95% CI 55·8-62·3) for no persistent cough and 39·8% (773/1944; 36·6-43·0) for no cough of any duration. The adjusted proportions were 82·8% (95% CI 78·6-86·6) for no persistent cough and 62·5% (56·6-68·7) for no cough at all. In a subset of four surveys, the proportion of participants with tuberculosis but without any symptoms was 20·3% (n=111/547; 95% CI 15·5-25·1) before adjustment and 27·7% (95% CI 21·0-36·4) after adjustment. Tuberculosis without cough, irrespective of its duration, was more frequent among women (no persistent cough: adjusted odds ratio 0·79, 95% CI 0·63-0·97; no cough: adjusted odds ratio 0·76, 95% CI 0·62-0·93). Among participants with tuberculosis, 29·1% (95% CI 25·2-33·3) of those without persistent cough and 23·1% (18·8-27·4) of those without any cough had positive smear examinations.\n\nThe majority of people in the community who have pulmonary tuberculosis do not report cough, a quarter report no tuberculosis-suggestive symptoms at all, and a quarter of those not reporting any cough have positive sputum smears, suggesting infectiousness. In high-incidence settings, subclinical tuberculosis could contribute considerably to the tuberculosis burden and to Mycobacterium tuberculosis transmission.\n\nMr Willem Bakhuys Roozeboom Foundation.",
+      "evidence_sentences": [
+        "We did a one-stage individual participant data meta-analysis of nationally representative surveys that were conducted in countries with high incidence of tuberculosis between 2007 and 2020, that reported the prevalence of pulmonary tuberculosis based on chest x-ray and symptom screening in participants aged 15 years and older.",
+        "Individual participant data were obtained and included for 12 surveys (620 682 participants) across eight countries in Africa and four in Asia.",
+        "We explored the prevalence of subclinical pulmonary tuberculosis according to different case definitions."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Logan Stuck",
+        "Eveline Klinkenberg",
+        "Nahid Abdelgadir Ali",
+        "Egbal Ahmed Basheir Abukaraig",
+        "Yaw Adusi-Poku",
+        "Zeleke Alebachew Wagaw",
+        "Razia Fatima",
+        "Nathan Kapata",
+        "Pascalina Kapata-Chanda",
+        "Bruce Kirenga",
+        "Llang B Maama-Maime",
+        "Sayoki G Mfinanga",
+        "Sizulu Moyo",
+        "Lindiwe Mvusi",
+        "Ndahafa Nandjebo",
+        "Hai Viet Nguyen",
+        "Hoa Binh Nguyen",
+        "Joshua Obasanya",
+        "Bashorun Adedapo Olufemi",
+        "Philip Patrobas Dashi",
+        "Thato J Raleting Letsie",
+        "Nunurai Ruswa",
+        "Elizeus Rutebemberwa",
+        "Mbazi Senkoro",
+        "Tieng Sivanna",
+        "Huot Chan Yuda",
+        "Irwin Law",
+        "Ikushi Onozaki",
+        "Edine Tiemersma",
+        "Frank Cobelens",
+        "scTB Meta Investigator Group"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38490237/"
+    },
+    {
+      "pmid": "26633896",
+      "title": "World Health Organization Global Estimates and Regional Comparisons of the Burden of Foodborne Disease in 2010.",
+      "journal": "PLoS medicine",
+      "abstract_sections": [
+        "Illness and death from diseases caused by contaminated food are a constant threat to public health and a significant impediment to socio-economic development worldwide. To measure the global and regional burden of foodborne disease (FBD), the World Health Organization (WHO) established the Foodborne Disease Burden Epidemiology Reference Group (FERG), which here reports their first estimates of the incidence, mortality, and disease burden due to 31 foodborne hazards. We find that the global burden of FBD is comparable to those of the major infectious diseases, HIV/AIDS, malaria and tuberculosis. The most frequent causes of foodborne illness were diarrheal disease agents, particularly norovirus and Campylobacter spp. Diarrheal disease agents, especially non-typhoidal Salmonella enterica, were also responsible for the majority of deaths due to FBD. Other major causes of FBD deaths were Salmonella Typhi, Taenia solium and hepatitis A virus. The global burden of FBD caused by the 31 hazards in 2010 was 33 million Disability Adjusted Life Years (DALYs); children under five years old bore 40% of this burden. The 14 subregions, defined on the basis of child and adult mortality, had considerably different burdens of FBD, with the greatest falling on the subregions in Africa, followed by the subregions in South-East Asia and the Eastern Mediterranean D subregion. Some hazards, such as non-typhoidal S. enterica, were important causes of FBD in all regions of the world, whereas others, such as certain parasitic helminths, were highly localised. Thus, the burden of FBD is borne particularly by children under five years old-although they represent only 9% of the global population-and people living in low-income regions of the world. These estimates are conservative, i.e., underestimates rather than overestimates; further studies are needed to address the data gaps and limitations of the study. Nevertheless, all stakeholders can contribute to improvements in food safety throughout the food chain by incorporating these estimates into policy development at national and international levels."
+      ],
+      "abstract": "Illness and death from diseases caused by contaminated food are a constant threat to public health and a significant impediment to socio-economic development worldwide. To measure the global and regional burden of foodborne disease (FBD), the World Health Organization (WHO) established the Foodborne Disease Burden Epidemiology Reference Group (FERG), which here reports their first estimates of the incidence, mortality, and disease burden due to 31 foodborne hazards. We find that the global burden of FBD is comparable to those of the major infectious diseases, HIV/AIDS, malaria and tuberculosis. The most frequent causes of foodborne illness were diarrheal disease agents, particularly norovirus and Campylobacter spp. Diarrheal disease agents, especially non-typhoidal Salmonella enterica, were also responsible for the majority of deaths due to FBD. Other major causes of FBD deaths were Salmonella Typhi, Taenia solium and hepatitis A virus. The global burden of FBD caused by the 31 hazards in 2010 was 33 million Disability Adjusted Life Years (DALYs); children under five years old bore 40% of this burden. The 14 subregions, defined on the basis of child and adult mortality, had considerably different burdens of FBD, with the greatest falling on the subregions in Africa, followed by the subregions in South-East Asia and the Eastern Mediterranean D subregion. Some hazards, such as non-typhoidal S. enterica, were important causes of FBD in all regions of the world, whereas others, such as certain parasitic helminths, were highly localised. Thus, the burden of FBD is borne particularly by children under five years old-although they represent only 9% of the global population-and people living in low-income regions of the world. These estimates are conservative, i.e., underestimates rather than overestimates; further studies are needed to address the data gaps and limitations of the study. Nevertheless, all stakeholders can contribute to improvements in food safety throughout the food chain by incorporating these estimates into policy development at national and international levels.",
+      "evidence_sentences": [
+        "We find that the global burden of FBD is comparable to those of the major infectious diseases, HIV/AIDS, malaria and tuberculosis.",
+        "The 14 subregions, defined on the basis of child and adult mortality, had considerably different burdens of FBD, with the greatest falling on the subregions in Africa, followed by the subregions in South-East Asia and the Eastern Mediterranean D subregion.",
+        "These estimates are conservative, i.e., underestimates rather than overestimates; further studies are needed to address the data gaps and limitations of the study."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Arie H Havelaar",
+        "Martyn D Kirk",
+        "Paul R Torgerson",
+        "Herman J Gibb",
+        "Tine Hald",
+        "Robin J Lake",
+        "Nicolas Praet",
+        "David C Bellinger",
+        "Nilanthi R de Silva",
+        "Neyla Gargouri",
+        "Niko Speybroeck",
+        "Amy Cawthorne",
+        "Colin Mathers",
+        "Claudia Stein",
+        "Frederick J Angulo",
+        "Brecht Devleesschauwer",
+        "World Health Organization Foodborne Disease Burden Epidemiology Reference Group"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26633896/"
+    },
+    {
+      "pmid": "33340524",
+      "title": "Epidemiology of malaria among HIV/AIDS patients in sub-Saharan Africa: A systematic review and meta-analysis of observational studies.",
+      "journal": "Acta tropica",
+      "abstract_sections": [
+        "Malaria related HIV morbidity and death is a concern in sub-Saharan Africa. Understanding the epidemiology of malaria among people living with HIV is vital for adequate intervention. We conducted a systematic review and meta-analysis to estimate the prevalence of malaria in HIV patients in sub-Saharan Africa. We searched PubMed, AJOL, Web of Science and Google Scholar databases. The overall pooled prevalence and pooled Odds Ratio (OR) with their 95% Confidence Intervals (CI) were estimated using the random-effects model and potential causes of heterogeneity in prevalence estimates were investigated using subgroup and meta-regression analysis. 58 studies, including 23,911 HIV patients, were identified between January 1990 and October 2020. The overall pooled prevalence of malaria in HIV patients was 22.7% (95% CI 18.0; 28.1). The Prevalence of malaria among HIV/AIDS patients was 33.1%, 30.2%, 15.3%, and 12.6% in Southern, Western, Central, and Eastern regions of SSA respectively. Prevalence of malaria in the central and western was higher [26.7% (95% CI 20.6; 33.9)] than 13.6% reported in the southern and eastern regions (95% CI 8.8; 20.5). There was a significant decrease in malaria prevalence among HIV/AIDS patients in the Eastern and Southern SSA regions from 21.9% (95% CI 15.5; 30.0) in the 2000-2010 period to 9.7% (95% CI 5.5-16.4) in the post-2010 period compared to the central and western regions. HIV infected patients with low CD4 + T cell count (CD4 < 200 cells/mm3) were 2.19 times more likely to become infected with malaria than those with high CD4 + T cell count (CD4 ≥ 200 cells/mm3) (pooled odds ratio (POR): 2.19 (95%CI 1.20;3.98), while patients on antiretroviral therapy (POR): 0.37 (0.23; 0.59), and in WHO clinical stages I and II (POR): 0.64 (0.28; 1.46), had a lower odds of been infected with malaria. Our review suggests that due consideration should be given to malaria among HIV/AIDS patients in SSA. In particular, the assessment and improvement of preventive measures for malaria/HIV co-infection in high-prevalence regions is important. For the treatment of both diseases, prophylaxis with cotrimoxazole and antiretroviral therapy should also be encouraged."
+      ],
+      "abstract": "Malaria related HIV morbidity and death is a concern in sub-Saharan Africa. Understanding the epidemiology of malaria among people living with HIV is vital for adequate intervention. We conducted a systematic review and meta-analysis to estimate the prevalence of malaria in HIV patients in sub-Saharan Africa. We searched PubMed, AJOL, Web of Science and Google Scholar databases. The overall pooled prevalence and pooled Odds Ratio (OR) with their 95% Confidence Intervals (CI) were estimated using the random-effects model and potential causes of heterogeneity in prevalence estimates were investigated using subgroup and meta-regression analysis. 58 studies, including 23,911 HIV patients, were identified between January 1990 and October 2020. The overall pooled prevalence of malaria in HIV patients was 22.7% (95% CI 18.0; 28.1). The Prevalence of malaria among HIV/AIDS patients was 33.1%, 30.2%, 15.3%, and 12.6% in Southern, Western, Central, and Eastern regions of SSA respectively. Prevalence of malaria in the central and western was higher [26.7% (95% CI 20.6; 33.9)] than 13.6% reported in the southern and eastern regions (95% CI 8.8; 20.5). There was a significant decrease in malaria prevalence among HIV/AIDS patients in the Eastern and Southern SSA regions from 21.9% (95% CI 15.5; 30.0) in the 2000-2010 period to 9.7% (95% CI 5.5-16.4) in the post-2010 period compared to the central and western regions. HIV infected patients with low CD4 + T cell count (CD4 < 200 cells/mm3) were 2.19 times more likely to become infected with malaria than those with high CD4 + T cell count (CD4 ≥ 200 cells/mm3) (pooled odds ratio (POR): 2.19 (95%CI 1.20;3.98), while patients on antiretroviral therapy (POR): 0.37 (0.23; 0.59), and in WHO clinical stages I and II (POR): 0.64 (0.28; 1.46), had a lower odds of been infected with malaria. Our review suggests that due consideration should be given to malaria among HIV/AIDS patients in SSA. In particular, the assessment and improvement of preventive measures for malaria/HIV co-infection in high-prevalence regions is important. For the treatment of both diseases, prophylaxis with cotrimoxazole and antiretroviral therapy should also be encouraged.",
+      "evidence_sentences": [
+        "There was a significant decrease in malaria prevalence among HIV/AIDS patients in the Eastern and Southern SSA regions from 21.9% (95% CI 15.5; 30.0) in the 2000-2010 period to 9.7% (95% CI 5.5-16.4) in the post-2010 period compared to the central and western regions.",
+        "The Prevalence of malaria among HIV/AIDS patients was 33.1%, 30.2%, 15.3%, and 12.6% in Southern, Western, Central, and Eastern regions of SSA respectively.",
+        "We conducted a systematic review and meta-analysis to estimate the prevalence of malaria in HIV patients in sub-Saharan Africa."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Oluwasola Olaiya Obebe",
+        "Olufarati Oludunsin Falohun"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33340524/"
+    },
+    {
+      "pmid": "28367743",
+      "title": "Prevalence of HIV and malaria: a cross-sectional study on Bioko Island, Equatorial Guinea.",
+      "journal": "African journal of AIDS research : AJAR",
+      "abstract_sections": [
+        "Malaria and HIV are two of the most severe public health problems in Africa. However, epidemiological data on Bioko Island is scarce. To investigate the prevalence of malaria and HIV infections and assess association of malaria and HIV infections and possible confounding factors, we performed a cross-sectional survey of people of malaria-endemic Bioko Island, Equatorial Guinea. A cross-sectional study of 1 526 subjects was carried out to determine the prevalence of malaria and HIV infection in Malabo region hospital on Bioko Island. Questionnaires were administered and venous blood samples were drawn for malaria parasites and HIV detection. The prevalence of participants infected with malaria and HIV in this area were 13.8% and 6.6% respectively. The average prevalence of co-infection for malaria and HIV was 0.92%. HIV-infection was significantly associated with the age and gender. Malaria infections were significantly associated with the age. This study showed that the prevalence of HIV and malaria on Bioko Island was higher than expected, although the co-infection prevalence of malaria and HIV was low. The results also indicated that malaria and HIV infections lead to more public health risk to youngsters and women."
+      ],
+      "abstract": "Malaria and HIV are two of the most severe public health problems in Africa. However, epidemiological data on Bioko Island is scarce. To investigate the prevalence of malaria and HIV infections and assess association of malaria and HIV infections and possible confounding factors, we performed a cross-sectional survey of people of malaria-endemic Bioko Island, Equatorial Guinea. A cross-sectional study of 1 526 subjects was carried out to determine the prevalence of malaria and HIV infection in Malabo region hospital on Bioko Island. Questionnaires were administered and venous blood samples were drawn for malaria parasites and HIV detection. The prevalence of participants infected with malaria and HIV in this area were 13.8% and 6.6% respectively. The average prevalence of co-infection for malaria and HIV was 0.92%. HIV-infection was significantly associated with the age and gender. Malaria infections were significantly associated with the age. This study showed that the prevalence of HIV and malaria on Bioko Island was higher than expected, although the co-infection prevalence of malaria and HIV was low. The results also indicated that malaria and HIV infections lead to more public health risk to youngsters and women.",
+      "evidence_sentences": [
+        "To investigate the prevalence of malaria and HIV infections and assess association of malaria and HIV infections and possible confounding factors, we performed a cross-sectional survey of people of malaria-endemic Bioko Island, Equatorial Guinea.",
+        "This study showed that the prevalence of HIV and malaria on Bioko Island was higher than expected, although the co-infection prevalence of malaria and HIV was low.",
+        "A cross-sectional study of 1 526 subjects was carried out to determine the prevalence of malaria and HIV infection in Malabo region hospital on Bioko Island."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Xiangbin Zheng",
+        "Min Lin",
+        "Dong-De Xie",
+        "Jian Li",
+        "Jiang-Tao Chen",
+        "Urbano Monsuy Eyi",
+        "Santiago-M Monte-Nguba",
+        "Juan Carlos Sala Ehapo",
+        "Hui Yang",
+        "Hui-Tian Yang",
+        "Li-Ye Yang"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28367743/"
+    },
+    {
+      "pmid": "16229771",
+      "title": "Malaria attributable to the HIV-1 epidemic, sub-Saharan Africa.",
+      "journal": "Emerging infectious diseases",
+      "abstract_sections": [
+        "We assessed the impact of HIV-1 on malaria in the sub-Saharan African population. Relative risks for malaria in HIV-infected persons, derived from literature review, were applied to the HIV-infected population in each country, by age group, stratum of CD4 cell count, and urban versus rural residence. Distributions of CD4 counts among HIV-infected persons were modeled assuming a linear decline in CD4 after seroconversion. Averaged across 41 countries, the impact of HIV-1 was limited (although quantitatively uncertain) because of the different geographic distributions and contrasting age patterns of the 2 diseases. However, in Botswana, Zimbabwe, Swaziland, South Africa, and Namibia, the incidence of clinical malaria increased by < or =28% (95% confidence interval [CI] 14%-47%) and death increased by < or =114% (95% CI 37%-188%). These effects were due to high HIV-1 prevalence in rural areas and the locally unstable nature of malaria transmission that results in a high proportion of adult cases."
+      ],
+      "abstract": "We assessed the impact of HIV-1 on malaria in the sub-Saharan African population. Relative risks for malaria in HIV-infected persons, derived from literature review, were applied to the HIV-infected population in each country, by age group, stratum of CD4 cell count, and urban versus rural residence. Distributions of CD4 counts among HIV-infected persons were modeled assuming a linear decline in CD4 after seroconversion. Averaged across 41 countries, the impact of HIV-1 was limited (although quantitatively uncertain) because of the different geographic distributions and contrasting age patterns of the 2 diseases. However, in Botswana, Zimbabwe, Swaziland, South Africa, and Namibia, the incidence of clinical malaria increased by < or =28% (95% confidence interval [CI] 14%-47%) and death increased by < or =114% (95% CI 37%-188%). These effects were due to high HIV-1 prevalence in rural areas and the locally unstable nature of malaria transmission that results in a high proportion of adult cases.",
+      "evidence_sentences": [
+        "However, in Botswana, Zimbabwe, Swaziland, South Africa, and Namibia, the incidence of clinical malaria increased by < or =28% (95% confidence interval [CI] 14%-47%) and death increased by < or =114% (95% CI 37%-188%).",
+        "These effects were due to high HIV-1 prevalence in rural areas and the locally unstable nature of malaria transmission that results in a high proportion of adult cases.",
+        "We assessed the impact of HIV-1 on malaria in the sub-Saharan African population."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Eline L Korenromp",
+        "Brian G Williams",
+        "Sake J de Vlas",
+        "Eleanor Gouws",
+        "Charles F Gilks",
+        "Peter D Ghys",
+        "Bernard L Nahlen"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16229771/"
+    },
+    {
+      "pmid": "39151976",
+      "title": "Population size, HIV prevalence, and antiretroviral therapy coverage among key populations in sub-Saharan Africa: collation and synthesis of survey data, 2010-23.",
+      "journal": "The Lancet. Global health",
+      "abstract_sections": [
+        "Key population HIV programmes in sub-Saharan Africa require epidemiological information to ensure equitable and universal access to effective services. We aimed to consolidate and harmonise survey data among female sex workers, men who have sex with men, people who inject drugs, and transgender people to estimate key population size, HIV prevalence, and antiretroviral therapy (ART) coverage for countries in mainland sub-Saharan Africa.",
+        "Key population size estimates, HIV prevalence, and ART coverage data from 39 sub-Saharan Africa countries between 2010 and 2023 were collated from existing databases and verified against source documents. We used Bayesian mixed-effects spatial regression to model urban key population size estimates as a proportion of the gender-matched, year-matched, and area-matched population aged 15-49 years. We modelled subnational key population HIV prevalence and ART coverage with age-matched, gender-matched, year-matched, and province-matched total population estimates as predictors.",
+        "We extracted 2065 key population size data points, 1183 HIV prevalence data points, and 259 ART coverage data points. Across national urban populations, a median of 1·65% (IQR 1·35-1·91) of adult cisgender women were female sex workers, 0·89% (0·77-0·95) were men who have sex with men, 0·32% (0·31-0·34) were men who injected drugs, and 0·10% (0·06-0·12) were women who were transgender. HIV prevalence among key populations was, on average, four to six times higher than matched total population prevalence, and ART coverage was correlated with, but lower than, the total population ART coverage with wide heterogeneity in relative ART coverage across studies. Across sub-Saharan Africa, key populations were estimated as comprising 1·2% (95% credible interval 0·9-1·6) of the total population aged 15-49 years but 6·1% (4·5-8·2) of people living with HIV.",
+        "Key populations in sub-Saharan Africa experience higher HIV prevalence and lower ART coverage, underscoring the need for focused prevention and treatment services. In 2024, limited data availability and heterogeneity constrain precise estimates for programming and monitoring trends. Strengthening key population surveys and routine data within national HIV strategic information systems would support more precise estimates.",
+        "UNAIDS, Bill & Melinda Gates Foundation, and US National Institutes of Health."
+      ],
+      "abstract": "Key population HIV programmes in sub-Saharan Africa require epidemiological information to ensure equitable and universal access to effective services. We aimed to consolidate and harmonise survey data among female sex workers, men who have sex with men, people who inject drugs, and transgender people to estimate key population size, HIV prevalence, and antiretroviral therapy (ART) coverage for countries in mainland sub-Saharan Africa.\n\nKey population size estimates, HIV prevalence, and ART coverage data from 39 sub-Saharan Africa countries between 2010 and 2023 were collated from existing databases and verified against source documents. We used Bayesian mixed-effects spatial regression to model urban key population size estimates as a proportion of the gender-matched, year-matched, and area-matched population aged 15-49 years. We modelled subnational key population HIV prevalence and ART coverage with age-matched, gender-matched, year-matched, and province-matched total population estimates as predictors.\n\nWe extracted 2065 key population size data points, 1183 HIV prevalence data points, and 259 ART coverage data points. Across national urban populations, a median of 1·65% (IQR 1·35-1·91) of adult cisgender women were female sex workers, 0·89% (0·77-0·95) were men who have sex with men, 0·32% (0·31-0·34) were men who injected drugs, and 0·10% (0·06-0·12) were women who were transgender. HIV prevalence among key populations was, on average, four to six times higher than matched total population prevalence, and ART coverage was correlated with, but lower than, the total population ART coverage with wide heterogeneity in relative ART coverage across studies. Across sub-Saharan Africa, key populations were estimated as comprising 1·2% (95% credible interval 0·9-1·6) of the total population aged 15-49 years but 6·1% (4·5-8·2) of people living with HIV.\n\nKey populations in sub-Saharan Africa experience higher HIV prevalence and lower ART coverage, underscoring the need for focused prevention and treatment services. In 2024, limited data availability and heterogeneity constrain precise estimates for programming and monitoring trends. Strengthening key population surveys and routine data within national HIV strategic information systems would support more precise estimates.\n\nUNAIDS, Bill & Melinda Gates Foundation, and US National Institutes of Health.",
+      "evidence_sentences": [
+        "Key populations in sub-Saharan Africa experience higher HIV prevalence and lower ART coverage, underscoring the need for focused prevention and treatment services.",
+        "We aimed to consolidate and harmonise survey data among female sex workers, men who have sex with men, people who inject drugs, and transgender people to estimate key population size, HIV prevalence, and antiretroviral therapy (ART) coverage for countries in mainland sub-Saharan Africa.",
+        "Key population size estimates, HIV prevalence, and ART coverage data from 39 sub-Saharan Africa countries between 2010 and 2023 were collated from existing databases and verified against source documents."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Oliver Stevens",
+        "Keith Sabin",
+        "Rebecca L Anderson",
+        "Sonia Arias Garcia",
+        "Kalai Willis",
+        "Amrita Rao",
+        "Anne F McIntyre",
+        "Elizabeth Fearon",
+        "Emilie Grard",
+        "Alice Stuart-Brown",
+        "Frances Cowan",
+        "Louisa Degenhardt",
+        "James Stannah",
+        "Jinkou Zhao",
+        "Avi J Hakim",
+        "Katherine Rucinski",
+        "Isabel Sathane",
+        "Makini Boothe",
+        "Lydia Atuhaire",
+        "Peter S Nyasulu",
+        "Mathieu Maheu-Giroux",
+        "Lucy Platt",
+        "Brian Rice",
+        "Wolfgang Hladik",
+        "Stefan Baral",
+        "Mary Mahy",
+        "Jeffrey W Imai-Eaton"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39151976/"
+    },
+    {
+      "pmid": "27938369",
+      "title": "Achieving development goals for HIV, tuberculosis and malaria in sub-Saharan Africa through integrated antenatal care: barriers and challenges.",
+      "journal": "BMC medicine",
+      "abstract_sections": [
+        "The global health community is currently transitioning from the Millennium Development Goals (MDGs) to the Sustainable Development Goals (SDGs). Unfortunately, progress towards maternal, newborn and infant health MDGs has lagged significantly behind other key health goals, demanding a renewed global effort in this key health area. The World Health Organization and other institutions heralded integrated antenatal care (ANC) as the best way to address the inter-related health issues of HIV, tuberculosis (TB) and malaria in the high risk groups of pregnant women and infants; integrated ANC services also offer a mechanism to address slow progress towards improved maternal health.",
+        "There is remarkably limited evidence on best practice approaches of program implementation, acceptability and effectiveness for integrated ANC models targeting multiple diseases. Here, we discuss current integrated ANC global guidelines and the limited literature describing integrated ANC implementation and evidence for their role in addressing HIV, malaria and TB during pregnancy in sub-Saharan Africa. We highlight the paucity of data on the effectiveness of integrated ANC models and identify significant structural barriers in the health system (funding, infrastructure, distribution, human resources), the adoption system (limited buy-in from implementers, leadership, governance) and, in the broader context, patient-centred barriers (fear, stigma, personal burdens) and barriers in funding structures. We highlight recommendations for action and discuss avenues for the global health community to develop systems to integrate multiple disease programs into ANC models of care that better address these three priority infectious diseases. With the current transition to the SDGs and concerns regarding the failure to meet maternal health MDGs, the global health community, researchers, implementers and funding bodies must work together to ensure the establishment of quality operational and implementation research to inform integrated ANC models. It is imperative that the global health community engages in a timely discussion about such implementation innovations and instigates appropriate actions to ensure advances in maternal health are sufficient to meet applicable SDGs."
+      ],
+      "abstract": "The global health community is currently transitioning from the Millennium Development Goals (MDGs) to the Sustainable Development Goals (SDGs). Unfortunately, progress towards maternal, newborn and infant health MDGs has lagged significantly behind other key health goals, demanding a renewed global effort in this key health area. The World Health Organization and other institutions heralded integrated antenatal care (ANC) as the best way to address the inter-related health issues of HIV, tuberculosis (TB) and malaria in the high risk groups of pregnant women and infants; integrated ANC services also offer a mechanism to address slow progress towards improved maternal health.\n\nThere is remarkably limited evidence on best practice approaches of program implementation, acceptability and effectiveness for integrated ANC models targeting multiple diseases. Here, we discuss current integrated ANC global guidelines and the limited literature describing integrated ANC implementation and evidence for their role in addressing HIV, malaria and TB during pregnancy in sub-Saharan Africa. We highlight the paucity of data on the effectiveness of integrated ANC models and identify significant structural barriers in the health system (funding, infrastructure, distribution, human resources), the adoption system (limited buy-in from implementers, leadership, governance) and, in the broader context, patient-centred barriers (fear, stigma, personal burdens) and barriers in funding structures. We highlight recommendations for action and discuss avenues for the global health community to develop systems to integrate multiple disease programs into ANC models of care that better address these three priority infectious diseases. With the current transition to the SDGs and concerns regarding the failure to meet maternal health MDGs, the global health community, researchers, implementers and funding bodies must work together to ensure the establishment of quality operational and implementation research to inform integrated ANC models. It is imperative that the global health community engages in a timely discussion about such implementation innovations and instigates appropriate actions to ensure advances in maternal health are sufficient to meet applicable SDGs.",
+      "evidence_sentences": [
+        "Here, we discuss current integrated ANC global guidelines and the limited literature describing integrated ANC implementation and evidence for their role in addressing HIV, malaria and TB during pregnancy in sub-Saharan Africa.",
+        "The World Health Organization and other institutions heralded integrated antenatal care (ANC) as the best way to address the inter-related health issues of HIV, tuberculosis (TB) and malaria in the high risk groups of pregnant women and infants; integrated ANC services also offer a mechanism to address slow progress towards improved maternal health.",
+        "We highlight the paucity of data on the effectiveness of integrated ANC models and identify significant structural barriers in the health system (funding, infrastructure, distribution, human resources), the adoption system (limited buy-in from implementers, leadership, governance) and, in the broader context, patient-centred barriers (fear, stigma, personal burdens) and barriers in funding structures."
+      ],
+      "publication_types": [
+        "Editorial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Freya J I Fowkes",
+        "Bridget L Draper",
+        "Margaret Hellard",
+        "Mark Stoové"
+      ],
+      "year": "2016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/27938369/"
+    },
+    {
+      "pmid": "37283226",
+      "title": "Chronic pain is no more prevalent in people living with HIV than in their uninfected counterparts in South Africa.",
+      "journal": "European journal of pain (London, England)",
+      "abstract_sections": [
+        "There are few studies on chronic pain prevalence in people living with HIV, and there are no studies comparing chronic pain prevalence in an HIV-infected group (HIV+) to that found in an uninfected group (HIV-) in the same population. This study was undertaken to (1) estimate the chronic pain prevalence in HIV+ individuals and (2) compare chronic pain prevalence between HIV+ and HIV- groups in a population.",
+        "Individuals ≥15 years old were recruited using multi-stage probability sampling in the 2016 South African Demographic and Health Survey. In an interview, participants were asked whether they currently had pain or discomfort, and if so, whether that pain or discomfort had persisted for at least 3 months (operational definition of chronic pain). Blood samples were taken from a volunteering sub-sample for HIV testing.",
+        "A total of 6584 of 12,717 eligible individuals answered the questionnaire and were tested for HIV. Mean age: 39.1 years (95% confidence interval [CI]: 38.3-39.9), per cent female: 55% (95% CI: 52-56) and tested HIV+: 19% (95% CI: 17-20). The prevalence of chronic pain was 19% (95% CI: 16-23) in the HIV+ group, which was similar to that found in the HIV- group (20% [95% CI: 18-22]; odds ratio [adjusted for age, sex, socio-economic status] = 0.93 [95% CI: 0.74-1.17], p-value = 0.549).",
+        "The prevalence of chronic pain in South Africans living with HIV was approximately 20%, and having HIV was not associated with an increased risk of chronic pain.",
+        "Using data from a large, national, population-based study in South Africa, I show for the first time that the prevalence of chronic pain in that population did not differ materially between the part of the population that was living with HIV compared with their uninfected counterparts (both approximately 20%). These findings run counter to the dogma that there is a greater risk of having pain in people living with HIV."
+      ],
+      "abstract": "There are few studies on chronic pain prevalence in people living with HIV, and there are no studies comparing chronic pain prevalence in an HIV-infected group (HIV+) to that found in an uninfected group (HIV-) in the same population. This study was undertaken to (1) estimate the chronic pain prevalence in HIV+ individuals and (2) compare chronic pain prevalence between HIV+ and HIV- groups in a population.\n\nIndividuals ≥15 years old were recruited using multi-stage probability sampling in the 2016 South African Demographic and Health Survey. In an interview, participants were asked whether they currently had pain or discomfort, and if so, whether that pain or discomfort had persisted for at least 3 months (operational definition of chronic pain). Blood samples were taken from a volunteering sub-sample for HIV testing.\n\nA total of 6584 of 12,717 eligible individuals answered the questionnaire and were tested for HIV. Mean age: 39.1 years (95% confidence interval [CI]: 38.3-39.9), per cent female: 55% (95% CI: 52-56) and tested HIV+: 19% (95% CI: 17-20). The prevalence of chronic pain was 19% (95% CI: 16-23) in the HIV+ group, which was similar to that found in the HIV- group (20% [95% CI: 18-22]; odds ratio [adjusted for age, sex, socio-economic status] = 0.93 [95% CI: 0.74-1.17], p-value = 0.549).\n\nThe prevalence of chronic pain in South Africans living with HIV was approximately 20%, and having HIV was not associated with an increased risk of chronic pain.\n\nUsing data from a large, national, population-based study in South Africa, I show for the first time that the prevalence of chronic pain in that population did not differ materially between the part of the population that was living with HIV compared with their uninfected counterparts (both approximately 20%). These findings run counter to the dogma that there is a greater risk of having pain in people living with HIV.",
+      "evidence_sentences": [
+        "Using data from a large, national, population-based study in South Africa, I show for the first time that the prevalence of chronic pain in that population did not differ materially between the part of the population that was living with HIV compared with their uninfected counterparts (both approximately 20%).",
+        "The prevalence of chronic pain in South Africans living with HIV was approximately 20%, and having HIV was not associated with an increased risk of chronic pain.",
+        "This study was undertaken to (1) estimate the chronic pain prevalence in HIV+ individuals and (2) compare chronic pain prevalence between HIV+ and HIV- groups in a population."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Peter R Kamerman"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37283226/"
+    },
+    {
+      "pmid": "21224274",
+      "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+      "journal": "International journal of epidemiology",
+      "abstract_sections": [
+        "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "In adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].",
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "abstract": "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.\n\nUsing large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.\n\nIn adjusted models, individuals who live in areas with high Plasmodium falciparum parasite rate (PfPR > 0.42) had increased estimated odds of being HIV positive than individuals who live in areas with low P. falciparum parasite rate (PfPR ≤ 0.10) [men: estimated odds ratio (OR) 2.24, 95% confidence interval (CI) 1.62-3.12; women: estimated OR 2.44, 95% CI 1.85-3.21].\n\nThis is the first study to report malaria as a risk factor of concurrent HIV infection at the population level. According to our results, individuals who live in areas with high P. falciparum parasite rate have about twice the risk of being HIV positive compared with individuals who live in areas with low P. falciparum parasite rate. Our work emphasizes the need for field studies focused on quantifying the interaction among parasitic infections and risk of HIV infection, and studies to explore the impact of control interventions. Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals.",
+      "evidence_sentences": [
+        "To examine the association between malaria and HIV prevalence in East sub-Saharan Africa.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Diego F Cuadros",
+        "Adam J Branscum",
+        "Philip H Crowley"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21224274/"
+    },
+    {
+      "pmid": "28985732",
+      "title": "Cost-effectiveness of malaria preventive treatment for HIV-infected pregnant women in sub-Saharan Africa.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria is a leading cause of morbidity and mortality among HIV-infected pregnant women in sub-Saharan Africa: at least 1 million pregnancies among HIV-infected women are complicated by co-infection with malaria annually, leading to increased risk of premature delivery, severe anaemia, delivery of low birth weight infants, and maternal death. Current guidelines recommend either daily cotrimoxazole (CTX) or intermittent preventive treatment with sulfadoxine-pyrimethamine (IPTp-SP) for HIV-infected pregnant women to prevent malaria and its complications. The cost-effectiveness of CTX compared to IPTp-SP among HIV-infected pregnant women was assessed.",
+        "A microsimulation model of malaria and HIV among pregnant women in five malaria-endemic countries in sub-Saharan Africa was constructed. Four strategies were compared: (1) 2-dose IPTp-SP at current IPTp-SP coverage of the country (\"2-IPT Low\"); (2) 3-dose IPTp-SP at current coverage (\"3-IPT Low\"); (3) 3-dose IPTp-SP at the same coverage as antiretroviral therapy (ART) in the country (\"3-IPT High\"); and (4) daily CTX at ART coverage. Outcomes measured include maternal malaria, anaemia, low birth weight (LBW), and disability-adjusted life years (DALYs). Sensitivity analyses assessed the effect of adherence to CTX.",
+        "Compared with the 2-IPT Low Strategy, women receiving CTX had 22.5% fewer LBW infants (95% CI 22.3-22.7), 13.5% fewer anaemia cases (95% CI 13.4-13.5), and 13.6% fewer maternal malaria cases (95% CI 13.6-13.7). In all simulated countries, CTX was the preferred strategy, with incremental cost-effectiveness ratios ranging from cost-saving to $3.9 per DALY averted from a societal perspective. CTX was less effective than the 3-IPT High Strategy when more than 18% of women stopped taking CTX during the pregnancy.",
+        "In malarious regions of sub-Saharan Africa, daily CTX for HIV-infected pregnant women regardless of CD4 cell count is cost-effective compared with 3-dose IPTp-SP as long as more than 82% of women adhere to daily dosing."
+      ],
+      "abstract": "Malaria is a leading cause of morbidity and mortality among HIV-infected pregnant women in sub-Saharan Africa: at least 1 million pregnancies among HIV-infected women are complicated by co-infection with malaria annually, leading to increased risk of premature delivery, severe anaemia, delivery of low birth weight infants, and maternal death. Current guidelines recommend either daily cotrimoxazole (CTX) or intermittent preventive treatment with sulfadoxine-pyrimethamine (IPTp-SP) for HIV-infected pregnant women to prevent malaria and its complications. The cost-effectiveness of CTX compared to IPTp-SP among HIV-infected pregnant women was assessed.\n\nA microsimulation model of malaria and HIV among pregnant women in five malaria-endemic countries in sub-Saharan Africa was constructed. Four strategies were compared: (1) 2-dose IPTp-SP at current IPTp-SP coverage of the country (\"2-IPT Low\"); (2) 3-dose IPTp-SP at current coverage (\"3-IPT Low\"); (3) 3-dose IPTp-SP at the same coverage as antiretroviral therapy (ART) in the country (\"3-IPT High\"); and (4) daily CTX at ART coverage. Outcomes measured include maternal malaria, anaemia, low birth weight (LBW), and disability-adjusted life years (DALYs). Sensitivity analyses assessed the effect of adherence to CTX.\n\nCompared with the 2-IPT Low Strategy, women receiving CTX had 22.5% fewer LBW infants (95% CI 22.3-22.7), 13.5% fewer anaemia cases (95% CI 13.4-13.5), and 13.6% fewer maternal malaria cases (95% CI 13.6-13.7). In all simulated countries, CTX was the preferred strategy, with incremental cost-effectiveness ratios ranging from cost-saving to $3.9 per DALY averted from a societal perspective. CTX was less effective than the 3-IPT High Strategy when more than 18% of women stopped taking CTX during the pregnancy.\n\nIn malarious regions of sub-Saharan Africa, daily CTX for HIV-infected pregnant women regardless of CD4 cell count is cost-effective compared with 3-dose IPTp-SP as long as more than 82% of women adhere to daily dosing.",
+      "evidence_sentences": [
+        "Malaria is a leading cause of morbidity and mortality among HIV-infected pregnant women in sub-Saharan Africa: at least 1 million pregnancies among HIV-infected women are complicated by co-infection with malaria annually, leading to increased risk of premature delivery, severe anaemia, delivery of low birth weight infants, and maternal death.",
+        "A microsimulation model of malaria and HIV among pregnant women in five malaria-endemic countries in sub-Saharan Africa was constructed.",
+        "In malarious regions of sub-Saharan Africa, daily CTX for HIV-infected pregnant women regardless of CD4 cell count is cost-effective compared with 3-dose IPTp-SP as long as more than 82% of women adhere to daily dosing."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Sung Eun Choi",
+        "Margaret L Brandeau",
+        "Eran Bendavid"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28985732/"
+    },
+    {
+      "pmid": "1492937",
+      "title": "Seroprevalence of HIV infection in rural South Africa.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "To establish the prevalence of HIV infection in rural South Africa and to investigate demographic factors that influence this prevalence.",
+        "An anonymous HIV seroprevalence survey was performed in conjunction with a population-based malaria surveillance programme.",
+        "The rural area of northern Natal/KwaZulu, South Africa.",
+        "A total of 5023 black African participants were recruited by malaria surveillance agents during house-to-house visits; each house in an endemic malaria area is visited approximately once every 6 weeks. Participants included 4044 healthy and 979 febrile individuals (i.e., suspected of having malaria).",
+        "HIV-1 and HIV-2 serological status, degree of mobility, age and sex.",
+        "Sixty of the 5023 blood specimens were confirmed to be HIV-1-antibody-positive by Western blot, an overall prevalence of 1.2% (95% confidence interval, 0.9-1.5). None of the specimens was positive for HIV-2 antibodies. After adjusting for age, presence of fever and migrancy, women had a 3.2-fold higher prevalence of HIV-1 infection than men. HIV-1 infection was approximately three times more common among subjects who had changed their place of residence recently (2.9 versus 1.0%, P < 0.01).",
+        "The prevalence of HIV-1 infection is higher among women than men resident in rural Natal/KwaZulu, South Africa. This is at least in part the result of oscillatory migration, particularly of men who work in urban areas but have families and homes in rural areas. Migration is associated with a higher prevalence of HIV-1 infection, suggesting that improving social conditions so that families are not separated and become settled in their communities is one way to help reduce the spread of HIV-1."
+      ],
+      "abstract": "To establish the prevalence of HIV infection in rural South Africa and to investigate demographic factors that influence this prevalence.\n\nAn anonymous HIV seroprevalence survey was performed in conjunction with a population-based malaria surveillance programme.\n\nThe rural area of northern Natal/KwaZulu, South Africa.\n\nA total of 5023 black African participants were recruited by malaria surveillance agents during house-to-house visits; each house in an endemic malaria area is visited approximately once every 6 weeks. Participants included 4044 healthy and 979 febrile individuals (i.e., suspected of having malaria).\n\nHIV-1 and HIV-2 serological status, degree of mobility, age and sex.\n\nSixty of the 5023 blood specimens were confirmed to be HIV-1-antibody-positive by Western blot, an overall prevalence of 1.2% (95% confidence interval, 0.9-1.5). None of the specimens was positive for HIV-2 antibodies. After adjusting for age, presence of fever and migrancy, women had a 3.2-fold higher prevalence of HIV-1 infection than men. HIV-1 infection was approximately three times more common among subjects who had changed their place of residence recently (2.9 versus 1.0%, P < 0.01).\n\nThe prevalence of HIV-1 infection is higher among women than men resident in rural Natal/KwaZulu, South Africa. This is at least in part the result of oscillatory migration, particularly of men who work in urban areas but have families and homes in rural areas. Migration is associated with a higher prevalence of HIV-1 infection, suggesting that improving social conditions so that families are not separated and become settled in their communities is one way to help reduce the spread of HIV-1.",
+      "evidence_sentences": [
+        "To establish the prevalence of HIV infection in rural South Africa and to investigate demographic factors that influence this prevalence.",
+        "The prevalence of HIV-1 infection is higher among women than men resident in rural Natal/KwaZulu, South Africa.",
+        "An anonymous HIV seroprevalence survey was performed in conjunction with a population-based malaria surveillance programme."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Q Abdool Karim",
+        "S S Abdool Karim",
+        "B Singh",
+        "R Short",
+        "S Ngxongo"
+      ],
+      "year": "1992",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/1492937/"
+    },
+    {
+      "pmid": "40380136",
+      "title": "Efficacy of artemisinin-based combination therapy (ACT) in people living with HIV (PLHIV) diagnosed with uncomplicated Plasmodium falciparum malaria in Africa: a WWARN systematic review.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Africa bears the highest double burden of HIV and malaria worldwide. In 2023, an estimated 25.9 million people were living with HIV (PLHIV), and 246 million malaria cases were diagnosed in Africa. Malaria patients co-infected with HIV are considered at a higher risk of failing malaria treatment, according to the World Health Organization (WHO) guidelines. This systematic literature review aims to assess the treatment outcomes following artemisinin-based combination therapy (ACT) in PLHIV.",
+        "The literature search was conducted up to April 2022 in the following databases: MEDLINE, EMBASE, Web of Science, Cochrane Central, WHO Global Index Medicus, Clinicaltrials.gov, and the WorldWide Antimalarial Resistance Network (WWARN) Clinical Trial Library. Studies describing any malaria treatment outcomes or anti-malarial drug exposure in PLHIV treated for uncomplicated Plasmodium falciparum malaria infection were eligible for inclusion.",
+        "A total of 26 articles describing 19 studies conducted between 2003 and 2017 in six countries were included in this review; it represented 2850 malaria episodes in PLHIV across various transmission settings. The most studied artemisinin-based combination was artemether-lumefantrine (in 16 studies). PLHIV were treated with various antiretroviral therapy (ART) regimens, namely efavirenz (EFV), nevirapine (NVP), atazanavir-ritonavir (ATVr), lopinavir-ritonavir (LPV/r), and/or on prophylaxis with trimethoprim-sulfamethoxazole (TS), or were untreated (in 3 studies). There was no evidence of an increased risk of recrudescence in PLHIV compared to those without HIV. When treated with artemether-lumefantrine, PLHIV receiving LPV/r had a lower risk of malaria recurrence compared to PLHIV on NVP-based or EFV-based ART, or those without HIV. LPV/r increased lumefantrine exposure and EFV-treated patients had a reduced exposure to both artemether and lumefantrine; NVP reduced artemether exposure only.",
+        "Limited data on ACT outcomes or drug exposure in PLHIV in Africa remains a reality to date, and the effect of antivirals appears inconsistent in the literature. Considering the heterogeneity in study designs, these review's findings support conducting an individual patient data meta-analysis to explore the impact of antiretroviral therapy on anti-malarial treatment.",
+        "The protocol for the original search was published on PROSPERO with registration number CRD42018089860."
+      ],
+      "abstract": "Africa bears the highest double burden of HIV and malaria worldwide. In 2023, an estimated 25.9 million people were living with HIV (PLHIV), and 246 million malaria cases were diagnosed in Africa. Malaria patients co-infected with HIV are considered at a higher risk of failing malaria treatment, according to the World Health Organization (WHO) guidelines. This systematic literature review aims to assess the treatment outcomes following artemisinin-based combination therapy (ACT) in PLHIV.\n\nThe literature search was conducted up to April 2022 in the following databases: MEDLINE, EMBASE, Web of Science, Cochrane Central, WHO Global Index Medicus, Clinicaltrials.gov, and the WorldWide Antimalarial Resistance Network (WWARN) Clinical Trial Library. Studies describing any malaria treatment outcomes or anti-malarial drug exposure in PLHIV treated for uncomplicated Plasmodium falciparum malaria infection were eligible for inclusion.\n\nA total of 26 articles describing 19 studies conducted between 2003 and 2017 in six countries were included in this review; it represented 2850 malaria episodes in PLHIV across various transmission settings. The most studied artemisinin-based combination was artemether-lumefantrine (in 16 studies). PLHIV were treated with various antiretroviral therapy (ART) regimens, namely efavirenz (EFV), nevirapine (NVP), atazanavir-ritonavir (ATVr), lopinavir-ritonavir (LPV/r), and/or on prophylaxis with trimethoprim-sulfamethoxazole (TS), or were untreated (in 3 studies). There was no evidence of an increased risk of recrudescence in PLHIV compared to those without HIV. When treated with artemether-lumefantrine, PLHIV receiving LPV/r had a lower risk of malaria recurrence compared to PLHIV on NVP-based or EFV-based ART, or those without HIV. LPV/r increased lumefantrine exposure and EFV-treated patients had a reduced exposure to both artemether and lumefantrine; NVP reduced artemether exposure only.\n\nLimited data on ACT outcomes or drug exposure in PLHIV in Africa remains a reality to date, and the effect of antivirals appears inconsistent in the literature. Considering the heterogeneity in study designs, these review's findings support conducting an individual patient data meta-analysis to explore the impact of antiretroviral therapy on anti-malarial treatment.\n\nThe protocol for the original search was published on PROSPERO with registration number CRD42018089860.",
+      "evidence_sentences": [
+        "In 2023, an estimated 25.9 million people were living with HIV (PLHIV), and 246 million malaria cases were diagnosed in Africa.",
+        "Africa bears the highest double burden of HIV and malaria worldwide.",
+        "A total of 26 articles describing 19 studies conducted between 2003 and 2017 in six countries were included in this review; it represented 2850 malaria episodes in PLHIV across various transmission settings."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Abena Takyi",
+        "Aboubakar Soma",
+        "Marianna Przybylska",
+        "Eli Harriss",
+        "Karen I Barnes",
+        "Prabin Dahal",
+        "Philippe J Guérin",
+        "Kasia Stepniewska",
+        "Verena I Carrara"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40380136/"
+    },
+    {
+      "pmid": "38117744",
+      "title": "Corruption is making people sick.",
+      "journal": "African journal of AIDS research : AJAR",
+      "abstract_sections": [
+        "According to Transparency International, of the US$7.5 trillion spent globally on health each year, US$500 billion is lost to corruption.1 This article deals with the topic of corruption in the health sector in sub-Saharan Africa with a focus on how it affects persons living with HIV and their families. It begins with a definition of corruption and outlines the types of activities, people and institutions that fall within that definition in the context of HIV/AIDS. Examples are provided of what happens in practice and the types of persons (in terms of their societal roles) who yield to corruption, and how and why they commit it. The effects of corruption in health and in the fight against HIV/AIDS are then considered, drawing on published research on the costs to institutions and society. For example, HIV prevalence among women is higher than men, yet their reliance on health services plagued by corruption makes them vulnerable to abuse, blocking access to vital contraceptive, HIV testing, and reproductive and child health services. Attention is then focused on the factors that encourage the adoption of corrupt practices and what approaches have been taken to try to counter them. This includes a review and analysis of the steps that have been taken to strengthen compliance, governance and accountability and why attempts to deal with corruption have met with little success. This article suggests a new approach - harnessing digitalisation - to combat corruption more quickly and effectively, pointing out that corruption is both a major factor contributing to inefficiency and is harming peoples' health. This article aims to raise interest and renew efforts in fighting corruption in health."
+      ],
+      "abstract": "According to Transparency International, of the US$7.5 trillion spent globally on health each year, US$500 billion is lost to corruption.1 This article deals with the topic of corruption in the health sector in sub-Saharan Africa with a focus on how it affects persons living with HIV and their families. It begins with a definition of corruption and outlines the types of activities, people and institutions that fall within that definition in the context of HIV/AIDS. Examples are provided of what happens in practice and the types of persons (in terms of their societal roles) who yield to corruption, and how and why they commit it. The effects of corruption in health and in the fight against HIV/AIDS are then considered, drawing on published research on the costs to institutions and society. For example, HIV prevalence among women is higher than men, yet their reliance on health services plagued by corruption makes them vulnerable to abuse, blocking access to vital contraceptive, HIV testing, and reproductive and child health services. Attention is then focused on the factors that encourage the adoption of corrupt practices and what approaches have been taken to try to counter them. This includes a review and analysis of the steps that have been taken to strengthen compliance, governance and accountability and why attempts to deal with corruption have met with little success. This article suggests a new approach - harnessing digitalisation - to combat corruption more quickly and effectively, pointing out that corruption is both a major factor contributing to inefficiency and is harming peoples' health. This article aims to raise interest and renew efforts in fighting corruption in health.",
+      "evidence_sentences": [
+        "According to Transparency International, of the US$7.5 trillion spent globally on health each year, US$500 billion is lost to corruption.1 This article deals with the topic of corruption in the health sector in sub-Saharan Africa with a focus on how it affects persons living with HIV and their families.",
+        "For example, HIV prevalence among women is higher than men, yet their reliance on health services plagued by corruption makes them vulnerable to abuse, blocking access to vital contraceptive, HIV testing, and reproductive and child health services.",
+        "The effects of corruption in health and in the fight against HIV/AIDS are then considered, drawing on published research on the costs to institutions and society."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Arlette Campbell White",
+        "Oliver Charles Campbell White"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38117744/"
+    },
+    {
+      "pmid": "2885644",
+      "title": "AIDS in Africa.",
+      "journal": "Lancet (London, England)",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Editorial"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [],
+      "year": "1987",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/2885644/"
+    },
+    {
+      "pmid": "32600355",
+      "title": "Associations of malaria, HIV, and coinfection, with anemia in pregnancy in sub-Saharan Africa: a population-based cross-sectional study.",
+      "journal": "BMC pregnancy and childbirth",
+      "abstract_sections": [
+        "Malaria and HIV are common infections in Africa and cause substantial morbidity and mortality in pregnant women. We aimed to assess the association of malaria with anemia in pregnant women and to explore the joint effects of malaria and HIV infection on anemia in pregnant women.",
+        "We used nationally representative, cross-sectional demographic and health surveys (DHS) that were conducted between 2012 and 2017 across 7 countries of sub-Saharan Africa (Burundi, the Democratic Republic of the Congo, Gambia, Ghana, Mali, Senegal and Togo). The outcome variables were anemia (defined as a hemoglobin concentration < 110 g/L), and hemoglobin concentration on a continuous scale, in pregnant women at the time of the interview. We used generalized linear mixed-effects models to account for the nested structure of the data. We adjusted models for individual covariates, with random effects of the primary sampling unit nested within a country.",
+        "A total of 947 pregnant women, ages, 15-49 y, were analyzed. Prevalence of malaria only, HIV only, and malaria- HIV coinfection in pregnant women was 31% (95% CI: 28.5 to 34.5%, n = 293), 1.3% (95% CI: 0.77 to 2.4%, n = 13) and 0.52% (95% CI: 0.02 to 1.3%, n = 5) respectively. Overall prevalence of anemia was 48.3% (95% CI: 45.1 to 51.5%). The anemia prevalence in pregnant women with malaria infection only was 56.0% (95% CI: 50.1 to 61.7%); HIV infection only, 62.5% (95% CI: 25.9 to 89.8%); malaria- HIV coinfection, 60.0 (95% CI: 17.0-92.7%) and without either infection, 44.6% (95% CI: 40.7 to 48.6%). In the fully adjusted models, malaria infection was associated with 27% higher prevalence of anemia (95% CI of prevalence ratio: 1.12 to 1.45; p = 0.004), and 3.4 g/L lower hemoglobin concentration (95% CI: - 5.01 to - 1.79; p = 0.03) compared to uninfected pregnant women. The prevalence of HIV infection and malaria-HIV coinfection was too low to allow meaningful analysis of their association with anemia or hemoglobin concentration.",
+        "Malaria was associated with an increased prevalence of anemia during pregnancy."
+      ],
+      "abstract": "Malaria and HIV are common infections in Africa and cause substantial morbidity and mortality in pregnant women. We aimed to assess the association of malaria with anemia in pregnant women and to explore the joint effects of malaria and HIV infection on anemia in pregnant women.\n\nWe used nationally representative, cross-sectional demographic and health surveys (DHS) that were conducted between 2012 and 2017 across 7 countries of sub-Saharan Africa (Burundi, the Democratic Republic of the Congo, Gambia, Ghana, Mali, Senegal and Togo). The outcome variables were anemia (defined as a hemoglobin concentration < 110 g/L), and hemoglobin concentration on a continuous scale, in pregnant women at the time of the interview. We used generalized linear mixed-effects models to account for the nested structure of the data. We adjusted models for individual covariates, with random effects of the primary sampling unit nested within a country.\n\nA total of 947 pregnant women, ages, 15-49 y, were analyzed. Prevalence of malaria only, HIV only, and malaria- HIV coinfection in pregnant women was 31% (95% CI: 28.5 to 34.5%, n = 293), 1.3% (95% CI: 0.77 to 2.4%, n = 13) and 0.52% (95% CI: 0.02 to 1.3%, n = 5) respectively. Overall prevalence of anemia was 48.3% (95% CI: 45.1 to 51.5%). The anemia prevalence in pregnant women with malaria infection only was 56.0% (95% CI: 50.1 to 61.7%); HIV infection only, 62.5% (95% CI: 25.9 to 89.8%); malaria- HIV coinfection, 60.0 (95% CI: 17.0-92.7%) and without either infection, 44.6% (95% CI: 40.7 to 48.6%). In the fully adjusted models, malaria infection was associated with 27% higher prevalence of anemia (95% CI of prevalence ratio: 1.12 to 1.45; p = 0.004), and 3.4 g/L lower hemoglobin concentration (95% CI: - 5.01 to - 1.79; p = 0.03) compared to uninfected pregnant women. The prevalence of HIV infection and malaria-HIV coinfection was too low to allow meaningful analysis of their association with anemia or hemoglobin concentration.\n\nMalaria was associated with an increased prevalence of anemia during pregnancy.",
+      "evidence_sentences": [
+        "The anemia prevalence in pregnant women with malaria infection only was 56.0% (95% CI: 50.1 to 61.7%); HIV infection only, 62.5% (95% CI: 25.9 to 89.8%); malaria- HIV coinfection, 60.0 (95% CI: 17.0-92.7%) and without either infection, 44.6% (95% CI: 40.7 to 48.6%).",
+        "Prevalence of malaria only, HIV only, and malaria- HIV coinfection in pregnant women was 31% (95% CI: 28.5 to 34.5%, n = 293), 1.3% (95% CI: 0.77 to 2.4%, n = 13) and 0.52% (95% CI: 0.02 to 1.3%, n = 5) respectively.",
+        "The prevalence of HIV infection and malaria-HIV coinfection was too low to allow meaningful analysis of their association with anemia or hemoglobin concentration."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Paddy Ssentongo",
+        "Djibril M Ba",
+        "Anna E Ssentongo",
+        "Jessica E Ericson",
+        "Ming Wang",
+        "Duanping Liao",
+        "Vernon M Chinchilli"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32600355/"
+    },
+    {
+      "pmid": "35341998",
+      "title": "Tuberculosis, HIV/AIDS and Malaria Health Services in sub-Saharan Africa - A Situation Analysis of the Disruptions and Impact of the COVID-19 Pandemic.",
+      "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "abstract_sections": [
+        "The unprecedented and ongoing COVID-19 pandemic has exposed weaknesses in African countries' health systems. The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.",
+        "In this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa.",
+        "The COVID-19 pandemic resulted in disruptions of routine health services and diversion of already limited available resources in sub-Saharan Africa. As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets. The extent of the disruption is yet to be fully quantified at country level as most data available is from modelling estimates before and during the pandemic.",
+        "Accurate country-level data is required to convince donors and governments to invest more into revamping these health services and help prepare for managing future pandemics without disruption of routine services. Increasing government expenditure on health is a critical part of Africa's economic policy. Strengthening health systems at various levels to overcome the negative impacts of COVID-19, and preparing for future epidemics will require strong visionary political leadership. Innovations in service delivery and technological adaptations are required as countries aim to limit disruptions to routine services."
+      ],
+      "abstract": "The unprecedented and ongoing COVID-19 pandemic has exposed weaknesses in African countries' health systems. The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.\n\nIn this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa.\n\nThe COVID-19 pandemic resulted in disruptions of routine health services and diversion of already limited available resources in sub-Saharan Africa. As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets. The extent of the disruption is yet to be fully quantified at country level as most data available is from modelling estimates before and during the pandemic.\n\nAccurate country-level data is required to convince donors and governments to invest more into revamping these health services and help prepare for managing future pandemics without disruption of routine services. Increasing government expenditure on health is a critical part of Africa's economic policy. Strengthening health systems at various levels to overcome the negative impacts of COVID-19, and preparing for future epidemics will require strong visionary political leadership. Innovations in service delivery and technological adaptations are required as countries aim to limit disruptions to routine services.",
+      "evidence_sentences": [
+        "In this article, we reflect on the COVID-19 related disruptions on the Tuberculosis, HIV/AIDS and Malaria routine health services across Africa.",
+        "The impact of shifted focus on COVID-19 for the past 2 years on routine health services, especially those for the epidemics of Tuberculosis, HIV/AIDS and Malaria, have been dramatic in both quantity and quality.",
+        "As a result, disease programs like TB, malaria and HIV have recorded gaps in prevention and treatment with the prospects of reversing gains made towards meeting global targets."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Pascalina Chanda-Kapata",
+        "Francine Ntoumi",
+        "Nathan Kapata",
+        "Patrick Lungu",
+        "Luchenga Adam Mucheleng'anga",
+        "Jeremiah Chakaya",
+        "John Tembo",
+        "Cordelia Himwaze",
+        "Rashid Ansumana",
+        "Danny Asogun",
+        "Sayoki Mfinanga",
+        "Peter Nyasulu",
+        "Peter Mwaba",
+        "Dorothy Yeboah-Manu",
+        "Alimuddin Zumla",
+        "Jean B Nachega"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35341998/"
+    },
+    {
+      "pmid": "39632050",
+      "title": "HIV incidence and factors associated with HIV risk among people who inject drugs engaged with harm-reduction programmes in four provinces in South Africa: a retrospective cohort study.",
+      "journal": "The lancet. HIV",
+      "abstract_sections": [
+        "HIV incidence among people who inject drugs in South Africa has never been estimated. We aimed to estimate HIV incidence and associations with risk and protective factors among people who inject drugs engaged with harm-reduction services.",
+        "For this retrospective cohort study we used programmatic data collected from April 1, 2019, to March 30, 2022, by the Networking HIV and AIDS Community of South Africa, which offers harm-reduction services and HIV testing to people who inject drugs. During this 3-year period, services were delivered through drop-in centres and outreach in four South African provinces: Gauteng, KwaZulu-Natal, Western Cape, and Eastern Cape. Our cohort comprised people who inject drugs who did not self-report being HIV positive, were HIV negative at first testing, and had at least one follow-up test. Data were collected by outreach teams. We estimated HIV incidence, assuming seroconversions occurred at the midpoint between the last negative test and first positive test. We assessed associations between HIV seroconversion risk and several factors with Cox regression models, including sociodemographic characteristics, primary drugs used, uptake of interventions (ie, number of harm-reduction packs and opioid agonist treatment [OAT]), and HIV testing interval.",
+        "Of 31 182 people who inject drugs accessing harm-reduction services, 20 955 (including 3409 self-reporting being HIV positive) were not tested for HIV. Of 10 227 people who tested at least once, 8152 were HIV negative at first test and of these, 2402 had at least two tests and formed the study cohort. Overall, 283 (11·8%) people who inject drugs acquired HIV over 2306·1 person-years. HIV incidence was higher in Gauteng (16·7 per 100 person-years; 95% CI 14·5-19·1) and KwaZulu-Natal (14·9 per 100 person-years; 11·3-19·3), than in the Eastern Cape (5·0 per 100 person-years; 2·3-9·6) and Western Cape (3·2 per 100 person-years; 1·9-4·9). In multivariable Cox models, HIV acquisition risk varied by race, primary drugs used, and interval between HIV tests. Additionally, people who injected drugs and received OAT in the past year had lower HIV risk (adjusted hazard ratio 0·48; 95% CI 0·22-1·03) than people who did not receive OAT, although the 95% CI was wide and crossed the null.",
+        "Our study highlights a pressing need for scale-up of HIV prevention strategies, particularly opioid agonist treatment, for people who inject drugs in South Africa. Dedicated investments are needed to develop monitoring systems for HIV incidence, risk behaviours, and uptake of interventions to ensure effective and equitable programmes.",
+        "Wellcome Trust, Canadian Institutes of Health Research, and Global Fund to Fight AIDS, Tuberculosis and Malaria."
+      ],
+      "abstract": "HIV incidence among people who inject drugs in South Africa has never been estimated. We aimed to estimate HIV incidence and associations with risk and protective factors among people who inject drugs engaged with harm-reduction services.\n\nFor this retrospective cohort study we used programmatic data collected from April 1, 2019, to March 30, 2022, by the Networking HIV and AIDS Community of South Africa, which offers harm-reduction services and HIV testing to people who inject drugs. During this 3-year period, services were delivered through drop-in centres and outreach in four South African provinces: Gauteng, KwaZulu-Natal, Western Cape, and Eastern Cape. Our cohort comprised people who inject drugs who did not self-report being HIV positive, were HIV negative at first testing, and had at least one follow-up test. Data were collected by outreach teams. We estimated HIV incidence, assuming seroconversions occurred at the midpoint between the last negative test and first positive test. We assessed associations between HIV seroconversion risk and several factors with Cox regression models, including sociodemographic characteristics, primary drugs used, uptake of interventions (ie, number of harm-reduction packs and opioid agonist treatment [OAT]), and HIV testing interval.\n\nOf 31 182 people who inject drugs accessing harm-reduction services, 20 955 (including 3409 self-reporting being HIV positive) were not tested for HIV. Of 10 227 people who tested at least once, 8152 were HIV negative at first test and of these, 2402 had at least two tests and formed the study cohort. Overall, 283 (11·8%) people who inject drugs acquired HIV over 2306·1 person-years. HIV incidence was higher in Gauteng (16·7 per 100 person-years; 95% CI 14·5-19·1) and KwaZulu-Natal (14·9 per 100 person-years; 11·3-19·3), than in the Eastern Cape (5·0 per 100 person-years; 2·3-9·6) and Western Cape (3·2 per 100 person-years; 1·9-4·9). In multivariable Cox models, HIV acquisition risk varied by race, primary drugs used, and interval between HIV tests. Additionally, people who injected drugs and received OAT in the past year had lower HIV risk (adjusted hazard ratio 0·48; 95% CI 0·22-1·03) than people who did not receive OAT, although the 95% CI was wide and crossed the null.\n\nOur study highlights a pressing need for scale-up of HIV prevention strategies, particularly opioid agonist treatment, for people who inject drugs in South Africa. Dedicated investments are needed to develop monitoring systems for HIV incidence, risk behaviours, and uptake of interventions to ensure effective and equitable programmes.\n\nWellcome Trust, Canadian Institutes of Health Research, and Global Fund to Fight AIDS, Tuberculosis and Malaria.",
+      "evidence_sentences": [
+        "For this retrospective cohort study we used programmatic data collected from April 1, 2019, to March 30, 2022, by the Networking HIV and AIDS Community of South Africa, which offers harm-reduction services and HIV testing to people who inject drugs.",
+        "Our study highlights a pressing need for scale-up of HIV prevention strategies, particularly opioid agonist treatment, for people who inject drugs in South Africa.",
+        "HIV incidence among people who inject drugs in South Africa has never been estimated."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Adelina Artenie",
+        "Rachel Perry",
+        "Memory Mahaso",
+        "Thenjiwe Jankie",
+        "Anna L McNaughton",
+        "Jack Stone",
+        "Peter Vickerman",
+        "Andrew Scheibe"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39632050/"
+    },
+    {
+      "pmid": "37494044",
+      "title": "Causes of Death Among Infants and Children in the Child Health and Mortality Prevention Surveillance (CHAMPS) Network.",
+      "journal": "JAMA network open",
+      "abstract_sections": [
+        "The number of deaths of children younger than 5 years has been steadily decreasing worldwide, from more than 17 million annual deaths in the 1970s to an estimated 5.3 million in 2019 (with 2.8 million deaths occurring in those aged 1-59 months [53% of all deaths in children aged <5 years]). More detailed characterization of childhood deaths could inform interventions to improve child survival.",
+        "To describe causes of postneonatal child deaths across 7 mortality surveillance sentinel sites in Africa and Asia.",
+        "The Child Health and Mortality Prevention Surveillance (CHAMPS) Network conducts childhood mortality surveillance in sub-Saharan Africa and South Asia using innovative postmortem minimally invasive tissue sampling (MITS). In this cross-sectional study, MITS was conducted in deceased children aged 1 to 59 months at 7 sites in sub-Saharan Africa and South Asia from December 3, 2016, to December 3, 2020. Data analysis was conducted between October and November 2021.",
+        "The expert panel attributed underlying, intermediate, and immediate conditions in the chain of events leading to death, based on histopathologic analysis, microbiological diagnostics, clinical data, and verbal autopsies.",
+        "In this study, MITS was performed in 632 deceased children (mean [SD] age at death, 1.3 [0.3] years; 342 [54.1%] male). The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]). When considering immediate causes only, sepsis (191 [36.7%]) and LRTI (129 [24.8%]) were the 2 dominant causes. An infection was present in the causal chain in 549 of 632 deaths (86.9%); pathogens most frequently contributing to infectious deaths included Klebsiella pneumoniae (155 of 549 infectious deaths [28.2%]; 127 [81.9%] considered nosocomial), Plasmodium falciparum (122 of 549 [22.2%]), and Streptococcus pneumoniae (109 of 549 [19.9%]). Other organisms, such as cytomegalovirus (57 [10.4%]) and Acinetobacter baumannii (39 [7.1%]; 35 of 39 [89.7%] considered nosocomial), also played important roles. For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI. Expert panels considered 494 of 632 deaths (78.2%) preventable and 26 of 632 deaths (4.1%) preventable under certain conditions.",
+        "In this cross-sectional study investigating causes of child mortality in the CHAMPS Network, results indicate that, in these high-mortality settings, infectious diseases continue to cause most deaths in infants and children, often in conjunction with malnutrition. These results also highlight opportunities for action to prevent deaths and reveal common interaction of various causes in the path toward death."
+      ],
+      "abstract": "The number of deaths of children younger than 5 years has been steadily decreasing worldwide, from more than 17 million annual deaths in the 1970s to an estimated 5.3 million in 2019 (with 2.8 million deaths occurring in those aged 1-59 months [53% of all deaths in children aged <5 years]). More detailed characterization of childhood deaths could inform interventions to improve child survival.\n\nTo describe causes of postneonatal child deaths across 7 mortality surveillance sentinel sites in Africa and Asia.\n\nThe Child Health and Mortality Prevention Surveillance (CHAMPS) Network conducts childhood mortality surveillance in sub-Saharan Africa and South Asia using innovative postmortem minimally invasive tissue sampling (MITS). In this cross-sectional study, MITS was conducted in deceased children aged 1 to 59 months at 7 sites in sub-Saharan Africa and South Asia from December 3, 2016, to December 3, 2020. Data analysis was conducted between October and November 2021.\n\nThe expert panel attributed underlying, intermediate, and immediate conditions in the chain of events leading to death, based on histopathologic analysis, microbiological diagnostics, clinical data, and verbal autopsies.\n\nIn this study, MITS was performed in 632 deceased children (mean [SD] age at death, 1.3 [0.3] years; 342 [54.1%] male). The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]). When considering immediate causes only, sepsis (191 [36.7%]) and LRTI (129 [24.8%]) were the 2 dominant causes. An infection was present in the causal chain in 549 of 632 deaths (86.9%); pathogens most frequently contributing to infectious deaths included Klebsiella pneumoniae (155 of 549 infectious deaths [28.2%]; 127 [81.9%] considered nosocomial), Plasmodium falciparum (122 of 549 [22.2%]), and Streptococcus pneumoniae (109 of 549 [19.9%]). Other organisms, such as cytomegalovirus (57 [10.4%]) and Acinetobacter baumannii (39 [7.1%]; 35 of 39 [89.7%] considered nosocomial), also played important roles. For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI. Expert panels considered 494 of 632 deaths (78.2%) preventable and 26 of 632 deaths (4.1%) preventable under certain conditions.\n\nIn this cross-sectional study investigating causes of child mortality in the CHAMPS Network, results indicate that, in these high-mortality settings, infectious diseases continue to cause most deaths in infants and children, often in conjunction with malnutrition. These results also highlight opportunities for action to prevent deaths and reveal common interaction of various causes in the path toward death.",
+      "evidence_sentences": [
+        "The 6 most common underlying causes of death were malnutrition (104 [16.5%]), HIV (75 [11.9%]), malaria (71 [11.2%]), congenital birth defects (64 [10.1%]), lower respiratory tract infections (LRTIs; 53 [8.4%]), and diarrheal diseases (46 [7.2%]).",
+        "For the top underlying causes of death, the median number of conditions in the chain of events leading to death was 3 for malnutrition, 3 for HIV, 1 for malaria, 3 for congenital birth defects, and 1 for LRTI.",
+        "In this cross-sectional study, MITS was conducted in deceased children aged 1 to 59 months at 7 sites in sub-Saharan Africa and South Asia from December 3, 2016, to December 3, 2020."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Quique Bassat",
+        "Dianna M Blau",
+        "Ikechukwu Udo Ogbuanu",
+        "Solomon Samura",
+        "Erick Kaluma",
+        "Ima-Abasi Bassey",
+        "Samba Sow",
+        "Adama Mamby Keita",
+        "Milagritos D Tapia",
+        "Ashka Mehta",
+        "Karen L Kotloff",
+        "Afruna Rahman",
+        "Kazi Munisul Islam",
+        "Muntasir Alam",
+        "Shams El Arifeen",
+        "Emily S Gurley",
+        "Vicky Baillie",
+        "Portia Mutevedzi",
+        "Sana Mahtab",
+        "Bukiwe Nana Thwala",
+        "Beth A Tippett Barr",
+        "Dickens Onyango",
+        "Victor Akelo",
+        "Emily Rogena",
+        "Peter Onyango",
+        "Richard Omore",
+        "Inacio Mandomando",
+        "Sara Ajanovic",
+        "Rosauro Varo",
+        "Antonio Sitoe",
+        "Miquel Duran-Frigola",
+        "Nega Assefa",
+        "J Anthony G Scott",
+        "Lola Madrid",
+        "Tseyon Tesfaye",
+        "Yadeta Dessie",
+        "Zachary J Madewell",
+        "Robert F Breiman",
+        "Cynthia G Whitney",
+        "Shabir A Madhi",
+        "Child Health and Mortality Prevention Surveillance (CHAMPS) Network"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37494044/"
+    },
+    {
+      "pmid": "15090809",
+      "title": "HIV infection as a cofactor for severe falciparum malaria in adults living in a region of unstable malaria transmission in South Africa.",
+      "journal": "AIDS (London, England)",
+      "abstract_sections": [
+        "Malaria and HIV are two of the most important diseases facing Africa. It remains uncertain whether HIV-related immunosuppression adversely affects the clinical outcome of malaria.",
+        "To measure the association between HIV status and outcome from malarial infection in adults living in a region of unstable malaria transmission.",
+        "Observational cohort study.",
+        "Four community clinics and the Government hospital in Hlabisa district, KwaZulu-Natal, South Africa; a region of high HIV prevalence.",
+        "Consecutive febrile adults were screened for malaria with a rapid antigen test. Those with malaria provided blood spots for HIV testing, a thick blood film for confirmation of malaria and clinical data. Outcome was established following management according to South African government guidelines.",
+        "Malaria was microscopically confirmed in 613. HIV prevalence was 29.9% (180/613); 110 (18%) had severe/complicated malaria and 28 (4.6%) died. HIV-infected patients were more likely to vomit or be confused and were more likely to be admitted to hospital (P = 0.05). In patients admitted to hospital, HIV infection was associated with severe/complicated malaria [adjusted odds ratio (OR) 2.3; 95% confidence interval (CI), 1.4-3.9] and with death (OR 7.5; 95% CI, 2.2-25.1). Acidosis and coma were also strong independent risk factors for death.",
+        "HIV infection had an unexpectedly large association with the outcome of falciparum malaria in a region of unstable transmission. Both diseases are widespread in Africa and these results add to the body of knowledge suggesting an interaction of significant public health importance between HIV and malaria in Africa."
+      ],
+      "abstract": "Malaria and HIV are two of the most important diseases facing Africa. It remains uncertain whether HIV-related immunosuppression adversely affects the clinical outcome of malaria.\n\nTo measure the association between HIV status and outcome from malarial infection in adults living in a region of unstable malaria transmission.\n\nObservational cohort study.\n\nFour community clinics and the Government hospital in Hlabisa district, KwaZulu-Natal, South Africa; a region of high HIV prevalence.\n\nConsecutive febrile adults were screened for malaria with a rapid antigen test. Those with malaria provided blood spots for HIV testing, a thick blood film for confirmation of malaria and clinical data. Outcome was established following management according to South African government guidelines.\n\nMalaria was microscopically confirmed in 613. HIV prevalence was 29.9% (180/613); 110 (18%) had severe/complicated malaria and 28 (4.6%) died. HIV-infected patients were more likely to vomit or be confused and were more likely to be admitted to hospital (P = 0.05). In patients admitted to hospital, HIV infection was associated with severe/complicated malaria [adjusted odds ratio (OR) 2.3; 95% confidence interval (CI), 1.4-3.9] and with death (OR 7.5; 95% CI, 2.2-25.1). Acidosis and coma were also strong independent risk factors for death.\n\nHIV infection had an unexpectedly large association with the outcome of falciparum malaria in a region of unstable transmission. Both diseases are widespread in Africa and these results add to the body of knowledge suggesting an interaction of significant public health importance between HIV and malaria in Africa.",
+      "evidence_sentences": [
+        "Four community clinics and the Government hospital in Hlabisa district, KwaZulu-Natal, South Africa; a region of high HIV prevalence.",
+        "Both diseases are widespread in Africa and these results add to the body of knowledge suggesting an interaction of significant public health importance between HIV and malaria in Africa.",
+        "HIV prevalence was 29.9% (180/613); 110 (18%) had severe/complicated malaria and 28 (4.6%) died."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Kate Grimwade",
+        "Neil French",
+        "Daniel D Mbatha",
+        "Dawn D Zungu",
+        "Martin Dedicoat",
+        "Charles F Gilks"
+      ],
+      "year": "2004",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15090809/"
+    },
+    {
+      "pmid": "25864399",
+      "title": "High prevalence of HIV and malaria co-infection in urban Douala, Cameroon.",
+      "journal": "African journal of AIDS research : AJAR",
+      "abstract_sections": [
+        "A prospective cohort study was undertaken among 684 adult hospital attendees in Douala, Littoral Province, Cameroon. The objectives were to determine the prevalence of HIV/malaria co-infection and to determine and compare the prevalence of some parasitological, haematological and clinical parameters between co-infection and mono-infection with HIV or malaria in the study population. Information was collected on HIV serostatus, and malaria parasitaemia was assessed from blood smears by microscopy. Haemoglobin concentration was measured using the STANBIO STAT-Site MHgb Test System(®), and CD4 cell counts were obtained using the Partec CyFlow Counter(®). The prevalence of HIV/malaria co-infection in the sample was 29.4%. Geometric mean parasitaemia was significantly higher in co-infected patients than in malaria patients (9 868 parasites/μL blood versus 6 134 parasites/μL blood; F = 3.44, p = 0.018). Anaemia was more prevalent in cases of co-infection (43.3%) than in cases of HIV mono-infection (36.8%) or malaria mono-infection (20.4%) (χ(2) = 12.38, p = 0.006). The mean CD4 cell count between the groups of co-infected and HIV-mono-infected patients was not significantly different (F = 0.004, p = 1.000), but more patients with dual infections had CD4 cell counts corresponding to the chronic and advanced stages of HIV infection. A total of 105 individuals were successfully followed up for six months; twelve deaths were recorded within this period, nine of which were co-infected patients. Our results add to the existing pool of data from similar studies showing that HIV/malaria co-infections have a significant effect on a patient's clinical outcome. The data provide a basis for more elaborate studies with a larger sample size and follow-up of longer duration in the study region."
+      ],
+      "abstract": "A prospective cohort study was undertaken among 684 adult hospital attendees in Douala, Littoral Province, Cameroon. The objectives were to determine the prevalence of HIV/malaria co-infection and to determine and compare the prevalence of some parasitological, haematological and clinical parameters between co-infection and mono-infection with HIV or malaria in the study population. Information was collected on HIV serostatus, and malaria parasitaemia was assessed from blood smears by microscopy. Haemoglobin concentration was measured using the STANBIO STAT-Site MHgb Test System(®), and CD4 cell counts were obtained using the Partec CyFlow Counter(®). The prevalence of HIV/malaria co-infection in the sample was 29.4%. Geometric mean parasitaemia was significantly higher in co-infected patients than in malaria patients (9 868 parasites/μL blood versus 6 134 parasites/μL blood; F = 3.44, p = 0.018). Anaemia was more prevalent in cases of co-infection (43.3%) than in cases of HIV mono-infection (36.8%) or malaria mono-infection (20.4%) (χ(2) = 12.38, p = 0.006). The mean CD4 cell count between the groups of co-infected and HIV-mono-infected patients was not significantly different (F = 0.004, p = 1.000), but more patients with dual infections had CD4 cell counts corresponding to the chronic and advanced stages of HIV infection. A total of 105 individuals were successfully followed up for six months; twelve deaths were recorded within this period, nine of which were co-infected patients. Our results add to the existing pool of data from similar studies showing that HIV/malaria co-infections have a significant effect on a patient's clinical outcome. The data provide a basis for more elaborate studies with a larger sample size and follow-up of longer duration in the study region.",
+      "evidence_sentences": [
+        "The objectives were to determine the prevalence of HIV/malaria co-infection and to determine and compare the prevalence of some parasitological, haematological and clinical parameters between co-infection and mono-infection with HIV or malaria in the study population.",
+        "The prevalence of HIV/malaria co-infection in the sample was 29.4%.",
+        "Anaemia was more prevalent in cases of co-infection (43.3%) than in cases of HIV mono-infection (36.8%) or malaria mono-infection (20.4%) (χ(2) = 12.38, p = 0.006)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Theresa Nkuo-Akenji",
+        "Etienne Emgilbert Tevoufouet",
+        "Frankline Nzang",
+        "Nancy Ngufor",
+        "Elisabeth Fon"
+      ],
+      "year": "2008",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25864399/"
+    },
+    {
+      "pmid": "34634773",
+      "title": "Relative Burdens of the COVID-19, Malaria, Tuberculosis, and HIV/AIDS Epidemics in Sub-Saharan Africa.",
+      "journal": "The American journal of tropical medicine and hygiene",
+      "abstract_sections": [
+        "COVID-19 has had considerable global impact; however, in sub-Saharan Africa, it is one of several infectious disease priorities. Prioritization is normally guided by disease burden, but the highly age-dependent nature of COVID-19 and that of other infectious diseases make comparisons challenging unless considered through metrics that incorporate life-years lost and time lived with adverse health. Therefore, we compared the 2020 mortality and disability-adjusted life-years (DALYs) lost estimates for malaria, tuberculosis, and HIV/AIDS in sub-Saharan African populations with more than 12 months of COVID-19 burden (until the end of March 2021) by applying known age-related mortality to United Nations estimates of the age structure. We further compared exacerbations of disease burden predicted from the COVID-19 public health response. Data were derived from public sources and predicted exacerbations were derived from those published by international agencies. For sub-Saharan African populations north of South Africa, the estimated recorded COVID-19 DALYs lost in 2020 were 3.7%, 2.3%, and 2.4% of those for tuberculosis, HIV/AIDS, and malaria, respectively. Predicted exacerbations of these diseases were greater than the estimated COVID-19 burden. Including South Africa and Lesotho, COVID-19 DALYs lost were < 12% of those for other compared diseases; furthermore, the mortality of compared diseases were dominant in all age groups younger than 65 years. This analysis suggests the relatively low impact of COVID-19. Although all four epidemics continue, tuberculosis, HIV/AIDS, and malaria remain far greater health priorities based on their disease burdens. Therefore, resource diversion to COVID-19 poses a high risk of increasing the overall disease burden and causing net harm, thereby further increasing global inequities in health and life expectancy."
+      ],
+      "abstract": "COVID-19 has had considerable global impact; however, in sub-Saharan Africa, it is one of several infectious disease priorities. Prioritization is normally guided by disease burden, but the highly age-dependent nature of COVID-19 and that of other infectious diseases make comparisons challenging unless considered through metrics that incorporate life-years lost and time lived with adverse health. Therefore, we compared the 2020 mortality and disability-adjusted life-years (DALYs) lost estimates for malaria, tuberculosis, and HIV/AIDS in sub-Saharan African populations with more than 12 months of COVID-19 burden (until the end of March 2021) by applying known age-related mortality to United Nations estimates of the age structure. We further compared exacerbations of disease burden predicted from the COVID-19 public health response. Data were derived from public sources and predicted exacerbations were derived from those published by international agencies. For sub-Saharan African populations north of South Africa, the estimated recorded COVID-19 DALYs lost in 2020 were 3.7%, 2.3%, and 2.4% of those for tuberculosis, HIV/AIDS, and malaria, respectively. Predicted exacerbations of these diseases were greater than the estimated COVID-19 burden. Including South Africa and Lesotho, COVID-19 DALYs lost were < 12% of those for other compared diseases; furthermore, the mortality of compared diseases were dominant in all age groups younger than 65 years. This analysis suggests the relatively low impact of COVID-19. Although all four epidemics continue, tuberculosis, HIV/AIDS, and malaria remain far greater health priorities based on their disease burdens. Therefore, resource diversion to COVID-19 poses a high risk of increasing the overall disease burden and causing net harm, thereby further increasing global inequities in health and life expectancy.",
+      "evidence_sentences": [
+        "For sub-Saharan African populations north of South Africa, the estimated recorded COVID-19 DALYs lost in 2020 were 3.7%, 2.3%, and 2.4% of those for tuberculosis, HIV/AIDS, and malaria, respectively.",
+        "Therefore, we compared the 2020 mortality and disability-adjusted life-years (DALYs) lost estimates for malaria, tuberculosis, and HIV/AIDS in sub-Saharan African populations with more than 12 months of COVID-19 burden (until the end of March 2021) by applying known age-related mortality to United Nations estimates of the age structure.",
+        "Although all four epidemics continue, tuberculosis, HIV/AIDS, and malaria remain far greater health priorities based on their disease burdens."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "David Bell",
+        "Kristian Schultz Hansen"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34634773/"
+    },
+    {
+      "pmid": "20211030",
+      "title": "Convergent ethical issues in HIV/AIDS, tuberculosis and malaria vaccine trials in Africa: Report from the WHO/UNAIDS African AIDS Vaccine Programme's Ethics, Law and Human Rights Collaborating Centre consultation, 10-11 February 2009, Durban, South Africa.",
+      "journal": "BMC medical ethics",
+      "abstract_sections": [
+        "Africa continues to bear a disproportionate share of the global HIV/AIDS, tuberculosis (TB) and malaria burden. The development and distribution of safe, effective and affordable vaccines is critical to reduce these epidemics. However, conducting HIV/AIDS, TB, and/or malaria vaccine trials simultaneously in developing countries, or in populations affected by all three diseases, is likely to result in numerous ethical challenges.",
+        "In order to explore convergent ethical issues in HIV/AIDS, TB and malaria vaccine trials in Africa, the Ethics, Law and Human Rights Collaborating Centre of the WHO/UNAIDS African AIDS Vaccine Programme hosted a consultation on the Convergent Ethical Issues in HIV/AIDS, TB and Malaria Vaccine Trials in Africa in Durban, South Africa on the 10-11 February 2009.",
+        "Key cross cutting ethical issues were prioritized during the consultation as community engagement; ancillary care obligations; care and treatment; informed consent; and resource sharing.",
+        "The consultation revealed that while there have been few attempts to find convergence on ethical issues between HIV/AIDS, TB and malaria vaccine trial fields to date, there is much common ground and scope for convergence work between stakeholders in the three fields."
+      ],
+      "abstract": "Africa continues to bear a disproportionate share of the global HIV/AIDS, tuberculosis (TB) and malaria burden. The development and distribution of safe, effective and affordable vaccines is critical to reduce these epidemics. However, conducting HIV/AIDS, TB, and/or malaria vaccine trials simultaneously in developing countries, or in populations affected by all three diseases, is likely to result in numerous ethical challenges.\n\nIn order to explore convergent ethical issues in HIV/AIDS, TB and malaria vaccine trials in Africa, the Ethics, Law and Human Rights Collaborating Centre of the WHO/UNAIDS African AIDS Vaccine Programme hosted a consultation on the Convergent Ethical Issues in HIV/AIDS, TB and Malaria Vaccine Trials in Africa in Durban, South Africa on the 10-11 February 2009.\n\nKey cross cutting ethical issues were prioritized during the consultation as community engagement; ancillary care obligations; care and treatment; informed consent; and resource sharing.\n\nThe consultation revealed that while there have been few attempts to find convergence on ethical issues between HIV/AIDS, TB and malaria vaccine trial fields to date, there is much common ground and scope for convergence work between stakeholders in the three fields.",
+      "evidence_sentences": [
+        "In order to explore convergent ethical issues in HIV/AIDS, TB and malaria vaccine trials in Africa, the Ethics, Law and Human Rights Collaborating Centre of the WHO/UNAIDS African AIDS Vaccine Programme hosted a consultation on the Convergent Ethical Issues in HIV/AIDS, TB and Malaria Vaccine Trials in Africa in Durban, South Africa on the 10-11 February 2009.",
+        "Africa continues to bear a disproportionate share of the global HIV/AIDS, tuberculosis (TB) and malaria burden.",
+        "The consultation revealed that while there have been few attempts to find convergence on ethical issues between HIV/AIDS, TB and malaria vaccine trial fields to date, there is much common ground and scope for convergence work between stakeholders in the three fields."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "hiv",
+        "prevalence",
+        "south",
+        "africa"
+      ],
+      "authors": [
+        "Nicole Mamotte",
+        "Douglas Wassenaar",
+        "Jennifer Koen",
+        "Zaynab Essack"
+      ],
+      "year": "2010",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20211030/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "510",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "36529768",
+        "25278604",
+        "38175901",
+        "28344011",
+        "37697804",
+        "16267737",
+        "40990886",
+        "33716195",
+        "38490237",
+        "26633896",
+        "33340524",
+        "28367743",
+        "16229771",
+        "39151976",
+        "27938369",
+        "37283226",
+        "21224274",
+        "28985732",
+        "1492937",
+        "40380136",
+        "38117744",
+        "2885644",
+        "32600355",
+        "35341998",
+        "39632050",
+        "37494044",
+        "15090809",
+        "25864399",
+        "34634773",
+        "20211030"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "hiv",
+          "to": "\"hiv\"[MeSH Terms] OR \"hiv\"[All Fields]"
+        },
+        {
+          "from": "prevalence",
+          "to": "\"epidemiology\"[Subheading] OR \"epidemiology\"[All Fields] OR \"prevalence\"[All Fields] OR \"prevalence\"[MeSH Terms] OR \"prevalance\"[All Fields] OR \"prevalences\"[All Fields] OR \"prevalence's\"[All Fields] OR \"prevalent\"[All Fields] OR \"prevalently\"[All Fields] OR \"prevalents\"[All Fields]"
+        },
+        {
+          "from": "south africa",
+          "to": "\"south africa\"[MeSH Terms] OR (\"south\"[All Fields] AND \"africa\"[All Fields]) OR \"south africa\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"hiv\"[MeSH Terms] OR \"hiv\"[All Fields]) AND (\"epidemiology\"[MeSH Subheading] OR \"epidemiology\"[All Fields] OR \"prevalence\"[All Fields] OR \"prevalence\"[MeSH Terms] OR \"prevalance\"[All Fields] OR \"prevalences\"[All Fields] OR \"prevalence s\"[All Fields] OR \"prevalent\"[All Fields] OR \"prevalently\"[All Fields] OR \"prevalents\"[All Fields]) AND (\"south africa\"[MeSH Terms] OR (\"south\"[All Fields] AND \"africa\"[All Fields]) OR \"south africa\"[All Fields])"
+    }
+  }
+}

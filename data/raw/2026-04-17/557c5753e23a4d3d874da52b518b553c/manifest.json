@@ -1,0 +1,71 @@
+{
+  "run_id": "557c5753e23a4d3d874da52b518b553c",
+  "stored_at": "2026-04-17T22:15:57+00:00",
+  "query": "cancer cancer smoking risk canada canada",
+  "query_fallbacks": [
+    "cancer cancer smoking risk canada canada",
+    "cancer epidemiology smoking habits canada",
+    "smoking related cancer incidence canada",
+    "cancer risk factors smoking canada population",
+    "cancer mortality smoking prevalence canada",
+    "cancer cancer smoking risk canada",
+    "cancer cancer smoking risk treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer smoking risk canada canada",
+    "cancer cancer smoking risk canada",
+    "cancer cancer smoking risk treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology smoking habits canada",
+    "smoking related cancer incidence canada",
+    "cancer risk factors smoking canada population",
+    "cancer mortality smoking prevalence canada"
+  ],
+  "keywords": [
+    "cancer",
+    "smoking",
+    "risk",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 30,
+    "indexed_chunks": 87
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology smoking habits canada",
+      "smoking related cancer incidence canada",
+      "cancer risk factors smoking canada population",
+      "cancer mortality smoking prevalence canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\557c5753e23a4d3d874da52b518b553c\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\557c5753e23a4d3d874da52b518b553c\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\557c5753e23a4d3d874da52b518b553c\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\557c5753e23a4d3d874da52b518b553c\\combined.records.json"
+  }
+}

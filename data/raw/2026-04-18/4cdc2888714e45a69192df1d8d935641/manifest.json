@@ -1,0 +1,67 @@
+{
+  "run_id": "4cdc2888714e45a69192df1d8d935641",
+  "stored_at": "2026-04-18T09:50:22+00:00",
+  "query": "malaria malaria treatment therapy management",
+  "query_fallbacks": [
+    "malaria malaria treatment therapy management",
+    "malaria epidemiology",
+    "malaria treatment outcomes",
+    "antimalarial drug efficacy",
+    "malaria disease management",
+    "malaria malaria treatment therapy treatment",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria malaria treatment therapy management",
+    "malaria malaria treatment therapy treatment",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria epidemiology",
+    "malaria treatment outcomes",
+    "antimalarial drug efficacy",
+    "malaria disease management"
+  ],
+  "keywords": [
+    "malaria",
+    "treatment",
+    "therapy",
+    "management"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 38,
+    "indexed_chunks": 118
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria epidemiology",
+      "malaria treatment outcomes",
+      "antimalarial drug efficacy",
+      "malaria disease management"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\4cdc2888714e45a69192df1d8d935641\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\4cdc2888714e45a69192df1d8d935641\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\4cdc2888714e45a69192df1d8d935641\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\4cdc2888714e45a69192df1d8d935641\\combined.records.json"
+  }
+}

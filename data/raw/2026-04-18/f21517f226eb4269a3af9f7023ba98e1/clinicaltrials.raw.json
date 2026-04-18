@@ -1,0 +1,1119 @@
+{
+  "query": "lung cancer smoking risk women lung canada",
+  "selected_query": "lung cancer smoking risk women lung canada",
+  "attempted_queries": [
+    {
+      "query": "lung cancer smoking risk women lung canada",
+      "location_filter": "canada",
+      "count": 1
+    }
+  ],
+  "location": "canada",
+  "records": [
+    {
+      "nct_id": "NCT03702309",
+      "title": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+      "brief_summary": "The objective of this protocol is to develop an institution-wide liquid biopsy protocol that will establish a common process for collecting blood and corresponding archived tumor specimens for future research studies at the University Health Network's Princess Margaret Cancer Centre. Circulating cell-free nucleic acids (cfNA), including cell-free DNA (cfDNA) and cell-free RNA (cfRNA), are non-invasive, real-time biomarkers that can provide diagnostic and prognostic information before cancer diagnosis, during cancer treatment, and at disease progression. Cancer research scientists and clinicians at the Princess Margaret are interested in incorporating the collection of peripheral blood samples (\"liquid biopsies\") into research protocols as a means of non-invasively assessing tumor progression and response to treatment at multiple time points during a patient's course of disease.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "Cancer research scientists and clinicians at the Princess Margaret are interested in incorporating the collection of peripheral blood samples (\"liquid biopsies\") into research protocols as a means of non-invasively assessing tumor progression and response to treatment at multiple time points during a patient's course of disease.",
+        "Circulating cell-free nucleic acids (cfNA), including cell-free DNA (cfDNA) and cell-free RNA (cfRNA), are non-invasive, real-time biomarkers that can provide diagnostic and prognostic information before cancer diagnosis, during cancer treatment, and at disease progression.",
+        "The objective of this protocol is to develop an institution-wide liquid biopsy protocol that will establish a common process for collecting blood and corresponding archived tumor specimens for future research studies at the University Health Network's Princess Margaret Cancer Centre."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "RECRUITING",
+      "last_update": "2025-11-25",
+      "query_keywords": [
+        "lung cancer",
+        "smoking",
+        "risk",
+        "women",
+        "lung",
+        "cancer",
+        "canada"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT03702309",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03702309",
+            "orgStudyIdInfo": {
+              "id": "LIBERATE"
+            },
+            "organization": {
+              "fullName": "University Health Network, Toronto",
+              "class": "OTHER"
+            },
+            "briefTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+            "officialTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+            "acronym": "LIBERATE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-08-03",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2026-07-06",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2026-07-06",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2018-09-25",
+            "studyFirstSubmitQcDate": "2018-10-09",
+            "studyFirstPostDateStruct": {
+              "date": "2018-10-11",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-25",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-11-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Health Network, Toronto",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The objective of this protocol is to develop an institution-wide liquid biopsy protocol that will establish a common process for collecting blood and corresponding archived tumor specimens for future research studies at the University Health Network's Princess Margaret Cancer Centre. Circulating cell-free nucleic acids (cfNA), including cell-free DNA (cfDNA) and cell-free RNA (cfRNA), are non-invasive, real-time biomarkers that can provide diagnostic and prognostic information before cancer diagnosis, during cancer treatment, and at disease progression. Cancer research scientists and clinicians at the Princess Margaret are interested in incorporating the collection of peripheral blood samples (\"liquid biopsies\") into research protocols as a means of non-invasively assessing tumor progression and response to treatment at multiple time points during a patient's course of disease."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Cancer",
+              "Breast Cancer",
+              "Lung Cancer",
+              "Colon Cancer",
+              "Ovarian Cancer",
+              "Melanoma",
+              "Lymphoma",
+              "Leukemia",
+              "Mutation",
+              "Lynch Syndrome",
+              "Cowden Syndrome",
+              "BRCA1 Mutation",
+              "BRCA2 Mutation",
+              "Uterine Cancer",
+              "Myeloma",
+              "Kidney Cancer",
+              "Head and Neck Cancer",
+              "Meningioma"
+            ],
+            "keywords": [
+              "High Risk",
+              "Liquid Biopsy",
+              "Circulating Tumor DNA",
+              "Blood",
+              "Molecular Profiling",
+              "Next Generation Sequencing",
+              "Solid Tumors",
+              "Hematological"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITH_DNA",
+              "description": "Peripheral blood samples collected serially for DNA extraction Archived tissue samples collected for DNA extraction"
+            },
+            "enrollmentInfo": {
+              "count": 2500,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "LIBERATE",
+                "description": "Patients with either histological confirmation of a solid tumor or hematological malignancy, or patients identified as high-risk for cancer (based on identified aberration in cancer predisposition gene or on hormonal and/or family history without known aberration)."
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Collection and annotation of biospecimens",
+                "description": "Facilitate and streamline the collection, banking, and annotation of biospecimens (especially liquid biopsy specimens and optionally corresponding archived tumor specimens) for research studies across the University Health Network institution",
+                "timeFrame": "Through study completion, up to 5 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Electronic Consenting",
+                "description": "Implement an electronic informed consent process for clinical research at the Princess Margaret Cancer Centre",
+                "timeFrame": "Through study completion, up to 5 years"
+              },
+              {
+                "measure": "Correlative Studies Questionnaire",
+                "description": "Collect observational/epidemiological data using a Correlative Studies Questionnaire for clinical annotation of specimens and future research use. Data collected involves demographics such as family history, medical history, smoking history, and lifestyle.",
+                "timeFrame": "Through study completion, up to 5 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with either histological confirmation of a solid tumor or hematological malignancy, OR patients identified as high-risk for cancer (based on identified aberration in cancer predisposition gene or on hormonal and/or family history without known aberration).\n2. Patient must be ≥ 18 years old.\n3. All patients must have signed and dated an informed consent form for this LIBERATE study.\n4. If patients are being co-consented for a separate primary research study listed in Appendix I, they must fulfill the eligibility criteria for that separate primary research study. If there is a discrepancy in the eligibility criteria between protocols, the separate primary research study's criteria take precedence.\n\nExclusion Criteria:\n\nNone",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Patients with solid tumors or hematological malignancy and patients identified as high-risk for cancer.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Celeste Yu, MSc",
+                "role": "CONTACT",
+                "phone": "416-946-4501",
+                "phoneExt": "5281",
+                "email": "Celeste.Yu@uhn.ca"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Lillian Siu, MD",
+                "affiliation": "Princess Margaret Cancer Centre",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Princess Margaret Cancer Centre",
+                "status": "RECRUITING",
+                "city": "Toronto",
+                "state": "Ontario",
+                "zip": "M5G2M9",
+                "country": "Canada",
+                "contacts": [
+                  {
+                    "name": "Lillian Siu, MD",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.70643,
+                  "lon": -79.39864
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40632977",
+                "type": "DERIVED",
+                "citation": "Zhao D, Lang N, Liu T, Shelton V, Rangel-Patino J, Gong IY, Hong M, Travas A, Murad V, Alrekhais I, Metser U, Prica A, Kukreti V, Bhella S, Vijenthira A, Crump M, Kuruvilla J, Arruda A, Minden MD, Lam B, Kridel R. Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma. JCO Precis Oncol. 2025 Jul;9:e2500200. doi: 10.1200/PO-25-00200. Epub 2025 Jul 9."
+              },
+              {
+                "pmid": "37972346",
+                "type": "DERIVED",
+                "citation": "Han K, Zou J, Zhao Z, Baskurt Z, Zheng Y, Barnes E, Croke J, Ferguson SE, Fyles A, Gien L, Gladwish A, Lecavalier-Barsoum M, Lheureux S, Lukovic J, Mackay H, Marchand EL, Metser U, Milosevic M, Taggar AS, Bratman SV, Leung E. Clinical Validation of Human Papilloma Virus Circulating Tumor DNA for Early Detection of Residual Disease After Chemoradiation in Cervical Cancer. J Clin Oncol. 2024 Feb 1;42(4):431-440. doi: 10.1200/JCO.23.00954. Epub 2023 Nov 16."
+              },
+              {
+                "pmid": "37027812",
+                "type": "DERIVED",
+                "citation": "Sanz-Garcia E, Genta S, Chen X, Ou Q, Araujo DV, Abdul Razak AR, Hansen AR, Spreafico A, Bao H, Wu X, Siu LL, Bedard PL. Tumor-Naive Circulating Tumor DNA as an Early Response Biomarker for Patients Treated With Immunotherapy in Early Phase Clinical Trials. JCO Precis Oncol. 2023 Apr;7:e2200509. doi: 10.1200/PO.22.00509."
+              },
+              {
+                "pmid": "36670100",
+                "type": "DERIVED",
+                "citation": "Spiliopoulou P, Janse van Rensburg HJ, Avery L, Kulasingam V, Razak A, Bedard P, Hansen A, Chruscinski A, Wang B, Kulikova M, Chen R, Speers V, Nguyen A, Lee J, Coburn B, Spreafico A, Siu LL. Longitudinal efficacy and toxicity of SARS-CoV-2 vaccination in cancer patients treated with immunotherapy. Cell Death Dis. 2023 Jan 20;14(1):49. doi: 10.1038/s41419-022-05548-4."
+              },
+              {
+                "pmid": "35705312",
+                "type": "DERIVED",
+                "citation": "Watson GA, Sanz-Garcia E, Zhang WJ, Liu ZA, Yang SC, Wang B, Liu S, Kubli S, Berman H, Pfister T, Genta S, Spreafico A, Hansen AR, Bedard PL, Lheureux S, Abdul Razak A, Cescon D, Butler MO, Xu W, Mak TW, Siu LL, Chen E. Increase in serum choline levels predicts for improved progression-free survival (PFS) in patients with advanced cancers receiving pembrolizumab. J Immunother Cancer. 2022 Jun;10(6):e004378. doi: 10.1136/jitc-2021-004378."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "Princess Margaret Cancer Genomics Program",
+                "url": "http://www.cancergenomicsprogram.ca/"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED",
+            "description": "Potential to share de-identified study data (including genetic data) with approved research collaborators."
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D001943",
+                "term": "Breast Neoplasms"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D003110",
+                "term": "Colonic Neoplasms"
+              },
+              {
+                "id": "D010051",
+                "term": "Ovarian Neoplasms"
+              },
+              {
+                "id": "D008545",
+                "term": "Melanoma"
+              },
+              {
+                "id": "D008223",
+                "term": "Lymphoma"
+              },
+              {
+                "id": "D007938",
+                "term": "Leukemia"
+              },
+              {
+                "id": "D003123",
+                "term": "Colorectal Neoplasms, Hereditary Nonpolyposis"
+              },
+              {
+                "id": "D006223",
+                "term": "Hamartoma Syndrome, Multiple"
+              },
+              {
+                "id": "D014594",
+                "term": "Uterine Neoplasms"
+              },
+              {
+                "id": "D054219",
+                "term": "Neoplasms, Plasma Cell"
+              },
+              {
+                "id": "D007680",
+                "term": "Kidney Neoplasms"
+              },
+              {
+                "id": "D006258",
+                "term": "Head and Neck Neoplasms"
+              },
+              {
+                "id": "D008579",
+                "term": "Meningioma"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D001941",
+                "term": "Breast Diseases"
+              },
+              {
+                "id": "D012871",
+                "term": "Skin Diseases"
+              },
+              {
+                "id": "D017437",
+                "term": "Skin and Connective Tissue Diseases"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D015179",
+                "term": "Colorectal Neoplasms"
+              },
+              {
+                "id": "D007414",
+                "term": "Intestinal Neoplasms"
+              },
+              {
+                "id": "D005770",
+                "term": "Gastrointestinal Neoplasms"
+              },
+              {
+                "id": "D004067",
+                "term": "Digestive System Neoplasms"
+              },
+              {
+                "id": "D004066",
+                "term": "Digestive System Diseases"
+              },
+              {
+                "id": "D005767",
+                "term": "Gastrointestinal Diseases"
+              },
+              {
+                "id": "D003108",
+                "term": "Colonic Diseases"
+              },
+              {
+                "id": "D007410",
+                "term": "Intestinal Diseases"
+              },
+              {
+                "id": "D004701",
+                "term": "Endocrine Gland Neoplasms"
+              },
+              {
+                "id": "D010049",
+                "term": "Ovarian Diseases"
+              },
+              {
+                "id": "D000291",
+                "term": "Adnexal Diseases"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D005833",
+                "term": "Genital Neoplasms, Female"
+              },
+              {
+                "id": "D014565",
+                "term": "Urogenital Neoplasms"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D004700",
+                "term": "Endocrine System Diseases"
+              },
+              {
+                "id": "D006058",
+                "term": "Gonadal Disorders"
+              },
+              {
+                "id": "D018358",
+                "term": "Neuroendocrine Tumors"
+              },
+              {
+                "id": "D017599",
+                "term": "Neuroectodermal Tumors"
+              },
+              {
+                "id": "D009373",
+                "term": "Neoplasms, Germ Cell and Embryonal"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009380",
+                "term": "Neoplasms, Nerve Tissue"
+              },
+              {
+                "id": "D018326",
+                "term": "Nevi and Melanomas"
+              },
+              {
+                "id": "D012878",
+                "term": "Skin Neoplasms"
+              },
+              {
+                "id": "D008232",
+                "term": "Lymphoproliferative Disorders"
+              },
+              {
+                "id": "D008206",
+                "term": "Lymphatic Diseases"
+              },
+              {
+                "id": "D006425",
+                "term": "Hemic and Lymphatic Diseases"
+              },
+              {
+                "id": "D007160",
+                "term": "Immunoproliferative Disorders"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D006402",
+                "term": "Hematologic Diseases"
+              },
+              {
+                "id": "D009386",
+                "term": "Neoplastic Syndromes, Hereditary"
+              },
+              {
+                "id": "D030342",
+                "term": "Genetic Diseases, Inborn"
+              },
+              {
+                "id": "D009358",
+                "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+              },
+              {
+                "id": "D049914",
+                "term": "DNA Repair-Deficiency Disorders"
+              },
+              {
+                "id": "D008659",
+                "term": "Metabolic Diseases"
+              },
+              {
+                "id": "D009750",
+                "term": "Nutritional and Metabolic Diseases"
+              },
+              {
+                "id": "D006222",
+                "term": "Hamartoma"
+              },
+              {
+                "id": "D009378",
+                "term": "Neoplasms, Multiple Primary"
+              },
+              {
+                "id": "D014591",
+                "term": "Uterine Diseases"
+              },
+              {
+                "id": "D014571",
+                "term": "Urologic Neoplasms"
+              },
+              {
+                "id": "D007674",
+                "term": "Kidney Diseases"
+              },
+              {
+                "id": "D014570",
+                "term": "Urologic Diseases"
+              },
+              {
+                "id": "D052801",
+                "term": "Male Urogenital Diseases"
+              },
+              {
+                "id": "D009383",
+                "term": "Neoplasms, Vascular Tissue"
+              },
+              {
+                "id": "D008577",
+                "term": "Meningeal Neoplasms"
+              },
+              {
+                "id": "D016543",
+                "term": "Central Nervous System Neoplasms"
+              },
+              {
+                "id": "D009423",
+                "term": "Nervous System Neoplasms"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT03702309",
+            "orgStudyIdInfo": {
+              "id": "LIBERATE"
+            },
+            "organization": {
+              "fullName": "University Health Network, Toronto",
+              "class": "OTHER"
+            },
+            "briefTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+            "officialTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+            "acronym": "LIBERATE"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2025-11",
+            "overallStatus": "RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2017-08-03",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2026-07-06",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2026-07-06",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2018-09-25",
+            "studyFirstSubmitQcDate": "2018-10-09",
+            "studyFirstPostDateStruct": {
+              "date": "2018-10-11",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2025-11-25",
+            "lastUpdatePostDateStruct": {
+              "date": "2025-11-26",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "University Health Network, Toronto",
+              "class": "OTHER"
+            }
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "The objective of this protocol is to develop an institution-wide liquid biopsy protocol that will establish a common process for collecting blood and corresponding archived tumor specimens for future research studies at the University Health Network's Princess Margaret Cancer Centre. Circulating cell-free nucleic acids (cfNA), including cell-free DNA (cfDNA) and cell-free RNA (cfRNA), are non-invasive, real-time biomarkers that can provide diagnostic and prognostic information before cancer diagnosis, during cancer treatment, and at disease progression. Cancer research scientists and clinicians at the Princess Margaret are interested in incorporating the collection of peripheral blood samples (\"liquid biopsies\") into research protocols as a means of non-invasively assessing tumor progression and response to treatment at multiple time points during a patient's course of disease."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Cancer",
+              "Breast Cancer",
+              "Lung Cancer",
+              "Colon Cancer",
+              "Ovarian Cancer",
+              "Melanoma",
+              "Lymphoma",
+              "Leukemia",
+              "Mutation",
+              "Lynch Syndrome",
+              "Cowden Syndrome",
+              "BRCA1 Mutation",
+              "BRCA2 Mutation",
+              "Uterine Cancer",
+              "Myeloma",
+              "Kidney Cancer",
+              "Head and Neck Cancer",
+              "Meningioma"
+            ],
+            "keywords": [
+              "High Risk",
+              "Liquid Biopsy",
+              "Circulating Tumor DNA",
+              "Blood",
+              "Molecular Profiling",
+              "Next Generation Sequencing",
+              "Solid Tumors",
+              "Hematological"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "bioSpec": {
+              "retention": "SAMPLES_WITH_DNA",
+              "description": "Peripheral blood samples collected serially for DNA extraction Archived tissue samples collected for DNA extraction"
+            },
+            "enrollmentInfo": {
+              "count": 2500,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "LIBERATE",
+                "description": "Patients with either histological confirmation of a solid tumor or hematological malignancy, or patients identified as high-risk for cancer (based on identified aberration in cancer predisposition gene or on hormonal and/or family history without known aberration)."
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Collection and annotation of biospecimens",
+                "description": "Facilitate and streamline the collection, banking, and annotation of biospecimens (especially liquid biopsy specimens and optionally corresponding archived tumor specimens) for research studies across the University Health Network institution",
+                "timeFrame": "Through study completion, up to 5 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Electronic Consenting",
+                "description": "Implement an electronic informed consent process for clinical research at the Princess Margaret Cancer Centre",
+                "timeFrame": "Through study completion, up to 5 years"
+              },
+              {
+                "measure": "Correlative Studies Questionnaire",
+                "description": "Collect observational/epidemiological data using a Correlative Studies Questionnaire for clinical annotation of specimens and future research use. Data collected involves demographics such as family history, medical history, smoking history, and lifestyle.",
+                "timeFrame": "Through study completion, up to 5 years"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with either histological confirmation of a solid tumor or hematological malignancy, OR patients identified as high-risk for cancer (based on identified aberration in cancer predisposition gene or on hormonal and/or family history without known aberration).\n2. Patient must be ≥ 18 years old.\n3. All patients must have signed and dated an informed consent form for this LIBERATE study.\n4. If patients are being co-consented for a separate primary research study listed in Appendix I, they must fulfill the eligibility criteria for that separate primary research study. If there is a discrepancy in the eligibility criteria between protocols, the separate primary research study's criteria take precedence.\n\nExclusion Criteria:\n\nNone",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Patients with solid tumors or hematological malignancy and patients identified as high-risk for cancer.",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "centralContacts": [
+              {
+                "name": "Celeste Yu, MSc",
+                "role": "CONTACT",
+                "phone": "416-946-4501",
+                "phoneExt": "5281",
+                "email": "Celeste.Yu@uhn.ca"
+              }
+            ],
+            "overallOfficials": [
+              {
+                "name": "Lillian Siu, MD",
+                "affiliation": "Princess Margaret Cancer Centre",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ],
+            "locations": [
+              {
+                "facility": "Princess Margaret Cancer Centre",
+                "status": "RECRUITING",
+                "city": "Toronto",
+                "state": "Ontario",
+                "zip": "M5G2M9",
+                "country": "Canada",
+                "contacts": [
+                  {
+                    "name": "Lillian Siu, MD",
+                    "role": "PRINCIPAL_INVESTIGATOR"
+                  }
+                ],
+                "geoPoint": {
+                  "lat": 43.70643,
+                  "lon": -79.39864
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "40632977",
+                "type": "DERIVED",
+                "citation": "Zhao D, Lang N, Liu T, Shelton V, Rangel-Patino J, Gong IY, Hong M, Travas A, Murad V, Alrekhais I, Metser U, Prica A, Kukreti V, Bhella S, Vijenthira A, Crump M, Kuruvilla J, Arruda A, Minden MD, Lam B, Kridel R. Risk Assessment With Ultra-Low-Pass Whole-Genome Sequencing of Cell-Free DNA for Large B-Cell Lymphoma. JCO Precis Oncol. 2025 Jul;9:e2500200. doi: 10.1200/PO-25-00200. Epub 2025 Jul 9."
+              },
+              {
+                "pmid": "37972346",
+                "type": "DERIVED",
+                "citation": "Han K, Zou J, Zhao Z, Baskurt Z, Zheng Y, Barnes E, Croke J, Ferguson SE, Fyles A, Gien L, Gladwish A, Lecavalier-Barsoum M, Lheureux S, Lukovic J, Mackay H, Marchand EL, Metser U, Milosevic M, Taggar AS, Bratman SV, Leung E. Clinical Validation of Human Papilloma Virus Circulating Tumor DNA for Early Detection of Residual Disease After Chemoradiation in Cervical Cancer. J Clin Oncol. 2024 Feb 1;42(4):431-440. doi: 10.1200/JCO.23.00954. Epub 2023 Nov 16."
+              },
+              {
+                "pmid": "37027812",
+                "type": "DERIVED",
+                "citation": "Sanz-Garcia E, Genta S, Chen X, Ou Q, Araujo DV, Abdul Razak AR, Hansen AR, Spreafico A, Bao H, Wu X, Siu LL, Bedard PL. Tumor-Naive Circulating Tumor DNA as an Early Response Biomarker for Patients Treated With Immunotherapy in Early Phase Clinical Trials. JCO Precis Oncol. 2023 Apr;7:e2200509. doi: 10.1200/PO.22.00509."
+              },
+              {
+                "pmid": "36670100",
+                "type": "DERIVED",
+                "citation": "Spiliopoulou P, Janse van Rensburg HJ, Avery L, Kulasingam V, Razak A, Bedard P, Hansen A, Chruscinski A, Wang B, Kulikova M, Chen R, Speers V, Nguyen A, Lee J, Coburn B, Spreafico A, Siu LL. Longitudinal efficacy and toxicity of SARS-CoV-2 vaccination in cancer patients treated with immunotherapy. Cell Death Dis. 2023 Jan 20;14(1):49. doi: 10.1038/s41419-022-05548-4."
+              },
+              {
+                "pmid": "35705312",
+                "type": "DERIVED",
+                "citation": "Watson GA, Sanz-Garcia E, Zhang WJ, Liu ZA, Yang SC, Wang B, Liu S, Kubli S, Berman H, Pfister T, Genta S, Spreafico A, Hansen AR, Bedard PL, Lheureux S, Abdul Razak A, Cescon D, Butler MO, Xu W, Mak TW, Siu LL, Chen E. Increase in serum choline levels predicts for improved progression-free survival (PFS) in patients with advanced cancers receiving pembrolizumab. J Immunother Cancer. 2022 Jun;10(6):e004378. doi: 10.1136/jitc-2021-004378."
+              }
+            ],
+            "seeAlsoLinks": [
+              {
+                "label": "Princess Margaret Cancer Genomics Program",
+                "url": "http://www.cancergenomicsprogram.ca/"
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "UNDECIDED",
+            "description": "Potential to share de-identified study data (including genetic data) with approved research collaborators."
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D001943",
+                "term": "Breast Neoplasms"
+              },
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D003110",
+                "term": "Colonic Neoplasms"
+              },
+              {
+                "id": "D010051",
+                "term": "Ovarian Neoplasms"
+              },
+              {
+                "id": "D008545",
+                "term": "Melanoma"
+              },
+              {
+                "id": "D008223",
+                "term": "Lymphoma"
+              },
+              {
+                "id": "D007938",
+                "term": "Leukemia"
+              },
+              {
+                "id": "D003123",
+                "term": "Colorectal Neoplasms, Hereditary Nonpolyposis"
+              },
+              {
+                "id": "D006223",
+                "term": "Hamartoma Syndrome, Multiple"
+              },
+              {
+                "id": "D014594",
+                "term": "Uterine Neoplasms"
+              },
+              {
+                "id": "D054219",
+                "term": "Neoplasms, Plasma Cell"
+              },
+              {
+                "id": "D007680",
+                "term": "Kidney Neoplasms"
+              },
+              {
+                "id": "D006258",
+                "term": "Head and Neck Neoplasms"
+              },
+              {
+                "id": "D008579",
+                "term": "Meningioma"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D001941",
+                "term": "Breast Diseases"
+              },
+              {
+                "id": "D012871",
+                "term": "Skin Diseases"
+              },
+              {
+                "id": "D017437",
+                "term": "Skin and Connective Tissue Diseases"
+              },
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D015179",
+                "term": "Colorectal Neoplasms"
+              },
+              {
+                "id": "D007414",
+                "term": "Intestinal Neoplasms"
+              },
+              {
+                "id": "D005770",
+                "term": "Gastrointestinal Neoplasms"
+              },
+              {
+                "id": "D004067",
+                "term": "Digestive System Neoplasms"
+              },
+              {
+                "id": "D004066",
+                "term": "Digestive System Diseases"
+              },
+              {
+                "id": "D005767",
+                "term": "Gastrointestinal Diseases"
+              },
+              {
+                "id": "D003108",
+                "term": "Colonic Diseases"
+              },
+              {
+                "id": "D007410",
+                "term": "Intestinal Diseases"
+              },
+              {
+                "id": "D004701",
+                "term": "Endocrine Gland Neoplasms"
+              },
+              {
+                "id": "D010049",
+                "term": "Ovarian Diseases"
+              },
+              {
+                "id": "D000291",
+                "term": "Adnexal Diseases"
+              },
+              {
+                "id": "D005831",
+                "term": "Genital Diseases, Female"
+              },
+              {
+                "id": "D052776",
+                "term": "Female Urogenital Diseases"
+              },
+              {
+                "id": "D005261",
+                "term": "Female Urogenital Diseases and Pregnancy Complications"
+              },
+              {
+                "id": "D000091642",
+                "term": "Urogenital Diseases"
+              },
+              {
+                "id": "D005833",
+                "term": "Genital Neoplasms, Female"
+              },
+              {
+                "id": "D014565",
+                "term": "Urogenital Neoplasms"
+              },
+              {
+                "id": "D000091662",
+                "term": "Genital Diseases"
+              },
+              {
+                "id": "D004700",
+                "term": "Endocrine System Diseases"
+              },
+              {
+                "id": "D006058",
+                "term": "Gonadal Disorders"
+              },
+              {
+                "id": "D018358",
+                "term": "Neuroendocrine Tumors"
+              },
+              {
+                "id": "D017599",
+                "term": "Neuroectodermal Tumors"
+              },
+              {
+                "id": "D009373",
+                "term": "Neoplasms, Germ Cell and Embryonal"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009380",
+                "term": "Neoplasms, Nerve Tissue"
+              },
+              {
+                "id": "D018326",
+                "term": "Nevi and Melanomas"
+              },
+              {
+                "id": "D012878",
+                "term": "Skin Neoplasms"
+              },
+              {
+                "id": "D008232",
+                "term": "Lymphoproliferative Disorders"
+              },
+              {
+                "id": "D008206",
+                "term": "Lymphatic Diseases"
+              },
+              {
+                "id": "D006425",
+                "term": "Hemic and Lymphatic Diseases"
+              },
+              {
+                "id": "D007160",
+                "term": "Immunoproliferative Disorders"
+              },
+              {
+                "id": "D007154",
+                "term": "Immune System Diseases"
+              },
+              {
+                "id": "D006402",
+                "term": "Hematologic Diseases"
+              },
+              {
+                "id": "D009386",
+                "term": "Neoplastic Syndromes, Hereditary"
+              },
+              {
+                "id": "D030342",
+                "term": "Genetic Diseases, Inborn"
+              },
+              {
+                "id": "D009358",
+                "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+              },
+              {
+                "id": "D049914",
+                "term": "DNA Repair-Deficiency Disorders"
+              },
+              {
+                "id": "D008659",
+                "term": "Metabolic Diseases"
+              },
+              {
+                "id": "D009750",
+                "term": "Nutritional and Metabolic Diseases"
+              },
+              {
+                "id": "D006222",
+                "term": "Hamartoma"
+              },
+              {
+                "id": "D009378",
+                "term": "Neoplasms, Multiple Primary"
+              },
+              {
+                "id": "D014591",
+                "term": "Uterine Diseases"
+              },
+              {
+                "id": "D014571",
+                "term": "Urologic Neoplasms"
+              },
+              {
+                "id": "D007674",
+                "term": "Kidney Diseases"
+              },
+              {
+                "id": "D014570",
+                "term": "Urologic Diseases"
+              },
+              {
+                "id": "D052801",
+                "term": "Male Urogenital Diseases"
+              },
+              {
+                "id": "D009383",
+                "term": "Neoplasms, Vascular Tissue"
+              },
+              {
+                "id": "D008577",
+                "term": "Meningeal Neoplasms"
+              },
+              {
+                "id": "D016543",
+                "term": "Central Nervous System Neoplasms"
+              },
+              {
+                "id": "D009423",
+                "term": "Nervous System Neoplasms"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

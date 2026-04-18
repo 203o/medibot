@@ -1,0 +1,76 @@
+{
+  "run_id": "7f8fd7e533b34f1e899c668265a7351f",
+  "stored_at": "2026-04-17T13:46:26+00:00",
+  "query": "lung cancer lung cancer treatment therapy canada",
+  "query_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer epidemiology in canada",
+    "systematic review of lung cancer treatment outcomes in canada",
+    "lung cancer therapy adherence in canadian women",
+    "lung cancer incidence and mortality trends in canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer lung cancer treatment therapy canada",
+    "lung cancer lung cancer treatment therapy",
+    "lung cancer lung cancer treatment treatment",
+    "lung cancer canada",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer epidemiology in canada",
+    "systematic review of lung cancer treatment outcomes in canada",
+    "lung cancer therapy adherence in canadian women",
+    "lung cancer incidence and mortality trends in canada"
+  ],
+  "keywords": [
+    "lung cancer",
+    "lung",
+    "cancer",
+    "treatment",
+    "therapy",
+    "management",
+    "intervention",
+    "women",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer epidemiology in canada",
+      "systematic review of lung cancer treatment outcomes in canada",
+      "lung cancer therapy adherence in canadian women",
+      "lung cancer incidence and mortality trends in canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\7f8fd7e533b34f1e899c668265a7351f\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\7f8fd7e533b34f1e899c668265a7351f\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\7f8fd7e533b34f1e899c668265a7351f\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\7f8fd7e533b34f1e899c668265a7351f\\combined.records.json"
+  }
+}

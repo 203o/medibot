@@ -1,0 +1,72 @@
+{
+  "run_id": "c7bafaccf88d48b18236b966bed3b802",
+  "stored_at": "2026-04-17T22:55:38+00:00",
+  "query": "cancer cancer leading cause death canada",
+  "query_fallbacks": [
+    "cancer cancer leading cause death canada",
+    "cancer mortality rates canada",
+    "leading causes cancer death canada",
+    "cancer epidemiology canada mortality",
+    "cancer burden canada death rates",
+    "cancer cancer leading cause death",
+    "cancer cancer leading cause treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer cancer leading cause death canada",
+    "cancer cancer leading cause death",
+    "cancer cancer leading cause treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer mortality rates canada",
+    "leading causes cancer death canada",
+    "cancer epidemiology canada mortality",
+    "cancer burden canada death rates"
+  ],
+  "keywords": [
+    "cancer",
+    "leading",
+    "cause",
+    "death",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 33,
+    "indexed_chunks": 124
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer mortality rates canada",
+      "leading causes cancer death canada",
+      "cancer epidemiology canada mortality",
+      "cancer burden canada death rates"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c7bafaccf88d48b18236b966bed3b802\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c7bafaccf88d48b18236b966bed3b802\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c7bafaccf88d48b18236b966bed3b802\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\c7bafaccf88d48b18236b966bed3b802\\combined.records.json"
+  }
+}

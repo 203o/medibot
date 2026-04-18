@@ -1,0 +1,23 @@
+{
+  "run_id": "c76fdf02b954459081a7137f03802690",
+  "stored_at": "2026-04-15T14:23:46+00:00",
+  "query": "malaria rate kenya",
+  "query_fallbacks": [
+    "malaria rate kenya",
+    "malaria rate",
+    "malaria"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 5
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\c76fdf02b954459081a7137f03802690\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\c76fdf02b954459081a7137f03802690\\clinicaltrials.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\c76fdf02b954459081a7137f03802690\\combined.records.json"
+  }
+}

@@ -1,0 +1,927 @@
+{
+  "enabled": true,
+  "indexed_chunks": 0,
+  "matches": [
+    {
+      "id": "pubmed:2102366:0",
+      "score": 0.871861457824707,
+      "metadata": {
+        "id": "pubmed:2102366:0",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "This article reviews lung cancer mortality and smoking prevalence in Canada."
+      }
+    },
+    {
+      "id": "pubmed:38319507:2",
+      "score": 0.856073260307312,
+      "metadata": {
+        "id": "pubmed:38319507:2",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces."
+      }
+    },
+    {
+      "id": "pubmed:34070989:1",
+      "score": 0.7963062524795532,
+      "metadata": {
+        "id": "pubmed:34070989:1",
+        "doc_id": "34070989",
+        "source": "pubmed",
+        "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+        "text": "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      }
+    },
+    {
+      "id": "pubmed:39243029:1",
+      "score": 0.7953351736068726,
+      "metadata": {
+        "id": "pubmed:39243029:1",
+        "doc_id": "39243029",
+        "source": "pubmed",
+        "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+        "text": "Lung cancer is one of the most common cancers and causes of cancer death in Canada."
+      }
+    },
+    {
+      "id": "pubmed:38319507:1",
+      "score": 0.785733699798584,
+      "metadata": {
+        "id": "pubmed:38319507:1",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends."
+      }
+    },
+    {
+      "id": "pubmed:36290875:0",
+      "score": 0.7737269997596741,
+      "metadata": {
+        "id": "pubmed:36290875:0",
+        "doc_id": "36290875",
+        "source": "pubmed",
+        "title": "Access to Cancer Drugs in Canada.",
+        "study_type": "Editorial",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+        "text": "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      }
+    },
+    {
+      "id": "pubmed:15110450:1",
+      "score": 0.7641311287879944,
+      "metadata": {
+        "id": "pubmed:15110450:1",
+        "doc_id": "15110450",
+        "source": "pubmed",
+        "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+        "text": "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature."
+      }
+    },
+    {
+      "id": "pubmed:38319507:0",
+      "score": 0.7417454719543457,
+      "metadata": {
+        "id": "pubmed:38319507:0",
+        "doc_id": "38319507",
+        "source": "pubmed",
+        "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+        "text": "However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada."
+      }
+    },
+    {
+      "id": "pubmed:35323350:2",
+      "score": 0.7354806065559387,
+      "metadata": {
+        "id": "pubmed:35323350:2",
+        "doc_id": "35323350",
+        "source": "pubmed",
+        "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+        "text": "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04706754:0",
+      "score": 0.7290355563163757,
+      "metadata": {
+        "id": "clinicaltrials:NCT04706754:0",
+        "doc_id": "NCT04706754",
+        "source": "clinicaltrials",
+        "title": "Pan-Canadian Lung Cancer Observational Study (PALEOS)",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04706754",
+        "text": "A multicenter, ambispective observational study focusing on patients diagnosed with lung cancer in Canada identified after January 1, 2000 inclusive."
+      }
+    },
+    {
+      "id": "pubmed:26086335:0",
+      "score": 0.7287812232971191,
+      "metadata": {
+        "id": "pubmed:26086335:0",
+        "doc_id": "26086335",
+        "source": "pubmed",
+        "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+        "text": "This study examines incidence rates of lung cancer and histologic subtypes by educational attainment, income and occupation in a broadly representative sample of Canadians aged 25 or older."
+      }
+    },
+    {
+      "id": "pubmed:2102366:1",
+      "score": 0.7264789342880249,
+      "metadata": {
+        "id": "pubmed:2102366:1",
+        "doc_id": "2102366",
+        "source": "pubmed",
+        "title": "Lung cancer and smoking prevalence in Canada.",
+        "study_type": "Journal Article, Review",
+        "year": "1990",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+        "text": "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      }
+    },
+    {
+      "id": "pubmed:29705772:1",
+      "score": 0.7245281338691711,
+      "metadata": {
+        "id": "pubmed:29705772:1",
+        "doc_id": "29705772",
+        "source": "pubmed",
+        "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+        "text": "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011."
+      }
+    },
+    {
+      "id": "pubmed:35323350:0",
+      "score": 0.7135424613952637,
+      "metadata": {
+        "id": "pubmed:35323350:0",
+        "doc_id": "35323350",
+        "source": "pubmed",
+        "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+        "text": "Here, we present a contemporary review of treatment of non-small cell lung cancer in Canada based on current best practices."
+      }
+    },
+    {
+      "id": "pubmed:27343441:1",
+      "score": 0.7122085094451904,
+      "metadata": {
+        "id": "pubmed:27343441:1",
+        "doc_id": "27343441",
+        "source": "pubmed",
+        "title": "Comprehensive Clinical Staging for Resectable Lung Cancer: Clinicopathological Correlations and the Role of Brain MRI.",
+        "study_type": "Journal Article",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27343441/",
+        "text": "Of 315 patients with primary lung cancer, 55.6% were female and the mean age was 70 ± 9.6 years."
+      }
+    },
+    {
+      "id": "pubmed:15110450:0",
+      "score": 0.7044895887374878,
+      "metadata": {
+        "id": "pubmed:15110450:0",
+        "doc_id": "15110450",
+        "source": "pubmed",
+        "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+        "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+        "text": "A questionnaire detailing different aspects of radiation treatment of lung cancer was mailed to all radiation oncologists treating lung cancer in Canada."
+      }
+    },
+    {
+      "id": "pubmed:37932475:1",
+      "score": 0.7042859792709351,
+      "metadata": {
+        "id": "pubmed:37932475:1",
+        "doc_id": "37932475",
+        "source": "pubmed",
+        "title": "Trends in lung cancer diagnosis and care among visible minorities and non-visible minorities in Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37932475/",
+        "text": "Data from the 2006 Canadian long-form census were cross-linked with the Canadian Cancer Registry and hospital data to determine rates of lung cancer diagnosis among visible minorities and non-visible minorities in Canada, and to assess for differences in rates of hospital-based procedures pertaining to a lung cancer diagnosis based on visible-minority status."
+      }
+    },
+    {
+      "id": "pubmed:40604281:0",
+      "score": 0.6999455690383911,
+      "metadata": {
+        "id": "pubmed:40604281:0",
+        "doc_id": "40604281",
+        "source": "pubmed",
+        "title": "The mutagenic forces shaping the genomes of lung cancer in never smokers.",
+        "study_type": "Journal Article, Research Support, N.I.H., Intramural",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40604281/",
+        "text": "Lung cancer in never smokers (LCINS) accounts for around 25% of all lung cancers"
+      }
+    },
+    {
+      "id": "pubmed:26086335:1",
+      "score": 0.6965286731719971,
+      "metadata": {
+        "id": "pubmed:26086335:1",
+        "doc_id": "26086335",
+        "source": "pubmed",
+        "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+        "text": "Because the Canadian Cancer Registry does not contain socioeconomic data, the 1991 Canadian Census Cohort was used to study social determinants of lung cancer risk in the general Canadian population."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02916745:0",
+      "score": 0.6875139474868774,
+      "metadata": {
+        "id": "clinicaltrials:NCT02916745:0",
+        "doc_id": "NCT02916745",
+        "source": "clinicaltrials",
+        "title": "Feasibility Study of Using Navigational Bronchoscopy to Perform PDT-Photofrin® in Unresectable Peripheral Lung Cancer",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02916745",
+        "text": "Lung cancer accounts for almost one-third of cancer deaths."
+      }
+    },
+    {
+      "id": "pubmed:17620772:1",
+      "score": 0.6866583824157715,
+      "metadata": {
+        "id": "pubmed:17620772:1",
+        "doc_id": "17620772",
+        "source": "pubmed",
+        "title": "Lung cancer adjuvant therapy.",
+        "study_type": "Journal Article, Review",
+        "year": "2007",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+        "text": "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      }
+    },
+    {
+      "id": "pubmed:22052329:1",
+      "score": 0.6768296957015991,
+      "metadata": {
+        "id": "pubmed:22052329:1",
+        "doc_id": "22052329",
+        "source": "pubmed",
+        "title": "Cigarette smoking and lung cancer--relative risk estimates for the major histological types from a pooled analysis of case-control studies.",
+        "study_type": "Comparative Study, Journal Article, Multicenter Study, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22052329/",
+        "text": "Lung cancer is mainly caused by smoking, but the quantitative relations between smoking and histologic subtypes of lung cancer remain inconclusive."
+      }
+    },
+    {
+      "id": "pubmed:39074244:0",
+      "score": 0.6715196967124939,
+      "metadata": {
+        "id": "pubmed:39074244:0",
+        "doc_id": "39074244",
+        "source": "pubmed",
+        "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+        "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+        "text": "Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06628102:0",
+      "score": 0.6702731251716614,
+      "metadata": {
+        "id": "clinicaltrials:NCT06628102:0",
+        "doc_id": "NCT06628102",
+        "source": "clinicaltrials",
+        "title": "Improving Detection of Early Lung Cancer in a Diverse Population (IDEAL) Study",
+        "study_type": "INTERVENTIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT06628102",
+        "text": "The evidence led to the implementation of LDCT lung cancer screening in Canada for people who have smoked heavily in the past or are still smoking."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W2106787323:1",
+      "score": 0.667736291885376,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W2106787323:1",
+        "doc_id": "https://openalex.org/W2106787323",
+        "source": "openalex",
+        "title": "Global cancer statistics",
+        "study_type": "article",
+        "year": "2011",
+        "url": "https://doi.org/10.3322/caac.20107",
+        "text": "Lung cancer is the leading cancer site in males, comprising 17% of the total new cancer cases and 23% of the total cancer deaths."
+      }
+    },
+    {
+      "id": "pubmed:39074244:1",
+      "score": 0.664570689201355,
+      "metadata": {
+        "id": "pubmed:39074244:1",
+        "doc_id": "39074244",
+        "source": "pubmed",
+        "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+        "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+        "text": "We sought to develop a deeper understanding of lung cancer diagnosis, incidence, mortality, and survival in First Nations, Inuit, and Métis peoples in Canada."
+      }
+    },
+    {
+      "id": "pubmed:37277094:2",
+      "score": 0.6636420488357544,
+      "metadata": {
+        "id": "pubmed:37277094:2",
+        "doc_id": "37277094",
+        "source": "pubmed",
+        "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee.",
+        "study_type": "Journal Article, Review",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37277094/",
+        "text": "The number of estimated attributable lung cancer deaths has increased by nearly 30% since 2007 as smoking has decreased and air pollution has increased."
+      }
+    },
+    {
+      "id": "pubmed:34753715:1",
+      "score": 0.6611340641975403,
+      "metadata": {
+        "id": "pubmed:34753715:1",
+        "doc_id": "34753715",
+        "source": "pubmed",
+        "title": "Advances in systemic therapy for non-small cell lung cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34753715/",
+        "text": "Lung cancer remains a leading cause of cancer related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:39337530:1",
+      "score": 0.6603108644485474,
+      "metadata": {
+        "id": "pubmed:39337530:1",
+        "doc_id": "39337530",
+        "source": "pubmed",
+        "title": "Emerging Targets in Non-Small Cell Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39337530/",
+        "text": "Lung cancer is responsible for a high burden of disease globally."
+      }
+    },
+    {
+      "id": "pubmed:38641511:2",
+      "score": 0.6601009964942932,
+      "metadata": {
+        "id": "pubmed:38641511:2",
+        "doc_id": "38641511",
+        "source": "pubmed",
+        "title": "Development of new techniques and clinical applications of liquid biopsy in lung cancer management.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38641511/",
+        "text": "Lung cancer is an exceedingly malignant tumor reported as having the highest morbidity and mortality of any cancer worldwide, thus posing a great threat to global health."
+      }
+    },
+    {
+      "id": "pubmed:37932475:0",
+      "score": 0.6547349691390991,
+      "metadata": {
+        "id": "pubmed:37932475:0",
+        "doc_id": "37932475",
+        "source": "pubmed",
+        "title": "Trends in lung cancer diagnosis and care among visible minorities and non-visible minorities in Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37932475/",
+        "text": "In Canada, visible minorities experience lower rates of lung cancer diagnosis than non-visible minorities."
+      }
+    },
+    {
+      "id": "pubmed:33722709:1",
+      "score": 0.6546385884284973,
+      "metadata": {
+        "id": "pubmed:33722709:1",
+        "doc_id": "33722709",
+        "source": "pubmed",
+        "title": "Tobacco Smoking and Risk of Second Primary Lung Cancer.",
+        "study_type": "Journal Article, Meta-Analysis, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33722709/",
+        "text": "We analyzed data from 7059 participants in the Multiethnic Cohort (MEC) diagnosed with an initial primary lung cancer (IPLC) between 1993 and 2017."
+      }
+    },
+    {
+      "id": "pubmed:40480014:2",
+      "score": 0.6534598469734192,
+      "metadata": {
+        "id": "pubmed:40480014:2",
+        "doc_id": "40480014",
+        "source": "pubmed",
+        "title": "AGREE-II appraisal of lung cancer management clinical practice guidelines by the OPTIMA consortium.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40480014/",
+        "text": "We identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025."
+      }
+    },
+    {
+      "id": "pubmed:39074244:2",
+      "score": 0.6502492427825928,
+      "metadata": {
+        "id": "pubmed:39074244:2",
+        "doc_id": "39074244",
+        "source": "pubmed",
+        "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+        "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+        "text": "This review illustrates that more comprehensive quantitative and qualitative lung cancer research is essential to further identify the structural causes for the high incidence of the disease."
+      }
+    },
+    {
+      "id": "pubmed:37236969:0",
+      "score": 0.6493701934814453,
+      "metadata": {
+        "id": "pubmed:37236969:0",
+        "doc_id": "37236969",
+        "source": "pubmed",
+        "title": "Genome-wide association study of lung adenocarcinoma in East Asia and comparison with a European population.",
+        "study_type": "Meta-Analysis, Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural, Research Support, N.I.H., Intramural",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37236969/",
+        "text": "Lung adenocarcinoma is the most common type of lung cancer."
+      }
+    },
+    {
+      "id": "pubmed:40133478:1",
+      "score": 0.6490980982780457,
+      "metadata": {
+        "id": "pubmed:40133478:1",
+        "doc_id": "40133478",
+        "source": "pubmed",
+        "title": "Update 2025: Management of Non‑Small-Cell Lung Cancer.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40133478/",
+        "text": "Lung cancer remains the leading cause of cancer-related mortality worldwide."
+      }
+    },
+    {
+      "id": "pubmed:39243029:2",
+      "score": 0.6490980386734009,
+      "metadata": {
+        "id": "pubmed:39243029:2",
+        "doc_id": "39243029",
+        "source": "pubmed",
+        "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+        "text": "This population-based retrospective cohort study utilized linked health administrative databases and identified all individuals (immigrants and long-term residents) aged 40 + years diagnosed with incident lung cancer between April 1, 2012 and March 31, 2017."
+      }
+    },
+    {
+      "id": "pubmed:29705772:0",
+      "score": 0.646880030632019,
+      "metadata": {
+        "id": "pubmed:29705772:0",
+        "doc_id": "29705772",
+        "source": "pubmed",
+        "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+        "text": "This is the first study to quantify the burden of lung cancer attributable to occupational DEE exposure in Canada."
+      }
+    },
+    {
+      "id": "pubmed:40320382:0",
+      "score": 0.6428061723709106,
+      "metadata": {
+        "id": "pubmed:40320382:0",
+        "doc_id": "40320382",
+        "source": "pubmed",
+        "title": "Incidental findings during lung low-dose computed tomography cancer screening in Australia and Canada, 2016-21: a prospective observational study.",
+        "study_type": "Journal Article, Observational Study, Multicenter Study",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40320382/",
+        "text": "To investigate the type and frequency of incidental findings in people at high risk of lung cancer who undergo baseline low-dose computed tomography (LDCT) lung cancer screening in Australia and Canada."
+      }
+    },
+    {
+      "id": "pubmed:36745885:2",
+      "score": 0.6424912810325623,
+      "metadata": {
+        "id": "pubmed:36745885:2",
+        "doc_id": "36745885",
+        "source": "pubmed",
+        "title": "Risk Model-Based Lung Cancer Screening : A Cost-Effectiveness Analysis.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36745885/",
+        "text": "In their 2021 lung cancer screening recommendation update, the U.S."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "2102366",
+      "title": "Lung cancer and smoking prevalence in Canada.",
+      "study_type": "Journal Article, Review",
+      "year": "1990",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2102366/",
+      "semantic_score": 0.871861457824707,
+      "matched_sentences": [
+        "This article reviews lung cancer mortality and smoking prevalence in Canada.",
+        "For men, age-adjusted lung cancer death rates are highest in Quebec and the Atlantic provinces, areas that had Canada's highest smoking prevalence twenty years ago."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38319507",
+      "title": "Geographical Disparities in Lung Cancer in Canada: A Review.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38319507/",
+      "semantic_score": 0.856073260307312,
+      "matched_sentences": [
+        "This review underscores the disparities in lung cancer prevalence and mortality rates between eastern and western Canadian provinces.",
+        "While established risk factors for lung cancer exist in Canada, there remains ambiguity regarding the underlying provincial and territorial trends.",
+        "However, a noticeable research gap persists, particularly in systematically examining the factors that amplify geographical disparities in lung cancer incidence and mortality rates within Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34070989",
+      "title": "Lung Cancer Inequalities in Stage of Diagnosis in Ontario, Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34070989/",
+      "semantic_score": 0.7963062524795532,
+      "matched_sentences": [
+        "Lung cancer is the most common cancer and cause of cancer death in Canada, with approximately 50% of cases diagnosed at stage IV."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39243029",
+      "title": "Lung cancer survival by immigrant status: a population-based retrospective cohort study in Ontario, Canada.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39243029/",
+      "semantic_score": 0.7953351736068726,
+      "matched_sentences": [
+        "Lung cancer is one of the most common cancers and causes of cancer death in Canada.",
+        "This population-based retrospective cohort study utilized linked health administrative databases and identified all individuals (immigrants and long-term residents) aged 40 + years diagnosed with incident lung cancer between April 1, 2012 and March 31, 2017."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36290875",
+      "title": "Access to Cancer Drugs in Canada.",
+      "study_type": "Editorial",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36290875/",
+      "semantic_score": 0.7737269997596741,
+      "matched_sentences": [
+        "Lung cancer, because of the multiple subtypes now identifiable and because of the myriad of new and effective therapies, provides fertile ground to highlight issues related to oncology drug access in Canada [...]."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15110450",
+      "title": "Radiation treatment of lung cancer--patterns of practice in Canada.",
+      "study_type": "Comparative Study, Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15110450/",
+      "semantic_score": 0.7641311287879944,
+      "matched_sentences": [
+        "Canadian practice in the treatment of lung cancers shows some variations although it is consistent with the trends in the literature.",
+        "A questionnaire detailing different aspects of radiation treatment of lung cancer was mailed to all radiation oncologists treating lung cancer in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35323350",
+      "title": "Non-Small-Cell Lung Cancer in 2022: A Review for General Practitioners in Oncology.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35323350/",
+      "semantic_score": 0.7354806065559387,
+      "matched_sentences": [
+        "Lung cancer is the leading cause of cancer death in Canada and a significant cause of morbidity for patients and their loved ones.",
+        "Here, we present a contemporary review of treatment of non-small cell lung cancer in Canada based on current best practices."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04706754",
+      "title": "Pan-Canadian Lung Cancer Observational Study (PALEOS)",
+      "study_type": "OBSERVATIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04706754",
+      "semantic_score": 0.7290355563163757,
+      "matched_sentences": [
+        "A multicenter, ambispective observational study focusing on patients diagnosed with lung cancer in Canada identified after January 1, 2000 inclusive."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26086335",
+      "title": "Social determinants of lung cancer incidence in Canada: A 13-year prospective study.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26086335/",
+      "semantic_score": 0.7287812232971191,
+      "matched_sentences": [
+        "This study examines incidence rates of lung cancer and histologic subtypes by educational attainment, income and occupation in a broadly representative sample of Canadians aged 25 or older.",
+        "Because the Canadian Cancer Registry does not contain socioeconomic data, the 1991 Canadian Census Cohort was used to study social determinants of lung cancer risk in the general Canadian population."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29705772",
+      "title": "Burden of lung cancer attributable to occupational diesel engine exhaust exposure in Canada.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29705772/",
+      "semantic_score": 0.7245281338691711,
+      "matched_sentences": [
+        "We estimated that 2.4% (95% CI 1.6% to 6.6%) of lung cancers in Canada are attributable to occupational DEE exposure, corresponding to approximately 560 (95% CI 380 to 1570) incident and 460 (95% CI 310 to 1270) fatal lung cancers in 2011.",
+        "This is the first study to quantify the burden of lung cancer attributable to occupational DEE exposure in Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27343441",
+      "title": "Comprehensive Clinical Staging for Resectable Lung Cancer: Clinicopathological Correlations and the Role of Brain MRI.",
+      "study_type": "Journal Article",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27343441/",
+      "semantic_score": 0.7122085094451904,
+      "matched_sentences": [
+        "Of 315 patients with primary lung cancer, 55.6% were female and the mean age was 70 ± 9.6 years."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37932475",
+      "title": "Trends in lung cancer diagnosis and care among visible minorities and non-visible minorities in Canada.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37932475/",
+      "semantic_score": 0.7042859792709351,
+      "matched_sentences": [
+        "Data from the 2006 Canadian long-form census were cross-linked with the Canadian Cancer Registry and hospital data to determine rates of lung cancer diagnosis among visible minorities and non-visible minorities in Canada, and to assess for differences in rates of hospital-based procedures pertaining to a lung cancer diagnosis based on visible-minority status.",
+        "In Canada, visible minorities experience lower rates of lung cancer diagnosis than non-visible minorities."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40604281",
+      "title": "The mutagenic forces shaping the genomes of lung cancer in never smokers.",
+      "study_type": "Journal Article, Research Support, N.I.H., Intramural",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40604281/",
+      "semantic_score": 0.6999455690383911,
+      "matched_sentences": [
+        "Lung cancer in never smokers (LCINS) accounts for around 25% of all lung cancers"
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02916745",
+      "title": "Feasibility Study of Using Navigational Bronchoscopy to Perform PDT-Photofrin® in Unresectable Peripheral Lung Cancer",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02916745",
+      "semantic_score": 0.6875139474868774,
+      "matched_sentences": [
+        "Lung cancer accounts for almost one-third of cancer deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17620772",
+      "title": "Lung cancer adjuvant therapy.",
+      "study_type": "Journal Article, Review",
+      "year": "2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17620772/",
+      "semantic_score": 0.6866583824157715,
+      "matched_sentences": [
+        "Lung cancer is the most common cause of cancer-related mortality in North America with non-small cell lung cancer representing the majority of cases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22052329",
+      "title": "Cigarette smoking and lung cancer--relative risk estimates for the major histological types from a pooled analysis of case-control studies.",
+      "study_type": "Comparative Study, Journal Article, Multicenter Study, Research Support, N.I.H., Intramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22052329/",
+      "semantic_score": 0.6768296957015991,
+      "matched_sentences": [
+        "Lung cancer is mainly caused by smoking, but the quantitative relations between smoking and histologic subtypes of lung cancer remain inconclusive."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39074244",
+      "title": "Lung cancer in First Nations, Inuit, and Métis peoples in Canada - a scoping review.",
+      "study_type": "Journal Article, Scoping Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39074244/",
+      "semantic_score": 0.6715196967124939,
+      "matched_sentences": [
+        "Lung cancer also affects First Nations, Inuit and Métis peoples significantly in Canada, which deserves further investigation as there is a literature gap on this topic.",
+        "We sought to develop a deeper understanding of lung cancer diagnosis, incidence, mortality, and survival in First Nations, Inuit, and Métis peoples in Canada.",
+        "This review illustrates that more comprehensive quantitative and qualitative lung cancer research is essential to further identify the structural causes for the high incidence of the disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06628102",
+      "title": "Improving Detection of Early Lung Cancer in a Diverse Population (IDEAL) Study",
+      "study_type": "INTERVENTIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT06628102",
+      "semantic_score": 0.6702731251716614,
+      "matched_sentences": [
+        "The evidence led to the implementation of LDCT lung cancer screening in Canada for people who have smoked heavily in the past or are still smoking."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W2106787323",
+      "title": "Global cancer statistics",
+      "study_type": "article",
+      "year": "2011",
+      "url": "https://doi.org/10.3322/caac.20107",
+      "semantic_score": 0.667736291885376,
+      "matched_sentences": [
+        "Lung cancer is the leading cancer site in males, comprising 17% of the total new cancer cases and 23% of the total cancer deaths."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37277094",
+      "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee.",
+      "study_type": "Journal Article, Review",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37277094/",
+      "semantic_score": 0.6636420488357544,
+      "matched_sentences": [
+        "The number of estimated attributable lung cancer deaths has increased by nearly 30% since 2007 as smoking has decreased and air pollution has increased."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34753715",
+      "title": "Advances in systemic therapy for non-small cell lung cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34753715/",
+      "semantic_score": 0.6611340641975403,
+      "matched_sentences": [
+        "Lung cancer remains a leading cause of cancer related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39337530",
+      "title": "Emerging Targets in Non-Small Cell Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39337530/",
+      "semantic_score": 0.6603108644485474,
+      "matched_sentences": [
+        "Lung cancer is responsible for a high burden of disease globally."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38641511",
+      "title": "Development of new techniques and clinical applications of liquid biopsy in lung cancer management.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38641511/",
+      "semantic_score": 0.6601009964942932,
+      "matched_sentences": [
+        "Lung cancer is an exceedingly malignant tumor reported as having the highest morbidity and mortality of any cancer worldwide, thus posing a great threat to global health."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33722709",
+      "title": "Tobacco Smoking and Risk of Second Primary Lung Cancer.",
+      "study_type": "Journal Article, Meta-Analysis, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33722709/",
+      "semantic_score": 0.6546385884284973,
+      "matched_sentences": [
+        "We analyzed data from 7059 participants in the Multiethnic Cohort (MEC) diagnosed with an initial primary lung cancer (IPLC) between 1993 and 2017."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40480014",
+      "title": "AGREE-II appraisal of lung cancer management clinical practice guidelines by the OPTIMA consortium.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40480014/",
+      "semantic_score": 0.6534598469734192,
+      "matched_sentences": [
+        "We identified and critically appraised 21 European lung cancer guidelines published between 2009 and 2025."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37236969",
+      "title": "Genome-wide association study of lung adenocarcinoma in East Asia and comparison with a European population.",
+      "study_type": "Meta-Analysis, Journal Article, Research Support, Non-U.S. Gov't, Research Support, N.I.H., Extramural, Research Support, N.I.H., Intramural",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37236969/",
+      "semantic_score": 0.6493701934814453,
+      "matched_sentences": [
+        "Lung adenocarcinoma is the most common type of lung cancer."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40133478",
+      "title": "Update 2025: Management of Non‑Small-Cell Lung Cancer.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40133478/",
+      "semantic_score": 0.6490980982780457,
+      "matched_sentences": [
+        "Lung cancer remains the leading cause of cancer-related mortality worldwide."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40320382",
+      "title": "Incidental findings during lung low-dose computed tomography cancer screening in Australia and Canada, 2016-21: a prospective observational study.",
+      "study_type": "Journal Article, Observational Study, Multicenter Study",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40320382/",
+      "semantic_score": 0.6428061723709106,
+      "matched_sentences": [
+        "To investigate the type and frequency of incidental findings in people at high risk of lung cancer who undergo baseline low-dose computed tomography (LDCT) lung cancer screening in Australia and Canada."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36745885",
+      "title": "Risk Model-Based Lung Cancer Screening : A Cost-Effectiveness Analysis.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36745885/",
+      "semantic_score": 0.6424912810325623,
+      "matched_sentences": [
+        "In their 2021 lung cancer screening recommendation update, the U.S."
+      ]
+    }
+  ]
+}

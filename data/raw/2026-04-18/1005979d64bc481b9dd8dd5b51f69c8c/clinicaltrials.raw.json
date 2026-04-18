@@ -1,0 +1,469 @@
+{
+  "query": "malaria morning malaria south africa south africa",
+  "selected_query": "malaria morning malaria south africa south africa",
+  "attempted_queries": [
+    {
+      "query": "malaria morning malaria south africa south africa",
+      "location_filter": "south africa",
+      "count": 0
+    },
+    {
+      "query": "malaria morning malaria south africa south africa",
+      "location_filter": "",
+      "count": 1
+    }
+  ],
+  "location": "south africa",
+  "records": [
+    {
+      "nct_id": "NCT01634932",
+      "title": "Iron Absorption From Regular, Biofortified and Post-harvest Fortified Pearl Millet",
+      "brief_summary": "Iron deficiency (ID) with or without anemia is still a main public health problem in sub-Saharan Africa and Southern Asia, especially in vulnerable population groups such as children below 5 years of age and women of reproductive age. The etiology of ID is multifactorial; but major causes are low iron dietary bioavailability and intake from monotonous cereal-based diets aggravated by chronic parasitic infections such as malaria and soil-transmitted helminthes. Approaches such as dietary diversification, supplementation with pharmacological iron doses, public health measures (e.g. deworming, malaria control) and food fortification with different iron compounds have notably reduced morbidity and mortality caused by ID but have not been universally successful. Biofortification is a new promising approach to combat micronutrient deficiencies such as ID. It is defined as the process of increasing the content and bioavailability of essential nutrients such as iron in crops by traditional plant breeding and/or genetic engineering. Pearl millet is a staple food for many people living in different areas of West Africa (e.g. Northern Benin) and India, two parts of the world, where ID is still widely prevalent. Therefore, pearl millet was one of the crops targeted for iron biofortification by HarvestPlus.\n\nTo improve human iron status successfully, the additional iron gained through biofortification has to be at least as bioavailable as the iron in regular peal millet varieties. For that reason we are planning an iron absorption study where we will investigate the iron bioavailability from an iron-biofortified millet variety and compare it with the iron bioavailability from a regular-iron millet variety and from regular-iron millet fortified post-harvest with ferrous sulfate (FeSO4). Iron absorption will be determined by incorporation of labeled iron into erythrocytes, at least 14 days after the administration of the test meals containing labeled iron (stable isotope technique). The three different test meals based on 1) regular-iron, 2) iron-biofortified and 3) post-harvest iron-fortified millet will be administered as multiple meals i.e. each study participant will consume each test meal for a period of 5 days (2 portions/day; one in the morning, one for lunch). Twenty apparently healthy Beninese women with a low/marginal iron status (serum ferritin \\< 25 ;g/L), non-anemic or mildly anemic (hemoglobin \\>90 g/L), 18-30 years of age with a body weight \\< 65 kg and normal body mass index will be included in the study.\n\nThe results of the study will provide important insights on the iron bioavailability from regular, biofortified and post-harvest fortified staple crops such as pearl millet when feeding multiple meals as part of a more complex diet. The results can be applied to different meals based on pearl millet such as the West African millet pastes or the Indian flat breads.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "Iron deficiency (ID) with or without anemia is still a main public health problem in sub-Saharan Africa and Southern Asia, especially in vulnerable population groups such as children below 5 years of age and women of reproductive age.",
+        "The etiology of ID is multifactorial; but major causes are low iron dietary bioavailability and intake from monotonous cereal-based diets aggravated by chronic parasitic infections such as malaria and soil-transmitted helminthes.",
+        "deworming, malaria control) and food fortification with different iron compounds have notably reduced morbidity and mortality caused by ID but have not been universally successful."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "last_update": "2012-11-07",
+      "query_keywords": [
+        "malaria",
+        "morning",
+        "south",
+        "africa"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT01634932",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT01634932",
+            "orgStudyIdInfo": {
+              "id": "Fe_Biofortified_Millet"
+            },
+            "organization": {
+              "fullName": "Swiss Federal Institute of Technology",
+              "class": "OTHER"
+            },
+            "briefTitle": "Iron Absorption From Regular, Biofortified and Post-harvest Fortified Pearl Millet",
+            "officialTitle": "Comparison of Iron Absorption From Regular-iron, Iron Biofortified, and Post-harvest Iron-fortified Pearl Millet Using Multiple Meals in Young Women"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2012-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2012-07"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2012-09",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2012-09",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2012-07-03",
+            "studyFirstSubmitQcDate": "2012-07-03",
+            "studyFirstPostDateStruct": {
+              "date": "2012-07-06",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2012-11-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2012-11-08",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Prof. Michael B. Zimmermann",
+              "investigatorTitle": "Prof",
+              "investigatorAffiliation": "Swiss Federal Institute of Technology"
+            },
+            "leadSponsor": {
+              "name": "Swiss Federal Institute of Technology",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Université d'Abomey-Calavi",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "descriptionModule": {
+            "briefSummary": "Iron deficiency (ID) with or without anemia is still a main public health problem in sub-Saharan Africa and Southern Asia, especially in vulnerable population groups such as children below 5 years of age and women of reproductive age. The etiology of ID is multifactorial; but major causes are low iron dietary bioavailability and intake from monotonous cereal-based diets aggravated by chronic parasitic infections such as malaria and soil-transmitted helminthes. Approaches such as dietary diversification, supplementation with pharmacological iron doses, public health measures (e.g. deworming, malaria control) and food fortification with different iron compounds have notably reduced morbidity and mortality caused by ID but have not been universally successful. Biofortification is a new promising approach to combat micronutrient deficiencies such as ID. It is defined as the process of increasing the content and bioavailability of essential nutrients such as iron in crops by traditional plant breeding and/or genetic engineering. Pearl millet is a staple food for many people living in different areas of West Africa (e.g. Northern Benin) and India, two parts of the world, where ID is still widely prevalent. Therefore, pearl millet was one of the crops targeted for iron biofortification by HarvestPlus.\n\nTo improve human iron status successfully, the additional iron gained through biofortification has to be at least as bioavailable as the iron in regular peal millet varieties. For that reason we are planning an iron absorption study where we will investigate the iron bioavailability from an iron-biofortified millet variety and compare it with the iron bioavailability from a regular-iron millet variety and from regular-iron millet fortified post-harvest with ferrous sulfate (FeSO4). Iron absorption will be determined by incorporation of labeled iron into erythrocytes, at least 14 days after the administration of the test meals containing labeled iron (stable isotope technique). The three different test meals based on 1) regular-iron, 2) iron-biofortified and 3) post-harvest iron-fortified millet will be administered as multiple meals i.e. each study participant will consume each test meal for a period of 5 days (2 portions/day; one in the morning, one for lunch). Twenty apparently healthy Beninese women with a low/marginal iron status (serum ferritin \\< 25 ;g/L), non-anemic or mildly anemic (hemoglobin \\>90 g/L), 18-30 years of age with a body weight \\< 65 kg and normal body mass index will be included in the study.\n\nThe results of the study will provide important insights on the iron bioavailability from regular, biofortified and post-harvest fortified staple crops such as pearl millet when feeding multiple meals as part of a more complex diet. The results can be applied to different meals based on pearl millet such as the West African millet pastes or the Indian flat breads."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Iron Deficiency",
+              "Biofortification"
+            ],
+            "keywords": [
+              "Iron deficiency",
+              "Biofortification",
+              "Pearl Millet",
+              "Benin"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "PARTICIPANT"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 22,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "regular-iron millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Regular iron"
+                ]
+              },
+              {
+                "label": "iron-biofortified millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Iron biofortified millet"
+                ]
+              },
+              {
+                "label": "Post-harvest iron-fortified millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Post-harvest iron-fortifed millet"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Regular iron",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "regular-iron millet"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Iron biofortified millet",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "iron-biofortified millet"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Post-harvest iron-fortifed millet",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "Post-harvest iron-fortified millet"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Iron isotope ratio in blood samples",
+                "description": "Whole blood samples will be collected to measure the shift in iron isotope ratios 32 days after administration of isotopic label in the first test meal.\n\nFirst test meal on study days 1-5, Second test meal on study day 8-12 after a 2-day break, Third (last) test meal on study days 15-19 after a 2-day break, Measurement of iron isotopic shift in blood samples collected on study day 33 (14 days after the last test meal)",
+                "timeFrame": "Study day 33 (32 days after administration of isotopic label in the first test meal/End of the study)"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Females of reproductive age, 18-30 years\n* Low/marginal iron status (Hb \\> 9.0 g/dl, SF \\< 25 ;g/L)\n* Maximum body weight 65 kg\n* Normal body mass index (18.5-25 kg/m2)\n* Obtained consent\n\nExclusion Criteria:\n\n* Pregnancy or Lactating (assessed by pregnancy test)\n* Fever (body temperature \\>37.5 °C)\n* Symptomatic malaria infection (positive blood smear for Plasmodium species + symptoms)\n* Infection with soil-transmitted helminthes (positive stool samples and/or urine samples)\n* Intake of mineral/vitamin supplements 2 weeks before and during the study\n* Metabolic or gastrointestinal disorders, eating disorders or food allergy\n* Regular intake of medication\n* Blood transfusion, blood donation or significant blood loss (accident, surgery) over the past 6 months\n* Currently participating in another clinical trial or having participated in another clinical trial during the last 3 months prior to the beginning of this study\n* Former participation in a study involving administration of iron stable isotopes\n* Subject who cannot be expected to comply with study protocol",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "30 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "Hopital du Zone de Natitingou",
+                "city": "Natitingou",
+                "state": "Atakora Department",
+                "country": "Benin",
+                "geoPoint": {
+                  "lat": 10.30416,
+                  "lon": 1.37962
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000090463",
+                "term": "Iron Deficiencies"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D019189",
+                "term": "Iron Metabolism Disorders"
+              },
+              {
+                "id": "D008659",
+                "term": "Metabolic Diseases"
+              },
+              {
+                "id": "D009750",
+                "term": "Nutritional and Metabolic Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT01634932",
+            "orgStudyIdInfo": {
+              "id": "Fe_Biofortified_Millet"
+            },
+            "organization": {
+              "fullName": "Swiss Federal Institute of Technology",
+              "class": "OTHER"
+            },
+            "briefTitle": "Iron Absorption From Regular, Biofortified and Post-harvest Fortified Pearl Millet",
+            "officialTitle": "Comparison of Iron Absorption From Regular-iron, Iron Biofortified, and Post-harvest Iron-fortified Pearl Millet Using Multiple Meals in Young Women"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2012-11",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2012-07"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2012-09",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2012-09",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2012-07-03",
+            "studyFirstSubmitQcDate": "2012-07-03",
+            "studyFirstPostDateStruct": {
+              "date": "2012-07-06",
+              "type": "ESTIMATED"
+            },
+            "lastUpdateSubmitDate": "2012-11-07",
+            "lastUpdatePostDateStruct": {
+              "date": "2012-11-08",
+              "type": "ESTIMATED"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "PRINCIPAL_INVESTIGATOR",
+              "investigatorFullName": "Prof. Michael B. Zimmermann",
+              "investigatorTitle": "Prof",
+              "investigatorAffiliation": "Swiss Federal Institute of Technology"
+            },
+            "leadSponsor": {
+              "name": "Swiss Federal Institute of Technology",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Université d'Abomey-Calavi",
+                "class": "OTHER"
+              }
+            ]
+          },
+          "descriptionModule": {
+            "briefSummary": "Iron deficiency (ID) with or without anemia is still a main public health problem in sub-Saharan Africa and Southern Asia, especially in vulnerable population groups such as children below 5 years of age and women of reproductive age. The etiology of ID is multifactorial; but major causes are low iron dietary bioavailability and intake from monotonous cereal-based diets aggravated by chronic parasitic infections such as malaria and soil-transmitted helminthes. Approaches such as dietary diversification, supplementation with pharmacological iron doses, public health measures (e.g. deworming, malaria control) and food fortification with different iron compounds have notably reduced morbidity and mortality caused by ID but have not been universally successful. Biofortification is a new promising approach to combat micronutrient deficiencies such as ID. It is defined as the process of increasing the content and bioavailability of essential nutrients such as iron in crops by traditional plant breeding and/or genetic engineering. Pearl millet is a staple food for many people living in different areas of West Africa (e.g. Northern Benin) and India, two parts of the world, where ID is still widely prevalent. Therefore, pearl millet was one of the crops targeted for iron biofortification by HarvestPlus.\n\nTo improve human iron status successfully, the additional iron gained through biofortification has to be at least as bioavailable as the iron in regular peal millet varieties. For that reason we are planning an iron absorption study where we will investigate the iron bioavailability from an iron-biofortified millet variety and compare it with the iron bioavailability from a regular-iron millet variety and from regular-iron millet fortified post-harvest with ferrous sulfate (FeSO4). Iron absorption will be determined by incorporation of labeled iron into erythrocytes, at least 14 days after the administration of the test meals containing labeled iron (stable isotope technique). The three different test meals based on 1) regular-iron, 2) iron-biofortified and 3) post-harvest iron-fortified millet will be administered as multiple meals i.e. each study participant will consume each test meal for a period of 5 days (2 portions/day; one in the morning, one for lunch). Twenty apparently healthy Beninese women with a low/marginal iron status (serum ferritin \\< 25 ;g/L), non-anemic or mildly anemic (hemoglobin \\>90 g/L), 18-30 years of age with a body weight \\< 65 kg and normal body mass index will be included in the study.\n\nThe results of the study will provide important insights on the iron bioavailability from regular, biofortified and post-harvest fortified staple crops such as pearl millet when feeding multiple meals as part of a more complex diet. The results can be applied to different meals based on pearl millet such as the West African millet pastes or the Indian flat breads."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Iron Deficiency",
+              "Biofortification"
+            ],
+            "keywords": [
+              "Iron deficiency",
+              "Biofortification",
+              "Pearl Millet",
+              "Benin"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "CROSSOVER",
+              "primaryPurpose": "PREVENTION",
+              "maskingInfo": {
+                "masking": "SINGLE",
+                "whoMasked": [
+                  "PARTICIPANT"
+                ]
+              }
+            },
+            "enrollmentInfo": {
+              "count": 22,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "regular-iron millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Regular iron"
+                ]
+              },
+              {
+                "label": "iron-biofortified millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Iron biofortified millet"
+                ]
+              },
+              {
+                "label": "Post-harvest iron-fortified millet",
+                "type": "EXPERIMENTAL",
+                "interventionNames": [
+                  "Other: Post-harvest iron-fortifed millet"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "OTHER",
+                "name": "Regular iron",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "regular-iron millet"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Iron biofortified millet",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "iron-biofortified millet"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Post-harvest iron-fortifed millet",
+                "description": "Labeled iron as FeSO4 will be added as a tag to a test meal consumed over 5 consecutive days for breakfast and for lunch",
+                "armGroupLabels": [
+                  "Post-harvest iron-fortified millet"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Iron isotope ratio in blood samples",
+                "description": "Whole blood samples will be collected to measure the shift in iron isotope ratios 32 days after administration of isotopic label in the first test meal.\n\nFirst test meal on study days 1-5, Second test meal on study day 8-12 after a 2-day break, Third (last) test meal on study days 15-19 after a 2-day break, Measurement of iron isotopic shift in blood samples collected on study day 33 (14 days after the last test meal)",
+                "timeFrame": "Study day 33 (32 days after administration of isotopic label in the first test meal/End of the study)"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Females of reproductive age, 18-30 years\n* Low/marginal iron status (Hb \\> 9.0 g/dl, SF \\< 25 ;g/L)\n* Maximum body weight 65 kg\n* Normal body mass index (18.5-25 kg/m2)\n* Obtained consent\n\nExclusion Criteria:\n\n* Pregnancy or Lactating (assessed by pregnancy test)\n* Fever (body temperature \\>37.5 °C)\n* Symptomatic malaria infection (positive blood smear for Plasmodium species + symptoms)\n* Infection with soil-transmitted helminthes (positive stool samples and/or urine samples)\n* Intake of mineral/vitamin supplements 2 weeks before and during the study\n* Metabolic or gastrointestinal disorders, eating disorders or food allergy\n* Regular intake of medication\n* Blood transfusion, blood donation or significant blood loss (accident, surgery) over the past 6 months\n* Currently participating in another clinical trial or having participated in another clinical trial during the last 3 months prior to the beginning of this study\n* Former participation in a study involving administration of iron stable isotopes\n* Subject who cannot be expected to comply with study protocol",
+            "healthyVolunteers": true,
+            "sex": "FEMALE",
+            "minimumAge": "18 Years",
+            "maximumAge": "30 Years",
+            "stdAges": [
+              "ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "Hopital du Zone de Natitingou",
+                "city": "Natitingou",
+                "state": "Atakora Department",
+                "country": "Benin",
+                "geoPoint": {
+                  "lat": 10.30416,
+                  "lon": 1.37962
+                }
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-17"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D000090463",
+                "term": "Iron Deficiencies"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D019189",
+                "term": "Iron Metabolism Disorders"
+              },
+              {
+                "id": "D008659",
+                "term": "Metabolic Diseases"
+              },
+              {
+                "id": "D009750",
+                "term": "Nutritional and Metabolic Diseases"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

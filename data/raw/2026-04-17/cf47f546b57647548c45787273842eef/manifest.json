@@ -1,0 +1,71 @@
+{
+  "run_id": "cf47f546b57647548c45787273842eef",
+  "stored_at": "2026-04-17T23:11:09+00:00",
+  "query": "cancer non cancer studies usa USA",
+  "query_fallbacks": [
+    "cancer non cancer studies usa USA",
+    "Cancer vs Non-Cancer Outcomes in USA Studies",
+    "Comparative Epidemiology of Cancer and Non-Cancer Conditions in USA",
+    "USA-Based Observational Studies of Cancer and Non-Cancer Events",
+    "Systematic Review of Cancer and Non-Cancer Incidence in USA",
+    "cancer non cancer studies usa",
+    "cancer non cancer studies treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer non cancer studies usa USA",
+    "cancer non cancer studies usa",
+    "cancer non cancer studies treatment",
+    "cancer usa",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "Cancer vs Non-Cancer Outcomes in USA Studies",
+    "Comparative Epidemiology of Cancer and Non-Cancer Conditions in USA",
+    "USA-Based Observational Studies of Cancer and Non-Cancer Events",
+    "Systematic Review of Cancer and Non-Cancer Incidence in USA"
+  ],
+  "keywords": [
+    "cancer",
+    "non",
+    "studies",
+    "usa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 35,
+    "indexed_chunks": 124
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "Cancer vs Non-Cancer Outcomes in USA Studies",
+      "Comparative Epidemiology of Cancer and Non-Cancer Conditions in USA",
+      "USA-Based Observational Studies of Cancer and Non-Cancer Events",
+      "Systematic Review of Cancer and Non-Cancer Incidence in USA"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\cf47f546b57647548c45787273842eef\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\cf47f546b57647548c45787273842eef\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\cf47f546b57647548c45787273842eef\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\cf47f546b57647548c45787273842eef\\combined.records.json"
+  }
+}

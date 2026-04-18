@@ -1,0 +1,72 @@
+{
+  "run_id": "fa94c389a4ca4766b3eeb33cc4d7ba7e",
+  "stored_at": "2026-04-16T13:38:06+00:00",
+  "query": "hiv rate infections thika",
+  "query_fallbacks": [
+    "hiv rate infections thika",
+    "HIV incidence Thika region",
+    "Epidemiology of HIV infections in Thika",
+    "HIV prevalence Thika Kenya",
+    "Thika HIV transmission rates",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv rate infections thika",
+    "hiv rate infections",
+    "hiv rate infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV incidence Thika region",
+    "Epidemiology of HIV infections in Thika",
+    "HIV prevalence Thika Kenya",
+    "Thika HIV transmission rates"
+  ],
+  "keywords": [
+    "hiv",
+    "rate",
+    "infections",
+    "thika"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 6,
+    "clinicaltrials": 3,
+    "openalex": 30,
+    "semantic_hits": 69,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV incidence Thika region",
+      "Epidemiology of HIV infections in Thika",
+      "HIV prevalence Thika Kenya",
+      "Thika HIV transmission rates"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fa94c389a4ca4766b3eeb33cc4d7ba7e\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fa94c389a4ca4766b3eeb33cc4d7ba7e\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fa94c389a4ca4766b3eeb33cc4d7ba7e\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fa94c389a4ca4766b3eeb33cc4d7ba7e\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\fa94c389a4ca4766b3eeb33cc4d7ba7e\\combined.records.json"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "run_id": "84c462143b4147edaad578b0a8bf6e7a",
+  "stored_at": "2026-04-15T21:01:40+00:00",
+  "query": "malaria infections kenya turkana",
+  "query_fallbacks": [
+    "malaria infections kenya turkana",
+    "malaria infections",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "infections",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials"
+  ],
+  "counts": {
+    "pubmed": 5,
+    "clinicaltrials": 5,
+    "semantic_hits": 3,
+    "indexed_chunks": 25
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\84c462143b4147edaad578b0a8bf6e7a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\84c462143b4147edaad578b0a8bf6e7a\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\84c462143b4147edaad578b0a8bf6e7a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-15\\84c462143b4147edaad578b0a8bf6e7a\\combined.records.json"
+  }
+}

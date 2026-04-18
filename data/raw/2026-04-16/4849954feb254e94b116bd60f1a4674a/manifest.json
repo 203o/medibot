@@ -1,0 +1,73 @@
+{
+  "run_id": "4849954feb254e94b116bd60f1a4674a",
+  "stored_at": "2026-04-16T17:04:12+00:00",
+  "query": "malaria main cause kenya turkana",
+  "query_fallbacks": [
+    "malaria main cause kenya turkana",
+    "malaria risk factors in turkana county kenya",
+    "primary causes of malaria in kenya's turkana region",
+    "epidemiology of malaria in kenya's turkana area",
+    "leading causes of malaria transmission in kenya's turkana district",
+    "malaria main cause",
+    "malaria main cause treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria main cause kenya turkana",
+    "malaria main cause",
+    "malaria main cause treatment",
+    "malaria kenya turkana",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria risk factors in turkana county kenya",
+    "primary causes of malaria in kenya's turkana region",
+    "epidemiology of malaria in kenya's turkana area",
+    "leading causes of malaria transmission in kenya's turkana district"
+  ],
+  "keywords": [
+    "malaria",
+    "main",
+    "cause",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 2,
+    "clinicaltrials": 30,
+    "openalex": 30,
+    "semantic_hits": 65,
+    "indexed_chunks": 125
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria risk factors in turkana county kenya",
+      "primary causes of malaria in kenya's turkana region",
+      "epidemiology of malaria in kenya's turkana area",
+      "leading causes of malaria transmission in kenya's turkana district"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4849954feb254e94b116bd60f1a4674a\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4849954feb254e94b116bd60f1a4674a\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4849954feb254e94b116bd60f1a4674a\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4849954feb254e94b116bd60f1a4674a\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4849954feb254e94b116bd60f1a4674a\\combined.records.json"
+  }
+}

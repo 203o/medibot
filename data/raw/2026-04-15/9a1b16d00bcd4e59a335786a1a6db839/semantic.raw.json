@@ -1,0 +1,138 @@
+{
+  "enabled": true,
+  "indexed_chunks": 6,
+  "matches": [
+    {
+      "id": "pubmed:25495426:1",
+      "score": 0.5376293659210205,
+      "metadata": {
+        "id": "pubmed:25495426:1",
+        "doc_id": "25495426",
+        "source": "pubmed",
+        "title": "The η-class carbonic anhydrases as drug targets for antimalarial agents.",
+        "study_type": "Publication",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25495426/",
+        "text": "Plasmodium falciparum η-CA showed a moderate but significant activity for the CO2 hydration reaction, with a kcat of 1.4 × 10(5)s(-1) and a kcat/Km of 5.4 × 10(6) M(-1) × s(-1)."
+      }
+    },
+    {
+      "id": "pubmed:41062216:0",
+      "score": 0.49817216396331787,
+      "metadata": {
+        "id": "pubmed:41062216:0",
+        "doc_id": "41062216",
+        "source": "pubmed",
+        "title": "Plasmodium falciparum η-carbonic anhydrase.",
+        "study_type": "Publication",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41062216/",
+        "text": "Malaria parasites belonging to the genus Plasmodium encode for a carbonic anhydrase (CA, EC 4.2.1.1) originally considered to belong to the α-class, which has been investigated starting with 2004 as a potential antimalarial target, considering the observation that CA levels in red blood cells infected with these parasites are much higher compared to those of uninfected cells."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05816330:2",
+      "score": 0.46970099210739136,
+      "metadata": {
+        "id": "clinicaltrials:NCT05816330:2",
+        "doc_id": "NCT05816330",
+        "source": "clinicaltrials",
+        "title": "L9LS MAb in Malian Adults",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05816330",
+        "text": "The purpose of this study is to evaluate the safety and tolerability of a one time SC administration of L9LS in healthy adults in Mali, as well as its protective efficacy against naturally occurring Plasmodium falciparum (Pf) infection over a 6-month malaria season."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05400655:0",
+      "score": 0.46493929624557495,
+      "metadata": {
+        "id": "clinicaltrials:NCT05400655:0",
+        "doc_id": "NCT05400655",
+        "source": "clinicaltrials",
+        "title": "Anti-malaria MAb in Kenyan Children",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05400655",
+        "text": "The purpose of this study is to evaluate the safety and tolerability of one-time subcutaneous (SC) administration of monoclonal antibody (MAb) L9LS in healthy Kenyan children aged 5 months to 10 years, as well as the protective efficacy of one or two doses of L9LS against naturally occurring Plasmodium falciparum (Pf) infection among Kenyan children aged 5 to 59 months at enrollment, in a setting of perennial high transmission."
+      }
+    },
+    {
+      "id": "pubmed:28714864:0",
+      "score": 0.4506356716156006,
+      "metadata": {
+        "id": "pubmed:28714864:0",
+        "doc_id": "28714864",
+        "source": "pubmed",
+        "title": "An erythroid-specific ATP2B4 enhancer mediates red blood cell hydration and malaria susceptibility.",
+        "study_type": "Publication",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28714864/",
+        "text": "Our study supports ATP2B4 as a potential target for modulating rbc hydration in erythroid disorders and malaria infection."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "25495426",
+      "title": "The η-class carbonic anhydrases as drug targets for antimalarial agents.",
+      "study_type": "Publication",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25495426/",
+      "semantic_score": 0.5376293659210205,
+      "matched_sentences": [
+        "Plasmodium falciparum η-CA showed a moderate but significant activity for the CO2 hydration reaction, with a kcat of 1.4 × 10(5)s(-1) and a kcat/Km of 5.4 × 10(6) M(-1) × s(-1)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41062216",
+      "title": "Plasmodium falciparum η-carbonic anhydrase.",
+      "study_type": "Publication",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41062216/",
+      "semantic_score": 0.49817216396331787,
+      "matched_sentences": [
+        "Malaria parasites belonging to the genus Plasmodium encode for a carbonic anhydrase (CA, EC 4.2.1.1) originally considered to belong to the α-class, which has been investigated starting with 2004 as a potential antimalarial target, considering the observation that CA levels in red blood cells infected with these parasites are much higher compared to those of uninfected cells."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05816330",
+      "title": "L9LS MAb in Malian Adults",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05816330",
+      "semantic_score": 0.46970099210739136,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the safety and tolerability of a one time SC administration of L9LS in healthy adults in Mali, as well as its protective efficacy against naturally occurring Plasmodium falciparum (Pf) infection over a 6-month malaria season."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05400655",
+      "title": "Anti-malaria MAb in Kenyan Children",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05400655",
+      "semantic_score": 0.46493929624557495,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the safety and tolerability of one-time subcutaneous (SC) administration of monoclonal antibody (MAb) L9LS in healthy Kenyan children aged 5 months to 10 years, as well as the protective efficacy of one or two doses of L9LS against naturally occurring Plasmodium falciparum (Pf) infection among Kenyan children aged 5 to 59 months at enrollment, in a setting of perennial high transmission."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28714864",
+      "title": "An erythroid-specific ATP2B4 enhancer mediates red blood cell hydration and malaria susceptibility.",
+      "study_type": "Publication",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28714864/",
+      "semantic_score": 0.4506356716156006,
+      "matched_sentences": [
+        "Our study supports ATP2B4 as a potential target for modulating rbc hydration in erythroid disorders and malaria infection."
+      ]
+    }
+  ]
+}

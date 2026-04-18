@@ -1,0 +1,71 @@
+{
+  "run_id": "4f01f7376afb48c6a760e891d3fe6f99",
+  "stored_at": "2026-04-16T14:06:26+00:00",
+  "query": "hiv clinical question africa",
+  "query_fallbacks": [
+    "hiv clinical question africa",
+    "HIV epidemiology in sub-Saharan Africa",
+    "HIV prevalence in Africa: systematic review",
+    "Clinical outcomes of HIV in African populations",
+    "Epidemiological trends of HIV in Africa",
+    "hiv clinical question",
+    "hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv clinical question africa",
+    "hiv clinical question",
+    "hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "HIV epidemiology in sub-Saharan Africa",
+    "HIV prevalence in Africa: systematic review",
+    "Clinical outcomes of HIV in African populations",
+    "Epidemiological trends of HIV in Africa"
+  ],
+  "keywords": [
+    "hiv",
+    "clinical",
+    "question",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 66,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "HIV epidemiology in sub-Saharan Africa",
+      "HIV prevalence in Africa: systematic review",
+      "Clinical outcomes of HIV in African populations",
+      "Epidemiological trends of HIV in Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4f01f7376afb48c6a760e891d3fe6f99\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4f01f7376afb48c6a760e891d3fe6f99\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4f01f7376afb48c6a760e891d3fe6f99\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\4f01f7376afb48c6a760e891d3fe6f99\\combined.records.json"
+  }
+}

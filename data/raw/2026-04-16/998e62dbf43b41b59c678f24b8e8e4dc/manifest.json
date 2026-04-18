@@ -1,0 +1,72 @@
+{
+  "run_id": "998e62dbf43b41b59c678f24b8e8e4dc",
+  "stored_at": "2026-04-16T17:24:12+00:00",
+  "query": "hiv rate infections children africa",
+  "query_fallbacks": [
+    "hiv rate infections children africa",
+    "incidence HIV infection in pediatric populations Africa",
+    "HIV epidemiology children sub-Saharan Africa",
+    "prevalence HIV infection among children Africa",
+    "trends HIV infections in African children",
+    "hiv rate infections children",
+    "hiv rate infections children treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv rate infections children africa",
+    "hiv rate infections children",
+    "hiv rate infections children treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [
+    "incidence HIV infection in pediatric populations Africa",
+    "HIV epidemiology children sub-Saharan Africa",
+    "prevalence HIV infection among children Africa",
+    "trends HIV infections in African children"
+  ],
+  "keywords": [
+    "hiv",
+    "rate",
+    "infections",
+    "children",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 26,
+    "openalex": 0,
+    "semantic_hits": 63,
+    "indexed_chunks": 96
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "incidence HIV infection in pediatric populations Africa",
+      "HIV epidemiology children sub-Saharan Africa",
+      "prevalence HIV infection among children Africa",
+      "trends HIV infections in African children"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\998e62dbf43b41b59c678f24b8e8e4dc\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\998e62dbf43b41b59c678f24b8e8e4dc\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\998e62dbf43b41b59c678f24b8e8e4dc\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\998e62dbf43b41b59c678f24b8e8e4dc\\combined.records.json"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "run_id": "d28bfcc8af9e4f28b52e8b555fee6525",
+  "stored_at": "2026-04-16T10:48:52+00:00",
+  "query": "hiv infections thika",
+  "query_fallbacks": [
+    "hiv infections thika",
+    "hiv infections",
+    "hiv infections treatment",
+    "hiv thika",
+    "hiv"
+  ],
+  "keywords": [
+    "hiv",
+    "infections",
+    "thika"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 60,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 78,
+    "indexed_chunks": 242
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\d28bfcc8af9e4f28b52e8b555fee6525\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\d28bfcc8af9e4f28b52e8b555fee6525\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\d28bfcc8af9e4f28b52e8b555fee6525\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\d28bfcc8af9e4f28b52e8b555fee6525\\combined.records.json"
+  }
+}

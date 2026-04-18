@@ -1,0 +1,79 @@
+{
+  "run_id": "9254582b939e44d5bf087a4c36cdbc5f",
+  "stored_at": "2026-04-16T19:10:58+00:00",
+  "query": "lung cancer latest first line treatment kenya",
+  "query_fallbacks": [
+    "lung cancer latest first line treatment kenya",
+    "non-small cell lung cancer treatment outcomes Kenya",
+    "Kenya first-line NSCLC treatment guidelines",
+    "latest treatment protocols for NSCLC in sub-Saharan Africa",
+    "first-line NSCLC treatment efficacy in East Africa",
+    "lung cancer latest first line treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest first line treatment kenya",
+    "lung cancer latest first line treatment",
+    "lung cancer kenya",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "non-small cell lung cancer treatment outcomes Kenya",
+    "Kenya first-line NSCLC treatment guidelines",
+    "latest treatment protocols for NSCLC in sub-Saharan Africa",
+    "first-line NSCLC treatment efficacy in East Africa"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "first",
+    "line",
+    "treatment",
+    "therapy",
+    "management",
+    "non",
+    "small",
+    "cell",
+    "lung",
+    "cancer",
+    "kenya"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 1,
+    "clinicaltrials": 10,
+    "openalex": 30,
+    "semantic_hits": 71,
+    "indexed_chunks": 45
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "non-small cell lung cancer treatment outcomes Kenya",
+      "Kenya first-line NSCLC treatment guidelines",
+      "latest treatment protocols for NSCLC in sub-Saharan Africa",
+      "first-line NSCLC treatment efficacy in East Africa"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9254582b939e44d5bf087a4c36cdbc5f\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9254582b939e44d5bf087a4c36cdbc5f\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9254582b939e44d5bf087a4c36cdbc5f\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9254582b939e44d5bf087a4c36cdbc5f\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\9254582b939e44d5bf087a4c36cdbc5f\\combined.records.json"
+  }
+}

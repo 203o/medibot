@@ -1,0 +1,927 @@
+{
+  "enabled": true,
+  "indexed_chunks": 66,
+  "matches": [
+    {
+      "id": "pubmed:34795714:0",
+      "score": 0.8089377284049988,
+      "metadata": {
+        "id": "pubmed:34795714:0",
+        "doc_id": "34795714",
+        "source": "pubmed",
+        "title": "Prevalence and density of malaria parasitaemia amongst HIV Individuals in Warri, Nigeria.",
+        "study_type": "Comparative Study, Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34795714/",
+        "text": "The prevalence rate of 38% and 39% were obtained for malaria parasite infection among HIVSP and HIV/span>SN respectively."
+      }
+    },
+    {
+      "id": "pubmed:18647387:0",
+      "score": 0.7809342741966248,
+      "metadata": {
+        "id": "pubmed:18647387:0",
+        "doc_id": "18647387",
+        "source": "pubmed",
+        "title": "The impact of HIV-1 on the malaria parasite biomass in adults in sub-Saharan Africa contributes to the emergence of antimalarial drug resistance.",
+        "study_type": "Journal Article",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18647387/",
+        "text": "The largest relative increase (134.9-243.9%) was found in southern Africa where HIV-1 prevalence is the highest and malaria transmission unstable."
+      }
+    },
+    {
+      "id": "pubmed:26449946:2",
+      "score": 0.7807846069335938,
+      "metadata": {
+        "id": "pubmed:26449946:2",
+        "doc_id": "26449946",
+        "source": "pubmed",
+        "title": "Emergence of Community-Acquired, Multidrug-Resistant Invasive Nontyphoidal Salmonella Disease in Rural Western Kenya, 2009-2013.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26449946/",
+        "text": "Malaria infection within the past 2 weeks occurred in 18.8% (3/16) of invasive NTS episodes in HIV-infected and 66.2% (53/80) in HIV-uninfected children."
+      }
+    },
+    {
+      "id": "pubmed:28749403:2",
+      "score": 0.7803107500076294,
+      "metadata": {
+        "id": "pubmed:28749403:2",
+        "doc_id": "28749403",
+        "source": "pubmed",
+        "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+        "text": "The interactions between HIV and malaria co-infection have been shown to influence each other in their clinical outcomes in Sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "pubmed:34949251:0",
+      "score": 0.7539589405059814,
+      "metadata": {
+        "id": "pubmed:34949251:0",
+        "doc_id": "34949251",
+        "source": "pubmed",
+        "title": "Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.",
+        "study_type": "Journal Article, Observational Study",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34949251/",
+        "text": "HIV and malaria are both independently associated with high mortality in sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "pubmed:8023753:0",
+      "score": 0.7513489723205566,
+      "metadata": {
+        "id": "pubmed:8023753:0",
+        "doc_id": "8023753",
+        "source": "pubmed",
+        "title": "Prognostic indicators in adult cerebral malaria: a study in Burundi, an area of high prevalence of HIV infection.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "1994",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8023753/",
+        "text": "We examined the possible risk factors for poor prognostic in cerebral malaria in 31 adults from Burundi, an area of high prevalence rate of HIV-1 infection."
+      }
+    },
+    {
+      "id": "pubmed:34949251:1",
+      "score": 0.7472758293151855,
+      "metadata": {
+        "id": "pubmed:34949251:1",
+        "doc_id": "34949251",
+        "source": "pubmed",
+        "title": "Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.",
+        "study_type": "Journal Article, Observational Study",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34949251/",
+        "text": "To describe the population characteristics of patients with malaria at Chris Hani Baragwanath Academic Hospital, Johannesburg, SA, clinical and biochemical features of severity, the proportion of patients with HIV infection, management and outcomes."
+      }
+    },
+    {
+      "id": "pubmed:17158329:1",
+      "score": 0.7461567521095276,
+      "metadata": {
+        "id": "pubmed:17158329:1",
+        "doc_id": "17158329",
+        "source": "pubmed",
+        "title": "Dual infection with HIV and malaria fuels the spread of both diseases in sub-Saharan Africa.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17158329/",
+        "text": "Co-infection might also have facilitated the geographic expansion of malaria in areas where HIV prevalence is high."
+      }
+    },
+    {
+      "id": "pubmed:21224274:0",
+      "score": 0.7420848608016968,
+      "metadata": {
+        "id": "pubmed:21224274:0",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level."
+      }
+    },
+    {
+      "id": "pubmed:9306483:0",
+      "score": 0.7417099475860596,
+      "metadata": {
+        "id": "pubmed:9306483:0",
+        "doc_id": "9306483",
+        "source": "pubmed",
+        "title": "Effects of malaria infection in human immunodeficiency virus type 1-infected Ugandan children.",
+        "study_type": "Clinical Trial, Controlled Clinical Trial, Journal Article, Research Support, U.S. Gov't, P.H.S.",
+        "year": "1997",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9306483/",
+        "text": "Malaria causes severe morbidity and mortality in many areas of Africa where HIV-1 infection is also prevalent."
+      }
+    },
+    {
+      "id": "pubmed:22457274:1",
+      "score": 0.7408604621887207,
+      "metadata": {
+        "id": "pubmed:22457274:1",
+        "doc_id": "22457274",
+        "source": "pubmed",
+        "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22457274/",
+        "text": "Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children."
+      }
+    },
+    {
+      "id": "pubmed:40143377:0",
+      "score": 0.7408193349838257,
+      "metadata": {
+        "id": "pubmed:40143377:0",
+        "doc_id": "40143377",
+        "source": "pubmed",
+        "title": "HIV-Helminth Co-Infections and Immune Checkpoints: Implications for Cancer Risk in South Africa.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40143377/",
+        "text": "South Africa has the highest HIV prevalence globally, often co-occurring with helminth infections in impoverished regions."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00137657:0",
+      "score": 0.7403133511543274,
+      "metadata": {
+        "id": "clinicaltrials:NCT00137657:0",
+        "doc_id": "NCT00137657",
+        "source": "clinicaltrials",
+        "title": "Impact of Cotrimoxazole Prophylaxis for HIV-Infected Adults on Antifolate Resistance",
+        "study_type": "INTERVENTIONAL",
+        "year": "2005",
+        "url": "https://clinicaltrials.gov/study/NCT00137657",
+        "text": "We conducted this study in Kisumu, Kenya where HIV prevalence is high and malaria is highly endemic."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00811421:0",
+      "score": 0.7360190153121948,
+      "metadata": {
+        "id": "clinicaltrials:NCT00811421:0",
+        "doc_id": "NCT00811421",
+        "source": "clinicaltrials",
+        "title": "Evaluation of Alternative Antimalarial Drugs for Malaria in Pregnancy",
+        "study_type": "INTERVENTIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00811421",
+        "text": "HIV infection increases susceptibility to malaria and may reduce the efficacy of interventions."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00144352:0",
+      "score": 0.7340303063392639,
+      "metadata": {
+        "id": "clinicaltrials:NCT00144352:0",
+        "doc_id": "NCT00144352",
+        "source": "clinicaltrials",
+        "title": "In-Vivo Response of P. Falciparum to Antimalarial Treatment in HIV-Infected and HIV-Uninfected Adults",
+        "study_type": "INTERVENTIONAL",
+        "year": "2005",
+        "url": "https://clinicaltrials.gov/study/NCT00144352",
+        "text": "Although a study in 1993 in Tanzania showed significantly higher prevalence of malaria infections in HIV-positive compared to HIV negative adults, until recently there have been few studies showing any association between the two infections."
+      }
+    },
+    {
+      "id": "pubmed:21224274:1",
+      "score": 0.7305542826652527,
+      "metadata": {
+        "id": "pubmed:21224274:1",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors."
+      }
+    },
+    {
+      "id": "pubmed:12598779:2",
+      "score": 0.7302322387695312,
+      "metadata": {
+        "id": "pubmed:12598779:2",
+        "doc_id": "12598779",
+        "source": "pubmed",
+        "title": "The effect of dual infection with HIV and malaria on pregnancy outcome in western Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12598779/",
+        "text": "The maternal HIV seroprevalence was 24.3%, and at delivery 22.0% of the women had evidence of malaria."
+      }
+    },
+    {
+      "id": "pubmed:18647387:1",
+      "score": 0.7289567589759827,
+      "metadata": {
+        "id": "pubmed:18647387:1",
+        "doc_id": "18647387",
+        "source": "pubmed",
+        "title": "The impact of HIV-1 on the malaria parasite biomass in adults in sub-Saharan Africa contributes to the emergence of antimalarial drug resistance.",
+        "study_type": "Journal Article",
+        "year": "2008",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18647387/",
+        "text": "A univariate sensitivity analysis shows that estimates are sensitive to the magnitude of the impact of HIV-1 infection on the malaria incidence rates and associated parasite densities."
+      }
+    },
+    {
+      "id": "pubmed:22533793:1",
+      "score": 0.727287769317627,
+      "metadata": {
+        "id": "pubmed:22533793:1",
+        "doc_id": "22533793",
+        "source": "pubmed",
+        "title": "Prevalence and correlates of insecticide-treated bednet use among HIV-1-infected adults in Kenya.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22533793/",
+        "text": "HIV-1-infected adults are at increased risk for malaria."
+      }
+    },
+    {
+      "id": "pubmed:17158329:2",
+      "score": 0.7244466543197632,
+      "metadata": {
+        "id": "pubmed:17158329:2",
+        "doc_id": "17158329",
+        "source": "pubmed",
+        "title": "Dual infection with HIV and malaria fuels the spread of both diseases in sub-Saharan Africa.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2006",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17158329/",
+        "text": "Hence, transient and repeated increases in HIV viral load resulting from recurrent co-infection with malaria may be an important factor in promoting the spread of HIV in sub-Saharan Africa."
+      }
+    },
+    {
+      "id": "pubmed:15362357:0",
+      "score": 0.72301185131073,
+      "metadata": {
+        "id": "pubmed:15362357:0",
+        "doc_id": "15362357",
+        "source": "pubmed",
+        "title": "Important but neglected ethical and cultural considerations in the fight against HIV/AIDS in Malawi.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+        "year": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15362357/",
+        "text": "Southern African countries have the highest HIV infection rates in the world."
+      }
+    },
+    {
+      "id": "pubmed:21505300:0",
+      "score": 0.721957802772522,
+      "metadata": {
+        "id": "pubmed:21505300:0",
+        "doc_id": "21505300",
+        "source": "pubmed",
+        "title": "Most adults seek urgent healthcare when acquiring HIV-1 and are frequently treated for malaria in coastal Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21505300/",
+        "text": "Factors associated with malaria treatment while acquiring HIV-1 were evaluated in multiple logistic regression."
+      }
+    },
+    {
+      "id": "pubmed:31798804:2",
+      "score": 0.7193164825439453,
+      "metadata": {
+        "id": "pubmed:31798804:2",
+        "doc_id": "31798804",
+        "source": "pubmed",
+        "title": "Prevalence of malaria in HIV positive and HIV negative pregnant women attending antenatal clinics in south eastern Nigeria.",
+        "study_type": "Comparative Study, Journal Article",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31798804/",
+        "text": "The prevalence of malaria infection among HIV positive pregnant mothers was 81% (162/200) and 75% (150/200) among HIV negative pregnant women (P < 0.001)."
+      }
+    },
+    {
+      "id": "pubmed:28749403:0",
+      "score": 0.7155458927154541,
+      "metadata": {
+        "id": "pubmed:28749403:0",
+        "doc_id": "28749403",
+        "source": "pubmed",
+        "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+        "study_type": "Journal Article",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+        "text": "This study was carried out in the two States of north east India endemic for both HIV and malaria infections, to study the interactions between the two diseases in the HIV-infected population."
+      }
+    },
+    {
+      "id": "pubmed:9840604:2",
+      "score": 0.7152813673019409,
+      "metadata": {
+        "id": "pubmed:9840604:2",
+        "doc_id": "9840604",
+        "source": "pubmed",
+        "title": "Efficacy of sulfadoxine-pyrimethamine for prevention of placental malaria in an area of Kenya with a high prevalence of malaria and human immunodeficiency virus infection.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "1998",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9840604/",
+        "text": "Seven percent (7 of 99) of the HIV-negative women on the two-dose SP regimen had placental malaria compared with 25% (10 of 39; P=0.007) of HIV-positive women on the same regimen; the rate of placental malaria in HIV-positive women was reduced to 7% (2 of 28; P=-0.051) for women on the monthly SP regimen."
+      }
+    },
+    {
+      "id": "pubmed:34795714:1",
+      "score": 0.7148758172988892,
+      "metadata": {
+        "id": "pubmed:34795714:1",
+        "doc_id": "34795714",
+        "source": "pubmed",
+        "title": "Prevalence and density of malaria parasitaemia amongst HIV Individuals in Warri, Nigeria.",
+        "study_type": "Comparative Study, Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34795714/",
+        "text": "Malaria parasite has been observed to be a common infection in Human Immunodeficiency virus (HIV), an increase malaria infection in adults."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05610098:0",
+      "score": 0.7095682621002197,
+      "metadata": {
+        "id": "clinicaltrials:NCT05610098:0",
+        "doc_id": "NCT05610098",
+        "source": "clinicaltrials",
+        "title": "Gene Expression Profiles in Spinal Tuberculosis.",
+        "study_type": "OBSERVATIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT05610098",
+        "text": "South Africa has one of the highest HIV and TB rates worldwide with an HIV prevalence rate in adults of 19% and a TB case notification rate of 615/100,000 in 2019."
+      }
+    },
+    {
+      "id": "pubmed:36410321:0",
+      "score": 0.7047187089920044,
+      "metadata": {
+        "id": "pubmed:36410321:0",
+        "doc_id": "36410321",
+        "source": "pubmed",
+        "title": "Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36410321/",
+        "text": "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria."
+      }
+    },
+    {
+      "id": "pubmed:37788741:1",
+      "score": 0.7017977237701416,
+      "metadata": {
+        "id": "pubmed:37788741:1",
+        "doc_id": "37788741",
+        "source": "pubmed",
+        "title": "Implications of asymptomatic malaria infections on hematologic parameters in adults living with HIV in malaria-endemic regions with varying transmission intensities.",
+        "study_type": "Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37788741/",
+        "text": "This study investigated hematologic abnormalities in malaria-asymptomatic people living with HIV (PLHIV) in regions with differing malaria transmission."
+      }
+    },
+    {
+      "id": "pubmed:22943054:0",
+      "score": 0.701726496219635,
+      "metadata": {
+        "id": "pubmed:22943054:0",
+        "doc_id": "22943054",
+        "source": "pubmed",
+        "title": "Correlates of HIV and malaria co-infection in Southern India.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+        "text": "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06152003:2",
+      "score": 0.7010035514831543,
+      "metadata": {
+        "id": "clinicaltrials:NCT06152003:2",
+        "doc_id": "NCT06152003",
+        "source": "clinicaltrials",
+        "title": "Intervention Development for Syndemics Among PWH in SA",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06152003",
+        "text": "South Africa (SA) has a generalized HIV epidemic, and the highest HIV prevalence rate (19%)."
+      }
+    },
+    {
+      "id": "pubmed:29412886:0",
+      "score": 0.7002003192901611,
+      "metadata": {
+        "id": "pubmed:29412886:0",
+        "doc_id": "29412886",
+        "source": "pubmed",
+        "title": "Pathology-Based Research in Africa.",
+        "study_type": "Journal Article, Review",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+        "text": "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      }
+    },
+    {
+      "id": "pubmed:36189366:0",
+      "score": 0.699834942817688,
+      "metadata": {
+        "id": "pubmed:36189366:0",
+        "doc_id": "36189366",
+        "source": "pubmed",
+        "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+        "text": "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized."
+      }
+    },
+    {
+      "id": "pubmed:34795714:2",
+      "score": 0.6973154544830322,
+      "metadata": {
+        "id": "pubmed:34795714:2",
+        "doc_id": "34795714",
+        "source": "pubmed",
+        "title": "Prevalence and density of malaria parasitaemia amongst HIV Individuals in Warri, Nigeria.",
+        "study_type": "Comparative Study, Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34795714/",
+        "text": "The difference in malaria parasite infection was not statistically significant (P>0.05) between HIVSP and HIVSN."
+      }
+    },
+    {
+      "id": "pubmed:26173396:0",
+      "score": 0.6971391439437866,
+      "metadata": {
+        "id": "pubmed:26173396:0",
+        "doc_id": "26173396",
+        "source": "pubmed",
+        "title": "Effects of HIV-1 infection on malaria parasitemia in milo sub-location, western Kenya.",
+        "study_type": "Journal Article",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26173396/",
+        "text": "To determine the effects of HIV-1 infection on malaria parasitaemia among consented residents of Milo sub-location, Bungoma County in western Kenya."
+      }
+    },
+    {
+      "id": "pubmed:12598780:0",
+      "score": 0.6964904069900513,
+      "metadata": {
+        "id": "pubmed:12598780:0",
+        "doc_id": "12598780",
+        "source": "pubmed",
+        "title": "HIV increases the risk of malaria in women of all gravidities in Kisumu, Kenya.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+        "year": "2003",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12598780/",
+        "text": "To study the importance of HIV infection for malaria in pregnancy in Kisumu, Kenya."
+      }
+    },
+    {
+      "id": "pubmed:22943054:1",
+      "score": 0.6940288543701172,
+      "metadata": {
+        "id": "pubmed:22943054:1",
+        "doc_id": "22943054",
+        "source": "pubmed",
+        "title": "Correlates of HIV and malaria co-infection in Southern India.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+        "text": "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria."
+      }
+    },
+    {
+      "id": "pubmed:22457274:0",
+      "score": 0.6918243169784546,
+      "metadata": {
+        "id": "pubmed:22457274:0",
+        "doc_id": "22457274",
+        "source": "pubmed",
+        "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+        "year": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22457274/",
+        "text": "Child HIV infection was associated with clinical (HR, 1.34; 95% confidence interval [CI], 1.12-1.61), probable (HR, 1.47; 95% CI, 1.19-1.81), and confirmed (HR, 1.67; 95% CI, 1.18-2.36) malaria episodes."
+      }
+    },
+    {
+      "id": "pubmed:36189366:1",
+      "score": 0.6912069320678711,
+      "metadata": {
+        "id": "pubmed:36189366:1",
+        "doc_id": "36189366",
+        "source": "pubmed",
+        "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+        "text": "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on"
+      }
+    },
+    {
+      "id": "pubmed:21224274:2",
+      "score": 0.689146876335144,
+      "metadata": {
+        "id": "pubmed:21224274:2",
+        "doc_id": "21224274",
+        "source": "pubmed",
+        "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+        "study_type": "Journal Article",
+        "year": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+        "text": "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "34795714",
+      "title": "Prevalence and density of malaria parasitaemia amongst HIV Individuals in Warri, Nigeria.",
+      "study_type": "Comparative Study, Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34795714/",
+      "semantic_score": 0.8089377284049988,
+      "matched_sentences": [
+        "The prevalence rate of 38% and 39% were obtained for malaria parasite infection among HIVSP and HIV/span>SN respectively.",
+        "Malaria parasite has been observed to be a common infection in Human Immunodeficiency virus (HIV), an increase malaria infection in adults.",
+        "The difference in malaria parasite infection was not statistically significant (P>0.05) between HIVSP and HIVSN."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "18647387",
+      "title": "The impact of HIV-1 on the malaria parasite biomass in adults in sub-Saharan Africa contributes to the emergence of antimalarial drug resistance.",
+      "study_type": "Journal Article",
+      "year": "2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18647387/",
+      "semantic_score": 0.7809342741966248,
+      "matched_sentences": [
+        "The largest relative increase (134.9-243.9%) was found in southern Africa where HIV-1 prevalence is the highest and malaria transmission unstable.",
+        "A univariate sensitivity analysis shows that estimates are sensitive to the magnitude of the impact of HIV-1 infection on the malaria incidence rates and associated parasite densities."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26449946",
+      "title": "Emergence of Community-Acquired, Multidrug-Resistant Invasive Nontyphoidal Salmonella Disease in Rural Western Kenya, 2009-2013.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26449946/",
+      "semantic_score": 0.7807846069335938,
+      "matched_sentences": [
+        "Malaria infection within the past 2 weeks occurred in 18.8% (3/16) of invasive NTS episodes in HIV-infected and 66.2% (53/80) in HIV-uninfected children."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28749403",
+      "title": "HIV-malaria interactions in North-East India: A prospective cohort study.",
+      "study_type": "Journal Article",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28749403/",
+      "semantic_score": 0.7803107500076294,
+      "matched_sentences": [
+        "The interactions between HIV and malaria co-infection have been shown to influence each other in their clinical outcomes in Sub-Saharan Africa.",
+        "This study was carried out in the two States of north east India endemic for both HIV and malaria infections, to study the interactions between the two diseases in the HIV-infected population."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34949251",
+      "title": "Clinical aspects and outcomes of patients with malaria at Chris Hani Baragwanath Academic Hospital,Johannesburg, South Africa.",
+      "study_type": "Journal Article, Observational Study",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34949251/",
+      "semantic_score": 0.7539589405059814,
+      "matched_sentences": [
+        "HIV and malaria are both independently associated with high mortality in sub-Saharan Africa.",
+        "To describe the population characteristics of patients with malaria at Chris Hani Baragwanath Academic Hospital, Johannesburg, SA, clinical and biochemical features of severity, the proportion of patients with HIV infection, management and outcomes."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "8023753",
+      "title": "Prognostic indicators in adult cerebral malaria: a study in Burundi, an area of high prevalence of HIV infection.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "1994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8023753/",
+      "semantic_score": 0.7513489723205566,
+      "matched_sentences": [
+        "We examined the possible risk factors for poor prognostic in cerebral malaria in 31 adults from Burundi, an area of high prevalence rate of HIV-1 infection."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "17158329",
+      "title": "Dual infection with HIV and malaria fuels the spread of both diseases in sub-Saharan Africa.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17158329/",
+      "semantic_score": 0.7461567521095276,
+      "matched_sentences": [
+        "Co-infection might also have facilitated the geographic expansion of malaria in areas where HIV prevalence is high.",
+        "Hence, transient and repeated increases in HIV viral load resulting from recurrent co-infection with malaria may be an important factor in promoting the spread of HIV in sub-Saharan Africa."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21224274",
+      "title": "HIV-malaria co-infection: effects of malaria on the prevalence of HIV in East sub-Saharan Africa.",
+      "study_type": "Journal Article",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224274/",
+      "semantic_score": 0.7420848608016968,
+      "matched_sentences": [
+        "This is the first study to report malaria as a risk factor of concurrent HIV infection at the population level.",
+        "Using large nationally representative samples of 19,735 sexually active adults from the 2003-04 HIV/AIDS indicator surveys conducted in Kenya, Malawi and Tanzania, and the atlas malaria project, we analysed the relationship between malaria and HIV prevalence adjusting for important socioeconomic and biological cofactors.",
+        "Programmes focused on reducing malaria transmission will be important to address, especially in HIV-infected individuals."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "9306483",
+      "title": "Effects of malaria infection in human immunodeficiency virus type 1-infected Ugandan children.",
+      "study_type": "Clinical Trial, Controlled Clinical Trial, Journal Article, Research Support, U.S. Gov't, P.H.S.",
+      "year": "1997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9306483/",
+      "semantic_score": 0.7417099475860596,
+      "matched_sentences": [
+        "Malaria causes severe morbidity and mortality in many areas of Africa where HIV-1 infection is also prevalent."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22457274",
+      "title": "HIV infection and the incidence of malaria among HIV-exposed children from Tanzania.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22457274/",
+      "semantic_score": 0.7408604621887207,
+      "matched_sentences": [
+        "Among children with ≥1 malaria episodes, those with HIV infection developed second clinical (HR, 1.28; 95% CI, 1.04-1.57), probable (HR, 1.60; 95% CI, 1.26-2.14), and confirmed (HR, 2.27; 95% CI, 1.06-3.89) malaria sooner than HIV-uninfected children.",
+        "Child HIV infection was associated with clinical (HR, 1.34; 95% confidence interval [CI], 1.12-1.61), probable (HR, 1.47; 95% CI, 1.19-1.81), and confirmed (HR, 1.67; 95% CI, 1.18-2.36) malaria episodes."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40143377",
+      "title": "HIV-Helminth Co-Infections and Immune Checkpoints: Implications for Cancer Risk in South Africa.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40143377/",
+      "semantic_score": 0.7408193349838257,
+      "matched_sentences": [
+        "South Africa has the highest HIV prevalence globally, often co-occurring with helminth infections in impoverished regions."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00137657",
+      "title": "Impact of Cotrimoxazole Prophylaxis for HIV-Infected Adults on Antifolate Resistance",
+      "study_type": "INTERVENTIONAL",
+      "year": "2005",
+      "url": "https://clinicaltrials.gov/study/NCT00137657",
+      "semantic_score": 0.7403133511543274,
+      "matched_sentences": [
+        "We conducted this study in Kisumu, Kenya where HIV prevalence is high and malaria is highly endemic."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00811421",
+      "title": "Evaluation of Alternative Antimalarial Drugs for Malaria in Pregnancy",
+      "study_type": "INTERVENTIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00811421",
+      "semantic_score": 0.7360190153121948,
+      "matched_sentences": [
+        "HIV infection increases susceptibility to malaria and may reduce the efficacy of interventions."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00144352",
+      "title": "In-Vivo Response of P. Falciparum to Antimalarial Treatment in HIV-Infected and HIV-Uninfected Adults",
+      "study_type": "INTERVENTIONAL",
+      "year": "2005",
+      "url": "https://clinicaltrials.gov/study/NCT00144352",
+      "semantic_score": 0.7340303063392639,
+      "matched_sentences": [
+        "Although a study in 1993 in Tanzania showed significantly higher prevalence of malaria infections in HIV-positive compared to HIV negative adults, until recently there have been few studies showing any association between the two infections."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12598779",
+      "title": "The effect of dual infection with HIV and malaria on pregnancy outcome in western Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12598779/",
+      "semantic_score": 0.7302322387695312,
+      "matched_sentences": [
+        "The maternal HIV seroprevalence was 24.3%, and at delivery 22.0% of the women had evidence of malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22533793",
+      "title": "Prevalence and correlates of insecticide-treated bednet use among HIV-1-infected adults in Kenya.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22533793/",
+      "semantic_score": 0.727287769317627,
+      "matched_sentences": [
+        "HIV-1-infected adults are at increased risk for malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "15362357",
+      "title": "Important but neglected ethical and cultural considerations in the fight against HIV/AIDS in Malawi.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Review",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15362357/",
+      "semantic_score": 0.72301185131073,
+      "matched_sentences": [
+        "Southern African countries have the highest HIV infection rates in the world."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "21505300",
+      "title": "Most adults seek urgent healthcare when acquiring HIV-1 and are frequently treated for malaria in coastal Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21505300/",
+      "semantic_score": 0.721957802772522,
+      "matched_sentences": [
+        "Factors associated with malaria treatment while acquiring HIV-1 were evaluated in multiple logistic regression."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31798804",
+      "title": "Prevalence of malaria in HIV positive and HIV negative pregnant women attending antenatal clinics in south eastern Nigeria.",
+      "study_type": "Comparative Study, Journal Article",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31798804/",
+      "semantic_score": 0.7193164825439453,
+      "matched_sentences": [
+        "The prevalence of malaria infection among HIV positive pregnant mothers was 81% (162/200) and 75% (150/200) among HIV negative pregnant women (P < 0.001)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "9840604",
+      "title": "Efficacy of sulfadoxine-pyrimethamine for prevention of placental malaria in an area of Kenya with a high prevalence of malaria and human immunodeficiency virus infection.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "1998",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9840604/",
+      "semantic_score": 0.7152813673019409,
+      "matched_sentences": [
+        "Seven percent (7 of 99) of the HIV-negative women on the two-dose SP regimen had placental malaria compared with 25% (10 of 39; P=0.007) of HIV-positive women on the same regimen; the rate of placental malaria in HIV-positive women was reduced to 7% (2 of 28; P=-0.051) for women on the monthly SP regimen."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05610098",
+      "title": "Gene Expression Profiles in Spinal Tuberculosis.",
+      "study_type": "OBSERVATIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT05610098",
+      "semantic_score": 0.7095682621002197,
+      "matched_sentences": [
+        "South Africa has one of the highest HIV and TB rates worldwide with an HIV prevalence rate in adults of 19% and a TB case notification rate of 615/100,000 in 2019."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36410321",
+      "title": "Longitudinal and Cross-sectional Analyses of Asymptomatic HIV-1/Malaria Co-infection in Kisumu County, Kenya.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36410321/",
+      "semantic_score": 0.7047187089920044,
+      "matched_sentences": [
+        "Individuals infected with HIV-1 experience more frequent and more severe episodes of malaria and are likely to harbor asymptomatic parasitemia, thus potentially making them more efficient reservoirs of malaria."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37788741",
+      "title": "Implications of asymptomatic malaria infections on hematologic parameters in adults living with HIV in malaria-endemic regions with varying transmission intensities.",
+      "study_type": "Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37788741/",
+      "semantic_score": 0.7017977237701416,
+      "matched_sentences": [
+        "This study investigated hematologic abnormalities in malaria-asymptomatic people living with HIV (PLHIV) in regions with differing malaria transmission."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "22943054",
+      "title": "Correlates of HIV and malaria co-infection in Southern India.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22943054/",
+      "semantic_score": 0.701726496219635,
+      "matched_sentences": [
+        "Retrospective testing of stored plasma samples for malaria antibodies can facilitate identification of populations with high rates of co-infection, and in this southern India HIV-infected cohort there was a considerable burden of malaria co-infection, predominantly due to P.",
+        "Malaria and HIV co-infection adversely impact the outcome of both diseases and previous studies have mostly focused on falciparum malaria."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06152003",
+      "title": "Intervention Development for Syndemics Among PWH in SA",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06152003",
+      "semantic_score": 0.7010035514831543,
+      "matched_sentences": [
+        "South Africa (SA) has a generalized HIV epidemic, and the highest HIV prevalence rate (19%)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29412886",
+      "title": "Pathology-Based Research in Africa.",
+      "study_type": "Journal Article, Review",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29412886/",
+      "semantic_score": 0.7002003192901611,
+      "matched_sentences": [
+        "This report reviews 3 different research efforts: fatal malaria in Malawi, mucosal immunity to HIV in South Africa, and cancer research in Uganda."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36189366",
+      "title": "Longitudinal impact of asymptomatic malaria/HIV-1 co-infection on",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36189366/",
+      "semantic_score": 0.699834942817688,
+      "matched_sentences": [
+        "Despite significant developments towards malaria reduction, parasite transmission in the common context of HIV-1 co-infection and treatment for one or both infections has not been fully characterized.",
+        "In this study, we examined 782 blood samples collected from a longitudinal cohort of 300 volunteers with asymptomatic parasitemia seeking HIV testing or treatment in the endemic region of Kisumu, Kenya, to define the impacts of HIV-1-malaria co-infection, antiretroviral therapy (ART) plus trimethoprim-sulfamethoxazole (TS) and the antimalarials artemether/lumefantrine (AL) on"
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26173396",
+      "title": "Effects of HIV-1 infection on malaria parasitemia in milo sub-location, western Kenya.",
+      "study_type": "Journal Article",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26173396/",
+      "semantic_score": 0.6971391439437866,
+      "matched_sentences": [
+        "To determine the effects of HIV-1 infection on malaria parasitaemia among consented residents of Milo sub-location, Bungoma County in western Kenya."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "12598780",
+      "title": "HIV increases the risk of malaria in women of all gravidities in Kisumu, Kenya.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, Non-P.H.S.",
+      "year": "2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12598780/",
+      "semantic_score": 0.6964904069900513,
+      "matched_sentences": [
+        "To study the importance of HIV infection for malaria in pregnancy in Kisumu, Kenya."
+      ]
+    }
+  ]
+}

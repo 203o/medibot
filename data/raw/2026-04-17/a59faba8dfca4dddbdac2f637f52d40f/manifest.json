@@ -1,0 +1,73 @@
+{
+  "run_id": "a59faba8dfca4dddbdac2f637f52d40f",
+  "stored_at": "2026-04-17T23:37:23+00:00",
+  "query": "cancer prostate cancer treatment therapy canada",
+  "query_fallbacks": [
+    "cancer prostate cancer treatment therapy canada",
+    "cancer epidemiology in canada",
+    "systematic review of prostate cancer treatment",
+    "prostate cancer therapy outcomes in canadian population",
+    "evidence-based guidelines for prostate cancer treatment in canada",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "heuristic_fallbacks": [
+    "cancer prostate cancer treatment therapy canada",
+    "cancer prostate cancer treatment therapy",
+    "cancer prostate cancer treatment treatment",
+    "cancer canada",
+    "cancer"
+  ],
+  "expanded_queries": [
+    "cancer epidemiology in canada",
+    "systematic review of prostate cancer treatment",
+    "prostate cancer therapy outcomes in canadian population",
+    "evidence-based guidelines for prostate cancer treatment in canada"
+  ],
+  "keywords": [
+    "cancer",
+    "prostate",
+    "treatment",
+    "therapy",
+    "management",
+    "canada"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 30,
+    "openalex": 0,
+    "semantic_hits": 30,
+    "indexed_chunks": 153
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "cancer epidemiology in canada",
+      "systematic review of prostate cancer treatment",
+      "prostate cancer therapy outcomes in canadian population",
+      "evidence-based guidelines for prostate cancer treatment in canada"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a59faba8dfca4dddbdac2f637f52d40f\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a59faba8dfca4dddbdac2f637f52d40f\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a59faba8dfca4dddbdac2f637f52d40f\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-17\\a59faba8dfca4dddbdac2f637f52d40f\\combined.records.json"
+  }
+}

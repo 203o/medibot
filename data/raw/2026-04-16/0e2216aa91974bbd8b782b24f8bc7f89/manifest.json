@@ -1,0 +1,41 @@
+{
+  "run_id": "0e2216aa91974bbd8b782b24f8bc7f89",
+  "stored_at": "2026-04-16T10:15:16+00:00",
+  "query": "malaria infections kenya turkan",
+  "query_fallbacks": [
+    "malaria infections kenya turkan",
+    "malaria infections",
+    "malaria infections treatment",
+    "malaria kenya turkan",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "infections",
+    "kenya",
+    "turkan"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 60,
+    "clinicaltrials": 60,
+    "openalex": 0,
+    "semantic_hits": 72,
+    "indexed_chunks": 135
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0e2216aa91974bbd8b782b24f8bc7f89\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0e2216aa91974bbd8b782b24f8bc7f89\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0e2216aa91974bbd8b782b24f8bc7f89\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\0e2216aa91974bbd8b782b24f8bc7f89\\combined.records.json"
+  }
+}

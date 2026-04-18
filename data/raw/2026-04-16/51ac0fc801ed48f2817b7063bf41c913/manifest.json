@@ -1,0 +1,72 @@
+{
+  "run_id": "51ac0fc801ed48f2817b7063bf41c913",
+  "stored_at": "2026-04-16T20:58:26+00:00",
+  "query": "lung cancer latest treatment therapy management UK",
+  "query_fallbacks": [
+    "lung cancer latest treatment therapy management UK",
+    "lung cancer treatment guidelines UK",
+    "epidemiology of lung cancer in the UK",
+    "systematic review of lung cancer therapy UK",
+    "lung cancer management protocols UK",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer"
+  ],
+  "heuristic_fallbacks": [
+    "lung cancer latest treatment therapy management UK",
+    "lung cancer latest treatment therapy management",
+    "lung cancer latest treatment therapy treatment",
+    "lung cancer"
+  ],
+  "expanded_queries": [
+    "lung cancer treatment guidelines UK",
+    "epidemiology of lung cancer in the UK",
+    "systematic review of lung cancer therapy UK",
+    "lung cancer management protocols UK"
+  ],
+  "keywords": [
+    "lung cancer",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "lung",
+    "cancer"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 23,
+    "clinicaltrials": 1,
+    "openalex": 0,
+    "semantic_hits": 47,
+    "indexed_chunks": 0
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "lung cancer treatment guidelines UK",
+      "epidemiology of lung cancer in the UK",
+      "systematic review of lung cancer therapy UK",
+      "lung cancer management protocols UK"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\51ac0fc801ed48f2817b7063bf41c913\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\51ac0fc801ed48f2817b7063bf41c913\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\51ac0fc801ed48f2817b7063bf41c913\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\51ac0fc801ed48f2817b7063bf41c913\\combined.records.json"
+  }
+}

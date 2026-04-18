@@ -1,0 +1,1690 @@
+{
+  "query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+  "selected_query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+  "attempted_queries": [
+    {
+      "query": "non-small cell lung cancer (nsclc) non small cell lung systematic review clinical trial canada",
+      "count": 30
+    }
+  ],
+  "id_list": [
+    "38065405",
+    "34932393",
+    "28945858",
+    "30913091",
+    "38417098",
+    "28162945",
+    "28416123",
+    "37253398",
+    "24268442",
+    "17409887",
+    "31023244",
+    "38749072",
+    "41179119",
+    "28188101",
+    "31138727",
+    "26378774",
+    "17409886",
+    "21709590",
+    "20101151",
+    "26324367",
+    "34492553",
+    "40226904",
+    "17409993",
+    "15013578",
+    "25775395",
+    "32959703",
+    "16139391",
+    "38417091",
+    "28806116",
+    "39349294"
+  ],
+  "records": [
+    {
+      "pmid": "38065405",
+      "title": "Recurrence-Free Survival in Patients With Surgically Resected Non-Small Cell Lung Cancer: A Systematic Literature Review and Meta-Analysis.",
+      "journal": "Chest",
+      "abstract_sections": [
+        "Standard treatment for early-stage or locoregionally advanced non-small cell lung cancer (NSCLC) includes surgical resection. Recurrence after surgery is commonly reported, but a summary estimate for postsurgical recurrence-free survival (RFS) in patients with NSCLC is lacking.",
+        "What is the RFS after surgery in patients with stage I-III NSCLC at different time points, and what factors are associated with RFS?",
+        "A systematic search was performed in MEDLINE, EMBASE, and Cochrane databases between January 2011 and June 2021. The primary outcome was RFS at 1, 2, 3, and 5 years postresection. Single-arm, random-effects meta-analyses were done to calculate effect estimates and 95% CIs. Analyses were stratified by stage/substage as per the AJCC Cancer Staging Manual, and RFS was estimated (1) after pooling studies, using seventh or eighth edition staging criteria; and (2) among studies using only the eighth edition. Meta-regressions were performed to assess associations between RFS and patient demographic/clinical characteristics of interest.",
+        "Data from 471 studies comprising 1,060 surgical study arms were extracted. RFS estimates from 60,695 patients staged with the seventh or eighth edition were analyzed. RFS ranged from 96% at 1 year postresection to 82% at 5 years for stage I, and from 68% at 1 year to 34% at 5 years for stage III. Estimates for patients staged using only eighth edition criteria were slightly higher. Older age, higher percentage of male patients, advancing stage, larger tumor size, and geographic region (North America/Europe vs Asia) were significantly associated with worse RFS.",
+        "This study presents a comprehensive assessment of reported RFS from published clinical literature, offering estimates at multiple postsurgical time points and by geographic region. Findings can inform treatment decisions, clinical trial design, and future research to improve outcomes among patients with NSCLC."
+      ],
+      "abstract": "Standard treatment for early-stage or locoregionally advanced non-small cell lung cancer (NSCLC) includes surgical resection. Recurrence after surgery is commonly reported, but a summary estimate for postsurgical recurrence-free survival (RFS) in patients with NSCLC is lacking.\n\nWhat is the RFS after surgery in patients with stage I-III NSCLC at different time points, and what factors are associated with RFS?\n\nA systematic search was performed in MEDLINE, EMBASE, and Cochrane databases between January 2011 and June 2021. The primary outcome was RFS at 1, 2, 3, and 5 years postresection. Single-arm, random-effects meta-analyses were done to calculate effect estimates and 95% CIs. Analyses were stratified by stage/substage as per the AJCC Cancer Staging Manual, and RFS was estimated (1) after pooling studies, using seventh or eighth edition staging criteria; and (2) among studies using only the eighth edition. Meta-regressions were performed to assess associations between RFS and patient demographic/clinical characteristics of interest.\n\nData from 471 studies comprising 1,060 surgical study arms were extracted. RFS estimates from 60,695 patients staged with the seventh or eighth edition were analyzed. RFS ranged from 96% at 1 year postresection to 82% at 5 years for stage I, and from 68% at 1 year to 34% at 5 years for stage III. Estimates for patients staged using only eighth edition criteria were slightly higher. Older age, higher percentage of male patients, advancing stage, larger tumor size, and geographic region (North America/Europe vs Asia) were significantly associated with worse RFS.\n\nThis study presents a comprehensive assessment of reported RFS from published clinical literature, offering estimates at multiple postsurgical time points and by geographic region. Findings can inform treatment decisions, clinical trial design, and future research to improve outcomes among patients with NSCLC.",
+      "evidence_sentences": [
+        "Standard treatment for early-stage or locoregionally advanced non-small cell lung cancer (NSCLC) includes surgical resection.",
+        "Analyses were stratified by stage/substage as per the AJCC Cancer Staging Manual, and RFS was estimated (1) after pooling studies, using seventh or eighth edition staging criteria; and (2) among studies using only the eighth edition.",
+        "Recurrence after surgery is commonly reported, but a summary estimate for postsurgical recurrence-free survival (RFS) in patients with NSCLC is lacking."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ravi Rajaram",
+        "Qing Huang",
+        "Richard Z Li",
+        "Urmila Chandran",
+        "Yuxin Zhang",
+        "Tony B Amos",
+        "George W J Wright",
+        "Nicole C Ferko",
+        "Iftekhar Kalsekar"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38065405/"
+    },
+    {
+      "pmid": "34932393",
+      "title": "Treatment for Brain Metastases: ASCO-SNO-ASTRO Guideline.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To provide guidance to clinicians regarding therapy for patients with brain metastases from solid tumors.",
+        "ASCO convened an Expert Panel and conducted a systematic review of the literature.",
+        "Thirty-two randomized trials published in 2008 or later met eligibility criteria and form the primary evidentiary base.",
+        "Surgery is a reasonable option for patients with brain metastases. Patients with large tumors with mass effect are more likely to benefit than those with multiple brain metastases and/or uncontrolled systemic disease. Patients with symptomatic brain metastases should receive local therapy regardless of the systemic therapy used. For patients with asymptomatic brain metastases, local therapy should not be deferred unless deferral is specifically recommended in this guideline. The decision to defer local therapy should be based on a multidisciplinary discussion of the potential benefits and harms that the patient may experience. Several regimens were recommended for non-small-cell lung cancer, breast cancer, and melanoma. For patients with asymptomatic brain metastases and no systemic therapy options, stereotactic radiosurgery (SRS) alone should be offered to patients with one to four unresected brain metastases, excluding small-cell lung carcinoma. SRS alone to the surgical cavity should be offered to patients with one to two resected brain metastases. SRS, whole brain radiation therapy, or their combination are reasonable options for other patients. Memantine and hippocampal avoidance should be offered to patients who receive whole brain radiation therapy and have no hippocampal lesions and 4 months or more expected survival. Patients with asymptomatic brain metastases with either Karnofsky Performance Status ≤ 50 or Karnofsky Performance Status < 70 with no systemic therapy options do not derive benefit from radiation therapy.Additional information is available at www.asco.org/neurooncology-guidelines."
+      ],
+      "abstract": "To provide guidance to clinicians regarding therapy for patients with brain metastases from solid tumors.\n\nASCO convened an Expert Panel and conducted a systematic review of the literature.\n\nThirty-two randomized trials published in 2008 or later met eligibility criteria and form the primary evidentiary base.\n\nSurgery is a reasonable option for patients with brain metastases. Patients with large tumors with mass effect are more likely to benefit than those with multiple brain metastases and/or uncontrolled systemic disease. Patients with symptomatic brain metastases should receive local therapy regardless of the systemic therapy used. For patients with asymptomatic brain metastases, local therapy should not be deferred unless deferral is specifically recommended in this guideline. The decision to defer local therapy should be based on a multidisciplinary discussion of the potential benefits and harms that the patient may experience. Several regimens were recommended for non-small-cell lung cancer, breast cancer, and melanoma. For patients with asymptomatic brain metastases and no systemic therapy options, stereotactic radiosurgery (SRS) alone should be offered to patients with one to four unresected brain metastases, excluding small-cell lung carcinoma. SRS alone to the surgical cavity should be offered to patients with one to two resected brain metastases. SRS, whole brain radiation therapy, or their combination are reasonable options for other patients. Memantine and hippocampal avoidance should be offered to patients who receive whole brain radiation therapy and have no hippocampal lesions and 4 months or more expected survival. Patients with asymptomatic brain metastases with either Karnofsky Performance Status ≤ 50 or Karnofsky Performance Status < 70 with no systemic therapy options do not derive benefit from radiation therapy.Additional information is available at www.asco.org/neurooncology-guidelines.",
+      "evidence_sentences": [
+        "Several regimens were recommended for non-small-cell lung cancer, breast cancer, and melanoma.",
+        "For patients with asymptomatic brain metastases and no systemic therapy options, stereotactic radiosurgery (SRS) alone should be offered to patients with one to four unresected brain metastases, excluding small-cell lung carcinoma.",
+        "Patients with large tumors with mass effect are more likely to benefit than those with multiple brain metastases and/or uncontrolled systemic disease."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Michael A Vogelbaum",
+        "Paul D Brown",
+        "Hans Messersmith",
+        "Priscilla K Brastianos",
+        "Stuart Burri",
+        "Dan Cahill",
+        "Ian F Dunn",
+        "Laurie E Gaspar",
+        "Na Tosha N Gatson",
+        "Vinai Gondi",
+        "Justin T Jordan",
+        "Andrew B Lassman",
+        "Julia Maues",
+        "Nimish Mohile",
+        "Navid Redjal",
+        "Glen Stevens",
+        "Erik Sulman",
+        "Martin van den Bent",
+        "H James Wallace",
+        "Jeffrey S Weinberg",
+        "Gelareh Zadeh",
+        "David Schiff"
+      ],
+      "year": "2022",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34932393/"
+    },
+    {
+      "pmid": "28945858",
+      "title": "Tumour- and class-specific patterns of immune-related adverse events of immune checkpoint inhibitors: a systematic review.",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "abstract_sections": [
+        "Immune checkpoint inhibitor (ICI) monoclonal antibodies (mAbs) targeting cytotoxic T-lymphocyte antigen 4 (CTLA-4), programmed cell death protein 1 (PD-1) or its ligand (PD-L1) produce unique toxicity profiles. The objective of this review was to identify patterns and incidence of immune-related adverse events (irAE) based on tumour type and ICI class.",
+        "Medline, EMBASE and COCHRANE databases were searched to identify prospective monotherapy trials of ICIs from 2003 to November 2015. Paired reviewers selected studies for inclusion and extracted data. Odds ratio (OR), χ2 tests and multivariable regression models were used to analyse for effect size and associations.",
+        "We identified 48 trials (6938 patients), including 26 CTLA-4, 17 PD-1, 2 PD-L1 trials, and 3 studies tested both CTLA-4 and PD-1. Grade 3/4 irAE were more common with CTLA-4 mAbs compared with PD-1 (31% versus 10%). All grades colitis (OR 8.7, 95% CI 5.8-12.9), hypophysitis (OR 6.5, 95% CI 3.0-14.3) and rash (OR 2.0, 95% CI 1.8-2.3) were more frequent with CTLA-4 mAbs; whereas pneumonitis (OR 6.4, 95% CI 3.2-12.7), hypothyroidism (OR 4.3, 95% CI 2.9-6.3), arthralgia (OR 3.5, 95% CI 2.6-4.8) and vitiligo (OR 3.5, 95% CI 2.3-5.3) were more common with PD-1 mAbs. Comparison of irAE from the three most studied tumour types in PD-1 mAbs trials [melanoma (n = 2048), non-small-cell lung cancer (n = 1030) and renal cell carcinoma (n = 573)] showed melanoma patients had a higher frequency of gastrointestinal and skin irAE and lower frequency of pneumonitis.",
+        "CTLA-4 and PD-1 mAbs have distinct irAE profiles. Different immune microenvironments may drive histology-specific irAE patterns. Other tumour-dependent irAE profiles may be identified as data emerge from ICI trials."
+      ],
+      "abstract": "Immune checkpoint inhibitor (ICI) monoclonal antibodies (mAbs) targeting cytotoxic T-lymphocyte antigen 4 (CTLA-4), programmed cell death protein 1 (PD-1) or its ligand (PD-L1) produce unique toxicity profiles. The objective of this review was to identify patterns and incidence of immune-related adverse events (irAE) based on tumour type and ICI class.\n\nMedline, EMBASE and COCHRANE databases were searched to identify prospective monotherapy trials of ICIs from 2003 to November 2015. Paired reviewers selected studies for inclusion and extracted data. Odds ratio (OR), χ2 tests and multivariable regression models were used to analyse for effect size and associations.\n\nWe identified 48 trials (6938 patients), including 26 CTLA-4, 17 PD-1, 2 PD-L1 trials, and 3 studies tested both CTLA-4 and PD-1. Grade 3/4 irAE were more common with CTLA-4 mAbs compared with PD-1 (31% versus 10%). All grades colitis (OR 8.7, 95% CI 5.8-12.9), hypophysitis (OR 6.5, 95% CI 3.0-14.3) and rash (OR 2.0, 95% CI 1.8-2.3) were more frequent with CTLA-4 mAbs; whereas pneumonitis (OR 6.4, 95% CI 3.2-12.7), hypothyroidism (OR 4.3, 95% CI 2.9-6.3), arthralgia (OR 3.5, 95% CI 2.6-4.8) and vitiligo (OR 3.5, 95% CI 2.3-5.3) were more common with PD-1 mAbs. Comparison of irAE from the three most studied tumour types in PD-1 mAbs trials [melanoma (n = 2048), non-small-cell lung cancer (n = 1030) and renal cell carcinoma (n = 573)] showed melanoma patients had a higher frequency of gastrointestinal and skin irAE and lower frequency of pneumonitis.\n\nCTLA-4 and PD-1 mAbs have distinct irAE profiles. Different immune microenvironments may drive histology-specific irAE patterns. Other tumour-dependent irAE profiles may be identified as data emerge from ICI trials.",
+      "evidence_sentences": [
+        "Comparison of irAE from the three most studied tumour types in PD-1 mAbs trials [melanoma (n = 2048), non-small-cell lung cancer (n = 1030) and renal cell carcinoma (n = 573)] showed melanoma patients had a higher frequency of gastrointestinal and skin irAE and lower frequency of pneumonitis.",
+        "Immune checkpoint inhibitor (ICI) monoclonal antibodies (mAbs) targeting cytotoxic T-lymphocyte antigen 4 (CTLA-4), programmed cell death protein 1 (PD-1) or its ligand (PD-L1) produce unique toxicity profiles.",
+        "The objective of this review was to identify patterns and incidence of immune-related adverse events (irAE) based on tumour type and ICI class."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "L Khoja",
+        "D Day",
+        "T Wei-Wu Chen",
+        "L L Siu",
+        "A R Hansen"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28945858/"
+    },
+    {
+      "pmid": "30913091",
+      "title": "Adjuvant Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors (TKIs) in Resected Non-Small Cell Lung Cancer (NSCLC): A Systematic Review and Meta-analysis.",
+      "journal": "American journal of clinical oncology",
+      "abstract_sections": [
+        "The role of adjuvant tyrosine kinase inhibitors (TKIs) in non-small cell lung cancer (NSCLC) is not well defined. Recent randomized controlled trials showed a disease-free survival (DFS) benefit in patients harboring an epidermal growth factor receptor (EGFR) mutation. Yet, older trials on patients with any EGFR status did not demonstrate the same benefit. We aimed to assess the efficacy and safety of adjuvant TKIs in NSCLC patients. The electronic databases Medline (PubMed) and EMBASE were searched for relevant randomized controlled trials. Random effect models were used. The primary outcome was DFS measured as hazard ratio (HR). The secondary outcomes were overall survival (OS) measured as HR, 2-year DFS and toxicity expressed as risk ratio and odds ratio (OR), respectively. Subgroup analyses assessed DFS by trial design. Six trials incorporating 1860 patients were included. In patients harboring an EGFR mutation, adjuvant TKIs decreased the risk of disease recurrence by 48% (HR: 0.52, 95% confidence interval [CI]: 0.35-0.78), improved 2-year DFS (HR: 0.53, 95% CI: 0.43-0.66) but did not improve OS (HR: 0.64, 95% CI: 0.22-1.89). The risk of developing ≥grade 3 skin toxicity (OR: 6.07, 95% CI: 4.34-8.51) and diarrhea (OR: 4.05; 95% CI: 2.44-6.74) was increased. In subgroup analyses, the DFS benefit was more pronounced in trials using TKIs over chemotherapy compared with trials using TKIs postchemotherapy. In conclusion, adjuvant TKIs decrease the risk of recurrence in NSCLC patients harboring an EGFR mutation but do not improve OS. Longer follow-up is needed for a definitive assessment of OS and to define the role of adjuvant TKI for NSCLC in the clinical practice."
+      ],
+      "abstract": "The role of adjuvant tyrosine kinase inhibitors (TKIs) in non-small cell lung cancer (NSCLC) is not well defined. Recent randomized controlled trials showed a disease-free survival (DFS) benefit in patients harboring an epidermal growth factor receptor (EGFR) mutation. Yet, older trials on patients with any EGFR status did not demonstrate the same benefit. We aimed to assess the efficacy and safety of adjuvant TKIs in NSCLC patients. The electronic databases Medline (PubMed) and EMBASE were searched for relevant randomized controlled trials. Random effect models were used. The primary outcome was DFS measured as hazard ratio (HR). The secondary outcomes were overall survival (OS) measured as HR, 2-year DFS and toxicity expressed as risk ratio and odds ratio (OR), respectively. Subgroup analyses assessed DFS by trial design. Six trials incorporating 1860 patients were included. In patients harboring an EGFR mutation, adjuvant TKIs decreased the risk of disease recurrence by 48% (HR: 0.52, 95% confidence interval [CI]: 0.35-0.78), improved 2-year DFS (HR: 0.53, 95% CI: 0.43-0.66) but did not improve OS (HR: 0.64, 95% CI: 0.22-1.89). The risk of developing ≥grade 3 skin toxicity (OR: 6.07, 95% CI: 4.34-8.51) and diarrhea (OR: 4.05; 95% CI: 2.44-6.74) was increased. In subgroup analyses, the DFS benefit was more pronounced in trials using TKIs over chemotherapy compared with trials using TKIs postchemotherapy. In conclusion, adjuvant TKIs decrease the risk of recurrence in NSCLC patients harboring an EGFR mutation but do not improve OS. Longer follow-up is needed for a definitive assessment of OS and to define the role of adjuvant TKI for NSCLC in the clinical practice.",
+      "evidence_sentences": [
+        "The role of adjuvant tyrosine kinase inhibitors (TKIs) in non-small cell lung cancer (NSCLC) is not well defined.",
+        "In conclusion, adjuvant TKIs decrease the risk of recurrence in NSCLC patients harboring an EGFR mutation but do not improve OS.",
+        "Recent randomized controlled trials showed a disease-free survival (DFS) benefit in patients harboring an epidermal growth factor receptor (EGFR) mutation."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Jacques Raphael",
+        "Mark Vincent",
+        "Gabriel Boldt",
+        "Prakesh S Shah",
+        "George Rodrigues",
+        "Phillip Blanchette"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30913091/"
+    },
+    {
+      "pmid": "38417098",
+      "title": "Therapy for Stage IV Non-Small Cell Lung Cancer Without Driver Alterations: ASCO Living Guideline, Version 2023.3.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer (NSCLC) without driver alterations.",
+        "This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts were convened. The literature search included systematic reviews, meta-analyses, and randomized controlled trials. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.",
+        "This guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Ten new RCTs were identified in the latest search of the literature to date.",
+        "Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients without driver alterations.Additional information is available at www.asco.org/living-guidelines."
+      ],
+      "abstract": "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer (NSCLC) without driver alterations.\n\nThis ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts were convened. The literature search included systematic reviews, meta-analyses, and randomized controlled trials. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.\n\nThis guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Ten new RCTs were identified in the latest search of the literature to date.\n\nEvidence-based recommendations were updated to address first, second, and subsequent treatment options for patients without driver alterations.Additional information is available at www.asco.org/living-guidelines.",
+      "evidence_sentences": [
+        "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer (NSCLC) without driver alterations.",
+        "Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients without driver alterations.Additional information is available at www.asco.org/living-guidelines.",
+        "This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ishmael A Jaiyesimi",
+        "Natasha B Leighl",
+        "Nofisat Ismaila",
+        "Krishna Alluri",
+        "Narjust Florez",
+        "Shirish Gadgeel",
+        "Gregory Masters",
+        "Erin L Schenk",
+        "Bryan J Schneider",
+        "Lecia Sequist",
+        "Navneet Singh",
+        "Lyudmila Bazhenova",
+        "Elizabeth Blanchard",
+        "Janet Freeman-Daily",
+        "Naoki Furuya",
+        "Balazs Halmos",
+        "Ibrahim Hanna Azar",
+        "Sara Kuruvilla",
+        "Michael Mullane",
+        "Jarushka Naidoo",
+        "Joshua E Reuss",
+        "David R Spigel",
+        "Dwight H Owen",
+        "Jyoti D Patel"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38417098/"
+    },
+    {
+      "pmid": "28162945",
+      "title": "Postoperative Adjuvant Systemic Therapy in Completely Resected Non-Small-Cell Lung Cancer: A Systematic Review.",
+      "journal": "Clinical lung cancer",
+      "abstract_sections": [
+        "The purpose of the present review was to determine whether the use of postoperative adjuvant systemic therapy in patients with completely resected non-small-cell lung cancer (NSCLC) improves survival. Cancer Care Ontario's Program in Evidence-Based Care reviewed the evidence to update previously published recommendations for patients with completely resected NSCLC. Relevant studies were identified from a systematic MEDLINE, EMBASE, and Cochrane Database of Systematic Reviews search of studies published from 2010 to 2016. All phase III randomized controlled trials (RCTs) and relevant systematic reviews were included. Data on overall survival (OS), disease-free survival, adverse events, and quality of life were extracted from each of the studies. Two relevant systematic reviews, 13 RCTs, and a series of pooled analyses by Lung Adjuvant Cisplatin Evaluation-Biomarker were included in the present review. Adjuvant chemotherapy statistically significantly improved OS for resected stage II-IIIA NSCLC and is recommended. For patients with stage IB NSCLC, no significant improvement was seen in OS; however, the results from subgroup analyses indicate that it would be reasonable to consider adjuvant chemotherapy for patients with larger tumors (≥ 4 cm). The present data do not support the use of adjuvant novel therapies (ie, epidermal growth factor receptor tyrosine kinase inhibitor, bevacizumab, and immunotherapy) either as an addition to, or instead of, cytotoxic chemotherapy. No predictive biomarkers are available to select patients more likely to benefit from adjuvant chemotherapy. Cytotoxic chemotherapy remains the standard of care as adjuvant therapy for patients with resected stage II-IIIA NSCLC. Additional clinical trials are needed to evaluate targeted agents in molecularly defined subgroups before these agents can be recommended in the adjuvant setting."
+      ],
+      "abstract": "The purpose of the present review was to determine whether the use of postoperative adjuvant systemic therapy in patients with completely resected non-small-cell lung cancer (NSCLC) improves survival. Cancer Care Ontario's Program in Evidence-Based Care reviewed the evidence to update previously published recommendations for patients with completely resected NSCLC. Relevant studies were identified from a systematic MEDLINE, EMBASE, and Cochrane Database of Systematic Reviews search of studies published from 2010 to 2016. All phase III randomized controlled trials (RCTs) and relevant systematic reviews were included. Data on overall survival (OS), disease-free survival, adverse events, and quality of life were extracted from each of the studies. Two relevant systematic reviews, 13 RCTs, and a series of pooled analyses by Lung Adjuvant Cisplatin Evaluation-Biomarker were included in the present review. Adjuvant chemotherapy statistically significantly improved OS for resected stage II-IIIA NSCLC and is recommended. For patients with stage IB NSCLC, no significant improvement was seen in OS; however, the results from subgroup analyses indicate that it would be reasonable to consider adjuvant chemotherapy for patients with larger tumors (≥ 4 cm). The present data do not support the use of adjuvant novel therapies (ie, epidermal growth factor receptor tyrosine kinase inhibitor, bevacizumab, and immunotherapy) either as an addition to, or instead of, cytotoxic chemotherapy. No predictive biomarkers are available to select patients more likely to benefit from adjuvant chemotherapy. Cytotoxic chemotherapy remains the standard of care as adjuvant therapy for patients with resected stage II-IIIA NSCLC. Additional clinical trials are needed to evaluate targeted agents in molecularly defined subgroups before these agents can be recommended in the adjuvant setting.",
+      "evidence_sentences": [
+        "The purpose of the present review was to determine whether the use of postoperative adjuvant systemic therapy in patients with completely resected non-small-cell lung cancer (NSCLC) improves survival.",
+        "Cytotoxic chemotherapy remains the standard of care as adjuvant therapy for patients with resected stage II-IIIA NSCLC.",
+        "Adjuvant chemotherapy statistically significantly improved OS for resected stage II-IIIA NSCLC and is recommended."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Penelope Bradbury",
+        "Duvaraga Sivajohanathan",
+        "Adrien Chan",
+        "Swati Kulkarni",
+        "Yee Ung",
+        "Peter M Ellis"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28162945/"
+    },
+    {
+      "pmid": "28416123",
+      "title": "Immune Checkpoint Inhibitors for Patients With Advanced Non-Small-Cell Lung Cancer: A Systematic Review.",
+      "journal": "Clinical lung cancer",
+      "abstract_sections": [
+        "Second-line treatment options are limited for patients with advanced non-small-cell lung cancer (NSCLC). Standard therapy includes the cytotoxic agents docetaxel and pemetrexed, and the epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors erlotinib and gefitinib. Immune checkpoint inhibitors are a new class of treatment that have shown durable overall radiologic response rates and have been well tolerated. The objective of this systematic review was to investigate the efficacy of immune checkpoint inhibitors compared with other chemotherapies in patients with advanced NSCLC. Medline, Embase, and PubMed were searched for randomized controlled trials comparing treatment with immune checkpoint inhibitors against treatment with chemotherapy in patients with stage IIIB or IV NSCLC. Nine randomized controlled trials with 15 publications were included. A significant overall survival benefit of second-line nivolumab (nonsquamous: hazard ratio [HR] = 0.72, 95% confidence interval [CI], 0.60-0.77; P < .001; squamous: HR = 0.59, 95% CI, 0.44-0.79; P < .001) or second-line atezolizumab (HR = 0.73, 95% CI, 0.62-0.87; P = .0003) or second-line pembrolizumab (in patients with programmed cell death ligand 1 [PD-L1]-positive tumors) (pembrolizumab 2 mg/kg HR = 0.71, 95% CI, 0.58-0.88; P = .0008; pembrolizumab 10 mg/kg HR = 0.61, 95% CI, 0.49-0.75; P < .0001) or first-line pembrolizumab (HR = 0.60, 95% CI, 0.41-0.89; P = .005) compared with chemotherapy was found. The adverse effects were mainly higher in the chemotherapy arms. For patients with advanced stage IIIB/IV NSCLC, the improvement in overall survival outweighed the harms and supported the use of first-line pembrolizumab (in patients with ≥ 50% PD-L1-positive tumors) or second-line nivolumab, atezolizumab, or pembrolizumab (in patients with PD-L1-positive tumors)."
+      ],
+      "abstract": "Second-line treatment options are limited for patients with advanced non-small-cell lung cancer (NSCLC). Standard therapy includes the cytotoxic agents docetaxel and pemetrexed, and the epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors erlotinib and gefitinib. Immune checkpoint inhibitors are a new class of treatment that have shown durable overall radiologic response rates and have been well tolerated. The objective of this systematic review was to investigate the efficacy of immune checkpoint inhibitors compared with other chemotherapies in patients with advanced NSCLC. Medline, Embase, and PubMed were searched for randomized controlled trials comparing treatment with immune checkpoint inhibitors against treatment with chemotherapy in patients with stage IIIB or IV NSCLC. Nine randomized controlled trials with 15 publications were included. A significant overall survival benefit of second-line nivolumab (nonsquamous: hazard ratio [HR] = 0.72, 95% confidence interval [CI], 0.60-0.77; P < .001; squamous: HR = 0.59, 95% CI, 0.44-0.79; P < .001) or second-line atezolizumab (HR = 0.73, 95% CI, 0.62-0.87; P = .0003) or second-line pembrolizumab (in patients with programmed cell death ligand 1 [PD-L1]-positive tumors) (pembrolizumab 2 mg/kg HR = 0.71, 95% CI, 0.58-0.88; P = .0008; pembrolizumab 10 mg/kg HR = 0.61, 95% CI, 0.49-0.75; P < .0001) or first-line pembrolizumab (HR = 0.60, 95% CI, 0.41-0.89; P = .005) compared with chemotherapy was found. The adverse effects were mainly higher in the chemotherapy arms. For patients with advanced stage IIIB/IV NSCLC, the improvement in overall survival outweighed the harms and supported the use of first-line pembrolizumab (in patients with ≥ 50% PD-L1-positive tumors) or second-line nivolumab, atezolizumab, or pembrolizumab (in patients with PD-L1-positive tumors).",
+      "evidence_sentences": [
+        "Second-line treatment options are limited for patients with advanced non-small-cell lung cancer (NSCLC).",
+        "Medline, Embase, and PubMed were searched for randomized controlled trials comparing treatment with immune checkpoint inhibitors against treatment with chemotherapy in patients with stage IIIB or IV NSCLC.",
+        "A significant overall survival benefit of second-line nivolumab (nonsquamous: hazard ratio [HR] = 0.72, 95% confidence interval [CI], 0.60-0.77; P < .001; squamous: HR = 0.59, 95% CI, 0.44-0.79; P < .001) or second-line atezolizumab (HR = 0.73, 95% CI, 0.62-0.87; P = .0003) or second-line pembrolizumab (in patients with programmed cell death ligand 1 [PD-L1]-positive tumors) (pembrolizumab 2 mg/kg HR = 0.71, 95% CI, 0.58-0.88; P = .0008; pembrolizumab 10 mg/kg HR = 0.61, 95% CI, 0.49-0.75; P < .0001) or first-line pembrolizumab (HR = 0.60, 95% CI, 0.41-0.89; P = .005) compared with chemotherapy was found."
+      ],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Peter M Ellis",
+        "Emily T Vella",
+        "Yee C Ung"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28416123/"
+    },
+    {
+      "pmid": "37253398",
+      "title": "Lung transplantation for lung cancer: A systematic review of the literature.",
+      "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+      "abstract_sections": [
+        "Lung transplant (LTx) is an accepted treatment for end-stage pulmonary failure. A small proportion of explanted lungs harbor incidentally identified nonsmall cell lung cancers (NSCLC). We review the literature on studies assessing LTx patients found to have NSCLC lung cancer in their explanted lungs, and perform a pooled analysis of outcomes.",
+        "MEDLINE, EMBASE, the Cochrane Database of Systematic Reviews, and the Cochrane Central Register of Controlled Trials were searched. We included studies assessing outcomes of patients with incidentally identified NSCLC following LTx, or following LTx for diffuse lepidic adenocarcinoma as a primary indication.",
+        "A total of 1404 articles were reviewed. 17 eligible studies were identified: 14 studies on incidental NSCLC (N = 169), 4 on diffuse lepidic adenocarcinoma (N = 70). Overall survival (OS) for patients with incidentally identified lung cancer at 1-year, 3-year, and 5-year was 60.8% (95%CI 43.7%-77.9%, I",
+        "We present a review and pooled analysis examining survival following LTx with incidentally identified NSCLC. Patients with earlier stage incidentally explanted NSCLC had better survival outcomes. OS in the stage I population approximates that of LTx without incidental NSCLC."
+      ],
+      "abstract": "Lung transplant (LTx) is an accepted treatment for end-stage pulmonary failure. A small proportion of explanted lungs harbor incidentally identified nonsmall cell lung cancers (NSCLC). We review the literature on studies assessing LTx patients found to have NSCLC lung cancer in their explanted lungs, and perform a pooled analysis of outcomes.\n\nMEDLINE, EMBASE, the Cochrane Database of Systematic Reviews, and the Cochrane Central Register of Controlled Trials were searched. We included studies assessing outcomes of patients with incidentally identified NSCLC following LTx, or following LTx for diffuse lepidic adenocarcinoma as a primary indication.\n\nA total of 1404 articles were reviewed. 17 eligible studies were identified: 14 studies on incidental NSCLC (N = 169), 4 on diffuse lepidic adenocarcinoma (N = 70). Overall survival (OS) for patients with incidentally identified lung cancer at 1-year, 3-year, and 5-year was 60.8% (95%CI 43.7%-77.9%, I\n\nWe present a review and pooled analysis examining survival following LTx with incidentally identified NSCLC. Patients with earlier stage incidentally explanted NSCLC had better survival outcomes. OS in the stage I population approximates that of LTx without incidental NSCLC.",
+      "evidence_sentences": [
+        "A small proportion of explanted lungs harbor incidentally identified nonsmall cell lung cancers (NSCLC).",
+        "Overall survival (OS) for patients with incidentally identified lung cancer at 1-year, 3-year, and 5-year was 60.8% (95%CI 43.7%-77.9%, I We present a review and pooled analysis examining survival following LTx with incidentally identified NSCLC.",
+        "We review the literature on studies assessing LTx patients found to have NSCLC lung cancer in their explanted lungs, and perform a pooled analysis of outcomes."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Basheer Elsolh",
+        "Zubair Bayat",
+        "Dennis Lyu",
+        "Jules Lin",
+        "Elliot Wakeam"
+      ],
+      "year": "2023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37253398/"
+    },
+    {
+      "pmid": "24268442",
+      "title": "Exercise training for people following lung resection for non-small cell lung cancer - a Cochrane systematic review.",
+      "journal": "Cancer treatment reviews",
+      "abstract_sections": [
+        "To determine the effects of exercise training on exercise capacity, health-related quality of life (HRQoL), lung function (forced expiratory volume in one second (FEV1)) and quadriceps force in people who have had a recent lung resection for non-small cell lung cancer (NSCLC).",
+        "We searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, SciELO and PEDro up to February 2013.",
+        "We included randomised controlled trials (RCTs) in which study participants with NSCLC, who had recently undergone lung resection, were allocated to receive either exercise training or no exercise training. Two review authors screened and identified the studies for inclusion.",
+        "We identified three RCTs involving 178 participants. On completion of the intervention period, exercise capacity, as measured by the six-minute walk distance, was statistically greater in the intervention group compared to the control group (mean difference (MD) 50.4m; 95% confidence interval (CI) 15.4-85.2m). No between-group differences were observed in HRQoL (standardised mean difference (SMD) 0.17; 95% CI -0.16-0.49) or FEV1 (MD -0.13L; 95% CI -0.36-0.11L). Differences in quadriceps force were not demonstrated on completion of the intervention period.",
+        "Evidence from our review suggests that exercise training may potentially increase the exercise capacity of people following lung resection for NSCLC. The findings of this review should be interpreted with caution due to disparities between the studies, methodological limitations, some significant risks of bias and small sample sizes."
+      ],
+      "abstract": "To determine the effects of exercise training on exercise capacity, health-related quality of life (HRQoL), lung function (forced expiratory volume in one second (FEV1)) and quadriceps force in people who have had a recent lung resection for non-small cell lung cancer (NSCLC).\n\nWe searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, SciELO and PEDro up to February 2013.\n\nWe included randomised controlled trials (RCTs) in which study participants with NSCLC, who had recently undergone lung resection, were allocated to receive either exercise training or no exercise training. Two review authors screened and identified the studies for inclusion.\n\nWe identified three RCTs involving 178 participants. On completion of the intervention period, exercise capacity, as measured by the six-minute walk distance, was statistically greater in the intervention group compared to the control group (mean difference (MD) 50.4m; 95% confidence interval (CI) 15.4-85.2m). No between-group differences were observed in HRQoL (standardised mean difference (SMD) 0.17; 95% CI -0.16-0.49) or FEV1 (MD -0.13L; 95% CI -0.36-0.11L). Differences in quadriceps force were not demonstrated on completion of the intervention period.\n\nEvidence from our review suggests that exercise training may potentially increase the exercise capacity of people following lung resection for NSCLC. The findings of this review should be interpreted with caution due to disparities between the studies, methodological limitations, some significant risks of bias and small sample sizes.",
+      "evidence_sentences": [
+        "To determine the effects of exercise training on exercise capacity, health-related quality of life (HRQoL), lung function (forced expiratory volume in one second (FEV1)) and quadriceps force in people who have had a recent lung resection for non-small cell lung cancer (NSCLC).",
+        "We included randomised controlled trials (RCTs) in which study participants with NSCLC, who had recently undergone lung resection, were allocated to receive either exercise training or no exercise training.",
+        "Evidence from our review suggests that exercise training may potentially increase the exercise capacity of people following lung resection for NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Vinicius Cavalheri",
+        "Fatim Tahirah",
+        "Mika Nonoyama",
+        "Sue Jenkins",
+        "Kylie Hill"
+      ],
+      "year": "2014",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24268442/"
+    },
+    {
+      "pmid": "17409887",
+      "title": "Management of unresected stage III non-small cell lung cancer: a systematic review.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "To conduct a systematic review to determine the most effective therapy for patients with unresected stage III non-small cell lung cancer.",
+        "Relevant randomized trials and meta-analyses were identified through a systematic search of the literature.",
+        "Forty-seven trials and six meta-analyses were included. No statistically significant survival differences were detected for immediate versus delayed administration of radiotherapy or different doses of hyperfractionated radiotherapy. Three of 12 trials comparing various doses and schedules of radiotherapy detected a statistically significant survival advantage with higher radiation doses. All meta-analyses found a statistically significant survival advantage for chemoradiation, particularly platinum-based, compared with radiation alone. One meta-analysis and three trials comparing concurrent with sequential chemoradiation detected a statistically significant survival advantage with concurrent administration. Increased toxicities, especially esophagitis and hematologic events, were generally associated with concurrent chemoradiation. The survival advantage for concurrent platinum-based chemoradiation corresponds to a 4% absolute survival benefit at 2 years. With respect to trials comparing different chemotherapy regimens or schedules, there is insufficient evidence to determine which particular regimen or schedule is most effective.",
+        "Palliative radiotherapy can provide symptom relief for symptomatic patients with poor performance status. For patients with good performance status, chemoradiation improves survival compared with radiotherapy alone, particularly when the two modalities are administered concurrently. Sequential chemoradiation is a treatment option for borderline-status patients. Adequate assessment of performance status is important when evaluating treatment options for patients with unresected non-small cell lung cancer. Patients and physicians should have a full discussion of the benefits, limitations, and toxicities of therapy."
+      ],
+      "abstract": "To conduct a systematic review to determine the most effective therapy for patients with unresected stage III non-small cell lung cancer.\n\nRelevant randomized trials and meta-analyses were identified through a systematic search of the literature.\n\nForty-seven trials and six meta-analyses were included. No statistically significant survival differences were detected for immediate versus delayed administration of radiotherapy or different doses of hyperfractionated radiotherapy. Three of 12 trials comparing various doses and schedules of radiotherapy detected a statistically significant survival advantage with higher radiation doses. All meta-analyses found a statistically significant survival advantage for chemoradiation, particularly platinum-based, compared with radiation alone. One meta-analysis and three trials comparing concurrent with sequential chemoradiation detected a statistically significant survival advantage with concurrent administration. Increased toxicities, especially esophagitis and hematologic events, were generally associated with concurrent chemoradiation. The survival advantage for concurrent platinum-based chemoradiation corresponds to a 4% absolute survival benefit at 2 years. With respect to trials comparing different chemotherapy regimens or schedules, there is insufficient evidence to determine which particular regimen or schedule is most effective.\n\nPalliative radiotherapy can provide symptom relief for symptomatic patients with poor performance status. For patients with good performance status, chemoradiation improves survival compared with radiotherapy alone, particularly when the two modalities are administered concurrently. Sequential chemoradiation is a treatment option for borderline-status patients. Adequate assessment of performance status is important when evaluating treatment options for patients with unresected non-small cell lung cancer. Patients and physicians should have a full discussion of the benefits, limitations, and toxicities of therapy.",
+      "evidence_sentences": [
+        "To conduct a systematic review to determine the most effective therapy for patients with unresected stage III non-small cell lung cancer.",
+        "Adequate assessment of performance status is important when evaluating treatment options for patients with unresected non-small cell lung cancer.",
+        "One meta-analysis and three trials comparing concurrent with sequential chemoradiation detected a statistically significant survival advantage with concurrent administration."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Gordon Okawara",
+        "Jean A Mackay",
+        "William K Evans",
+        "Yee C Ung",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17409887/"
+    },
+    {
+      "pmid": "31023244",
+      "title": "Comparative survival benefit of currently licensed second or third line treatments for epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) negative advanced or metastatic non-small cell lung cancer: a systematic review and secondary analysis of trials.",
+      "journal": "BMC cancer",
+      "abstract_sections": [
+        "A review of therapies for advanced cancers licenced by the EMA between 2009 and 2013 concluded that for more than half of these drugs there was little evidence of overall survival or quality of life benefit. Recent years have witnessed a growing number of licensed second-line pharmacotherapies for advanced/metastatic non-small cell lung cancer (NSCLC). With the aim of gauging patient survival benefit, we conducted a systematic review of randomised controlled trials (RCT) and compared survival outcomes from available licensed treatments for patients with advanced/metastatic NSCLC.",
+        "RCTs of second/third line treatments in participants with advanced/metastatic NSCLC and negative/low expression of Anaplastic Lymphoma Kinase (ALK) and of Epidermal Growth Factor Receptor (EGFR) were included. We searched electronic databases (MEDLINE; EMBASE; Web of Science) from January, 2000 up to July, 2017. Two or more independent reviewers screened bibliographic records, extracted data, and assessed risk of bias of studies. Published Kaplan Meier plots for OS and PFS along with restricted-mean-survival methods and parametric modelling were used to estimate the survival outcomes as mean number of months of survival. Network meta-analysis was undertaken to rank interventions and to make indirect comparisons.",
+        "We included 11 RCTs with data for 7581 participants that compared nine different drugs. In studies of patients regardless of histology groups, targeted drugs (ramucirumab and nintedanib) yielded small overall survival gains of < 2.5 months over docetaxel, erlotinib provided no benefit, while immunotherapies (atezolizumab and pembrolizumab) delivered 5 to 6 months gain. Studies with patients stratified by histology confirmed the apparent superiority of immunotherapy (nivolumab and atezolizumab) over targeted treatments (ramucirumab, nintedanib, afatinib) providing between about 4 to 8 months OS gain over docetaxel. In network analysis immunotherapies consistently ranked higher than alternatives irrespective of population histology and outcome measure.",
+        "Our review indicates that nivolumab, pembrolizumab and atezolizumab provide superior survival benefits compared to other licensed drugs for late stage NSCLC. Patient gains from these immunotherapies are substantial compared to the expected average survival with chemotherapy (docetaxel) of < 1 year for people with squamous histology and about 1.25 year for those with non-squamous histology."
+      ],
+      "abstract": "A review of therapies for advanced cancers licenced by the EMA between 2009 and 2013 concluded that for more than half of these drugs there was little evidence of overall survival or quality of life benefit. Recent years have witnessed a growing number of licensed second-line pharmacotherapies for advanced/metastatic non-small cell lung cancer (NSCLC). With the aim of gauging patient survival benefit, we conducted a systematic review of randomised controlled trials (RCT) and compared survival outcomes from available licensed treatments for patients with advanced/metastatic NSCLC.\n\nRCTs of second/third line treatments in participants with advanced/metastatic NSCLC and negative/low expression of Anaplastic Lymphoma Kinase (ALK) and of Epidermal Growth Factor Receptor (EGFR) were included. We searched electronic databases (MEDLINE; EMBASE; Web of Science) from January, 2000 up to July, 2017. Two or more independent reviewers screened bibliographic records, extracted data, and assessed risk of bias of studies. Published Kaplan Meier plots for OS and PFS along with restricted-mean-survival methods and parametric modelling were used to estimate the survival outcomes as mean number of months of survival. Network meta-analysis was undertaken to rank interventions and to make indirect comparisons.\n\nWe included 11 RCTs with data for 7581 participants that compared nine different drugs. In studies of patients regardless of histology groups, targeted drugs (ramucirumab and nintedanib) yielded small overall survival gains of < 2.5 months over docetaxel, erlotinib provided no benefit, while immunotherapies (atezolizumab and pembrolizumab) delivered 5 to 6 months gain. Studies with patients stratified by histology confirmed the apparent superiority of immunotherapy (nivolumab and atezolizumab) over targeted treatments (ramucirumab, nintedanib, afatinib) providing between about 4 to 8 months OS gain over docetaxel. In network analysis immunotherapies consistently ranked higher than alternatives irrespective of population histology and outcome measure.\n\nOur review indicates that nivolumab, pembrolizumab and atezolizumab provide superior survival benefits compared to other licensed drugs for late stage NSCLC. Patient gains from these immunotherapies are substantial compared to the expected average survival with chemotherapy (docetaxel) of < 1 year for people with squamous histology and about 1.25 year for those with non-squamous histology.",
+      "evidence_sentences": [
+        "Recent years have witnessed a growing number of licensed second-line pharmacotherapies for advanced/metastatic non-small cell lung cancer (NSCLC).",
+        "RCTs of second/third line treatments in participants with advanced/metastatic NSCLC and negative/low expression of Anaplastic Lymphoma Kinase (ALK) and of Epidermal Growth Factor Receptor (EGFR) were included.",
+        "Our review indicates that nivolumab, pembrolizumab and atezolizumab provide superior survival benefits compared to other licensed drugs for late stage NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Martin Connock",
+        "Xavier Armoiry",
+        "Alexander Tsertsvadze",
+        "G J Melendez-Torres",
+        "Pamela Royle",
+        "Lazaros Andronis",
+        "Aileen Clarke"
+      ],
+      "year": "2019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31023244/"
+    },
+    {
+      "pmid": "38749072",
+      "title": "Efficacy and safety of crizotinib in the treatment of advanced non-small cell lung cancer with ROS1 gene fusion: a systematic literature review and meta-analysis of real-world evidence.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Crizotinib was approved to treat patients with advanced non-small cell lung cancer (aNSCLC) with ROS proto-oncogene 1 (ROS1) gene fusion in 2016. We conducted a systematic literature review to identify real-world evidence (RWE) studies and estimated the efficacy and safety of crizotinib using meta-analyses (MA) for objective response rate (ORR), real-world progression-free survival (PFS), and overall survival (OS).",
+        "We searched MEDLINE®, Embase, and Cochrane CENTRAL from January 2016 to March 2023 using Ovid® for published single-arm or comparative RWE studies evaluating patients (N ≥ 20) receiving crizotinib monotherapy for aNSCLC with ROS1 gene fusion. Pooled estimates for ORR and grade 3/4 adverse events (AEs) were derived using the metafor package in R while pooled estimates for median real-world PFS (rwPFS) and OS were derived using reconstructed individual patient data from published Kaplan-Meier curves. The primary analysis included all studies regardless of crizotinib line of therapy; a subgroup analysis (SA) was conducted using studies evaluating patients receiving first-line crizotinib.",
+        "Fourteen studies met the eligibility criteria and were considered feasible for MA. For the primary analysis, the pooled ORR (N = 9 studies) was 70.6 % (95 % confidence interval [CI]: 57.0, 81.3), median rwPFS was 14.5 months (N = 11 studies), and OS was 40.2 months (N = 9 studies). In the SA, the pooled ORR (N = 4 studies) was 81.1 % (95 % CI: 76.1, 85.2) and the median rwPFS (N = 4 studies) and OS (N = 2 studies) were 18.1 and 60 months, respectively. All MAs were associated with significant heterogeneity (I",
+        "The results from this study are consistent with clinical trial data and, taken collectively, supports crizotinib as a safe and effective treatment across different lines of therapy in patients with ROS1 aNSCLC in the real-world setting."
+      ],
+      "abstract": "Crizotinib was approved to treat patients with advanced non-small cell lung cancer (aNSCLC) with ROS proto-oncogene 1 (ROS1) gene fusion in 2016. We conducted a systematic literature review to identify real-world evidence (RWE) studies and estimated the efficacy and safety of crizotinib using meta-analyses (MA) for objective response rate (ORR), real-world progression-free survival (PFS), and overall survival (OS).\n\nWe searched MEDLINE®, Embase, and Cochrane CENTRAL from January 2016 to March 2023 using Ovid® for published single-arm or comparative RWE studies evaluating patients (N ≥ 20) receiving crizotinib monotherapy for aNSCLC with ROS1 gene fusion. Pooled estimates for ORR and grade 3/4 adverse events (AEs) were derived using the metafor package in R while pooled estimates for median real-world PFS (rwPFS) and OS were derived using reconstructed individual patient data from published Kaplan-Meier curves. The primary analysis included all studies regardless of crizotinib line of therapy; a subgroup analysis (SA) was conducted using studies evaluating patients receiving first-line crizotinib.\n\nFourteen studies met the eligibility criteria and were considered feasible for MA. For the primary analysis, the pooled ORR (N = 9 studies) was 70.6 % (95 % confidence interval [CI]: 57.0, 81.3), median rwPFS was 14.5 months (N = 11 studies), and OS was 40.2 months (N = 9 studies). In the SA, the pooled ORR (N = 4 studies) was 81.1 % (95 % CI: 76.1, 85.2) and the median rwPFS (N = 4 studies) and OS (N = 2 studies) were 18.1 and 60 months, respectively. All MAs were associated with significant heterogeneity (I\n\nThe results from this study are consistent with clinical trial data and, taken collectively, supports crizotinib as a safe and effective treatment across different lines of therapy in patients with ROS1 aNSCLC in the real-world setting.",
+      "evidence_sentences": [
+        "Crizotinib was approved to treat patients with advanced non-small cell lung cancer (aNSCLC) with ROS proto-oncogene 1 (ROS1) gene fusion in 2016.",
+        "All MAs were associated with significant heterogeneity (I The results from this study are consistent with clinical trial data and, taken collectively, supports crizotinib as a safe and effective treatment across different lines of therapy in patients with ROS1 aNSCLC in the real-world setting.",
+        "We searched MEDLINE®, Embase, and Cochrane CENTRAL from January 2016 to March 2023 using Ovid® for published single-arm or comparative RWE studies evaluating patients (N ≥ 20) receiving crizotinib monotherapy for aNSCLC with ROS1 gene fusion."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ernest Nadal",
+        "Nada Rifi",
+        "Sarah Kane",
+        "Sokhna Mbacke",
+        "Lindsey Starkman",
+        "Beatrice Suero",
+        "Hannah Le",
+        "Imtiaz A Samjoo"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38749072/"
+    },
+    {
+      "pmid": "41179119",
+      "title": "Antibody-drug conjugates versus docetaxel for previously treated advanced non-small-cell lung cancer: a systematic review and meta-analysis of randomized controlled trials.",
+      "journal": "Therapeutic advances in medical oncology",
+      "abstract_sections": [
+        "Docetaxel, following progression on immunotherapy and platinum-based chemotherapy, remains the standard of care for advanced non-small-cell lung cancer (NSCLC) but offers limited promise. Antibody-drug conjugates (ADCs) may improve outcomes in this population.",
+        "Data from the literature, mainly randomized controlled trials (RCTs), have shown discrepancies. This report evaluates the efficacy and safety of ADCs versus docetaxel in previously treated advanced NSCLC.",
+        "The systematic review and meta-analysis was conducted focusing on phase II/III RCTs to synthesize available evidence regarding efficacy outcomes and safety of ADCs compared to docetaxel.",
+        "Databases (PubMed (MEDLINE), EMBASE, and Cochrane Library), clinical trial registries, and proceedings of global oncology conferences from January 2015 to November 2024 were screened comparing ADC versus docetaxel. Two researchers independently completed data retrieval and screening work using Covidence. The Cochrane Risk of Bias Tool (RoB 2.0) was used to assess the methodological quality of the included RCTs. The primary outcomes include progression-free survival (PFS) and overall survival (OS), while the secondary outcomes include objective response rate (ORR), disease control rate (DCR), and adverse events (AEs). The pooled hazard ratios (HRs) and odds ratios (ORs) were meta-analyzed using the appropriate generic variance and Mantel-Haenszel methods. Random-effect models were used to compute pooled estimates.",
+        "Of the 212 records screened, three RCTs involving 1597 patients were included. ADCs did not significantly improve PFS (pooled HR: 0.91, 95% CI: 0.73-1.13). For OS, the pooled HR was 0.88 (95% CI: 0.78-1.00,",
+        "Overall, there was no difference between the docetaxel and the ADC treatment arms; however, our findings report a significant survival benefit in the subgroup of patients with nonsquamous NSCLC pathology treated with ADCs compared to docetaxel with a manageable safety profile. Further research is needed to address heterogeneity, refine patient selection, and obtain more mature survival data with predictive biomarkers."
+      ],
+      "abstract": "Docetaxel, following progression on immunotherapy and platinum-based chemotherapy, remains the standard of care for advanced non-small-cell lung cancer (NSCLC) but offers limited promise. Antibody-drug conjugates (ADCs) may improve outcomes in this population.\n\nData from the literature, mainly randomized controlled trials (RCTs), have shown discrepancies. This report evaluates the efficacy and safety of ADCs versus docetaxel in previously treated advanced NSCLC.\n\nThe systematic review and meta-analysis was conducted focusing on phase II/III RCTs to synthesize available evidence regarding efficacy outcomes and safety of ADCs compared to docetaxel.\n\nDatabases (PubMed (MEDLINE), EMBASE, and Cochrane Library), clinical trial registries, and proceedings of global oncology conferences from January 2015 to November 2024 were screened comparing ADC versus docetaxel. Two researchers independently completed data retrieval and screening work using Covidence. The Cochrane Risk of Bias Tool (RoB 2.0) was used to assess the methodological quality of the included RCTs. The primary outcomes include progression-free survival (PFS) and overall survival (OS), while the secondary outcomes include objective response rate (ORR), disease control rate (DCR), and adverse events (AEs). The pooled hazard ratios (HRs) and odds ratios (ORs) were meta-analyzed using the appropriate generic variance and Mantel-Haenszel methods. Random-effect models were used to compute pooled estimates.\n\nOf the 212 records screened, three RCTs involving 1597 patients were included. ADCs did not significantly improve PFS (pooled HR: 0.91, 95% CI: 0.73-1.13). For OS, the pooled HR was 0.88 (95% CI: 0.78-1.00,\n\nOverall, there was no difference between the docetaxel and the ADC treatment arms; however, our findings report a significant survival benefit in the subgroup of patients with nonsquamous NSCLC pathology treated with ADCs compared to docetaxel with a manageable safety profile. Further research is needed to address heterogeneity, refine patient selection, and obtain more mature survival data with predictive biomarkers.",
+      "evidence_sentences": [
+        "Docetaxel, following progression on immunotherapy and platinum-based chemotherapy, remains the standard of care for advanced non-small-cell lung cancer (NSCLC) but offers limited promise.",
+        "For OS, the pooled HR was 0.88 (95% CI: 0.78-1.00, Overall, there was no difference between the docetaxel and the ADC treatment arms; however, our findings report a significant survival benefit in the subgroup of patients with nonsquamous NSCLC pathology treated with ADCs compared to docetaxel with a manageable safety profile.",
+        "This report evaluates the efficacy and safety of ADCs versus docetaxel in previously treated advanced NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Saqib Raza Khan",
+        "Laís Marques Eiras",
+        "Gabriel Boldt",
+        "Jacques Raphael",
+        "Daniel Breadner"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41179119/"
+    },
+    {
+      "pmid": "28188101",
+      "title": "Antiangiogenic Therapy in Advanced Non-small-cell Lung Cancer: A Meta-analysis of Phase III Randomized Trials.",
+      "journal": "Clinical lung cancer",
+      "abstract_sections": [
+        "We conducted a meta-analysis to evaluate the efficacy of adding any antiangiogenic therapy (AT) to the standard of care in advanced non-small-cell lung cancer (NSCLC). The electronic databases Ovid PubMed, Cochrane Central Register of Controlled Trials, and Embase were searched to identify eligible trials. We included all phase III randomized trials with any line and type of treatment, histology. and AT dose. Pooled hazard ratios (HRs) for overall survival (OS) and progression-free survival (PFS), and pooled odds ratio (OR) for overall response rates (RR) were calculated. We divided the population into 2 subgroups based on the bevacizumab dose. Data of 19,098 patients from 25 phase III trials were analyzed. Compared with the standard of care, the addition of AT did not prolong OS (HR 0.98; 95% confidence interval [CI], 0.96-1.00; P = .1 and HR 0.97; 95% CI, 0.94-1.00; P = .06 for groups 1 and 2, respectively). However, there was a significant improvement in PFS with the addition of AT (HR 0.85; 95% CI, 0.79-0.91; P < .00001 and HR 0.81; 95% CI, 0.75-0.88; P < .00001 for groups 1 and 2, respectively) and overall RR (OR 1.61; 95% CI, 1.30-2.01; P < .0001 and OR 1.72; 95% CI, 1.39-2.14; P < .00001 for groups 1 and 2, respectively). This is the first meta-analysis including only all phase III trials with AT in NSCLC showing no significant effect on OS and an improvement in PFS and RR only. The role of AT in advanced NSCLC is still questionable; strong validated biomarkers are eagerly needed to predict which subgroup might benefit the most from such therapy."
+      ],
+      "abstract": "We conducted a meta-analysis to evaluate the efficacy of adding any antiangiogenic therapy (AT) to the standard of care in advanced non-small-cell lung cancer (NSCLC). The electronic databases Ovid PubMed, Cochrane Central Register of Controlled Trials, and Embase were searched to identify eligible trials. We included all phase III randomized trials with any line and type of treatment, histology. and AT dose. Pooled hazard ratios (HRs) for overall survival (OS) and progression-free survival (PFS), and pooled odds ratio (OR) for overall response rates (RR) were calculated. We divided the population into 2 subgroups based on the bevacizumab dose. Data of 19,098 patients from 25 phase III trials were analyzed. Compared with the standard of care, the addition of AT did not prolong OS (HR 0.98; 95% confidence interval [CI], 0.96-1.00; P = .1 and HR 0.97; 95% CI, 0.94-1.00; P = .06 for groups 1 and 2, respectively). However, there was a significant improvement in PFS with the addition of AT (HR 0.85; 95% CI, 0.79-0.91; P < .00001 and HR 0.81; 95% CI, 0.75-0.88; P < .00001 for groups 1 and 2, respectively) and overall RR (OR 1.61; 95% CI, 1.30-2.01; P < .0001 and OR 1.72; 95% CI, 1.39-2.14; P < .00001 for groups 1 and 2, respectively). This is the first meta-analysis including only all phase III trials with AT in NSCLC showing no significant effect on OS and an improvement in PFS and RR only. The role of AT in advanced NSCLC is still questionable; strong validated biomarkers are eagerly needed to predict which subgroup might benefit the most from such therapy.",
+      "evidence_sentences": [
+        "We conducted a meta-analysis to evaluate the efficacy of adding any antiangiogenic therapy (AT) to the standard of care in advanced non-small-cell lung cancer (NSCLC).",
+        "This is the first meta-analysis including only all phase III trials with AT in NSCLC showing no significant effect on OS and an improvement in PFS and RR only.",
+        "The role of AT in advanced NSCLC is still questionable; strong validated biomarkers are eagerly needed to predict which subgroup might benefit the most from such therapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Jacques Raphael",
+        "Kelvin Chan",
+        "Safiya Karim",
+        "Robert Kerbel",
+        "Henry Lam",
+        "Keemo Delos Santos",
+        "Ronak Saluja",
+        "Sunil Verma"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28188101/"
+    },
+    {
+      "pmid": "31138727",
+      "title": "Amplifying Outcomes: Checkpoint Inhibitor Combinations in First-Line Non-Small Cell Lung Cancer.",
+      "journal": "The oncologist",
+      "abstract_sections": [
+        "Lung cancer is one of the most common types of cancer, resulting in approximately 1.8 million deaths worldwide. Immunotherapy using checkpoint inhibitors has become standard of care in advanced non-small cell lung cancer (NSCLC), and there is increasing interest in further improving outcomes through combination with other therapeutics. This systematic review evaluates emerging phase III data on the efficacy and safety of checkpoint inhibitor combinations as first-line treatment for advanced NSCLC.",
+        "Published and presented literature was searched using the key search terms \"non-small cell lung cancer\" AND \"checkpoint-inhibitors\" (OR respective aliases) AND phase III trials. Seven randomized phase III clinical trials reporting outcomes on checkpoint inhibitor combinations in first-line advanced NSCLC were identified.",
+        "Four first-line trials reported outcomes for checkpoint inhibitor combinations in nonsquamous NSCLC. Pembrolizumab-chemotherapy, atezolizumab-chemotherapy, and atezolizumab-bevacizumab-chemotherapy showed significantly improved overall survival compared with controls in patients with advanced nonsquamous epidermal growth factor receptor-negative (EGFR-)/ anaplastic lymphoma kinase gene (ALK)- NSCLC. Two trials reported outcomes for squamous NSCLC, with pembrolizumab-chemotherapy reporting significantly improved overall survival (OS) compared with chemotherapy. The combination of nivolumab-ipilimumab in all-comer histology failed to improve OS compared with histology appropriate chemotherapy in patients regardless of their tumor mutational burden status. Based on improved survival and safety, either pembrolizumab monotherapy or pembrolizumab-chemotherapy administered based on PD-L1 status and histology is a preferred treatment option. Outcomes for atezolizumab-bevacizumab-chemotherapy in EGFR+/ALK+ patients are promising and require further exploration.",
+        "First-line checkpoint inhibitors added to standard therapies improve overall survival for nonsquamous EGFR-/ALK- and squamous advanced NSCLC.",
+        "Single-agent immune checkpoint inhibitors are now standard of care for advanced non-small cell lung cancer (NSCLC), and emerging data show that combining these agents with established chemotherapy further improves outcomes. The phase III KEYNOTE-189 and IMPower-130 trials showed significantly improved survival using this strategy for nonsquamous NSCLC, and the phase III KEYNOTE-407 trial showed similar results in squamous disease. Checkpoint inhibitor combinations are therefore an important new treatment option for first-line NSCLC. Programmed death ligand-1 expression may inform the use of checkpoint inhibitor combination therapy, and overall tumor mutation burden is also an emerging biomarker for this new treatment strategy."
+      ],
+      "abstract": "Lung cancer is one of the most common types of cancer, resulting in approximately 1.8 million deaths worldwide. Immunotherapy using checkpoint inhibitors has become standard of care in advanced non-small cell lung cancer (NSCLC), and there is increasing interest in further improving outcomes through combination with other therapeutics. This systematic review evaluates emerging phase III data on the efficacy and safety of checkpoint inhibitor combinations as first-line treatment for advanced NSCLC.\n\nPublished and presented literature was searched using the key search terms \"non-small cell lung cancer\" AND \"checkpoint-inhibitors\" (OR respective aliases) AND phase III trials. Seven randomized phase III clinical trials reporting outcomes on checkpoint inhibitor combinations in first-line advanced NSCLC were identified.\n\nFour first-line trials reported outcomes for checkpoint inhibitor combinations in nonsquamous NSCLC. Pembrolizumab-chemotherapy, atezolizumab-chemotherapy, and atezolizumab-bevacizumab-chemotherapy showed significantly improved overall survival compared with controls in patients with advanced nonsquamous epidermal growth factor receptor-negative (EGFR-)/ anaplastic lymphoma kinase gene (ALK)- NSCLC. Two trials reported outcomes for squamous NSCLC, with pembrolizumab-chemotherapy reporting significantly improved overall survival (OS) compared with chemotherapy. The combination of nivolumab-ipilimumab in all-comer histology failed to improve OS compared with histology appropriate chemotherapy in patients regardless of their tumor mutational burden status. Based on improved survival and safety, either pembrolizumab monotherapy or pembrolizumab-chemotherapy administered based on PD-L1 status and histology is a preferred treatment option. Outcomes for atezolizumab-bevacizumab-chemotherapy in EGFR+/ALK+ patients are promising and require further exploration.\n\nFirst-line checkpoint inhibitors added to standard therapies improve overall survival for nonsquamous EGFR-/ALK- and squamous advanced NSCLC.\n\nSingle-agent immune checkpoint inhibitors are now standard of care for advanced non-small cell lung cancer (NSCLC), and emerging data show that combining these agents with established chemotherapy further improves outcomes. The phase III KEYNOTE-189 and IMPower-130 trials showed significantly improved survival using this strategy for nonsquamous NSCLC, and the phase III KEYNOTE-407 trial showed similar results in squamous disease. Checkpoint inhibitor combinations are therefore an important new treatment option for first-line NSCLC. Programmed death ligand-1 expression may inform the use of checkpoint inhibitor combination therapy, and overall tumor mutation burden is also an emerging biomarker for this new treatment strategy.",
+      "evidence_sentences": [
+        "Immunotherapy using checkpoint inhibitors has become standard of care in advanced non-small cell lung cancer (NSCLC), and there is increasing interest in further improving outcomes through combination with other therapeutics.",
+        "Single-agent immune checkpoint inhibitors are now standard of care for advanced non-small cell lung cancer (NSCLC), and emerging data show that combining these agents with established chemotherapy further improves outcomes.",
+        "Published and presented literature was searched using the key search terms \"non-small cell lung cancer\" AND \"checkpoint-inhibitors\" (OR respective aliases) AND phase III trials."
+      ],
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Barbara Melosky",
+        "Rosalyn Juergens",
+        "Vera Hirsh",
+        "Deanna McLeod",
+        "Natasha Leighl",
+        "Ming-Sound Tsao",
+        "Paul B Card",
+        "Quincy Chu"
+      ],
+      "year": "2020",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31138727/"
+    },
+    {
+      "pmid": "26378774",
+      "title": "Hospitalizations During Systemic Therapy for Metastatic Lung Cancer: A Systematic Review of Real World vs Clinical Trial Outcomes.",
+      "journal": "JAMA oncology",
+      "abstract_sections": [
+        "Understanding the risk of hospitalization due to treatment-related toxic effects is essential for patients, their clinicians, and health systems. Unplanned hospitalizations represent potential gaps in patient care; definition of these gaps allows characterization and identification of areas for quality improvement.",
+        "To compare the rates of hospitalization in patients with metastatic non-small-cell lung cancer (mNSCLC) receiving chemotherapy in the \"real world\" vs clinical trial settings and to identify factors associated with hospitalization.",
+        "A systematic review of Medline and EMBASE was conducted for records dating from database inception (1946 and 1974, respectively) through December 2014 to identify articles reporting rates of hospitalization during chemotherapy in patients with cancer. Both observational studies and clinical trials were eligible. This report focuses on patients with mNSCLC receiving chemotherapy because data were available for this clinical scenario in both the clinical trial and observational setting, allowing comparison. Summary statistics were used to describe results, and the χ2 test was used to compare hospitalization rates.",
+        "Of the 74 articles reporting hospitalization rates during chemotherapy, 10 studies, all published after 2004, examined chemotherapy in mNSCLC, 5 randomized clinical trials (3962 patients) and 5 observational studies (8624 patients). Chemotherapy regimens included doublet therapy, single-agent therapy, or chemotherapy type unspecified. The real world cohort was older (71 vs 63 years). All real world studies reported on comorbidities, while clinical trials reported performance status. The aggregate hospitalization rate among real world patients was significantly higher than among trial patients (51% vs 16%) (odds ratio, 7.7; 95% CI, 7.0-8.4; P < .001). Performance status and type of chemotherapy were associated with hospitalization during chemotherapy in clinical trials, while type of chemotherapy was a risk factor in observational studies.",
+        "Clinical trials in mNSCLC consistently report significantly lower rates of hospitalization than reports of real world cohorts of patients undergoing similar therapies. However, very few clinical trials report hospitalization information."
+      ],
+      "abstract": "Understanding the risk of hospitalization due to treatment-related toxic effects is essential for patients, their clinicians, and health systems. Unplanned hospitalizations represent potential gaps in patient care; definition of these gaps allows characterization and identification of areas for quality improvement.\n\nTo compare the rates of hospitalization in patients with metastatic non-small-cell lung cancer (mNSCLC) receiving chemotherapy in the \"real world\" vs clinical trial settings and to identify factors associated with hospitalization.\n\nA systematic review of Medline and EMBASE was conducted for records dating from database inception (1946 and 1974, respectively) through December 2014 to identify articles reporting rates of hospitalization during chemotherapy in patients with cancer. Both observational studies and clinical trials were eligible. This report focuses on patients with mNSCLC receiving chemotherapy because data were available for this clinical scenario in both the clinical trial and observational setting, allowing comparison. Summary statistics were used to describe results, and the χ2 test was used to compare hospitalization rates.\n\nOf the 74 articles reporting hospitalization rates during chemotherapy, 10 studies, all published after 2004, examined chemotherapy in mNSCLC, 5 randomized clinical trials (3962 patients) and 5 observational studies (8624 patients). Chemotherapy regimens included doublet therapy, single-agent therapy, or chemotherapy type unspecified. The real world cohort was older (71 vs 63 years). All real world studies reported on comorbidities, while clinical trials reported performance status. The aggregate hospitalization rate among real world patients was significantly higher than among trial patients (51% vs 16%) (odds ratio, 7.7; 95% CI, 7.0-8.4; P < .001). Performance status and type of chemotherapy were associated with hospitalization during chemotherapy in clinical trials, while type of chemotherapy was a risk factor in observational studies.\n\nClinical trials in mNSCLC consistently report significantly lower rates of hospitalization than reports of real world cohorts of patients undergoing similar therapies. However, very few clinical trials report hospitalization information.",
+      "evidence_sentences": [
+        "To compare the rates of hospitalization in patients with metastatic non-small-cell lung cancer (mNSCLC) receiving chemotherapy in the \"real world\" vs clinical trial settings and to identify factors associated with hospitalization.",
+        "A systematic review of Medline and EMBASE was conducted for records dating from database inception (1946 and 1974, respectively) through December 2014 to identify articles reporting rates of hospitalization during chemotherapy in patients with cancer.",
+        "Of the 74 articles reporting hospitalization rates during chemotherapy, 10 studies, all published after 2004, examined chemotherapy in mNSCLC, 5 randomized clinical trials (3962 patients) and 5 observational studies (8624 patients)."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Rebecca M Prince",
+        "Eshetu G Atenafu",
+        "Monika K Krzyzanowska"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26378774/"
+    },
+    {
+      "pmid": "17409886",
+      "title": "Use of the epidermal growth factor receptor inhibitors gefitinib and erlotinib in the treatment of non-small cell lung cancer: a systematic review.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "Inhibition of the epidermal growth factor receptor is a promising therapy in the treatment of non-small cell lung cancer (NSCLC). In this systematic review, we evaluated the role of the epidermal growth factor receptor inhibitors gefitinib and erlotinib in the treatment of patients with advanced NSCLC.",
+        "Relevant randomized trials published as articles or abstracts were identified through a systematic search of the literature from 1975 to November 2005 by two independent reviewers.",
+        "Twelve randomized trials met the predefined eligibility criteria for this systematic review. Four large placebo-controlled trials demonstrated that the addition of gefitinib or erlotinib to platinum-based first-line chemotherapy did not significantly improve overall survival or time-to-disease progression. A large placebo-controlled trial revealed a clinically and statistically significant survival benefit for erlotinib therapy as second- or third-line systemic therapy. The results of a single placebo-controlled trial and two phase II trials suggest that modest tumor response rates and symptom control can be achieved with gefitinib as second-line or subsequent therapy; however, a statistically significant survival benefit was not found for gefitinib compared with placebo.",
+        "There is strong evidence to recommend against the use of gefitinib or erlotinib in combination with chemotherapy or as maintenance therapy after chemotherapy and radiation as a first-line treatment for advanced NSCLC. Erlotinib monotherapy is an effective treatment that can prolong survival for patients with advanced NSCLC whose disease has relapsed or recurred after prior chemotherapy. Although a significant survival benefit has not been demonstrated for gefitinib in a placebo-controlled study, the two randomized phase II trials suggest that gefitinib may provide clinically important symptomatic benefits."
+      ],
+      "abstract": "Inhibition of the epidermal growth factor receptor is a promising therapy in the treatment of non-small cell lung cancer (NSCLC). In this systematic review, we evaluated the role of the epidermal growth factor receptor inhibitors gefitinib and erlotinib in the treatment of patients with advanced NSCLC.\n\nRelevant randomized trials published as articles or abstracts were identified through a systematic search of the literature from 1975 to November 2005 by two independent reviewers.\n\nTwelve randomized trials met the predefined eligibility criteria for this systematic review. Four large placebo-controlled trials demonstrated that the addition of gefitinib or erlotinib to platinum-based first-line chemotherapy did not significantly improve overall survival or time-to-disease progression. A large placebo-controlled trial revealed a clinically and statistically significant survival benefit for erlotinib therapy as second- or third-line systemic therapy. The results of a single placebo-controlled trial and two phase II trials suggest that modest tumor response rates and symptom control can be achieved with gefitinib as second-line or subsequent therapy; however, a statistically significant survival benefit was not found for gefitinib compared with placebo.\n\nThere is strong evidence to recommend against the use of gefitinib or erlotinib in combination with chemotherapy or as maintenance therapy after chemotherapy and radiation as a first-line treatment for advanced NSCLC. Erlotinib monotherapy is an effective treatment that can prolong survival for patients with advanced NSCLC whose disease has relapsed or recurred after prior chemotherapy. Although a significant survival benefit has not been demonstrated for gefitinib in a placebo-controlled study, the two randomized phase II trials suggest that gefitinib may provide clinically important symptomatic benefits.",
+      "evidence_sentences": [
+        "Inhibition of the epidermal growth factor receptor is a promising therapy in the treatment of non-small cell lung cancer (NSCLC).",
+        "There is strong evidence to recommend against the use of gefitinib or erlotinib in combination with chemotherapy or as maintenance therapy after chemotherapy and radiation as a first-line treatment for advanced NSCLC.",
+        "In this systematic review, we evaluated the role of the epidermal growth factor receptor inhibitors gefitinib and erlotinib in the treatment of patients with advanced NSCLC."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ron Feld",
+        "Srikala S Sridhar",
+        "Frances A Shepherd",
+        "Jean A Mackay",
+        "William K Evans",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17409886/"
+    },
+    {
+      "pmid": "21709590",
+      "title": "A systematic review and Canadian consensus recommendations on the use of biomarkers in the treatment of non-small cell lung cancer.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "Greater understanding of molecular pathways important in cell growth and proliferation of thoracic malignancies, particularly non-small cell lung cancer (NSCLC), has resulted in intense clinical and translational research. There is now considerable interest in personalizing treatment based on an understanding of tumor histology and molecular abnormalities. However, there is a multiplicity of data, often with discordant results resulting in confusion and uncertainty among clinicians.",
+        "We conducted a systematic review and a consensus meeting of Canadian lung cancer oncologists and pathologists to make recommendations on the use of biomarkers in NSCLC. PubMed covering 2005 to March 2010 was searched using MESH terms for NSCLC and randomized trials, plus text words for the biomarkers of interest. Conference proceedings from 2005 to 2009 ASCO, ESMO, IASLC, and USCAP were also searched. The articles were reviewed by pairs of oncologists and pathologists to determine eligibility for inclusion.",
+        "Ten oncologists and pathologists reviewed and summarized the literature at a meeting attended by 37 individuals. Draft recommendations were formulated and agreed upon by consensus process. There is some evidence that histology is prognostic for survival. There is evidence from multiple randomized clinical trials to recommend the following: histologic subtype is predictive of treatment efficacy and for some agents toxicity. Immunohistochemistry testing should be performed on NSCLC specimens that cannot be classified accurately with conventional H&E staining. As EGFR mutations are predictive of benefit from tyrosine kinase inhibitors, diagnostic NSCLC samples should be routinely tested for EGFR-activating mutations. Clinical data on K-RAS mutations are inconsistent, therefore testing is not recommended. There is insufficient evidence to recommend other biomarker testing. No biomarkers to date reliably predict improved efficacy for anti-VEGF therapy. Routine assessment for EML4/ALK mutations is not recommended at present, although emerging data suggest that it may become valuable in the near future.",
+        "Assessment of NSCLC biomarkers is becoming increasingly important. Therefore, adequate diagnostic material must be obtained for accurate histologic subtyping and relevant molecular biology assays."
+      ],
+      "abstract": "Greater understanding of molecular pathways important in cell growth and proliferation of thoracic malignancies, particularly non-small cell lung cancer (NSCLC), has resulted in intense clinical and translational research. There is now considerable interest in personalizing treatment based on an understanding of tumor histology and molecular abnormalities. However, there is a multiplicity of data, often with discordant results resulting in confusion and uncertainty among clinicians.\n\nWe conducted a systematic review and a consensus meeting of Canadian lung cancer oncologists and pathologists to make recommendations on the use of biomarkers in NSCLC. PubMed covering 2005 to March 2010 was searched using MESH terms for NSCLC and randomized trials, plus text words for the biomarkers of interest. Conference proceedings from 2005 to 2009 ASCO, ESMO, IASLC, and USCAP were also searched. The articles were reviewed by pairs of oncologists and pathologists to determine eligibility for inclusion.\n\nTen oncologists and pathologists reviewed and summarized the literature at a meeting attended by 37 individuals. Draft recommendations were formulated and agreed upon by consensus process. There is some evidence that histology is prognostic for survival. There is evidence from multiple randomized clinical trials to recommend the following: histologic subtype is predictive of treatment efficacy and for some agents toxicity. Immunohistochemistry testing should be performed on NSCLC specimens that cannot be classified accurately with conventional H&E staining. As EGFR mutations are predictive of benefit from tyrosine kinase inhibitors, diagnostic NSCLC samples should be routinely tested for EGFR-activating mutations. Clinical data on K-RAS mutations are inconsistent, therefore testing is not recommended. There is insufficient evidence to recommend other biomarker testing. No biomarkers to date reliably predict improved efficacy for anti-VEGF therapy. Routine assessment for EML4/ALK mutations is not recommended at present, although emerging data suggest that it may become valuable in the near future.\n\nAssessment of NSCLC biomarkers is becoming increasingly important. Therefore, adequate diagnostic material must be obtained for accurate histologic subtyping and relevant molecular biology assays.",
+      "evidence_sentences": [
+        "Greater understanding of molecular pathways important in cell growth and proliferation of thoracic malignancies, particularly non-small cell lung cancer (NSCLC), has resulted in intense clinical and translational research.",
+        "We conducted a systematic review and a consensus meeting of Canadian lung cancer oncologists and pathologists to make recommendations on the use of biomarkers in NSCLC.",
+        "As EGFR mutations are predictive of benefit from tyrosine kinase inhibitors, diagnostic NSCLC samples should be routinely tested for EGFR-activating mutations."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Consensus Statement"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Peter M Ellis",
+        "Normand Blais",
+        "Dennis Soulieres",
+        "Diana N Ionescu",
+        "Meenakshi Kashyap",
+        "Geoff Liu",
+        "Barb Melosky",
+        "Tony Reiman",
+        "Phillippe Romeo",
+        "Frances A Shepherd",
+        "Ming-Sound Tsao",
+        "Natasha B Leighl"
+      ],
+      "year": "2011",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/21709590/"
+    },
+    {
+      "pmid": "20101151",
+      "title": "First-line systemic chemotherapy in the treatment of advanced non-small cell lung cancer: a systematic review.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "Non-small cell lung cancer (NSCLC) frequently presents at an incurable stage, and a majority of patients will be considered for palliative chemotherapy at some point in their disease. This article reviews the growing evidence for first-line treatment in NSCLC.",
+        "Studies of first-line chemotherapy regimens including new agents (docetaxel, gemcitabine, irinotecan, paclitaxel, pemetrexed, and vinorelbine) and targeted agents (bevacizumab, erlotinib, and gefitinib) were identified through Medline, Embase, the Cochrane databases, and web sites of guideline organizations.",
+        "Two evidence-based guidelines, 10 systematic reviews, and forty-six randomized trials were eligible for inclusion. Randomized studies suggest that platinum-based doublets (platinum plus new agent) are the standard of care for first-line systemic therapy. No one new agent is clearly superior for use in combination with a platinum agent. The survival advantage of platinum-based doublets over nonplatinum combinations or older combinations is modest. The addition of bevacizumab to carboplatin and paclitaxel has shown improved survival, although multiple exclusion criteria limit the applicability of these data to a subset of patients. In patients at least 70 years of age or with Eastern Collaborative Oncology Group performance status 2, a new single agent is an alternative. Treatment beyond four to six cycles impedes quality of life without prolonging life. Emerging data suggest that the choice of chemotherapy agent may be influenced by histologic subtype.",
+        "In NSCLC, a combination of a platinum agent plus a new agent continues to be the standard of care. As differences between regimens are small, toxicity and patient preference should help guide regimen choice."
+      ],
+      "abstract": "Non-small cell lung cancer (NSCLC) frequently presents at an incurable stage, and a majority of patients will be considered for palliative chemotherapy at some point in their disease. This article reviews the growing evidence for first-line treatment in NSCLC.\n\nStudies of first-line chemotherapy regimens including new agents (docetaxel, gemcitabine, irinotecan, paclitaxel, pemetrexed, and vinorelbine) and targeted agents (bevacizumab, erlotinib, and gefitinib) were identified through Medline, Embase, the Cochrane databases, and web sites of guideline organizations.\n\nTwo evidence-based guidelines, 10 systematic reviews, and forty-six randomized trials were eligible for inclusion. Randomized studies suggest that platinum-based doublets (platinum plus new agent) are the standard of care for first-line systemic therapy. No one new agent is clearly superior for use in combination with a platinum agent. The survival advantage of platinum-based doublets over nonplatinum combinations or older combinations is modest. The addition of bevacizumab to carboplatin and paclitaxel has shown improved survival, although multiple exclusion criteria limit the applicability of these data to a subset of patients. In patients at least 70 years of age or with Eastern Collaborative Oncology Group performance status 2, a new single agent is an alternative. Treatment beyond four to six cycles impedes quality of life without prolonging life. Emerging data suggest that the choice of chemotherapy agent may be influenced by histologic subtype.\n\nIn NSCLC, a combination of a platinum agent plus a new agent continues to be the standard of care. As differences between regimens are small, toxicity and patient preference should help guide regimen choice.",
+      "evidence_sentences": [
+        "Non-small cell lung cancer (NSCLC) frequently presents at an incurable stage, and a majority of patients will be considered for palliative chemotherapy at some point in their disease.",
+        "This article reviews the growing evidence for first-line treatment in NSCLC.",
+        "The survival advantage of platinum-based doublets over nonplatinum combinations or older combinations is modest."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "John Goffin",
+        "Christina Lacchetti",
+        "Peter M Ellis",
+        "Yee C Ung",
+        "William K Evans",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-Based Care"
+      ],
+      "year": "2010",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20101151/"
+    },
+    {
+      "pmid": "26324367",
+      "title": "Systemic Therapy for Stage IV Non-Small-Cell Lung Cancer: American Society of Clinical Oncology Clinical Practice Guideline Update.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To provide evidence-based recommendations to update the American Society of Clinical Oncology guideline on systemic therapy for stage IV non-small-cell lung cancer (NSCLC).",
+        "An Update Committee of the American Society of Clinical Oncology NSCLC Expert Panel based recommendations on a systematic review of randomized controlled trials from January 2007 to February 2014.",
+        "This guideline update reflects changes in evidence since the previous guideline.",
+        "There is no cure for patients with stage IV NSCLC. For patients with performance status (PS) 0 to 1 (and appropriate patient cases with PS 2) and without an EGFR-sensitizing mutation or ALK gene rearrangement, combination cytotoxic chemotherapy is recommended, guided by histology, with early concurrent palliative care. Recommendations for patients in the first-line setting include platinum-doublet therapy for those with PS 0 to 1 (bevacizumab may be added to carboplatin plus paclitaxel if no contraindications); combination or single-agent chemotherapy or palliative care alone for those with PS 2; afatinib, erlotinib, or gefitinib for those with sensitizing EGFR mutations; crizotinib for those with ALK or ROS1 gene rearrangement; and following first-line recommendations or using platinum plus etoposide for those with large-cell neuroendocrine carcinoma. Maintenance therapy includes pemetrexed continuation for patients with stable disease or response to first-line pemetrexed-containing regimens, alternative chemotherapy, or a chemotherapy break. In the second-line setting, recommendations include docetaxel, erlotinib, gefitinib, or pemetrexed for patients with nonsquamous cell carcinoma; docetaxel, erlotinib, or gefitinib for those with squamous cell carcinoma; and chemotherapy or ceritinib for those with ALK rearrangement who experience progression after crizotinib. In the third-line setting, for patients who have not received erlotinib or gefitinib, treatment with erlotinib is recommended. There are insufficient data to recommend routine third-line cytotoxic therapy. Decisions regarding systemic therapy should not be made based on age alone. Additional information can be found at http://www.asco.org/guidelines/nsclc and http://www.asco.org/guidelineswiki."
+      ],
+      "abstract": "To provide evidence-based recommendations to update the American Society of Clinical Oncology guideline on systemic therapy for stage IV non-small-cell lung cancer (NSCLC).\n\nAn Update Committee of the American Society of Clinical Oncology NSCLC Expert Panel based recommendations on a systematic review of randomized controlled trials from January 2007 to February 2014.\n\nThis guideline update reflects changes in evidence since the previous guideline.\n\nThere is no cure for patients with stage IV NSCLC. For patients with performance status (PS) 0 to 1 (and appropriate patient cases with PS 2) and without an EGFR-sensitizing mutation or ALK gene rearrangement, combination cytotoxic chemotherapy is recommended, guided by histology, with early concurrent palliative care. Recommendations for patients in the first-line setting include platinum-doublet therapy for those with PS 0 to 1 (bevacizumab may be added to carboplatin plus paclitaxel if no contraindications); combination or single-agent chemotherapy or palliative care alone for those with PS 2; afatinib, erlotinib, or gefitinib for those with sensitizing EGFR mutations; crizotinib for those with ALK or ROS1 gene rearrangement; and following first-line recommendations or using platinum plus etoposide for those with large-cell neuroendocrine carcinoma. Maintenance therapy includes pemetrexed continuation for patients with stable disease or response to first-line pemetrexed-containing regimens, alternative chemotherapy, or a chemotherapy break. In the second-line setting, recommendations include docetaxel, erlotinib, gefitinib, or pemetrexed for patients with nonsquamous cell carcinoma; docetaxel, erlotinib, or gefitinib for those with squamous cell carcinoma; and chemotherapy or ceritinib for those with ALK rearrangement who experience progression after crizotinib. In the third-line setting, for patients who have not received erlotinib or gefitinib, treatment with erlotinib is recommended. There are insufficient data to recommend routine third-line cytotoxic therapy. Decisions regarding systemic therapy should not be made based on age alone. Additional information can be found at http://www.asco.org/guidelines/nsclc and http://www.asco.org/guidelineswiki.",
+      "evidence_sentences": [
+        "To provide evidence-based recommendations to update the American Society of Clinical Oncology guideline on systemic therapy for stage IV non-small-cell lung cancer (NSCLC).",
+        "Recommendations for patients in the first-line setting include platinum-doublet therapy for those with PS 0 to 1 (bevacizumab may be added to carboplatin plus paclitaxel if no contraindications); combination or single-agent chemotherapy or palliative care alone for those with PS 2; afatinib, erlotinib, or gefitinib for those with sensitizing EGFR mutations; crizotinib for those with ALK or ROS1 gene rearrangement; and following first-line recommendations or using platinum plus etoposide for those with large-cell neuroendocrine carcinoma.",
+        "In the second-line setting, recommendations include docetaxel, erlotinib, gefitinib, or pemetrexed for patients with nonsquamous cell carcinoma; docetaxel, erlotinib, or gefitinib for those with squamous cell carcinoma; and chemotherapy or ceritinib for those with ALK rearrangement who experience progression after crizotinib."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Gregory A Masters",
+        "Sarah Temin",
+        "Christopher G Azzoli",
+        "Giuseppe Giaccone",
+        "Sherman Baker",
+        "Julie R Brahmer",
+        "Peter M Ellis",
+        "Ajeet Gajra",
+        "Nancy Rackear",
+        "Joan H Schiller",
+        "Thomas J Smith",
+        "John R Strawn",
+        "David Trent",
+        "David H Johnson",
+        "American Society of Clinical Oncology Clinical Practice"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/26324367/"
+    },
+    {
+      "pmid": "34492553",
+      "title": "ALK inhibitor-induced bradycardia: A systematic-review and meta-analysis.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "Anaplastic Lymphoma Kinase (ALK) inhibitors have revolutionized the treatment of advanced ALK-positive non-small cell lung cancer (NSCLC), improving progression-free survival. Bradycardia is a potential adverse effect of these agents. We aimed to determine the risk of bradycardia associated with ALK inhibitors in patients with advanced NSCLC.",
+        "We conducted a systematic search of MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, National clinical trial registry, and Web of Science Core Collection. We included all randomized controlled trials in which an ALK-inhibitor was compared with another ALK-inhibitor or standard chemotherapy. Meta-analyses were conducted to evaluate the pooled incidence rates of bradycardia and dizziness using fixed effect models.",
+        "The pooled incidence of bradycardia among 1737 individuals prescribed ALK inhibitors was 8% during a mean follow-up of 1.26 years. Crizotinib led to more bradycardia than standard chemotherapy (relative risk, RR 24.68, 95% CI 7.11-85.), while no difference was seen between crizotinib and alectinib (RR 1.12, 95% CI 0.79-1.59). The next-generation ALK inhibitors alectinib, brigatinib and lorlatinib combined resulted in a similar rate of bradycardia when compared to crizotinib (RR 0.77, 95% CI 0.57-1.04). All ALK inhibitors (as an aggregate) caused more dizziness (as a potential symptom of bradycardia) than standard chemotherapy (RR 1.88, 95% CI 1.44-2.44).",
+        "Crizotinib for the treatment of NSCLC is associated with a higher risk for bradycardia compared to standard chemotherapy. There is no evidence of a difference in bradycardia risk between crizotinib and newer ALK inhibitors."
+      ],
+      "abstract": "Anaplastic Lymphoma Kinase (ALK) inhibitors have revolutionized the treatment of advanced ALK-positive non-small cell lung cancer (NSCLC), improving progression-free survival. Bradycardia is a potential adverse effect of these agents. We aimed to determine the risk of bradycardia associated with ALK inhibitors in patients with advanced NSCLC.\n\nWe conducted a systematic search of MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, National clinical trial registry, and Web of Science Core Collection. We included all randomized controlled trials in which an ALK-inhibitor was compared with another ALK-inhibitor or standard chemotherapy. Meta-analyses were conducted to evaluate the pooled incidence rates of bradycardia and dizziness using fixed effect models.\n\nThe pooled incidence of bradycardia among 1737 individuals prescribed ALK inhibitors was 8% during a mean follow-up of 1.26 years. Crizotinib led to more bradycardia than standard chemotherapy (relative risk, RR 24.68, 95% CI 7.11-85.), while no difference was seen between crizotinib and alectinib (RR 1.12, 95% CI 0.79-1.59). The next-generation ALK inhibitors alectinib, brigatinib and lorlatinib combined resulted in a similar rate of bradycardia when compared to crizotinib (RR 0.77, 95% CI 0.57-1.04). All ALK inhibitors (as an aggregate) caused more dizziness (as a potential symptom of bradycardia) than standard chemotherapy (RR 1.88, 95% CI 1.44-2.44).\n\nCrizotinib for the treatment of NSCLC is associated with a higher risk for bradycardia compared to standard chemotherapy. There is no evidence of a difference in bradycardia risk between crizotinib and newer ALK inhibitors.",
+      "evidence_sentences": [
+        "Anaplastic Lymphoma Kinase (ALK) inhibitors have revolutionized the treatment of advanced ALK-positive non-small cell lung cancer (NSCLC), improving progression-free survival.",
+        "We aimed to determine the risk of bradycardia associated with ALK inhibitors in patients with advanced NSCLC.",
+        "We included all randomized controlled trials in which an ALK-inhibitor was compared with another ALK-inhibitor or standard chemotherapy."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Filipe Cirne",
+        "Shijie Zhou",
+        "Coralea Kappel",
+        "Adam El-Kadi",
+        "Carly C Barron",
+        "Peter M Ellis",
+        "Stephanie Sanger",
+        "Darryl P Leong"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34492553/"
+    },
+    {
+      "pmid": "40226904",
+      "title": "Anti-TIGIT inhibitors plus PD-1 or PD-L1 inhibitors versus PD-1 or PD-L1 inhibitors for first-line treatment of advanced non-small cell lung cancer.",
+      "journal": "The Cochrane database of systematic reviews",
+      "abstract_sections": [
+        "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the effectiveness and safety of anti-TIGIT inhibitors in combination with PD-1 inhibitors or PD-L1 inhibitors compared to treatment with PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC. To assess the effectiveness and safety of anti-TIGIT inhibitors in combination with chemotherapy and PD-1 inhibitors or PD-L1 inhibitors compared to treatment with chemotherapy plus PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC."
+      ],
+      "abstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the effectiveness and safety of anti-TIGIT inhibitors in combination with PD-1 inhibitors or PD-L1 inhibitors compared to treatment with PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC. To assess the effectiveness and safety of anti-TIGIT inhibitors in combination with chemotherapy and PD-1 inhibitors or PD-L1 inhibitors compared to treatment with chemotherapy plus PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC.",
+      "evidence_sentences": [
+        "To assess the effectiveness and safety of anti-TIGIT inhibitors in combination with chemotherapy and PD-1 inhibitors or PD-L1 inhibitors compared to treatment with chemotherapy plus PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC.",
+        "The objectives are as follows: To evaluate the effectiveness and safety of anti-TIGIT inhibitors in combination with PD-1 inhibitors or PD-L1 inhibitors compared to treatment with PD-1 inhibitors or PD-L1 inhibitors in the first-line treatment of advanced NSCLC.",
+        "This is a protocol for a Cochrane Review (intervention)."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ming Liu",
+        "Ya Gao",
+        "Lun Li",
+        "Long Ge",
+        "Liang Yao",
+        "Xiajing Chu",
+        "Fanqi Wu",
+        "Jinhui Tian"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40226904/"
+    },
+    {
+      "pmid": "17409993",
+      "title": "Second-line or subsequent systemic therapy for recurrent or progressive non-small cell lung cancer: a systematic review and practice guideline.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "This clinical practice guideline, based on a systematic review, evaluates second-line or subsequent therapy for patients with recurrent or progressive non-small cell lung cancer.",
+        "Relevant randomized trials and meta-analyses were identified through a systematic search of the literature. External feedback was obtained from practitioners in Ontario, and the guideline was approved by the provincial Lung Cancer Disease Site Group.",
+        "Twenty-four randomized trials met the eligibility criteria. Two phase III trials demonstrated a significant benefit in overall survival and quality of life (QOL) for single-agent docetaxel. A pooled analysis comparing docetaxel administered weekly versus three-weekly found similar survival between the schedules and a non-significant reduction in febrile neutropenia for the weekly regimen. One phase III trial found that single-agent pemetrexed provided similar survival and QOL, compared to docetaxel. Another phase III trial demonstrated that oral topotecan was non-inferior to docetaxel for one-year survival rate, although QOL significantly favored docetaxel over topotecan. Docetaxel-based and other combination chemotherapy regimens have not been shown to be superior to single-agent docetaxel. One phase III trial revealed a statistically significant survival and QOL benefit for erlotinib over placebo for patients who were not eligible for further chemotherapy. Modest tumor response rates and symptom control have been demonstrated for gefitinib; however, a statistically significant survival benefit has not been established for gefitinib over placebo.",
+        "Second-line or subsequent therapy with single-agent docetaxel, pemetrexed, or erlotinib offers patients a significant survival and QOL advantage."
+      ],
+      "abstract": "This clinical practice guideline, based on a systematic review, evaluates second-line or subsequent therapy for patients with recurrent or progressive non-small cell lung cancer.\n\nRelevant randomized trials and meta-analyses were identified through a systematic search of the literature. External feedback was obtained from practitioners in Ontario, and the guideline was approved by the provincial Lung Cancer Disease Site Group.\n\nTwenty-four randomized trials met the eligibility criteria. Two phase III trials demonstrated a significant benefit in overall survival and quality of life (QOL) for single-agent docetaxel. A pooled analysis comparing docetaxel administered weekly versus three-weekly found similar survival between the schedules and a non-significant reduction in febrile neutropenia for the weekly regimen. One phase III trial found that single-agent pemetrexed provided similar survival and QOL, compared to docetaxel. Another phase III trial demonstrated that oral topotecan was non-inferior to docetaxel for one-year survival rate, although QOL significantly favored docetaxel over topotecan. Docetaxel-based and other combination chemotherapy regimens have not been shown to be superior to single-agent docetaxel. One phase III trial revealed a statistically significant survival and QOL benefit for erlotinib over placebo for patients who were not eligible for further chemotherapy. Modest tumor response rates and symptom control have been demonstrated for gefitinib; however, a statistically significant survival benefit has not been established for gefitinib over placebo.\n\nSecond-line or subsequent therapy with single-agent docetaxel, pemetrexed, or erlotinib offers patients a significant survival and QOL advantage.",
+      "evidence_sentences": [
+        "This clinical practice guideline, based on a systematic review, evaluates second-line or subsequent therapy for patients with recurrent or progressive non-small cell lung cancer.",
+        "External feedback was obtained from practitioners in Ontario, and the guideline was approved by the provincial Lung Cancer Disease Site Group.",
+        "Another phase III trial demonstrated that oral topotecan was non-inferior to docetaxel for one-year survival rate, although QOL significantly favored docetaxel over topotecan."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "J Noble",
+        "P M Ellis",
+        "J A Mackay",
+        "W K Evans",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care"
+      ],
+      "year": "2006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/17409993/"
+    },
+    {
+      "pmid": "15013578",
+      "title": "Postoperative radiotherapy in stage II or IIIA completely resected non-small cell lung cancer: a systematic review and practice guideline.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "The Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care conducted a systematic review of literature published between 1985 and July 2003 and developed an evidence-based clinical practice guideline on postoperative radiotherapy in patients with completely resected pathologic stage II or IIIA non-small cell lung cancer (NSCLC). Forty-four Ontario clinicians reviewed the draft guideline. Evidence included one meta-analysis of individual patient data (from nine randomized controlled trials) and three randomized controlled trials (two including data reported in the meta-analysis) that compared surgery with or without postoperative radiotherapy. The meta-analysis and one trial detected a significant detriment to survival with postoperative radiotherapy. Two trials detected no survival difference. The meta-analysis detected a significant advantage in local recurrence-free survival (time to local recurrence or death) with surgery alone, although two trials detected a significant advantage in rate of local recurrence with postoperative radiotherapy. Subset analyses from the meta-analysis and one trial suggested that postoperative radiotherapy was detrimental to survival mainly in stage II disease; no benefit or detriment was evident for stage III disease.",
+        "Postoperative radiation therapy following complete resection of stage II non-small cell lung cancer is not recommended. No definitive recommendation can be made for stage IIIA disease."
+      ],
+      "abstract": "The Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care conducted a systematic review of literature published between 1985 and July 2003 and developed an evidence-based clinical practice guideline on postoperative radiotherapy in patients with completely resected pathologic stage II or IIIA non-small cell lung cancer (NSCLC). Forty-four Ontario clinicians reviewed the draft guideline. Evidence included one meta-analysis of individual patient data (from nine randomized controlled trials) and three randomized controlled trials (two including data reported in the meta-analysis) that compared surgery with or without postoperative radiotherapy. The meta-analysis and one trial detected a significant detriment to survival with postoperative radiotherapy. Two trials detected no survival difference. The meta-analysis detected a significant advantage in local recurrence-free survival (time to local recurrence or death) with surgery alone, although two trials detected a significant advantage in rate of local recurrence with postoperative radiotherapy. Subset analyses from the meta-analysis and one trial suggested that postoperative radiotherapy was detrimental to survival mainly in stage II disease; no benefit or detriment was evident for stage III disease.\n\nPostoperative radiation therapy following complete resection of stage II non-small cell lung cancer is not recommended. No definitive recommendation can be made for stage IIIA disease.",
+      "evidence_sentences": [
+        "The Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care conducted a systematic review of literature published between 1985 and July 2003 and developed an evidence-based clinical practice guideline on postoperative radiotherapy in patients with completely resected pathologic stage II or IIIA non-small cell lung cancer (NSCLC).",
+        "Postoperative radiation therapy following complete resection of stage II non-small cell lung cancer is not recommended.",
+        "Subset analyses from the meta-analysis and one trial suggested that postoperative radiotherapy was detrimental to survival mainly in stage II disease; no benefit or detriment was evident for stage III disease."
+      ],
+      "publication_types": [
+        "Guideline",
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Gordon Okawara",
+        "Yee Chung Ung",
+        "Barbara R Markman",
+        "Jean A Mackay",
+        "William K Evans",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-Based Care"
+      ],
+      "year": "2004",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15013578/"
+    },
+    {
+      "pmid": "25775395",
+      "title": "Magnitude of the benefit of progression-free survival as a potential surrogate marker in phase 3 trials assessing targeted agents in molecularly selected patients with advanced non-small cell lung cancer: systematic review.",
+      "journal": "PloS one",
+      "abstract_sections": [
+        "In evaluation of the clinical benefit of a new targeted agent in a phase 3 trial enrolling molecularly selected patients with advanced non-small cell lung cancer (NSCLC), overall survival (OS) as an endpoint seems to be of limited use because of a high level of treatment crossover for ethical reasons. A more efficient and useful indicator for assessing efficacy is needed.",
+        "We identified 18 phase 3 trials in the literature investigating EGFR-tyrosine kinase inhibitor (TKIs) or ALK-TKIs, now approved for use to treat NSCLC, compared with standard cytotoxic chemotherapy (eight trials were performed in molecularly selected patients and ten using an \"all-comer\" design). Receiver operating characteristic analysis was used to identify the best threshold by which to divide the groups. Although trials enrolling molecularly selected patients and all-comer trials had similar OS-hazard ratios (OS-HRs) (0.99 vs. 1.04), the former exhibited greater progression-free survival-hazard ratios (PFS-HR) (mean, 0.40 vs. 1.01; P<0.01). A PFS-HR of 0.60 successfully distinguished between the two types of trials (sensitivity 100%, specificity 100%). The odds ratio for overall response was higher in trials with molecularly selected patients than in all-comer trials (mean: 6.10 vs. 1.64; P<0.01). An odds ratio of 3.40 for response afforded a sensitivity of 88% and a specificity of 90%.",
+        "The notably enhanced PFS benefit was quite specific to trials with molecularly selected patients. A PFS-HR cutoff of ∼0.6 may help detect clinical benefit of molecular targeted agents in which OS is of limited use, although desired threshold might differ in an individual trial."
+      ],
+      "abstract": "In evaluation of the clinical benefit of a new targeted agent in a phase 3 trial enrolling molecularly selected patients with advanced non-small cell lung cancer (NSCLC), overall survival (OS) as an endpoint seems to be of limited use because of a high level of treatment crossover for ethical reasons. A more efficient and useful indicator for assessing efficacy is needed.\n\nWe identified 18 phase 3 trials in the literature investigating EGFR-tyrosine kinase inhibitor (TKIs) or ALK-TKIs, now approved for use to treat NSCLC, compared with standard cytotoxic chemotherapy (eight trials were performed in molecularly selected patients and ten using an \"all-comer\" design). Receiver operating characteristic analysis was used to identify the best threshold by which to divide the groups. Although trials enrolling molecularly selected patients and all-comer trials had similar OS-hazard ratios (OS-HRs) (0.99 vs. 1.04), the former exhibited greater progression-free survival-hazard ratios (PFS-HR) (mean, 0.40 vs. 1.01; P<0.01). A PFS-HR of 0.60 successfully distinguished between the two types of trials (sensitivity 100%, specificity 100%). The odds ratio for overall response was higher in trials with molecularly selected patients than in all-comer trials (mean: 6.10 vs. 1.64; P<0.01). An odds ratio of 3.40 for response afforded a sensitivity of 88% and a specificity of 90%.\n\nThe notably enhanced PFS benefit was quite specific to trials with molecularly selected patients. A PFS-HR cutoff of ∼0.6 may help detect clinical benefit of molecular targeted agents in which OS is of limited use, although desired threshold might differ in an individual trial.",
+      "evidence_sentences": [
+        "In evaluation of the clinical benefit of a new targeted agent in a phase 3 trial enrolling molecularly selected patients with advanced non-small cell lung cancer (NSCLC), overall survival (OS) as an endpoint seems to be of limited use because of a high level of treatment crossover for ethical reasons.",
+        "We identified 18 phase 3 trials in the literature investigating EGFR-tyrosine kinase inhibitor (TKIs) or ALK-TKIs, now approved for use to treat NSCLC, compared with standard cytotoxic chemotherapy (eight trials were performed in molecularly selected patients and ten using an \"all-comer\" design).",
+        "A PFS-HR cutoff of ∼0.6 may help detect clinical benefit of molecular targeted agents in which OS is of limited use, although desired threshold might differ in an individual trial."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Katsuyuki Hotta",
+        "Yuka Kato",
+        "Natasha Leighl",
+        "Nagio Takigawa",
+        "Rabab Mohamed Gaafar",
+        "Hiroe Kayatani",
+        "Taizo Hirata",
+        "Kadoaki Ohashi",
+        "Toshio Kubo",
+        "Masahiro Tabata",
+        "Mitsune Tanimoto",
+        "Katsuyuki Kiura"
+      ],
+      "year": "2015",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/25775395/"
+    },
+    {
+      "pmid": "32959703",
+      "title": "Indirect analysis of first-line therapy for advanced non-small-cell lung cancer with activating mutations in a Japanese population.",
+      "journal": "Future oncology (London, England)",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Kazuhiko Nakagawa",
+        "Koichi Matsumura",
+        "Tayler Scory",
+        "Megan S Farris",
+        "Kelly A Larkin-Kaiser",
+        "Hironori Kikkawa",
+        "Jasmina I Ivanova",
+        "Keith D Wilner"
+      ],
+      "year": "2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32959703/"
+    },
+    {
+      "pmid": "16139391",
+      "title": "Taxanes as first-line therapy for advanced non-small cell lung cancer: a systematic review and practice guideline.",
+      "journal": "Lung cancer (Amsterdam, Netherlands)",
+      "abstract_sections": [
+        "This evidence-based practice guideline on the use of paclitaxel (Taxol) or docetaxel (Taxotere) as first-line treatment for patients with advanced non-small cell lung cancer who are candidates for palliative first-line chemotherapy is based on a systematic search and review of literature published in full or in abstract form between 1985 and April 2005. Forty-five randomized trials, including 11 abstracts, were reviewed and clinicians in the province of Ontario, Canada, provided feedback on a draft version of the guideline. Two phase III trials detected a statistically significant survival advantage for a taxane (paclitaxel or docetaxel) with best supportive care versus best supportive care alone. Among the nine fully published phase III trials comparing platinum-based chemotherapies, taxane-platinum combinations achieved higher response rates compared with older chemotherapy combinations, although significantly longer survival was observed only for docetaxel-cisplatin compared with vindesine-cisplatin. Response rates and survival were generally not significantly different for taxane-platinum combinations compared with other current chemotherapy combinations, although the toxicity profile of the regimens varied. However, in one large trial, improved tumor response and modest survival and quality of life benefits were associated with docetaxel-cisplatin compared with vinorelbine-cisplatin. No statistically significant survival differences were detected in the three fully published phase III trials comparing a taxane-gemcitabine combination with a taxane-platinum regimen.",
+        "(i) paclitaxel or docetaxel combined with cisplatin is recommended as one of a number of chemotherapy options for the first-line treatment of advanced non-small cell lung cancer in patients with a good performance status; (ii) carboplatin may be combined with a taxane if a patient is unable or unwilling to take cisplatin; (iii) a taxane-gemcitabine combination may be considered for patients with a contraindication to cisplatin and carboplatin; (iv) no firm recommendation can be made on the optimal dose and schedule of taxane-based chemotherapy; however, commonly used regimens include cisplatin 75 mg/m2 combined with either docetaxel 75 mg/m2 or paclitaxel 135 mg/m2 (24-h infusion) and carboplatin AUC 6 combined with paclitaxel 225 mg/m2 (3-h infusion); (v) a single-agent taxane may be used if combination chemotherapy is considered inappropriate."
+      ],
+      "abstract": "This evidence-based practice guideline on the use of paclitaxel (Taxol) or docetaxel (Taxotere) as first-line treatment for patients with advanced non-small cell lung cancer who are candidates for palliative first-line chemotherapy is based on a systematic search and review of literature published in full or in abstract form between 1985 and April 2005. Forty-five randomized trials, including 11 abstracts, were reviewed and clinicians in the province of Ontario, Canada, provided feedback on a draft version of the guideline. Two phase III trials detected a statistically significant survival advantage for a taxane (paclitaxel or docetaxel) with best supportive care versus best supportive care alone. Among the nine fully published phase III trials comparing platinum-based chemotherapies, taxane-platinum combinations achieved higher response rates compared with older chemotherapy combinations, although significantly longer survival was observed only for docetaxel-cisplatin compared with vindesine-cisplatin. Response rates and survival were generally not significantly different for taxane-platinum combinations compared with other current chemotherapy combinations, although the toxicity profile of the regimens varied. However, in one large trial, improved tumor response and modest survival and quality of life benefits were associated with docetaxel-cisplatin compared with vinorelbine-cisplatin. No statistically significant survival differences were detected in the three fully published phase III trials comparing a taxane-gemcitabine combination with a taxane-platinum regimen.\n\n(i) paclitaxel or docetaxel combined with cisplatin is recommended as one of a number of chemotherapy options for the first-line treatment of advanced non-small cell lung cancer in patients with a good performance status; (ii) carboplatin may be combined with a taxane if a patient is unable or unwilling to take cisplatin; (iii) a taxane-gemcitabine combination may be considered for patients with a contraindication to cisplatin and carboplatin; (iv) no firm recommendation can be made on the optimal dose and schedule of taxane-based chemotherapy; however, commonly used regimens include cisplatin 75 mg/m2 combined with either docetaxel 75 mg/m2 or paclitaxel 135 mg/m2 (24-h infusion) and carboplatin AUC 6 combined with paclitaxel 225 mg/m2 (3-h infusion); (v) a single-agent taxane may be used if combination chemotherapy is considered inappropriate.",
+      "evidence_sentences": [
+        "(i) paclitaxel or docetaxel combined with cisplatin is recommended as one of a number of chemotherapy options for the first-line treatment of advanced non-small cell lung cancer in patients with a good performance status; (ii) carboplatin may be combined with a taxane if a patient is unable or unwilling to take cisplatin; (iii) a taxane-gemcitabine combination may be considered for patients with a contraindication to cisplatin and carboplatin; (iv) no firm recommendation can be made on the optimal dose and schedule of taxane-based chemotherapy; however, commonly used regimens include cisplatin 75 mg/m2 combined with either docetaxel 75 mg/m2 or paclitaxel 135 mg/m2 (24-h infusion) and carboplatin AUC 6 combined with paclitaxel 225 mg/m2 (3-h infusion); (v) a single-agent taxane may be used if combination chemotherapy is considered inappropriate.",
+        "This evidence-based practice guideline on the use of paclitaxel (Taxol) or docetaxel (Taxotere) as first-line treatment for patients with advanced non-small cell lung cancer who are candidates for palliative first-line chemotherapy is based on a systematic search and review of literature published in full or in abstract form between 1985 and April 2005.",
+        "Among the nine fully published phase III trials comparing platinum-based chemotherapies, taxane-platinum combinations achieved higher response rates compared with older chemotherapy combinations, although significantly longer survival was observed only for docetaxel-cisplatin compared with vindesine-cisplatin."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Quincy Chu",
+        "Mark Vincent",
+        "Diane Logan",
+        "Jean A Mackay",
+        "William K Evans",
+        "Lung Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care"
+      ],
+      "year": "2005",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16139391/"
+    },
+    {
+      "pmid": "38417091",
+      "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2023.3.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer with driver alterations.",
+        "This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts were convened. The literature search included systematic reviews, meta-analyses, and randomized controlled trials. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.",
+        "This guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Eight new RCTs were identified in the latest search of the literature to date.",
+        "Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients based on targetable driver alterations.Additional information is available at www.asco.org/living-guidelines."
+      ],
+      "abstract": "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer with driver alterations.\n\nThis ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023. An Expert Panel of medical oncology, pulmonary, community oncology, research methodology, and advocacy experts were convened. The literature search included systematic reviews, meta-analyses, and randomized controlled trials. Outcomes of interest include efficacy and safety. Expert Panel members used available evidence and informal consensus to develop evidence-based guideline recommendations.\n\nThis guideline consolidates all previous updates and reflects the body of evidence informing this guideline topic. Eight new RCTs were identified in the latest search of the literature to date.\n\nEvidence-based recommendations were updated to address first, second, and subsequent treatment options for patients based on targetable driver alterations.Additional information is available at www.asco.org/living-guidelines.",
+      "evidence_sentences": [
+        "To provide evidence-based recommendations for patients with stage IV non-small cell lung cancer with driver alterations.",
+        "Evidence-based recommendations were updated to address first, second, and subsequent treatment options for patients based on targetable driver alterations.Additional information is available at www.asco.org/living-guidelines.",
+        "This ASCO living guideline offers continually updated recommendations based on an ongoing systematic review of randomized clinical trials (RCTs), with the latest time frame spanning February to October 2023."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Ishmael A Jaiyesimi",
+        "Natasha B Leighl",
+        "Nofisat Ismaila",
+        "Krishna Alluri",
+        "Narjust Florez",
+        "Shirish Gadgeel",
+        "Gregory Masters",
+        "Erin L Schenk",
+        "Bryan J Schneider",
+        "Lecia Sequist",
+        "Navneet Singh",
+        "Lyudmila Bazhenova",
+        "Elizabeth Blanchard",
+        "Janet Freeman-Daily",
+        "Naoki Furuya",
+        "Balazs Halmos",
+        "Ibrahim Hanna Azar",
+        "Sara Kuruvilla",
+        "Michael Mullane",
+        "Jarushka Naidoo",
+        "Joshua E Reuss",
+        "David R Spigel",
+        "Dwight H Owen",
+        "Jyoti D Patel"
+      ],
+      "year": "2024",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38417091/"
+    },
+    {
+      "pmid": "28806116",
+      "title": "Systemic Therapy for Stage IV Non-Small-Cell Lung Cancer: American Society of Clinical Oncology Clinical Practice Guideline Update.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract_sections": [
+        "Purpose Provide evidence-based recommendations updating the 2015 ASCO guideline on systemic therapy for patients with stage IV non-small-cell lung cancer (NSCLC). Methods The ASCO NSCLC Expert Panel made recommendations based on a systematic review of randomized controlled trials from February 2014 to December 2016 plus the Cancer Care Ontario Program in Evidence-Based Care's update of a previous ASCO search. Results This guideline update reflects changes in evidence since the previous guideline update. Fourteen randomized controlled trials provide the evidence base; earlier phase trials also informed recommendation development. Recommendations New or revised recommendations include the following. Regarding first-line treatment for patients with non-squamous cell carcinoma or squamous cell carcinoma (without positive markers, eg, EGFR/ALK /ROS1), if the patient has high programmed death ligand 1 (PD-L1) expression, pembrolizumab should be used alone; if the patient has low PD-L1 expression, clinicians should offer standard chemotherapy. All other clinical scenarios follow 2015 recommendations. Regarding second-line treatment in patients who received first-line chemotherapy, without prior immune checkpoint therapy, if NSCLC tumor is positive for PD-L1 expression, clinicians should use single-agent nivolumab, pembrolizumab, or atezolizumab; if tumor has negative or unknown PD-L1 expression, clinicians should use nivolumab or atezolizumab. All immune checkpoint therapy is recommended alone plus in the absence of contraindications. For patients who received a prior first-line immune checkpoint inhibitor, clinicians should offer standard chemotherapy. For patients who cannot receive immune checkpoint inhibitor after chemotherapy, docetaxel is recommended; in patients with nonsquamous NSCLC, pemetrexed is recommended. In patients with a sensitizing EGFR mutation, disease progression after first-line epidermal growth factor receptor tyrosine kinase inhibitor therapy, and T790M mutation, osimertinib is recommended; if NSCLC lacks the T790M mutation, then chemotherapy is recommended. Patients with ROS1 gene rearrangement without prior crizotinib may be offered crizotinib, or if they previously received crizotinib, they may be offered chemotherapy."
+      ],
+      "abstract": "Purpose Provide evidence-based recommendations updating the 2015 ASCO guideline on systemic therapy for patients with stage IV non-small-cell lung cancer (NSCLC). Methods The ASCO NSCLC Expert Panel made recommendations based on a systematic review of randomized controlled trials from February 2014 to December 2016 plus the Cancer Care Ontario Program in Evidence-Based Care's update of a previous ASCO search. Results This guideline update reflects changes in evidence since the previous guideline update. Fourteen randomized controlled trials provide the evidence base; earlier phase trials also informed recommendation development. Recommendations New or revised recommendations include the following. Regarding first-line treatment for patients with non-squamous cell carcinoma or squamous cell carcinoma (without positive markers, eg, EGFR/ALK /ROS1), if the patient has high programmed death ligand 1 (PD-L1) expression, pembrolizumab should be used alone; if the patient has low PD-L1 expression, clinicians should offer standard chemotherapy. All other clinical scenarios follow 2015 recommendations. Regarding second-line treatment in patients who received first-line chemotherapy, without prior immune checkpoint therapy, if NSCLC tumor is positive for PD-L1 expression, clinicians should use single-agent nivolumab, pembrolizumab, or atezolizumab; if tumor has negative or unknown PD-L1 expression, clinicians should use nivolumab or atezolizumab. All immune checkpoint therapy is recommended alone plus in the absence of contraindications. For patients who received a prior first-line immune checkpoint inhibitor, clinicians should offer standard chemotherapy. For patients who cannot receive immune checkpoint inhibitor after chemotherapy, docetaxel is recommended; in patients with nonsquamous NSCLC, pemetrexed is recommended. In patients with a sensitizing EGFR mutation, disease progression after first-line epidermal growth factor receptor tyrosine kinase inhibitor therapy, and T790M mutation, osimertinib is recommended; if NSCLC lacks the T790M mutation, then chemotherapy is recommended. Patients with ROS1 gene rearrangement without prior crizotinib may be offered crizotinib, or if they previously received crizotinib, they may be offered chemotherapy.",
+      "evidence_sentences": [
+        "Purpose Provide evidence-based recommendations updating the 2015 ASCO guideline on systemic therapy for patients with stage IV non-small-cell lung cancer (NSCLC).",
+        "Regarding first-line treatment for patients with non-squamous cell carcinoma or squamous cell carcinoma (without positive markers, eg, EGFR/ALK /ROS1), if the patient has high programmed death ligand 1 (PD-L1) expression, pembrolizumab should be used alone; if the patient has low PD-L1 expression, clinicians should offer standard chemotherapy.",
+        "Regarding second-line treatment in patients who received first-line chemotherapy, without prior immune checkpoint therapy, if NSCLC tumor is positive for PD-L1 expression, clinicians should use single-agent nivolumab, pembrolizumab, or atezolizumab; if tumor has negative or unknown PD-L1 expression, clinicians should use nivolumab or atezolizumab."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Nasser Hanna",
+        "David Johnson",
+        "Sarah Temin",
+        "Sherman Baker",
+        "Julie Brahmer",
+        "Peter M Ellis",
+        "Giuseppe Giaccone",
+        "Paul J Hesketh",
+        "Ishmael Jaiyesimi",
+        "Natasha B Leighl",
+        "Gregory J Riely",
+        "Joan H Schiller",
+        "Bryan J Schneider",
+        "Thomas J Smith",
+        "Joan Tashbar",
+        "William A Biermann",
+        "Gregory Masters"
+      ],
+      "year": "2017",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28806116/"
+    },
+    {
+      "pmid": "39349294",
+      "title": "Accelerated Hypofractionated Radiotherapy for Locally Advanced NSCLC: A Systematic Review From the International Association for the Study of Lung Cancer Advanced Radiation Technology Subcommittee.",
+      "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+      "abstract_sections": [
+        "Accelerated hypofractionated radiotherapy has gained increasing interest for locally advanced NSCLC, as it can potentially increase radiobiologically effective dose and reduce health care resource utilization. Nevertheless, there is sparse prospective evidence supporting routine use of accelerated hypofractionation with or without concurrent chemotherapy. For this reason, the International Association for the Study of Lung Cancer Advanced Radiation Technology Subcommittee conducted a systematic review of prospective studies of accelerated hypofractionation for locally advanced NSCLC.",
+        "A systematic search was conducted on Ovid MEDLINE, Ovid EMBASE, Wiley Cochrane Library, and ClinicalTrials.gov for English publications from 2010 to 2024 for prospective clinical trials and registries investigating accelerated hypofractionated radiotherapy defined as more than 2 Gy delivered in 10 to 25 fractions for nonmetastatic locally advanced (stage III) NSCLC.",
+        "There were 33 prospective studies identified that met the criteria for inclusion. Of 14 prospective studies evaluating definitive accelerated hypofractionation (without concurrent chemotherapy), there were six prospective registries, seven phase 1 to 2 trials, and one phase 3 randomized clinical trial, with a median dose of 60 Gy delivered in a median of 16 fractions, median progression-free survival of 6.4 to 25 months, median survival of 6 to 34 months, and 0% to 8% severe grade ≥3 esophagitis. There were 19 studies evaluating accelerated hypofractionated chemoradiation with platinum doublet-based chemotherapy as the most common concurrent regimen. Of these accelerated hypofractionated chemoradiation studies, there were 18 phase 1 to 2 trials and one prospective registry with a median radiation dose of 61.6 Gy delivered in a median of 23 fractions, median progression-free survival of 10 to 25 months, median survival of 13 to 38 months, grade ≥3 esophagitis of 0% to 23.5%, and grade ≥3 pneumonitis of 0% to 11.8%.",
+        "Despite the increasing use of accelerated hypofractionation for locally advanced NSCLC, the supporting randomized evidence remains sparse. Only one randomized clinical trial comparing 60 Gy in 15 fractions with 60 Gy in 30 fractions without concurrent chemotherapy did not reveal the superiority of accelerated hypofractionation. Therefore, the use of accelerated hypofractionated radiotherapy should be approached with caution, using advanced radiation techniques, especially with concurrent chemotherapy or targeted agents. Accelerated hypofractionated radiotherapy should be carefully considered alongside other multidisciplinary options and be further investigated through prospective clinical trials."
+      ],
+      "abstract": "Accelerated hypofractionated radiotherapy has gained increasing interest for locally advanced NSCLC, as it can potentially increase radiobiologically effective dose and reduce health care resource utilization. Nevertheless, there is sparse prospective evidence supporting routine use of accelerated hypofractionation with or without concurrent chemotherapy. For this reason, the International Association for the Study of Lung Cancer Advanced Radiation Technology Subcommittee conducted a systematic review of prospective studies of accelerated hypofractionation for locally advanced NSCLC.\n\nA systematic search was conducted on Ovid MEDLINE, Ovid EMBASE, Wiley Cochrane Library, and ClinicalTrials.gov for English publications from 2010 to 2024 for prospective clinical trials and registries investigating accelerated hypofractionated radiotherapy defined as more than 2 Gy delivered in 10 to 25 fractions for nonmetastatic locally advanced (stage III) NSCLC.\n\nThere were 33 prospective studies identified that met the criteria for inclusion. Of 14 prospective studies evaluating definitive accelerated hypofractionation (without concurrent chemotherapy), there were six prospective registries, seven phase 1 to 2 trials, and one phase 3 randomized clinical trial, with a median dose of 60 Gy delivered in a median of 16 fractions, median progression-free survival of 6.4 to 25 months, median survival of 6 to 34 months, and 0% to 8% severe grade ≥3 esophagitis. There were 19 studies evaluating accelerated hypofractionated chemoradiation with platinum doublet-based chemotherapy as the most common concurrent regimen. Of these accelerated hypofractionated chemoradiation studies, there were 18 phase 1 to 2 trials and one prospective registry with a median radiation dose of 61.6 Gy delivered in a median of 23 fractions, median progression-free survival of 10 to 25 months, median survival of 13 to 38 months, grade ≥3 esophagitis of 0% to 23.5%, and grade ≥3 pneumonitis of 0% to 11.8%.\n\nDespite the increasing use of accelerated hypofractionation for locally advanced NSCLC, the supporting randomized evidence remains sparse. Only one randomized clinical trial comparing 60 Gy in 15 fractions with 60 Gy in 30 fractions without concurrent chemotherapy did not reveal the superiority of accelerated hypofractionation. Therefore, the use of accelerated hypofractionated radiotherapy should be approached with caution, using advanced radiation techniques, especially with concurrent chemotherapy or targeted agents. Accelerated hypofractionated radiotherapy should be carefully considered alongside other multidisciplinary options and be further investigated through prospective clinical trials.",
+      "evidence_sentences": [
+        "A systematic search was conducted on Ovid MEDLINE, Ovid EMBASE, Wiley Cochrane Library, and ClinicalTrials.gov for English publications from 2010 to 2024 for prospective clinical trials and registries investigating accelerated hypofractionated radiotherapy defined as more than 2 Gy delivered in 10 to 25 fractions for nonmetastatic locally advanced (stage III) NSCLC.",
+        "For this reason, the International Association for the Study of Lung Cancer Advanced Radiation Technology Subcommittee conducted a systematic review of prospective studies of accelerated hypofractionation for locally advanced NSCLC.",
+        "Of these accelerated hypofractionated chemoradiation studies, there were 18 phase 1 to 2 trials and one prospective registry with a median radiation dose of 61.6 Gy delivered in a median of 23 fractions, median progression-free survival of 10 to 25 months, median survival of 13 to 38 months, grade ≥3 esophagitis of 0% to 23.5%, and grade ≥3 pneumonitis of 0% to 11.8%."
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "query_keywords": [
+        "non-small cell lung cancer (nsclc)",
+        "non",
+        "small",
+        "cell",
+        "lung",
+        "cancer",
+        "nsclc",
+        "stage",
+        "iiia",
+        "egfr",
+        "negative",
+        "alk",
+        "post",
+        "chemoradiation",
+        "durvalumab",
+        "surveillance"
+      ],
+      "authors": [
+        "Badr Id Said",
+        "Yimin Geng",
+        "Shahed N Badiyan",
+        "Andrew Bang",
+        "Andrea Bezjak",
+        "Kevin L M Chua",
+        "Corinne Faivre-Finn",
+        "Feng-Ming Kong",
+        "Daniel Przybysz",
+        "Paul M Putora",
+        "Pablo Munoz-Schuffenegger",
+        "Shankar Siva",
+        "Meng Xu-Welliver",
+        "Fiona McDonald",
+        "Alexander Louie",
+        "Stephen G Chun"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39349294/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "41",
+      "retmax": "30",
+      "retstart": "0",
+      "idlist": [
+        "38065405",
+        "34932393",
+        "28945858",
+        "30913091",
+        "38417098",
+        "28162945",
+        "28416123",
+        "37253398",
+        "24268442",
+        "17409887",
+        "31023244",
+        "38749072",
+        "41179119",
+        "28188101",
+        "31138727",
+        "26378774",
+        "17409886",
+        "21709590",
+        "20101151",
+        "26324367",
+        "34492553",
+        "40226904",
+        "17409993",
+        "15013578",
+        "25775395",
+        "32959703",
+        "16139391",
+        "38417091",
+        "28806116",
+        "39349294"
+      ],
+      "translationset": [
+        {
+          "from": "non-small cell lung cancer",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]"
+        },
+        {
+          "from": "nsclc",
+          "to": "\"carcinoma, non-small-cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non-small-cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc's\"[All Fields] OR \"nsclcs\"[All Fields]"
+        },
+        {
+          "from": "small",
+          "to": "\"Small\"[Journal:__jid101235338] OR \"small\"[All Fields]"
+        },
+        {
+          "from": "cell",
+          "to": "\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]"
+        },
+        {
+          "from": "lung",
+          "to": "\"lung\"[MeSH Terms] OR \"lung\"[All Fields]"
+        },
+        {
+          "from": "systematic review",
+          "to": "\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]"
+        },
+        {
+          "from": "clinical trial",
+          "to": "\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields]"
+        },
+        {
+          "from": "canada",
+          "to": "\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada's\"[All Fields] OR \"canadas\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR (\"non\"[All Fields] AND \"small\"[All Fields] AND \"cell\"[All Fields] AND \"lung\"[All Fields] AND \"cancer\"[All Fields]) OR \"non small cell lung cancer\"[All Fields]) AND (\"carcinoma, non small cell lung\"[MeSH Terms] OR (\"carcinoma\"[All Fields] AND \"non small cell\"[All Fields] AND \"lung\"[All Fields]) OR \"non-small-cell lung carcinoma\"[All Fields] OR \"nsclc\"[All Fields] OR \"nsclc s\"[All Fields] OR \"nsclcs\"[All Fields]) AND \"non\"[All Fields] AND (\"small\"[Journal] OR \"small\"[All Fields]) AND (\"cells\"[MeSH Terms] OR \"cells\"[All Fields] OR \"cell\"[All Fields]) AND (\"lung\"[MeSH Terms] OR \"lung\"[All Fields]) AND (\"systematic review\"[Publication Type] OR \"systematic reviews as topic\"[MeSH Terms] OR \"systematic review\"[All Fields]) AND (\"clinical trial\"[Publication Type] OR \"clinical trials as topic\"[MeSH Terms] OR \"clinical trial\"[All Fields]) AND (\"canada\"[MeSH Terms] OR \"canada\"[All Fields] OR \"canada s\"[All Fields] OR \"canadas\"[All Fields])"
+    }
+  }
+}

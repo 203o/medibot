@@ -1,0 +1,115 @@
+{
+  "query": "malaria treatment therapy management kenya turkana",
+  "selected_query": "malaria treatment therapy management kenya turkana",
+  "attempted_queries": [
+    {
+      "query": "malaria treatment therapy management kenya turkana",
+      "count": 2
+    }
+  ],
+  "id_list": [
+    "41029815",
+    "12285083"
+  ],
+  "records": [
+    {
+      "pmid": "41029815",
+      "title": "The effect of non-adherence to treatment guidelines, quantification and distribution practices on antimalarial commodities inventory levels in healthcare facilities at Turkana County, Kenya.",
+      "journal": "Malaria journal",
+      "abstract_sections": [
+        "Malaria is a global public health concern and a leading cause of morbidity and mortality, especially in children under the age of 5 years. In Kenya, it is among the top ten causes of morbidity and mortality as reported in the Kenya Health Information System (KHIS2). Adequate inventory levels of antimalarial medicines and rapid diagnostic test (RDT) kits must be available for proper malaria case management. Adherence to the malaria test and treat guidelinesand effective quantification, and distribution practices affect the health facility stock levels of antimalarial medicines and RDT kits. This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.",
+        "This was a descriptive cross-sectional study across facilities in Turkana County. Simple random sampling was used to select 152 health facilities, of which 132 participated in the study. Data was collected using a researcher-administered questionnaire and an abstraction tool that was adapted from the standard logistics indicator abstraction tool (LIAT). Data analysis was done using descriptive statistics, including means, proportions, and percentages.",
+        "Data was collected from 132 respondents, and the majority (98, 74.2%) were male. One hundred and eight (81.8%) were nurses. Only 35 (26.5%) facilities adhered to the treatment guidelines. Quantification for antimalarial medicines and RDT kits was done quarterly using the consumption method, and seasonality was not considered to forecast reorder quantities. Most facilities (80, 60.6%) cited the lack of vehicles as a major challenge during the interfacility redistribution of commodities. Most of the health facilities were overstocked with commodities. The facilities that adhered to test and treat had lower average months of stock (9.5) of commodities in all categories, compared to those that treated more patients than those confirmed malaria-positive (13.2).",
+        "Adherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal. This led to most facilities being overstocked with these commodities."
+      ],
+      "abstract": "Malaria is a global public health concern and a leading cause of morbidity and mortality, especially in children under the age of 5 years. In Kenya, it is among the top ten causes of morbidity and mortality as reported in the Kenya Health Information System (KHIS2). Adequate inventory levels of antimalarial medicines and rapid diagnostic test (RDT) kits must be available for proper malaria case management. Adherence to the malaria test and treat guidelinesand effective quantification, and distribution practices affect the health facility stock levels of antimalarial medicines and RDT kits. This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.\n\nThis was a descriptive cross-sectional study across facilities in Turkana County. Simple random sampling was used to select 152 health facilities, of which 132 participated in the study. Data was collected using a researcher-administered questionnaire and an abstraction tool that was adapted from the standard logistics indicator abstraction tool (LIAT). Data analysis was done using descriptive statistics, including means, proportions, and percentages.\n\nData was collected from 132 respondents, and the majority (98, 74.2%) were male. One hundred and eight (81.8%) were nurses. Only 35 (26.5%) facilities adhered to the treatment guidelines. Quantification for antimalarial medicines and RDT kits was done quarterly using the consumption method, and seasonality was not considered to forecast reorder quantities. Most facilities (80, 60.6%) cited the lack of vehicles as a major challenge during the interfacility redistribution of commodities. Most of the health facilities were overstocked with commodities. The facilities that adhered to test and treat had lower average months of stock (9.5) of commodities in all categories, compared to those that treated more patients than those confirmed malaria-positive (13.2).\n\nAdherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal. This led to most facilities being overstocked with these commodities.",
+      "evidence_sentences": [
+        "This study assessed the effect of non-adherence to treatment guidelines, quantification, and distribution on the inventory levels of antimalarial commodities in health facilities in Turkana County, Kenya.",
+        "Adequate inventory levels of antimalarial medicines and rapid diagnostic test (RDT) kits must be available for proper malaria case management.",
+        "Adherence to malaria treatment guidelines, quantification, and distribution practices for antimalarial medicines and RDT kits was suboptimal."
+      ],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "treatment",
+        "therapy",
+        "management",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "Brian N Muyokani",
+        "Peter N Karimi",
+        "Taraiya F Ntore",
+        "Jean Habagusenga",
+        "Abiud M Manyura"
+      ],
+      "year": "2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41029815/"
+    },
+    {
+      "pmid": "12285083",
+      "title": "Taking health care to the Maasai.",
+      "journal": "Africa health",
+      "abstract_sections": [],
+      "abstract": "",
+      "evidence_sentences": [],
+      "publication_types": [
+        "Journal Article"
+      ],
+      "query_keywords": [
+        "malaria",
+        "treatment",
+        "therapy",
+        "management",
+        "kenya",
+        "turkana"
+      ],
+      "authors": [
+        "B King"
+      ],
+      "year": "1992",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/12285083/"
+    }
+  ],
+  "search_payload": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "2",
+      "retmax": "2",
+      "retstart": "0",
+      "idlist": [
+        "41029815",
+        "12285083"
+      ],
+      "translationset": [
+        {
+          "from": "malaria",
+          "to": "\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria's\"[All Fields] OR \"malariae\"[All Fields]"
+        },
+        {
+          "from": "treatment",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment's\"[All Fields]"
+        },
+        {
+          "from": "therapy",
+          "to": "\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[Subheading] OR \"therapy\"[All Fields] OR \"therapy's\"[All Fields] OR \"therapys\"[All Fields]"
+        },
+        {
+          "from": "management",
+          "to": "\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management's\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager's\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields]"
+        },
+        {
+          "from": "kenya",
+          "to": "\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya's\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"malaria\"[MeSH Terms] OR \"malaria\"[All Fields] OR \"malarias\"[All Fields] OR \"malaria s\"[All Fields] OR \"malariae\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) AND (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"therapies\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"therapy s\"[All Fields] OR \"therapys\"[All Fields]) AND (\"manage\"[All Fields] OR \"managed\"[All Fields] OR \"management s\"[All Fields] OR \"managements\"[All Fields] OR \"manager\"[All Fields] OR \"manager s\"[All Fields] OR \"managers\"[All Fields] OR \"manages\"[All Fields] OR \"managing\"[All Fields] OR \"managment\"[All Fields] OR \"organization and administration\"[MeSH Terms] OR (\"organization\"[All Fields] AND \"administration\"[All Fields]) OR \"organization and administration\"[All Fields] OR \"management\"[All Fields] OR \"disease management\"[MeSH Terms] OR (\"disease\"[All Fields] AND \"management\"[All Fields]) OR \"disease management\"[All Fields]) AND (\"kenya\"[MeSH Terms] OR \"kenya\"[All Fields] OR \"kenya s\"[All Fields]) AND \"turkana\"[All Fields]"
+    }
+  }
+}

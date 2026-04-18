@@ -1,0 +1,1759 @@
+{
+  "query": "lung cancer you compare cancer deaths USA",
+  "selected_query": "lung cancer you compare cancer deaths USA",
+  "attempted_queries": [
+    {
+      "query": "lung cancer you compare cancer deaths USA",
+      "location_filter": "USA",
+      "count": 0
+    },
+    {
+      "query": "lung cancer you compare cancer deaths USA",
+      "location_filter": "",
+      "count": 2
+    }
+  ],
+  "location": "USA",
+  "records": [
+    {
+      "nct_id": "NCT06526897",
+      "title": "Evaluation of Chest CT Versus Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma",
+      "brief_summary": "This phase III trial compares chest computed tomography (CT) to chest x-ray (CXR) for lung surveillance after curative-intent resection of high-risk truncal-extremity soft tissue sarcoma. Currently, complete oncologic resection (with or without radiation therapy) is the standard of care for most high-risk soft tissue sarcoma that has not spread to other parts of the body (localized). However, despite curative-intent resection, 20-40% of patients will develop cancer that has spread from where it first started (primary site) to other places in the body (distant metastases), with the lungs being the most common site. Thus, lung surveillance is important for detection of lung metastases in order to facilitate timely treatment. Although there is general agreement about the usefulness of postoperative surveillance, consensus is lacking regarding the optimal modality for lung surveillance after curative-intent resection for high-risk soft tissue sarcoma. Current National Comprehensive Cancer Network guidelines recommend chest imaging with CT or CXR every 3-6 months for 2-3 years, then every 6 months for the next two years, and then annually after that for high-risk tumors. Data from across the United States and internationally indicate that there is considerable variation in clinical practice with regards to the use of CXR versus CT chest for lung surveillance. The information gained from this trial may allow researchers to determine the effectiveness of varying imaging modalities needed for optimal surveillance for patients with extremity or truncal soft tissue sarcoma.",
+      "detailed_description": "PRIMARY OBJECTIVE:\n\nI. To evaluate whether the use of chest x-ray (CXR) for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of chest computed tomography (CT) in terms of overall survival.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate whether the use of CXR for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of CT in terms of disease-free survival.\n\nII. To assess the primary and secondary objectives in the pediatric and adolescent and young adult subpopulations.\n\nIII. To assess overall survival difference between arms based on specific histiotypes in subgroup analysis.\n\nIV. Patient-reported outcomes and quality of life IVa. Fear of cancer; IVb. Anxiety; IVc. Overall quality of life; IVd. Financial burden; IVe. Patient-reported direct and indirect costs associated with care received.\n\nIMAGING OBJECTIVES (EXPLORATORY):\n\nI. To assess whether CT-derived and CXR-derived radiomic features can be used to determine whether a pulmonary nodule is benign or malignant (metastasis).\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM A: Patients undergo CXR every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule undergo a CT and may undergo a biopsy on study.\n\nARM B: Patients undergo chest CT every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule may undergo a biopsy on study.",
+      "evidence_sentences": [
+        "This phase III trial compares chest computed tomography (CT) to chest x-ray (CXR) for lung surveillance after curative-intent resection of high-risk truncal-extremity soft tissue sarcoma.",
+        "However, despite curative-intent resection, 20-40% of patients will develop cancer that has spread from where it first started (primary site) to other places in the body (distant metastases), with the lungs being the most common site.",
+        "Current National Comprehensive Cancer Network guidelines recommend chest imaging with CT or CXR every 3-6 months for 2-3 years, then every 6 months for the next two years, and then annually after that for high-risk tumors."
+      ],
+      "study_type": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2024-07-24",
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cancer",
+        "deaths",
+        "africa",
+        "canada",
+        "usa"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT06526897",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06526897",
+            "orgStudyIdInfo": {
+              "id": "EA7201"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "NCI-2023-06179",
+                "type": "REGISTRY",
+                "domain": "CTRP (Clinical Trial Reporting Program)"
+              },
+              {
+                "id": "EA7201",
+                "type": "OTHER",
+                "domain": "ECOG-ACRIN Cancer Research Group"
+              },
+              {
+                "id": "ECOG-ACRIN-EA7201",
+                "type": "OTHER",
+                "domain": "DCP"
+              },
+              {
+                "id": "EA7201",
+                "type": "OTHER",
+                "domain": "CTEP"
+              },
+              {
+                "id": "UG1CA189828",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/UG1CA189828"
+              }
+            ],
+            "organization": {
+              "fullName": "Eastern Cooperative Oncology Group",
+              "class": "NETWORK"
+            },
+            "briefTitle": "Evaluation of Chest CT Versus Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma",
+            "officialTitle": "A Phase III Randomized Controlled Trial of Chest CT vs Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-07",
+            "overallStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-01-28",
+              "type": "ESTIMATED"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2032-11-01",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2032-11-01",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-10-10",
+            "studyFirstSubmitQcDate": "2024-07-24",
+            "studyFirstPostDateStruct": {
+              "date": "2024-07-30",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2024-07-24",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-07-30",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "ECOG-ACRIN Cancer Research Group",
+              "class": "NETWORK"
+            },
+            "collaborators": [
+              {
+                "name": "National Cancer Institute (NCI)",
+                "class": "NIH"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This phase III trial compares chest computed tomography (CT) to chest x-ray (CXR) for lung surveillance after curative-intent resection of high-risk truncal-extremity soft tissue sarcoma. Currently, complete oncologic resection (with or without radiation therapy) is the standard of care for most high-risk soft tissue sarcoma that has not spread to other parts of the body (localized). However, despite curative-intent resection, 20-40% of patients will develop cancer that has spread from where it first started (primary site) to other places in the body (distant metastases), with the lungs being the most common site. Thus, lung surveillance is important for detection of lung metastases in order to facilitate timely treatment. Although there is general agreement about the usefulness of postoperative surveillance, consensus is lacking regarding the optimal modality for lung surveillance after curative-intent resection for high-risk soft tissue sarcoma. Current National Comprehensive Cancer Network guidelines recommend chest imaging with CT or CXR every 3-6 months for 2-3 years, then every 6 months for the next two years, and then annually after that for high-risk tumors. Data from across the United States and internationally indicate that there is considerable variation in clinical practice with regards to the use of CXR versus CT chest for lung surveillance. The information gained from this trial may allow researchers to determine the effectiveness of varying imaging modalities needed for optimal surveillance for patients with extremity or truncal soft tissue sarcoma.",
+            "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To evaluate whether the use of chest x-ray (CXR) for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of chest computed tomography (CT) in terms of overall survival.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate whether the use of CXR for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of CT in terms of disease-free survival.\n\nII. To assess the primary and secondary objectives in the pediatric and adolescent and young adult subpopulations.\n\nIII. To assess overall survival difference between arms based on specific histiotypes in subgroup analysis.\n\nIV. Patient-reported outcomes and quality of life IVa. Fear of cancer; IVb. Anxiety; IVc. Overall quality of life; IVd. Financial burden; IVe. Patient-reported direct and indirect costs associated with care received.\n\nIMAGING OBJECTIVES (EXPLORATORY):\n\nI. To assess whether CT-derived and CXR-derived radiomic features can be used to determine whether a pulmonary nodule is benign or malignant (metastasis).\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM A: Patients undergo CXR every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule undergo a CT and may undergo a biopsy on study.\n\nARM B: Patients undergo chest CT every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule may undergo a biopsy on study."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Adult Pleomorphic Rhabdomyosarcoma",
+              "AJCC Grade 2 Sarcoma",
+              "AJCC Grade 3 Sarcoma",
+              "Alveolar Soft Part Sarcoma",
+              "Angiosarcoma",
+              "Clear Cell Sarcoma of Soft Tissue",
+              "Dedifferentiated Liposarcoma",
+              "Extraskeletal Ewing Sarcoma",
+              "Extraskeletal Myxoid Chondrosarcoma",
+              "Fibrosarcoma",
+              "Fibrosarcomatous Dermatofibrosarcoma Protuberans",
+              "Leiomyosarcoma",
+              "Malignant Peripheral Nerve Sheath Tumor",
+              "Myxofibrosarcoma",
+              "Pleomorphic Liposarcoma",
+              "Round Cell Sarcoma With EWSR1-non-ETS Fusion",
+              "Sarcoma",
+              "Soft Tissue Sarcoma",
+              "Soft Tissue Sarcoma of the Trunk and Extremities",
+              "Spindle Cell Sarcoma",
+              "Stage III Soft Tissue Sarcoma of the Trunk and Extremities AJCC v8",
+              "Synovial Sarcoma",
+              "Undifferentiated Pleomorphic Sarcoma"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1582,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Arm A (CXR)",
+                "type": "EXPERIMENTAL",
+                "description": "Patients undergo CXR every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule undergo a CT and may undergo a biopsy on study.",
+                "interventionNames": [
+                  "Procedure: Biopsy",
+                  "Procedure: Chest Computed Tomography",
+                  "Procedure: Chest Radiography",
+                  "Other: Quality-of-Life Assessment",
+                  "Other: Questionnaire Administration"
+                ]
+              },
+              {
+                "label": "Arm B (CT)",
+                "type": "EXPERIMENTAL",
+                "description": "Patients undergo chest CT every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule may undergo a biopsy on study.",
+                "interventionNames": [
+                  "Procedure: Biopsy",
+                  "Procedure: Chest Computed Tomography",
+                  "Other: Quality-of-Life Assessment",
+                  "Other: Questionnaire Administration"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "PROCEDURE",
+                "name": "Biopsy",
+                "description": "Undergo biopsy",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "BIOPSY_TYPE",
+                  "Bx"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Chest Computed Tomography",
+                "description": "Undergo chest CT",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "Chest CT",
+                  "Computed Tomography of the Chest"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Chest Radiography",
+                "description": "Undergo CXR",
+                "armGroupLabels": [
+                  "Arm A (CXR)"
+                ],
+                "otherNames": [
+                  "Chest X-ray"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Quality-of-Life Assessment",
+                "description": "Ancillary studies",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "Quality of Life Assessment"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Questionnaire Administration",
+                "description": "Ancillary studies",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Overall survival (OS)",
+                "description": "Overall Survival will be evaluated across arms. Survival will be evaluated at least annually from randomization to death or up to 5 years.",
+                "timeFrame": "up to 5 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Lung disease-free survival",
+                "description": "Lung disease-free survival is defined as time from randomization to time of distant lung recurrence. New invasive primary cancer or death from any cause will be censored At each follow-up surveillance examination, data will be collected on symptoms, lung imaging results, and any additional examinations or procedures performed for suspected recurrence. Histopathologically-confirmed recurrences and deaths will be reported at the time of the event.",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Overall survival (OS) in the pediatric and adolescent and young adult subpopulations",
+                "description": "Overall Survival will be evaluated across arms in the pediatric and adolescent and young adult subpopulations Survival will be evaluated at least annually from randomization to death or up to 5 years .",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Lung disease-free survival in the pediatric and adolescent and young adult subpopulations",
+                "description": "Lung disease-free survival is defined as time from randomization to time of distant lung recurrence in the pediatric and adolescent and young adult subpopulations. New invasive primary cancer or death from any cause will be censored At each follow-up surveillance examination, data will be collected on symptoms, lung imaging results, and any additional examinations or procedures performed for suspected recurrence. Histopathologically-confirmed recurrences and deaths will be reported at the time of the event.",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Overall Survival (OS) based on specific histiotypes",
+                "description": "Will assess assess overall survival difference between arms based on specific histiotypes in subgroup analysis.",
+                "timeFrame": "Up to 5 years of imaging protocol"
+              },
+              {
+                "measure": "Fear of cancer as measured by a modified Psychological Consequences Questionnaire (PCQ):",
+                "description": "Fear of cancer associated with care received among those assigned to the CT arm compared to the CXR arm Will be measured using a Modified PCQ Response levels are rated on a four-point Likert scale from 0 (not at all) to 3 (quite a lot of the time). .\n\nThe sum of scores results in a total fear score between 0 and 36. Higher scores indicate more psychological dysfunction.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "PROMIS Anxiety Score",
+                "description": "Anxiety will be measured by anxiety associated with care received among those assigned to the CT arm compared to the CXR arm. The 4-item Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety, or parent proxy version for those under 18 years of age, will be collected at baseline and every 6 months, up to 5 years during the relevant clinic visit. Anxiety will be modeled as the continuous outcome in the regression models.\n\nEach item on the PROMIS Anxiety measure is rated on a 5-point scale (1=never; 2=rarely; 3=sometimes; 4=often; and 5=always) with a range in score from 7 to 35 with higher scores indicating greater severity of anxiety.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "PROMIS Global-10, Global Health Overall Quality of Life",
+                "description": "Overall quality of life (OQOL) will be assessed among those assigned to the CT arm compared to the CXR arm. The PROMIS 10 adult, or parent proxy version for those under 18 years of age, will be collected at baseline and every 6 months, up to 5 years. OQOL will be modeled as the continuous outcome in the regression models.\n\nPROMIS Global-10 is rated on a 5-point (as well as a single 11-point) rating scale. The results of the questions are used to calculate two summary scores: a Global Physical Health Score and a Global Mental Health score. These scores are then standardized to the general population, using the \"T-Score\". The average \"T-Score\" for the United States population is 50 points, with a standard deviation of 10 points. Higher scores indicate a healthier patient.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Financial toxicity from the Comprehensive Score for Financial Toxicity (COST)",
+                "description": "Financial toxicity is defined as the rating given to a single item from the COST measure \"My illness has been a financial hardship to my family and me\". The rating is on a 5-point scale (0=Not at All 1=A little bit; 2=Somewhat; 3=Quite a bit; 4=Very Much) Lower scores indicate greater financial toxicity, while higher scores indicate better financial well-being.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Medical Expenditures Panel Surveys Reduction in material resources",
+                "description": "Medical Expenditures Panel Surveys will be used to measure reduction in material resources associated with care received among those assigned to the CT arm compared to the CXR arm.\n\nReduction in material resources is a binary (Yes/No) outcome if any of the following responses is true:\n\nparticipant has taken on debt, sold a home, or declared bankruptcy;",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Care non-adherence",
+                "description": "Care non-adherence will be measured by care non-adherence associated with care received among those assigned to the CT arm compared to the CXR arm. Care non-adherence is defined as any positive response to the care non-adherence questions:\n\nDid you forego or reduce medication doses due to to financial concerns? Did you forego tests or clinic visits due to financial concerns?",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Patient-reported out-of-pocket and indirect costs of care",
+                "description": "Will be measured by patient-reported out-of-pocket and indirect costs of care associated with care received among those assigned to the CT arm compared to the CXR arm. Patients were asked to estimate their out-of-pocket costs at the time of the clinic visit.\n\nin addition to costs out-of-pocket costs for clinic visits, medication, and co-pays, indirect costs will include lost wages, care-giver substitutes, and transportation costs",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Radiomic features of pulmonary nodules",
+                "description": "All imaging from all sites will be collected using the National Cancer Institute Transfer of Images and Data software. Images will be anonymized and saved in the Digital Imaging and Communications in Medicine format. The images will undergo quality assurance evaluation to ensure that the images are appropriate and diagnostic. The aim of this radiomics objective is to identify radiomic features that could be used to accurately determine whether a pulmonary nodule is benign or malignant, thereby potentially obviating the need for pulmonary nodule biopsies in the future. For the radiomics analysis of pulmonary nodules, will analyze the images from the diagnostic CT scan immediately prior to the pulmonary nodule biopsy for biopsied nodules. For nodules that are not biopsied, will utilize the first surveillance CT scan where that nodule was detected. Least absolute shrinkage and selection operator will be utilized to select the radiomic features that best differentiate tumor type.",
+                "timeFrame": "Up to 5 years of imaging protocol"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be ≥ 1 and ≤ 85 years old on the day of randomization\n* Patient must have and undergone curative-intent (R0 or R1) resection of an American Joint Committee on Cancer (AJCC) 8th edition stage III truncal or extremity soft tissue sarcoma\n* Patient must have a high-risk (grade 2 or 3) soft tissue carcinoma according to the French Federation of Cancer Centers Sarcoma Group (FNCLCC)\n\n  * Patients with the following histiotypes are eligible: dedifferentiated liposarcoma, pleomorphic liposarcoma, leiomyosarcoma, undifferentiated pleomorphic sarcoma/malignant fibrous histiocytoma, myxofibrosarcoma, fibrosarcomatous dermatofibrosarcoma protuberant variant, spindle cell sarcomas, pleomorphic sarcoma, fibrosarcoma,extra-skeletal myxoid chrondrosarcoma, extraskeletal Ewing and Ewing-like sarcoma, sarcoma not otherwise specified (NOS), or other grade 2 or grade 3 sarcomas not further classified\n  * Patients with a high-risk histiotype that is typically not graded, including adult pleomorphic rhabdomyosarcoma, synovial sarcoma, angiosarcoma, malignant peripheral nerve sheath tumor, alveolar soft part sarcoma, epithelioid sarcoma, or clear cell sarcoma are eligible\n* Patient must have a tumor size ≥ 5 cm\n* Patient must have had a R0 or R1 oncologic resection on final pathologic report\n* Patient must have a baseline chest CT obtained within 30 days prior to randomization that is negative or detecting only non-suspicious nodules ≤ 4 mm\n* Patients receiving preoperative or post-operative chemotherapy and/or radiotherapy for the primary tumor are eligible. However, all chemotherapy and/or radiotherapy must be completed prior to randomization\n* Patient must not be pregnant due to the potential harmful risks associated with CXR and CT imaging to the unborn fetus\n\n  * All patients of childbearing potential must have a blood test or urine study within 14 days prior to randomization to rule out pregnancy\n  * A patient of childbearing potential is defined as anyone, regardless of sexual orientation or whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point, 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patient must not have a chest wall/upper truncal primary tumor requiring locoregional surveillance with CT or magnetic resonance imaging (MRI)\n* Patient must not have retroperitoneal, mesenteric/abdominal sarcoma\n* Patient must not have a primary bone sarcoma (including osteosarcomas, Ewings sarcoma, or chondrosarcomas), desmoid tumor, gastrointestinal stromal tumor (GIST), Kaposi sarcoma, pediatric rhabdomyosarcoma, nor uterine sarcoma\n* Patient must not have had a palliative or R2 resection\n* Patient must not require routine cross-sectional imaging of the chest/lungs with CT/MRI/positron emission tomography (PET)\n* Patient must not have participation in another clinical trial that is incompatible with this study surveillance schema and follow-up regimen\n* Patient must have the ability to understand and the willingness to sign a written informed consent document. Pediatric patients (\\< 18 years of age) and patients with impaired decision-making capacity (IDMC) who have a legally authorized representative (LAR) or caregiver and/or family member available will also be considered eligible. Child assent must be obtained as appropriate in accordance with institutional guidelines\n* Patient must be English speaking to be eligible for the quality of life (QOL) component of the study\n\n  * NOTE: Sites cannot translate the associated QOL forms",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Year",
+            "maximumAge": "85 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Kenneth Cardona",
+                "affiliation": "ECOG-ACRIN Cancer Research Group",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D018234",
+                "term": "Sarcoma, Alveolar Soft Part"
+              },
+              {
+                "id": "D006394",
+                "term": "Hemangiosarcoma"
+              },
+              {
+                "id": "D018227",
+                "term": "Sarcoma, Clear Cell"
+              },
+              {
+                "id": "D008080",
+                "term": "Liposarcoma"
+              },
+              {
+                "id": "C563195",
+                "term": "Chondrosarcoma, Extraskeletal Myxoid"
+              },
+              {
+                "id": "D005354",
+                "term": "Fibrosarcoma"
+              },
+              {
+                "id": "D018223",
+                "term": "Dermatofibrosarcoma"
+              },
+              {
+                "id": "D007890",
+                "term": "Leiomyosarcoma"
+              },
+              {
+                "id": "D018319",
+                "term": "Neurofibrosarcoma"
+              },
+              {
+                "id": "D012509",
+                "term": "Sarcoma"
+              },
+              {
+                "id": "D013584",
+                "term": "Sarcoma, Synovial"
+              },
+              {
+                "id": "D051677",
+                "term": "Histiocytoma, Malignant Fibrous"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D009379",
+                "term": "Neoplasms, Muscle Tissue"
+              },
+              {
+                "id": "D018204",
+                "term": "Neoplasms, Connective and Soft Tissue"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D009383",
+                "term": "Neoplasms, Vascular Tissue"
+              },
+              {
+                "id": "D009372",
+                "term": "Neoplasms, Connective Tissue"
+              },
+              {
+                "id": "D018205",
+                "term": "Neoplasms, Adipose Tissue"
+              },
+              {
+                "id": "D018218",
+                "term": "Neoplasms, Fibrous Tissue"
+              },
+              {
+                "id": "D009455",
+                "term": "Neurofibroma"
+              },
+              {
+                "id": "D018317",
+                "term": "Nerve Sheath Neoplasms"
+              },
+              {
+                "id": "D009380",
+                "term": "Neoplasms, Nerve Tissue"
+              },
+              {
+                "id": "D010524",
+                "term": "Peripheral Nervous System Neoplasms"
+              },
+              {
+                "id": "D009423",
+                "term": "Nervous System Neoplasms"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D010523",
+                "term": "Peripheral Nervous System Diseases"
+              },
+              {
+                "id": "D009468",
+                "term": "Neuromuscular Diseases"
+              },
+              {
+                "id": "D051642",
+                "term": "Histiocytoma"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001706",
+                "term": "Biopsy"
+              },
+              {
+                "id": "D014965",
+                "term": "X-Rays"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003581",
+                "term": "Cytodiagnosis"
+              },
+              {
+                "id": "D003584",
+                "term": "Cytological Techniques"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D013048",
+                "term": "Specimen Handling"
+              },
+              {
+                "id": "D003949",
+                "term": "Diagnostic Techniques, Surgical"
+              },
+              {
+                "id": "D013514",
+                "term": "Surgical Procedures, Operative"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D060733",
+                "term": "Electromagnetic Radiation"
+              },
+              {
+                "id": "D055590",
+                "term": "Electromagnetic Phenomena"
+              },
+              {
+                "id": "D060328",
+                "term": "Magnetic Phenomena"
+              },
+              {
+                "id": "D055585",
+                "term": "Physical Phenomena"
+              },
+              {
+                "id": "D011827",
+                "term": "Radiation"
+              },
+              {
+                "id": "D011839",
+                "term": "Radiation, Ionizing"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    },
+    {
+      "nct_id": "NCT04048954",
+      "title": "Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+      "brief_summary": "Smokers do not know the symptoms of cancer and wait on average 5 months with symptoms before consulting. 80% of lung cancers are diagnosed at too late and incurable stage.\n\nSystematic CT screening of smokers is under evaluation and currently not supported because expensive and little used in real life (in the US 1.8% of smokers after 7 years of establishment in the USA).\n\nAn English study showed an increase in the number of operable stage cancers of 3% among smokers by calling them on a trailing cough by a simple poster campaign (\"You smoke, you cough for more than 3 weeks, consult\").\n\nRegarding COPD, it is linked to tobacco in 85% of cases, affects 3.5 million French and is in 2013 the 4th leading cause of death in France. The evolution of COPD is marked by exacerbations, period of acute aggravation of symptoms, responsible for the deterioration of the quality of life or even hospitalization or death. COPD remains a silent killer responsible, according to this same summary review, of 16,500 deaths per year in France.\n\nDr DENIS has developed a web application that has shown a 7-month survival benefit by early detection of lung cancer relapses based on the reporting of patient symptoms analyzed by a validated algorithm in 300 patients and 1 randomized trial.\n\nThe Applitabac app takes this concept of symptom self-assessment by patients. By multiplying the number of symptoms analyzed compared to the English study, Applitabac should be able to increase the sensitivity of this early detection of COPD and increase the number of operable bronchial cancers and increase the chances of survival of patients.",
+      "detailed_description": "",
+      "evidence_sentences": [
+        "By multiplying the number of symptoms analyzed compared to the English study, Applitabac should be able to increase the sensitivity of this early detection of COPD and increase the number of operable bronchial cancers and increase the chances of survival of patients.",
+        "Dr DENIS has developed a web application that has shown a 7-month survival benefit by early detection of lung cancer relapses based on the reporting of patient symptoms analyzed by a validated algorithm in 300 patients and 1 randomized trial.",
+        "An English study showed an increase in the number of operable stage cancers of 3% among smokers by calling them on a trailing cough by a simple poster campaign (\"You smoke, you cough for more than 3 weeks, consult\")."
+      ],
+      "study_type": "OBSERVATIONAL",
+      "phases": [],
+      "status": "COMPLETED",
+      "last_update": "2020-11-16",
+      "query_keywords": [
+        "lung cancer",
+        "you",
+        "compare",
+        "cancer",
+        "deaths",
+        "africa",
+        "canada",
+        "usa"
+      ],
+      "source_url": "https://clinicaltrials.gov/study/NCT04048954",
+      "raw": {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04048954",
+            "orgStudyIdInfo": {
+              "id": "WP-2019-01"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "NR1512030619",
+                "type": "OTHER",
+                "domain": "INDS"
+              }
+            ],
+            "organization": {
+              "fullName": "Weprom",
+              "class": "OTHER"
+            },
+            "briefTitle": "Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+            "officialTitle": "Prospective Study Evaluating the Impact of the Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+            "acronym": "APPLITABAC"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2019-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2019-05-30",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-06-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2020-06-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2019-07-30",
+            "studyFirstSubmitQcDate": "2019-08-05",
+            "studyFirstPostDateStruct": {
+              "date": "2019-08-07",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2020-11-16",
+            "lastUpdatePostDateStruct": {
+              "date": "2020-11-18",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Weprom",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Le Mans Town Hall (72)",
+                "class": "UNKNOWN"
+              },
+              {
+                "name": "Department of Sarthe (72)",
+                "class": "UNKNOWN"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Smokers do not know the symptoms of cancer and wait on average 5 months with symptoms before consulting. 80% of lung cancers are diagnosed at too late and incurable stage.\n\nSystematic CT screening of smokers is under evaluation and currently not supported because expensive and little used in real life (in the US 1.8% of smokers after 7 years of establishment in the USA).\n\nAn English study showed an increase in the number of operable stage cancers of 3% among smokers by calling them on a trailing cough by a simple poster campaign (\"You smoke, you cough for more than 3 weeks, consult\").\n\nRegarding COPD, it is linked to tobacco in 85% of cases, affects 3.5 million French and is in 2013 the 4th leading cause of death in France. The evolution of COPD is marked by exacerbations, period of acute aggravation of symptoms, responsible for the deterioration of the quality of life or even hospitalization or death. COPD remains a silent killer responsible, according to this same summary review, of 16,500 deaths per year in France.\n\nDr DENIS has developed a web application that has shown a 7-month survival benefit by early detection of lung cancer relapses based on the reporting of patient symptoms analyzed by a validated algorithm in 300 patients and 1 randomized trial.\n\nThe Applitabac app takes this concept of symptom self-assessment by patients. By multiplying the number of symptoms analyzed compared to the English study, Applitabac should be able to increase the sensitivity of this early detection of COPD and increase the number of operable bronchial cancers and increase the chances of survival of patients."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Tabagism",
+              "Lung Cancer",
+              "Chronic Obstructive Pulmonary Disease"
+            ],
+            "keywords": [
+              "Screening",
+              "Tabagism",
+              "Chronic Obstructive Pulmonary Disease",
+              "Cancer",
+              "Lung"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 5671,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "APPLITABAC arm",
+                "description": "Use of a smartphone application on screening for complications related to tabagism",
+                "interventionNames": [
+                  "Device: Applitabac"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Applitabac",
+                "description": "Smartphone application in screening on tabagism complications",
+                "armGroupLabels": [
+                  "APPLITABAC arm"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Proportion of patients fit for surgery for a symptomatic stage I-II lung cancer during the 12 weeks after the web-application rollout",
+                "description": "Proportion of patients fit for surgery for a symptomatic stage I-II lung cancer during the 12 weeks after the web-application rollout",
+                "timeFrame": "12 weeks"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Proportion of patients operated on for lung cancer during the first and second year of follow-up in comparaison of 2017/2018",
+                "description": "Proportion of patients operated on for lung cancer during the first and second year of follow-up in comparaison of 2017/2018",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of diagnosed lung cancers, by stage and total first and second year of follow-up",
+                "description": "Proportion of diagnosed lung cancers, by stage and total first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Stage of lung cancer surgery with Applitabac first and second year of follow-up",
+                "description": "Stage of lung cancer surgery with Applitabac first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Histological stage of diagnosed lung cancer",
+                "description": "Histological stage of diagnosed lung cancer",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Stages of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "description": "Stages of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "description": "Proportion of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of Applitabac-induced thoracic interventions without a cancer diagnosis first and second year of follow-up",
+                "description": "Proportion of Applitabac-induced thoracic interventions without a cancer diagnosis first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of patients with another pathology detected by Applitabac in the first and second year of follow-up",
+                "description": "Proportion of patients with another pathology detected by Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Stage of diagnosis of COPD detected by the application (GOLD classification : VEMS)",
+                "description": "Stage of diagnosis of COPD detected by the application (GOLD classification : VEMS)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Distribution of the stages of operated lung cancer, the two years preceding the implementation of Applitabac over similar periods",
+                "description": "Distribution of the stages of operated lung cancer, the two years preceding the implementation of Applitabac over similar periods",
+                "timeFrame": "Two years before use of Applitabac"
+              },
+              {
+                "measure": "Compare the distribution of the stages of operated patients (app vs. not app)",
+                "description": "Compare the distribution of the stages of operated patients (app vs. not app)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Comparison of the stage distribution of patients operated before / after implementation of the application (via Epithor data base)",
+                "description": "Comparison of the stage distribution of patients operated before / after implementation of the application (via Epithor data base)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Number of users who want to quit after first use",
+                "description": "Number of users who want to quit after first use",
+                "timeFrame": "30 minutes after application implementation"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years old\n* Applitabac user who has received a notification directing him to his doctor\n* Smoker or former smoker (current smoking cessation or ≤ 5 years)\n* Patient informed of the use of his data and not opposing it\n\nExclusion Criteria:\n\n* Presence of another evolutionary neoplasia in the past 2 years\n* Patient who did not use the Applitabac app",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Smoker or former smoker",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "All MD",
+                "city": "Le Mans",
+                "zip": "72000",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 48.0021,
+                  "lon": 0.20251
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "30667494",
+                "type": "RESULT",
+                "citation": "Denis F, Basch E, Septans AL, Bennouna J, Urban T, Dueck AC, Letellier C. Two-Year Survival Comparing Web-Based Symptom Monitoring vs Routine Surveillance Following Treatment for Lung Cancer. JAMA. 2019 Jan 22;321(3):306-307. doi: 10.1001/jama.2018.18085."
+              },
+              {
+                "pmid": "25461805",
+                "type": "RESULT",
+                "citation": "Ironmonger L, Ohuma E, Ormiston-Smith N, Gildea C, Thomson CS, Peake MD. An evaluation of the impact of large-scale interventions to raise public awareness of a lung cancer symptom. Br J Cancer. 2015 Jan 6;112(1):207-16. doi: 10.1038/bjc.2014.596. Epub 2014 Dec 2."
+              },
+              {
+                "pmid": "35195530",
+                "type": "DERIVED",
+                "citation": "Stavaux E, Goupil F, Barreau G, Septans AL, Dautzenberg B, Foulet-Roge A, Padilla N, Urban T, Denis F. Use of a Smartphone Self-assessment App for a Tobacco-Induced Disease (COPD, Cardiovascular Diseases, Cancer) Screening Strategy and to Encourage Smoking Cessation: Observational Study. JMIR Public Health Surveill. 2022 Feb 23;8(2):e19877. doi: 10.2196/19877."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D029424",
+                "term": "Pulmonary Disease, Chronic Obstructive"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D008173",
+                "term": "Lung Diseases, Obstructive"
+              },
+              {
+                "id": "D002908",
+                "term": "Chronic Disease"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    }
+  ],
+  "payload": {
+    "studies": [
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT06526897",
+            "orgStudyIdInfo": {
+              "id": "EA7201"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "NCI-2023-06179",
+                "type": "REGISTRY",
+                "domain": "CTRP (Clinical Trial Reporting Program)"
+              },
+              {
+                "id": "EA7201",
+                "type": "OTHER",
+                "domain": "ECOG-ACRIN Cancer Research Group"
+              },
+              {
+                "id": "ECOG-ACRIN-EA7201",
+                "type": "OTHER",
+                "domain": "DCP"
+              },
+              {
+                "id": "EA7201",
+                "type": "OTHER",
+                "domain": "CTEP"
+              },
+              {
+                "id": "UG1CA189828",
+                "type": "NIH",
+                "link": "https://reporter.nih.gov/quickSearch/UG1CA189828"
+              }
+            ],
+            "organization": {
+              "fullName": "Eastern Cooperative Oncology Group",
+              "class": "NETWORK"
+            },
+            "briefTitle": "Evaluation of Chest CT Versus Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma",
+            "officialTitle": "A Phase III Randomized Controlled Trial of Chest CT vs Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2024-07",
+            "overallStatus": "NOT_YET_RECRUITING",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2025-01-28",
+              "type": "ESTIMATED"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2032-11-01",
+              "type": "ESTIMATED"
+            },
+            "completionDateStruct": {
+              "date": "2032-11-01",
+              "type": "ESTIMATED"
+            },
+            "studyFirstSubmitDate": "2023-10-10",
+            "studyFirstSubmitQcDate": "2024-07-24",
+            "studyFirstPostDateStruct": {
+              "date": "2024-07-30",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2024-07-24",
+            "lastUpdatePostDateStruct": {
+              "date": "2024-07-30",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "ECOG-ACRIN Cancer Research Group",
+              "class": "NETWORK"
+            },
+            "collaborators": [
+              {
+                "name": "National Cancer Institute (NCI)",
+                "class": "NIH"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": true,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "This phase III trial compares chest computed tomography (CT) to chest x-ray (CXR) for lung surveillance after curative-intent resection of high-risk truncal-extremity soft tissue sarcoma. Currently, complete oncologic resection (with or without radiation therapy) is the standard of care for most high-risk soft tissue sarcoma that has not spread to other parts of the body (localized). However, despite curative-intent resection, 20-40% of patients will develop cancer that has spread from where it first started (primary site) to other places in the body (distant metastases), with the lungs being the most common site. Thus, lung surveillance is important for detection of lung metastases in order to facilitate timely treatment. Although there is general agreement about the usefulness of postoperative surveillance, consensus is lacking regarding the optimal modality for lung surveillance after curative-intent resection for high-risk soft tissue sarcoma. Current National Comprehensive Cancer Network guidelines recommend chest imaging with CT or CXR every 3-6 months for 2-3 years, then every 6 months for the next two years, and then annually after that for high-risk tumors. Data from across the United States and internationally indicate that there is considerable variation in clinical practice with regards to the use of CXR versus CT chest for lung surveillance. The information gained from this trial may allow researchers to determine the effectiveness of varying imaging modalities needed for optimal surveillance for patients with extremity or truncal soft tissue sarcoma.",
+            "detailedDescription": "PRIMARY OBJECTIVE:\n\nI. To evaluate whether the use of chest x-ray (CXR) for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of chest computed tomography (CT) in terms of overall survival.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate whether the use of CXR for lung metastasis surveillance for the first five years after resection of a truncal or extremity soft tissue sarcoma is comparable to the use of CT in terms of disease-free survival.\n\nII. To assess the primary and secondary objectives in the pediatric and adolescent and young adult subpopulations.\n\nIII. To assess overall survival difference between arms based on specific histiotypes in subgroup analysis.\n\nIV. Patient-reported outcomes and quality of life IVa. Fear of cancer; IVb. Anxiety; IVc. Overall quality of life; IVd. Financial burden; IVe. Patient-reported direct and indirect costs associated with care received.\n\nIMAGING OBJECTIVES (EXPLORATORY):\n\nI. To assess whether CT-derived and CXR-derived radiomic features can be used to determine whether a pulmonary nodule is benign or malignant (metastasis).\n\nOUTLINE: Patients are randomized to 1 of 2 arms.\n\nARM A: Patients undergo CXR every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule undergo a CT and may undergo a biopsy on study.\n\nARM B: Patients undergo chest CT every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule may undergo a biopsy on study."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Adult Pleomorphic Rhabdomyosarcoma",
+              "AJCC Grade 2 Sarcoma",
+              "AJCC Grade 3 Sarcoma",
+              "Alveolar Soft Part Sarcoma",
+              "Angiosarcoma",
+              "Clear Cell Sarcoma of Soft Tissue",
+              "Dedifferentiated Liposarcoma",
+              "Extraskeletal Ewing Sarcoma",
+              "Extraskeletal Myxoid Chondrosarcoma",
+              "Fibrosarcoma",
+              "Fibrosarcomatous Dermatofibrosarcoma Protuberans",
+              "Leiomyosarcoma",
+              "Malignant Peripheral Nerve Sheath Tumor",
+              "Myxofibrosarcoma",
+              "Pleomorphic Liposarcoma",
+              "Round Cell Sarcoma With EWSR1-non-ETS Fusion",
+              "Sarcoma",
+              "Soft Tissue Sarcoma",
+              "Soft Tissue Sarcoma of the Trunk and Extremities",
+              "Spindle Cell Sarcoma",
+              "Stage III Soft Tissue Sarcoma of the Trunk and Extremities AJCC v8",
+              "Synovial Sarcoma",
+              "Undifferentiated Pleomorphic Sarcoma"
+            ]
+          },
+          "designModule": {
+            "studyType": "INTERVENTIONAL",
+            "phases": [
+              "NA"
+            ],
+            "designInfo": {
+              "allocation": "RANDOMIZED",
+              "interventionModel": "PARALLEL",
+              "primaryPurpose": "DIAGNOSTIC",
+              "maskingInfo": {
+                "masking": "NONE"
+              }
+            },
+            "enrollmentInfo": {
+              "count": 1582,
+              "type": "ESTIMATED"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "Arm A (CXR)",
+                "type": "EXPERIMENTAL",
+                "description": "Patients undergo CXR every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule undergo a CT and may undergo a biopsy on study.",
+                "interventionNames": [
+                  "Procedure: Biopsy",
+                  "Procedure: Chest Computed Tomography",
+                  "Procedure: Chest Radiography",
+                  "Other: Quality-of-Life Assessment",
+                  "Other: Questionnaire Administration"
+                ]
+              },
+              {
+                "label": "Arm B (CT)",
+                "type": "EXPERIMENTAL",
+                "description": "Patients undergo chest CT every 3 months for years 1-2, and every 6 months years 3-5. Patients with a suspicious or new nodule may undergo a biopsy on study.",
+                "interventionNames": [
+                  "Procedure: Biopsy",
+                  "Procedure: Chest Computed Tomography",
+                  "Other: Quality-of-Life Assessment",
+                  "Other: Questionnaire Administration"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "PROCEDURE",
+                "name": "Biopsy",
+                "description": "Undergo biopsy",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "BIOPSY_TYPE",
+                  "Bx"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Chest Computed Tomography",
+                "description": "Undergo chest CT",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "Chest CT",
+                  "Computed Tomography of the Chest"
+                ]
+              },
+              {
+                "type": "PROCEDURE",
+                "name": "Chest Radiography",
+                "description": "Undergo CXR",
+                "armGroupLabels": [
+                  "Arm A (CXR)"
+                ],
+                "otherNames": [
+                  "Chest X-ray"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Quality-of-Life Assessment",
+                "description": "Ancillary studies",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ],
+                "otherNames": [
+                  "Quality of Life Assessment"
+                ]
+              },
+              {
+                "type": "OTHER",
+                "name": "Questionnaire Administration",
+                "description": "Ancillary studies",
+                "armGroupLabels": [
+                  "Arm A (CXR)",
+                  "Arm B (CT)"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Overall survival (OS)",
+                "description": "Overall Survival will be evaluated across arms. Survival will be evaluated at least annually from randomization to death or up to 5 years.",
+                "timeFrame": "up to 5 years"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Lung disease-free survival",
+                "description": "Lung disease-free survival is defined as time from randomization to time of distant lung recurrence. New invasive primary cancer or death from any cause will be censored At each follow-up surveillance examination, data will be collected on symptoms, lung imaging results, and any additional examinations or procedures performed for suspected recurrence. Histopathologically-confirmed recurrences and deaths will be reported at the time of the event.",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Overall survival (OS) in the pediatric and adolescent and young adult subpopulations",
+                "description": "Overall Survival will be evaluated across arms in the pediatric and adolescent and young adult subpopulations Survival will be evaluated at least annually from randomization to death or up to 5 years .",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Lung disease-free survival in the pediatric and adolescent and young adult subpopulations",
+                "description": "Lung disease-free survival is defined as time from randomization to time of distant lung recurrence in the pediatric and adolescent and young adult subpopulations. New invasive primary cancer or death from any cause will be censored At each follow-up surveillance examination, data will be collected on symptoms, lung imaging results, and any additional examinations or procedures performed for suspected recurrence. Histopathologically-confirmed recurrences and deaths will be reported at the time of the event.",
+                "timeFrame": "up to 5 years"
+              },
+              {
+                "measure": "Overall Survival (OS) based on specific histiotypes",
+                "description": "Will assess assess overall survival difference between arms based on specific histiotypes in subgroup analysis.",
+                "timeFrame": "Up to 5 years of imaging protocol"
+              },
+              {
+                "measure": "Fear of cancer as measured by a modified Psychological Consequences Questionnaire (PCQ):",
+                "description": "Fear of cancer associated with care received among those assigned to the CT arm compared to the CXR arm Will be measured using a Modified PCQ Response levels are rated on a four-point Likert scale from 0 (not at all) to 3 (quite a lot of the time). .\n\nThe sum of scores results in a total fear score between 0 and 36. Higher scores indicate more psychological dysfunction.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "PROMIS Anxiety Score",
+                "description": "Anxiety will be measured by anxiety associated with care received among those assigned to the CT arm compared to the CXR arm. The 4-item Patient-Reported Outcomes Measurement Information System (PROMIS) Anxiety, or parent proxy version for those under 18 years of age, will be collected at baseline and every 6 months, up to 5 years during the relevant clinic visit. Anxiety will be modeled as the continuous outcome in the regression models.\n\nEach item on the PROMIS Anxiety measure is rated on a 5-point scale (1=never; 2=rarely; 3=sometimes; 4=often; and 5=always) with a range in score from 7 to 35 with higher scores indicating greater severity of anxiety.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "PROMIS Global-10, Global Health Overall Quality of Life",
+                "description": "Overall quality of life (OQOL) will be assessed among those assigned to the CT arm compared to the CXR arm. The PROMIS 10 adult, or parent proxy version for those under 18 years of age, will be collected at baseline and every 6 months, up to 5 years. OQOL will be modeled as the continuous outcome in the regression models.\n\nPROMIS Global-10 is rated on a 5-point (as well as a single 11-point) rating scale. The results of the questions are used to calculate two summary scores: a Global Physical Health Score and a Global Mental Health score. These scores are then standardized to the general population, using the \"T-Score\". The average \"T-Score\" for the United States population is 50 points, with a standard deviation of 10 points. Higher scores indicate a healthier patient.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Financial toxicity from the Comprehensive Score for Financial Toxicity (COST)",
+                "description": "Financial toxicity is defined as the rating given to a single item from the COST measure \"My illness has been a financial hardship to my family and me\". The rating is on a 5-point scale (0=Not at All 1=A little bit; 2=Somewhat; 3=Quite a bit; 4=Very Much) Lower scores indicate greater financial toxicity, while higher scores indicate better financial well-being.",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Medical Expenditures Panel Surveys Reduction in material resources",
+                "description": "Medical Expenditures Panel Surveys will be used to measure reduction in material resources associated with care received among those assigned to the CT arm compared to the CXR arm.\n\nReduction in material resources is a binary (Yes/No) outcome if any of the following responses is true:\n\nparticipant has taken on debt, sold a home, or declared bankruptcy;",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Care non-adherence",
+                "description": "Care non-adherence will be measured by care non-adherence associated with care received among those assigned to the CT arm compared to the CXR arm. Care non-adherence is defined as any positive response to the care non-adherence questions:\n\nDid you forego or reduce medication doses due to to financial concerns? Did you forego tests or clinic visits due to financial concerns?",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              },
+              {
+                "measure": "Patient-reported out-of-pocket and indirect costs of care",
+                "description": "Will be measured by patient-reported out-of-pocket and indirect costs of care associated with care received among those assigned to the CT arm compared to the CXR arm. Patients were asked to estimate their out-of-pocket costs at the time of the clinic visit.\n\nin addition to costs out-of-pocket costs for clinic visits, medication, and co-pays, indirect costs will include lost wages, care-giver substitutes, and transportation costs",
+                "timeFrame": "baseline and every 6 month up to 5 years"
+              }
+            ],
+            "otherOutcomes": [
+              {
+                "measure": "Radiomic features of pulmonary nodules",
+                "description": "All imaging from all sites will be collected using the National Cancer Institute Transfer of Images and Data software. Images will be anonymized and saved in the Digital Imaging and Communications in Medicine format. The images will undergo quality assurance evaluation to ensure that the images are appropriate and diagnostic. The aim of this radiomics objective is to identify radiomic features that could be used to accurately determine whether a pulmonary nodule is benign or malignant, thereby potentially obviating the need for pulmonary nodule biopsies in the future. For the radiomics analysis of pulmonary nodules, will analyze the images from the diagnostic CT scan immediately prior to the pulmonary nodule biopsy for biopsied nodules. For nodules that are not biopsied, will utilize the first surveillance CT scan where that nodule was detected. Least absolute shrinkage and selection operator will be utilized to select the radiomic features that best differentiate tumor type.",
+                "timeFrame": "Up to 5 years of imaging protocol"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be ≥ 1 and ≤ 85 years old on the day of randomization\n* Patient must have and undergone curative-intent (R0 or R1) resection of an American Joint Committee on Cancer (AJCC) 8th edition stage III truncal or extremity soft tissue sarcoma\n* Patient must have a high-risk (grade 2 or 3) soft tissue carcinoma according to the French Federation of Cancer Centers Sarcoma Group (FNCLCC)\n\n  * Patients with the following histiotypes are eligible: dedifferentiated liposarcoma, pleomorphic liposarcoma, leiomyosarcoma, undifferentiated pleomorphic sarcoma/malignant fibrous histiocytoma, myxofibrosarcoma, fibrosarcomatous dermatofibrosarcoma protuberant variant, spindle cell sarcomas, pleomorphic sarcoma, fibrosarcoma,extra-skeletal myxoid chrondrosarcoma, extraskeletal Ewing and Ewing-like sarcoma, sarcoma not otherwise specified (NOS), or other grade 2 or grade 3 sarcomas not further classified\n  * Patients with a high-risk histiotype that is typically not graded, including adult pleomorphic rhabdomyosarcoma, synovial sarcoma, angiosarcoma, malignant peripheral nerve sheath tumor, alveolar soft part sarcoma, epithelioid sarcoma, or clear cell sarcoma are eligible\n* Patient must have a tumor size ≥ 5 cm\n* Patient must have had a R0 or R1 oncologic resection on final pathologic report\n* Patient must have a baseline chest CT obtained within 30 days prior to randomization that is negative or detecting only non-suspicious nodules ≤ 4 mm\n* Patients receiving preoperative or post-operative chemotherapy and/or radiotherapy for the primary tumor are eligible. However, all chemotherapy and/or radiotherapy must be completed prior to randomization\n* Patient must not be pregnant due to the potential harmful risks associated with CXR and CT imaging to the unborn fetus\n\n  * All patients of childbearing potential must have a blood test or urine study within 14 days prior to randomization to rule out pregnancy\n  * A patient of childbearing potential is defined as anyone, regardless of sexual orientation or whether they have undergone tubal ligation, who meets the following criteria: 1) has achieved menarche at some point, 2) has not undergone a hysterectomy or bilateral oophorectomy; or 3) has not been naturally postmenopausal (amenorrhea following cancer therapy does not rule out childbearing potential) for at least 24 consecutive months (i.e., has had menses at any time in the preceding 24 consecutive months)\n* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial\n* Patient must not have a chest wall/upper truncal primary tumor requiring locoregional surveillance with CT or magnetic resonance imaging (MRI)\n* Patient must not have retroperitoneal, mesenteric/abdominal sarcoma\n* Patient must not have a primary bone sarcoma (including osteosarcomas, Ewings sarcoma, or chondrosarcomas), desmoid tumor, gastrointestinal stromal tumor (GIST), Kaposi sarcoma, pediatric rhabdomyosarcoma, nor uterine sarcoma\n* Patient must not have had a palliative or R2 resection\n* Patient must not require routine cross-sectional imaging of the chest/lungs with CT/MRI/positron emission tomography (PET)\n* Patient must not have participation in another clinical trial that is incompatible with this study surveillance schema and follow-up regimen\n* Patient must have the ability to understand and the willingness to sign a written informed consent document. Pediatric patients (\\< 18 years of age) and patients with impaired decision-making capacity (IDMC) who have a legally authorized representative (LAR) or caregiver and/or family member available will also be considered eligible. Child assent must be obtained as appropriate in accordance with institutional guidelines\n* Patient must be English speaking to be eligible for the quality of life (QOL) component of the study\n\n  * NOTE: Sites cannot translate the associated QOL forms",
+            "healthyVolunteers": false,
+            "sex": "ALL",
+            "minimumAge": "1 Year",
+            "maximumAge": "85 Years",
+            "stdAges": [
+              "CHILD",
+              "ADULT",
+              "OLDER_ADULT"
+            ]
+          },
+          "contactsLocationsModule": {
+            "overallOfficials": [
+              {
+                "name": "Kenneth Cardona",
+                "affiliation": "ECOG-ACRIN Cancer Research Group",
+                "role": "PRINCIPAL_INVESTIGATOR"
+              }
+            ]
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D018234",
+                "term": "Sarcoma, Alveolar Soft Part"
+              },
+              {
+                "id": "D006394",
+                "term": "Hemangiosarcoma"
+              },
+              {
+                "id": "D018227",
+                "term": "Sarcoma, Clear Cell"
+              },
+              {
+                "id": "D008080",
+                "term": "Liposarcoma"
+              },
+              {
+                "id": "C563195",
+                "term": "Chondrosarcoma, Extraskeletal Myxoid"
+              },
+              {
+                "id": "D005354",
+                "term": "Fibrosarcoma"
+              },
+              {
+                "id": "D018223",
+                "term": "Dermatofibrosarcoma"
+              },
+              {
+                "id": "D007890",
+                "term": "Leiomyosarcoma"
+              },
+              {
+                "id": "D018319",
+                "term": "Neurofibrosarcoma"
+              },
+              {
+                "id": "D012509",
+                "term": "Sarcoma"
+              },
+              {
+                "id": "D013584",
+                "term": "Sarcoma, Synovial"
+              },
+              {
+                "id": "D051677",
+                "term": "Histiocytoma, Malignant Fibrous"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D009379",
+                "term": "Neoplasms, Muscle Tissue"
+              },
+              {
+                "id": "D018204",
+                "term": "Neoplasms, Connective and Soft Tissue"
+              },
+              {
+                "id": "D009370",
+                "term": "Neoplasms by Histologic Type"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              },
+              {
+                "id": "D009383",
+                "term": "Neoplasms, Vascular Tissue"
+              },
+              {
+                "id": "D009372",
+                "term": "Neoplasms, Connective Tissue"
+              },
+              {
+                "id": "D018205",
+                "term": "Neoplasms, Adipose Tissue"
+              },
+              {
+                "id": "D018218",
+                "term": "Neoplasms, Fibrous Tissue"
+              },
+              {
+                "id": "D009455",
+                "term": "Neurofibroma"
+              },
+              {
+                "id": "D018317",
+                "term": "Nerve Sheath Neoplasms"
+              },
+              {
+                "id": "D009380",
+                "term": "Neoplasms, Nerve Tissue"
+              },
+              {
+                "id": "D010524",
+                "term": "Peripheral Nervous System Neoplasms"
+              },
+              {
+                "id": "D009423",
+                "term": "Nervous System Neoplasms"
+              },
+              {
+                "id": "D009422",
+                "term": "Nervous System Diseases"
+              },
+              {
+                "id": "D010523",
+                "term": "Peripheral Nervous System Diseases"
+              },
+              {
+                "id": "D009468",
+                "term": "Neuromuscular Diseases"
+              },
+              {
+                "id": "D051642",
+                "term": "Histiocytoma"
+              }
+            ]
+          },
+          "interventionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D001706",
+                "term": "Biopsy"
+              },
+              {
+                "id": "D014965",
+                "term": "X-Rays"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D003581",
+                "term": "Cytodiagnosis"
+              },
+              {
+                "id": "D003584",
+                "term": "Cytological Techniques"
+              },
+              {
+                "id": "D019411",
+                "term": "Clinical Laboratory Techniques"
+              },
+              {
+                "id": "D019937",
+                "term": "Diagnostic Techniques and Procedures"
+              },
+              {
+                "id": "D003933",
+                "term": "Diagnosis"
+              },
+              {
+                "id": "D013048",
+                "term": "Specimen Handling"
+              },
+              {
+                "id": "D003949",
+                "term": "Diagnostic Techniques, Surgical"
+              },
+              {
+                "id": "D013514",
+                "term": "Surgical Procedures, Operative"
+              },
+              {
+                "id": "D008919",
+                "term": "Investigative Techniques"
+              },
+              {
+                "id": "D060733",
+                "term": "Electromagnetic Radiation"
+              },
+              {
+                "id": "D055590",
+                "term": "Electromagnetic Phenomena"
+              },
+              {
+                "id": "D060328",
+                "term": "Magnetic Phenomena"
+              },
+              {
+                "id": "D055585",
+                "term": "Physical Phenomena"
+              },
+              {
+                "id": "D011827",
+                "term": "Radiation"
+              },
+              {
+                "id": "D011839",
+                "term": "Radiation, Ionizing"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      },
+      {
+        "protocolSection": {
+          "identificationModule": {
+            "nctId": "NCT04048954",
+            "orgStudyIdInfo": {
+              "id": "WP-2019-01"
+            },
+            "secondaryIdInfos": [
+              {
+                "id": "NR1512030619",
+                "type": "OTHER",
+                "domain": "INDS"
+              }
+            ],
+            "organization": {
+              "fullName": "Weprom",
+              "class": "OTHER"
+            },
+            "briefTitle": "Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+            "officialTitle": "Prospective Study Evaluating the Impact of the Use of a Smartphone Application on the Detection of Complications Related to Smoking",
+            "acronym": "APPLITABAC"
+          },
+          "statusModule": {
+            "statusVerifiedDate": "2019-08",
+            "overallStatus": "COMPLETED",
+            "expandedAccessInfo": {
+              "hasExpandedAccess": false
+            },
+            "startDateStruct": {
+              "date": "2019-05-30",
+              "type": "ACTUAL"
+            },
+            "primaryCompletionDateStruct": {
+              "date": "2020-06-01",
+              "type": "ACTUAL"
+            },
+            "completionDateStruct": {
+              "date": "2020-06-01",
+              "type": "ACTUAL"
+            },
+            "studyFirstSubmitDate": "2019-07-30",
+            "studyFirstSubmitQcDate": "2019-08-05",
+            "studyFirstPostDateStruct": {
+              "date": "2019-08-07",
+              "type": "ACTUAL"
+            },
+            "lastUpdateSubmitDate": "2020-11-16",
+            "lastUpdatePostDateStruct": {
+              "date": "2020-11-18",
+              "type": "ACTUAL"
+            }
+          },
+          "sponsorCollaboratorsModule": {
+            "responsibleParty": {
+              "type": "SPONSOR"
+            },
+            "leadSponsor": {
+              "name": "Weprom",
+              "class": "OTHER"
+            },
+            "collaborators": [
+              {
+                "name": "Le Mans Town Hall (72)",
+                "class": "UNKNOWN"
+              },
+              {
+                "name": "Department of Sarthe (72)",
+                "class": "UNKNOWN"
+              }
+            ]
+          },
+          "oversightModule": {
+            "oversightHasDmc": false,
+            "isFdaRegulatedDrug": false,
+            "isFdaRegulatedDevice": false
+          },
+          "descriptionModule": {
+            "briefSummary": "Smokers do not know the symptoms of cancer and wait on average 5 months with symptoms before consulting. 80% of lung cancers are diagnosed at too late and incurable stage.\n\nSystematic CT screening of smokers is under evaluation and currently not supported because expensive and little used in real life (in the US 1.8% of smokers after 7 years of establishment in the USA).\n\nAn English study showed an increase in the number of operable stage cancers of 3% among smokers by calling them on a trailing cough by a simple poster campaign (\"You smoke, you cough for more than 3 weeks, consult\").\n\nRegarding COPD, it is linked to tobacco in 85% of cases, affects 3.5 million French and is in 2013 the 4th leading cause of death in France. The evolution of COPD is marked by exacerbations, period of acute aggravation of symptoms, responsible for the deterioration of the quality of life or even hospitalization or death. COPD remains a silent killer responsible, according to this same summary review, of 16,500 deaths per year in France.\n\nDr DENIS has developed a web application that has shown a 7-month survival benefit by early detection of lung cancer relapses based on the reporting of patient symptoms analyzed by a validated algorithm in 300 patients and 1 randomized trial.\n\nThe Applitabac app takes this concept of symptom self-assessment by patients. By multiplying the number of symptoms analyzed compared to the English study, Applitabac should be able to increase the sensitivity of this early detection of COPD and increase the number of operable bronchial cancers and increase the chances of survival of patients."
+          },
+          "conditionsModule": {
+            "conditions": [
+              "Tabagism",
+              "Lung Cancer",
+              "Chronic Obstructive Pulmonary Disease"
+            ],
+            "keywords": [
+              "Screening",
+              "Tabagism",
+              "Chronic Obstructive Pulmonary Disease",
+              "Cancer",
+              "Lung"
+            ]
+          },
+          "designModule": {
+            "studyType": "OBSERVATIONAL",
+            "patientRegistry": false,
+            "designInfo": {
+              "observationalModel": "COHORT",
+              "timePerspective": "PROSPECTIVE"
+            },
+            "enrollmentInfo": {
+              "count": 5671,
+              "type": "ACTUAL"
+            }
+          },
+          "armsInterventionsModule": {
+            "armGroups": [
+              {
+                "label": "APPLITABAC arm",
+                "description": "Use of a smartphone application on screening for complications related to tabagism",
+                "interventionNames": [
+                  "Device: Applitabac"
+                ]
+              }
+            ],
+            "interventions": [
+              {
+                "type": "DEVICE",
+                "name": "Applitabac",
+                "description": "Smartphone application in screening on tabagism complications",
+                "armGroupLabels": [
+                  "APPLITABAC arm"
+                ]
+              }
+            ]
+          },
+          "outcomesModule": {
+            "primaryOutcomes": [
+              {
+                "measure": "Proportion of patients fit for surgery for a symptomatic stage I-II lung cancer during the 12 weeks after the web-application rollout",
+                "description": "Proportion of patients fit for surgery for a symptomatic stage I-II lung cancer during the 12 weeks after the web-application rollout",
+                "timeFrame": "12 weeks"
+              }
+            ],
+            "secondaryOutcomes": [
+              {
+                "measure": "Proportion of patients operated on for lung cancer during the first and second year of follow-up in comparaison of 2017/2018",
+                "description": "Proportion of patients operated on for lung cancer during the first and second year of follow-up in comparaison of 2017/2018",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of diagnosed lung cancers, by stage and total first and second year of follow-up",
+                "description": "Proportion of diagnosed lung cancers, by stage and total first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Stage of lung cancer surgery with Applitabac first and second year of follow-up",
+                "description": "Stage of lung cancer surgery with Applitabac first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Histological stage of diagnosed lung cancer",
+                "description": "Histological stage of diagnosed lung cancer",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Stages of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "description": "Stages of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "description": "Proportion of other cancers of Applitabac users diagnosed with Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of Applitabac-induced thoracic interventions without a cancer diagnosis first and second year of follow-up",
+                "description": "Proportion of Applitabac-induced thoracic interventions without a cancer diagnosis first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Proportion of patients with another pathology detected by Applitabac in the first and second year of follow-up",
+                "description": "Proportion of patients with another pathology detected by Applitabac in the first and second year of follow-up",
+                "timeFrame": "first and second year of follow-up"
+              },
+              {
+                "measure": "Stage of diagnosis of COPD detected by the application (GOLD classification : VEMS)",
+                "description": "Stage of diagnosis of COPD detected by the application (GOLD classification : VEMS)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Distribution of the stages of operated lung cancer, the two years preceding the implementation of Applitabac over similar periods",
+                "description": "Distribution of the stages of operated lung cancer, the two years preceding the implementation of Applitabac over similar periods",
+                "timeFrame": "Two years before use of Applitabac"
+              },
+              {
+                "measure": "Compare the distribution of the stages of operated patients (app vs. not app)",
+                "description": "Compare the distribution of the stages of operated patients (app vs. not app)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Comparison of the stage distribution of patients operated before / after implementation of the application (via Epithor data base)",
+                "description": "Comparison of the stage distribution of patients operated before / after implementation of the application (via Epithor data base)",
+                "timeFrame": "second year of follow-up"
+              },
+              {
+                "measure": "Number of users who want to quit after first use",
+                "description": "Number of users who want to quit after first use",
+                "timeFrame": "30 minutes after application implementation"
+              }
+            ]
+          },
+          "eligibilityModule": {
+            "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years old\n* Applitabac user who has received a notification directing him to his doctor\n* Smoker or former smoker (current smoking cessation or ≤ 5 years)\n* Patient informed of the use of his data and not opposing it\n\nExclusion Criteria:\n\n* Presence of another evolutionary neoplasia in the past 2 years\n* Patient who did not use the Applitabac app",
+            "healthyVolunteers": true,
+            "sex": "ALL",
+            "minimumAge": "18 Years",
+            "stdAges": [
+              "ADULT",
+              "OLDER_ADULT"
+            ],
+            "studyPopulation": "Smoker or former smoker",
+            "samplingMethod": "NON_PROBABILITY_SAMPLE"
+          },
+          "contactsLocationsModule": {
+            "locations": [
+              {
+                "facility": "All MD",
+                "city": "Le Mans",
+                "zip": "72000",
+                "country": "France",
+                "geoPoint": {
+                  "lat": 48.0021,
+                  "lon": 0.20251
+                }
+              }
+            ]
+          },
+          "referencesModule": {
+            "references": [
+              {
+                "pmid": "30667494",
+                "type": "RESULT",
+                "citation": "Denis F, Basch E, Septans AL, Bennouna J, Urban T, Dueck AC, Letellier C. Two-Year Survival Comparing Web-Based Symptom Monitoring vs Routine Surveillance Following Treatment for Lung Cancer. JAMA. 2019 Jan 22;321(3):306-307. doi: 10.1001/jama.2018.18085."
+              },
+              {
+                "pmid": "25461805",
+                "type": "RESULT",
+                "citation": "Ironmonger L, Ohuma E, Ormiston-Smith N, Gildea C, Thomson CS, Peake MD. An evaluation of the impact of large-scale interventions to raise public awareness of a lung cancer symptom. Br J Cancer. 2015 Jan 6;112(1):207-16. doi: 10.1038/bjc.2014.596. Epub 2014 Dec 2."
+              },
+              {
+                "pmid": "35195530",
+                "type": "DERIVED",
+                "citation": "Stavaux E, Goupil F, Barreau G, Septans AL, Dautzenberg B, Foulet-Roge A, Padilla N, Urban T, Denis F. Use of a Smartphone Self-assessment App for a Tobacco-Induced Disease (COPD, Cardiovascular Diseases, Cancer) Screening Strategy and to Encourage Smoking Cessation: Observational Study. JMIR Public Health Surveill. 2022 Feb 23;8(2):e19877. doi: 10.2196/19877."
+              }
+            ]
+          },
+          "ipdSharingStatementModule": {
+            "ipdSharing": "NO"
+          }
+        },
+        "derivedSection": {
+          "miscInfoModule": {
+            "versionHolder": "2026-04-16"
+          },
+          "conditionBrowseModule": {
+            "meshes": [
+              {
+                "id": "D008175",
+                "term": "Lung Neoplasms"
+              },
+              {
+                "id": "D029424",
+                "term": "Pulmonary Disease, Chronic Obstructive"
+              },
+              {
+                "id": "D009369",
+                "term": "Neoplasms"
+              }
+            ],
+            "ancestors": [
+              {
+                "id": "D012142",
+                "term": "Respiratory Tract Neoplasms"
+              },
+              {
+                "id": "D013899",
+                "term": "Thoracic Neoplasms"
+              },
+              {
+                "id": "D009371",
+                "term": "Neoplasms by Site"
+              },
+              {
+                "id": "D008171",
+                "term": "Lung Diseases"
+              },
+              {
+                "id": "D012140",
+                "term": "Respiratory Tract Diseases"
+              },
+              {
+                "id": "D008173",
+                "term": "Lung Diseases, Obstructive"
+              },
+              {
+                "id": "D002908",
+                "term": "Chronic Disease"
+              },
+              {
+                "id": "D020969",
+                "term": "Disease Attributes"
+              },
+              {
+                "id": "D010335",
+                "term": "Pathologic Processes"
+              },
+              {
+                "id": "D013568",
+                "term": "Pathological Conditions, Signs and Symptoms"
+              }
+            ]
+          }
+        },
+        "hasResults": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "enabled": true,
+  "indexed_chunks": 23,
+  "matches": [
+    {
+      "id": "pubmed:25495426:1",
+      "score": 0.5541353225708008,
+      "metadata": {
+        "id": "pubmed:25495426:1",
+        "doc_id": "25495426",
+        "source": "pubmed",
+        "title": "The η-class carbonic anhydrases as drug targets for antimalarial agents.",
+        "study_type": "Publication",
+        "year": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25495426/",
+        "text": "Plasmodium falciparum η-CA showed a moderate but significant activity for the CO2 hydration reaction, with a kcat of 1.4 × 10(5)s(-1) and a kcat/Km of 5.4 × 10(6) M(-1) × s(-1)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05816330:2",
+      "score": 0.5130584836006165,
+      "metadata": {
+        "id": "clinicaltrials:NCT05816330:2",
+        "doc_id": "NCT05816330",
+        "source": "clinicaltrials",
+        "title": "L9LS MAb in Malian Adults",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05816330",
+        "text": "The purpose of this study is to evaluate the safety and tolerability of a one time SC administration of L9LS in healthy adults in Mali, as well as its protective efficacy against naturally occurring Plasmodium falciparum (Pf) infection over a 6-month malaria season."
+      }
+    },
+    {
+      "id": "pubmed:41062216:0",
+      "score": 0.5052957534790039,
+      "metadata": {
+        "id": "pubmed:41062216:0",
+        "doc_id": "41062216",
+        "source": "pubmed",
+        "title": "Plasmodium falciparum η-carbonic anhydrase.",
+        "study_type": "Publication",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41062216/",
+        "text": "Malaria parasites belonging to the genus Plasmodium encode for a carbonic anhydrase (CA, EC 4.2.1.1) originally considered to belong to the α-class, which has been investigated starting with 2004 as a potential antimalarial target, considering the observation that CA levels in red blood cells infected with these parasites are much higher compared to those of uninfected cells."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05816330:0",
+      "score": 0.48009663820266724,
+      "metadata": {
+        "id": "clinicaltrials:NCT05816330:0",
+        "doc_id": "NCT05816330",
+        "source": "clinicaltrials",
+        "title": "L9LS MAb in Malian Adults",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT05816330",
+        "text": "A secondary objective is to determine if SC administration of L9LS at 900 mg (compared to placebo) mediates protection against naturally occurring Pf infection in healthy Malian adult females stratified by weight during a single malaria season."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04329104:1",
+      "score": 0.45524120330810547,
+      "metadata": {
+        "id": "clinicaltrials:NCT04329104:1",
+        "doc_id": "NCT04329104",
+        "source": "clinicaltrials",
+        "title": "Safety and Efficacy of CIS43LS Anti-malaria mAb in Mali",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04329104",
+        "text": "This study will evaluate the safety, tolerability, and efficacy of VRC MALMAB0100-00-AB (CIS43LS), a human monoclonal antibody, against naturally occurring Plasmodium falciparum (Pf) infection."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "25495426",
+      "title": "The η-class carbonic anhydrases as drug targets for antimalarial agents.",
+      "study_type": "Publication",
+      "year": "2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25495426/",
+      "semantic_score": 0.5541353225708008,
+      "matched_sentences": [
+        "Plasmodium falciparum η-CA showed a moderate but significant activity for the CO2 hydration reaction, with a kcat of 1.4 × 10(5)s(-1) and a kcat/Km of 5.4 × 10(6) M(-1) × s(-1)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05816330",
+      "title": "L9LS MAb in Malian Adults",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT05816330",
+      "semantic_score": 0.5130584836006165,
+      "matched_sentences": [
+        "The purpose of this study is to evaluate the safety and tolerability of a one time SC administration of L9LS in healthy adults in Mali, as well as its protective efficacy against naturally occurring Plasmodium falciparum (Pf) infection over a 6-month malaria season.",
+        "A secondary objective is to determine if SC administration of L9LS at 900 mg (compared to placebo) mediates protection against naturally occurring Pf infection in healthy Malian adult females stratified by weight during a single malaria season."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41062216",
+      "title": "Plasmodium falciparum η-carbonic anhydrase.",
+      "study_type": "Publication",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41062216/",
+      "semantic_score": 0.5052957534790039,
+      "matched_sentences": [
+        "Malaria parasites belonging to the genus Plasmodium encode for a carbonic anhydrase (CA, EC 4.2.1.1) originally considered to belong to the α-class, which has been investigated starting with 2004 as a potential antimalarial target, considering the observation that CA levels in red blood cells infected with these parasites are much higher compared to those of uninfected cells."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04329104",
+      "title": "Safety and Efficacy of CIS43LS Anti-malaria mAb in Mali",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04329104",
+      "semantic_score": 0.45524120330810547,
+      "matched_sentences": [
+        "This study will evaluate the safety, tolerability, and efficacy of VRC MALMAB0100-00-AB (CIS43LS), a human monoclonal antibody, against naturally occurring Plasmodium falciparum (Pf) infection."
+      ]
+    }
+  ]
+}

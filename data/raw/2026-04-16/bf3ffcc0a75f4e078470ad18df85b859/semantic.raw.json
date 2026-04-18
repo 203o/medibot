@@ -1,0 +1,1901 @@
+{
+  "enabled": true,
+  "indexed_chunks": 6,
+  "matches": [
+    {
+      "id": "pubmed:31046186:2",
+      "score": 0.7337262630462646,
+      "metadata": {
+        "id": "pubmed:31046186:2",
+        "doc_id": "31046186",
+        "source": "pubmed",
+        "title": "MDS evidence-based review of treatments for essential tremor.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31046186/",
+        "text": "We followed the recommendations of the International Parkinson and Movement Disorder Society Evidence Based Medicine Committee."
+      }
+    },
+    {
+      "id": "pubmed:40055961:0",
+      "score": 0.719136655330658,
+      "metadata": {
+        "id": "pubmed:40055961:0",
+        "doc_id": "40055961",
+        "source": "pubmed",
+        "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40055961/",
+        "text": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00377351:1",
+      "score": 0.7002394199371338,
+      "metadata": {
+        "id": "clinicaltrials:NCT00377351:1",
+        "doc_id": "NCT00377351",
+        "source": "clinicaltrials",
+        "title": "Confirmation of Self-Reported Incident ALS Cases in the AARP-Diet and Health (AARP-DH) Cohort",
+        "study_type": "OBSERVATIONAL",
+        "year": "2017",
+        "url": "https://clinicaltrials.gov/study/NCT00377351",
+        "text": "The objective of this specific proposal is to ascertain the self-reported incident ALS cases from the AARP-DH study and obtain consent for medical release following the procedures set up for Parkinson's disease (PD) cases in the currently approved Parkinson's Genes and Environment (PAGE) Study IRB approval #06-E-N093."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03888287:1",
+      "score": 0.6959301233291626,
+      "metadata": {
+        "id": "clinicaltrials:NCT03888287:1",
+        "doc_id": "NCT03888287",
+        "source": "clinicaltrials",
+        "title": "Parkinson's Disease Inpatient Clinical Knowledge and Management",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT03888287",
+        "text": "A study by Chou et al., (2011) involving 51 worldwide National Parkinson Foundation Centers found 94% of centers were not confident in the care and knowledge hospital professionals provided specific to: PD medications, complex drug interactions, contraindications and precise timing of medication administration."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03407378:0",
+      "score": 0.6736780405044556,
+      "metadata": {
+        "id": "clinicaltrials:NCT03407378:0",
+        "doc_id": "NCT03407378",
+        "source": "clinicaltrials",
+        "title": "A Study to Investigate a New Treatment in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT03407378",
+        "text": "The purpose of this clinical trial conducted in patients with Parkinson's Disease is to study the relationship between patient individual profile and their response to IPT803 Adjunct Treatment (treatment response being characterized by movements improvement)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06998303:2",
+      "score": 0.6563963890075684,
+      "metadata": {
+        "id": "clinicaltrials:NCT06998303:2",
+        "doc_id": "NCT06998303",
+        "source": "clinicaltrials",
+        "title": "Imaging Core Aim 2, and Udall Project 2 Aim 2",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06998303",
+        "text": "More than one million people in the United States have Parkinson's disease (PD) and the prevalence is expected to double by 2040."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05011175:0",
+      "score": 0.6521172523498535,
+      "metadata": {
+        "id": "clinicaltrials:NCT05011175:0",
+        "doc_id": "NCT05011175",
+        "source": "clinicaltrials",
+        "title": "Exercise Habits: A Survey of Individuals With Parkinson's Disease Living in the Community",
+        "study_type": "OBSERVATIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT05011175",
+        "text": "This study aims to evaluate the exercise regimens of individuals with Parkinson's."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04273672:1",
+      "score": 0.6499367952346802,
+      "metadata": {
+        "id": "clinicaltrials:NCT04273672:1",
+        "doc_id": "NCT04273672",
+        "source": "clinicaltrials",
+        "title": "Speech, Linguistic and Acoustic Markers in Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04273672",
+        "text": "The Investigators will administer speech tasks and cognitive assessments to participants with Parkinson's disease and healthy controls."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03866603:2",
+      "score": 0.6324358582496643,
+      "metadata": {
+        "id": "clinicaltrials:NCT03866603:2",
+        "doc_id": "NCT03866603",
+        "source": "clinicaltrials",
+        "title": "Rostock International Parkinson's Disease Study (ROPAD)",
+        "study_type": "OBSERVATIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT03866603",
+        "text": "Rostock International Parkinson's Disease Study - An International, multicenter, epidemiological observational study aiming at identification of LRRK2-positive patients, the recruitment of 25,000 PD participants and the establishment of a candidate biomarker in the LRRK2-positive cohort."
+      }
+    },
+    {
+      "id": "pubmed:38160999:0",
+      "score": 0.6310274600982666,
+      "metadata": {
+        "id": "pubmed:38160999:0",
+        "doc_id": "38160999",
+        "source": "pubmed",
+        "title": "Deep brain stimulation with short versus conventional pulse width in Parkinson's disease and essential tremor: A systematic review and meta-analysis.",
+        "study_type": "Meta-Analysis, Systematic Review, Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38160999/",
+        "text": "Nine Parkinson's disease (PD) (143 patients), 4 essential tremor (ET) (26 patients) and no dystonia studies were included in the meta-analysis."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT05502055:0",
+      "score": 0.6293931603431702,
+      "metadata": {
+        "id": "clinicaltrials:NCT05502055:0",
+        "doc_id": "NCT05502055",
+        "source": "clinicaltrials",
+        "title": "Perspectives on Healthcare Access and Equity of People With Parkinson's Disease Identifying as LGBTQ+",
+        "study_type": "OBSERVATIONAL",
+        "year": "2024",
+        "url": "https://clinicaltrials.gov/study/NCT05502055",
+        "text": "Impact on Diagnosis/Treatment of Parkinson's Disease: By understanding what LGBTQ+ people with PD need, and what ideas they have for improving their healthcare, better systems for meeting their needs can be built."
+      }
+    },
+    {
+      "id": "pubmed:40055961:1",
+      "score": 0.6217966079711914,
+      "metadata": {
+        "id": "pubmed:40055961:1",
+        "doc_id": "40055961",
+        "source": "pubmed",
+        "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40055961/",
+        "text": "On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT)."
+      }
+    },
+    {
+      "id": "pubmed:31046186:1",
+      "score": 0.6127424240112305,
+      "metadata": {
+        "id": "pubmed:31046186:1",
+        "doc_id": "31046186",
+        "source": "pubmed",
+        "title": "MDS evidence-based review of treatments for essential tremor.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31046186/",
+        "text": "The International Parkinson and Movement Disorder Society commissioned a task force on tremor to review clinical studies of treatments for essential tremor."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02445651:2",
+      "score": 0.5946065783500671,
+      "metadata": {
+        "id": "clinicaltrials:NCT02445651:2",
+        "doc_id": "NCT02445651",
+        "source": "clinicaltrials",
+        "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02445651",
+        "text": "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans."
+      }
+    },
+    {
+      "id": "pubmed:40185525:1",
+      "score": 0.5937790870666504,
+      "metadata": {
+        "id": "pubmed:40185525:1",
+        "doc_id": "40185525",
+        "source": "pubmed",
+        "title": "Treatment of Motor Symptoms of Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40185525/",
+        "text": "The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions."
+      }
+    },
+    {
+      "id": "pubmed:37380539:0",
+      "score": 0.5922321677207947,
+      "metadata": {
+        "id": "pubmed:37380539:0",
+        "doc_id": "37380539",
+        "source": "pubmed",
+        "title": "Long-term neuropsychological outcomes of deep brain stimulation in early-stage Parkinson's disease.",
+        "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37380539/",
+        "text": "The pilot trial of deep brain stimulation (DBS) in early-stage Parkinson's disease (PD) randomized 30 patients (medication duration 0.5-4 years; without dyskinesia or motor fluctuations) to receive optimal drug therapy alone (early ODT) or subthalamic nucleus (STN) DBS plus ODT (early DBS + ODT)."
+      }
+    },
+    {
+      "id": "pubmed:31046186:0",
+      "score": 0.5902516841888428,
+      "metadata": {
+        "id": "pubmed:31046186:0",
+        "doc_id": "31046186",
+        "source": "pubmed",
+        "title": "MDS evidence-based review of treatments for essential tremor.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31046186/",
+        "text": "To conduct an evidence-based review of current pharmacological and surgical treatments for essential tremor, using standardized criteria defined a priori by the International Parkinson and Movement Disorder Society."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04122690:2",
+      "score": 0.5872701406478882,
+      "metadata": {
+        "id": "clinicaltrials:NCT04122690:2",
+        "doc_id": "NCT04122690",
+        "source": "clinicaltrials",
+        "title": "Partnered Dance Aerobic Exercise as a Neuroprotective, Motor and Cognitive Intervention in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT04122690",
+        "text": "Importantly, the investigators will see if brain cells are protected using a brain scan that looks at the areas affected by PD to determine the relative amounts of different hormones in the brain that are related to having Parkinson's."
+      }
+    },
+    {
+      "id": "pubmed:37182899:2",
+      "score": 0.5863839983940125,
+      "metadata": {
+        "id": "pubmed:37182899:2",
+        "doc_id": "37182899",
+        "source": "pubmed",
+        "title": "Closed-Loop Adaptive Deep Brain Stimulation in Parkinson's Disease: Procedures to Achieve It and Future Perspectives.",
+        "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182899/",
+        "text": "Parkinson's disease (PD) is a neurodegenerative disease with a heavy burden on patients, families, and society."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04730466:1",
+      "score": 0.5841808319091797,
+      "metadata": {
+        "id": "clinicaltrials:NCT04730466:1",
+        "doc_id": "NCT04730466",
+        "source": "clinicaltrials",
+        "title": "Cognitive Rehabilitation as a Balance Rehabilitation Strategy in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT04730466",
+        "text": "Parkinson's disease (PD) is the second most common neurodegenerative disorder."
+      }
+    },
+    {
+      "id": "pubmed:31950450:1",
+      "score": 0.5828178524971008,
+      "metadata": {
+        "id": "pubmed:31950450:1",
+        "doc_id": "31950450",
+        "source": "pubmed",
+        "title": "Pedunculopontine Nucleus Deep Brain Stimulation Improves Gait Disorder in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+        "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31950450/",
+        "text": "Compared to those presurgery, the Unified Parkinson Disease Rating Scale (UPDRS) 27-30 scores for patients were lowered by PPN-DBS [3.94 (95% confidence interval, CI = 1.23 to 6.65)]."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03888287:2",
+      "score": 0.5804340839385986,
+      "metadata": {
+        "id": "clinicaltrials:NCT03888287:2",
+        "doc_id": "NCT03888287",
+        "source": "clinicaltrials",
+        "title": "Parkinson's Disease Inpatient Clinical Knowledge and Management",
+        "study_type": "INTERVENTIONAL",
+        "year": "2023",
+        "url": "https://clinicaltrials.gov/study/NCT03888287",
+        "text": "We are measuring the effect of a Parkinson's Disease Inpatient Clinical Knowledge and Management Program on adherence to Parkinson's Disease medication using a Parkinson's Disease Identification Wrist Band, smartwatch and medication schedule card Parkinson's Disease (PD), the second-most common neurodegenerative disorder and is ranked the fourteenth leading cause of death."
+      }
+    },
+    {
+      "id": "pubmed:34602499:1",
+      "score": 0.5801161527633667,
+      "metadata": {
+        "id": "pubmed:34602499:1",
+        "doc_id": "34602499",
+        "source": "pubmed",
+        "title": "Axial Impairment Following Deep Brain Stimulation in Parkinson's Disease: A Surgicogenomic Approach.",
+        "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34602499/",
+        "text": "We aimed to identify genetic variants associated with clinical heterogeneity in DBS outcome of Parkinson's disease (PD) patients that could then be applied clinically to target selection leading to improved surgical outcome."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT03191916:1",
+      "score": 0.5731322765350342,
+      "metadata": {
+        "id": "clinicaltrials:NCT03191916:1",
+        "doc_id": "NCT03191916",
+        "source": "clinicaltrials",
+        "title": "Transcranial Direct Current Stimulation for Cognitive Improvement in Parkinson's Patients",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT03191916",
+        "text": "Parkinson's disease (PD) is the second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06483126:1",
+      "score": 0.5713711977005005,
+      "metadata": {
+        "id": "clinicaltrials:NCT06483126:1",
+        "doc_id": "NCT06483126",
+        "source": "clinicaltrials",
+        "title": "The Benefits of Nature for Mood and Cognition in Persons With and Without Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT06483126",
+        "text": "This online study aims to explore the benefits of nature for mood and cognition in persons with and without Parkinson's disease."
+      }
+    },
+    {
+      "id": "openalex:https://openalex.org/W35968382:0",
+      "score": 0.5655908584594727,
+      "metadata": {
+        "id": "openalex:https://openalex.org/W35968382:0",
+        "doc_id": "https://openalex.org/W35968382",
+        "source": "openalex",
+        "title": "Characteristics and origin of anorogenic granites",
+        "study_type": "article",
+        "year": "1979",
+        "url": "http://ci.nii.ac.jp/naid/10019593683",
+        "text": "Parkinson's disease (PD) is a complex neurodegenerative disease."
+      }
+    },
+    {
+      "id": "pubmed:38429947:1",
+      "score": 0.5608019828796387,
+      "metadata": {
+        "id": "pubmed:38429947:1",
+        "doc_id": "38429947",
+        "source": "pubmed",
+        "title": "Bidirectional Interplay between Deep Brain Stimulation and Cognition in Parkinson's Disease: A Systematic Review.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38429947/",
+        "text": "Primary outcomes were OFF-drug Unified Parkinson Disease Rating Scale Part III score and cognitive test scores."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02422992:2",
+      "score": 0.5600872039794922,
+      "metadata": {
+        "id": "clinicaltrials:NCT02422992:2",
+        "doc_id": "NCT02422992",
+        "source": "clinicaltrials",
+        "title": "Haptoglobin and Iron in Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2016",
+        "url": "https://clinicaltrials.gov/study/NCT02422992",
+        "text": "This is a case/control epidemiology study to identify what are the iron-metabolism abnormalities in Parkinson's disease (PD) patients, and risk factors relevant to PD predisposition."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00042120:0",
+      "score": 0.5551458597183228,
+      "metadata": {
+        "id": "clinicaltrials:NCT00042120:0",
+        "doc_id": "NCT00042120",
+        "source": "clinicaltrials",
+        "title": "Farming and Movement Evaluation Study (FAME)",
+        "study_type": "OBSERVATIONAL",
+        "year": "2014",
+        "url": "https://clinicaltrials.gov/study/NCT00042120",
+        "text": "We propose to investigate the relationship between Parkinson's disease and exposure to pesticides and other factors by conducting a nested case-control study in the Agricultural Health Study."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT06883266:1",
+      "score": 0.5541156530380249,
+      "metadata": {
+        "id": "clinicaltrials:NCT06883266:1",
+        "doc_id": "NCT06883266",
+        "source": "clinicaltrials",
+        "title": "Transcranial Direct Current Stimulation for Motor Function and Fatigue in PD",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT06883266",
+        "text": "Parkinson's disease (PD) is the fastest growing and second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      }
+    },
+    {
+      "id": "pubmed:39525613:1",
+      "score": 0.5501956343650818,
+      "metadata": {
+        "id": "pubmed:39525613:1",
+        "doc_id": "39525613",
+        "source": "pubmed",
+        "title": "The effects of deep brain stimulation on sleep: a systematic review and meta-analysis.",
+        "study_type": "Journal Article, Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39525613/",
+        "text": "In a subgroup meta-analysis of subthalamic nucleus (STN) DBS for Parkinson's disease (PD), patients showed significant sleep improvement at three but not 12 months postoperatively with PDSS, at 12 but not 3 months with Epworth sleep scale, and at 6 months with nonmotor symptom scale."
+      }
+    },
+    {
+      "id": "pubmed:36442207:2",
+      "score": 0.5461746454238892,
+      "metadata": {
+        "id": "pubmed:36442207:2",
+        "doc_id": "36442207",
+        "source": "pubmed",
+        "title": "The Effects of Deep Brain Stimulation in Patients with Multiple System Atrophy.",
+        "study_type": "Letter, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, P.H.S.",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36442207/",
+        "text": "In a retrospective review of 1,496 patients with MSA evaluated at our institutions from 1998-2021, 12 patients underwent DBS; 9 had a diagnosis of Parkinson's disease at the time of surgery."
+      }
+    },
+    {
+      "id": "pubmed:35146054:0",
+      "score": 0.5427596569061279,
+      "metadata": {
+        "id": "pubmed:35146054:0",
+        "doc_id": "35146054",
+        "source": "pubmed",
+        "title": "Preoperative Levodopa Response and Deep Brain Stimulation Effects on Motor Outcomes in Parkinson's Disease: A Systematic Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35146054/",
+        "text": "The up-to-date literature systematically reviewing the predictive value of preoperative levodopa responsiveness after deep brain stimulation (DBS) surgery in motor outcomes in Parkinson's disease (PD) is lacking."
+      }
+    },
+    {
+      "id": "pubmed:28805564:0",
+      "score": 0.5376262664794922,
+      "metadata": {
+        "id": "pubmed:28805564:0",
+        "doc_id": "28805564",
+        "source": "pubmed",
+        "title": "Deep Brain Stimulation and Nonmotor Symptoms.",
+        "study_type": "Journal Article, Review",
+        "year": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28805564/",
+        "text": "Deep brain stimulation (DBS) is currently the treatment of choice for advanced Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:35912752:0",
+      "score": 0.5355952382087708,
+      "metadata": {
+        "id": "pubmed:35912752:0",
+        "doc_id": "35912752",
+        "source": "pubmed",
+        "title": "The Role of Microelectrode Recording in Deep Brain Stimulation Surgery for Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+        "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35912752/",
+        "text": "STN-DBS is a cornerstone in the treatment of advanced Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:41973908:2",
+      "score": 0.5344512462615967,
+      "metadata": {
+        "id": "pubmed:41973908:2",
+        "doc_id": "41973908",
+        "source": "pubmed",
+        "title": "Synthesis and Standardization of Outcomes in Severe Malaria Treatment Trials: Protocol for the Development of a Core Outcome Set (the COSSMaT Study).",
+        "study_type": "Journal Article",
+        "year": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973908/",
+        "text": "Searches covered the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and Literatura Latino-Americana em Ciências da Saúde (LILACS), as well as clinical trial registries, including the International Standard Randomised Controlled Trial Number (ISRCTN) registry, ClinicalTrials.gov, and the Pan-African Clinical Trial Registry (PACTR)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02924194:2",
+      "score": 0.5328169465065002,
+      "metadata": {
+        "id": "clinicaltrials:NCT02924194:2",
+        "doc_id": "NCT02924194",
+        "source": "clinicaltrials",
+        "title": "Deep Brain Stimulation of the nbM to Treat Mild Cognitive Impairment in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT02924194",
+        "text": "Patients with Parkinson's disease (PD) that are eligible for Deep Brain Stimulation (DBS) therapy for improvement of their motor symptoms and with evidence of mild cognitive impairments and memory difficulties will be enrolled."
+      }
+    },
+    {
+      "id": "pubmed:29741160:2",
+      "score": 0.5318556427955627,
+      "metadata": {
+        "id": "pubmed:29741160:2",
+        "doc_id": "29741160",
+        "source": "pubmed",
+        "title": "Adaptive deep brain stimulation for Parkinson's disease using motor cortex sensing.",
+        "study_type": "Clinical Trial, Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29741160/",
+        "text": "We demonstrate the feasibility of 'adaptive deep brain stimulation' in two patients with Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:38995803:1",
+      "score": 0.5301576256752014,
+      "metadata": {
+        "id": "pubmed:38995803:1",
+        "doc_id": "38995803",
+        "source": "pubmed",
+        "title": "Unmet Need in Early-Onset Parkinson's Disease: Deep Brain Stimulation and Pregnancy.",
+        "study_type": "Journal Article, Review, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38995803/",
+        "text": "Pregnancy in women with early-onset Parkinson's disease (PD) is likely to have a higher frequency given the trend toward increasing maternal age, thus resulting in a greater overlap time between childbearing age and PD risk."
+      }
+    },
+    {
+      "id": "pubmed:38758903:0",
+      "score": 0.5295928716659546,
+      "metadata": {
+        "id": "pubmed:38758903:0",
+        "doc_id": "38758903",
+        "source": "pubmed",
+        "title": "Deep brain stimulation in Parkinson's disease: A scientometric and bibliometric analysis, trends, and research hotspots.",
+        "study_type": "Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38758903/",
+        "text": "Parkinson disease (PD), a prevalent neurodegenerative ailment in the elderly, relies mainly on pharmacotherapy, yet deep brain stimulation (DBS) emerges as a vital remedy for refractory cases."
+      }
+    },
+    {
+      "id": "pubmed:36591546:0",
+      "score": 0.524544894695282,
+      "metadata": {
+        "id": "pubmed:36591546:0",
+        "doc_id": "36591546",
+        "source": "pubmed",
+        "title": "Stroop Test for Parkinson's Disease with Deep Brain Stimulation: A Systematic Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36591546/",
+        "text": "Deep brain stimulation (DBS) is considered an alternative treatment for patients with rapidly developing Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04273672:2",
+      "score": 0.5162918567657471,
+      "metadata": {
+        "id": "clinicaltrials:NCT04273672:2",
+        "doc_id": "NCT04273672",
+        "source": "clinicaltrials",
+        "title": "Speech, Linguistic and Acoustic Markers in Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04273672",
+        "text": "The Investigators will also explore the associations between genetic factors and speech and cognitive status in Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:40910967:0",
+      "score": 0.5161895751953125,
+      "metadata": {
+        "id": "pubmed:40910967:0",
+        "doc_id": "40910967",
+        "source": "pubmed",
+        "title": "Impact of Subthalamic Nucleus Deep Brain Stimulation on Gastrointestinal Symptoms and Gastric Emptying in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40910967/",
+        "text": "This systematic review and meta-analysis evaluates the efficacy of bilateral subthalamic nucleus (STN) deep brain stimulation (DBS) in improving gastric motility in patients with Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:39151185:0",
+      "score": 0.5151773691177368,
+      "metadata": {
+        "id": "pubmed:39151185:0",
+        "doc_id": "39151185",
+        "source": "pubmed",
+        "title": "Awake versus asleep deep brain stimulation for Parkinson's disease: a comprehensive systematic review and meta-analysis.",
+        "study_type": "Journal Article, Systematic Review, Meta-Analysis, Comparative Study",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39151185/",
+        "text": "Deep brain stimulation (DBS) has become an effective and safe treatment in patients with Parkinson's disease (PD) not responding to conventional treatments."
+      }
+    },
+    {
+      "id": "pubmed:27173938:0",
+      "score": 0.5128613710403442,
+      "metadata": {
+        "id": "pubmed:27173938:0",
+        "doc_id": "27173938",
+        "source": "pubmed",
+        "title": "Low-frequency deep brain stimulation for Parkinson's disease: Great expectation or false hope?",
+        "study_type": "Journal Article, Review",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27173938/",
+        "text": "The long-term efficacy of subthalamic deep brain stimulation for Parkinson's disease is not always retained, and many patients lose the improvement achieved during the \"second honeymoon\" following surgery."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04273672:0",
+      "score": 0.510620653629303,
+      "metadata": {
+        "id": "clinicaltrials:NCT04273672:0",
+        "doc_id": "NCT04273672",
+        "source": "clinicaltrials",
+        "title": "Speech, Linguistic and Acoustic Markers in Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT04273672",
+        "text": "The Investigators aim to identify speech and language markers that provide information on cognitive function and predict cognitive decline in Parkinson's disease."
+      }
+    },
+    {
+      "id": "pubmed:38809271:1",
+      "score": 0.5100183486938477,
+      "metadata": {
+        "id": "pubmed:38809271:1",
+        "doc_id": "38809271",
+        "source": "pubmed",
+        "title": "Short term cardiovascular symptoms improvement after deep brain stimulation in patients with Parkinson's disease: a systematic review.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38809271/",
+        "text": "Autonomic dysfunction is common and disabling in Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:40677143:1",
+      "score": 0.5098341703414917,
+      "metadata": {
+        "id": "pubmed:40677143:1",
+        "doc_id": "40677143",
+        "source": "pubmed",
+        "title": "Towards Adaptive Deep Brain Stimulation for Non-Motor Symptoms in Parkinson's Disease?",
+        "study_type": "Journal Article, Review",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40677143/",
+        "text": "Non-motor symptoms are prevalent, disabling, and difficult to treat at all stages of Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:36224189:0",
+      "score": 0.5070998072624207,
+      "metadata": {
+        "id": "pubmed:36224189:0",
+        "doc_id": "36224189",
+        "source": "pubmed",
+        "title": "A systematic review of brain morphometry related to deep brain stimulation outcome in Parkinson's disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36224189/",
+        "text": "While the efficacy of deep brain stimulation (DBS) is well-established in Parkinson's Disease (PD), the benefit of DBS varies across patients."
+      }
+    },
+    {
+      "id": "pubmed:40838518:1",
+      "score": 0.5067386031150818,
+      "metadata": {
+        "id": "pubmed:40838518:1",
+        "doc_id": "40838518",
+        "source": "pubmed",
+        "title": "Cognitive outcomes of deep brain stimulation depend on age and hippocampal connectivity in Parkinson's and Alzheimer's disease.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40838518/",
+        "text": "Contrary to current clinical practice, older Parkinson's disease (PD) patients may benefit from deep brain stimulation (DBS)."
+      }
+    },
+    {
+      "id": "pubmed:26968806:0",
+      "score": 0.5060131549835205,
+      "metadata": {
+        "id": "pubmed:26968806:0",
+        "doc_id": "26968806",
+        "source": "pubmed",
+        "title": "Programming Deep Brain Stimulation for Parkinson's Disease: The Toronto Western Hospital Algorithms.",
+        "study_type": "Journal Article, Review",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26968806/",
+        "text": "Deep brain stimulation (DBS) is an established and effective treatment for Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:29741160:1",
+      "score": 0.5035248398780823,
+      "metadata": {
+        "id": "pubmed:29741160:1",
+        "doc_id": "29741160",
+        "source": "pubmed",
+        "title": "Adaptive deep brain stimulation for Parkinson's disease using motor cortex sensing.",
+        "study_type": "Clinical Trial, Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+        "year": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29741160/",
+        "text": "Contemporary deep brain stimulation (DBS) for Parkinson's disease is delivered continuously, and adjustments based on patient's changing symptoms must be made manually by a trained clinician."
+      }
+    },
+    {
+      "id": "pubmed:38608807:1",
+      "score": 0.4974331855773926,
+      "metadata": {
+        "id": "pubmed:38608807:1",
+        "doc_id": "38608807",
+        "source": "pubmed",
+        "title": "Effectiveness of Deep Brain Stimulation in Improving Balance in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+        "study_type": "Systematic Review, Journal Article, Meta-Analysis",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38608807/",
+        "text": "Most studies reported no significant improvement in Timed Up-and-Go scores, Berg Balance Scale scores, frequency of falls, and balance-related items of the Movement Disorder Society's Unified Parkinson's Disease Rating Scales."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT00737217:1",
+      "score": 0.49710848927497864,
+      "metadata": {
+        "id": "clinicaltrials:NCT00737217:1",
+        "doc_id": "NCT00737217",
+        "source": "clinicaltrials",
+        "title": "Executive, Activities of Daily Living, and Cholinergic Functions in Parkinson's Disease",
+        "study_type": "OBSERVATIONAL",
+        "year": "2013",
+        "url": "https://clinicaltrials.gov/study/NCT00737217",
+        "text": "At the present time, the investigators have no clear information on the levels of acetylcholine in the brain of patients with Parkinson's disease who also have memory or behavioral changes."
+      }
+    },
+    {
+      "id": "pubmed:37964803:0",
+      "score": 0.49386727809906006,
+      "metadata": {
+        "id": "pubmed:37964803:0",
+        "doc_id": "37964803",
+        "source": "pubmed",
+        "title": "A systematic review of health disparities research in deep brain stimulation surgery for Parkinson's disease.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37964803/",
+        "text": "Deep brain stimulation (DBS) is the primary surgical intervention for Parkinson's disease (PD) patients with insufficient response to medication, significantly improving motor symptoms and quality of life."
+      }
+    },
+    {
+      "id": "pubmed:33316487:0",
+      "score": 0.4938623607158661,
+      "metadata": {
+        "id": "pubmed:33316487:0",
+        "doc_id": "33316487",
+        "source": "pubmed",
+        "title": "Application of Remote Deep Brain Stimulation Programming for Parkinson's Disease Patients.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33316487/",
+        "text": "Deep brain stimulation (DBS) is an important treatment for patients with advanced Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:31950450:2",
+      "score": 0.49352800846099854,
+      "metadata": {
+        "id": "pubmed:31950450:2",
+        "doc_id": "31950450",
+        "source": "pubmed",
+        "title": "Pedunculopontine Nucleus Deep Brain Stimulation Improves Gait Disorder in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+        "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31950450/",
+        "text": "We systematically searched PubMed, Cochrane, Web of Knowledge, Wan Fang and WIP for randomized and nonrandomized controlled trials (published before July 29, 2014; no language restrictions) comparing PPN-DBS with other treatments."
+      }
+    },
+    {
+      "id": "pubmed:31286005:0",
+      "score": 0.4898320734500885,
+      "metadata": {
+        "id": "pubmed:31286005:0",
+        "doc_id": "31286005",
+        "source": "pubmed",
+        "title": "Deep Brain Stimulation in Patients With Mutations in Parkinson's Disease-Related Genes: A Systematic Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31286005/",
+        "text": "Deep brain stimulation (DBS) is an effective treatment for Parkinson's disease (PD), and careful selection of candidates is a key component of successful therapy."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02561715:2",
+      "score": 0.485859751701355,
+      "metadata": {
+        "id": "clinicaltrials:NCT02561715:2",
+        "doc_id": "NCT02561715",
+        "source": "clinicaltrials",
+        "title": "Lack of Awareness of Symptoms (Anosognosia) in PD: An Observational Study for People With Parkinson's",
+        "study_type": "OBSERVATIONAL",
+        "year": "2020",
+        "url": "https://clinicaltrials.gov/study/NCT02561715",
+        "text": "Surgical Parkinson Disease Nurse Specialists have noticed that when reviewing the pre-surgery videos 12 months post-DBS, patients have forgotten and are shocked at how bad their symptoms were prior to surgery (personal communication), which may not be reflected in the change in QoL reported."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT04122690:0",
+      "score": 0.48295357823371887,
+      "metadata": {
+        "id": "clinicaltrials:NCT04122690:0",
+        "doc_id": "NCT04122690",
+        "source": "clinicaltrials",
+        "title": "Partnered Dance Aerobic Exercise as a Neuroprotective, Motor and Cognitive Intervention in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2026",
+        "url": "https://clinicaltrials.gov/study/NCT04122690",
+        "text": "The investigators will conduct a study in Veterans and non-Veterans with diagnosed PD to compare PDAE versus walking for OFF-time, cognition, and brain cell protection."
+      }
+    },
+    {
+      "id": "pubmed:36344398:1",
+      "score": 0.48200029134750366,
+      "metadata": {
+        "id": "pubmed:36344398:1",
+        "doc_id": "36344398",
+        "source": "pubmed",
+        "title": "Deep Brain Stimulation-Withdrawal Syndrome in Parkinson's Disease: Risk Factors and Pathophysiological Hypotheses of a Life-Threatening Emergency.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36344398/",
+        "text": "In addition, a trend for older age at the event and higher Unified Parkinson's Disease Rating Scale motor score before initial DBS implantation (evaluated in OFF-drug condition) was found (p < 0.05)."
+      }
+    },
+    {
+      "id": "pubmed:30704685:1",
+      "score": 0.4801352024078369,
+      "metadata": {
+        "id": "pubmed:30704685:1",
+        "doc_id": "30704685",
+        "source": "pubmed",
+        "title": "Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30704685/",
+        "text": "There are many medical options for the treatment of PD but levodopa remains the mainstay."
+      }
+    },
+    {
+      "id": "pubmed:38429947:0",
+      "score": 0.4795528054237366,
+      "metadata": {
+        "id": "pubmed:38429947:0",
+        "doc_id": "38429947",
+        "source": "pubmed",
+        "title": "Bidirectional Interplay between Deep Brain Stimulation and Cognition in Parkinson's Disease: A Systematic Review.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38429947/",
+        "text": "Deep brain stimulation (DBS) is efficacious for treating motor symptoms in Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01516281:1",
+      "score": 0.4793582856655121,
+      "metadata": {
+        "id": "clinicaltrials:NCT01516281:1",
+        "doc_id": "NCT01516281",
+        "source": "clinicaltrials",
+        "title": "Imaging Biomarkers of Delayed Sequelae in Trauma Brain Injury",
+        "study_type": "OBSERVATIONAL",
+        "year": "2019",
+        "url": "https://clinicaltrials.gov/study/NCT01516281",
+        "text": "The purpose of this study is to learn if a new brain imaging technology called DaTscan can detect subtle changes in the brain that are similar to those seen in early Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "pubmed:38608807:0",
+      "score": 0.47859475016593933,
+      "metadata": {
+        "id": "pubmed:38608807:0",
+        "doc_id": "38608807",
+        "source": "pubmed",
+        "title": "Effectiveness of Deep Brain Stimulation in Improving Balance in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+        "study_type": "Systematic Review, Journal Article, Meta-Analysis",
+        "year": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38608807/",
+        "text": "Balance dysfunction is a debilitating feature of advanced Parkinson's disease (PD), potentially improved by deep brain stimulation (DBS)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT01516281:0",
+      "score": 0.4769091010093689,
+      "metadata": {
+        "id": "clinicaltrials:NCT01516281:0",
+        "doc_id": "NCT01516281",
+        "source": "clinicaltrials",
+        "title": "Imaging Biomarkers of Delayed Sequelae in Trauma Brain Injury",
+        "study_type": "OBSERVATIONAL",
+        "year": "2019",
+        "url": "https://clinicaltrials.gov/study/NCT01516281",
+        "text": "This study is being done to learn if a new brain imaging technology called DaTscan can detect subtle changes in the brain (\"biomarkers\") that are similar to those seen in early Parkinson's disease (PD)."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02445651:0",
+      "score": 0.4756769835948944,
+      "metadata": {
+        "id": "clinicaltrials:NCT02445651:0",
+        "doc_id": "NCT02445651",
+        "source": "clinicaltrials",
+        "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2025",
+        "url": "https://clinicaltrials.gov/study/NCT02445651",
+        "text": "The object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system."
+      }
+    },
+    {
+      "id": "pubmed:32923280:2",
+      "score": 0.47462695837020874,
+      "metadata": {
+        "id": "pubmed:32923280:2",
+        "doc_id": "32923280",
+        "source": "pubmed",
+        "title": "Is Deep Brain Stimulation Associated With Detrimental Effects on Cognitive Functions in Patients of Parkinson's Disease? A Systematic Review.",
+        "study_type": "Journal Article, Review",
+        "year": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32923280/",
+        "text": "Thirteen studies, including randomized and non-randomized controlled trials, observational studies, and meta-analysis, were analyzed in detail."
+      }
+    },
+    {
+      "id": "pubmed:26968806:1",
+      "score": 0.4741207957267761,
+      "metadata": {
+        "id": "pubmed:26968806:1",
+        "doc_id": "26968806",
+        "source": "pubmed",
+        "title": "Programming Deep Brain Stimulation for Parkinson's Disease: The Toronto Western Hospital Algorithms.",
+        "study_type": "Journal Article, Review",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26968806/",
+        "text": "We conducted a literature search of PubMed from inception to July 2014 with the keywords \"deep brain stimulation\", \"festination\", \"freezing\", \"initial programming\", \"Parkinson's disease\", \"postural instability\", \"speech disturbances\", and \"stimulation induced dyskinesia\"."
+      }
+    },
+    {
+      "id": "pubmed:35401406:0",
+      "score": 0.47344785928726196,
+      "metadata": {
+        "id": "pubmed:35401406:0",
+        "doc_id": "35401406",
+        "source": "pubmed",
+        "title": "Use of Functional MRI in Deep Brain Stimulation in Parkinson's Diseases: A Systematic Review.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35401406/",
+        "text": "Deep brain stimulation (DBS) has been used to modulate aberrant circuits associated with Parkinson's disease (PD) for decades and has shown robust therapeutic benefits."
+      }
+    },
+    {
+      "id": "pubmed:40838518:0",
+      "score": 0.4726678133010864,
+      "metadata": {
+        "id": "pubmed:40838518:0",
+        "doc_id": "40838518",
+        "source": "pubmed",
+        "title": "Cognitive outcomes of deep brain stimulation depend on age and hippocampal connectivity in Parkinson's and Alzheimer's disease.",
+        "study_type": "Journal Article",
+        "year": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40838518/",
+        "text": "Here we contrast cognitive outcomes of deep brain stimulation (DBS) in Parkinson's disease (PD) with Alzheimer's disease (AD) to isolate the shared effect of DBS upon cognition while filtering out disease-specific effects."
+      }
+    },
+    {
+      "id": "pubmed:36515157:0",
+      "score": 0.4689083695411682,
+      "metadata": {
+        "id": "pubmed:36515157:0",
+        "doc_id": "36515157",
+        "source": "pubmed",
+        "title": "Management of REM sleep behavior disorder: an American Academy of Sleep Medicine clinical practice guideline.",
+        "study_type": "Journal Article, Practice Guideline, Research Support, Non-U.S. Gov't",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36515157/",
+        "text": "The AASM suggests that clinicians use transdermal rivastigmine (vs no treatment) for the treatment of secondary RBD due to medical condition (Parkinson disease) in adults."
+      }
+    },
+    {
+      "id": "pubmed:35535836:1",
+      "score": 0.4682402014732361,
+      "metadata": {
+        "id": "pubmed:35535836:1",
+        "doc_id": "35535836",
+        "source": "pubmed",
+        "title": "Idiopathic Parkinson's disease and chronic pain in the era of deep brain stimulation: a systematic review and meta-analysis.",
+        "study_type": "Meta-Analysis, Systematic Review, Journal Article",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35535836/",
+        "text": "Pain is the most common nonmotor symptom of Parkinson's disease (PD) and is often undertreated."
+      }
+    },
+    {
+      "id": "pubmed:34749005:1",
+      "score": 0.4676826000213623,
+      "metadata": {
+        "id": "pubmed:34749005:1",
+        "doc_id": "34749005",
+        "source": "pubmed",
+        "title": "Deep brain stimulation effect on anterior pallidum reduces motor impulsivity in Parkinson's disease.",
+        "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+        "year": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34749005/",
+        "text": "Seven Parkinson's patients with stable globus pallidus internus DBS settings for 3 months, disease duration of 13 ± 1.3 years, and Montreal Cognitive Assessment of 26.8 ± 1.1 each had two stimulation settings defined based on reconstructions of lead placement and volume of tissue activation targeting either a dorsal or ventral position along the DBS electrode but still within the globus pallidus internus."
+      }
+    },
+    {
+      "id": "pubmed:31269887:1",
+      "score": 0.4664018750190735,
+      "metadata": {
+        "id": "pubmed:31269887:1",
+        "doc_id": "31269887",
+        "source": "pubmed",
+        "title": "Suicide in Parkinson's Disease: A Systematic Review.",
+        "study_type": "Journal Article, Systematic Review",
+        "year": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31269887/",
+        "text": "We also reviewed the studies on suicide risk in Parkinson's disease in patients after deep brain stimulation."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02924194:0",
+      "score": 0.4662001132965088,
+      "metadata": {
+        "id": "clinicaltrials:NCT02924194:0",
+        "doc_id": "NCT02924194",
+        "source": "clinicaltrials",
+        "title": "Deep Brain Stimulation of the nbM to Treat Mild Cognitive Impairment in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT02924194",
+        "text": "This is a prospective, double-blind (patient and neuropsychologist), randomized, cross-over study to evaluate the safety of deep brain stimulation of the nucleus basalis of Meynert (nbM) in Parkinson's disease (PD) patients with mild cognitive impairment (PD-MCI) who are undergoing globus pallidus internus (GPi) stimulation for their motor symptoms."
+      }
+    },
+    {
+      "id": "pubmed:27539167:0",
+      "score": 0.4658679664134979,
+      "metadata": {
+        "id": "pubmed:27539167:0",
+        "doc_id": "27539167",
+        "source": "pubmed",
+        "title": "Psychiatric and Cognitive Effects of Deep Brain Stimulation for Parkinson's Disease.",
+        "study_type": "Journal Article, Review",
+        "year": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27539167/",
+        "text": "Deep brain stimulation (DBS) is effective for Parkinson's disease (PD), dystonia, and essential tremor (ET)."
+      }
+    },
+    {
+      "id": "pubmed:34352356:1",
+      "score": 0.465401291847229,
+      "metadata": {
+        "id": "pubmed:34352356:1",
+        "doc_id": "34352356",
+        "source": "pubmed",
+        "title": "Imaging-based programming of subthalamic nucleus deep brain stimulation in Parkinson's disease.",
+        "study_type": "Journal Article",
+        "year": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34352356/",
+        "text": "The objective of this study was to compare changes in motor symptoms of Parkinson's Disease (PD) and the corresponding volume of the electrostatic field (VEsF) achieved by DBS programming using GUIDE XT™, a commercially available software for visualization of DBS leads within the patient-specific anatomy from fusions of preoperative magnetic resonance imaging (MRI) and postoperative computed tomography (CT) scans, versus standard-of-care clinical programming."
+      }
+    },
+    {
+      "id": "clinicaltrials:NCT02924194:1",
+      "score": 0.4651848077774048,
+      "metadata": {
+        "id": "clinicaltrials:NCT02924194:1",
+        "doc_id": "NCT02924194",
+        "source": "clinicaltrials",
+        "title": "Deep Brain Stimulation of the nbM to Treat Mild Cognitive Impairment in Parkinson's Disease",
+        "study_type": "INTERVENTIONAL",
+        "year": "2021",
+        "url": "https://clinicaltrials.gov/study/NCT02924194",
+        "text": "The purpose of this study is to evaluate the safety and effectiveness of deep brain stimulation of the nucleus basalis of Meynert (also called the \"nbM\") at improving memory in Parkinson's disease patients with mild cognitive impairments and memory difficulties."
+      }
+    },
+    {
+      "id": "pubmed:38098761:1",
+      "score": 0.4651467204093933,
+      "metadata": {
+        "id": "pubmed:38098761:1",
+        "doc_id": "38098761",
+        "source": "pubmed",
+        "title": "Deep brain stimulation for chronic pain: a systematic review and meta-analysis.",
+        "study_type": "Systematic Review, Journal Article",
+        "year": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38098761/",
+        "text": "Our literature search identified two groups of subjects: one group underwent DBS specifically for chronic pain treatment (DBS-P), while the second group received DBS for other indications (DBS-O), such as Parkinson's disease or dystonia, with pain perception investigated as a secondary outcome in this population."
+      }
+    }
+  ],
+  "grouped_hits": [
+    {
+      "source": "pubmed",
+      "doc_id": "31046186",
+      "title": "MDS evidence-based review of treatments for essential tremor.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31046186/",
+      "semantic_score": 0.7337262630462646,
+      "matched_sentences": [
+        "We followed the recommendations of the International Parkinson and Movement Disorder Society Evidence Based Medicine Committee.",
+        "The International Parkinson and Movement Disorder Society commissioned a task force on tremor to review clinical studies of treatments for essential tremor.",
+        "To conduct an evidence-based review of current pharmacological and surgical treatments for essential tremor, using standardized criteria defined a priori by the International Parkinson and Movement Disorder Society."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40055961/",
+      "semantic_score": 0.719136655330658,
+      "matched_sentences": [
+        "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD).",
+        "On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00377351",
+      "title": "Confirmation of Self-Reported Incident ALS Cases in the AARP-Diet and Health (AARP-DH) Cohort",
+      "study_type": "OBSERVATIONAL",
+      "year": "2017",
+      "url": "https://clinicaltrials.gov/study/NCT00377351",
+      "semantic_score": 0.7002394199371338,
+      "matched_sentences": [
+        "The objective of this specific proposal is to ascertain the self-reported incident ALS cases from the AARP-DH study and obtain consent for medical release following the procedures set up for Parkinson's disease (PD) cases in the currently approved Parkinson's Genes and Environment (PAGE) Study IRB approval #06-E-N093."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03888287",
+      "title": "Parkinson's Disease Inpatient Clinical Knowledge and Management",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT03888287",
+      "semantic_score": 0.6959301233291626,
+      "matched_sentences": [
+        "A study by Chou et al., (2011) involving 51 worldwide National Parkinson Foundation Centers found 94% of centers were not confident in the care and knowledge hospital professionals provided specific to: PD medications, complex drug interactions, contraindications and precise timing of medication administration.",
+        "We are measuring the effect of a Parkinson's Disease Inpatient Clinical Knowledge and Management Program on adherence to Parkinson's Disease medication using a Parkinson's Disease Identification Wrist Band, smartwatch and medication schedule card Parkinson's Disease (PD), the second-most common neurodegenerative disorder and is ranked the fourteenth leading cause of death."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03407378",
+      "title": "A Study to Investigate a New Treatment in Patients With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT03407378",
+      "semantic_score": 0.6736780405044556,
+      "matched_sentences": [
+        "The purpose of this clinical trial conducted in patients with Parkinson's Disease is to study the relationship between patient individual profile and their response to IPT803 Adjunct Treatment (treatment response being characterized by movements improvement)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06998303",
+      "title": "Imaging Core Aim 2, and Udall Project 2 Aim 2",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06998303",
+      "semantic_score": 0.6563963890075684,
+      "matched_sentences": [
+        "More than one million people in the United States have Parkinson's disease (PD) and the prevalence is expected to double by 2040."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05011175",
+      "title": "Exercise Habits: A Survey of Individuals With Parkinson's Disease Living in the Community",
+      "study_type": "OBSERVATIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT05011175",
+      "semantic_score": 0.6521172523498535,
+      "matched_sentences": [
+        "This study aims to evaluate the exercise regimens of individuals with Parkinson's."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04273672",
+      "title": "Speech, Linguistic and Acoustic Markers in Parkinson's Disease",
+      "study_type": "OBSERVATIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT04273672",
+      "semantic_score": 0.6499367952346802,
+      "matched_sentences": [
+        "The Investigators will administer speech tasks and cognitive assessments to participants with Parkinson's disease and healthy controls.",
+        "The Investigators will also explore the associations between genetic factors and speech and cognitive status in Parkinson's disease.",
+        "The Investigators aim to identify speech and language markers that provide information on cognitive function and predict cognitive decline in Parkinson's disease."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03866603",
+      "title": "Rostock International Parkinson's Disease Study (ROPAD)",
+      "study_type": "OBSERVATIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT03866603",
+      "semantic_score": 0.6324358582496643,
+      "matched_sentences": [
+        "Rostock International Parkinson's Disease Study - An International, multicenter, epidemiological observational study aiming at identification of LRRK2-positive patients, the recruitment of 25,000 PD participants and the establishment of a candidate biomarker in the LRRK2-positive cohort."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38160999",
+      "title": "Deep brain stimulation with short versus conventional pulse width in Parkinson's disease and essential tremor: A systematic review and meta-analysis.",
+      "study_type": "Meta-Analysis, Systematic Review, Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38160999/",
+      "semantic_score": 0.6310274600982666,
+      "matched_sentences": [
+        "Nine Parkinson's disease (PD) (143 patients), 4 essential tremor (ET) (26 patients) and no dystonia studies were included in the meta-analysis."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT05502055",
+      "title": "Perspectives on Healthcare Access and Equity of People With Parkinson's Disease Identifying as LGBTQ+",
+      "study_type": "OBSERVATIONAL",
+      "year": "2024",
+      "url": "https://clinicaltrials.gov/study/NCT05502055",
+      "semantic_score": 0.6293931603431702,
+      "matched_sentences": [
+        "Impact on Diagnosis/Treatment of Parkinson's Disease: By understanding what LGBTQ+ people with PD need, and what ideas they have for improving their healthcare, better systems for meeting their needs can be built."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02445651",
+      "title": "Physiological Effects of Nutritional Support in Patients With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT02445651",
+      "semantic_score": 0.5946065783500671,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative disorder of unknown cause that affects more than a million Americans.",
+        "The object of this study is to evaluate whether nutritional supplementation with oral and IV N acetyl cysteine compounds, that have been shown to have either anti- inflammatory, or antioxidant effects, might support brain function in patients with Parkinson's disease, particularly in regards to the dopamine system."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40185525",
+      "title": "Treatment of Motor Symptoms of Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40185525/",
+      "semantic_score": 0.5937790870666504,
+      "matched_sentences": [
+        "The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37380539",
+      "title": "Long-term neuropsychological outcomes of deep brain stimulation in early-stage Parkinson's disease.",
+      "study_type": "Journal Article, Randomized Controlled Trial, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37380539/",
+      "semantic_score": 0.5922321677207947,
+      "matched_sentences": [
+        "The pilot trial of deep brain stimulation (DBS) in early-stage Parkinson's disease (PD) randomized 30 patients (medication duration 0.5-4 years; without dyskinesia or motor fluctuations) to receive optimal drug therapy alone (early ODT) or subthalamic nucleus (STN) DBS plus ODT (early DBS + ODT)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04122690",
+      "title": "Partnered Dance Aerobic Exercise as a Neuroprotective, Motor and Cognitive Intervention in Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT04122690",
+      "semantic_score": 0.5872701406478882,
+      "matched_sentences": [
+        "Importantly, the investigators will see if brain cells are protected using a brain scan that looks at the areas affected by PD to determine the relative amounts of different hormones in the brain that are related to having Parkinson's.",
+        "The investigators will conduct a study in Veterans and non-Veterans with diagnosed PD to compare PDAE versus walking for OFF-time, cognition, and brain cell protection."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37182899",
+      "title": "Closed-Loop Adaptive Deep Brain Stimulation in Parkinson's Disease: Procedures to Achieve It and Future Perspectives.",
+      "study_type": "Journal Article, Review, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37182899/",
+      "semantic_score": 0.5863839983940125,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a neurodegenerative disease with a heavy burden on patients, families, and society."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT04730466",
+      "title": "Cognitive Rehabilitation as a Balance Rehabilitation Strategy in Patients With Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2023",
+      "url": "https://clinicaltrials.gov/study/NCT04730466",
+      "semantic_score": 0.5841808319091797,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most common neurodegenerative disorder."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31950450",
+      "title": "Pedunculopontine Nucleus Deep Brain Stimulation Improves Gait Disorder in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+      "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31950450/",
+      "semantic_score": 0.5828178524971008,
+      "matched_sentences": [
+        "Compared to those presurgery, the Unified Parkinson Disease Rating Scale (UPDRS) 27-30 scores for patients were lowered by PPN-DBS [3.94 (95% confidence interval, CI = 1.23 to 6.65)].",
+        "We systematically searched PubMed, Cochrane, Web of Knowledge, Wan Fang and WIP for randomized and nonrandomized controlled trials (published before July 29, 2014; no language restrictions) comparing PPN-DBS with other treatments."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34602499",
+      "title": "Axial Impairment Following Deep Brain Stimulation in Parkinson's Disease: A Surgicogenomic Approach.",
+      "study_type": "Journal Article, Research Support, Non-U.S. Gov't",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34602499/",
+      "semantic_score": 0.5801161527633667,
+      "matched_sentences": [
+        "We aimed to identify genetic variants associated with clinical heterogeneity in DBS outcome of Parkinson's disease (PD) patients that could then be applied clinically to target selection leading to improved surgical outcome."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT03191916",
+      "title": "Transcranial Direct Current Stimulation for Cognitive Improvement in Parkinson's Patients",
+      "study_type": "INTERVENTIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT03191916",
+      "semantic_score": 0.5731322765350342,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06483126",
+      "title": "The Benefits of Nature for Mood and Cognition in Persons With and Without Parkinson's Disease",
+      "study_type": "OBSERVATIONAL",
+      "year": "2025",
+      "url": "https://clinicaltrials.gov/study/NCT06483126",
+      "semantic_score": 0.5713711977005005,
+      "matched_sentences": [
+        "This online study aims to explore the benefits of nature for mood and cognition in persons with and without Parkinson's disease."
+      ]
+    },
+    {
+      "source": "openalex",
+      "doc_id": "https://openalex.org/W35968382",
+      "title": "Characteristics and origin of anorogenic granites",
+      "study_type": "article",
+      "year": "1979",
+      "url": "http://ci.nii.ac.jp/naid/10019593683",
+      "semantic_score": 0.5655908584594727,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is a complex neurodegenerative disease."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38429947",
+      "title": "Bidirectional Interplay between Deep Brain Stimulation and Cognition in Parkinson's Disease: A Systematic Review.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38429947/",
+      "semantic_score": 0.5608019828796387,
+      "matched_sentences": [
+        "Primary outcomes were OFF-drug Unified Parkinson Disease Rating Scale Part III score and cognitive test scores.",
+        "Deep brain stimulation (DBS) is efficacious for treating motor symptoms in Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02422992",
+      "title": "Haptoglobin and Iron in Parkinson's Disease",
+      "study_type": "OBSERVATIONAL",
+      "year": "2016",
+      "url": "https://clinicaltrials.gov/study/NCT02422992",
+      "semantic_score": 0.5600872039794922,
+      "matched_sentences": [
+        "This is a case/control epidemiology study to identify what are the iron-metabolism abnormalities in Parkinson's disease (PD) patients, and risk factors relevant to PD predisposition."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00042120",
+      "title": "Farming and Movement Evaluation Study (FAME)",
+      "study_type": "OBSERVATIONAL",
+      "year": "2014",
+      "url": "https://clinicaltrials.gov/study/NCT00042120",
+      "semantic_score": 0.5551458597183228,
+      "matched_sentences": [
+        "We propose to investigate the relationship between Parkinson's disease and exposure to pesticides and other factors by conducting a nested case-control study in the Agricultural Health Study."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT06883266",
+      "title": "Transcranial Direct Current Stimulation for Motor Function and Fatigue in PD",
+      "study_type": "INTERVENTIONAL",
+      "year": "2026",
+      "url": "https://clinicaltrials.gov/study/NCT06883266",
+      "semantic_score": 0.5541156530380249,
+      "matched_sentences": [
+        "Parkinson's disease (PD) is the fastest growing and second most common neurodegenerative disease (after Alzheimer's disease) and affects approximately one million people in the United States."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39525613",
+      "title": "The effects of deep brain stimulation on sleep: a systematic review and meta-analysis.",
+      "study_type": "Journal Article, Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39525613/",
+      "semantic_score": 0.5501956343650818,
+      "matched_sentences": [
+        "In a subgroup meta-analysis of subthalamic nucleus (STN) DBS for Parkinson's disease (PD), patients showed significant sleep improvement at three but not 12 months postoperatively with PDSS, at 12 but not 3 months with Epworth sleep scale, and at 6 months with nonmotor symptom scale."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36442207",
+      "title": "The Effects of Deep Brain Stimulation in Patients with Multiple System Atrophy.",
+      "study_type": "Letter, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't, Research Support, U.S. Gov't, P.H.S.",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36442207/",
+      "semantic_score": 0.5461746454238892,
+      "matched_sentences": [
+        "In a retrospective review of 1,496 patients with MSA evaluated at our institutions from 1998-2021, 12 patients underwent DBS; 9 had a diagnosis of Parkinson's disease at the time of surgery."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35146054",
+      "title": "Preoperative Levodopa Response and Deep Brain Stimulation Effects on Motor Outcomes in Parkinson's Disease: A Systematic Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35146054/",
+      "semantic_score": 0.5427596569061279,
+      "matched_sentences": [
+        "The up-to-date literature systematically reviewing the predictive value of preoperative levodopa responsiveness after deep brain stimulation (DBS) surgery in motor outcomes in Parkinson's disease (PD) is lacking."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "28805564",
+      "title": "Deep Brain Stimulation and Nonmotor Symptoms.",
+      "study_type": "Journal Article, Review",
+      "year": "2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28805564/",
+      "semantic_score": 0.5376262664794922,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is currently the treatment of choice for advanced Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35912752",
+      "title": "The Role of Microelectrode Recording in Deep Brain Stimulation Surgery for Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+      "study_type": "Journal Article, Meta-Analysis, Systematic Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35912752/",
+      "semantic_score": 0.5355952382087708,
+      "matched_sentences": [
+        "STN-DBS is a cornerstone in the treatment of advanced Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "41973908",
+      "title": "Synthesis and Standardization of Outcomes in Severe Malaria Treatment Trials: Protocol for the Development of a Core Outcome Set (the COSSMaT Study).",
+      "study_type": "Journal Article",
+      "year": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41973908/",
+      "semantic_score": 0.5344512462615967,
+      "matched_sentences": [
+        "Searches covered the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via Ovid, and Literatura Latino-Americana em Ciências da Saúde (LILACS), as well as clinical trial registries, including the International Standard Randomised Controlled Trial Number (ISRCTN) registry, ClinicalTrials.gov, and the Pan-African Clinical Trial Registry (PACTR)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02924194",
+      "title": "Deep Brain Stimulation of the nbM to Treat Mild Cognitive Impairment in Parkinson's Disease",
+      "study_type": "INTERVENTIONAL",
+      "year": "2021",
+      "url": "https://clinicaltrials.gov/study/NCT02924194",
+      "semantic_score": 0.5328169465065002,
+      "matched_sentences": [
+        "Patients with Parkinson's disease (PD) that are eligible for Deep Brain Stimulation (DBS) therapy for improvement of their motor symptoms and with evidence of mild cognitive impairments and memory difficulties will be enrolled.",
+        "This is a prospective, double-blind (patient and neuropsychologist), randomized, cross-over study to evaluate the safety of deep brain stimulation of the nucleus basalis of Meynert (nbM) in Parkinson's disease (PD) patients with mild cognitive impairment (PD-MCI) who are undergoing globus pallidus internus (GPi) stimulation for their motor symptoms.",
+        "The purpose of this study is to evaluate the safety and effectiveness of deep brain stimulation of the nucleus basalis of Meynert (also called the \"nbM\") at improving memory in Parkinson's disease patients with mild cognitive impairments and memory difficulties."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "29741160",
+      "title": "Adaptive deep brain stimulation for Parkinson's disease using motor cortex sensing.",
+      "study_type": "Clinical Trial, Journal Article, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29741160/",
+      "semantic_score": 0.5318556427955627,
+      "matched_sentences": [
+        "We demonstrate the feasibility of 'adaptive deep brain stimulation' in two patients with Parkinson's disease.",
+        "Contemporary deep brain stimulation (DBS) for Parkinson's disease is delivered continuously, and adjustments based on patient's changing symptoms must be made manually by a trained clinician."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38995803",
+      "title": "Unmet Need in Early-Onset Parkinson's Disease: Deep Brain Stimulation and Pregnancy.",
+      "study_type": "Journal Article, Review, Research Support, N.I.H., Extramural, Research Support, Non-U.S. Gov't",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38995803/",
+      "semantic_score": 0.5301576256752014,
+      "matched_sentences": [
+        "Pregnancy in women with early-onset Parkinson's disease (PD) is likely to have a higher frequency given the trend toward increasing maternal age, thus resulting in a greater overlap time between childbearing age and PD risk."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38758903",
+      "title": "Deep brain stimulation in Parkinson's disease: A scientometric and bibliometric analysis, trends, and research hotspots.",
+      "study_type": "Journal Article",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38758903/",
+      "semantic_score": 0.5295928716659546,
+      "matched_sentences": [
+        "Parkinson disease (PD), a prevalent neurodegenerative ailment in the elderly, relies mainly on pharmacotherapy, yet deep brain stimulation (DBS) emerges as a vital remedy for refractory cases."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36591546",
+      "title": "Stroop Test for Parkinson's Disease with Deep Brain Stimulation: A Systematic Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36591546/",
+      "semantic_score": 0.524544894695282,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is considered an alternative treatment for patients with rapidly developing Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40910967",
+      "title": "Impact of Subthalamic Nucleus Deep Brain Stimulation on Gastrointestinal Symptoms and Gastric Emptying in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40910967/",
+      "semantic_score": 0.5161895751953125,
+      "matched_sentences": [
+        "This systematic review and meta-analysis evaluates the efficacy of bilateral subthalamic nucleus (STN) deep brain stimulation (DBS) in improving gastric motility in patients with Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "39151185",
+      "title": "Awake versus asleep deep brain stimulation for Parkinson's disease: a comprehensive systematic review and meta-analysis.",
+      "study_type": "Journal Article, Systematic Review, Meta-Analysis, Comparative Study",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39151185/",
+      "semantic_score": 0.5151773691177368,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) has become an effective and safe treatment in patients with Parkinson's disease (PD) not responding to conventional treatments."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27173938",
+      "title": "Low-frequency deep brain stimulation for Parkinson's disease: Great expectation or false hope?",
+      "study_type": "Journal Article, Review",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27173938/",
+      "semantic_score": 0.5128613710403442,
+      "matched_sentences": [
+        "The long-term efficacy of subthalamic deep brain stimulation for Parkinson's disease is not always retained, and many patients lose the improvement achieved during the \"second honeymoon\" following surgery."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38809271",
+      "title": "Short term cardiovascular symptoms improvement after deep brain stimulation in patients with Parkinson's disease: a systematic review.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38809271/",
+      "semantic_score": 0.5100183486938477,
+      "matched_sentences": [
+        "Autonomic dysfunction is common and disabling in Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40677143",
+      "title": "Towards Adaptive Deep Brain Stimulation for Non-Motor Symptoms in Parkinson's Disease?",
+      "study_type": "Journal Article, Review",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40677143/",
+      "semantic_score": 0.5098341703414917,
+      "matched_sentences": [
+        "Non-motor symptoms are prevalent, disabling, and difficult to treat at all stages of Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36224189",
+      "title": "A systematic review of brain morphometry related to deep brain stimulation outcome in Parkinson's disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36224189/",
+      "semantic_score": 0.5070998072624207,
+      "matched_sentences": [
+        "While the efficacy of deep brain stimulation (DBS) is well-established in Parkinson's Disease (PD), the benefit of DBS varies across patients."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "40838518",
+      "title": "Cognitive outcomes of deep brain stimulation depend on age and hippocampal connectivity in Parkinson's and Alzheimer's disease.",
+      "study_type": "Journal Article",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40838518/",
+      "semantic_score": 0.5067386031150818,
+      "matched_sentences": [
+        "Contrary to current clinical practice, older Parkinson's disease (PD) patients may benefit from deep brain stimulation (DBS).",
+        "Here we contrast cognitive outcomes of deep brain stimulation (DBS) in Parkinson's disease (PD) with Alzheimer's disease (AD) to isolate the shared effect of DBS upon cognition while filtering out disease-specific effects."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "26968806",
+      "title": "Programming Deep Brain Stimulation for Parkinson's Disease: The Toronto Western Hospital Algorithms.",
+      "study_type": "Journal Article, Review",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26968806/",
+      "semantic_score": 0.5060131549835205,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is an established and effective treatment for Parkinson's disease (PD).",
+        "We conducted a literature search of PubMed from inception to July 2014 with the keywords \"deep brain stimulation\", \"festination\", \"freezing\", \"initial programming\", \"Parkinson's disease\", \"postural instability\", \"speech disturbances\", and \"stimulation induced dyskinesia\"."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38608807",
+      "title": "Effectiveness of Deep Brain Stimulation in Improving Balance in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+      "study_type": "Systematic Review, Journal Article, Meta-Analysis",
+      "year": "2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38608807/",
+      "semantic_score": 0.4974331855773926,
+      "matched_sentences": [
+        "Most studies reported no significant improvement in Timed Up-and-Go scores, Berg Balance Scale scores, frequency of falls, and balance-related items of the Movement Disorder Society's Unified Parkinson's Disease Rating Scales.",
+        "Balance dysfunction is a debilitating feature of advanced Parkinson's disease (PD), potentially improved by deep brain stimulation (DBS)."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT00737217",
+      "title": "Executive, Activities of Daily Living, and Cholinergic Functions in Parkinson's Disease",
+      "study_type": "OBSERVATIONAL",
+      "year": "2013",
+      "url": "https://clinicaltrials.gov/study/NCT00737217",
+      "semantic_score": 0.49710848927497864,
+      "matched_sentences": [
+        "At the present time, the investigators have no clear information on the levels of acetylcholine in the brain of patients with Parkinson's disease who also have memory or behavioral changes."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "37964803",
+      "title": "A systematic review of health disparities research in deep brain stimulation surgery for Parkinson's disease.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37964803/",
+      "semantic_score": 0.49386727809906006,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is the primary surgical intervention for Parkinson's disease (PD) patients with insufficient response to medication, significantly improving motor symptoms and quality of life."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "33316487",
+      "title": "Application of Remote Deep Brain Stimulation Programming for Parkinson's Disease Patients.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33316487/",
+      "semantic_score": 0.4938623607158661,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is an important treatment for patients with advanced Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31286005",
+      "title": "Deep Brain Stimulation in Patients With Mutations in Parkinson's Disease-Related Genes: A Systematic Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31286005/",
+      "semantic_score": 0.4898320734500885,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is an effective treatment for Parkinson's disease (PD), and careful selection of candidates is a key component of successful therapy."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT02561715",
+      "title": "Lack of Awareness of Symptoms (Anosognosia) in PD: An Observational Study for People With Parkinson's",
+      "study_type": "OBSERVATIONAL",
+      "year": "2020",
+      "url": "https://clinicaltrials.gov/study/NCT02561715",
+      "semantic_score": 0.485859751701355,
+      "matched_sentences": [
+        "Surgical Parkinson Disease Nurse Specialists have noticed that when reviewing the pre-surgery videos 12 months post-DBS, patients have forgotten and are shocked at how bad their symptoms were prior to surgery (personal communication), which may not be reflected in the change in QoL reported."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36344398",
+      "title": "Deep Brain Stimulation-Withdrawal Syndrome in Parkinson's Disease: Risk Factors and Pathophysiological Hypotheses of a Life-Threatening Emergency.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36344398/",
+      "semantic_score": 0.48200029134750366,
+      "matched_sentences": [
+        "In addition, a trend for older age at the event and higher Unified Parkinson's Disease Rating Scale motor score before initial DBS implantation (evaluated in OFF-drug condition) was found (p < 0.05)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "30704685",
+      "title": "Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30704685/",
+      "semantic_score": 0.4801352024078369,
+      "matched_sentences": [
+        "There are many medical options for the treatment of PD but levodopa remains the mainstay."
+      ]
+    },
+    {
+      "source": "clinicaltrials",
+      "doc_id": "NCT01516281",
+      "title": "Imaging Biomarkers of Delayed Sequelae in Trauma Brain Injury",
+      "study_type": "OBSERVATIONAL",
+      "year": "2019",
+      "url": "https://clinicaltrials.gov/study/NCT01516281",
+      "semantic_score": 0.4793582856655121,
+      "matched_sentences": [
+        "The purpose of this study is to learn if a new brain imaging technology called DaTscan can detect subtle changes in the brain that are similar to those seen in early Parkinson's disease (PD).",
+        "This study is being done to learn if a new brain imaging technology called DaTscan can detect subtle changes in the brain (\"biomarkers\") that are similar to those seen in early Parkinson's disease (PD)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "32923280",
+      "title": "Is Deep Brain Stimulation Associated With Detrimental Effects on Cognitive Functions in Patients of Parkinson's Disease? A Systematic Review.",
+      "study_type": "Journal Article, Review",
+      "year": "2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32923280/",
+      "semantic_score": 0.47462695837020874,
+      "matched_sentences": [
+        "Thirteen studies, including randomized and non-randomized controlled trials, observational studies, and meta-analysis, were analyzed in detail."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35401406",
+      "title": "Use of Functional MRI in Deep Brain Stimulation in Parkinson's Diseases: A Systematic Review.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35401406/",
+      "semantic_score": 0.47344785928726196,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) has been used to modulate aberrant circuits associated with Parkinson's disease (PD) for decades and has shown robust therapeutic benefits."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "36515157",
+      "title": "Management of REM sleep behavior disorder: an American Academy of Sleep Medicine clinical practice guideline.",
+      "study_type": "Journal Article, Practice Guideline, Research Support, Non-U.S. Gov't",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36515157/",
+      "semantic_score": 0.4689083695411682,
+      "matched_sentences": [
+        "The AASM suggests that clinicians use transdermal rivastigmine (vs no treatment) for the treatment of secondary RBD due to medical condition (Parkinson disease) in adults."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "35535836",
+      "title": "Idiopathic Parkinson's disease and chronic pain in the era of deep brain stimulation: a systematic review and meta-analysis.",
+      "study_type": "Meta-Analysis, Systematic Review, Journal Article",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35535836/",
+      "semantic_score": 0.4682402014732361,
+      "matched_sentences": [
+        "Pain is the most common nonmotor symptom of Parkinson's disease (PD) and is often undertreated."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34749005",
+      "title": "Deep brain stimulation effect on anterior pallidum reduces motor impulsivity in Parkinson's disease.",
+      "study_type": "Journal Article, Research Support, N.I.H., Extramural",
+      "year": "2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34749005/",
+      "semantic_score": 0.4676826000213623,
+      "matched_sentences": [
+        "Seven Parkinson's patients with stable globus pallidus internus DBS settings for 3 months, disease duration of 13 ± 1.3 years, and Montreal Cognitive Assessment of 26.8 ± 1.1 each had two stimulation settings defined based on reconstructions of lead placement and volume of tissue activation targeting either a dorsal or ventral position along the DBS electrode but still within the globus pallidus internus."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "31269887",
+      "title": "Suicide in Parkinson's Disease: A Systematic Review.",
+      "study_type": "Journal Article, Systematic Review",
+      "year": "2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31269887/",
+      "semantic_score": 0.4664018750190735,
+      "matched_sentences": [
+        "We also reviewed the studies on suicide risk in Parkinson's disease in patients after deep brain stimulation."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "27539167",
+      "title": "Psychiatric and Cognitive Effects of Deep Brain Stimulation for Parkinson's Disease.",
+      "study_type": "Journal Article, Review",
+      "year": "2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27539167/",
+      "semantic_score": 0.4658679664134979,
+      "matched_sentences": [
+        "Deep brain stimulation (DBS) is effective for Parkinson's disease (PD), dystonia, and essential tremor (ET)."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "34352356",
+      "title": "Imaging-based programming of subthalamic nucleus deep brain stimulation in Parkinson's disease.",
+      "study_type": "Journal Article",
+      "year": "2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34352356/",
+      "semantic_score": 0.465401291847229,
+      "matched_sentences": [
+        "The objective of this study was to compare changes in motor symptoms of Parkinson's Disease (PD) and the corresponding volume of the electrostatic field (VEsF) achieved by DBS programming using GUIDE XT™, a commercially available software for visualization of DBS leads within the patient-specific anatomy from fusions of preoperative magnetic resonance imaging (MRI) and postoperative computed tomography (CT) scans, versus standard-of-care clinical programming."
+      ]
+    },
+    {
+      "source": "pubmed",
+      "doc_id": "38098761",
+      "title": "Deep brain stimulation for chronic pain: a systematic review and meta-analysis.",
+      "study_type": "Systematic Review, Journal Article",
+      "year": "2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38098761/",
+      "semantic_score": 0.4651467204093933,
+      "matched_sentences": [
+        "Our literature search identified two groups of subjects: one group underwent DBS specifically for chronic pain treatment (DBS-P), while the second group received DBS for other indications (DBS-O), such as Parkinson's disease or dystonia, with pain perception investigated as a secondary outcome in this population."
+      ]
+    }
+  ]
+}

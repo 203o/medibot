@@ -1,0 +1,29 @@
+{
+  "run_id": "7e70c0e67ff44a028f729ae7cc6753af",
+  "stored_at": "2026-04-15T14:03:11+00:00",
+  "query": "malaria hydration during treatment Kenya, Turkana",
+  "query_fallbacks": [
+    "malaria hydration during treatment Kenya, Turkana",
+    "malaria hydration during treatment",
+    "malaria"
+  ],
+  "keywords": [
+    "malaria",
+    "hydration",
+    "during",
+    "treatment",
+    "kenya",
+    "turkana"
+  ],
+  "sources": [
+    "pubmed"
+  ],
+  "counts": {
+    "pubmed": 1,
+    "clinicaltrials": 0
+  },
+  "files": {
+    "pubmed": "data\\raw\\2026-04-15\\7e70c0e67ff44a028f729ae7cc6753af\\pubmed.raw.json",
+    "combined": "data\\raw\\2026-04-15\\7e70c0e67ff44a028f729ae7cc6753af\\combined.records.json"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "run_id": "9b47c33bffc9464992ec6355decbed28",
+  "stored_at": "2026-04-18T14:00:44+00:00",
+  "query": "malaria latest treatment therapy management malawi",
+  "query_fallbacks": [
+    "malaria latest treatment therapy management malawi",
+    "malaria treatment efficacy Malawi",
+    "malaria management outcomes Malawi",
+    "current malaria therapy Malawi",
+    "malaria care practices Malawi",
+    "malaria latest treatment therapy management",
+    "malaria latest treatment therapy treatment",
+    "malaria malawi",
+    "malaria"
+  ],
+  "heuristic_fallbacks": [
+    "malaria latest treatment therapy management malawi",
+    "malaria latest treatment therapy management",
+    "malaria latest treatment therapy treatment",
+    "malaria malawi",
+    "malaria"
+  ],
+  "expanded_queries": [
+    "malaria treatment efficacy Malawi",
+    "malaria management outcomes Malawi",
+    "current malaria therapy Malawi",
+    "malaria care practices Malawi"
+  ],
+  "keywords": [
+    "malaria",
+    "latest",
+    "treatment",
+    "therapy",
+    "management",
+    "malawi"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 1,
+    "clinicaltrials": 30,
+    "openalex": 30,
+    "semantic_hits": 30,
+    "indexed_chunks": 82
+  },
+  "policy": {
+    "openalex_queried": true,
+    "openalex_reason": "pubmed_sparse_lt_12",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [
+      "malaria treatment efficacy Malawi",
+      "malaria management outcomes Malawi",
+      "current malaria therapy Malawi",
+      "malaria care practices Malawi"
+    ],
+    "reason": "ok"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9b47c33bffc9464992ec6355decbed28\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9b47c33bffc9464992ec6355decbed28\\clinicaltrials.raw.json",
+    "openalex": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9b47c33bffc9464992ec6355decbed28\\openalex.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9b47c33bffc9464992ec6355decbed28\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-18\\9b47c33bffc9464992ec6355decbed28\\combined.records.json"
+  }
+}

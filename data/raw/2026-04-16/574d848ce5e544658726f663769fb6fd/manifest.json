@@ -1,0 +1,58 @@
+{
+  "run_id": "574d848ce5e544658726f663769fb6fd",
+  "stored_at": "2026-04-16T16:32:57+00:00",
+  "query": "hiv hiv clinical question children Africa",
+  "query_fallbacks": [
+    "hiv hiv clinical question children Africa",
+    "hiv hiv clinical question children",
+    "hiv hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "heuristic_fallbacks": [
+    "hiv hiv clinical question children Africa",
+    "hiv hiv clinical question children",
+    "hiv hiv clinical question treatment",
+    "hiv africa",
+    "hiv"
+  ],
+  "expanded_queries": [],
+  "keywords": [
+    "hiv",
+    "clinical",
+    "question",
+    "children",
+    "africa"
+  ],
+  "sources": [
+    "pubmed",
+    "clinicaltrials",
+    "openalex"
+  ],
+  "counts": {
+    "pubmed": 30,
+    "clinicaltrials": 5,
+    "openalex": 0,
+    "semantic_hits": 60,
+    "indexed_chunks": 66
+  },
+  "policy": {
+    "openalex_queried": false,
+    "openalex_reason": "not_needed",
+    "openalex_sparse_threshold": 12
+  },
+  "query_expansion": {
+    "enabled": true,
+    "attempted": true,
+    "provider": "huggingface",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "expanded_queries": [],
+    "reason": "error:HfHubHTTPError"
+  },
+  "files": {
+    "pubmed": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\574d848ce5e544658726f663769fb6fd\\pubmed.raw.json",
+    "clinicaltrials": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\574d848ce5e544658726f663769fb6fd\\clinicaltrials.raw.json",
+    "semantic": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\574d848ce5e544658726f663769fb6fd\\semantic.raw.json",
+    "combined": "C:\\Users\\komen\\Desktop\\sqlite\\medibot\\data\\raw\\2026-04-16\\574d848ce5e544658726f663769fb6fd\\combined.records.json"
+  }
+}
