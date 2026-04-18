@@ -64,9 +64,11 @@ services:
       - key: FAISS_NAMESPACE
         value: pubmed-ai
       - key: FAISS_STORAGE_DIR
-        value: data/faiss
+        value: /tmp/faiss
       - key: FAISS_ENABLED
-        value: "false"
+        value: "true"
+      - key: FAISS_TOP_K
+        value: "50"
       - key: PUBMED_TOOL
         value: medibot
       - key: PUBMED_EMAIL
