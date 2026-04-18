@@ -10,7 +10,7 @@ from ingestion_api.services.embeddings import EMBED_DIMENSION
 
 class FaissStore:
     def __init__(self) -> None:
-        self.enabled = True
+        self.enabled = str(os.getenv("FAISS_ENABLED", "true")).strip().lower() in {"1", "true", "yes", "on"}
         self.index_name = os.getenv("FAISS_INDEX_NAME", "medibot-evidence")
         self.namespace = os.getenv("FAISS_NAMESPACE", "pubmed-ai")
         self.base_dir = Path(os.getenv("FAISS_STORAGE_DIR", "data/faiss"))

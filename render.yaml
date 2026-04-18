@@ -65,6 +65,8 @@ services:
         value: pubmed-ai
       - key: FAISS_STORAGE_DIR
         value: data/faiss
+      - key: FAISS_ENABLED
+        value: "false"
       - key: PUBMED_TOOL
         value: medibot
       - key: PUBMED_EMAIL
