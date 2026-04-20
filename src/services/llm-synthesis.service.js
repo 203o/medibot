@@ -471,7 +471,23 @@ async function synthesizeTieredAnswerWithLLM(context) {
             if (strict) {
                 return buildNoUsableFallback(compactContext);
             }
-            return null;
+            return {
+                enabled: false,
+                reason: result.reason || "no_usable_answer",
+                synthesisTier: "",
+                strictMode: strict,
+                answer: "",
+                direct_answer: "",
+                supporting_explanation: "",
+                evidence_points: [],
+                study_spotlight: {},
+                uncertainties: [],
+                claims: [],
+                citations: [],
+                evidence_mixed: false,
+                conflict_reason: "",
+                conflict_details: []
+            };
         }
 
         return {
@@ -496,7 +512,23 @@ async function synthesizeTieredAnswerWithLLM(context) {
         if (strict) {
             throw new Error(`Strict LLM mode: ${error.message}`);
         }
-        return null;
+        return {
+            enabled: false,
+            reason: `error:${error.message}`,
+            synthesisTier: "",
+            strictMode: strict,
+            answer: "",
+            direct_answer: "",
+            supporting_explanation: "",
+            evidence_points: [],
+            study_spotlight: {},
+            uncertainties: [],
+            claims: [],
+            citations: [],
+            evidence_mixed: false,
+            conflict_reason: "",
+            conflict_details: []
+        };
     }
 }
 

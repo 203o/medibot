@@ -454,7 +454,16 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
     for model_name in models:
         attempted_models.append(model_name)
         try:
-            parsed = _chat_json(model_name, system_prompt, user_prompt, max_tokens=max_tokens, temperature=0.1)
+            candidate = _chat_json(model_name, system_prompt, user_prompt, max_tokens=max_tokens, temperature=0.1)
+            if not isinstance(candidate, dict) or not candidate:
+                raise ValueError("empty_or_non_json_response")
+            has_signal = any(
+                bool(str(candidate.get(key, "")).strip())
+                for key in ("direct_answer", "supporting_explanation", "answer")
+            ) or bool(candidate.get("claims")) or bool(candidate.get("evidence_points"))
+            if not has_signal:
+                raise ValueError("no_structured_signal")
+            parsed = candidate
             last_error = None
             break
         except Exception as error:
