@@ -1,5 +1,5 @@
 function normalizeText(value) {
-    return String(value || "").trim().toLowerCase();
+    return String(value || "").trim().toLowerCase().replace(/[’]/g, "'");
 }
 
 const MEDICAL_SIGNALS = [
@@ -78,7 +78,7 @@ function greetingReply(variant = "generic") {
 
 function buildCaseRetrievalQuery(message = "") {
     const raw = String(message || "").trim();
-    const text = normalizeText(raw);
+    const text = normalizeText(raw).replace(/[’]/g, "'");
     if (!text) return { enabled: false, query: "", disease: "", reason: "empty" };
 
     const wordCount = text.split(/\s+/).filter(Boolean).length;

@@ -844,11 +844,14 @@ def classify_intent_attachment(payload: dict[str, Any]) -> dict[str, Any]:
 
     system_prompt = (
         "You are an intent attachment classifier for a medical evidence chatbot. "
+        "The root intent is the current active topic anchor for this turn, not the first historical topic in the session. "
         "Return JSON only."
     )
     user_prompt = (
         "Given the context, decide whether the current message attaches to root intent, previous turn, "
         "introduces new sub-intent, or is out of scope.\n\n"
+        "If the message clearly switches to a different disease or patient case, prefer new_subintent or root over previous_turn.\n"
+        "Do not keep an old disease as the root intent just because the session has prior context.\n\n"
         f"Root intent: {payload.get('root_intent', '')}\n"
         f"Conversation summary: {payload.get('conversation_summary', '')}\n"
         f"Last turn intent: {payload.get('last_turn_intent', '')}\n"
@@ -950,6 +953,7 @@ def reasoning_head(payload: dict[str, Any]) -> dict[str, Any]:
 
     system_prompt = (
         "You are a medical retrieval reasoning head. "
+        "Treat the root_intent as the current active topic anchor for this turn. "
         "Return strict JSON only. "
         "Decide intent routing and follow-up behavior for fast evidence retrieval."
     )
@@ -965,6 +969,7 @@ def reasoning_head(payload: dict[str, Any]) -> dict[str, Any]:
         "- reason: short explanation\n\n"
         "Rules:\n"
         "- If message is clearly medical and changes topic (e.g. smoking risk), use new_subintent (not out_of_scope).\n"
+        "- If the message shifts to a different disease or patient case than the current root intent, use new_subintent or root and set should_refetch=true.\n"
         "- Use out_of_scope only for clearly non-medical asks.\n"
         "- Prefer refetch=true for new_subintent, refetch=false for simple refinements.\n\n"
         f"Message: {payload.get('message', '')}\n"

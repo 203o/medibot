@@ -14,7 +14,7 @@ function normalizeText(value = "") {
 }
 
 function heuristicDisease(message = "") {
-    const text = String(message || "").toLowerCase();
+    const text = String(message || "").toLowerCase().replace(/[’]/g, "'");
     const matches = [
         "non-small cell lung cancer",
         "lung cancer",

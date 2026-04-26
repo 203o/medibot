@@ -35,12 +35,25 @@ async function runReasoningHead({ message, intent, previousMemory = {}, turns = 
     }
 
     const lastUser = (turns || []).filter((turn) => turn.role === "user").slice(-1)[0];
+    const currentRootIntent = String(
+        intent?.disease
+        || intent?.intent
+        || previousMemory.lastQueryFacets?.disease
+        || previousMemory.intents?.slice(-1)[0]
+        || ""
+    ).trim();
+    const previousRootIntent = String(
+        previousMemory.lastQueryFacets?.disease
+        || previousMemory.intents?.slice(-1)[0]
+        || intent?.intent
+        || ""
+    ).trim();
     const payload = {
         message: message || "",
         disease: intent?.disease || previousMemory.lastQueryFacets?.disease || "",
         location: intent?.location?.normalized || previousMemory.lastQueryFacets?.location || "",
-        root_intent: previousMemory.intents?.[0] || intent?.intent || "",
-        previous_intent: String(lastUser?.intent?.intent || previousMemory.intents?.slice(-1)[0] || intent?.intent || ""),
+        root_intent: currentRootIntent,
+        previous_intent: String(lastUser?.intent?.intent || previousRootIntent || intent?.intent || ""),
         conversation_summary: summarizeConversation(previousMemory, turns),
         has_previous_context: hasPriorContext(previousMemory, turns)
     };
@@ -66,4 +79,3 @@ async function runReasoningHead({ message, intent, previousMemory = {}, turns = 
 module.exports = {
     runReasoningHead
 };
-

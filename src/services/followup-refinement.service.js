@@ -1,5 +1,61 @@
 function normalizeText(value) {
-    return String(value || "").toLowerCase().trim();
+    return String(value || "").toLowerCase().trim().replace(/[’]/g, "'");
+}
+
+function normalizeDiseaseTopic(value = "") {
+    let text = normalizeText(value);
+    text = text
+        .replace(/\bnon[-\s]*small[-\s]*cell lung cancer\b/g, "lung cancer")
+        .replace(/\bsmall[-\s]*cell lung cancer\b/g, "lung cancer")
+        .replace(/\bnsclc\b/g, "lung cancer")
+        .replace(/\bparkinson(?:'s|s)\s+disease\b/g, "parkinson disease")
+        .replace(/\bparkinson(?:'s|s)?\b(?!\s+disease)/g, "parkinson disease");
+    return text.replace(/\s+/g, " ").trim();
+}
+
+function diseaseTokens(value = "") {
+    return normalizeDiseaseTopic(value).split(/[^a-z0-9]+/).filter((token) => token.length > 2);
+}
+
+function sameDiseaseTopic(left = "", right = "") {
+    const normalizedLeft = normalizeDiseaseTopic(left);
+    const normalizedRight = normalizeDiseaseTopic(right);
+    if (!normalizedLeft || !normalizedRight) return false;
+    if (normalizedLeft === normalizedRight) return true;
+    if (normalizedLeft.includes(normalizedRight) || normalizedRight.includes(normalizedLeft)) return true;
+
+    const leftTokens = diseaseTokens(normalizedLeft);
+    const rightTokens = diseaseTokens(normalizedRight);
+    if (!leftTokens.length || !rightTokens.length) return false;
+
+    const overlap = leftTokens.filter((token) => rightTokens.includes(token)).length;
+    const minimumRequired = Math.max(1, Math.ceil(Math.min(leftTokens.length, rightTokens.length) * 0.5));
+    return overlap >= minimumRequired;
+}
+
+function currentDiseaseTopic(intent = {}, previousMemory = {}) {
+    return normalizeDiseaseTopic(
+        intent.disease
+        || previousMemory.lastQueryFacets?.disease
+        || ""
+    );
+}
+
+function hasTopicShift(message = "", intent = {}, previousMemory = {}) {
+    const currentTopic = currentDiseaseTopic(intent, previousMemory);
+    const previousTopic = normalizeDiseaseTopic(
+        previousMemory.lastQueryFacets?.disease
+        || ""
+    );
+    if (!currentTopic || !previousTopic) return false;
+    if (sameDiseaseTopic(currentTopic, previousTopic)) return false;
+
+    const messageText = normalizeDiseaseTopic(message);
+    const currentTerms = diseaseTokens(currentTopic);
+    const previousTerms = diseaseTokens(previousTopic);
+    const currentMentioned = messageText.includes(currentTopic) || currentTerms.some((term) => messageText.includes(term));
+    const previousMentioned = messageText.includes(previousTopic) || previousTerms.some((term) => messageText.includes(term));
+    return currentMentioned && !previousMentioned;
 }
 
 function tokenize(text = "") {
@@ -97,6 +153,9 @@ function detectFollowupDecision(message, intent, previousMemory = {}, turns = []
     if (!hasPreviousContext) {
         return { isFollowup: false, decisionReason: "first_turn_guard" };
     }
+    if (hasTopicShift(message, intent, previousMemory)) {
+        return { isFollowup: false, decisionReason: "topic_shift_new_root" };
+    }
     if (/^(what about|how about|and |what of|in |for |how does|is there|recheck|rechek|explain|elaborate)/.test(text)) {
         return { isFollowup: true, decisionReason: "followup_phrase_with_prior_context" };
     }
@@ -110,13 +169,31 @@ function detectFollowupDecision(message, intent, previousMemory = {}, turns = []
 }
 
 function reconstructQuery(intent, previousMemory, constraint) {
-    const disease = intent.disease || previousMemory.lastQueryFacets?.disease || "";
+    const disease = normalizeDiseaseTopic(intent.disease || previousMemory.lastQueryFacets?.disease || "");
     const location = intent.location?.normalized || previousMemory.lastQueryFacets?.location || "";
     const focus = mapFocusToIntentText(previousMemory.lastAnswerFocus || previousMemory.lastQueryFacets?.retrievalMode || "")
         || String(previousMemory.intents?.slice(-1)[0] || "").trim();
     const population = constraint?.label || "";
     const age = ageConstraint(intent.normalizedMessage || intent.intent || "");
     return cleanQuery([disease, focus, population, age, location].filter(Boolean).join(" "));
+}
+
+function evidenceMatchesCurrentTopic(item, intent = {}) {
+    const disease = currentDiseaseTopic(intent, {});
+    if (!disease) return true;
+
+    const evidenceText = normalizeDiseaseTopic([
+        item.title || "",
+        item.snippet || "",
+        ...(item.evidenceSentences || []),
+        ...(item.matchedSentences || [])
+    ].join(" "));
+    const topicTerms = diseaseTokens(disease);
+    if (!topicTerms.length) return true;
+
+    const covered = topicTerms.filter((term) => evidenceText.includes(term)).length;
+    const requiredCoverage = topicTerms.length >= 3 ? 2 : topicTerms.length;
+    return covered >= requiredCoverage;
 }
 
 function extractMedicalIntentTerms(message) {
@@ -185,12 +262,25 @@ function getLastTurnContext(turns = [], previousMemory = {}) {
 
 async function classifyIntentAttachmentWithLLM({ message, intent, previousMemory, turns }) {
     const { lastTurnIntent, lastTurnMessage } = getLastTurnContext(turns, previousMemory);
+    const currentRootIntent = String(
+        intent?.disease
+        || intent?.intent
+        || previousMemory.lastQueryFacets?.disease
+        || previousMemory.intents?.slice(-1)[0]
+        || ""
+    ).trim();
+    const previousRootIntent = String(
+        previousMemory.lastQueryFacets?.disease
+        || previousMemory.intents?.slice(-1)[0]
+        || intent?.intent
+        || ""
+    ).trim();
     const response = await fetch(`${getIngestionBaseUrl()}/classify-intent-attachment`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
             message: message || "",
-            root_intent: previousMemory.intents?.[0] || previousMemory.lastQueryFacets?.retrievalMode || intent.intent || "",
+            root_intent: currentRootIntent,
             conversation_summary: buildConversationSummary(previousMemory, turns),
             last_turn_intent: lastTurnIntent,
             last_turn_message: lastTurnMessage,
@@ -295,17 +385,20 @@ function matchConstraint(item, constraint) {
     };
 }
 
-function refineEvidencePool(pool, constraint) {
+function refineEvidencePool(pool, constraint, intent = {}) {
     const refined = pool.map((item) => {
         const match = matchConstraint(item, constraint);
-        const boostedScore = Number(item.score || 0) + (match.matched ? 0.35 : -0.15);
+        const topicMatch = evidenceMatchesCurrentTopic(item, intent);
+        const matched = match.matched && topicMatch;
+        const boostedScore = Number(item.score || 0) + (matched ? 0.35 : -0.15);
         return {
             ...item,
-            tier: match.matched ? (item.tier === "tier1" ? "tier1" : "tier2") : "tier3",
+            tier: matched ? (item.tier === "tier1" ? "tier1" : "tier2") : "tier3",
             score: boostedScore,
             reuseMatch: {
-                matched: match.matched,
-                terms: match.matchedTerms
+                matched,
+                terms: matched ? match.matchedTerms : [],
+                topicMatch
             }
         };
     }).sort((a, b) => b.score - a.score);
@@ -332,19 +425,66 @@ function mergeEvidencePools(primary = [], secondary = []) {
 }
 
 async function planFollowupReuse({ message, intent, previousMemory, turns, reasoningHead = null }) {
+    const topicShift = hasTopicShift(message, intent, previousMemory);
+    const pool = getMemoryEvidencePool(previousMemory, turns);
+    const constraint = populationConstraint(message);
+    const age = ageConstraint(message);
+    const reconstructedRootQuery = reconstructQuery(intent, previousMemory, constraint);
+
+    if (topicShift) {
+        const freshQuery = cleanQuery([
+            normalizeDiseaseTopic(intent.disease || ""),
+            normalizeDiseaseTopic(message || ""),
+            intent.location?.normalized || previousMemory.lastQueryFacets?.location || ""
+        ].filter(Boolean).join(" "));
+        return {
+            isFollowup: false,
+            reconstructedQuery: freshQuery || reconstructedRootQuery,
+            constraint: constraint?.label || "",
+            ageConstraint: age,
+            shouldRefetch: true,
+            followupDecisionReason: "topic_shift_new_root",
+            reuseReason: "new_topic_refetch",
+            reuseStats: {
+                poolCount: pool.length,
+                matchedCount: 0,
+                coverageScore: 0
+            },
+            reusedEvidence: [],
+            fetchIntent: {
+                ...intent,
+                intent: freshQuery || intent.intent,
+                retrievalQuery: freshQuery || intent.intent
+            },
+            expansion: {
+                used: false,
+                reason: "topic_shift_new_root",
+                fallbackUsed: false,
+                expandedQuery: "",
+                keywords: extractMedicalIntentTerms(message)
+            },
+            attachment: {
+                enabled: false,
+                reason: "topic_shift_new_root",
+                attachment: "root",
+                intent: "",
+                query: "",
+                confidence: 0
+            },
+            forceOutOfScope: false
+        };
+    }
+
     if (reasoningHead?.enabled) {
-        const pool = getMemoryEvidencePool(previousMemory, turns);
-        const constraint = populationConstraint(message);
-        const age = ageConstraint(message);
         const reconstructedQuery = cleanQuery(
             reasoningHead.refined_query
-            || [intent.disease, message, intent.location?.normalized].filter(Boolean).join(" ")
+            || [normalizeDiseaseTopic(intent.disease || ""), normalizeDiseaseTopic(message || ""), intent.location?.normalized].filter(Boolean).join(" ")
         );
         const isFollowup = !!reasoningHead.is_followup;
-        const { refined, matchedCount, coverageScore } = refineEvidencePool(pool, constraint);
+        const { refined, matchedCount, coverageScore } = refineEvidencePool(pool, constraint, intent);
         const minMatchedForReuse = Number(process.env.FOLLOWUP_REUSE_MIN_MATCHED || 5);
         const hardRefetchByMatchCount = matchedCount <= (minMatchedForReuse - 1);
-        const shouldRefetch = (reasoningHead.should_refetch !== false) || hardRefetchByMatchCount;
+        const shouldRefetch = (reasoningHead.should_refetch !== false) || hardRefetchByMatchCount || topicShift;
 
         const fetchIntent = {
             ...intent,
@@ -359,13 +499,15 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
             ageConstraint: age,
             shouldRefetch,
             followupDecisionReason: "unified_reasoning_head",
-            reuseReason: shouldRefetch ? (pool.length ? "reasoning_head_refetch" : "reasoning_head_empty_refetch") : "reasoning_head_reuse",
+            reuseReason: shouldRefetch
+                ? (topicShift ? "topic_shift_new_root" : (pool.length ? "reasoning_head_refetch" : "reasoning_head_empty_refetch"))
+                : "reasoning_head_reuse",
             reuseStats: {
                 poolCount: pool.length,
                 matchedCount,
                 coverageScore: Number(coverageScore.toFixed(3))
             },
-            reusedEvidence: refined,
+            reusedEvidence: topicShift ? [] : refined,
             fetchIntent,
             expansion: {
                 used: false,
@@ -418,10 +560,6 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
             forceOutOfScope: false
         };
     }
-
-    const constraint = populationConstraint(message);
-    const age = ageConstraint(message);
-    const reconstructedRootQuery = reconstructQuery(intent, previousMemory, constraint);
 
     let attachmentMeta = {
         enabled: false,
@@ -576,8 +714,7 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
         }
     }
 
-    const pool = getMemoryEvidencePool(previousMemory, turns);
-    const { refined, matchedCount, coverageScore } = refineEvidencePool(pool, constraint);
+    const { refined, matchedCount, coverageScore } = refineEvidencePool(pool, constraint, intent);
     const minTier1 = Number(process.env.FOLLOWUP_REUSE_MIN_MATCHED || 2);
     const minCoverage = Number(process.env.FOLLOWUP_REUSE_MIN_COVERAGE || 0.35);
     const hasReusableCoverage = matchedCount >= minTier1 && coverageScore >= minCoverage;
