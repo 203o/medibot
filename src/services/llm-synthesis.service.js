@@ -171,6 +171,16 @@ function dedupeCaution(text) {
     ).trim();
 }
 
+function labelSection(label, text) {
+    const normalized = String(text || "").trim();
+    if (!normalized) return "";
+    const bareLabel = String(label || "").replace(/:$/, "").trim().toLowerCase();
+    if (normalized.toLowerCase().startsWith(bareLabel)) {
+        return normalized;
+    }
+    return `${label} ${normalized}`.trim();
+}
+
 function hasStructuredSignal(payload) {
     const points = Array.isArray(payload?.evidence_points)
         ? payload.evidence_points.map((item) => String(item || "").trim()).filter(Boolean)
@@ -248,7 +258,7 @@ function buildNoUsableFallback(context) {
         .slice(0, 3);
 
     const overviewLine = headlineItems.length
-        ? `Evidence overview: ${headlineItems.map((item) => `- ${item.title || item.summary} [${item.id}]`).join(" ")}`
+        ? `Evidence snapshot:\n${headlineItems.map((item) => `- ${item.title || item.summary} [${item.id}]`).join("\n")}`
         : "Available studies are related but not specific enough to produce a high-confidence claim.";
 
     const query = String(context?.question || "").toLowerCase();
@@ -256,19 +266,19 @@ function buildNoUsableFallback(context) {
     const isLatestTreatment = /(latest|recent|current)/.test(query) && /(treatment|therapy|management|intervention)/.test(query);
 
     const direct = isLatestTreatment
-        ? `Latest ${condition} treatment evidence points to active therapeutic strategy research, with regimen choice depending on subtype and clinical setting.`
-        : "Insufficient direct evidence to provide a definitive answer for this exact phrasing.";
+        ? `The evidence points to several ${condition} treatment directions rather than one universal latest treatment.`
+        : "The retrieved evidence is related, but it is not specific enough to give a definitive answer for this exact phrasing.";
     const support = isLatestTreatment
-        ? "Retrieved studies are relevant but not fully case-matched enough for a high-confidence single recommendation."
-        : "Available studies are related but not specific enough to produce a high-confidence claim.";
+        ? "The studies are relevant, but the best option still depends on subtype, stage, biomarkers, and prior treatment."
+        : "The studies are related, but they do not resolve the question cleanly.";
 
     const answer = dedupeCaution([
-        direct,
-        support,
+        `Plain-language takeaway: ${direct}`,
+        `Why this matters: ${support}`,
         overviewLine,
         "Evidence is partial; interpret cautiously.",
         citationsText
-    ].filter(Boolean).join(" "));
+    ].filter(Boolean).join("\n\n"));
 
     return {
         enabled: true,
@@ -302,10 +312,10 @@ function buildDetailedAnswer(payload, direct, support, claimDerived, warning, ci
 
     const sections = [];
     const lead = direct || claimDerived;
-    if (lead) sections.push(lead);
-    if (support) sections.push(support);
+    if (lead) sections.push(labelSection("Plain-language takeaway:", lead));
+    if (support) sections.push(labelSection("Why this matters:", support));
     if (evidencePoints.length) {
-        sections.push(`Evidence overview: ${evidencePoints.map((item) => `- ${item}`).join(" ")}`);
+        sections.push(`Evidence snapshot:\n${evidencePoints.map((item) => `- ${item}`).join("\n")}`);
     }
 
     const spotlightParts = [];
@@ -318,12 +328,12 @@ function buildDetailedAnswer(payload, direct, support, claimDerived, warning, ci
         sections.push(`Study spotlight: ${spotlightParts.join(" | ")}`);
     }
     if (uncertainties.length) {
-        sections.push(`Uncertainty: ${uncertainties.join(" | ")}`);
+        sections.push(`Remaining uncertainty: ${uncertainties.join(" | ")}`);
     }
 
-    const base = sections.filter(Boolean).join(" ").trim();
+    const base = sections.filter(Boolean).join("\n\n").trim();
     const shouldAddWarning = warning && !includesCaution(base);
-    return dedupeCaution([base, shouldAddWarning ? warning : "", citationsText].filter(Boolean).join(" ").trim());
+    return dedupeCaution([base, shouldAddWarning ? warning : "", citationsText].filter(Boolean).join("\n\n").trim());
 }
 
 async function synthesizeTieredAnswerWithLLM(context) {

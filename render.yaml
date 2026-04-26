@@ -40,7 +40,7 @@ services:
       - key: LLM_SYNTHESIS_MAX_CHUNKS
         value: "6"
       - key: LLM_SYNTHESIS_MAX_TOKENS
-        value: "420"
+        value: "700"
       - key: LLM_SYNTHESIS_TITLE_CHARS
         value: "110"
       - key: LLM_SYNTHESIS_SUMMARY_CHARS

@@ -350,24 +350,25 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
 
     tone_rules = {
         "clinical": (
-            "- Use a calm, professional, evidence-based clinical tone.\n"
+            "- Use a calm, professional, plain-language clinical tone.\n"
             "- Avoid speculation, hype, and emotional wording.\n"
             "- Use short clear paragraphs and neutral language."
         ),
         "conversational": (
             "- Use friendly but professional language.\n"
-            "- Keep explanations clear and easy to follow.\n"
+            "- Keep explanations clear, easy to follow, and user-facing.\n"
             "- Avoid slang, jokes, and emojis."
         ),
         "concise": (
             "- Be brief and high-signal.\n"
             "- Prefer compact sentences and minimal filler.\n"
-            "- Keep uncertainty statements short and precise."
+            "- Keep uncertainty statements short and precise while still explaining the takeaway."
         ),
     }
 
     system_prompt = (
-        "You are a conservative medical evidence summarizer. "
+        "You are a medically cautious evidence explainer. "
+        "Turn the supplied evidence into a user-facing answer that explains the takeaway in plain language. "
         "Use PRIMARY evidence as the main basis. Use SUPPLEMENTAL only to qualify. "
         "Never invent facts. Do not use outside knowledge. Return JSON only.\n"
         f"Tone mode: {tone_mode}\n"
@@ -413,12 +414,12 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
         + (f"\nResearch focus hints: {', '.join(research_focus)}\n" if research_focus else "")
         + (f"\nCase anchors: {json.dumps(case_anchors)}\n" if case_anchors else "")
         + "\n\nOutput JSON with keys:\n"
-        '- direct_answer (string)\n'
-        '- supporting_explanation (string)\n'
-        '- evidence_points (array of 3-5 concise evidence bullets)\n'
-        '- research_landscape (array of concise bullets)\n'
+        '- direct_answer (string, one-to-two sentence plain-language answer)\n'
+        '- supporting_explanation (string, explain what the evidence means and why it matters)\n'
+        '- evidence_points (array of 3-5 concise evidence bullets that summarize the pattern, not paper wording)\n'
+        '- research_landscape (array of concise bullets about broader directions and trends)\n'
         '- relevant_trials (array of concise bullets, include trial relevance to this case)\n'
-        '- progression_research (array of concise bullets)\n'
+        '- progression_research (array of concise bullets about progression or next-step research)\n'
         '- monitoring_research (array of concise bullets, e.g., ctDNA/MRD/imaging)\n'
         '- evidence_gaps (array of concise bullets)\n'
         '- study_spotlight (object: {id,title,population,key_finding,limitation})\n'
@@ -435,7 +436,10 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
         "- Every claim must have at least one citation from allowed IDs.\n"
         "- If evidence is insufficient, say so clearly.\n"
         "- If studies disagree, state evidence is mixed and explain likely reasons.\n"
-        "- Prefer a detailed response with concrete study-level specifics, not generic statements."
+        "- Prefer a detailed response that synthesizes the evidence into a practical takeaway.\n"
+        "- Include study-level specifics only when they help the user understand the takeaway.\n"
+        "- Avoid article-style paraphrase or sentence-by-sentence repetition from the papers.\n"
+        "- Do not start the answer with labels like 'Primary evidence' or 'Additional primary evidence'."
         + "\n- Keep tone consistent with the requested tone mode."
         + ("\n- RESEARCH DISCOVERY MODE is active: summarize relevant research areas, active/ongoing trials, emerging therapies, and evidence gaps."
            "\n- Do NOT provide direct treatment recommendations or clinical decisions."

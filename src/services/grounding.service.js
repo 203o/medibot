@@ -21,20 +21,9 @@ function contentTokens(text = "") {
 }
 
 function detectAnswerBasis(intent, answerEvidence = []) {
-    const queryTokens = unique([
-        ...contentTokens(intent?.intent || ""),
-        ...contentTokens(intent?.normalizedMessage || "")
-    ]);
-    if (queryTokens.length < 2) {
-        return "evidence";
-    }
-
-    const evidenceText = (answerEvidence || [])
-        .map((item) => `${item?.title || ""} ${pickEvidenceStatement(item) || ""}`.toLowerCase())
-        .join(" ");
-
-    const matched = queryTokens.filter((token) => evidenceText.includes(token)).length;
-    return matched === 0 ? "general_knowledge" : "evidence";
+    // Treat any answer-grounding evidence as evidence-based.
+    // Lexical overlap is too brittle for broad review-style questions.
+    return (answerEvidence || []).length > 0 ? "evidence" : "general_knowledge";
 }
 
 function buildEvidenceSummary(rankedEvidence) {
@@ -132,14 +121,108 @@ function detectConflict(items) {
     return polarities.includes("positive") && polarities.includes("negative");
 }
 
+function collectEvidenceText(items = []) {
+    return items
+        .map((item) => [
+            item.title,
+            item.snippet,
+            item.studyType,
+            ...(item.matchedSentences || []),
+            ...(item.evidenceSentences || [])
+        ].filter(Boolean).join(" "))
+        .join(" ")
+        .toLowerCase();
+}
+
+const EVIDENCE_THEME_PATTERNS = [
+    {
+        label: "targeted therapy",
+        patterns: [/\btargeted therapy\b/i, /\begfr\b/i, /\balk\b/i, /\bros1\b/i, /\bbiomarker\b/i, /\bmutation\b/i]
+    },
+    {
+        label: "immunotherapy",
+        patterns: [/\bimmunotherapy\b/i, /\bcheckpoint\b/i, /\bpd-?l1\b/i, /\bpembrolizumab\b/i, /\bnivolumab\b/i, /\batezolizumab\b/i, /\bcemiplimab\b/i]
+    },
+    {
+        label: "chemotherapy combinations",
+        patterns: [/\bchemotherapy\b/i, /\bdocetaxel\b/i, /\bcarboplatin\b/i, /\bpaclitaxel\b/i, /\bramucirumab\b/i]
+    },
+    {
+        label: "radiation-based approaches",
+        patterns: [/\bradiation\b/i, /\bradiotherapy\b/i, /\bchemoradiation\b/i]
+    },
+    {
+        label: "surgery or perioperative strategies",
+        patterns: [/\bsurgery\b/i, /\bsurgical\b/i, /\bneoadjuvant\b/i, /\badjuvant\b/i, /\bresection\b/i]
+    },
+    {
+        label: "clinical trials",
+        patterns: [/\bclinical trial\b/i, /\btrial\b/i, /\bphase\s+[ivx]+\b/i, /\bNCT\d+\b/i, /\brecruiting\b/i, /\bongoing\b/i]
+    }
+];
+
+function extractEvidenceThemes(items = []) {
+    const text = collectEvidenceText(items);
+    const themes = [];
+    for (const theme of EVIDENCE_THEME_PATTERNS) {
+        if (theme.patterns.some((pattern) => pattern.test(text)) && !themes.includes(theme.label)) {
+            themes.push(theme.label);
+        }
+        if (themes.length >= 3) break;
+    }
+    return themes;
+}
+
+function formatThemeList(themes = []) {
+    const items = (themes || []).filter(Boolean);
+    if (!items.length) return "";
+    if (items.length === 1) return items[0];
+    if (items.length === 2) return `${items[0]} and ${items[1]}`;
+    return `${items.slice(0, -1).join(", ")}, and ${items[items.length - 1]}`;
+}
+
+function buildPlainLanguageLead(intent, answerEvidence, supplementalEvidence = []) {
+    const queryText = String(intent?.normalizedMessage || intent?.intent || "").toLowerCase();
+    const diseaseLabel = resolveCaseConditionLabel(intent, answerEvidence);
+    const combinedEvidence = [...(answerEvidence || []), ...(supplementalEvidence || [])];
+    const themes = extractEvidenceThemes(combinedEvidence);
+    const hasTrials = combinedEvidence.some((item) => item.source === "clinicaltrials");
+    const treatmentQuestion = /(treatment|therapy|intervention|management|care)/.test(queryText) || intent?.retrievalMode === "clinical_guidance";
+    const latestQuestion = /(latest|current|newest|recent)/.test(queryText);
+    const cancerLike = /cancer|oncology|tumou?r|carcinoma|nsclc/i.test(`${diseaseLabel} ${queryText}`);
+    const sentences = [];
+
+    if (treatmentQuestion || latestQuestion) {
+        sentences.push("In plain language, the evidence points to several treatment directions rather than one universal latest treatment.");
+    } else {
+        sentences.push("In plain language, the evidence points to a pattern of findings rather than a single paper-level conclusion.");
+    }
+
+    if (themes.length) {
+        sentences.push(`The main directions showing up are ${formatThemeList(themes)}.`);
+    } else {
+        sentences.push("The retrieved studies are useful for the big picture, but they do not collapse into one simple headline answer.");
+    }
+
+    if (cancerLike) {
+        sentences.push("For cancer, the best option usually depends on subtype, stage, biomarkers, and prior treatment.");
+    }
+
+    if (hasTrials) {
+        sentences.push("Some of the newest options are still being tested in clinical trials, so the answer is still evolving.");
+    }
+
+    return sentences.join(" ");
+}
+
 function buildGroundedClaims(primaryEvidence, supportingEvidence) {
     const primaryClaims = primaryEvidence.slice(0, 2).map((item, index) => {
         const studyLabel = item.studyType ? ` (${item.studyType})` : "";
-        return `${index === 0 ? "Primary evidence" : "Additional primary evidence"}${studyLabel}: ${pickEvidenceStatement(item)}`;
+        return `${index === 0 ? "Key supporting source" : "Additional supporting source"}${studyLabel}: ${pickEvidenceStatement(item)}`;
     });
     const supportingClaims = supportingEvidence.slice(0, 1).map((item) => {
         const studyLabel = item.studyType ? ` (${item.studyType})` : "";
-        return `Supporting evidence${studyLabel}: ${pickEvidenceStatement(item)}`;
+        return `Supplemental source${studyLabel}: ${pickEvidenceStatement(item)}`;
     });
     return [...primaryClaims, ...supportingClaims];
 }
@@ -167,8 +250,8 @@ function buildSupplement(intent, supplementalEvidence) {
 
     const supplementalSource = supplementalEvidence[0].source;
     const sourceLabel = supplementalSource === "clinicaltrials"
-        ? "Registered or ongoing ClinicalTrials evidence also indicates"
-        : "Published background evidence also indicates";
+        ? "A related clinical trial signal suggests"
+        : "Published background evidence suggests";
 
     const statements = supplementalEvidence.slice(0, 2).map((item) => pickEvidenceStatement(item)).join(" ");
     const caution = supplementalSource === "clinicaltrials" && (intent.retrievalMode === "ongoing_studies" || intent.retrievalMode === "intervention_landscape")
@@ -287,7 +370,11 @@ function buildCaseResearchAnswer(intent, rankedEvidence = []) {
 function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null, options = {}) {
     const sourcePolicy = buildSourcePolicy(intent);
     const { tiered: byTier, primaryLane, supplementalLane, exploratoryLane } = selectLaneEvidence(rankedEvidence, sourcePolicy);
-    const answerEvidence = [...primaryLane.slice(0, 2)];
+    const primaryAnswerEvidence = [...primaryLane.slice(0, 2)];
+    const answerEvidence = primaryAnswerEvidence.length > 0
+        ? primaryAnswerEvidence
+        : [...(rankedEvidence || []).slice(0, 2)];
+    const usedFallbackEvidence = primaryAnswerEvidence.length === 0 && answerEvidence.length > 0;
     const supplementText = buildSupplement(intent, supplementalLane.slice(0, 1));
     const evidenceIds = answerEvidence.map((item) => item.id);
     const supplementalMappings = supplementalLane.slice(0, 1).map((item, index) => ({
@@ -315,23 +402,32 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
     let answer = "The available evidence is limited for this request.";
     if (answerEvidence.length > 0) {
         const opener = intent.retrievalMode === "ongoing_studies"
-            ? `For ${intent.disease || "this topic"}, the most relevant current registered studies suggest`
+            ? `For ${intent.disease || "this topic"}, here is what the current studies are pointing to:`
             : intent.retrievalMode === "intervention_landscape"
-                ? `For ${intent.disease || "this topic"}, the most relevant intervention-focused evidence suggests`
+                ? `For ${intent.disease || "this topic"}, here is the treatment landscape:`
                 : intent.disease
-                    ? `For ${intent.disease}, the strongest directly relevant evidence suggests`
-                    : "The strongest directly relevant evidence suggests";
+                    ? `For ${intent.disease}, here is the practical takeaway:`
+                    : "Here is the practical takeaway:";
+        const plainLanguageLead = buildPlainLanguageLead(intent, answerEvidence, supplementalLane);
         const locationLine = intent.location.normalized
-            ? ` Location context used: ${intent.location.normalized}.`
+            ? `Location context used: ${intent.location.normalized}.`
             : "";
         const previousLine = previousMemory.lastAnswerSummary
-            ? " This answer also preserves the previous validated context."
+            ? "This answer also preserves the previous validated context."
             : "";
         const conflictLine = detectConflict(answerEvidence)
-            ? " The available top-tier evidence is mixed, so the answer should be interpreted cautiously."
+            ? "The available top-tier evidence is mixed, so the answer should be interpreted cautiously."
             : "";
-        const claimLines = buildGroundedClaims(primaryLane, []).join(" ");
-        const deterministicAnswer = `${opener}.${locationLine}${previousLine}${conflictLine} ${claimLines}`.trim();
+        const claimLines = buildGroundedClaims(answerEvidence, []).map((line) => `- ${line}`).join("\n");
+        const deterministicSections = [
+            `${opener} ${plainLanguageLead}`.trim(),
+            locationLine,
+            previousLine,
+            conflictLine,
+            claimLines ? `Supporting evidence:\n${claimLines}` : "",
+            supplementText ? `Additional context: ${supplementText}` : ""
+        ].filter(Boolean);
+        const deterministicAnswer = deterministicSections.join("\n").trim();
         if (llmSynthesis?.enabled && llmSynthesis.answer) {
             const llmAnswer = String(llmSynthesis.answer || "").trim();
             const hasCaution = /evidence is partial;?\s*interpret cautiously|evidence is partial and should be interpreted cautiously/i.test(llmAnswer);
@@ -340,9 +436,6 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
                 : llmAnswer;
         } else {
             answer = deterministicAnswer;
-            if (supplementText) {
-                answer = `${answer} ${supplementText}`.trim();
-            }
         }
     }
 
@@ -395,6 +488,9 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
     if (previousMemory.lastEvidenceIds?.length) {
         insights.push(`Previous validated evidence IDs in session: ${previousMemory.lastEvidenceIds.join(", ")}.`);
     }
+    if (usedFallbackEvidence) {
+        insights.push("Primary answer lane was empty; top-ranked fallback evidence was used instead.");
+    }
 
     const llmReason = String(llmSynthesis?.reason || "");
     const synthesisWeak = llmReason.includes("insufficient")
@@ -410,10 +506,12 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
         checks: [
             {
                 name: "Tiered evidence retrieved",
-                status: answerEvidence.length > 0 ? "pass" : "fail",
+                status: answerEvidence.length > 0 ? (usedFallbackEvidence ? "warn" : "pass") : "fail",
                 detail: answerEvidence.length > 0
-                    ? `Main answer grounded in ${sourcePolicy.primary} ${byTier.tier1.length > 0 ? "tier1" : "tier2"} evidence.`
-                    : "No tier1 or tier2 evidence could be retrieved."
+                    ? (usedFallbackEvidence
+                        ? "No tier1 or tier2 evidence was available, so the answer used the top-ranked fallback evidence."
+                        : `Main answer grounded in ${sourcePolicy.primary} ${byTier.tier1.length > 0 ? "tier1" : "tier2"} evidence.`)
+                    : "No answer-grounding evidence could be selected."
             },
             {
                 name: "Source mapping",
