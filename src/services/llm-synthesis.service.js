@@ -437,9 +437,6 @@ async function synthesizeTieredAnswerWithLLM(context) {
             if (!direct && !support && !claimDerived && !structuredSignal) {
                 return { ok: false, reason: "no_usable_answer", contextUsed: baseContext };
             }
-            if (tier === "C" && !strict) {
-                return { ok: false, reason: "tier_c_non_strict", contextUsed: baseContext };
-            }
 
             const synthesizedDirect = direct || (structuredSignal ? "The retrieved evidence provides partial but relevant findings." : "");
             const synthesizedSupport = support || (structuredSignal ? "The studies are informative but do not fully resolve the question." : "");

@@ -34,11 +34,9 @@ function sameDiseaseTopic(left = "", right = "") {
 }
 
 function currentDiseaseTopic(intent = {}, previousMemory = {}) {
-    return normalizeDiseaseTopic(
-        intent.disease
-        || previousMemory.lastQueryFacets?.disease
-        || ""
-    );
+    // Only treat the current turn's disease as the topic anchor.
+    // Previous memory is used later for follow-up reconstruction, not for deciding whether the topic shifted.
+    return normalizeDiseaseTopic(intent.disease || "");
 }
 
 function hasTopicShift(message = "", intent = {}, previousMemory = {}) {

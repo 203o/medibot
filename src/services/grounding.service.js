@@ -21,15 +21,16 @@ function contentTokens(text = "") {
 }
 
 function detectAnswerBasis(intent, answerEvidence = []) {
-    // Treat any answer-grounding evidence as evidence-based.
-    // Lexical overlap is too brittle for broad review-style questions.
+    // If we have any answer-grounding evidence, treat the response as evidence-based.
+    // Lexical overlap alone is too brittle for broad review-style questions.
     return (answerEvidence || []).length > 0 ? "evidence" : "general_knowledge";
 }
 
-function buildEvidenceSummary(rankedEvidence) {
+function buildEvidenceSummary(intent, rankedEvidence) {
+    const summarizedEvidence = filterEvidenceForSummary(intent, rankedEvidence);
     const requestedLimit = Number(process.env.SURFACED_EVIDENCE_K || 8);
     const surfacedLimit = Math.min(8, Math.max(6, requestedLimit));
-    return rankedEvidence.slice(0, surfacedLimit).map((item) => ({
+    return summarizedEvidence.slice(0, surfacedLimit).map((item) => ({
         id: item.id,
         source: item.source,
         platform: platformLabel(item.source),
@@ -301,14 +302,54 @@ function resolveCaseConditionLabel(intent = {}, rankedEvidence = []) {
     return "this condition";
 }
 
+function normalizeCaseDisease(value = "") {
+    return String(value || "")
+        .toLowerCase()
+        .replace(/[’]/g, "'")
+        .replace(/\bnon[-\s]*small[-\s]*cell lung cancer\b/g, "lung cancer")
+        .replace(/\bsmall[-\s]*cell lung cancer\b/g, "lung cancer")
+        .replace(/\bnsclc\b/g, "lung cancer")
+        .replace(/\bparkinson(?:'s|s)?\s+disease\b/g, "parkinson disease")
+        .replace(/\bparkinson(?:'s|s)?\b(?!\s+disease)/g, "parkinson disease")
+        .replace(/\s+/g, " ")
+        .trim();
+}
+
+function evidenceMatchesCaseDisease(intent = {}, item = {}) {
+    const disease = normalizeCaseDisease(intent?.disease || "");
+    if (!disease) return true;
+
+    const evidenceText = normalizeCaseDisease([
+        item.title || "",
+        item.snippet || "",
+        ...(item.matchedSentences || []),
+        ...(item.evidenceSentences || [])
+    ].join(" "));
+    if (!evidenceText) return false;
+    if (evidenceText.includes(disease)) return true;
+
+    const diseaseTokens = disease.split(/[^a-z0-9]+/).filter((token) => token.length > 2);
+    if (!diseaseTokens.length) return true;
+
+    const overlap = diseaseTokens.filter((token) => evidenceText.includes(token)).length;
+    const required = diseaseTokens.length >= 3 ? 2 : diseaseTokens.length;
+    return overlap >= required;
+}
+
+function filterEvidenceForSummary(intent = {}, rankedEvidence = []) {
+    const disease = normalizeCaseDisease(intent?.disease || "");
+    if (!disease) return rankedEvidence || [];
+    const aligned = (rankedEvidence || []).filter((item) => evidenceMatchesCaseDisease(intent, item));
+    return aligned.length > 0 ? aligned : [];
+}
+
 function buildCaseResearchAnswer(intent, rankedEvidence = []) {
     const anchors = parseCaseAnchorsFromIntent(intent);
     const conditionLabel = resolveCaseConditionLabel(intent, rankedEvidence);
-    const evidencePool = (rankedEvidence || []).slice(0, 7);
+    const diseaseAlignedEvidence = filterEvidenceForSummary(intent, rankedEvidence);
+    const evidencePool = diseaseAlignedEvidence.slice(0, 7);
     const top = evidencePool.slice(0, 5);
     const citations = [...new Set(top.map((item) => item.id).filter(Boolean))];
-    if (!top.length) return "";
-
     const anchorParts = [
         anchors.stage,
         anchors.pdl1,
@@ -319,6 +360,21 @@ function buildCaseResearchAnswer(intent, rankedEvidence = []) {
     const anchorLine = anchorParts.length
         ? `Case anchors used: ${anchorParts.join(", ")}.`
         : "";
+    if (!top.length) {
+        return [
+            `Research discovery summary: The current retrieval did not surface clearly case-matched evidence for ${conditionLabel}.`,
+            anchorLine,
+            "Research landscape:",
+            "- The available studies in this turn are broad background evidence rather than a clean match to the case.",
+            "Evidence gaps and uncertainty:",
+            `- Directly case-matched evidence for ${conditionLabel} remains limited across the retrieved set.`,
+            "- Study populations and endpoints vary, so transportability to this exact profile is uncertain.",
+            "This is a research-focused summary, not clinical advice."
+        ]
+            .filter(Boolean)
+            .join("\n")
+            .trim();
+    }
 
     const evidenceOverview = top
         .map((item) => `- ${item.title || "Untitled source"} [${item.id}]`)
@@ -400,6 +456,9 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
     }));
 
     let answer = "The available evidence is limited for this request.";
+    const llmAnswer = llmSynthesis?.enabled && llmSynthesis.answer
+        ? String(llmSynthesis.answer || "").trim()
+        : "";
     if (answerEvidence.length > 0) {
         const opener = intent.retrievalMode === "ongoing_studies"
             ? `For ${intent.disease || "this topic"}, here is what the current studies are pointing to:`
@@ -428,14 +487,15 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
             supplementText ? `Additional context: ${supplementText}` : ""
         ].filter(Boolean);
         const deterministicAnswer = deterministicSections.join("\n").trim();
-        if (llmSynthesis?.enabled && llmSynthesis.answer) {
-            const llmAnswer = String(llmSynthesis.answer || "").trim();
+        if (llmAnswer) {
             const hasCaution = /evidence is partial;?\s*interpret cautiously|evidence is partial and should be interpreted cautiously/i.test(llmAnswer);
             answer = llmSynthesis.synthesisTier === "B" && !hasCaution
                 ? `${llmAnswer} Evidence is partial and should be interpreted cautiously.`
                 : llmAnswer;
         } else {
-            answer = deterministicAnswer;
+            answer = options.caseMode
+                ? buildCaseResearchAnswer(intent, rankedEvidence) || deterministicAnswer
+                : deterministicAnswer;
         }
     }
 
@@ -445,7 +505,7 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
     ).trim();
 
     const caseMode = !!options.caseMode;
-    if (caseMode) {
+    if (caseMode && !llmAnswer) {
         const caseAnswer = buildCaseResearchAnswer(intent, rankedEvidence);
         if (caseAnswer) {
             answer = caseAnswer;
@@ -490,6 +550,9 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
     }
     if (usedFallbackEvidence) {
         insights.push("Primary answer lane was empty; top-ranked fallback evidence was used instead.");
+    }
+    if (caseMode && llmAnswer) {
+        insights.push("Case narrative detected; LLM synthesis was used as the main answer and the case snapshot stayed in the evidence lanes.");
     }
 
     const llmReason = String(llmSynthesis?.reason || "");
@@ -680,7 +743,7 @@ function buildFinalResponse({ sessionId, message, intent, rankedEvidence, previo
         supplement: answerPayload.supplement,
         insights: answerPayload.insights,
         confidence: answerPayload.validation.confidence,
-        evidence: buildEvidenceSummary(rankedEvidence),
+        evidence: buildEvidenceSummary(intent, rankedEvidence),
         retrieval: {
             mode: intent.retrievalMode,
             autofill: retrievalMeta.autofill || null,

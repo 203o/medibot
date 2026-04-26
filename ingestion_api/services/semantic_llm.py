@@ -60,6 +60,7 @@ def _chat_json(
     user_prompt: str,
     max_tokens: int,
     temperature: float = 0.1,
+    allow_raw_fallback: bool = False,
 ) -> dict[str, Any]:
     provider = os.getenv("LLM_CHAT_PROVIDER", "huggingface").strip().lower()
     timeout = max(3.0, min(float(os.getenv("LLM_SEMANTIC_TIMEOUT_SEC", "15")), 45.0))
@@ -91,7 +92,12 @@ def _chat_json(
             max_tokens=max_tokens,
         )
         content = (completion.choices[0].message.content or "").strip()
-    return _extract_json_object(content)
+    parsed = _extract_json_object(content)
+    if parsed:
+        return parsed
+    if allow_raw_fallback and content:
+        return {"_raw_content": content}
+    return {}
 
 def _trim_text(value: Any, max_chars: int) -> str:
     text = str(value or "").strip()
@@ -458,13 +464,24 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
     for model_name in models:
         attempted_models.append(model_name)
         try:
-            candidate = _chat_json(model_name, system_prompt, user_prompt, max_tokens=max_tokens, temperature=0.1)
+            candidate = _chat_json(
+                model_name,
+                system_prompt,
+                user_prompt,
+                max_tokens=max_tokens,
+                temperature=0.1,
+                allow_raw_fallback=True
+            )
             if not isinstance(candidate, dict) or not candidate:
                 raise ValueError("empty_or_non_json_response")
+            raw_content = str(candidate.pop("_raw_content", "")).strip()
             has_signal = any(
                 bool(str(candidate.get(key, "")).strip())
                 for key in ("direct_answer", "supporting_explanation", "answer")
             ) or bool(candidate.get("claims")) or bool(candidate.get("evidence_points"))
+            if not has_signal and raw_content:
+                candidate["answer"] = raw_content
+                has_signal = True
             if not has_signal:
                 raise ValueError("no_structured_signal")
             parsed = candidate
