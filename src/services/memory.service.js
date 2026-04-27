@@ -23,8 +23,7 @@ function createEmptyMemory(sessionId) {
         lastRetrievedIds: [],
         lastRetrievedEvidence: [],
         lastAnswerFocus: "",
-        lastQueryFacets: {},
-        activeCaseFrame: {}
+        lastQueryFacets: {}
     };
 }
 

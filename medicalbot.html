@@ -645,11 +645,9 @@
 </main>
 
 <script>
-    const isLocalHost = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-    const isFileProtocol = window.location.protocol === "file:";
     const API_BASE = window.__MEDIBOT_API_BASE__
         || localStorage.getItem("MEDIBOT_API_BASE")
-        || ((isLocalHost || isFileProtocol)
+        || (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
             ? "http://localhost:4000/api"
             : "/api");
     const STORAGE_KEY = "medibot-chat-session-v2";

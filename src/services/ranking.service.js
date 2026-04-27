@@ -4,54 +4,6 @@ const SOURCE_WEIGHT = {
     openalex: 0.6
 };
 
-const BROAD_DISEASE_LABELS = new Set([
-    "cancer",
-    "disease",
-    "infection",
-    "condition",
-    "syndrome",
-    "disorder",
-    "malignancy",
-    "tumor",
-    "tumour",
-    "illness"
-]);
-
-const BROAD_DISEASE_SUBTYPE_MARKERS = [
-    "prostate",
-    "lung",
-    "breast",
-    "colorectal",
-    "colon",
-    "rectal",
-    "pancreatic",
-    "ovarian",
-    "bladder",
-    "thyroid",
-    "melanoma",
-    "leukemia",
-    "lymphoma",
-    "glioblastoma",
-    "renal",
-    "kidney",
-    "cervical",
-    "gastric",
-    "esophageal",
-    "hepatic",
-    "liver"
-];
-
-const GENERAL_EVIDENCE_MARKERS = [
-    "review",
-    "overview",
-    "guideline",
-    "consensus",
-    "best practices",
-    "practice guideline",
-    "systematic review",
-    "meta-analysis"
-];
-
 const HYDRATION_TERMS = ["hydration", "water", "fluids", "dehydration", "oral intake", "supportive care", "oral rehydration", "fluid therapy"];
 
 function countMatches(text, terms) {
@@ -118,28 +70,6 @@ function diseaseMatchesEvidence(intent, evidenceText) {
     const covered = tokens.filter((token) => evidenceText.includes(token)).length;
     const required = tokens.length >= 3 ? 2 : tokens.length;
     return covered >= required;
-}
-
-function isBroadDiseaseIntent(intent) {
-    const disease = String(intent.disease || "").toLowerCase().trim();
-    if (!disease) return false;
-    if (BROAD_DISEASE_LABELS.has(disease)) return true;
-    const tokens = disease.split(/[^a-z0-9]+/).filter(Boolean);
-    return tokens.length <= 1;
-}
-
-function getBroadDiseaseAdjustment(intent, evidenceText) {
-    if (!isBroadDiseaseIntent(intent)) return 0;
-
-    const hasGeneralMarker = GENERAL_EVIDENCE_MARKERS.some((term) => evidenceText.includes(term));
-    const subtypeHits = BROAD_DISEASE_SUBTYPE_MARKERS.filter((term) => evidenceText.includes(term)).length;
-
-    let adjustment = hasGeneralMarker ? 0.2 : 0;
-    if (subtypeHits > 0) {
-        adjustment -= Math.min(0.22 + (subtypeHits * 0.08), 0.5);
-    }
-
-    return adjustment;
 }
 
 function getSourceSpecificBoost(item, intent) {
@@ -312,7 +242,6 @@ function scoreEvidence(item, intent) {
     const llmConfidence = typeof llmSemantic.confidence === "number" ? llmSemantic.confidence : 0;
     const llmRelevanceBoost = llmSemantic.relevant === true ? Math.min(0.12, llmConfidence * 0.12) : 0;
     const llmIrrelevantPenalty = llmSemantic.relevant === false ? 0.1 : 0;
-    const broadDiseaseAdjustment = getBroadDiseaseAdjustment(intent, evidenceText);
 
     const metrics = {
         diseaseMatch,
@@ -347,7 +276,6 @@ function scoreEvidence(item, intent) {
         substancePenalty +
         llmRelevanceBoost -
         llmIrrelevantPenalty +
-        broadDiseaseAdjustment +
         sourceWeightBoost
     ).toFixed(2));
 

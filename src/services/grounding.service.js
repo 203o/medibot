@@ -640,15 +640,6 @@ function buildUpdatedMemory(previousMemory, intent, answerPayload, rankedEvidenc
     } else if (/treatment|manage|guidance|care/.test(intentText) || intent.retrievalMode === "clinical_guidance") {
         lastAnswerFocus = "treatment";
     }
-    const previousFrame = previousMemory.activeCaseFrame || {};
-    const activeCaseFrame = {
-        ...previousFrame,
-        ...(intent.activeCaseFrame || {}),
-        disease: String(intent.activeCaseFrame?.disease || intent.disease || previousFrame.disease || previousMemory.lastQueryFacets?.disease || "").trim(),
-        location: String(intent.activeCaseFrame?.location || intent.location?.normalized || previousFrame.location || previousMemory.lastQueryFacets?.location || "").trim(),
-        retrievalMode: String(intent.activeCaseFrame?.retrievalMode || intent.retrievalMode || previousFrame.retrievalMode || previousMemory.lastQueryFacets?.retrievalMode || "").trim(),
-        intent: String(intent.activeCaseFrame?.intent || intent.intent || previousFrame.intent || "").trim()
-    };
 
     return {
         sessionId: previousMemory.sessionId,
@@ -663,11 +654,10 @@ function buildUpdatedMemory(previousMemory, intent, answerPayload, rankedEvidenc
         lastRetrievedIds: unique([...(answerPayload.evidenceIds || []), ...((answerPayload.lanes?.supplementalEvidence) || []), ...((answerPayload.lanes?.exploratoryEvidence) || [])]),
         lastRetrievedEvidence: compactRetrievedEvidence(rankedEvidence),
         lastAnswerFocus,
-        activeCaseFrame,
         lastQueryFacets: {
-            disease: activeCaseFrame.disease || intent.disease || "",
-            location: activeCaseFrame.location || intent.location?.normalized || "",
-            retrievalMode: activeCaseFrame.retrievalMode || intent.retrievalMode || "",
+            disease: intent.disease || "",
+            location: intent.location?.normalized || "",
+            retrievalMode: intent.retrievalMode || "",
             substances: intent.substances || [],
             symptoms: intent.symptoms || []
         }
@@ -808,8 +798,7 @@ function buildFinalResponse({ sessionId, message, intent, rankedEvidence, previo
             lastRetrievedIds: updatedMemory.lastRetrievedIds,
             lastRetrievedEvidenceCount: (updatedMemory.lastRetrievedEvidence || []).length,
             lastAnswerFocus: updatedMemory.lastAnswerFocus,
-            lastQueryFacets: updatedMemory.lastQueryFacets,
-            activeCaseFrame: updatedMemory.activeCaseFrame
+            lastQueryFacets: updatedMemory.lastQueryFacets
         },
         conversation: {
             grounded: true,

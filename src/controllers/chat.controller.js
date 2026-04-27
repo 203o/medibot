@@ -19,7 +19,7 @@ const {
 
 function looksLikeFollowupPhrase(message = "") {
     const text = String(message || "").trim().toLowerCase();
-    return /^(what about|how about|what are|what is|what's|what of|and |in |for |is there|how does|what does|what do|recheck|rechek|explain|elaborate)/.test(text);
+    return /^(what about|how about|and |in |for |is there|how does|what of|recheck|rechek|explain|elaborate)/.test(text);
 }
 
 async function processTurn({ sessionId, message, medicalContext, onStage = () => {} }) {
@@ -279,7 +279,7 @@ async function processTurn({ sessionId, message, medicalContext, onStage = () =>
             sourcePolicy: baseIntent.sourcePolicy
         }
         : await routeIntent(effectiveMessage, baseIntent);
-    let intent = {
+    const intent = {
         ...baseIntent,
         ...routedIntent
     };
@@ -293,110 +293,6 @@ async function processTurn({ sessionId, message, medicalContext, onStage = () =>
         turns: bundle.turns || [],
         reasoningHead
     });
-
-    if (followupPlan.frame) {
-        intent = {
-            ...intent,
-            ...followupPlan.frame.intentOverrides,
-            activeCaseFrame: followupPlan.frame
-        };
-    }
-
-    if (followupPlan.clarifyNeeded) {
-        const clarificationAnswer = followupPlan.clarifyPrompt || "What aspect of this condition are you asking about?";
-        const clarificationMemory = {
-            ...(bundle.memory || {}),
-            activeCaseFrame: followupPlan.frame || bundle.memory?.activeCaseFrame || {},
-            lastAnswerSummary: clarificationAnswer,
-            lastEvidenceIds: bundle.memory?.lastEvidenceIds || [],
-            lastRetrievedIds: bundle.memory?.lastRetrievedIds || [],
-            lastRetrievedEvidence: bundle.memory?.lastRetrievedEvidence || [],
-            lastAnswerFocus: bundle.memory?.lastAnswerFocus || "other",
-            lastQueryFacets: {
-                disease: followupPlan.frame?.disease || intent.disease || "",
-                location: followupPlan.frame?.location || intent.location?.normalized || "",
-                retrievalMode: "clarification",
-                substances: intent.substances || [],
-                symptoms: intent.symptoms || []
-            }
-        };
-        const clarificationResponse = {
-            sessionId,
-            query: effectiveMessage,
-            medicalContext: {
-                disease: followupPlan.frame?.disease || intent.disease || "",
-                intent: followupPlan.frame?.intent || intent.intent || "",
-                location: followupPlan.frame?.location || intent.location?.normalized || "",
-                retrievalMode: "clarification"
-            },
-            answer: clarificationAnswer,
-            answerBasis: "clarification",
-            supplement: "",
-            insights: [followupPlan.reuseReason || "Conversation frame is too broad to safely refetch without a narrower disease anchor."],
-            confidence: "low",
-            evidence: [],
-            retrieval: {
-                mode: "clarification",
-                source: "conversation_frame",
-                publicationsCount: 0,
-                pubmedCount: 0,
-                openalexCount: 0,
-                trialsCount: 0,
-                rankedCount: 0,
-                llmSynthesis: null,
-                followup: {
-                    isFollowup: true,
-                    shouldRefetch: false,
-                    reason: followupPlan.reuseReason || "conversation_frame_clarify",
-                    decisionReason: followupPlan.followupDecisionReason || "",
-                    expansion: followupPlan.expansion || null,
-                    attachment: followupPlan.attachment || null,
-                    reuseStats: followupPlan.reuseStats || { poolCount: 0, matchedCount: 0, coverageScore: 0 }
-                },
-                contextBuilder: null,
-                tierBreakdown: { tier1: 0, tier2: 0, tier3: 0, tier4: 0 },
-                sourcePolicy: {},
-                policy: {},
-                stages: []
-            },
-            sourceMapping: [],
-            validation: {
-                isValid: false,
-                confidence: "low",
-                checks: [
-                    {
-                        name: "Conversation frame",
-                        status: "warn",
-                        detail: followupPlan.clarifyPrompt || "Clarification needed before refetching."
-                    }
-                ]
-            },
-            memory: clarificationMemory,
-            conversation: {
-                grounded: true,
-                previousAnswerSummary: bundle.memory?.lastAnswerSummary || "",
-                retrievalMode: "clarification",
-                retrievalPolicy: {}
-            }
-        };
-        await saveAssistantTurn(sessionId, {
-            answer: clarificationResponse.answer,
-            evidenceIds: [],
-            sourceMapping: [],
-            validation: clarificationResponse.validation,
-            memorySnapshot: clarificationResponse.memory
-        });
-        await persistSessionState(sessionId, {
-            sessionId,
-            ...clarificationResponse.memory,
-            lastAnswerSummary: clarificationResponse.answer,
-            lastEvidenceIds: []
-        }, {
-            lastMessage: effectiveMessage,
-            lastConfidence: clarificationResponse.confidence
-        });
-        return clarificationResponse;
-    }
 
     if (followupPlan.forceOutOfScope) {
         const fallback = {

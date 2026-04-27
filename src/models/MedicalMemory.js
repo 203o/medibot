@@ -21,8 +21,7 @@ if (mongoose) {
             lastRetrievedIds: { type: [String], default: [] },
             lastRetrievedEvidence: { type: [mongoose.Schema.Types.Mixed], default: [] },
             lastAnswerFocus: { type: String, default: "" },
-            lastQueryFacets: { type: mongoose.Schema.Types.Mixed, default: {} },
-            activeCaseFrame: { type: mongoose.Schema.Types.Mixed, default: {} }
+            lastQueryFacets: { type: mongoose.Schema.Types.Mixed, default: {} }
         },
         { timestamps: true }
     );

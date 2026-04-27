@@ -109,49 +109,6 @@ class IntentAttachmentResponse(BaseModel):
     model: str = ""
 
 
-class FollowupContextRequest(BaseModel):
-    message: str = Field(..., min_length=1)
-    disease: str = ""
-    location: str = ""
-    root_intent: str = ""
-    previous_intent: str = ""
-    conversation_summary: str = ""
-    last_answer_summary: str = ""
-    last_answer_focus: str = ""
-    has_previous_context: bool = False
-
-
-class FollowupContextResponse(BaseModel):
-    enabled: bool
-    reason: str = ""
-    relation: Literal[
-        "same_topic",
-        "location_refinement",
-        "population_refinement",
-        "exposure_refinement",
-        "animal_model",
-        "mechanism_refinement",
-        "new_disease",
-        "clarify",
-        "out_of_scope",
-    ] = "same_topic"
-    resolved_disease: str = ""
-    resolved_location: str = ""
-    resolved_population: str = ""
-    resolved_facets: list[str] = Field(default_factory=list)
-    clarification_type: str = ""
-    clarify_prompt: str = ""
-    intent: str = ""
-    query: str = ""
-    attachment: Literal["root", "previous_turn", "new_subintent", "out_of_scope"] = "root"
-    should_refetch: bool = True
-    should_clarify: bool = False
-    confidence: float = Field(default=0.0, ge=0.0, le=1.0)
-    explanation: str = ""
-    provider: str = ""
-    model: str = ""
-
-
 class ReasoningHeadRequest(BaseModel):
     message: str = Field(..., min_length=1)
     disease: str = ""
