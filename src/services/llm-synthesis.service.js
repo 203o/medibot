@@ -194,6 +194,31 @@ function hasStructuredSignal(payload) {
     return points.length > 0 || uncertainties.length > 0 || !!(spotlight && (spotlight.id || spotlight.title || spotlight.key_finding));
 }
 
+function extractNaturalAnswerText(payload, fallbackParts = []) {
+    const rawAnswer = String(payload?.answer || "").trim();
+    if (rawAnswer) {
+        const looksStructured = rawAnswer.startsWith("{") || rawAnswer.startsWith("[");
+        if (!looksStructured) {
+            return rawAnswer;
+        }
+        try {
+            const parsed = JSON.parse(rawAnswer);
+            const parsedParts = [
+                parsed?.direct_answer,
+                parsed?.supporting_explanation,
+                parsed?.answer
+            ].map((value) => String(value || "").trim()).filter(Boolean);
+            if (parsedParts.length) {
+                return parsedParts.join(" ").trim();
+            }
+        } catch {
+            // Fall through to the reconstructed answer below.
+        }
+    }
+
+    return fallbackParts.map((part) => String(part || "").trim()).filter(Boolean).join(" ").trim();
+}
+
 function ensureMultiStudyCoverage(citations, context) {
     const normalized = [...new Set((citations || []).filter(Boolean))];
     const evidenceCount = (context.primaryEvidence || []).length + (context.supplementalEvidence || []).length;
@@ -311,7 +336,7 @@ function buildDetailedAnswer(payload, direct, support, claimDerived, warning, ci
         : {};
 
     const sections = [];
-    const narrative = String(payload?.answer || "").trim() || [direct, support].filter(Boolean).join(" ").trim() || claimDerived;
+    const narrative = extractNaturalAnswerText(payload, [direct, support, claimDerived]);
     if (narrative) sections.push(narrative);
     if (evidencePoints.length) {
         sections.push(evidencePoints.map((item) => `- ${item}`).join("\n"));
