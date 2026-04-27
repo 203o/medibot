@@ -640,7 +640,15 @@ function buildUpdatedMemory(previousMemory, intent, answerPayload, rankedEvidenc
     } else if (/treatment|manage|guidance|care/.test(intentText) || intent.retrievalMode === "clinical_guidance") {
         lastAnswerFocus = "treatment";
     }
-    const activeCaseFrame = intent.activeCaseFrame || previousMemory.activeCaseFrame || {};
+    const previousFrame = previousMemory.activeCaseFrame || {};
+    const activeCaseFrame = {
+        ...previousFrame,
+        ...(intent.activeCaseFrame || {}),
+        disease: String(intent.activeCaseFrame?.disease || intent.disease || previousFrame.disease || previousMemory.lastQueryFacets?.disease || "").trim(),
+        location: String(intent.activeCaseFrame?.location || intent.location?.normalized || previousFrame.location || previousMemory.lastQueryFacets?.location || "").trim(),
+        retrievalMode: String(intent.activeCaseFrame?.retrievalMode || intent.retrievalMode || previousFrame.retrievalMode || previousMemory.lastQueryFacets?.retrievalMode || "").trim(),
+        intent: String(intent.activeCaseFrame?.intent || intent.intent || previousFrame.intent || "").trim()
+    };
 
     return {
         sessionId: previousMemory.sessionId,
