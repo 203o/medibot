@@ -18,6 +18,27 @@ const COMMON_LOCATIONS = [
     "india", "china", "boston", "chicago", "turkana", "thika"
 ];
 
+const FOLLOWUP_CUE_REGEX = /^(what about|how about|and |what of|in |for |how does|how do|does it|do they|does that|is there|recheck|rechek|explain|elaborate)\b/;
+
+const POPULATION_CUES = [
+    "women",
+    "woman",
+    "men",
+    "man",
+    "female",
+    "male",
+    "children",
+    "child",
+    "adult",
+    "adults",
+    "elderly",
+    "older adults",
+    "pregnant",
+    "patients",
+    "people",
+    "survivors"
+];
+
 const FOLLOWUP_FILLER_TOKENS = new Set([
     "what", "about", "how", "in", "for", "and", "of", "the", "to", "on", "at", "is", "are",
     "please", "tell", "me"
@@ -50,6 +71,11 @@ function heuristicLocation(message = "") {
     return found || "";
 }
 
+function hasPopulationCue(message = "") {
+    const text = String(message || "").toLowerCase();
+    return POPULATION_CUES.some((item) => text.includes(item));
+}
+
 function tokenize(value = "") {
     return normalizeText(value).split(/[^a-z0-9]+/).filter(Boolean);
 }
@@ -78,9 +104,36 @@ function isLocationOnlyFollowup(message = "", previousMemory = {}) {
     return meaningfulTokens.length === 0;
 }
 
+function shouldPreservePreviousDisease(message = "", previousMemory = {}) {
+    const previousDisease = normalizeText(
+        previousMemory?.activeCaseFrame?.disease
+        || previousMemory?.lastQueryFacets?.disease
+        || ""
+    );
+    if (!previousDisease) return false;
+
+    const text = normalizeText(message);
+    if (!text) return false;
+    if (heuristicDisease(text)) return false;
+
+    if (isLocationOnlyFollowup(message, previousMemory)) {
+        return true;
+    }
+
+    return FOLLOWUP_CUE_REGEX.test(text) && hasPopulationCue(text);
+}
+
 function fallbackTopicDisease(message = "") {
-    const tokens = String(message || "")
-        .toLowerCase()
+    const text = String(message || "").toLowerCase().trim();
+    if (FOLLOWUP_CUE_REGEX.test(text) && !heuristicDisease(text)) {
+        const hasLocation = !!heuristicLocation(text);
+        const hasPopulation = hasPopulationCue(text);
+        if (hasLocation || hasPopulation) {
+            return "";
+        }
+    }
+
+    const tokens = text
         .split(/[^a-z0-9]+/)
         .filter((token) => token.length > 2 && !TOKEN_STOPWORDS.has(token));
     const unique = [...new Set(tokens)].slice(0, 3);
@@ -187,13 +240,16 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
         }
     }
 
-    if (locationOnlyFollowup && previousDisease) {
+    if (shouldPreservePreviousDisease(message, previousMemory)) {
         disease = previousDisease;
         if (autofillSource === "user") {
             autofillSource = "heuristic";
         }
         confidence = Math.max(confidence, 0.8);
-        reason = reason ? `${reason}|preserve_previous_disease_for_location_followup` : "preserve_previous_disease_for_location_followup";
+        const preserveReason = locationOnlyFollowup
+            ? "preserve_previous_disease_for_location_followup"
+            : "preserve_previous_disease_for_refinement_followup";
+        reason = reason ? `${reason}|${preserveReason}` : preserveReason;
     }
 
     if (!disease) {
