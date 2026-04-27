@@ -226,7 +226,19 @@ function isLikelyMedicalQuery(message = "", medicalContext = {}) {
 
 function buildIntent(message, medicalContext = {}, previousMemory = {}) {
     const normalizedMessage = normalizeText(message);
-    const disease = normalizeText(medicalContext.disease || previousMemory.activeCaseFrame?.disease || "");
+    const followupContext = medicalContext.followupContext || previousMemory.activeCaseFrame?.followupContext || {};
+    const disease = normalizeText(
+        medicalContext.disease
+        || followupContext.resolvedDisease
+        || previousMemory.activeCaseFrame?.disease
+        || ""
+    );
+    const resolvedFacets = unique(
+        Array.isArray(followupContext.resolvedFacets)
+            ? followupContext.resolvedFacets.map((item) => normalizeText(item)).filter(Boolean)
+            : []
+    );
+    const population = normalizeText(followupContext.resolvedPopulation || "");
     const messageConditions = unique([
         disease,
         ...detectTerms(normalizedMessage, ["malaria", "fever", "vomiting", "dehydration"]),
@@ -235,7 +247,8 @@ function buildIntent(message, medicalContext = {}, previousMemory = {}) {
         ...messageConditions,
         ...(previousMemory.conditions || [])
     ]);
-    const intentText = medicalContext.intent || (
+    const followupIntent = normalizeText(followupContext.intent || followupContext.query || "");
+    const intentText = medicalContext.intent || followupIntent || (
         normalizedMessage.includes("trial") || normalizedMessage.includes("study")
             ? "research_lookup"
             : normalizedMessage.includes("can i") || normalizedMessage.includes("should i")
@@ -256,7 +269,13 @@ function buildIntent(message, medicalContext = {}, previousMemory = {}) {
         normalizedMessage.includes("worse") || normalizedMessage.includes("worsening") ? "worsening_symptoms" : null,
         ...(previousMemory.riskFlags || [])
     ]);
-    const location = normalizeLocation(medicalContext.location || previousMemory.activeCaseFrame?.location || previousMemory.location?.normalized || "");
+    const location = normalizeLocation(
+        medicalContext.location
+        || followupContext.resolvedLocation
+        || previousMemory.activeCaseFrame?.location
+        || previousMemory.location?.normalized
+        || ""
+    );
     const retrievalMode = inferRetrievalMode(normalizedMessage, intentText);
 
     return {
@@ -267,12 +286,15 @@ function buildIntent(message, medicalContext = {}, previousMemory = {}) {
         routeConfidence: 0.35,
         routeReasoning: "Fallback heuristic router used locally.",
         location,
+        population,
+        resolvedFacets,
         normalizedMessage,
         conditions: seedConditions,
         symptoms,
         substances,
         riskFlags,
-        tokens: unique(normalizedMessage.split(/[^a-z0-9]+/).filter((token) => token.length > 2))
+        tokens: unique(normalizedMessage.split(/[^a-z0-9]+/).filter((token) => token.length > 2)),
+        followupContext: Object.keys(followupContext || {}).length ? followupContext : null
     };
 }
 
