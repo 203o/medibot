@@ -15,7 +15,9 @@ function normalizeText(value = "") {
 
 const COMMON_LOCATIONS = [
     "usa", "united states", "canada", "uk", "united kingdom", "kenya", "south africa", "nigeria",
-    "india", "china", "boston", "chicago", "turkana", "thika"
+    "india", "china", "asia", "africa", "europe", "oceania", "australia", "north america",
+    "south america", "latin america", "middle east", "global", "worldwide", "sub-saharan africa",
+    "boston", "chicago", "turkana", "thika"
 ];
 
 const FOLLOWUP_CUE_REGEX = /^(what about|how about|and |what of|in |for |how does|how do|does it|do they|does that|is there|recheck|rechek|explain|elaborate)\b/;
@@ -545,6 +547,8 @@ function normalizeFollowupContextResponse(payload = {}) {
         resolvedLocation: normalizeText(payload?.resolved_location || ""),
         resolvedPopulation: normalizeText(payload?.resolved_population || ""),
         resolvedFacets,
+        clarificationType: normalizeText(payload?.clarification_type || payload?.clarify_type || "").toLowerCase().replace(/\s+/g, "_"),
+        clarifyPrompt: normalizeText(payload?.clarify_prompt || payload?.clarification_prompt || ""),
         intent: normalizeText(payload?.intent || ""),
         query: normalizeText(payload?.query || ""),
         attachment: ["root", "previous_turn", "new_subintent", "out_of_scope"].includes(attachment)
@@ -589,6 +593,8 @@ async function classifyFollowupContextWithLLM({
             resolvedLocation: "",
             resolvedPopulation: "",
             resolvedFacets: [],
+            clarificationType: "",
+            clarifyPrompt: "",
             intent: "",
             query: "",
             attachment: "root",
@@ -641,6 +647,8 @@ async function classifyFollowupContextWithLLM({
             resolvedLocation: "",
             resolvedPopulation: "",
             resolvedFacets: [],
+            clarificationType: "",
+            clarifyPrompt: "",
             intent: "",
             query: "",
             attachment: "root",
@@ -738,6 +746,7 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
             previousMemory
         })
         : null;
+    const unsupportedFollowup = hasPreviousContext && isUnsupportedFollowup(message, previousMemory);
     if (hasPreviousContext) {
         const llmFollowup = await classifyFollowupContextWithLLM({
             message,
@@ -749,9 +758,26 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
             },
             previousMemory
         });
-        if (llmFollowup.enabled || deterministicFollowupContext) {
-            followupContext = (deterministicFollowupContext?.relation === "clarify" || !llmFollowup.enabled)
-                ? deterministicFollowupContext
+        const clarifyOverride = unsupportedFollowup || deterministicFollowupContext?.relation === "clarify";
+        if (llmFollowup.enabled || deterministicFollowupContext || clarifyOverride) {
+            followupContext = (clarifyOverride || !llmFollowup.enabled)
+                ? (deterministicFollowupContext || {
+                    enabled: true,
+                    reason: "deterministic_followup_clarify",
+                    relation: "clarify",
+                    resolvedDisease: previousDisease,
+                    resolvedLocation: heuristicLocation(message) || normalizeText(previousMemory?.activeCaseFrame?.location || previousMemory?.lastQueryFacets?.location || ""),
+                    resolvedPopulation: "",
+                    resolvedFacets: [],
+                    intent: "clarification needed",
+                    query: "",
+                    attachment: "out_of_scope",
+                    shouldRefetch: false,
+                    shouldClarify: true,
+                    confidence: 0.62,
+                    provider: "heuristic",
+                    model: "rules"
+                })
                 : llmFollowup;
             const followupDisease = normalizeText(followupContext?.resolvedDisease);
             const followupLocation = normalizeText(followupContext?.resolvedLocation);

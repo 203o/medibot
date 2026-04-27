@@ -42,6 +42,21 @@ def _unwrap_code_fence(text: str) -> str:
     return match.group(1).strip() if match else candidate
 
 
+def _looks_like_json_envelope(text: str) -> bool:
+    candidate = _unwrap_code_fence(text).strip()
+    if not candidate:
+        return False
+    if candidate.startswith("{") or candidate.startswith("["):
+        return True
+    return bool(re.search(
+        r'"(?:direct_answer|supporting_explanation|evidence_points|research_landscape|relevant_trials|'
+        r'progression_research|monitoring_research|evidence_gaps|study_spotlight|uncertainties|claims|'
+        r'citations|evidence_mixed|conflict_reason|conflict_details|answer)"\s*:',
+        candidate,
+        re.IGNORECASE,
+    ))
+
+
 def _get_client(timeout_sec: float):
     provider = os.getenv("LLM_CHAT_PROVIDER", "huggingface").strip().lower()
     if provider == "groq":
@@ -339,7 +354,7 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
         }
 
     max_items = max(2, min(int(os.getenv("LLM_SYNTHESIS_MAX_CHUNKS", "6")), 12))
-    max_tokens = max(220, min(int(os.getenv("LLM_SYNTHESIS_MAX_TOKENS", "420")), 700))
+    max_tokens = max(220, min(int(os.getenv("LLM_SYNTHESIS_MAX_TOKENS", "1500")), 1500))
     title_chars = max(80, min(int(os.getenv("LLM_SYNTHESIS_TITLE_CHARS", "110")), 220))
     summary_chars = max(100, min(int(os.getenv("LLM_SYNTHESIS_SUMMARY_CHARS", "180")), 320))
     primary_evidence = primary_evidence[:max_items]
@@ -556,7 +571,7 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
                 maybe_answer = _unwrap_code_fence(str(raw_parsed.get("answer", "")).strip())
                 if maybe_answer and not maybe_answer.startswith("{") and not maybe_answer.startswith("["):
                     direct_answer = maybe_answer
-        elif raw_content:
+        elif raw_content and not _looks_like_json_envelope(raw_content):
             direct_answer = raw_content
     if not direct_answer:
         maybe_answer = _unwrap_code_fence(str(parsed.get("answer", "")).strip())
@@ -941,6 +956,301 @@ def classify_intent_attachment(payload: dict[str, Any]) -> dict[str, Any]:
         "query": query,
         "confidence": confidence,
         "explanation": str(parsed.get("reason", "")).strip(),
+        "provider": provider,
+        "model": model,
+    }
+
+
+def classify_followup_context(payload: dict[str, Any]) -> dict[str, Any]:
+    enabled = _as_bool(os.getenv("ENABLE_LLM_CONTEXT_AUTOFILL"), default=True)
+    message = str(payload.get("message", "")).strip()
+    disease = str(payload.get("disease", "")).strip()
+    location = str(payload.get("location", "")).strip()
+    root_intent = str(payload.get("root_intent", "")).strip()
+    previous_intent = str(payload.get("previous_intent", "")).strip()
+    conversation_summary = str(payload.get("conversation_summary", "")).strip()
+    last_answer_summary = str(payload.get("last_answer_summary", "")).strip()
+    last_answer_focus = str(payload.get("last_answer_focus", "")).strip()
+    has_previous_context = bool(payload.get("has_previous_context", False))
+
+    if not message:
+        return {
+            "enabled": False,
+            "reason": "empty_message",
+            "relation": "same_topic",
+            "resolved_disease": disease,
+            "resolved_location": location,
+            "resolved_population": "",
+            "resolved_facets": [],
+            "clarification_type": "",
+            "clarify_prompt": "",
+            "intent": "",
+            "query": "",
+            "attachment": "root",
+            "should_refetch": False,
+            "should_clarify": False,
+            "confidence": 0.0,
+            "provider": "",
+            "model": "",
+        }
+
+    if not enabled:
+        return {
+            "enabled": False,
+            "reason": "disabled",
+            "relation": "same_topic",
+            "resolved_disease": disease,
+            "resolved_location": location,
+            "resolved_population": "",
+            "resolved_facets": [],
+            "clarification_type": "",
+            "clarify_prompt": "",
+            "intent": "",
+            "query": "",
+            "attachment": "root",
+            "should_refetch": False,
+            "should_clarify": False,
+            "confidence": 0.0,
+            "provider": "",
+            "model": "",
+        }
+
+    provider = os.getenv("LLM_CHAT_PROVIDER", "huggingface").strip().lower()
+    if provider == "groq":
+        token = os.getenv("GROQ_API_KEY", "").strip()
+        if not token:
+            return {
+                "enabled": False,
+                "reason": "missing_groq_api_key",
+                "relation": "same_topic",
+                "resolved_disease": disease,
+                "resolved_location": location,
+                "resolved_population": "",
+                "resolved_facets": [],
+                "clarification_type": "",
+                "clarify_prompt": "",
+                "intent": "",
+                "query": "",
+                "attachment": "root",
+                "should_refetch": False,
+                "should_clarify": False,
+                "confidence": 0.0,
+                "provider": provider,
+                "model": "",
+            }
+        model = os.getenv("GROQ_FOLLOWUP_MODEL", os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")).strip()
+    else:
+        token = os.getenv("HF_TOKEN", "").strip()
+        if not token:
+            return {
+                "enabled": False,
+                "reason": "missing_hf_token",
+                "relation": "same_topic",
+                "resolved_disease": disease,
+                "resolved_location": location,
+                "resolved_population": "",
+                "resolved_facets": [],
+                "clarification_type": "",
+                "clarify_prompt": "",
+                "intent": "",
+                "query": "",
+                "attachment": "root",
+                "should_refetch": False,
+                "should_clarify": False,
+                "confidence": 0.0,
+                "provider": provider,
+                "model": "",
+            }
+        model = os.getenv("HF_FOLLOWUP_MODEL", os.getenv("HF_SEMANTIC_MODEL", "meta-llama/Llama-3.1-8B-Instruct")).strip()
+
+    system_prompt = (
+        "You are a semantic follow-up classifier for a medical evidence chatbot. "
+        "Interpret the new message against the current active medical frame. "
+        "Preserve the current disease anchor unless the user explicitly switches to a new disease. "
+        "When clarification is needed, generate a concise natural-language clarification question. "
+        "If the disease is already known, ask about the missing aspect of that disease rather than asking which disease it is. "
+        "Return strict JSON only."
+    )
+    user_prompt = (
+        "Classify how the new message changes the current active medical frame.\n\n"
+        f"Message: {message}\n"
+        f"Current disease: {disease}\n"
+        f"Current location: {location}\n"
+        f"Root intent: {root_intent}\n"
+        f"Previous intent: {previous_intent}\n"
+        f"Conversation summary: {conversation_summary}\n"
+        f"Last answer summary: {last_answer_summary}\n"
+        f"Last answer focus: {last_answer_focus}\n"
+        f"Has previous context: {has_previous_context}\n\n"
+        "Interpretation rules:\n"
+        "- same_topic: the user is still on the same disease/topic.\n"
+        "- location_refinement: only geography changes.\n"
+        "- Geography examples include Asia, Africa, Europe, North America, South America, Latin America, Oceania, Australia, Middle East, global, and worldwide.\n"
+        "- population_refinement: the user changes the population group (women, men, children, adults, older adults, pregnant people, survivors, patients).\n"
+        "- exposure_refinement: the user asks about exposure, risk factor, cause, or causality (for example smoking, football, head injury, toxins).\n"
+        "- animal_model: the user asks about animals, mice, rats, preclinical models, or laboratory model systems.\n"
+        "- mechanism_refinement: the user asks how or why the disease happens, pathophysiology, biology, biomarkers, or mechanism.\n"
+        "- new_disease: the user explicitly switches to a different disease or case.\n"
+        "- clarify: the message is too broad, ambiguous, or missing a safe anchor.\n"
+        "- out_of_scope: the message is clearly unrelated to the medical evidence task.\n"
+        "- If the user asks about a research-relevant non-disease term like football or animals, treat it as a facet, not a new disease.\n"
+        "- Keep the disease anchor unless the user clearly names a new disease.\n"
+        "- If the disease is known, do not ask 'Which <disease>...'; ask what aspect, facet, or subtopic of that disease the user means.\n"
+        "- If the location is known and helpful, include it in the clarification.\n"
+        "- Return a concise retrieval query that preserves the anchor and the new facet(s).\n\n"
+        "Return JSON keys:\n"
+        "- relation: same_topic | location_refinement | population_refinement | exposure_refinement | animal_model | mechanism_refinement | new_disease | clarify | out_of_scope\n"
+        "- resolved_disease: string\n"
+        "- resolved_location: string\n"
+        "- resolved_population: string\n"
+        "- resolved_facets: array of short strings\n"
+        "- clarification_type: aspect_choice | disease_missing | location_missing | population_missing | ambiguous_refinement | out_of_scope | empty\n"
+        "- clarify_prompt: concise natural-language clarification question\n"
+        "- intent: string\n"
+        "- query: string\n"
+        "- attachment: root | previous_turn | new_subintent | out_of_scope\n"
+        "- should_refetch: boolean\n"
+        "- should_clarify: boolean\n"
+        "- confidence: float between 0 and 1\n"
+        "- reason: short explanation\n"
+    )
+    try:
+        parsed = _chat_json(model, system_prompt, user_prompt, max_tokens=220, temperature=0.0)
+    except Exception as error:
+        return {
+            "enabled": False,
+            "reason": f"error:{type(error).__name__}",
+            "relation": "same_topic",
+            "resolved_disease": disease,
+            "resolved_location": location,
+            "resolved_population": "",
+            "resolved_facets": [],
+            "clarification_type": "",
+            "clarify_prompt": "",
+            "intent": "",
+            "query": "",
+            "attachment": "root",
+            "should_refetch": False,
+            "should_clarify": False,
+            "confidence": 0.0,
+            "provider": provider,
+            "model": model,
+        }
+
+    relation = str(parsed.get("relation", "")).strip().lower().replace(" ", "_")
+    allowed_relations = {
+        "same_topic",
+        "location_refinement",
+        "population_refinement",
+        "exposure_refinement",
+        "animal_model",
+        "mechanism_refinement",
+        "new_disease",
+        "clarify",
+        "out_of_scope",
+    }
+    if relation not in allowed_relations:
+        relation = "same_topic"
+
+    resolved_disease = _first_non_empty(parsed, ["resolved_disease", "disease"])
+    resolved_location = _first_non_empty(parsed, ["resolved_location", "location"])
+    resolved_population = _first_non_empty(parsed, ["resolved_population", "population"])
+    clarification_type = _first_non_empty(parsed, ["clarification_type", "clarify_type"])
+    clarification_type = clarification_type.strip().lower().replace(" ", "_")
+    if clarification_type not in {
+        "",
+        "aspect_choice",
+        "disease_missing",
+        "location_missing",
+        "population_missing",
+        "ambiguous_refinement",
+        "out_of_scope",
+        "empty",
+    }:
+        clarification_type = ""
+    clarify_prompt = _first_non_empty(parsed, ["clarify_prompt", "clarification_prompt"])
+    clarify_prompt = " ".join(clarify_prompt.split()).strip()
+    resolved_facets_raw = parsed.get("resolved_facets")
+    if not isinstance(resolved_facets_raw, list):
+        resolved_facets_raw = []
+    resolved_facets = []
+    for item in resolved_facets_raw:
+        facet = str(item).strip()
+        if facet and facet not in resolved_facets:
+            resolved_facets.append(facet)
+
+    if not resolved_disease and relation != "new_disease":
+        resolved_disease = disease
+    if not resolved_location:
+        resolved_location = location
+    if relation == "clarify" and not clarification_type:
+        clarification_type = "ambiguous_refinement" if (resolved_disease or resolved_location) else "disease_missing"
+    if relation == "clarify" and not clarify_prompt:
+        if resolved_disease:
+            location_suffix = f" in {resolved_location}" if resolved_location else ""
+            clarify_prompt = f"What aspect of {resolved_disease}{location_suffix} are you asking about?"
+        else:
+            clarify_prompt = "Which disease or condition should I keep focused on?"
+
+    intent = _first_non_empty(parsed, ["intent"])
+    query = _first_non_empty(parsed, ["query"])
+    if not intent:
+        intent = query or previous_intent or root_intent or message
+    if not query:
+        parts = [resolved_disease, intent, resolved_population, " ".join(resolved_facets[:4]), resolved_location]
+        query = " ".join(part for part in parts if part).strip()
+
+    attachment = str(parsed.get("attachment", "")).strip().lower()
+    if relation == "out_of_scope":
+        attachment = "out_of_scope"
+    elif relation == "new_disease":
+        attachment = "new_subintent" if has_previous_context else "root"
+    elif relation == "clarify":
+        attachment = "previous_turn" if has_previous_context else "root"
+    elif relation in {
+        "same_topic",
+        "location_refinement",
+        "population_refinement",
+        "exposure_refinement",
+        "animal_model",
+        "mechanism_refinement",
+    }:
+        attachment = "previous_turn" if has_previous_context else "root"
+    elif attachment not in {"root", "previous_turn", "new_subintent", "out_of_scope"}:
+        attachment = "previous_turn" if has_previous_context else "root"
+
+    should_clarify = parsed.get("should_clarify")
+    if not isinstance(should_clarify, bool):
+        should_clarify = relation == "clarify"
+
+    should_refetch = parsed.get("should_refetch")
+    if not isinstance(should_refetch, bool):
+        should_refetch = relation not in {"clarify", "out_of_scope"}
+
+    confidence_raw = parsed.get("confidence")
+    try:
+        confidence = float(confidence_raw)
+        if confidence < 0 or confidence > 1:
+            confidence = 0.0
+    except Exception:
+        confidence = 0.0
+
+    return {
+        "enabled": True,
+        "reason": str(parsed.get("reason", "")).strip() or "ok",
+        "relation": relation,
+        "resolved_disease": resolved_disease,
+        "resolved_location": resolved_location,
+        "resolved_population": resolved_population,
+        "resolved_facets": resolved_facets,
+        "clarification_type": clarification_type,
+        "clarify_prompt": clarify_prompt,
+        "intent": intent,
+        "query": query,
+        "attachment": attachment,
+        "should_refetch": should_refetch,
+        "should_clarify": should_clarify,
+        "confidence": confidence,
         "provider": provider,
         "model": model,
     }

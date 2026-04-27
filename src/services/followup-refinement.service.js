@@ -99,6 +99,92 @@ function followupFocusPhrase(value = "") {
     return "clinical question";
 }
 
+function formatLocationLabel(value = "") {
+    const text = normalizeText(value);
+    if (!text) return "";
+    const lower = text.toLowerCase();
+    if (["usa", "u.s.a.", "us"].includes(lower)) return "USA";
+    if (["uk", "u.k."].includes(lower)) return "UK";
+    if (lower === "eu") return "EU";
+    if (lower === "united states") return "United States";
+    if (lower === "united kingdom") return "United Kingdom";
+    if (!text.includes(" ")) {
+        return text.charAt(0).toUpperCase() + text.slice(1);
+    }
+    return text
+        .split(/\s+/)
+        .map((word) => (word.length <= 2 ? word.toUpperCase() : word.charAt(0).toUpperCase() + word.slice(1)))
+        .join(" ");
+}
+
+function buildClarificationPrompt({
+    disease = "",
+    location = "",
+    clarificationType = "",
+    relation = "",
+    previousMemory = {},
+    resolvedPopulation = ""
+} = {}) {
+    const normalizedDisease = normalizeDiseaseTopic(
+        disease
+        || previousMemory.activeCaseFrame?.disease
+        || previousMemory.lastQueryFacets?.disease
+        || ""
+    );
+    const normalizedLocation = formatLocationLabel(
+        location
+        || previousMemory.activeCaseFrame?.location
+        || previousMemory.lastQueryFacets?.location
+        || ""
+    );
+    const locationSuffix = normalizedLocation ? ` in ${normalizedLocation}` : "";
+    const type = normalizeText(clarificationType).toLowerCase().replace(/\s+/g, "_");
+    const populationLabel = normalizeText(resolvedPopulation);
+
+    if (!normalizedDisease) {
+        return "Which disease or condition should I keep focused on?";
+    }
+
+    if (type === "population_missing" && populationLabel) {
+        return `Which population group are you asking about for ${normalizedDisease}${locationSuffix}?`;
+    }
+
+    if (type === "location_missing") {
+        return `Which location should I keep focused on for ${normalizedDisease}?`;
+    }
+
+    if (type === "disease_missing") {
+        return "Which disease or condition should I keep focused on?";
+    }
+
+    if (normalizedDisease === "cancer") {
+        return `Which cancer type or aspect are you asking about${locationSuffix}?`;
+    }
+
+    if (isBroadDiseaseTopic(normalizedDisease) || relation === "clarify") {
+        return `What aspect of ${normalizedDisease}${locationSuffix} are you asking about?`;
+    }
+
+    return `What aspect of ${normalizedDisease}${locationSuffix} are you asking about?`;
+}
+
+function normalizeClarificationPrompt(prompt = "", context = {}) {
+    const candidate = normalizeText(prompt);
+    if (!candidate) {
+        return buildClarificationPrompt(context);
+    }
+    const normalizedDisease = normalizeDiseaseTopic(context.disease || context.previousDisease || "");
+    if (normalizedDisease) {
+        const awkwardWhichPattern = /^which\s+.+\s+should i keep focused on\??$/i;
+        const genericDiseasePattern = /^which\s+(?:disease|condition)\b/i;
+        const diseaseNamedPattern = new RegExp(`^which\\s+.*\\b${normalizedDisease.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i");
+        if (awkwardWhichPattern.test(candidate) || genericDiseasePattern.test(candidate) || diseaseNamedPattern.test(candidate)) {
+            return buildClarificationPrompt(context);
+        }
+    }
+    return candidate.endsWith("?") ? candidate : `${candidate}?`;
+}
+
 const FOLLOWUP_RELATIONS = new Set([
     "same_topic",
     "location_refinement",
@@ -126,6 +212,8 @@ function normalizeFollowupContext(value = {}) {
             resolvedLocation: "",
             resolvedPopulation: "",
             resolvedFacets: [],
+            clarificationType: "",
+            clarifyPrompt: "",
             intent: "",
             query: "",
             attachment: "root",
@@ -152,6 +240,8 @@ function normalizeFollowupContext(value = {}) {
         resolvedLocation: normalizeText(value.resolvedLocation || value.resolved_location || ""),
         resolvedPopulation: normalizeText(value.resolvedPopulation || value.resolved_population || ""),
         resolvedFacets,
+        clarificationType: normalizeText(value.clarificationType || value.clarification_type || value.clarifyType || "").toLowerCase().replace(/\s+/g, "_"),
+        clarifyPrompt: normalizeText(value.clarifyPrompt || value.clarify_prompt || value.clarificationPrompt || ""),
         intent: normalizeText(value.intent || ""),
         query: normalizeText(value.query || ""),
         attachment: ["root", "previous_turn", "new_subintent", "out_of_scope"].includes(attachmentRaw)
@@ -504,7 +594,14 @@ function buildConversationFrame({ message = "", intent = {}, previousMemory = {}
         relation,
         clarifyNeeded,
         clarifyPrompt: clarifyNeeded
-            ? `Which ${normalizeDiseaseTopic(queryDisease || previousDisease || "condition")} should I keep focused on? If you want, I can keep it general, but a specific disease type will help me avoid drifting to the wrong evidence.`
+            ? normalizeClarificationPrompt(followupContext.clarifyPrompt || "", {
+                disease: queryDisease || previousDisease || "",
+                location: currentLocation || previousLocation || "",
+                clarificationType: followupContext.clarificationType || "",
+                relation,
+                previousMemory,
+                resolvedPopulation,
+            })
             : "",
         query,
         stage: anchors.stage,
@@ -706,6 +803,17 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
     const reconstructedRootQuery = conversationFrame.query || reconstructQuery(intent, previousMemory, constraint);
 
     if (conversationFrame.clarifyNeeded) {
+        const clarificationPrompt = normalizeClarificationPrompt(
+            followupContext.clarifyPrompt || "",
+            {
+                disease: conversationFrame.disease || followupContext.resolvedDisease || intent.disease || previousMemory.lastQueryFacets?.disease || "",
+                location: conversationFrame.location || followupContext.resolvedLocation || intent.location?.normalized || previousMemory.lastQueryFacets?.location || "",
+                clarificationType: followupContext.clarificationType || "",
+                relation: conversationFrame.relation || followupContext.relation || "clarify",
+                previousMemory,
+                resolvedPopulation: followupContext.resolvedPopulation || conversationFrame.resolvedPopulation || ""
+            }
+        );
         return {
             isFollowup: true,
             reconstructedQuery: "",
@@ -744,7 +852,7 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
             forceOutOfScope: false,
             frame: conversationFrame,
             clarifyNeeded: true,
-            clarifyPrompt: conversationFrame.clarifyPrompt
+            clarifyPrompt: clarificationPrompt
         };
     }
 

@@ -303,7 +303,7 @@ async function processTurn({ sessionId, message, medicalContext, onStage = () =>
     }
 
     if (followupPlan.clarifyNeeded) {
-        const clarificationAnswer = followupPlan.clarifyPrompt || "Which specific condition should I keep focused on?";
+        const clarificationAnswer = followupPlan.clarifyPrompt || "What aspect of this condition are you asking about?";
         const clarificationMemory = {
             ...(bundle.memory || {}),
             activeCaseFrame: followupPlan.frame || bundle.memory?.activeCaseFrame || {},
