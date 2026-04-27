@@ -808,7 +808,8 @@ function buildFinalResponse({ sessionId, message, intent, rankedEvidence, previo
             lastRetrievedIds: updatedMemory.lastRetrievedIds,
             lastRetrievedEvidenceCount: (updatedMemory.lastRetrievedEvidence || []).length,
             lastAnswerFocus: updatedMemory.lastAnswerFocus,
-            lastQueryFacets: updatedMemory.lastQueryFacets
+            lastQueryFacets: updatedMemory.lastQueryFacets,
+            activeCaseFrame: updatedMemory.activeCaseFrame
         },
         conversation: {
             grounded: true,
