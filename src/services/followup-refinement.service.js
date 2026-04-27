@@ -804,14 +804,14 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
 
     if (conversationFrame.clarifyNeeded) {
         const clarificationPrompt = normalizeClarificationPrompt(
-            followupContext.clarifyPrompt || "",
+            conversationFrame.clarifyPrompt || "",
             {
-                disease: conversationFrame.disease || followupContext.resolvedDisease || intent.disease || previousMemory.lastQueryFacets?.disease || "",
-                location: conversationFrame.location || followupContext.resolvedLocation || intent.location?.normalized || previousMemory.lastQueryFacets?.location || "",
-                clarificationType: followupContext.clarificationType || "",
-                relation: conversationFrame.relation || followupContext.relation || "clarify",
+                disease: conversationFrame.disease || conversationFrame.followupContext?.resolvedDisease || intent.disease || previousMemory.lastQueryFacets?.disease || "",
+                location: conversationFrame.location || conversationFrame.followupContext?.resolvedLocation || intent.location?.normalized || previousMemory.lastQueryFacets?.location || "",
+                clarificationType: conversationFrame.followupContext?.clarificationType || "",
+                relation: conversationFrame.relation || conversationFrame.followupContext?.relation || "clarify",
                 previousMemory,
-                resolvedPopulation: followupContext.resolvedPopulation || conversationFrame.resolvedPopulation || ""
+                resolvedPopulation: conversationFrame.followupContext?.resolvedPopulation || conversationFrame.resolvedPopulation || ""
             }
         );
         return {
