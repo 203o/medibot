@@ -194,8 +194,14 @@ function hasStructuredSignal(payload) {
     return points.length > 0 || uncertainties.length > 0 || !!(spotlight && (spotlight.id || spotlight.title || spotlight.key_finding));
 }
 
+function stripMarkdownCodeFence(text) {
+    const normalized = String(text || "").trim();
+    const fenced = normalized.match(/^```(?:json)?\s*([\s\S]*?)\s*```$/i);
+    return fenced ? fenced[1].trim() : normalized;
+}
+
 function extractNaturalAnswerText(payload, fallbackParts = []) {
-    const rawAnswer = String(payload?.answer || "").trim();
+    const rawAnswer = stripMarkdownCodeFence(payload?.answer || "");
     if (rawAnswer) {
         const looksStructured = rawAnswer.startsWith("{") || rawAnswer.startsWith("[");
         if (!looksStructured) {

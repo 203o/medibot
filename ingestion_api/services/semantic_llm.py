@@ -448,6 +448,7 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
         "- Include study-level specifics only when they help the user understand the takeaway.\n"
         "- Avoid article-style paraphrase or sentence-by-sentence repetition from the papers.\n"
         "- Do not start with labels like 'Primary evidence', 'Additional primary evidence', 'Plain-language takeaway', or 'Why this matters'."
+        "\n- Return raw JSON only. Do not wrap the output in markdown fences, code blocks, or commentary."
         + "\n- Keep tone consistent with the requested tone mode."
         + ("\n- RESEARCH DISCOVERY MODE is active: summarize relevant research areas, active/ongoing trials, emerging therapies, and evidence gaps."
            "\n- Do NOT provide direct treatment recommendations or clinical decisions."
