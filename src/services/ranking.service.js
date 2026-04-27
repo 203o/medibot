@@ -134,9 +134,9 @@ function getBroadDiseaseAdjustment(intent, evidenceText) {
     const hasGeneralMarker = GENERAL_EVIDENCE_MARKERS.some((term) => evidenceText.includes(term));
     const subtypeHits = BROAD_DISEASE_SUBTYPE_MARKERS.filter((term) => evidenceText.includes(term)).length;
 
-    let adjustment = hasGeneralMarker ? 0.12 : 0;
+    let adjustment = hasGeneralMarker ? 0.2 : 0;
     if (subtypeHits > 0) {
-        adjustment -= Math.min(0.12 + (subtypeHits * 0.04), 0.28);
+        adjustment -= Math.min(0.22 + (subtypeHits * 0.08), 0.5);
     }
 
     return adjustment;
