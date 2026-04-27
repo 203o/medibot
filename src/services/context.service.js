@@ -226,7 +226,7 @@ function isLikelyMedicalQuery(message = "", medicalContext = {}) {
 
 function buildIntent(message, medicalContext = {}, previousMemory = {}) {
     const normalizedMessage = normalizeText(message);
-    const disease = normalizeText(medicalContext.disease);
+    const disease = normalizeText(medicalContext.disease || previousMemory.activeCaseFrame?.disease || "");
     const messageConditions = unique([
         disease,
         ...detectTerms(normalizedMessage, ["malaria", "fever", "vomiting", "dehydration"]),
@@ -256,7 +256,7 @@ function buildIntent(message, medicalContext = {}, previousMemory = {}) {
         normalizedMessage.includes("worse") || normalizedMessage.includes("worsening") ? "worsening_symptoms" : null,
         ...(previousMemory.riskFlags || [])
     ]);
-    const location = normalizeLocation(medicalContext.location || previousMemory.location?.normalized || "");
+    const location = normalizeLocation(medicalContext.location || previousMemory.activeCaseFrame?.location || previousMemory.location?.normalized || "");
     const retrievalMode = inferRetrievalMode(normalizedMessage, intentText);
 
     return {

@@ -13,8 +13,90 @@ function normalizeDiseaseTopic(value = "") {
     return text.replace(/\s+/g, " ").trim();
 }
 
+const BROAD_DISEASE_LABELS = new Set([
+    "cancer",
+    "disease",
+    "infection",
+    "condition",
+    "syndrome",
+    "disorder",
+    "malignancy",
+    "tumor",
+    "tumour",
+    "illness"
+]);
+
 function diseaseTokens(value = "") {
     return normalizeDiseaseTopic(value).split(/[^a-z0-9]+/).filter((token) => token.length > 2);
+}
+
+function extractFrameAnchors(text = "") {
+    const normalized = normalizeText(text);
+    if (!normalized) {
+        return {
+            stage: "",
+            pdl1: "",
+            postCrt: false,
+            postDurvalumab: false,
+            surveillance: false
+        };
+    }
+
+    const stageMatch = normalized.match(/\bstage\s+([ivx]+[a-c]?|\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)?[a-c]?)\b/i);
+    const stageRaw = stageMatch ? String(stageMatch[1]) : "";
+    const stage = stageRaw && /^[ivx]/i.test(stageRaw)
+        ? `stage ${stageRaw.toUpperCase()}`
+        : (stageRaw ? `stage ${stageRaw}` : "");
+    const pdl1Match = normalized.match(/pd[-\s]?l1[^0-9]*(\d{1,3})\s*%/i);
+
+    return {
+        stage,
+        pdl1: pdl1Match ? `PD-L1 ${pdl1Match[1]}%` : "",
+        postCrt: /post chemoradiation|post[-\s]?crt/.test(normalized),
+        postDurvalumab: /post durvalumab/.test(normalized),
+        surveillance: /surveillance/.test(normalized)
+    };
+}
+
+function isBroadDiseaseTopic(value = "") {
+    const normalized = normalizeDiseaseTopic(value);
+    if (!normalized) return true;
+    if (BROAD_DISEASE_LABELS.has(normalized)) return true;
+    const tokens = diseaseTokens(normalized);
+    if (!tokens.length) return true;
+    if (tokens.length === 1) return true;
+    return false;
+}
+
+function estimateDiseaseSpecificity(disease = "", message = "", previousFrame = {}) {
+    const normalizedDisease = normalizeDiseaseTopic(disease);
+    if (!normalizedDisease) return 0;
+
+    let score = isBroadDiseaseTopic(normalizedDisease) ? 0.25 : 0.55;
+    if (diseaseTokens(normalizedDisease).length >= 2) {
+        score += 0.15;
+    }
+
+    const evidenceText = normalizeText([
+        message || "",
+        previousFrame.intent || "",
+        previousFrame.stage || previousFrame.anchors?.stage || "",
+        previousFrame.pdl1 || previousFrame.anchors?.pdl1 || "",
+        previousFrame.location || ""
+    ].join(" "));
+    if (/(stage|pd[-\s]?l1|egfr|alk|post[-\s]?durvalumab|post[-\s]?chemoradiation|surveillance|metastatic|recurrent|resectable|adenocarcinoma|wearing[-\s]?off|tremor[-\s]?dominant|hoehn|yahr)/.test(evidenceText)) {
+        score += 0.2;
+    }
+
+    return Math.max(0, Math.min(1, score));
+}
+
+function followupFocusPhrase(value = "") {
+    const normalized = normalizeText(value);
+    if (normalized.includes("prevalence")) return "prevalence rate";
+    if (normalized.includes("intervention")) return "treatment intervention";
+    if (normalized.includes("treatment") || normalized.includes("care") || normalized.includes("guidance")) return "treatment guidance";
+    return "clinical question";
 }
 
 function sameDiseaseTopic(left = "", right = "") {
@@ -34,14 +116,17 @@ function sameDiseaseTopic(left = "", right = "") {
 }
 
 function currentDiseaseTopic(intent = {}, previousMemory = {}) {
-    // Only treat the current turn's disease as the topic anchor.
-    // Previous memory is used later for follow-up reconstruction, not for deciding whether the topic shifted.
-    return normalizeDiseaseTopic(intent.disease || "");
+    const current = normalizeDiseaseTopic(intent.disease || "");
+    if (current) return current;
+    return normalizeDiseaseTopic(previousMemory.activeCaseFrame?.disease || "");
 }
 
 function hasTopicShift(message = "", intent = {}, previousMemory = {}) {
     const currentTopic = currentDiseaseTopic(intent, previousMemory);
     const previousTopic = normalizeDiseaseTopic(
+        previousMemory.activeCaseFrame?.disease
+        || ""
+    ) || normalizeDiseaseTopic(
         previousMemory.lastQueryFacets?.disease
         || ""
     );
@@ -258,6 +343,79 @@ function getLastTurnContext(turns = [], previousMemory = {}) {
     return { lastTurnIntent, lastTurnMessage };
 }
 
+function buildConversationFrame({ message = "", intent = {}, previousMemory = {}, turns = [] } = {}) {
+    const normalizedMessage = normalizeText(message);
+    const previousFrame = previousMemory.activeCaseFrame || {};
+    const explicitDisease = normalizeDiseaseTopic(intent.disease || "");
+    const previousDisease = normalizeDiseaseTopic(
+        previousFrame.disease
+        || previousMemory.lastQueryFacets?.disease
+        || previousMemory.conditions?.slice(-1)[0]
+        || ""
+    );
+    const disease = explicitDisease || previousDisease;
+    const previousLocation = normalizeText(previousFrame.location || previousMemory.lastQueryFacets?.location || "");
+    const currentLocation = normalizeText(intent.location?.normalized || previousLocation || "");
+    const locationChanged = !!currentLocation && !!previousLocation && currentLocation !== previousLocation;
+    const followupPhrase = /^(what about|how about|and |what of|in |for |how does|is there|recheck|rechek|explain|elaborate)/.test(normalizedMessage);
+    const explicitDiseaseShift = !!explicitDisease && !!previousDisease && !sameDiseaseTopic(explicitDisease, previousDisease);
+    const anchors = extractFrameAnchors([normalizedMessage, intent.intent || "", previousFrame.intent || ""].join(" "));
+    const specificity = estimateDiseaseSpecificity(disease, normalizedMessage, {
+        ...previousFrame,
+        ...anchors,
+        location: currentLocation
+    });
+    const isBroad = specificity < 0.45 || isBroadDiseaseTopic(disease);
+    const relation = explicitDiseaseShift
+        ? "new_disease"
+        : (followupPhrase && locationChanged ? "location_refinement" : (followupPhrase ? "same_topic" : "root"));
+    const clarifyNeeded = relation === "location_refinement" && isBroad && !anchors.stage && !anchors.pdl1 && !anchors.postCrt && !anchors.postDurvalumab && !anchors.surveillance;
+    const retrievalMode = relation === "location_refinement" && !clarifyNeeded
+        ? (previousFrame.retrievalMode || intent.retrievalMode || "clinical_guidance")
+        : (intent.retrievalMode || previousFrame.retrievalMode || "clinical_guidance");
+    const queryIntent = relation === "location_refinement" && !clarifyNeeded
+        ? followupFocusPhrase(previousMemory.lastAnswerFocus || previousFrame.lastAnswerFocus || previousMemory.lastQueryFacets?.retrievalMode || intent.intent || "")
+        : (intent.intent || previousFrame.intent || "");
+    const queryDisease = disease || previousDisease || "";
+    const query = cleanQuery([
+        queryDisease,
+        queryIntent,
+        currentLocation || previousLocation || ""
+    ].filter(Boolean).join(" "));
+
+    return {
+        disease: queryDisease,
+        previousDisease,
+        location: currentLocation || previousLocation || "",
+        previousLocation,
+        intent: queryIntent,
+        retrievalMode,
+        specificity,
+        isBroad,
+        relation,
+        clarifyNeeded,
+        clarifyPrompt: clarifyNeeded
+            ? `Which ${normalizeDiseaseTopic(queryDisease || previousDisease || "condition")} should I keep focused on? If you want, I can keep it general, but a specific disease type will help me avoid drifting to the wrong evidence.`
+            : "",
+        query,
+        stage: anchors.stage,
+        pdl1: anchors.pdl1,
+        postCrt: anchors.postCrt,
+        postDurvalumab: anchors.postDurvalumab,
+        surveillance: anchors.surveillance,
+        anchors,
+        intentOverrides: clarifyNeeded
+            ? {}
+            : {
+                disease: queryDisease,
+                location: currentLocation || previousLocation ? { ...(intent.location || {}), normalized: currentLocation || previousLocation || "" } : intent.location,
+                intent: queryIntent,
+                retrievalMode
+            },
+        frameSource: relation === "location_refinement" ? "location_refinement" : (explicitDiseaseShift ? "disease_shift" : "current_turn")
+    };
+}
+
 async function classifyIntentAttachmentWithLLM({ message, intent, previousMemory, turns }) {
     const { lastTurnIntent, lastTurnMessage } = getLastTurnContext(turns, previousMemory);
     const currentRootIntent = String(
@@ -428,6 +586,7 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
     const constraint = populationConstraint(message);
     const age = ageConstraint(message);
     const reconstructedRootQuery = reconstructQuery(intent, previousMemory, constraint);
+    const conversationFrame = buildConversationFrame({ message, intent, previousMemory, turns });
 
     if (topicShift) {
         const freshQuery = cleanQuery([
@@ -469,7 +628,52 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
                 query: "",
                 confidence: 0
             },
-            forceOutOfScope: false
+            forceOutOfScope: false,
+            frame: conversationFrame,
+            clarifyNeeded: false
+        };
+    }
+
+    if (conversationFrame.clarifyNeeded) {
+        return {
+            isFollowup: true,
+            reconstructedQuery: "",
+            constraint: constraint?.label || "",
+            ageConstraint: age,
+            shouldRefetch: false,
+            followupDecisionReason: "conversation_frame_clarify",
+            reuseReason: "conversation_frame_clarify",
+            reuseStats: {
+                poolCount: pool.length,
+                matchedCount: 0,
+                coverageScore: 0
+            },
+            reusedEvidence: [],
+            fetchIntent: {
+                ...intent,
+                intent: conversationFrame.intent || intent.intent || "",
+                retrievalQuery: conversationFrame.query || intent.intent || "",
+                retrievalMode: conversationFrame.retrievalMode || intent.retrievalMode || "clinical_guidance"
+            },
+            expansion: {
+                used: false,
+                reason: "conversation_frame_clarify",
+                fallbackUsed: false,
+                expandedQuery: "",
+                keywords: extractMedicalIntentTerms(message)
+            },
+            attachment: {
+                enabled: false,
+                reason: "conversation_frame_clarify",
+                attachment: "root",
+                intent: conversationFrame.intent || "",
+                query: conversationFrame.query || "",
+                confidence: 0
+            },
+            forceOutOfScope: false,
+            frame: conversationFrame,
+            clarifyNeeded: true,
+            clarifyPrompt: conversationFrame.clarifyPrompt
         };
     }
 
@@ -482,23 +686,58 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
         const { refined, matchedCount, coverageScore } = refineEvidencePool(pool, constraint, intent);
         const minMatchedForReuse = Number(process.env.FOLLOWUP_REUSE_MIN_MATCHED || 5);
         const hardRefetchByMatchCount = matchedCount <= (minMatchedForReuse - 1);
-        const shouldRefetch = (reasoningHead.should_refetch !== false) || hardRefetchByMatchCount || topicShift;
+        const locationRefinement = conversationFrame.relation === "location_refinement" && !conversationFrame.clarifyNeeded;
+        const shouldRefetch = (reasoningHead.should_refetch !== false) || hardRefetchByMatchCount || topicShift || locationRefinement;
+        const attachment = (() => {
+            const base = {
+                enabled: true,
+                reason: reasoningHead.reason || "ok",
+                attachment: reasoningHead.attachment || "root",
+                intent: reasoningHead.intent || "",
+                query: reconstructedQuery,
+                confidence: Number(reasoningHead.confidence || 0),
+                explanation: reasoningHead.explanation || "",
+                provider: reasoningHead.provider || "",
+                model: reasoningHead.model || ""
+            };
+            if (locationRefinement && base.attachment === "new_subintent") {
+                return {
+                    ...base,
+                    attachment: "previous_turn",
+                    reason: `${base.reason || "ok"}|conversation_frame_location_refinement`
+                };
+            }
+            return base;
+        })();
 
         const fetchIntent = {
             ...intent,
-            intent: reconstructedQuery || intent.intent,
-            retrievalQuery: reconstructedQuery || intent.intent
+            intent: locationRefinement && conversationFrame.intent
+                ? conversationFrame.intent
+                : (reconstructedQuery || intent.intent),
+            retrievalQuery: locationRefinement && conversationFrame.query
+                ? conversationFrame.query
+                : (reconstructedQuery || intent.intent),
+            retrievalMode: locationRefinement
+                ? (conversationFrame.retrievalMode || intent.retrievalMode || "clinical_guidance")
+                : (intent.retrievalMode || "clinical_guidance")
         };
 
         return {
             isFollowup,
-            reconstructedQuery,
+            reconstructedQuery: locationRefinement ? conversationFrame.query : reconstructedQuery,
             constraint: constraint?.label || "",
             ageConstraint: age,
             shouldRefetch,
-            followupDecisionReason: "unified_reasoning_head",
+            followupDecisionReason: locationRefinement
+                ? "conversation_frame_location_refinement"
+                : "unified_reasoning_head",
             reuseReason: shouldRefetch
-                ? (topicShift ? "topic_shift_new_root" : (pool.length ? "reasoning_head_refetch" : "reasoning_head_empty_refetch"))
+                ? (topicShift
+                    ? "topic_shift_new_root"
+                    : (locationRefinement
+                        ? "conversation_frame_location_refinement"
+                        : (pool.length ? "reasoning_head_refetch" : "reasoning_head_empty_refetch")))
                 : "reasoning_head_reuse",
             reuseStats: {
                 poolCount: pool.length,
@@ -509,23 +748,15 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
             fetchIntent,
             expansion: {
                 used: false,
-                reason: "covered_by_reasoning_head",
+                reason: locationRefinement ? "conversation_frame_location_refinement" : "covered_by_reasoning_head",
                 fallbackUsed: false,
                 expandedQuery: "",
                 keywords: extractMedicalIntentTerms(message)
             },
-            attachment: {
-                enabled: true,
-                reason: reasoningHead.reason || "ok",
-                attachment: reasoningHead.attachment || "root",
-                intent: reasoningHead.intent || "",
-                query: reconstructedQuery,
-                confidence: Number(reasoningHead.confidence || 0),
-                explanation: reasoningHead.explanation || "",
-                provider: reasoningHead.provider || "",
-                model: reasoningHead.model || ""
-            },
-            forceOutOfScope: reasoningHead.attachment === "out_of_scope" && !isLikelyMedicalFollowup(message, intent.disease || previousMemory.lastQueryFacets?.disease || "")
+            attachment,
+            forceOutOfScope: reasoningHead.attachment === "out_of_scope" && !isLikelyMedicalFollowup(message, intent.disease || previousMemory.lastQueryFacets?.disease || ""),
+            frame: conversationFrame,
+            clarifyNeeded: false
         };
     }
 
@@ -555,7 +786,9 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
                 query: "",
                 confidence: 0
             },
-            forceOutOfScope: false
+            forceOutOfScope: false,
+            frame: conversationFrame,
+            clarifyNeeded: false
         };
     }
 
@@ -655,7 +888,9 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
                 keywords: []
             },
             attachment: attachmentMeta,
-            forceOutOfScope: true
+            forceOutOfScope: true,
+            frame: conversationFrame,
+            clarifyNeeded: false
         };
         }
     }
@@ -748,11 +983,14 @@ async function planFollowupReuse({ message, intent, previousMemory, turns, reaso
         fetchIntent,
         expansion: expansionMeta,
         attachment: attachmentMeta,
-        forceOutOfScope: false
+        forceOutOfScope: false,
+        frame: conversationFrame,
+        clarifyNeeded: false
     };
 }
 
 module.exports = {
     planFollowupReuse,
-    mergeEvidencePools
+    mergeEvidencePools,
+    buildConversationFrame
 };
