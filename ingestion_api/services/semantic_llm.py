@@ -36,6 +36,12 @@ def _extract_json_object(text: str) -> dict[str, Any]:
     return {}
 
 
+def _unwrap_code_fence(text: str) -> str:
+    candidate = text.strip()
+    match = re.match(r"^```(?:json)?\s*([\s\S]*?)\s*```$", candidate, re.IGNORECASE)
+    return match.group(1).strip() if match else candidate
+
+
 def _get_client(timeout_sec: float):
     provider = os.getenv("LLM_CHAT_PROVIDER", "huggingface").strip().lower()
     if provider == "groq":
@@ -483,7 +489,7 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
                 for key in ("direct_answer", "supporting_explanation", "answer")
             ) or bool(candidate.get("claims")) or bool(candidate.get("evidence_points"))
             if not has_signal and raw_content:
-                candidate["answer"] = raw_content
+                candidate["_raw_content"] = raw_content
                 has_signal = True
             if not has_signal:
                 raise ValueError("no_structured_signal")
@@ -538,8 +544,24 @@ def synthesize_tiered(payload: dict[str, Any]) -> dict[str, Any]:
             [citation for claim in claims for citation in claim.get("citations", [])]
         )
 
-    direct_answer = _first_non_empty(parsed, ["direct_answer", "directAnswer", "directanswer", "answer"])
+    raw_content = _unwrap_code_fence(str(parsed.get("_raw_content", "")).strip())
+    direct_answer = _first_non_empty(parsed, ["direct_answer", "directAnswer", "directanswer"])
     supporting_explanation = _first_non_empty(parsed, ["supporting_explanation", "supportingExplanation", "support", "explanation"])
+    if not direct_answer and raw_content:
+        raw_parsed = _extract_json_object(raw_content)
+        if raw_parsed:
+            direct_answer = _first_non_empty(raw_parsed, ["direct_answer", "directAnswer", "directanswer"])
+            supporting_explanation = supporting_explanation or _first_non_empty(raw_parsed, ["supporting_explanation", "supportingExplanation", "support", "explanation"])
+            if not direct_answer:
+                maybe_answer = _unwrap_code_fence(str(raw_parsed.get("answer", "")).strip())
+                if maybe_answer and not maybe_answer.startswith("{") and not maybe_answer.startswith("["):
+                    direct_answer = maybe_answer
+        elif raw_content:
+            direct_answer = raw_content
+    if not direct_answer:
+        maybe_answer = _unwrap_code_fence(str(parsed.get("answer", "")).strip())
+        if maybe_answer and not maybe_answer.startswith("{") and not maybe_answer.startswith("["):
+            direct_answer = maybe_answer
     if not direct_answer and claims:
         direct_answer = claims[0].get("text", "")
         if len(claims) > 1 and not supporting_explanation:
