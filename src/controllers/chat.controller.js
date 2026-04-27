@@ -19,7 +19,7 @@ const {
 
 function looksLikeFollowupPhrase(message = "") {
     const text = String(message || "").trim().toLowerCase();
-    return /^(what about|how about|and |in |for |is there|how does|what of|recheck|rechek|explain|elaborate)/.test(text);
+    return /^(what about|how about|what are|what is|what's|what of|and |in |for |is there|how does|what does|what do|recheck|rechek|explain|elaborate)/.test(text);
 }
 
 async function processTurn({ sessionId, message, medicalContext, onStage = () => {} }) {
