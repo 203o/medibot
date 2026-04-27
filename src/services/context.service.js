@@ -2,6 +2,12 @@ function normalizeText(value) {
     return String(value || "").trim().toLowerCase().replace(/[’]/g, "'");
 }
 
+const COMMON_LOCATION_LIKE_TERMS = [
+    "usa", "united states", "canada", "uk", "united kingdom", "kenya", "south africa", "nigeria",
+    "india", "china", "boston", "chicago", "turkana", "thika", "asia", "africa", "europe",
+    "america", "americas", "latin america", "oceania", "australia", "new zealand", "middle east"
+];
+
 const MEDICAL_SIGNALS = [
     "disease", "cancer", "hiv", "malaria", "infection", "treatment", "therapy",
     "clinical", "trial", "prevalence", "incidence", "mortality", "survival",
@@ -10,6 +16,36 @@ const MEDICAL_SIGNALS = [
     "prevention", "prevent", "preventive", "prophylaxis", "screening", "risk reduction", "control measures", "public health",
     "vitamin d", "supplement", "supplementation", "treated", "treat"
 ];
+
+function isLocationLikeLabel(value = "") {
+    const text = normalizeText(value);
+    if (!text) return false;
+    return COMMON_LOCATION_LIKE_TERMS.some((item) => text === item || text.includes(item));
+}
+
+function sanitizeDiseaseLabel(value = "") {
+    const text = normalizeText(value);
+    if (!text) return "";
+    if (isLocationLikeLabel(text)) return "";
+    return text;
+}
+
+function getDiseaseAnchor(previousMemory = {}) {
+    const candidates = [
+        previousMemory?.rootCaseFrame?.disease,
+        previousMemory?.lastQueryFacets?.disease
+    ];
+    if (Array.isArray(previousMemory?.conditions)) {
+        candidates.push(...[...previousMemory.conditions].reverse());
+    }
+    for (const candidate of candidates) {
+        const text = sanitizeDiseaseLabel(candidate);
+        if (text) {
+            return text;
+        }
+    }
+    return "";
+}
 
 function hasMedicalSignals(text = "", medicalContext = {}) {
     const normalized = normalizeText(text);
@@ -226,14 +262,17 @@ function isLikelyMedicalQuery(message = "", medicalContext = {}) {
 
 function buildIntent(message, medicalContext = {}, previousMemory = {}) {
     const normalizedMessage = normalizeText(message);
-    const disease = normalizeText(medicalContext.disease);
+    const explicitDisease = sanitizeDiseaseLabel(medicalContext.disease);
+    const diseaseAnchor = getDiseaseAnchor(previousMemory);
+    const disease = explicitDisease || diseaseAnchor;
     const messageConditions = unique([
         disease,
         ...detectTerms(normalizedMessage, ["malaria", "fever", "vomiting", "dehydration"]),
     ]);
     const seedConditions = unique([
-        ...messageConditions,
-        ...(previousMemory.conditions || [])
+        disease,
+        diseaseAnchor,
+        ...messageConditions
     ]);
     const intentText = medicalContext.intent || (
         normalizedMessage.includes("trial") || normalizedMessage.includes("study")
@@ -256,7 +295,12 @@ function buildIntent(message, medicalContext = {}, previousMemory = {}) {
         normalizedMessage.includes("worse") || normalizedMessage.includes("worsening") ? "worsening_symptoms" : null,
         ...(previousMemory.riskFlags || [])
     ]);
-    const location = normalizeLocation(medicalContext.location || previousMemory.location?.normalized || "");
+    const location = normalizeLocation(
+        medicalContext.location
+        || previousMemory.rootCaseFrame?.location?.normalized
+        || previousMemory.location?.normalized
+        || ""
+    );
     const retrievalMode = inferRetrievalMode(normalizedMessage, intentText);
 
     return {

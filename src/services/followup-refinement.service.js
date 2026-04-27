@@ -17,6 +17,35 @@ function diseaseTokens(value = "") {
     return normalizeDiseaseTopic(value).split(/[^a-z0-9]+/).filter((token) => token.length > 2);
 }
 
+const COMMON_LOCATION_LIKE_TERMS = [
+    "usa", "united states", "canada", "uk", "united kingdom", "kenya", "south africa", "nigeria",
+    "india", "china", "boston", "chicago", "turkana", "thika", "asia", "africa", "europe",
+    "america", "americas", "latin america", "oceania", "australia", "new zealand", "middle east"
+];
+
+function isLocationLikeLabel(value = "") {
+    const text = normalizeText(value);
+    if (!text) return false;
+    return COMMON_LOCATION_LIKE_TERMS.some((item) => text === item || text.includes(item));
+}
+
+function getDiseaseAnchor(previousMemory = {}) {
+    const candidates = [
+        previousMemory?.rootCaseFrame?.disease,
+        previousMemory?.lastQueryFacets?.disease
+    ];
+    if (Array.isArray(previousMemory?.conditions)) {
+        candidates.push(...[...previousMemory.conditions].reverse());
+    }
+    for (const candidate of candidates) {
+        const text = normalizeDiseaseTopic(candidate || "");
+        if (!text) continue;
+        if (isLocationLikeLabel(text)) continue;
+        return text;
+    }
+    return "";
+}
+
 function sameDiseaseTopic(left = "", right = "") {
     const normalizedLeft = normalizeDiseaseTopic(left);
     const normalizedRight = normalizeDiseaseTopic(right);
@@ -41,10 +70,7 @@ function currentDiseaseTopic(intent = {}, previousMemory = {}) {
 
 function hasTopicShift(message = "", intent = {}, previousMemory = {}) {
     const currentTopic = currentDiseaseTopic(intent, previousMemory);
-    const previousTopic = normalizeDiseaseTopic(
-        previousMemory.lastQueryFacets?.disease
-        || ""
-    );
+    const previousTopic = getDiseaseAnchor(previousMemory);
     if (!currentTopic || !previousTopic) return false;
     if (sameDiseaseTopic(currentTopic, previousTopic)) return false;
 
@@ -167,8 +193,8 @@ function detectFollowupDecision(message, intent, previousMemory = {}, turns = []
 }
 
 function reconstructQuery(intent, previousMemory, constraint) {
-    const disease = normalizeDiseaseTopic(intent.disease || previousMemory.lastQueryFacets?.disease || "");
-    const location = intent.location?.normalized || previousMemory.lastQueryFacets?.location || "";
+    const disease = normalizeDiseaseTopic(intent.disease || getDiseaseAnchor(previousMemory) || "");
+    const location = intent.location?.normalized || previousMemory.rootCaseFrame?.location?.normalized || previousMemory.lastQueryFacets?.location || "";
     const focus = mapFocusToIntentText(previousMemory.lastAnswerFocus || previousMemory.lastQueryFacets?.retrievalMode || "")
         || String(previousMemory.intents?.slice(-1)[0] || "").trim();
     const population = constraint?.label || "";
@@ -263,7 +289,7 @@ async function classifyIntentAttachmentWithLLM({ message, intent, previousMemory
     const currentRootIntent = String(
         intent?.disease
         || intent?.intent
-        || previousMemory.lastQueryFacets?.disease
+        || getDiseaseAnchor(previousMemory)
         || previousMemory.intents?.slice(-1)[0]
         || ""
     ).trim();

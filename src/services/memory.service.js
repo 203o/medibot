@@ -8,6 +8,17 @@ const { store, getTurns, setTurns } = require("./stores/in-memory.store");
 function createEmptyMemory(sessionId) {
     return {
         sessionId,
+        rootCaseFrame: {
+            disease: "",
+            intent: "",
+            location: {
+                raw: "",
+                normalized: "",
+                tokens: []
+            },
+            retrievalMode: "",
+            establishedAt: ""
+        },
         conditions: [],
         intents: [],
         symptoms: [],

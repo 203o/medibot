@@ -641,8 +641,22 @@ function buildUpdatedMemory(previousMemory, intent, answerPayload, rankedEvidenc
         lastAnswerFocus = "treatment";
     }
 
+    const previousRoot = previousMemory.rootCaseFrame || {};
+    const rootCaseFrame = previousRoot.disease
+        ? previousRoot
+        : (intent.disease
+            ? {
+                disease: intent.disease,
+                intent: intent.intent || "",
+                location: intent.location || { raw: "", normalized: "", tokens: [] },
+                retrievalMode: intent.retrievalMode || "",
+                establishedAt: new Date().toISOString()
+            }
+            : previousRoot);
+
     return {
         sessionId: previousMemory.sessionId,
+        rootCaseFrame,
         conditions: unique([...(previousMemory.conditions || []), ...intent.conditions]),
         intents: unique([...(previousMemory.intents || []), intent.intent]),
         symptoms: unique([...(previousMemory.symptoms || []), ...intent.symptoms]),

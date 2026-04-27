@@ -6,6 +6,17 @@ if (mongoose) {
     const medicalMemorySchema = new mongoose.Schema(
         {
             sessionId: { type: String, required: true, unique: true, index: true },
+            rootCaseFrame: {
+                disease: { type: String, default: "" },
+                intent: { type: String, default: "" },
+                location: {
+                    raw: { type: String, default: "" },
+                    normalized: { type: String, default: "" },
+                    tokens: { type: [String], default: [] }
+                },
+                retrievalMode: { type: String, default: "" },
+                establishedAt: { type: String, default: "" }
+            },
             conditions: { type: [String], default: [] },
             intents: { type: [String], default: [] },
             symptoms: { type: [String], default: [] },

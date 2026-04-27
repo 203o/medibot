@@ -82,6 +82,7 @@ async function processTurn({ sessionId, message, medicalContext, onStage = () =>
                 ]
             },
             memory: {
+                rootCaseFrame: bundle.memory?.rootCaseFrame || { disease: "", intent: "", location: { raw: "", normalized: "", tokens: [] }, retrievalMode: "", establishedAt: "" },
                 conditions: bundle.memory?.conditions || [],
                 intents: bundle.memory?.intents || [],
                 symptoms: bundle.memory?.symptoms || [],
@@ -219,6 +220,7 @@ async function processTurn({ sessionId, message, medicalContext, onStage = () =>
                 ]
             },
             memory: {
+                rootCaseFrame: bundle.memory?.rootCaseFrame || { disease: "", intent: "", location: { raw: "", normalized: "", tokens: [] }, retrievalMode: "", establishedAt: "" },
                 conditions: bundle.memory?.conditions || [],
                 intents: bundle.memory?.intents || [],
                 symptoms: bundle.memory?.symptoms || [],

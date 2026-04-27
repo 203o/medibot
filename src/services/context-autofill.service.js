@@ -13,6 +13,14 @@ function normalizeText(value = "") {
     return String(value || "").trim();
 }
 
+const COMMON_LOCATION_LIKE_TERMS = [
+    "usa", "united states", "canada", "uk", "united kingdom", "kenya", "south africa", "nigeria",
+    "india", "china", "boston", "chicago", "turkana", "thika", "asia", "africa", "europe",
+    "america", "americas", "latin america", "oceania", "australia", "new zealand", "middle east"
+];
+
+const FOLLOWUP_PREFIX_REGEX = /^(what about|how about|and |what of|in |for |how does|how do|does it|do they|does that|is there|recheck|rechek|explain|elaborate)\b/;
+
 function heuristicDisease(message = "") {
     const text = String(message || "").toLowerCase().replace(/[’]/g, "'");
     const matches = [
@@ -36,12 +44,38 @@ function heuristicDisease(message = "") {
 
 function heuristicLocation(message = "") {
     const text = String(message || "").toLowerCase();
-    const common = [
-        "usa", "united states", "canada", "uk", "united kingdom", "kenya", "south africa", "nigeria",
-        "india", "china", "boston", "chicago", "turkana", "thika"
-    ];
-    const found = common.find((item) => text.includes(item));
+    const found = COMMON_LOCATION_LIKE_TERMS.find((item) => text.includes(item));
     return found || "";
+}
+
+function isLocationLikeLabel(value = "") {
+    const text = String(value || "").toLowerCase().trim();
+    if (!text) return false;
+    return COMMON_LOCATION_LIKE_TERMS.some((item) => text === item || text.includes(item));
+}
+
+function isFollowupLikeMessage(message = "") {
+    const text = normalizeText(message).toLowerCase();
+    if (!text) return false;
+    return FOLLOWUP_PREFIX_REGEX.test(text) || text.split(/\s+/).filter(Boolean).length <= 6;
+}
+
+function getDiseaseAnchor(previousMemory = {}) {
+    const candidates = [
+        previousMemory?.rootCaseFrame?.disease,
+        previousMemory?.lastQueryFacets?.disease
+    ];
+    if (Array.isArray(previousMemory?.conditions)) {
+        candidates.push(...[...previousMemory.conditions].reverse());
+    }
+    for (const candidate of candidates) {
+        const text = normalizeText(candidate);
+        if (!text) continue;
+        if (heuristicLocation(text) || isLocationLikeLabel(text)) continue;
+        if (heuristicDisease(text)) return heuristicDisease(text);
+        if (!isGenericDiseaseLabel(text)) return text;
+    }
+    return "";
 }
 
 function fallbackTopicDisease(message = "") {
@@ -56,6 +90,7 @@ function fallbackTopicDisease(message = "") {
 function isGenericDiseaseLabel(value = "") {
     const text = String(value || "").toLowerCase().trim();
     if (!text) return true;
+    if (heuristicLocation(text) || isLocationLikeLabel(text)) return true;
     const knownDiseaseSignals = [
         "cancer", "hiv", "malaria", "diabetes", "parkinson", "tuberculosis", "asthma", "stroke",
         "infection", "nsclc", "carcinoma", "tumor", "tumour"
@@ -106,6 +141,8 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
     const initialDisease = normalizeText(medicalContext?.disease);
     const initialLocation = normalizeText(medicalContext?.location);
     const intent = normalizeText(medicalContext?.intent) || normalizeText(previousMemory?.lastQueryFacets?.retrievalMode);
+    const diseaseAnchor = getDiseaseAnchor(previousMemory);
+    const followupLike = isFollowupLikeMessage(message);
 
     let disease = initialDisease || heuristicDisease(message);
     let location = initialLocation || heuristicLocation(message);
@@ -124,6 +161,17 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
         autofillSource = autofillSource === "user" ? "heuristic" : autofillSource;
         confidence = Math.max(confidence, 0.65);
         reason = reason ? `${reason}|heuristic_location` : "heuristic_location";
+    }
+
+    if (disease && isGenericDiseaseLabel(disease)) {
+        disease = "";
+    }
+
+    if (!disease && diseaseAnchor && (followupLike || location || initialLocation || initialDisease || previousMemory?.lastAnswerSummary)) {
+        disease = diseaseAnchor;
+        autofillSource = autofillSource === "user" ? "heuristic" : autofillSource;
+        confidence = Math.max(confidence, 0.75);
+        reason = reason ? `${reason}|root_disease_preserved` : "root_disease_preserved";
     }
 
     const needsLlm = !disease || !location;
@@ -148,7 +196,9 @@ async function autofillMedicalContext({ message = "", medicalContext = {}, previ
     }
 
     if (!disease) {
-        disease = fallbackTopicDisease(message);
+        if (!diseaseAnchor) {
+            disease = fallbackTopicDisease(message);
+        }
         if (disease) {
             autofillSource = autofillSource === "user" ? "heuristic" : autofillSource;
             confidence = Math.max(confidence, 0.4);
