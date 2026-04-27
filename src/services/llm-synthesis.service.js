@@ -258,8 +258,8 @@ function buildNoUsableFallback(context) {
         .slice(0, 3);
 
     const overviewLine = headlineItems.length
-        ? `Evidence snapshot:\n${headlineItems.map((item) => `- ${item.title || item.summary} [${item.id}]`).join("\n")}`
-        : "Available studies are related but not specific enough to produce a high-confidence claim.";
+        ? headlineItems.map((item) => `- ${item.title || item.summary} [${item.id}]`).join("\n")
+        : "";
 
     const query = String(context?.question || "").toLowerCase();
     const condition = resolveConditionLabel(context);
@@ -273,8 +273,8 @@ function buildNoUsableFallback(context) {
         : "The studies are related, but they do not resolve the question cleanly.";
 
     const answer = dedupeCaution([
-        `Plain-language takeaway: ${direct}`,
-        `Why this matters: ${support}`,
+        direct,
+        support,
         overviewLine,
         "Evidence is partial; interpret cautiously.",
         citationsText
@@ -311,24 +311,22 @@ function buildDetailedAnswer(payload, direct, support, claimDerived, warning, ci
         : {};
 
     const sections = [];
-    const lead = direct || claimDerived;
-    if (lead) sections.push(labelSection("Plain-language takeaway:", lead));
-    if (support) sections.push(labelSection("Why this matters:", support));
+    const narrative = String(payload?.answer || "").trim() || [direct, support].filter(Boolean).join(" ").trim() || claimDerived;
+    if (narrative) sections.push(narrative);
     if (evidencePoints.length) {
-        sections.push(`Evidence snapshot:\n${evidencePoints.map((item) => `- ${item}`).join("\n")}`);
+        sections.push(evidencePoints.map((item) => `- ${item}`).join("\n"));
     }
-
-    const spotlightParts = [];
-    if (spotlight.id) spotlightParts.push(`ID: ${spotlight.id}`);
-    if (spotlight.title) spotlightParts.push(`Title: ${spotlight.title}`);
-    if (spotlight.population) spotlightParts.push(`Population: ${spotlight.population}`);
-    if (spotlight.key_finding) spotlightParts.push(`Key finding: ${spotlight.key_finding}`);
-    if (spotlight.limitation) spotlightParts.push(`Limitation: ${spotlight.limitation}`);
-    if (spotlightParts.length) {
-        sections.push(`Study spotlight: ${spotlightParts.join(" | ")}`);
+    if (spotlight.id || spotlight.title || spotlight.population || spotlight.key_finding || spotlight.limitation) {
+        const spotlightParts = [];
+        if (spotlight.id) spotlightParts.push(`ID ${spotlight.id}`);
+        if (spotlight.title) spotlightParts.push(spotlight.title);
+        if (spotlight.population) spotlightParts.push(`population ${spotlight.population}`);
+        if (spotlight.key_finding) spotlightParts.push(`key finding ${spotlight.key_finding}`);
+        if (spotlight.limitation) spotlightParts.push(`limitation ${spotlight.limitation}`);
+        sections.push(`One useful study to keep in mind is ${spotlightParts.join(" | ")}.`);
     }
     if (uncertainties.length) {
-        sections.push(`Remaining uncertainty: ${uncertainties.join(" | ")}`);
+        sections.push(`One remaining uncertainty is ${uncertainties.join(" | ")}.`);
     }
 
     const base = sections.filter(Boolean).join("\n\n").trim();

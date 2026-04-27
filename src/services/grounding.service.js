@@ -194,9 +194,9 @@ function buildPlainLanguageLead(intent, answerEvidence, supplementalEvidence = [
     const sentences = [];
 
     if (treatmentQuestion || latestQuestion) {
-        sentences.push("In plain language, the evidence points to several treatment directions rather than one universal latest treatment.");
+        sentences.push(`Current evidence suggests the treatment picture for ${diseaseLabel} is still evolving rather than settled around one universal latest option.`);
     } else {
-        sentences.push("In plain language, the evidence points to a pattern of findings rather than a single paper-level conclusion.");
+        sentences.push("The retrieved evidence points to a pattern of findings rather than a single paper-level conclusion.");
     }
 
     if (themes.length) {
@@ -219,11 +219,11 @@ function buildPlainLanguageLead(intent, answerEvidence, supplementalEvidence = [
 function buildGroundedClaims(primaryEvidence, supportingEvidence) {
     const primaryClaims = primaryEvidence.slice(0, 2).map((item, index) => {
         const studyLabel = item.studyType ? ` (${item.studyType})` : "";
-        return `${index === 0 ? "Key supporting source" : "Additional supporting source"}${studyLabel}: ${pickEvidenceStatement(item)}`;
+        return `${pickEvidenceStatement(item)}${studyLabel}`;
     });
     const supportingClaims = supportingEvidence.slice(0, 1).map((item) => {
         const studyLabel = item.studyType ? ` (${item.studyType})` : "";
-        return `Supplemental source${studyLabel}: ${pickEvidenceStatement(item)}`;
+        return `${pickEvidenceStatement(item)}${studyLabel}`;
     });
     return [...primaryClaims, ...supportingClaims];
 }
@@ -250,16 +250,12 @@ function buildSupplement(intent, supplementalEvidence) {
     }
 
     const supplementalSource = supplementalEvidence[0].source;
-    const sourceLabel = supplementalSource === "clinicaltrials"
-        ? "A related clinical trial signal suggests"
-        : "Published background evidence suggests";
-
     const statements = supplementalEvidence.slice(0, 2).map((item) => pickEvidenceStatement(item)).join(" ");
     const caution = supplementalSource === "clinicaltrials" && (intent.retrievalMode === "ongoing_studies" || intent.retrievalMode === "intervention_landscape")
         ? " Trial summaries may describe active investigations rather than established benefit."
         : "";
 
-    return `${sourceLabel}: ${statements}${caution}`.trim();
+    return `${statements}${caution}`.trim();
 }
 
 function parseCaseAnchorsFromIntent(intent = {}) {
@@ -357,19 +353,12 @@ function buildCaseResearchAnswer(intent, rankedEvidence = []) {
         anchors.postDurvalumab ? "post-durvalumab" : "",
         anchors.surveillance ? "surveillance phase" : ""
     ].filter(Boolean);
-    const anchorLine = anchorParts.length
-        ? `Case anchors used: ${anchorParts.join(", ")}.`
-        : "";
     if (!top.length) {
         return [
-            `Research discovery summary: The current retrieval did not surface clearly case-matched evidence for ${conditionLabel}.`,
-            anchorLine,
-            "Research landscape:",
-            "- The available studies in this turn are broad background evidence rather than a clean match to the case.",
-            "Evidence gaps and uncertainty:",
-            `- Directly case-matched evidence for ${conditionLabel} remains limited across the retrieved set.`,
-            "- Study populations and endpoints vary, so transportability to this exact profile is uncertain.",
-            "This is a research-focused summary, not clinical advice."
+            `The current retrieval did not surface clearly case-matched evidence for ${conditionLabel}.`,
+            anchorParts.length ? `The current case anchors are ${anchorParts.join(", ")}.` : "",
+            `The available studies are broader background evidence, so the exact profile is still under-represented.`,
+            "This is research context rather than direct clinical advice."
         ]
             .filter(Boolean)
             .join("\n")
@@ -377,45 +366,38 @@ function buildCaseResearchAnswer(intent, rankedEvidence = []) {
     }
 
     const evidenceOverview = top
-        .map((item) => `- ${item.title || "Untitled source"} [${item.id}]`)
-        .join("\n");
+        .slice(0, 3)
+        .map((item) => `${item.title || "Untitled source"} [${item.id}]`)
+        .join("; ");
     const spotlight = top[0];
-    const spotlightParts = [
-        spotlight?.id ? `- ID: ${spotlight.id}` : "",
-        spotlight?.title ? `- Title: ${spotlight.title}` : "",
-        spotlight?.studyType ? `- Type: ${spotlight.studyType}` : "",
-        spotlight?.year ? `- Year: ${spotlight.year}` : ""
-    ].filter(Boolean).join("\n");
     const hasTrials = top.some((item) => item.source === "clinicaltrials");
     const hasPub = top.some((item) => item.source === "pubmed");
-    const relevanceBullets = [
-        anchors.stage ? `- Stage alignment: evidence includes ${anchors.stage} or closely related disease settings.` : "",
-        anchors.pdl1 ? `- Biomarker alignment: evidence reflects biomarker-aware strategies (${anchors.pdl1}).` : "",
-        anchors.postDurvalumab || anchors.postCrt
-            ? `- Prior-therapy alignment: evidence is interpreted in a ${[anchors.postCrt ? "post-chemoradiation" : "", anchors.postDurvalumab ? "post-durvalumab" : ""].filter(Boolean).join(" + ")} context.`
-            : "",
-        anchors.surveillance ? "- Current-phase alignment: surveillance-phase implications were prioritized in ranking." : "",
-        hasTrials ? "- Ongoing-study signal: clinical trial registry evidence is available for forward-looking options." : "",
-        hasPub ? "- Published-evidence signal: peer-reviewed literature anchors the main interpretation." : ""
-    ].filter(Boolean).slice(0, 4).join("\n");
-    const gaps = [
-        `- Directly case-matched evidence for ${conditionLabel} remains limited across the retrieved set.`,
-        "- Study populations and endpoints vary, so transportability to this exact profile is uncertain.",
-        hasTrials ? "- Several findings are investigational and should be interpreted as research direction, not confirmed standard-of-care." : ""
-    ].filter(Boolean).join("\n");
+    const contextParts = [
+        anchors.stage ? `stage ${anchors.stage.replace(/^stage\s+/i, "")}` : "",
+        anchors.pdl1 ? anchors.pdl1 : "",
+        anchors.postCrt ? "post-chemoradiation" : "",
+        anchors.postDurvalumab ? "post-durvalumab" : "",
+        anchors.surveillance ? "surveillance phase" : ""
+    ].filter(Boolean);
+    const contextLine = contextParts.length
+        ? `The case aligns most closely with ${contextParts.join(", ")}.`
+        : "";
+    const relevanceLine = hasPub || hasTrials
+        ? `The main signal comes from ${hasPub ? "peer-reviewed literature" : ""}${hasPub && hasTrials ? " and " : ""}${hasTrials ? "emerging trial evidence" : ""}.`
+        : "";
+    const gapLine = `The main limitation is that directly case-matched evidence remains limited, and some retrieved studies focus on related stages or treatment settings.`;
+    const trialLine = hasTrials
+        ? "Some of the retrieved material comes from ongoing trials, so it should be treated as emerging evidence rather than established standard-of-care."
+        : "";
 
     return [
-        `Research discovery summary: Retrieved evidence for this patient profile points to active treatment-strategy research in ${conditionLabel}, with case-matched applicability depending on disease stage and clinical setting.`,
-        anchorLine,
-        "Research landscape:",
-        evidenceOverview,
-        "Study spotlight:",
-        spotlightParts,
-        "Why relevant to this patient:",
-        relevanceBullets,
-        "Evidence gaps and uncertainty:",
-        gaps,
-        "This is a research-focused summary, not clinical advice.",
+        `For ${conditionLabel}, the retrieved evidence suggests an evolving research picture rather than a single settled answer.`,
+        contextLine,
+        evidenceOverview ? `The most relevant studies include ${evidenceOverview}.` : "",
+        spotlight?.title ? `A useful anchor study is ${spotlight.title}${spotlight?.year ? ` (${spotlight.year})` : ""}${spotlight?.id ? ` [${spotlight.id}]` : ""}.` : "",
+        relevanceLine,
+        gapLine,
+        trialLine,
         citations.length ? `Citations: ${citations.map((id) => `[${id}]`).join(" ")}` : ""
     ]
         .filter(Boolean)
@@ -460,31 +442,12 @@ function buildAnswer(intent, rankedEvidence, previousMemory, llmSynthesis = null
         ? String(llmSynthesis.answer || "").trim()
         : "";
     if (answerEvidence.length > 0) {
-        const opener = intent.retrievalMode === "ongoing_studies"
-            ? `For ${intent.disease || "this topic"}, here is what the current studies are pointing to:`
-            : intent.retrievalMode === "intervention_landscape"
-                ? `For ${intent.disease || "this topic"}, here is the treatment landscape:`
-                : intent.disease
-                    ? `For ${intent.disease}, here is the practical takeaway:`
-                    : "Here is the practical takeaway:";
         const plainLanguageLead = buildPlainLanguageLead(intent, answerEvidence, supplementalLane);
-        const locationLine = intent.location.normalized
-            ? `Location context used: ${intent.location.normalized}.`
-            : "";
-        const previousLine = previousMemory.lastAnswerSummary
-            ? "This answer also preserves the previous validated context."
-            : "";
-        const conflictLine = detectConflict(answerEvidence)
-            ? "The available top-tier evidence is mixed, so the answer should be interpreted cautiously."
-            : "";
         const claimLines = buildGroundedClaims(answerEvidence, []).map((line) => `- ${line}`).join("\n");
         const deterministicSections = [
-            `${opener} ${plainLanguageLead}`.trim(),
-            locationLine,
-            previousLine,
-            conflictLine,
-            claimLines ? `Supporting evidence:\n${claimLines}` : "",
-            supplementText ? `Additional context: ${supplementText}` : ""
+            plainLanguageLead,
+            claimLines,
+            supplementText
         ].filter(Boolean);
         const deterministicAnswer = deterministicSections.join("\n").trim();
         if (llmAnswer) {
